@@ -1,0 +1,154 @@
+SOURCE URL: https://iic.mic.gov.in/assets/html/PortalFeature.html
+================================================================================
+
+IIC Portal
+Skip to main content
+IIC Portal
+To login to your IIC Institute portal go to "
+https://iic.mic.gov.in/login
+". After your login you will be at your Institute's Dashboard of your current academic year activity. To know what is present refer the "
+Dashboard - Current Academic year activity
+" document.
+Basic sections of IIC portal
+Menu collapse Button
+Menu list
+IIC ID / Institute Dashboard
+Institute Name
+Your Institute current start rating
+Profile / Logout
+Footer / Contact Us / Quick Links / Social Media Links
+Dashboard - Current academic year
+For detailed information of the topics please press their respective links
+2 Menu list
+List of Menu / Section / Features present under your IIC Institute portal.
+My Profile
+My Council
+Manage Activity
+Innovation Ambassador
+Manage Pre-Incubation / Incubation Details
+Announcement from IIC Institutes
+Notification
+Schemes / Programs for Participation
+ATL School Linkage
+e-Learning Resources
+YUKTI
+Refer Institute for IIC Registration
+Performance Card
+Suggestion
+Download
+Contact us
+Join us
+IIC Guide and Portal Manual
+2.1 My Profile
+"
+My profile
+"
+contains details of your  institute like
+Head of Institute details
+President details
+Certificates
+Reset Password
+Last login record
+My performance
+For detailed information of the topics please press their respective links
+2.2 My Council
+"
+My Council
+" consist of several sections, as a newly joined or already existing IIC institute you have to complete all details / informations that are required under those sub-sections. The list of sub-section are as follows,
+Institute Details
+Council Meeting
+Add Teaching / Non Teaching Members
+Student Members
+External Member
+Social Media
+For detailed information of the topics please press their respective links
+2.3 Manage Activity
+This section will contain all the activities you can/have to conduct for that academic year. The sub-section of "
+Manage Activity
+" is as follows,
+IIC Calendar Activity
+MIC Driven Activity
+Celebration Activity
+Self-Driven Activity
+My Activity Calendar (Academic Year)
+For detailed information of the topics please press their respective links
+2.4 Innovation Ambassador
+"
+Innovation Ambassador
+" consist of three sub-menu. They are
+IA Training
+IA Change Request
+IA Activity Progress
+For detailed information of the topics please press their respective links
+2.5 Manage Pre-Incubation / Incubation Details
+Under "
+Manage Pre-Incubation / Incubation Details
+" you can manage your Incubation / Pre Incubation centre details. The sub-section for this feature is as follows,
+Incubation Centers
+Pre Incubation Centers
+IPR/TTO Centers
+View & Edit Details
+For detailed information of the topics please press their respective links
+2.6 Announcement from IIC Institutes
+"
+Announcement from IIC Institutes
+" contains upcoming event announcements from other institutes and you can create your event announcement for other institute also.
+Announcement from IIC Institutes
+Request Announcement
+For detailed information of the topics please press their respective links
+2.7 Notification
+"
+Notification
+", this section consist of notifications from MoE's Innovation Cell (MIC).
+2.8 Schemes / Programs for Participation
+This section consist of
+Manage Mentor-Mentee Program
+Impact Lecture
+For detailed information of the topics please press their respective links
+2.9 ATL School Linkage
+ATL School Linkage, this section is used to include / choose three (3) schools from your surrounding to guide them in innovation / entrepreneurial activity / awareness.
+Choose ATL Schools
+Manage ATL Schools
+For detailed information of the topics please press their respective links
+2.10 e-Learning Resources
+This section contains sessions conducted by expert which are approved by IIC. If you unable to find and proper resource personal for conducting sessions for certain topic, you can use the video available in this section.
+e-Repository by IICs
+e-Repository by MIC
+For detailed information of the topics please press their respective links
+2.11 YUKTI
+YUKTI is the place where you can submit your ideas and get evaluated, like from to idea to startup. This page contains the following sub-sections.
+National Innovation Repository
+For detailed information of the topics please press their respective links
+2.12 Refer Institute for IIC Registration
+In "
+Refer Institute for IIC Registration
+" section you can refer some institute to join IIC, you can monitor their registration process.  For detailed information of the topics please press their respective links
+2.13 Performance Card
+This section contains your performance record for previous academic year.
+Performance Card 2019-20
+Performance Card 2020-21
+For detailed information of the topics please press their respective links
+2.14 Suggestion
+If you are facing any issues in the portal, you can report / suggest to us from this page. For more detailed information of this topics please refer "
+Suggestion
+".
+2.15 Download
+This section consist of all reports, brochures and other downloadable materials. For more detailed information of this topics please refer "
+Download
+".
+2.16 Contact us
+In this section you can find the contact details of all the co-ordinators. You can the contact details from "
+Contact Details
+"
+2.17 Join us
+To join the social media group you can find the respective links from this section. Refer "
+Join us
+" page for more details.
+2.18 IIC Guide and Portal Manual
+This is the help document, if you are have any trouble in navigating through the institute portal you can refer this document "
+Institute Portal
+"
+Created with the Personal Edition of HelpNDoc:
+Easy to use tool to create HTML Help files and Help web sites
+×
+Close

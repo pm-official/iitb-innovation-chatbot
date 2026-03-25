@@ -1,0 +1,54 @@
+Failed Downloads - Try downloading these manually:
+
+SINE_ISTI_Portal
+  URL: https://www.indiascienceandtechnology.gov.in/technologyincubators/society-innovation-and-entrepreneurship-sine
+  Reason: Connection error
+
+IITB_Research_Park_Official
+  URL: https://www.iitb.ac.in/industry/research-park
+  Reason: Connection error
+
+TIH_IoT_Foundation
+  URL: https://www.tih.iitb.ac.in/
+  Reason: Connection error
+
+TIH_ISTI_Portal
+  URL: https://www.indiascienceandtechnology.gov.in/technologyinnovationhubs/tih-foundation-iot-and-ioe
+  Reason: Connection error
+
+NCETIS_Official_Website
+  URL: https://ncetis.iitb.ac.in/
+  Reason: Connection error
+
+MeitY_Startup_Hub
+  URL: https://meitystartuphub.in
+  Reason: Connection error
+
+STPI
+  URL: https://www.stpi.in
+  Reason: Connection error
+
+AIM_ANIC
+  URL: https://aim.gov.in/atal-new-india-challenges.php
+  Reason: HTTP 404
+
+DST_INSPIRE
+  URL: https://dst.gov.in/inspire-programme
+  Reason: HTTP 404
+
+DST_Innovation_Programs
+  URL: https://dst.gov.in/scientific-programmes/innovation-programmes
+  Reason: HTTP 404
+
+IMPRINT_India
+  URL: https://imprint-india.org
+  Reason: Connection error
+
+Startup_India_IP_Facilitation
+  URL: https://www.startupindia.gov.in/content/sih/en/ip-facilitation.html
+  Reason: HTTP 404
+
+BIRAC_EYUVA
+  URL: https://birac.nic.in/e-yuva.php
+  Reason: HTTP 404
+

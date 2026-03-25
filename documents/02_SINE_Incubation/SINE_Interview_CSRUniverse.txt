@@ -1,0 +1,219 @@
+SOURCE URL: https://thecsruniverse.com/articles/decoding-startup-success-inside-sine-s-impactful-ecosystem
+================================================================================
+
+Decoding Startup Success: TheCSRUniverse Interview with Professor Santosh Gharpure, Professor-in-Charge of SINE
+Home /
+Article /
+Decoding Startup Success: Inside SINE's Impactful Ecosystem
+Decoding Startup Success: Inside SINE's Impactful Ecosystem
+By:
+Ruchika Kumar
+|
+Published:
+27-Dec-2024
+Behind every successful startup is a story of vision, dedication, and support. At
+IIT Bombay's SINE, the Society for Innovation and Entrepreneurship
+, these stories come together to create a powerful narrative of innovation and impact in India. Over two decades, SINE has set new benchmarks, from nurturing India’s first unicorn born out of an academic incubator to facilitating the country's first IPO of its kind. By leveraging its academic ecosystem, fostering collaboration, and offering a holistic support system, SINE has consistently empowered startups to address real-world challenges.
+In this conversation with
+Professor Santosh Gharpure, Professor-in-Charge of SINE
+, we delve into the institute’s unique approach to innovation. He shares how SINE has adapted to emerging trends, embraced diverse sectors from deep tech to social impact, and emphasized mentorship as a cornerstone of its ecosystem. We also explore the challenges of building sustainable businesses, SINE’s collaborative model with investors and corporates, and its vision for shaping the next wave of entrepreneurial success in India.
+Read the full interview below to explore SINE's journey and the future of innovation.
+Q. SINE has played a pivotal role in driving innovation and entrepreneurship in India for over two decades. Could you share some key milestones in your journey since its inception and explain the gaps in the entrepreneurial ecosystem you aimed to address when SINE was established?
+A.
+Since its inception in 2004, the Society for Innovation and Entrepreneurship (SINE) at IIT Bombay has been a trailblazer in driving innovation and fostering entrepreneurship in India. Over the past two decades, SINE has consistently evolved to address critical gaps in the entrepreneurial ecosystem, such as the lack of structured incubation frameworks, early-stage funding, mentorship, and sector-specific support. Here are some key milestones that illustrate its impactful journey:
+2000–2004:
+Foundational Years
+- SINE began as one of the early incubators in academia, forming a pilot model to nurture startups in the IT/ITES and ICT sectors.
+- During this time, SINE developed its foundational structure, which became a benchmark for other incubators.
+- It supported 12 startups and was formalized into a Society in 2004, setting the stage for institutionalized incubation.
+2004–2009:
+Establishing Standards and Expanding Scope:
+- SINE broadened its sectoral focus to support a diverse range of startups.
+- It incubated 21 startups and introduced structured processes, business models, and best practices, which became templates for the ecosystem.
+- SINE was recognized with the Best Incubator Award by the Department of Science and Technology, Government of India (DST) in 2009, solidifying its leadership position.
+2009–2014:
+Strengthening Support Systems:
+- With support from IIT Bombay, DST, Technology Development Board (TDB), Ministry of Electronics and Information technology (MeitY), and alumni, SINE further broadened its sectoral focus, nurturing 18 startups.
+- This period saw an increased emphasis on institutionalizing incubation practices and scaling operations.
+2014–2019:
+Sector-Specific Innovations:
+- SINE started supporting startups in newer areas such as BioTech, MedTech and Defence while incubating 84 startups.
+- New initiatives such as Plugin alliance were launched, along with grants for prototypes and entrepreneurs-in-residence (EIR).
+- The support of organizations like Department of Biotechnology Government of India (DBT) BIRAC, SAP, and Intel further diversified its offerings.
+2019–2023:
+Addressing Contemporary Challenges:
+- During the pandemic, SINE played a pivotal role with Covid-specific initiatives like CAWACH and SASACTI, while continuing to support a broad spectrum of startups.
+- It incubated 77 startups during this period
+- Recognized with the Best Incubator Award by IESA in 2020, SINE demonstrated its ability to adapt to emerging challenges and global opportunities.
+Bridging Ecosystem Gaps:
+SINE’s journey has been driven by the need to address critical gaps, including:
+- Lack of early-stage funding:
+Providing financial support through grants, partnerships, and channelling CSR spends of corporates for providing grant support for deep tech start-ups engaged in leveraging technologies in areas of national priorities.
+- Need for structured mentorship:
+Leveraging IIT Bombay’s alumni network, academic resources, and industry connections.
+- Sector-agnostic approach:
+Expanding from Information technology/IT enabled services (IT/ITES) to BioTech, MedTech, Defence, and beyond, offering incubation support for diverse sectors.
+- Scalable incubation frameworks:
+Establishing templates and processes that became benchmarks for other incubators.
+Through its innovative programs, robust support systems, and focus on nurturing impactful startups, SINE has not only driven entrepreneurship at IIT Bombay but has also set a high standard for incubation in India.
+Q. What distinguishes SINE's approach to nurturing startups from other incubators, and how do you provide support throughout the entrepreneurial journey, from ideation to scaling? Could you elaborate on the key sectors you focus on, such as technology in healthcare, agriculture, and others, and do you also engage with and support rural entrepreneurs in your ecosystem?
+A.
+SINE distinguishes itself through its unique academia-backed incubation model. By leveraging IIT Bombay's cutting-edge research, academic resources, and an extensive alumni network, we provide startups with a robust platform for growth. Being part of a multidisciplinary institute with over 15 departments and 18 centers of excellence, we maintain a sector-agnostic approach, fostering innovation across diverse industries.
+Our portfolio is well diversified with startups in different technology domains and industries with no specific focus on any particular industry/domain. SINE incubatee companies span across over 25 different industries including around 5o in the healthcare, medtech and biotech space, 12 in agritech/foodtech, 22 in cleantech and environmental sustainability, 4 in education etc.
+From ideation to scaling, SINE offers a comprehensive ecosystem that empowers entrepreneurs at every stage of their journey right from helping them register their company, draw up a founder’s agreement to market connects, to guidance on developing proof of concepts, to prototype development, to market validation and beyond. We actively engage with entrepreneurs from diverse backgrounds, integrating them into our ecosystem to ensure inclusive growth and foster innovation that addresses grassroots challenges.
+Being one of the earliest incubators in the country, our experience and expertise is unparalleled.
+Q. What criteria do you use to assess the potential of an idea, the capabilities of the team, and the alignment with market needs before bringing a startup into your ecosystem?
+A.
+We evaluate startups based on their innovative idea, strong team, market potential, and a strong IP. Our selection process involves a rigorous review of applications, followed by review of the startup by our technical and business expert panel.
+Q. As the oldest academia-backed incubator in India, how do you leverage IIT Bombay's research, academic resources, and alumni network to empower entrepreneurs and create transformative startups?
+A.
+Our startups have access to (1) IIT resources (faculty, labs) which help address any technology & engineering challenges (2) experts and mentors from a huge pool of IITB alumni (3) student talent through internship and (4) industry & international connections for funding and potential collaboration.
+Q. Could you highlight some of the most inspiring success stories that have emerged from SINE, including India’s first unicorn and the first IPO from an academia-backed incubator? What were the key factors behind their success?
+A.
+SINE is proud to have achieved numerous milestones over its 20-year journey.
+Notably, our graduate startup Gupshup made history by becoming the first company from an academia incubation ecosystem to join the prestigious unicorn club in 2021. Another pioneering startup, ideaForge, broke new ground by becoming the first drone manufacturing company to go public. Furthermore, ImmunoACT, an IIT Bombay spin-off, has revolutionized cancer treatment by developing India's first indigenous cancer therapy.
+We have several other start-ups working in the areas of sickle cell and malaria detection, anaemia, Parkinson’s disease etc. whose offerings will have broader societal impacts. Some of our start-ups are helping secure the country’s security by working in the areas of smart munitions to space technology. These achievements demonstrate SINE's commitment to fostering innovative and impactful startups that drive meaningful change.
+These inspiring success stories demonstrate the power of innovation, hard work, and strategic support. The key factors behind their success include:
+• dedication and perseverance
+• willingness to learn from mistakes and take corrective steps
+• product & customer-centric approach to problem solving
+• seek assistance (mentors, advisors etc.) whenever required
+Q. While funding is crucial, how does SINE provide value to its startups beyond financial support, such as mentorship, networking opportunities, and access to global markets?
+A.
+SINE believes in collaborative approach to supporting our startups:
+- Investors - we showcase our startups before angel investors and venture capital funds on a periodic basis through events such as Investors’ Week etc.
+- Mentoring & guidance - through mentor-in-residence and mentors; leverage the alumni network of IIT Bombay
+- Corporate partners - pilot/paid pilot and open innovation engagement, funding support under CSR etc.
+- International connects - through our overseas partners like ITRI (Taiwan), Jaxa (Japan) etc.
+- Government – Channelling funding support by way of grants and seed support
+Q. What are some of the biggest challenges startups face today in India, and how does SINE assist them in overcoming hurdles like funding, technology, market access, and setbacks, while fostering a culture that embraces learning from failure?
+A.
+Startups in India face a range of challenges, including securing funding, navigating technological advancements, accessing markets, and overcoming initial setbacks. At SINE, we address these hurdles with a holistic support framework tailored to entrepreneurs' needs.
+We provide in-depth mentorship that extends beyond technical expertise, equipping founders with critical business insights and strategic guidance. Through bootcamps and workshops, we cover key areas such as investor pitching, intellectual property management, talent acquisition and retention, and financial planning.
+In addition, the large pool of incubated start-ups foster and enable a culture of peer-to-peer learning as well.
+To enhance market access, we leverage our robust network of corporate and enterprise partners, creating opportunities for startups to engage with potential customers and scale effectively. By fostering a culture that encourages innovation and learning from failure, SINE empowers entrepreneurs to navigate challenges with resilience and drive sustainable growth. This is reflected in our success rate of 80% which is almost 4 times better than that of non-incubated start-ups.
+Q. With emerging technologies shaping the startup landscape, what cutting-edge technologies is SINE focusing on, and how do you identify high-potential startups in these fields?
+A.
+As part of a multidisciplinary institute with 15+ departments and 18+ centers of excellence, we are able to support start-ups who leverage deep technology to create products and services across an extremely wide range of sectors. Some examples of our current incubatee startups are - Haystack Analytics (genomics for clinical decisions), SustLabs (sustainable energy tech), Babblebots.ai (Voice AI for interviews), Inspecity (space technology), and Lifespark Technologies (mobility solutions for Parkinson's patients), among others in diverse domains, according to the platform.
+Q. How does SINE navigate the intersection of social impact and profitability, and encourage startups to consider the ethical implications of their innovations while ensuring they are used for the greater good?
+A.
+At SINE, we navigate the intersection of social impact and profitability by adopting a holistic approach to evaluating startups for incubation. In addition to assessing their technological innovation and intellectual property, we consider three key factors:
+1. Social Impact: How does the startup create positive change and improve lives?
+2. Economic Growth: How does the startup contribute to India's economic development?
+3. Strategic Alignment: How does the startup align with the nation's strategic values, such as the 'Atmanirbhar Bharat' initiative etc.
+To illustrate this approach, we can consider ImmunoACT, a SINE startup that developed cell and gene-based cancer immunotherapy that has reduced costs by almost 90%. This innovation not only has significant social impact but also aligns with the 'Make in India' and 'Atmanirbhar Bharat' initiatives.
+Our startups have collectively created over 10,000 job opportunities, contributing to the nation's economic growth. By prioritizing social impact, economic growth, and strategic alignment, we empower our startups to drive positive change while achieving business success.
+Q. As mentioned during your presentation, only about 20 percent of the 1,800+ entrepreneurs supported have been women. How do you view this in terms of both the progress made and the challenges that still need to be addressed?
+A.
+Out of the 1,000+ entrepreneurs we have supported, over 20% are women. While we aim to foster inclusivity in entrepreneurship, we recognize that more needs to be done to bridge the gender gap. As a positive step towards bridging the gap , under the IoE program, women founders with a connection to IIT Bombay are eligible for additional funding support of INR 15 lakhs, providing a strong boost to their entrepreneurial journey.
+Q. The entrepreneurial landscape has evolved dramatically in recent years. How do you foresee the future of entrepreneurship in India, and how is SINE adapting to stay ahead of these changes while fostering sustainable business models?
+A.
+As the entrepreneurial landscape in India continues to evolve, we envision a future where innovation and entrepreneurship will become integral to the country's growth.
+To achieve scale impact, India needs to significantly increase its startup density, from 100 startups per million population to 1,000. SINE is poised to play a pivotal role in driving this growth. Our vision is to emerge as a leading innovation and entrepreneurship hub, dedicated to democratizing entrepreneurship and providing equitable access to essential resources such as coaching, capital, and connections to customers and the broader ecosystem.
+Q. What advice would you give to young entrepreneurs looking to innovate and build successful startups in today’s competitive environment? What key qualities should they develop to thrive?
+A.
+To young entrepreneurs looking to innovate and build successful startups, we would advise focusing on novel problem statements that address real-world challenges. Avoid taking a "me-too" approach, instead, strive to create unique solutions that differentiate you from others.
+If you have an innovative idea, don't hesitate to reach out to us for support.
+At SINE, we're committed to helping early-stage startups foster and grow into a thriving venture. We'll provide the necessary guidance, resources, and support to help you navigate the competitive landscape and achieve success.
+You can get in touch with us on 022-2576 7016 or email us at sine @
+sineiitb.org
+or reach out to us via our website
+https://sineiitb.org/
+Related Articles
+When Women Lead, Communities Rise: Reimagining Inclusive Development
+Read More
+The Habitats Trust and the New Blueprint for Scalable, Regenerative Conservation in India
+Read More
+How Coca-Cola India Is Rethinking Waste Management at Scale
+Read More
+Health Equity and the Future of Responsible Business
+Read More
+Beyond Policies to Mindset: Suranjana Ghosh on the Shifts Women Leaders Need
+Read More
+From Skilling to Scale: How Unnati Foundation is Leveraging SSE for Impact
+Read More
+Engineering the Future with Purpose: Cyient on AI, Education, and Inclusive Workforce Readiness
+Read More
+Designing Baby Care with the Planet in Mind: Himalaya’s Push to Cut 500 Tons of Plastic
+Read More
+Young Changemaker: Inspiring Girls in Sport
+Read More
+From Academia to Climate Action: Sanjena Narayanasamy Damodaran on Driving Sustainable Change
+Read More
+Subscribe to our Weekly Newsletter
+I agree to receiving newsletters and updates from TheCSRUniverse
+Top Stories
+When Women Lead, Communities Rise: Reimagining Inclusive Development
+In a development landscape often driven by short t
+From Access to Agency: Sonakshi’s Journey Through a HiWEL Learning Station
+The HiWEL Learning Station programme traces its or
+How Coca-Cola India Is Rethinking Waste Management at Scale
+As India hosts some of the world’s largest c
+The Habitats Trust and the New Blueprint for Scalable, Regenerative Conservation in India
+As India navigates the dual imperatives of rapid e
+Featured
+Women Leaders Building Institutions for Lasting Social Impact
+As conversations around gender equity gain renewed
+SMEs, ESG, and the IPO Edge: Why Green Credibility is the New Growth Currency
+As sustainability and ESG considerations increasin
+Why Fundraising is now a Leadership Imperative in India’s Social Sector
+India’s social sector has no shortage of vis
+From Scarcity to Sovereignty: Rethinking India’s Water Future Through Scalable Innovation
+In the traditional narrative of Indian water manag
+Back to Home Page
+About
+TheCSRUniverse.com is a dynamic information and knowledge advisory platform which comprehensively covers issues related to Sustainability, Corporate Social Responsibility (CSR), Environmental, Social, and Governance (ESG) criteria, and Sustainable Development Goals (SDGs) from India and around the world.
+Quick Links
+Corporates
+Organizations
+CSR Projects
+Magazine
+Stay Connected
+About Us
+|
+Team
+|
+Partner with Us
+|
+Contact Us
+|
+Copyright
+|
+Comment Policy
+|
+Terms of Use
+|
+Privacy Policy
+|
+Disclaimer
+Copyright © TheCSRUniverse. All Rights Reserved.
+x
+CSR
+Get Access to:
+Weekly Newsletter
+CSR analysis and insights
+CSR policy updates
+Interviews and Special Reports
+Monthly Magazine
+Sign In
+Email ID
+Please enter name
+Password
+SIGN IN
+Not Registered?
+Sign Up
+Forget Password ?
+Forget Password
+Resigtered Email ID
+Already registered?
+Sign In
+SIGN IN
+Sign Up
+Name
+Email ID
+Mobile
+Password
+Already registered?
+Sign In
+Forget Password ?
+Register

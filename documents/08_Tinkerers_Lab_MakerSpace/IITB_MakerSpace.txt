@@ -1,0 +1,72 @@
+SOURCE URL: https://makerspace.iitb.ac.in/home
+================================================================================
+
+Home | MakerSpace
+Skip to main content
+MakerSpace
+Search
+Search
+IIT Bombay
+Projects
+Prof. Shireesh B. Kedare
+Director, IIT Bombay
+Establishment of Makerspace - State of art facilities at IIT Bombay
+The
+Institute Makerspace
+at IIT Bombay is a state-of-the-art facility designed to bridge the gap between theoretical learning and real-world application. It fosters innovation, creativity, and hands-on problem-solving by providing students with access to advanced tools, prototyping resources, and collaborative opportunities.Key initiatives such as the
+Kadayam S. Srinivasan Microfactory, Harivallabh Nagar Microfactory,
+and the
+Deepak & Maya Satwalekar Design and Making Lab
+, established with generous alumni support, have been instrumental in shaping an ecosystem of experiential learning. The introduction of
+Microfactories and the MS101 course
+further reinforces IIT Bombay’s commitment to practical education.
+The
+Makerspace Conclave 2024
+emphasized the importance of integrating practical skills into mainstream education, aligning with
+India’s National Education Policy (NEP) 2020
+, which promotes creativity, critical thinking, and innovation. With 30,000 sq. ft. of dedicated space, the Makerspace initiative continues to expand, thanks to the unwavering support of alumni and industry collaborators.By empowering students with cutting-edge resources and fostering an entrepreneurial mindset, IIT Bombay’s Makerspace plays a pivotal role in driving innovation and contributing to India’s vision of becoming a global leader in technology and development.
+Prof. Amber Shrivastava
+MakerSpace (PIC)
+IIT Bombay Makerspace: Empowering Innovation
+The IIT Bombay
+Makerspace
+serves as a hub of innovation, transforming creative ideas into practical solutions. Through initiatives like the
+MS101 course
+and the state-of-the-art
+Microfactory
+, it bridges theoretical knowledge with hands-on learning. This collaborative platform fosters interdisciplinary teamwork, inspiring students to tackle real-world challenges and nurture entrepreneurial skills.
+MS101: Learning by Doing
+A cornerstone of the Makerspace, the MS101 course immerses over
+1,400 first-year students
+in experiential learning. By blending classroom theories with hands-on projects, the course cultivates problem-solving and teamwork abilities. Students gain practical insights, with one remarking, “
+Makerspace deepened my understanding and ignited my passion for innovation
+.”
+Future Vision:
+In 2025,
+Makerspace plans
+to expand with cutting-edge thematic labs in bioengineering, robotics, heavy machinery, and advanced design. Facilities like the Microfactory, equipped with 3D printers and laser cutters, empower students to prototype groundbreaking ideas. By embracing global maker culture, IIT Bombay Makerspace continues to shape future-ready innovators and leaders.
+Welcome to the Deepak and Maya Satwalekar Lab, (DMSL), a key pillar of the
+MS-101
+Makerspace initiative at IIT Bombay. Established to revolutionize first-year engineering education, DMSL equips students with state-of-the-art tools and resources, providing a platform for experiential learning. Our lab bridges the gap between theoretical concepts and practical application, preparing students to tackle real-world challenges through multidisciplinary approaches.
+The lab is a collaborative space that fosters creativity and innovation, equipped with advanced equipment such as 3D printers, laser cutters, and electronic testing stations. We aim to nurture inquisitive minds by encouraging them to think beyond textbooks and engage in hands-on projects that inspire curiosity and problem-solving skills. With over 250 workstations, DMSL serves nearly 1,400 students annually, making it one of the most advanced facilities of its kind.
+Vision
+To be a world class, state-of-art faclity synergisticallty complementing traditional classroom eduction to inspire innovation and cocreation through MakerSpace labs leading to impactful outcomes.
+Objectives
+Establish state-of-the-art Thematic Lab facilities to promote innovation skills and cultivate team spirit among students.
+Offer students opportunities for multidisciplinary projects by facilitating collaboration with industry, peers, and professors from various fields.
+Nurture industry-ready innovators and entrepreneurs through hands-on projects.
+Create a melting pot of ideas through Innovators-in-Residence and Makers-in-Residence programs.
+Promote sustainable and scalable innovations for transformative impact.
+Lab Infrastructure
+Read More
+Projects
+Read More
+Events
+Read More
+Education and Outreach
+Line Following Robot
+Students Project
+Hands-on training
+Exhibition
+Universal Tensile Machine
+Line follower with object detection

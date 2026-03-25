@@ -1,0 +1,94 @@
+SOURCE URL: https://insightiitb.org/how-do-institute-finances-work/
+================================================================================
+
+How Do Institute Finances Work?
+News
+How Do Institute Finances Work?
+5 mins read
+Start
+February 12, 2017
+Insight Editorial Team
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without written permission from Insight. If you wish to reproduce any content herein, please contact us:
+Chief Editors: Adarsh Prajapati (adarsh.p@iitb.ac.in), Shivam Agarwal (22b2720@iitb.ac.in)
+Mail to:
+insight@iitb.ac.in
+The content on this website is strictly the property of Insight and the Students’ Gymkhana IIT Bombay. If you wish to reproduce any content herein, please contact us:
+Chief Editors:
+Shreerang Javadekar
+,
+Shreeyesh Menon
+Mail to: insight@iitb.ac.in
+‘To create an ambience in which new ideas, research and scholarship flourish and from which the leaders and innovators of tomorrow emerge.’
+Unbeknownst to many, the above line is verbatim the vision statement of IIT Bombay. Arguably the best technical institute in the country, it strives to nurture the top minds of the country which it judges by one of most gruelling exams in the world. Being a public institution, it is aided by the government in carrying out this mission while operating with a certain level of autonomy. The outstanding infrastructure and research facilities available here are second to none in the country. It is pretty obvious that this system cannot be merely sustained on students’ fee. However, though we may take educated guesses at how the institute finances its activities, not many of us are actually aware about the workings of the system. Well, most students couldn’t care less about the nitty gritties as it may seem like a bother. Nothing wrong with that, except that over the past year or so, things haven’t been exactly hunky-dory. Amid news of the recent fee hike, decisions by the HRD ministry to found new IITs etc, a mixture of fact and fiction has pervaded into conversations in the institute regarding what exactly is currently the situation, which has necessitated an acquaintance with the way the institute’s finances work.
+The institute’s funds and expenses are split into four major verticals:
+→ Funds Towards running the institute— Plan and Non-Plan funds (Govt support through MHRD)
+→ Funding for research projects undertaken (From Govt Bodies & Industry)
+→ Donations from external sources
+→ Internal Revenue
+MHRD funding
+Plan funds
+In the previous financial year (2015-2016), the institute received about Rs 180 crores as Plan funds. Plan funds are directed towards investments in capital assets (including buildings, equipment and library infrastructure), major and minor renovations, various scholarships/assistantships, etc.
+Around 60 cr (33% of the plan funds received last year) were spent on scholarships, ranging from Merit-Cum-Means scholarships to TA/RAship stipends.
+Around Rs 110 crores were spent on development of new infrastructure and Rs 17 crores on building renovation and maintenance. What many of us might not know is, an astounding Rs 20 crore— though only Rs 4.5 crores were spent last year— goes towards the library, mostly for various journal subscriptions and a small amount for purchasing new books every year. Dept. specific equipment costs were around 18 cr (10% of the Plan funds received). Around 59 cr was spent on major central research facilities, laboratory development in departments and other special development projects. Adding up the figures clearly shows that there was a substantial deficit in the plan funds during FY 2015-16. A committee called RIFC (Research Infrastructure Fund Committee) has been set up to oversee the spending of these funds to help increase the focus on development of central institute facilities and catering to needs that are an intersection of several departments. Other than that the institute takes up SIPs (Special Institute Projects) which involve the development of facilities in the departments and modernization of offices and service units across the institute. In the past financial years, around Rs 30 crore was spent towards SIPs and another 30 crores were allocated towards RIFC commissioned projects.
+Non-Plan funds:
+Non-Plan funds form a much larger chunk of the total MHRD funding. About Rs 322 crores was received by the institute as NonPlan funds last year. Non plan funds along with Internal Revenue cover everything else under the sun required to run the institute. However, of this, broadly speaking, the Non-Plan funds from MHRD primarily cover only the Establishment expenses (salaries, pensions, employee allowances & benefits) part of running expenses. In FY 2015-16 of the Rs 322 cr of Non-Plan funds Rs 307 was spent on Establishment expenses and rest towards ‘other running expenses’ that include:
+→ Operational and Administrative expenses (O & A) (electricity bills, running of offices, expenditure in legal processes, travel etc.)
+→ Academic and Student expenses (A & S) (incurred towards running of labs, conduction of exams, conference travel, Gymkhana and other student expenses etc.)
+→ Estate/Infrastructure Maintenance & Repairs (E/I M&R)
+Expenses in FY 15-16
+→ 1. O & A – 57 cr (of which Elec 33 cr)
+→ 2. A & S – 27 cr (largest chunk 12.5 cr on Admissions & Exams JEE/GATE/CEED/Mtech&PhD admissions etc)
+→ 3. E/I M&R – 44 cr
+Internal Revenue:
+The Internal Revenue provides for all the operational, academic and administrative expenses other than salaries & pensions. It constitutes the money earned from payments made to the institute, namely tuition fee, application and examination fee (JEE, GATE etc), residential license fees and electricity charges, interest income, royalties on patents and miscellaneous fees, among other things. About 27 cr of a total of 112 crores in FY 2015-16 came from the tuition fee paid by the students and 36 cr from entrance exams, registration and admission fees. Internal revenue gets clubbed with non plan funding towards running expenses of the institute, whose constituents have been discussed above.
+IRCC funding
+Like every top university across the globe, IIT Bombay undertakes a host of research projects in collaboration with the industry. Funding/donations for all such pursuits are handled by the IRCC (Industry Research and Consultancy Center). The government sponsored research funding is about 85 % and Industry funding constitutes about 15% of IRCC funds. Apart from this, the research funding from sponsors is brought in by faculty and faculty groups in cases of large projects which are called Centres of Excellence. IRCC is a facilitator, enabler for supporting faculty in these endeavors. It also helps in administrative and financial management aspects of the projects, and also
+manages all the IP related support including commercialization and licensing of technology. The IRCC funds are used to provide all such support such as Seed Grant funding, internal awards and bridge funding support to faculty and several other schemes to facilitate the research ecosystem in the Institute.
+Donations
+The institute receives donations from various sources like alumni, philanthropic foundations and other corporate organizations. Alumni and other donation funds may be directed towards any of a number of possible causes like institution of chair professorships, scholarships, development of certain infrastructure (VMCC), setting up Centres such as Tata Center for Technology and Design, Desai Sethi Center for Entrepreneurship, Wadhwani Research Centre for Biosciences etc. However most donations are earmarked for a specific purpose/activity with an MoU towards its utilization and hence the institute has to honour it if the donation is accepted. These funds cannot be used for general running expenses of the institute.
+Myth 1: The budget cut is real.
+No, technically it isn’t. The total budget (plan+nonplan) allocated to the institute over the past four years has
+more or less been the same. However, with an increase in the intake of students and also considering the effects of inflation over the years, the budget/student has certainly taken a nosedive which is leading to the ‘shortage’ of funds that we are now witnessing.
+Stat-is-ticked
+The Plan funding on per student basis, adjusted for inflation, has changed over the last five years from Rs 2.64 lakhs in FY 2010-11 to Rs 1.23 lakhs in FY 2015-16. The corresponding figures for Non Plan funding (excluding internal revenue) are Rs 2.98 Lakhs & Rs 2.19 Lakhs respectively, but this is mainly on account of inflation. The receipts per student not considering inflation have been actually increasing. The running expenses (i.e. excluding Plan expenses) have been somewhat flat with corresponding figures of 2.98 lakhs & 3.14 lakhs. Showing that expenses have been controlled in spite of inflation.
+Myth 2: The fees has been hiked by nearly 100%, surely the days of shortage of funds are behind us now
+Well, not exactly. The UG fee hike has brought along with it a new set of concessions in rules for fee payment, as a result of which the institute ‘treasury’ so to speak is expected to become richer by a meagre sum of about 8-9 crores, progressively over 4 years. Meagre, when you put things in perspective. For e.g, The electricity bill alone last year was total of Rs 33 crores and the total collections from UG + PG tuition fees were about Rs 27 crore. Yes, we cannot even pay the electricity bill with just our fee.
+0
+X
+Whatsapp
+Facebook
+Telegram
+Email
+Linkedin
+Related Posts
+News
+Welcome to Campus 2.0: Safety or Setback?
+May 31, 2025
+6 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+News
+Catching Fire: A Closer Look at the Recent Hostel 17 and Aerospace Department Fire
+February 12, 2025
+4 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+News
+In Memoriam – Prof. Ajit A. Diwan
+January 24, 2025
+4 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Insight Opinion
+·
+News
+Student Grievance Redressal Committee: A new way to get your grievances resolved?
+December 27, 2024
+10 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Don't Miss
+Institute Awards 2011
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without
+Mid Term Review : General Secretary, Academic Affairs (UG) 2016-17
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without

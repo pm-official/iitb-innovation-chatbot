@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IITB Innovation Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" href="/static/iitb_logo.png" type="image/png">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <img src="/static/iitb_logo.png" alt="IIT Bombay" class="logo-img">
+                    <div class="logo-text">
+                        <h1>IITB Innovation Chatbot</h1>
+                        <p>Institution's Innovation Council, IIT Bombay</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Chat Container -->
+        <main class="chat-container" id="chatContainer">
+            <!-- Welcome Screen -->
+            <div class="welcome" id="welcomeScreen">
+                <img src="/static/iitb_logo.png" alt="IIT Bombay" class="welcome-logo">
+                <h2>IITB Innovation Chatbot</h2>
+                <p>Your guide to IIT Bombay's innovation ecosystem — courses, labs, funding, incubation, patents, and more.</p>
+                <div class="starter-questions">
+                    <button class="starter-btn" onclick="sendStarter(this)">What courses does DSSE offer for entrepreneurship?</button>
+                    <button class="starter-btn" onclick="sendStarter(this)">How do I file a patent at IIT Bombay?</button>
+                    <button class="starter-btn" onclick="sendStarter(this)">I have a startup idea — where do I start?</button>
+                    <button class="starter-btn" onclick="sendStarter(this)">What funding is available for my prototype?</button>
+                    <button class="starter-btn" onclick="sendStarter(this)">Tell me about SINE incubation</button>
+                    <button class="starter-btn" onclick="sendStarter(this)">How can I use Tinkerers' Lab?</button>
+                </div>
+            </div>
+
+            <!-- Messages -->
+            <div class="messages" id="messages"></div>
+        </main>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <div class="input-wrapper">
+                <textarea
+                    id="queryInput"
+                    placeholder="Ask about courses, labs, funding, patents, incubation..."
+                    rows="1"
+                    onkeydown="handleKeydown(event)"
+                    oninput="autoResize(this)"
+                ></textarea>
+                <button id="sendBtn" onclick="sendMessage()" title="Send">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+            <p class="disclaimer">Powered by IIC, IIT Bombay. Answers are AI-generated — verify important details with the relevant office.</p>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+SOURCE URL: https://insightiitb.org/aspire-the-iitb-research-park/
+================================================================================
+
+ASPIRE: The IITB Research Park
+Features
+ASPIRE: The IITB Research Park
+8 mins read
+Start
+July 7, 2024
+Insight Editorial Team
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without written permission from Insight. If you wish to reproduce any content herein, please contact us:
+Chief Editors: Adarsh Prajapati (adarsh.p@iitb.ac.in), Shivam Agarwal (22b2720@iitb.ac.in)
+Mail to:
+insight@iitb.ac.in
+Table of Contents
+Toggle
+IIT Bombay has been excelling in research and is recognized as one of the world’s leading institutes for innovations in STEM. However, while academic research is essential, it is not sufficient for generating tangible benefits for society on its own. University researchers, including professors and students, often aim to ensure that their work ultimately benefits society, although this is not always straightforward. For instance, pure scientific research may take many years before its practical applications become evident. Therefore, it is essential to have industries willing to collaborate with academia, providing the support needed to transform these innovations into products and services.
+ASPIRE – the IIT Bombay Research Park – was established to ease the industry-academia collaboration process. In 2014, the Ministry of Education tasked IIT Bombay with creating a research park on its expansive Powai campus in Mumbai. This led to the creation of the IITB Research Park Foundation – ASPIRE, a non-profit organization in 2016 dedicated to driving innovation and achieving tangible research outcomes. ASPIRE stands for Applied Science Park for Innovation Research and Entrepreneurship. The Research Park building was inaugurated virtually by Hon’ble PM Shri Narendra Modi on 20th February 2024.
+Following the recent inauguration of the Research Park ASPIRE, Insight got the opportunity to interview the Chief Operating Officer Ms Kameshwari Mangalampalli, and Professor in charge Prof. Swaroop Ganguly about the philosophy and functioning of ASPIRE.
+Inauguration of the ASPIRE building: from
+IIT Bombay’s Linkedin page
+The primary goal of Research Park is to provide a platform for various entities, including IITB faculty, and students, to collaborate and excel in innovations collectively. This engagement can be in multiple modes, such as student sponsorship for M.Tech, PhD, internships, R&D collaboration with faculty,  technology transfer, etc. Research Park aims to become a single point of contact at IITB for industry partners, allowing them to house their R&D labs in Research Park,  utilize the state-of-the-art facilities on campus, and closely interact with IITB students and faculty.
+Location of Research Park:
+The Research Park has been operating in their office at the Main Building till now. However, with their new building set to be operational by the end of this year, everything will be relocated there.
+The building is located on the IITB premises but on the other side of the pipeline road. One can reach there by crossing the bridge near the H12,13,14 block and the security checkpoint and then continuing straight towards the west.
+Research Park as seen from outside
+Image source:
+Official IITB map
+The philosophy behind a Research Park:
+“
+If you look at knowledge or innovation economies worldwide, you will find a solid connection between industry and academia. Many of the startups that often get incubated in and around academia are very often the starting point of new and innovative technology ideas.
+The connection with industry takes these innovative ideas to products and services useful to society.
+” answered Prof. Swaroop Ganguly, when asked how it would change India’s research landscape.
+The Research Park at IITB and other institutes are places where the industry can set up R&D centers on the campus. The building is over 0.5 million square feet with G+14 floors. It can handle high-class infrastructure and caters to various industry facilities like software, chemistry, biology, materials engineering, wet labs and heavy engineering work. The rooms have many utilities such as an exhaust, high ceilings, heavy load bearings, and utility shafts. The building has many amenities and facilities like an auditorium, food court, travel desk, conference rooms, and emergency medical rooms.
+Till now, the industry partners were given spaces on the campus like the Transit building, Old CSE building, and CTARA department. After the ASPIRE building is operational, the companies can use it and build their R&D centres. This is the tangible aspect of Research Park. The intangible element involves the relationships anchored with the industry spanning multiple modalities – research, student fellowships, corporate gifts and industrial training.
+Services and Support offered to the companies:
+Handholding:
+The Research Park is a single window through which member companies can enter IITB. A company might seek to fund a specific faculty group’s research project or train its junior engineers in emerging technologies. Alternatively, it could donate a corporate gift to IITB or establish a lab in a new field. Three different Dean offices at IITB manage these interactions: research projects are overseen by the Dean of R&D at IRCC, training programs by the Dean of Educational Outreach, and corporate gifts and donations by the Dean of ACR.
+Companies also interact with the Placement cell for recruiting students and other student bodies like Techfest, Mood Indigo, and ITC events regarding sponsorships. The Research Park’s job is to
+handhold
+the companies and facilitate these intricate processes. It acts as an intermediary between the concerned stakeholders and relevant offices.
+Matchmaking:
+“
+So let’s say a company in systems is interested in controlling a plant. The expertise for controlling a plant lies in 4-5 different campus departments or research groups of 10 faculty members. The Research Park takes it upon itself to find the right group and makes the match between the requirements of industry and the expertise on campus till the start of research engagement.
+” explains Prof. Swaroop Ganguly when asked about the process of matchmaking. It is not just limited to the faculty, sometimes that expertise may be provided by a student technical club or team also.
+Residents and Associates:
+There are two types of member companies of ASPIRE – Residents and Associates.
+Residents:
+Resident companies at IITB’s Research Park physically occupy campus space (at subsidized rates) and establish their R&D labs. They must collaborate with IITB, and this partnership is periodically assessed using Innovation Coins (Icoins), which measure the level of engagement. The amount of space leased to a company correlates with its required collaboration level, and each collaborative activity earns Icoins. Companies must maintain a minimum annual I-coin balance, with the option to carry over excess Icoins to the following year. This system emphasizes their presence for meaningful collaboration with students and professors rather than merely renting space. The collaborative activity of earning I-coins can either involve direct monetary exchange like funding for projects or corporate gifts, or indirect offerings like internship opportunities, scholarships or bringing in a faculty as a visiting scientist. There are also engagement activities that don’t require any financial expenditure, such as joint publications with coauthors from the company and IITB. Various formulas convert each type of engagement into Icoins.
+Resident companies offer unprecedented opportunities for engagement. Students can experience industry life throughout the year rather than being restricted to specific internship periods during vacations. Similarly, faculty members who consult for these companies can work on-site part-time, fostering deeper and more effective collaboration.
+Currently, there are 10 resident member companies of Research Park, such as Nanosniff Technologies, Ubisoft, Applied Materials India, Tejase Aerosense, etc.
+Associates:
+These companies are virtually connected with the Research Park and receive similar support without being physically present on campus. The process of
+handholding
+and
+matchmaking
+would be the same for them. Some associate companies are Google, Samsung, Atomberg, Milliken, Ideaforge, etc.
+Along with this, the member companies can also use some of the lab facilities of IITB, for which they have to pay the respective department. According to the availability of the laboratory, they can be given a slot for usage, so it doesn’t clash with other stakeholders like research students of IIT Bombay.
+Benefits for Students:
+Internships:
+The member companies often float opportunities through the PT cell to offer internships to students. They have to register themselves on the Placement Portal with ASPIRE supporting them in these processes, including handling communication issues and following up if something is stuck. Since its inception, ASPIRE has facilitated over 100 internship offers.
+BTPs, SLP-IDPs, MTPs, DDPs:
+ASPIRE aims to connect the students with industry professionals who can co-guide them along with the IITB professors for credited projects like BTPs, SLPs, etc. But the Research Park can only be a facilitator in this process and the initiatives have to be taken proactively by the individual departments if they are interested. This is still an ambitious project and would involve a lot of effort from both the department side and the company’s side to define the logistics. The selection of industry mentors, and problem statements are specific issues that must be dealt with.
+Tech teams:
+ASPIRE also connects tech teams with companies for any kind of assistance that they want for their competitions. It can be in any form like funding, any product that the company manufactures, or even consultancy. “Recently, iGEM approached us for help, and we connected them with the right people.”, replied ASPIRE COO Ms. Kameshwari when asked about some of the recent collaborations of tech teams.
+Extra-curricular events:
+ASPIRE member companies can also get involved with the students through events like Techfest, Mood Indigo, workshop organization, talks/lectures at IITB, and hackathons. They may provide sponsorships to the approaching students or be a part of the event organization. For instance, Ubisoft (one of the resident member companies) installed its gaming setup during Techfest. Not only do companies provide sponsorships, but the Research Park also offers them, such as for Rescon 2024.
+Scholarships:
+The companies sometimes show engagement by providing scholarships to students for their doctorate or master’s studies. The logistics of the student selection process for scholarships depends on the company only and is not centralized by ASPIRE. The students are generally chosen during their admission process, and the funds are processed through the company’s Corporate Social Responsibility (CSR) department. To ensure that students don’t face any issues in the future, IITB collects the whole scholarship amount in one go and disburses it in installments for 4 or 5 years.
+Benefits for Faculties:
+When asked about the benefits faculty would receive from ASPIRE, Prof. Swaroop Ganguly remarked:
+“
+The fundamental benefit for faculty in any science or engineering field is seeing their work translated into a real-world application. A project for which you worked on pen and paper, prototype, or in the lab, making a difference for people out there gives the most satisfaction. This is not possible without industry engagement. There are material benefits also, as the faculty would be a consultant to them or have a research project with them with access to a lot of resources.
+”
+Besides the spiritual and materialistic factors, amplification also comes into play as a third factor. This can be best understood by the
+triple helix model of innovation
+.
+Triple Helix Model of Innovation:
+Image from:
+MDPI Article
+“
+The double helix of the DNA is the basis for intelligent life and the triple helix is supposed to be the basis for a knowledge economy. The idea is that industry, academia, and the government, being the three strands of the triple helix, must work closely to create a knowledge- and innovation-driven economy. ASPIRE is an outcome of this triple helix, and the amplification comes from the support that governments around the globe are giving to academia-industry collaborations. They are signalling the academicians to not just work over the problems they feel are interesting but those whose solutions can be built into products, are viable and can be taken to industry for production and the country’s growth. At the same time, they are trying to attract industries by incentivizing them to work with universities
+.” explained Prof. Swaroop Ganguly. The interaction between companies and professors is reciprocal, hence allowing professors to initiate involvement themselves.
+The road ahead:
+While ASPIRE holds great promise, its success will depend on all stakeholders’ continued commitment and collaboration. The journey towards innovation is filled with challenges, such as aligning academic research with industry needs and maintaining sustained engagement from both sides.
+As the Research Park building becomes operational, it opens up new avenues for collaboration and growth. ASPIRE aims to bridge the gap between theoretical research and practical application by promising state-of-the-art facilities and a commitment to foster partnerships. The road ahead is long, but with perseverance and cooperation, IIT Bombay and its partners can make significant strides towards creating meaningful innovations that will benefit society at large.
+Editorial Credits: Adarsh Prajapati, Aditya Torne, Gautam Khona, Yash Tangri
+12
+X
+Whatsapp
+Facebook
+Telegram
+Email
+Linkedin
+Related Posts
+Features
+Beyond the finish line
+September 28, 2025
+11 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Features
+Flush Files: The State of Washrooms
+September 4, 2025
+4 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Features
+Institute Systems, Holding Us Back?
+August 25, 2025
+11 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Features
+Anatomy of the Autonomy: Dissecting Faculty Freedom at IITB
+July 2, 2025
+10 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Table of Contents
+×
+→
+Index
+Don't Miss
+Johns Hopkins University – Pranay Ladiwala – Univ Series
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without
+Civil Engineering – Core Opportunities – Career Series
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without

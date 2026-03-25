@@ -1,0 +1,149 @@
+SOURCE URL: https://insightiitb.org/centres-of-excellence/
+================================================================================
+
+Centre Stage: IIT-B’s Centres Of Excellence
+Academics
+·
+Features
+·
+Others
+Centre Stage: IIT-B’s Centres Of Excellence
+5 mins read
+Start
+February 10, 2017
+Insight Editorial Team
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without written permission from Insight. If you wish to reproduce any content herein, please contact us:
+Chief Editors: Adarsh Prajapati (adarsh.p@iitb.ac.in), Shivam Agarwal (22b2720@iitb.ac.in)
+Mail to:
+insight@iitb.ac.in
+The content on this website is strictly the property of Insight and the Students’ Gymkhana IIT Bombay. If you wish to reproduce any content herein, please contact us:
+Chief Editors:
+Shreerang Javadekar
+,
+Shreeyesh Menon
+Mail to: insight@iitb.ac.in
+In recent years, the institute has targeted endeavours to enhance research in particular fields. There are several such “centres of excellence” that are collaborations between the institute and other institutions, organisations and industry with the aim of providing solutions that have a real world connect and impact. What distinguishes these from conventional research labs is that a center of excellence works on a “focussed activity with dedicated funding and the scale of operations is larger” whereas research labs  are based on faculty member’s interest. Often such specialisation and degrees of involvement from external stakeholders shapes an identity to the work of these centres while also providing improved avenues for funding. Despite these centres proving to be such a vital part of the institute’s interaction with the world outside, little is known about these centres and their operations. This article aims to provide some of that perspective by analysing the work and activity of a few of these centres.
+GPU Center of Excellence
+Institution
+IITB was awarded an NVIDIA GPU Center of Excellence (GCoE) in 2013, the first of its kind in India. Steered by Prof. P.S.V. Nataraj as the PI (Principal Investigator), Prof. Sachin Patkar and Prof. Shiva Gopalakrishnan as Co-PIs, GCoE serves as a hub for all heterogeneous high performance computing activities in the country.
+To tackle the mushrooming need for speed in computation, in 2015, India launched the National Supercomputing Mission (NSM). Along the lines of NSM, GCoE envisions to develop the GPU computing ecosystem in India. The motivation behind promoting GPU computing is its potential in terms of both efficiency and feasibility. The versatility of GPU computing transcends the end-user packages that are available in the market.
+Vision
+The vision of GCoE is to provide infrastructure, knowledge, research and education in heterogeneous computing to a wide scientific community in the country. Utilizing the equipment and the grant provided by NVIDIA, the approach opted by GCoE for this purpose encapsulates four missions – HRD and training, Infrastructure setting up and expansion, support for research projects and collaboration with other institutes.
+Current projects and impact
+Over the three years since its inception, the GCoE has been promoting awareness about integral GPU computing methods that would play a crucial role in accelerating computational challenges faced by engineers and scientists in the modern era. With 13 workshops & conferences spanning 11 institutes and 9 cities nation-wide, GCoE has managed to make its mark when it comes to being the pioneer in GPU computing.
+As a part of their HRD and training initiative, the GCoE trained over 300 women undergraduate engineering students and 75 professors in essential topics like CUDA HPC, applications of medical imaging and optimization on GPUs, running MATLAB on GPUs and embedded supercomputing on Jetson TK1 kits; the focus has largely been on promoting the latter. The team has also put up an online video series on getting started with the kits, for distant education.
+Academic tracks
+On the academic front, the GCoE has been conducting 4 semester-long courses on GPU computing at IIT Bombay, and one such course at VIT Pune, attracting over 300 students in the last year alone. It has made available GPU clusters and Jetson kits for academic and research projects including 8 doctoral, 6 graduate and 2 undergraduate projects. It also hosts K40/K20 servers and other GPU workstations uses for the National CUDA.
+National Center of Excellence in Technology for Internal Security
+Institution
+The institute has been conducting week-long training courses for senior police officers for the past 10-12 years.
+However, recently a need was felt for developing technology projects for the police forces. A concept paper was written by Professor Abhay Karandikar of the Electrical Dept in 2012 and submitted to the Maharashtra Govt. Interest was shown by the Ministry of Electronics & Information Technology (MEIT), as it fell within their objectives of electronics system design manufacturing for strategic sectors. Various stakeholders like the police and Central Reserve Police Force (CRPF) were brought on board and the project was approved in 2015 to ad
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+me.co.nz/ball-
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+es.html”>
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+needs of police forces of all states.
+Current structure
+The steering committee includes representatives from the state police forces, several government agencies (including CRPF and the National Intelligence Agency) and two industry professionals. Faculty members from several departments (including Electrical, IDC and Mechanical Engineering) are involved in the various projects being undertaken. Efforts are being undertaken to increase student involvement to ad
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+me.co.nz/ball-
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+es.html”>
+dress
+me.co.nz/ball-
+dress
+es.html”>
+dress
+problems through electrical design problems.
+Current projects
+The center is focused on developing prototypes and products, rather than papers and patents. Some of the projects the center is working on include development of complete broadband emergency communication systems, sensors for explosive detections, landmine detections, video analytics for monitoring motions, recognizing faces, tracking from CCTV footage, crime mapping using GIS data and machine learning. The projects are in various states of completion and demonstrable products could be presented in another 3-6 months.
+Goals
+In the short term the center is focusing on completing a few projects; the aim is to develop demonstrable prototypes in the next 3-6 months. In the long term the main objective of NCETIS is technology development for state and central police and to develop a focused approach to deal with the unique problems of internal security.
+Funding
+MEIT is the main source of funding for the implementation of the projects of the
+center, and has contributed 85 crore for a five year period. The center is accountable to MEIT and the institute.
+Center for Policy Studies
+Institution
+The idea of instituting an independent academic unit that focuses on policy efficacy and implementation has been in the pipeline for 10 years. It was initially spearheaded by Prof. Anil Kakodkar, an erstwhile professor at IIT Bombay. The Global Business Forum organized last year in Goa, an endeavour by the IIT alumni association was when this endeavour received the impetus it needed. Keen on starting, a proposal was floated  to the board of governors. A resolution passed by them allowed for the institution of CPS.
+Current structure
+Right now, it has a head that is chosen as per existing institute procedure; and three students. The core committee formation is in the pipeline. The core committee will comprise of all core faculty from different streams. An advisory committee to direct research of which Prof. Kakodkar has consented to be a part of is in the pipeline. The two committees would work in tandem, one suggesting avenues of research and the other working on execution.
+Current projects
+This structure aims to cater to the Centre’s two main objectives – academicand research oriented. On the academic track, the aim is to launch the Doctoral Programme in July 2017 and the Masters Programme in 2018. For a programme to be part of the institute curriculum it has to be approved by the IDPC, PGPC and the Senate. Currently the main goal is to ensure that the programme is in place for incoming students of the 2017 batch, including resources and faculty appointments. Research is largely in doctoral domain, hence the initial push for the Doctoral Programme. At present, the Centre is conducting relevant policy discussions every month. The motive behind this, apart from the galvanisation of interest  on campus, is to gain visibility and credibility. Such credibility would improve Doctoral interest and ease faculty appointments for such a nascent body. The primary target is to provide this concrete structure to the body and undertake measures that would facilitate the same.
+Long-term goals
+Monthly sessions on policy are likely to continue. They serve a forum between the social sciences and technology on campus. In January, CPS will be organising the Annual Policy Dialogue, “Coping with COP21”, as a platform to facilitate discussions about policy. On the longer time frame, the goal is to conduct independent evidence based research. The Centre would aim to operate through collaborations with professors and existing policy think tanks and research like Brookings and Centre for Policy Research.
+Student-faculty involvement
+As the Centre becomes more established there will be projects that students can contribute to, perhaps even institute projects of their own as final year projects. Current involvement however is quite limited.
+Funding
+The institute provides the funds right now. As it is a small group there is no pressing need for large funds. In the future, as it becomes more established, maybe canvass for more funds that can possibly be used to recruit faculty and to direct research. Policy is a specialist’s domain. The idea is to have specialists that can be consulted upon whenever there is a need.
+0
+X
+Whatsapp
+Facebook
+Telegram
+Email
+Linkedin
+Related Posts
+Academics
+·
+News
+Behind the Minor Registration Rule Change
+December 31, 2019
+2 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Academics
+·
+GS Appraisal
+·
+News
+Midterm Review: GSAA (UG)
+November 4, 2019
+2 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Academics
+·
+GS Appraisal
+·
+News
+·
+Others
+Midterm Review: GSAA(PG)
+November 3, 2019
+2 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Academics
+·
+Others
+Eat, Sleep, Study, Repeat
+September 15, 2019
+3 mins read
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out…
+Read More
+Don't Miss
+General Body Meeting – Phase II – Counterview
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without
+Interview with Prof. Gadre, Asst. Dean AP (2008)
+Disclaimer: The content on this website is strictly the property of Insight, IIT Bombay. Content here cannot be reproduced, quoted or taken out of context without

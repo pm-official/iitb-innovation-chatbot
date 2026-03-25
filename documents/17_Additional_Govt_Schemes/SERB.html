@@ -1,0 +1,2071 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self';
+        script-src 'self' 'unsafe-inline' https://apis.google.com https://cdnjs.cloudflare.com;
+        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+        img-src 'self' data:;
+        font-src 'self' https://fonts.gstatic.com;
+        media-src 'self' https://serb.gov.in;
+        connect-src 'self' https://api.example.com;
+        frame-src 'self' https://youtube.com;">
+
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/bootstrap.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/bootstrap-utilities.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/style.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/responsive.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/all.min.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/modal.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://serb.gov.in/assets/css/font.css">
+	<script src="https://serb.gov.in/assets/js/jquery.min.js"></script>
+	<link rel="shortcut icon" href="https://serb.gov.in/assets/images/favicon.ico" type="image/x-icon">
+	
+	<div class="d-print-none">
+		<title>Home: Anusandhan National Research Foundation,
+			Department of Science & Technology, Government of India</title>
+	</div>
+
+</head>
+
+<body>
+		<input type="hidden" name="csrf_test_name" value="b2a254c5f74fd7e7efe29c93748c06fd">
+
+	<header>
+
+		<div class="topbar">
+
+			<div class="container3 text-end">
+
+				<!--------TOP NAV BAR-------------------->
+				<ul class="list-inline d-print-none">
+					<li class="list-inline-item"><a href="#main_content" >Skip To Main Content</a></li>
+
+					<li class="list-inline-item"><a href="https://serb.gov.in/page/english/screen_reader"  >Screen Reader</a></li>
+					<li class="list-inline-item">
+						<a href="https://www.facebook.com/Science-and-Engineering-Research-Board-SERB-1006682416088667/?ref=aymt_homepage_panel"  class="sm"><i class="fab fa-facebook-f" title="facebook"></i></a>
+						<a href="https://twitter.com/serbonline" target="_blank" class="sm"><i class="fab fa-twitter" title="Twitter"></i></a>
+						<!-- <a href="youtube.com" target="_blank" class="sm"><i class="fab fa-youtube"></i></a></li> -->
+					<li class="list-inline-item"><a href="https://serb.gov.in/page/english/sitemap"><i class="fas fa-sitemap" title="sitemap"></i></a></li>
+					<li class="list-inline-item">
+						<div class="font_size">
+							<div class="font-size"><a href="javascript:void(0);" id="big">A+</a></div>
+
+							<div class="font-size"><a href="javascript:void(0);" id="normal">A</a></div>
+
+							<div class="font-size"><a href="javascript:void(0);" id="small">A-</a></div>
+						</div>
+
+					</li>
+					<li class="list-inline-item"><a  class="language" href="javascript:void(0)" data-lang="hindi">हिन्दी</a></li>				</ul>
+				<script>
+					$('.language').click(function() {
+						url = window.location.href;
+						split_url = url.split('page');
+						rest_url = split_url[1];
+						if (url.indexOf('hindi') > -1) {
+							split_url = split_url[1].split('hindi');
+							rest_url = split_url[1];
+						}
+						if (url.indexOf('english') > -1) {
+							split_url = split_url[1].split('english');
+							rest_url = split_url[1];
+						}
+
+						if (!rest_url) {
+							rest_url = '';
+						}
+						var lang = $(this).attr("data-lang");
+						url = "https://serb.gov.in/page/" + lang + rest_url;
+						window.location.href = url;
+
+
+
+						// var lang = $(this).attr("data-lang");
+						// $.ajax({
+						// 	url:"",
+						// 	data:{lang:lang},
+						// 	success:function(res){
+						// 		res = $.parseJSON(res);
+						// 		if(res.result=="ok"){
+						// 			window.location.reload();
+						// 		}
+						// 	}
+						// })
+					})
+				</script>
+
+
+				<!--------END TOP NAV BAR---------------->
+
+
+			</div>
+
+		</div>
+
+		<!-- <div class="menu_fix" id="navbar-sticky"> -->
+
+		<!---------------LOGO---------------->
+
+
+		<div class="container3 mt-3 mb-1">
+			<div class="row">
+				<div class="col-xs-0 col-sm-0 col-md-8 col-lg-8 logo-hidden">
+					<h1 class="logo_content">
+						<a href="https://serb.gov.in/page" title="Anusandhan National Research Foundation" class="top-heading">
+							<span class="hindi">अनुसंधान नेशनल रिसर्च फाउंडेशन</span>
+							<span class="english">Anusandhan National Research Foundation</span><br>
+						</a>
+
+						<!-- <a href="https://serb.gov.in/page" title="" class="top-heading-2">
+							<div class="serb_logo_text"><span class="part1">Established through an Act of Parliament : SERB Act 2008,</span>
+								<span class="part2">Department of Science &amp; Technology, Government of India</span>
+							</div>
+						</a> -->
+						<a href="https://serb.gov.in/page" title="" class="top-heading-2" aria-label="part1">
+							<div class="serb_logo_text"><span class="part1"></span><br />
+								<span class="part2"></span><br />
+							</div>
+						</a>
+					</h1>
+				</div>
+
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 logo_right_mobile">
+					<div class="d-flex logo_right">
+						<div class="spac_logo">
+							<a href="https://serb.gov.in/page" class="align-middle" title="Science and Engineering Research Board">
+								<!--		<img src="" class="logo-img img-fluid" alt="Science and Engineering Research Board" srcset="">-->
+							</a>
+						</div>
+						<!--	<div class="border-end">&nbsp;</div> -->
+						<div class="spac_logo">
+							<a href="https://dst.gov.in/" target="_blank" title="Department Of Science & Technology">
+								<!--		<img src="" alt="Department Of Science & Technology" class="logo-img img-fluid" srcset="">-->
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<!---------------LOGO---------------->
+		<div class="menu-container">
+			<div class="container3">
+
+				<!---------------MENU HERE---------------->
+
+				<!------------------MENU HERE------------------------------------->
+
+<nav class="navbar navbar-expand-lg nav_custom navbar-dark bg-serb" id="navbar">
+
+	<div class="container-fluid">
+
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+			<ul class="navbar-nav me-auto mb-2 mb-lg-0 nav-fill w-100 border-primary">
+
+				<li class="nav-item active border_menu">
+
+					<a class="nav-link nav_custom_link active1" href="https://serb.gov.in/page/english" title="Home">
+						<i class="fas fa-home menu_icon" title="Home Navigation"></i>Home
+					</a>
+
+				</li>
+
+				<li class="nav-item dropdown has-megamenu border_menu dropdown">
+
+					<a class="nav-link nav_custom_link dropdown-toggle active2" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="About">
+						<i class="fas fa-user menu_icon" title="About Navigation"></i>About
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom" aria-labelledby="navbarDropdown">
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/about" class="display_menu" title="Vision. Mission. Goals.">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/a_v.png" class="menu_img img-fluid" alt="Vision.mission.Goal"></li>
+									<li><span role='complementary'>Vision. Mission. Goals.</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/board_committee_organisation_structure" class="display_menu" title="Boards, Committees, Organization Structure">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/a_b.png" class="menu_img img-fluid" alt="Boards, Committees, Organization Structure"></li>
+									<li><span role='complementary'>Board, Committee, Organization Structure</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<!--<li class="menu_display">-->
+						<!--	<a href="" class="display_menu" title="From Secretary’s Desk">-->
+						<!--		<ul class="mega_menu">-->
+						<!--			<li class="menu_img_sm"><img src="" class="menu_img img-fluid" alt="From Secretary’s Desk"></li>-->
+						<!--			<li><span role='complementary'>From Secretary’s Desk</span></li>-->
+						<!--		</ul>-->
+						<!--	</a>-->
+						<!--</li>-->
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/directory" class="display_menu" title="Directory">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/a_di.png" class="menu_img img-fluid" alt="Directory"></li>
+									<li><span role='complementary'>Directory</span></li>
+								</ul>
+							</a>
+						</li>
+
+					</ul>
+
+				</li>
+
+				<li class="nav-item dropdown has-megamenu border_menu dropdown">
+
+					<a class="nav-link nav_custom_link dropdown-toggle active3" href="#" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Funding">
+						<i class="fas fa-indian-rupee-sign menu_icon" title="Funding Navigation"></i>Funding
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom" aria-labelledby="navbarDropdown">
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/research_grants" class="display_menu" title="Research Grants">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/f_r.png" class="menu_img img-fluid" alt="Research Grants menu Image"></li>
+									<li><span role='complementary'>Research Grants</span></li>
+								</ul>
+							</a>
+						</li>
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/awards_fellowship" class="display_menu" title="Awards & Fellowships">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/f_a.png" class="menu_img img-fluid" alt="Awards & Fellowships menu Image"></li>
+									<li><span role='complementary'>Awards & Fellowships</span></li>
+								</ul>
+							</a>
+						</li>
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/research_networking" class="display_menu" title="Research Networking">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/f_re.png" class="menu_img img-fluid" alt="Research Networking menu Image"></li>
+									<li><span role='complementary'>Research Networking</span></li>
+								</ul>
+							</a>
+						</li>
+
+					</ul>
+
+				</li>
+
+				<li class="nav-item dropdown has-megamenu border_menu dropdown">
+
+					<a class="nav-link nav_custom_link dropdown-toggle active4" href="#" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Decision Path">
+						<i class="fas fa-sitemap menu_icon" title="Decision Path Navigation"></i>Decision Path
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom megamenu_custom_right" aria-labelledby="navbarDropdown">
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/process" class="display_menu" title="Process">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/d_p.png" class="menu_img img-fluid" alt="Process"></li>
+									<li><span role='complementary'>Process</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/scientific_ethics_and_plagiarism" class="display_menu" title="Scientific Ethics and Plagiarism">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/d_sc.png" class="menu_img img-fluid" alt="Scientific Ethics and Plagiarism"></li>
+									<li><span role='complementary'>Scientific Ethics and Plagiarism</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/committee_structure" class="display_menu" title="Committee Structure">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/d_co.png" class="menu_img img-fluid" alt="Committee Structure"></li>
+									<li><span role='complementary'>Committee Structure</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/result" class="display_menu" title="Results">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/d_re.png" class="menu_img img-fluid" alt="Results"></li>
+									<li><span role='complementary'>Results</span></li>
+								</ul>
+							</a>
+						</li>
+
+					</ul>
+
+				</li>
+
+				<li class="nav-item dropdown has-megamenu border_menu dropdown">
+
+					<a class="nav-link nav_custom_link dropdown-toggle active5" href="#" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Disclosures">
+						<i class="fas fa-microphone menu_icon" title="Disclosures Navigation"></i>Disclosures
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom" aria-labelledby="navbarDropdown">
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/annual_report" class="display_menu" title="Annual Reports">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/dis_ann.png" class="menu_img img-fluid" alt="Annual Reports"></li>
+									<li><span role='complementary'>Annual Reports</span></li>
+								</ul>
+							</a>
+						</li>
+
+						<li class="menu_display">
+							<a href="https://serb.gov.in/page/english/policies" class="display_menu" title="Policies">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/dis_pol.png" class="menu_img img-fluid" alt="Policies"></li>
+									<li><span role='complementary'>Policies</span></li>
+								</ul>
+							</a>
+						</li>
+
+					</ul>
+
+				</li>
+				<li class="nav-item dropdown has-megamenu border_menu dropdown">
+
+					<a class="nav-link nav_custom_link  active5" href="https://rdifund.anrf.gov.in/" title="RDI" target="_blank">
+						<i class="fas fa-indian-rupee-sign menu_icon" title="RDI FUND"></i>
+						RDI Fund
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom megamenu_custom_right customNewRecuriment" aria-labelledby="navbarDropdown">
+						<li class="menu_display">
+							<a href="https://rdifund.anrf.gov.in/careers.html" target="_blank" class="display_menu" title="Careers">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/d_co.png" class="menu_img img-fluid" alt="Policies"></li>
+									<li><span role='complementary'>Careers at RDIF</span></li>
+								</ul>
+							</a>
+						</li>
+					</ul>
+
+				</li>
+
+
+				<li class="nav-item dropdown has-megamenu border_menu dropdown" >
+
+					<a class="nav-link nav_custom_link  active4" href="https://recruitment.anrf.gov.in/" style="white-space: nowrap;"  id="navbarDropdownMenuLink" role="button"   title="Decision Path" target="_blank">
+						<i class="fas fa-user-plus" title="Recruitment"></i>Recruitment  ▾
+					</a>
+
+
+					<ul class="dropdown-menu megamenu_custom megamenu_custom_right customNewRecuriment" aria-labelledby="navbarDropdown">
+					
+					
+<li class="menu_display">
+							 <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">Advertisement for the posts of COO and CFO</a>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Advertisement_COO_and_CFO_2026_Eng.pdf">English</a>
+                    </li>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Advertisement_COO_and_CFO_2026_HIndi.pdf">Hindi</a>
+                    </li>
+                </p>
+						</li>
+
+
+<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">Advertisement for the post of Scientist H</a>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Advertisement_SC-H_2026_Eng.pdf">English</a>
+                    </li>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Advertisement_SC_H_2026_Hindi.pdf">Hindi</a>
+                    </li>
+                </p>   
+						</li>
+
+
+
+
+<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank">Advertisement no. 03/2025 for the post of Section Officer</a>
+							<div>
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Detailed_Advt_of_Section_Officer_ANRF_English_2026.pdf">English</a>
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Detailed_Advt_of_Section_Officer_ANRF_Hindi_2026.pdf">Hindi</a>
+							</div>
+
+							</p>
+						</li>
+					
+					<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank" href="https://serb.gov.in/assets/pdf/Notice_for_help_line.docx">Notice regarding Applicant Support and Helpdesk Details for ANRF Recruitment</a>
+							</p>
+						</li>
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank" href="https://serb.gov.in/assets/pdf/Updated_Call_for_Applications_Experts_updated_12_12_25.pdf">ANRF - Contractual positions</a>
+							</p>
+						</li>
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank"> Notice published in the national dailies for extension of the last date for submission of applications for the posts of Scientist G, Director, Under Secretary, and Accounts Officer.</a>
+							<div>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates-English-1.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates_Hindi-1.pdf">Hindi</a>
+								<span>*New News Cutting -</span>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Sci_g_Director_US_and_AO_English.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Sci_g_Director_US_and_AO_hindi.pdf">Hindi</a>
+							</div>
+							</p>
+						</li>
+
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank">Notice published in the national dailies for extension of the last date for submission of applications for the posts of Scientist D and Scientist C.</a>
+							<div>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates-English-2.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates_Hindi-2.pdf">Hindi</a>
+								<span>*New News Cutting -</span>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Sci_D_and_Sci_C_English.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Sci_D_and_Sci_C_hindi.pdf">Hindi</a>
+							</div>
+							</p>
+						</li>
+
+
+						<!-- <li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank"> Extension of Last Date – Advertisement Notice No. 1/2025</a>
+							<div>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates-English-1.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates_Hindi-1.pdf">Hindi</a>
+							</div>
+							</p>
+						</li>
+
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank">Extension of Last Date – Advertisement Notice No. 2/2025</a>
+							<div>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates-English-2.pdf">English</a>
+								<a target="_blank" style="color: #fff;" href="https://serb.gov.in/assets/pdf/Advertsment_for_extension_of_dates_Hindi-2.pdf">Hindi</a>
+							</div>
+							</p>
+						</li> -->
+
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" href="https://serb.gov.in/assets/pdf/Notice_Email.pdf"
+									target="_blank">Email ID for receipt of applications in respect of the advertisements issued by
+									ANRF (Notice No. 01/2025 and 02/2025)</a>
+							</p>
+						</li>
+
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank">Advertisement no. 02/2025 for the post of
+									Scientist-D and Scientist-C</a>
+							<div>
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Detailed_Adv_Direct_Recruitment_2025_Scientist_D_and_C.pdf">English</a>
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Hindi_Ver_Detailed_adv_for_Scientist_D_and_Scientist_C.pdf">Hindi</a>
+							</div>
+
+							</p>
+						</li>
+
+
+						<li class="menu_display">
+							<p class="marquee-item"><i class="far fa-file-pdf"></i>
+								<a class="news-link text-white" target="_blank">Advertisement no. 01/2025 for the post of
+									Scientist-G, Director, Under Secretary and Accounts Officer.</a>
+							<div>
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Detailed_Adv_Deputation_posts_2025_-_ScientistG_Direc_or_US_AO.pdf">English</a>
+
+								<a target="_blank" style="color: #fff;"
+									href="https://serb.gov.in/assets/pdf/Hindi_ver_Detailed_adv_for_Scientist_G_Director_US_and_AO.pdf">Hindi</a>
+							</div>
+							</p>
+						</li>
+
+
+						<li class="menu_display">
+
+						</li>
+
+					</ul>
+
+				</li>
+
+
+
+
+
+				<li class="nav-item dropdown has-megamenu border_menu_mobile dropdown">
+
+					<a class="nav-link nav_custom_link dropdown-toggle" href="#" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Science For Society">
+						<!-- <i class="fas fa-microscope menu_icon" title="Disclosures Navigation"></i> -->
+						<!-- <img src="" class="menu_icon6" alt="" srcset=""> -->
+						<!-- <div class="menu_icon menu_icon6"></div> -->
+						<div class="menu_icon menu_icon6" role="navigation" aria-label='menu' aria-labelledby='menu'></div>Science For Society
+					</a>
+
+					<ul class="dropdown-menu megamenu_custom megamenu_custom_right2" aria-labelledby="navbarDropdown">
+						<li class="menu_display">
+							<a href="https://prism.serbonline.in/" class="display_menu" target="_blank" title="Prism">
+								<ul class="mega_menu">
+									<li class="menu_img_sm"><img src="https://serb.gov.in/assets/images/sys_prism.png" class="menu_img img-fluid" alt="Prism"></li>
+									<li><span role='complementary'>Prism</span></li>
+								</ul>
+							</a>
+						</li>
+
+					</ul>
+
+				</li>
+
+
+
+			</ul>
+
+		</div>
+	</div>
+</nav>
+<!-----------------MENU ENDS HERE------------------------------------->
+				<!---------------MENU HERE---------------->
+
+			</div>
+		</div>
+		<!-- </div> -->
+
+	</header><link rel="stylesheet" href="https://serb.gov.in/assets/css/slide.css">
+<link rel="stylesheet" href="https://serb.gov.in/assets/css/slick.min.css">
+<link rel="stylesheet" href="https://serb.gov.in/assets/css/slick-theme.min.css">
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script> -->
+<style type="text/css">
+    nav.nav_custom ul li a.active1 {
+        border-bottom: 4px solid #22adc7;
+    }
+
+    .marquee-item a {
+        text-decoration: none !important;
+    }
+
+    .marquee-item {
+        margin-top: 10px;
+    }
+</style>
+
+
+<!-------------------------------Whats New Toggle---------------------------------->
+
+<div class="sidebar-contact" role="main">
+
+    <!------MARQUEE STICKY BTN------>
+
+    <div class="marquee_background marquee_background_top marquee_display_top marquee_right">
+
+        <div class="marquee">
+
+            <marquee behavior="scroll" direction="up" id="marquee2" scrollamount="4" onmouseover="this.stop();"
+                onmouseout="this.start();">
+
+                 <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">Advertisement no. 03/2025 for the post of Section Officer</a>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Detailed_Advt_of_Section_Officer_ANRF_English_2026.pdf">English</a>
+                    </li>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Detailed_Advt_of_Section_Officer_ANRF_Hindi_2026.pdf">Hindi</a>
+                    </li>
+                </p>
+
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" href="https://serb.gov.in/assets/pdf/Nodal_Officer_Uadated_List_Without_Mobile_Numbers_17_03_2026.pdf" target="_blank">ANRF Ease of Doing Science - Institutional Nodal Officer details</a>
+                </p>
+
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" href="https://serb.gov.in/assets/pdf/Open_Auction_Notice.pdf" target="_blank">Open Auction Notice for disposal of old/surplus office items</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" href="https://serb.gov.in/assets/pdf/PM_Professors_2025.pdf" target="_blank">List of Prime Minister Professors 2025 </a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" href="https://serb.gov.in/assets/pdf/Final_Compendiun_04-02-26.pdf" target="_blank">ANRF Annual Day Compendium 2026</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    Careers@RDIF Management Team - Detailed advertisement (<a href="https://serb.gov.in/assets/pdf/Careers_RDIF_Detailed_advertisement_Hindi.pdf" target="_blank">Hindi</a> & <a href="https://serb.gov.in/assets/pdf/Careers_RDIF_Detailed_advertisement_English.pdf" target="_blank">English</a>)
+                </p>
+
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white"
+                        href="https://serb.gov.in/assets/pdf/National_Science_Chair_2025.pdf"
+                        target="_blank">Results of the National Science Chair -2025</a>
+                </p>
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" href="https://serb.gov.in/assets/pdf/Notice_Email.pdf"
+                        target="_blank">Email ID for receipt of applications in respect of the advertisements issued by
+                        ANRF (Notice No. 01/2025 and 02/2025)</a>
+                </p>
+
+                <!-- <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">RDIF Management Team - Detailed advertisement for filling up of contractual positions</a>
+                    <li><a target="_blank" style="color: #fff;" href="">English</a></li>
+                    <li><a target="_blank" style="color: #fff;" href="">Hindi</a></li>
+                </p> -->
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white"
+                        href="https://serb.gov.in/assets/pdf/Notice-Scientist_D_and_C.pdf" target="_blank">Last
+                        Date for Receipt of Applications: Scientist D and C</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white"
+                        href="https://serb.gov.in/assets/pdf/Notice-For_post_of_Scientist-G_Director_Under_Secretary_and_AO.pdf"
+                        target="_blank">Last Date for Receipt of Applications: Scientist G</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">Advertisement no. 02/2025 for the post of
+                        Scientist-D and Scientist-C</a>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Detailed_Adv_Direct_Recruitment_2025_Scientist_D_and_C.pdf">English</a>
+                    </li>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Hindi_Ver_Detailed_adv_for_Scientist_D_and_Scientist_C.pdf">Hindi</a>
+                    </li>
+                </p>
+
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a class="news-link text-white" target="_blank">Advertisement no. 01/2025 for the post of
+                        Scientist-G, Director, Under Secretary and Accounts Officer.</a>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Detailed_Adv_Deputation_posts_2025_-_ScientistG_Direc_or_US_AO.pdf">English</a>
+                    </li>
+                    <li><a target="_blank" style="color: #fff;"
+                            href="https://serb.gov.in/assets/pdf/Hindi_ver_Detailed_adv_for_Scientist_G_Director_US_and_AO.pdf">Hindi</a>
+                    </li>
+                </p>
+
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href="https://serb.gov.in/assets/pdf/Draft_RRs_CFO_COO_file.pdf"
+                        class="news-link text-white" target="_blank">Draft RRs for the post of Chief Operating Officer
+                        (COO), Chief Financial Officer (CFO)</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href="https://serb.gov.in/assets/pdf/Draft_RRs_AO_file.pdf" class="news-link text-white"
+                        target="_blank">Draft RRs for the post of Accounts Officer (AO)</a>
+                </p>
+
+
+
+                <!-- hide as per dt thangaraju call on 5th dec 2025 
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href=""
+                        class="news-link text-white" target="_blank"> Call for Applications for various contractual
+                        positions</a>
+                    <li><a href="" class="news-link text-white"
+                            target="_blank">Click here for Notice</a></li>
+                </p> -->
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+
+                    ANRF Group ‘A’ and Group ‘B’ Administrative/Scientific Posts Recruitment Rules, 2025 <br />
+                <ul>
+                    <li><a href="https://serb.gov.in/assets/pdf/Seeking_comments_from_the_stakeholders_on_draft_recruitment_rules_for_the_Administrative_posts_in_ANRF.pdf"
+                            class="news-link text-blue" target="_blank">Click here for Administrative Posts</a><br />
+                    </li>
+                    <li><a href="https://serb.gov.in/assets/pdf/Seeking_comments_from_the_stakeholders_on_draft_recruitment_rules_for_the_posts_of_Scientists_in_ANRF.pdf"
+                            class="news-link text-blue" target="_blank">Click here for Scientific Posts</a><br /></li>
+                </ul>
+
+
+
+
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href="https://serb.gov.in/assets/pdf/news/ANRF-HRA-OM.pdf" class="news-link text-white"
+                        target="_blank"> Office Memorandum - House Rent Allowance (HRA) for the research personnel
+                        engaged in the ANRF projects. - Corrigendum</a>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href="https://serb.gov.in/assets/pdf/CIRCULAR-TSA HYBRID.pdf" class="news-link text-white"
+                        target="_blank"> Attention of beneficiary institutions: New TSA Hybrid Model for fund flow -
+                        Circular</a> <br> (Steps for Implementing) <a
+                        href="https://serb.gov.in/assets/pdf/IAMappingforHybridTSA-SERB-1023-Scheme.pdf"
+                        target="_blank"><b>click here</b>
+                </p>
+
+                <p class="marquee-item"><i class="far fa-file-pdf"></i>
+                    <a href="https://serb.gov.in/assets/pdf/NSC_Call_2025.pdf" class="news-link text-white"
+                        target="_blank"> The call for nominations under National Science Chair (NSC) opens from 27 May
+                        2025 (Tuesday) to 4 July 2025 (Friday).</a>
+                </p>
+
+            </marquee>
+
+        </div>
+
+    </div>
+
+
+    <!------END MARQUEE STICKY BTN---->
+    <div class="empty_bx">
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+    </div>
+    <div class="empty_bx">
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+    </div>
+    <div class="toggle" role="Newspaper">
+        <h4 class="toggle_menu_right">What's New <i class="far fa-newspaper"></i></h4>
+    </div>
+</div>
+
+<!-----------------------------End Whats New Toggle-------------------------------->
+
+
+
+
+<!---SLIDER-->
+
+<div id="carouselExampleCaptions" class="carousel slide slide-top" data-bs-ride="carousel">
+
+    <div class="carousel-indicators">
+
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+            aria-current="true" aria-label="Slide 1"></button>
+
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+            aria-label="Slide 3"></button>
+
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3"
+            aria-label="Slide 4"></button>
+
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4"
+            aria-label="Slide 5"></button>
+
+        <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button> -->
+
+        <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button> -->
+
+    </div>
+
+    <div class="carousel-inner">
+
+
+        <!--  <div class="carousel-item active" role="banner">
+            <img src="" class="d-block w-100" alt="Har Ghar Tiranga">
+            <div class="carousel-caption d-none d-md-block">
+                <a href="https://amritmahotsav.nic.in/har-ghar-tiranga.htm" target="_blank" class="btn btn-serb-banner carousel-1 carousel-5 float-right btn-1">Join The Movement</a>
+            </div>
+        </div> -->
+
+        <!-- <div class="carousel-item active" role="banner">
+            <img src="" class="d-block w-100" alt="SERB - Promoting Basic Research in Science & Engineering">
+            <div class="carousel-caption carousel-1 d-none d-md-block">
+                <h5 class="carousel-1">SERB - Promoting Basic Research in<br>Science & Engineering</h5>
+                <p class="carousel-1 text-white">Plug-in to India's Vibrant Research Ecosystem</p>
+                <a href="" class="btn btn-serb-banner carousel-1 float-left">More</a>
+            </div>
+        </div> -->
+        <div class="carousel-item active" role="banner">
+            <img style="aspect-ratio: 16 / 4.3;" src="https://serb.gov.in/assets/images/banner/banner1.jpg"
+                class="d-block w-100" alt="SERB - Promoting Basic Research in Science & Engineering">
+
+        </div>
+        <!-- 
+        <div class="carousel-item" role="banner">
+            <img src="" class="d-block w-100" alt="SERB">
+            <a href="https://www.estic.dst.gov.in/" target="_blank">
+                <div class="carousel-caption carousel-1 d-none d-md-block">
+            <h5 class="carousel-1">SERB - Promoting Basic Research in<br>Science & Engineering</h5>
+                    <p class="carousel-1 text-white">Plug-in to India's Vibrant Research Ecosystem</p>
+                    <a href="" class="btn btn-serb-banner carousel-1 float-left">More</a> 
+                </div>
+            </a>
+
+        </div> -->
+        <div class="carousel-item" role="banner">
+            <img src="https://serb.gov.in/assets/images/banner/banner-5.jpg" class="d-block w-100" alt="SERB">
+        </div>
+
+
+        <div class="carousel-item" role="banner">
+            <img src="https://serb.gov.in/assets/images/banner/banner-1.jpg" class="d-block w-100"
+                alt="SERB Supports Research in Frontier Areas of Science and Engineering">
+            <div class="carousel-caption carousel-2 d-none d-md-block">
+                <h5 class="carousel-2">SERB Supports Research in Frontier Areas of Science and Engineering</h5>
+                <p class="carousel-2">Nation Building Through Research & Development</p><br>
+                <a href="https://serb.gov.in/page/about" class="btn btn-serb-banner carousel-2">More</a>
+            </div>
+        </div>
+
+
+        <div class="carousel-item" role="banner">
+            <img src="https://serb.gov.in/assets/images/banner/banner-1.jpg" class="d-block w-100"
+                alt="SERB Supports Research in Frontier Areas of Science and Engineering">
+            <div class="carousel-caption carousel-2 d-none d-md-block">
+                <h5 class="carousel-2">SERB Supports Research in Frontier Areas of Science and Engineering</h5>
+                <p class="carousel-2">Nation Building Through Research & Development</p><br>
+                <a href="https://serb.gov.in/page/about" class="btn btn-serb-banner carousel-2">More</a>
+            </div>
+        </div>
+
+        <div class="carousel-item" role="banner">
+            <img src="https://serb.gov.in/assets/images/banner/3.png" class="d-block w-100"
+                alt="SERB - The Premier National Research Funding Agency">
+            <div class="carousel-caption carousel-2 d-none d-md-block">
+                <h5 class="carousel-2 bg-dark-serb">SERB - The Premier National Research<br>Funding Agency</h5>
+                <p class="carousel-2 bg-dark-serb">Nation Building Through Research & Development</p><br>
+                <a href="https://serb.gov.in/page/about"
+                    class="btn btn-serb-banner carousel-2 float-left">More</a>
+            </div>
+        </div>
+
+        <div class="carousel-item" role="banner">
+            <img src="https://serb.gov.in/assets/images/banner/sabka_sath_new.jpg" class="d-block w-100"
+                alt="Azadi Ka Amrit Mahotsav">
+            <div class="carousel-caption d-none d-md-block">
+                <a href="https://amritmahotsav.nic.in/" target="_blank"
+                    class="btn btn-serb-banner carousel-1 carousel-5 float-left">Know More</a>
+            </div>
+        </div>
+
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+
+        <span class="carousel-control-prev-icon" aria-hidden="true" role='icon' aria-label='icon'
+            aria-labelledby='icon'></span>
+
+        <span class="visually-hidden">Previous</span>
+
+    </button>
+
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+
+        <span class="carousel-control-next-icon" aria-hidden="true" role='icon' aria-label='icon'
+            aria-labelledby='icon'></span>
+
+        <span class="visually-hidden">Next</span>
+
+    </button>
+
+</div>
+
+<!---SLIDER ENDS HERE-->
+
+<style>
+    /* Container for the scrolling text */
+    .marquee2 {
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        background-color: #f2f2f2;
+        /* Light gray background for visibility */
+        padding: 10px 0;
+        /* Space above and below the text */
+    }
+
+    /* Animated scrolling text */
+    .marquee2 span {
+        display: inline-block;
+        white-space: nowrap;
+        padding-left: 100%;
+        /* Start the text off-screen */
+        animation: marquee 40s linear infinite;
+        /* Pause animation on hover */
+        animation-play-state: running;
+        height: 40px;
+    }
+
+    /* Keyframes for the scrolling animation */
+    @keyframes marquee {
+        0% {
+            transform: translateX(0%);
+        }
+
+        100% {
+            transform: translateX(-100%);
+        }
+    }
+
+
+
+    /* Pause animation on hover */
+    .marquee2:hover span {
+        animation-play-state: paused;
+    }
+
+    /* Style for the link */
+    .marquee2 a {
+        color: #0066cc;
+        /* Link color */
+        text-decoration: none;
+        animation: blibk 3s linear infinite;
+
+    }
+
+    .marquee2 a:hover {
+        text-decoration: underline;
+    }
+
+    @keyframes blibk {
+        0% {
+            filter: hue-rotate(0deg);
+        }
+
+        100% {
+            filter: hue-rotate(360deg);
+        }
+    }
+</style>
+<div class="marquee2">
+    <span role='complementary'>
+
+  
+
+        <i class="fa-solid fa-bullhorn"></i> Call for proposals under the ANRF Catalytic Partnership Program opens from 1st April to 1st May 2026 <a href="https://serb.gov.in/assets/pdf/ANRF_Catalytic_Partnership_Program.pdf" target="_blank">Call Document.</a>
+
+        &nbsp;&nbsp;
+
+        <i class="fa-solid fa-bullhorn"></i> ANRF–ATRI Scheme: Call for Proposals open from 15.01.2026 to 24.02.26 (5 PM). For more details, please refer to the <a href="https://serb.gov.in/assets/pdf/ANRF_ATRI.pdf" target="_blank">Call Document.</a>
+
+        &nbsp;&nbsp;
+
+
+        <i class="fa-solid fa-bullhorn"></i> Nominations for the Ramanujan Fellowships for the year 2026 will be received throughout this year (i.e. until 31.12.2026 5:00 pm)
+
+        &nbsp;&nbsp;
+
+        <!-- <i class="fa-solid fa-bullhorn"></i> Call for nominations under ANRF J.C. Bose Grant is opens from 1 January  to 10 February 2026 (5:00 pm) 
+        <a href="" target="_blank">Read more</a>
+        &nbsp;&nbsp;
+        -->
+
+        <i class="fa-solid fa-bullhorn"></i> Careers@RDIF Management Team - Detailed advertisement (<a href="https://serb.gov.in/assets/pdf/Careers_RDIF_Detailed_advertisement_Hindi.pdf" target="_blank">Hindi</a> & <a href="https://serb.gov.in/assets/pdf/Careers_RDIF_Detailed_advertisement_English.pdf" target="_blank">English</a>)
+
+        &nbsp;&nbsp;
+
+        <!--
+        <i class="fa-solid fa-bullhorn"></i> Please visit the Recruitment section for the details about various openings at ANRF and submission app
+        
+        &nbsp;&nbsp;
+
+        -->
+
+        <i class="fa-solid fa-bullhorn"></i> Call for Critical Raw Material Research Program call extended up to 24.02.2026
+        <a href="https://serb.gov.in/assets/pdf/Mission_CRM_CFP.pdf" target="_blank"> Read more</a>
+        &nbsp;&nbsp;
+
+        <!--
+        <i class="fa-solid fa-bullhorn"></i> Call for ANRF-Centre of Excellence for STI Indicators and Analytics
+        (CoE-STIIA) will be opening soon from 10-November-2025 to 09-December-2025 (5:00 pm) <a
+            href="" target="_blank"> Read more</a>
+        &nbsp;&nbsp;
+        -->
+        <!-- <i class="fa-solid fa-bullhorn"></i> Call for proposals of Prime Minister’s Early Career Research Grant is open
+        from 03.11.2025 to 02.12.2025
+        &nbsp;&nbsp; -->
+        <!-- <i class="fa-solid fa-bullhorn"></i> Call for Pre-Proposals under ANRF MAHA - AI for Science & Engineering –
+        Tentative online opening on 15th October 2025 <a
+            href="" target="_blank"> Read more</a>
+        &nbsp;&nbsp; -->
+
+        <!-- <i class="fa-solid fa-bullhorn"></i> Updated Call for proposals under ANRF “MAHA MedTech Mission” - Call open up to 7 November 2025. <a href="" target="_blank"> Read more</a> 
+   &nbsp;&nbsp;
+        -->
+
+        <!-- <i class="fa-solid fa-bullhorn"></i> Call for proposals under ANRF MAHA 2D Innovation Hub - Open date : 15th
+        October,2025, Close date: 22 November, 2025 <a
+            href="" target="_blank"> Read
+            more</a>
+        &nbsp;&nbsp; -->
+
+        <!--  <i class="fa-solid fa-bullhorn"></i> Call for proposals under ANRF initiative Prime Minister Professorship Program, <a href="" target="_blank">opening soon.</a> -->
+
+        <!--  <i class="fa-solid fa-bullhorn"></i> The call for proposals under the ANRF-Convergence Research Centres of Excellence (CoE) will be open from 14 July 2025 to 9 September 2025, (Tuesday 5:00 pm) <a href="" target="_blank">(Read More)</a> 
+&nbsp;&nbsp;
+        -->
+
+
+        <!-- <i class="fa-solid fa-bullhorn"></i> ARG Stakeholders' meeting on 10.07.2025 (3-4 pm). Join the link <a href="https://lnk.ink/ARGStakeholdersMeet" target="_blank">https://lnk.ink/ARGStakeholdersMeet</a> to get clarifications and answers to your queries !!
+&nbsp;&nbsp;
+        
+        <i class="fa-solid fa-bullhorn"></i> The call for proposals under Inclusivity Research Grant is opened from 1-July-2025 to 31-July-2025 (till 5.00 PM)</a>
+
+        <i class="fa-solid fa-bullhorn" style="margin-left: 10px;"></i> The call for proposals under the Advanced Research Grant (ARG) will be open from 12 June 2025 to 15 July 2025, 5:00 pm.<a href="" target="_blank"><b>read more</b></a>
+         -->
+
+
+        <!-- <i class="fa-solid fa-bullhorn" style="margin-left: 10px;"></i> The call for nomination under Ramanujan Fellowship opens from Sunday 1st June 2025  to 7th July 2025(5.00 p.m.)  <a href="" target="_blank"><b>read more</b></a> -->
+        <i class="fa-solid fa-bullhorn" style="margin-left: 10px;"></i> Attention of beneficiary institutions: New TSA
+        Hybrid Model for fund flow - Circular <a href="https://serb.gov.in/assets/pdf/CIRCULAR-TSA HYBRID.pdf"
+            target="_blank"><b>read more</b></a> (Steps for Implementing) <a
+            href="https://serb.gov.in/assets/pdf/IAMappingforHybridTSA-SERB-1023-Scheme.pdf"
+            target="_blank"><b>click here</b></a>
+        <!-- <i class="fa-solid fa-bullhorn" style="margin-left: 10px;"></i> The call for nominations under National Science Chair (NSC) opens from 27 May 2025 (Tuesday) to 4 July 2025 (Friday). <a href="" target="_blank"><b>read more</b></a> &nbsp;&nbsp; -->
+        &nbsp;&nbsp;
+        <i class="fa-solid fa-bullhorn" style="margin-left: 10px;"></i> Vajra program is under review and we are not
+        accepting applications.
+
+</div>
+
+
+
+<section class="" id="main_content" role="main">
+
+
+    <div class="bg_color bg_color2"></div>
+
+    <!-- Topic Cards -->
+
+    <div id="cards_landscape_wrap-2" class="cards_custom">
+
+        <div class="container3">
+
+            <div class="row">
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/supra" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_supra.png"
+                                        alt="SERB SUPRA" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SERB SUPRA</h6>
+                                    <p>SERB has developed a scheme SERB-SUPRA (Scientific and Useful Profound 
+Research Advancement) that seeks to explore new scientific breakthroughs, with long-term impact on our fundamental scientific understanding, and offer disruptive technologies at the cutting edge.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/serb_power" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_power.png"
+                                        alt="SERB POWER" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SERB POWER</h6>
+                                    <p>SERB - POWER is specially designed to provide structured effort toward enhanced diversity in research to ensure equal access and weighted opportunities for Indian women scientists engaged in research and development activities.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/fire" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_fire.png" alt="SERB FIRE" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SERB FIRE</h6>
+                                    <p>“Fund for Industrial Research Engagement (FIRE)”, intends to address the challenges in the research and innovation space in India, by creating an ecosystem that would accelerate the growth in the research work and drive the R&D landscape efficiently and effectively with close co-ordination with Industry.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/tetra" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb-tetra.png"
+                                        alt="SERB TETRA" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SERB TETRA</h6>
+                                    <p>SERB-TETRA (Technology Translation Award) is a new scheme for catalizing technology translation in academic setting. TETRA Support will help entities having successful ideas to kickstart new venture processes.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/sire" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/sire.png" alt="SIRE" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SIRE</h6>
+                                    <p>This Program aims to impart high-end research training in frontier areas of Science and Technology, which are of interest to India by providing opportunity to visit leading institutions/universities across the globe for a period of 02-06 months.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/serb_star" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_star.png" alt="SERB STAR" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>SERB STAR</h6>
+                                    <p>SERB Science and Technology Award for Research (SERB-STAR) is a prestigious award instituted by SERB to recognize and reward outstanding performance of Principal Investigators (PIs) of SERB Projects.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://www.vajra-india.in/index.php" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_vajra.png" alt=" VAJRA" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>VAJRA</h6>
+                                    <p>VAJRA Faculty Scheme has been conceptualized to bring an international dimension to the R&D ecosystem of India by leveraging overseas scientists’ expertise to the Indian research framework.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                    <a href="https://serb.gov.in/page/imprint" target="_blank">
+                        <div class="card-flyer">
+                            <div class="text-box">
+                                <div class="image-box">
+                                    <img src="https://serb.gov.in/assets/images/serb_imprint.png"
+                                        alt="SERB IRHPA" />
+                                </div>
+                                <div class="text-container">
+                                    <h6>IMPRINT - II</h6>
+                                    <p>IMPacting Research INnovation and Technology, a joint programme of Ministry of Human Resource Development and DST (steered by SERB) is aimed to address major engineering challenges that the country must address and champion to enable, empower and embolden the nation for inclusive growth and self-reliance.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+</section>
+
+
+<section class="success mb-5">
+    <div class="container3 success_story" role="Success Story">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h1 class="serb_heading_new mb-10">Success Stories</h1>
+        </div>
+    </div>
+
+
+    <!-- Topic Cards -->
+    <div class="empty_bx">
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+        <h4></h4>
+    </div>
+    <div id="cards_landscape_wrap-2">
+        <div class="container3">
+            <div class="row">
+
+                <div class="slider slider-nav">
+
+                    <div role="slide">
+                        <div class="rti-1 card_slide" role="slide">
+                            <div class="card card_ss card_shadow ">
+                                <img class="card-img-top"
+                                    src="https://serb.gov.in/assets/images/ss/5/success_story_5.jpg"
+                                    alt="Country's first Dimethyl Ether fuelled tractor ushers a new era of clean fuel applications">
+                                <div class="collage_name">IIT Bombay</div>
+                                <div class="card-body card-body-2">
+                                    <h5 class="card-title">Bunch of new Placenta in chip devices can help making pregnancies safe</h5>
+                                    <p class="card-text ss_content">A bunch of devices mimicking the placenta at various stages of pregnancy can help in drug discovery, study of toxicity of chemicals like caffeine,</p>
+                                </div>
+
+                                <div class="card-body card-body-2 ss_first2">
+                                    <a href="https://serb.gov.in/page/iit_bombay"
+                                        aria-label="Read more about IIT Bombay project"
+                                        class="card-link card-link-right float-right">
+                                        <span class="more">Read More</span><i
+                                            class="fas fa-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div role="slide">
+                        <div class="rti-1 card_slide">
+                            <div class="card card_ss card_shadow " role="slide">
+                                <img class="card-img-top"
+                                    src="https://serb.gov.in/assets/images/ss/3/success_story_3.jpg"
+                                    alt="Country's first Dimethyl Ether fuelled tractor ushers a new era of clean fuel applications">
+                                <div class="collage_name">IIT Kanpur</div>
+                                <div class="card-body card-body-2">
+                                    <h5 class="card-title">Country's first Dimethyl Ether fuelled tractor ushers a new era of clean fuel applications</h5>
+                                    <p class="card-text ss_content">India’s first 100% Dimethyl Ether (DME) -fuelled tractor/ vehicle for on- and off-road applications has been developed, initiating a new chapter in the crusade</p>
+                                </div>
+
+                                <div class="card-body card-body-2 ss_first2">
+                                    <a href="https://serb.gov.in/page/iit_kanpur_imprint"
+                                        aria-label="Read more about IIT Kanpur Imprint project"
+                                        class="card-link card-link-right float-right">
+                                        <span class="more">Read More</span><i
+                                            class="fas fa-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div role="slide">
+                        <div class="serb_heading_new_mobile_small card_slide">
+                            <div class="card card_ss card_shadow" role="slide">
+                                <img class="card-img-top"
+                                    src="https://serb.gov.in/assets/images/ss/4/success_story_4.jpg"
+                                    alt="New low-cost technology reduces textile effluent pollution significantly">
+                                <div class="collage_name">NIT Warangal</div>
+                                <div class="card-body card-body-2">
+                                    <h5 class="card-title">New low-cost technology reduces textile effluent pollution significantly</h5>
+                                    <p class="card-text ss_content">A textile and apparel industry, located in the Hanumakonda district, of Telangana has been able to treat its textile wastewater at a very reasonable cost.</p>
+                                </div>
+                                <div class="card-body card-body-2 ss_first2">
+                                    <a href="https://serb.gov.in/page/nit_warangal"
+                                        class="card-link card-link-right float-right">
+                                        <span class="more">Read More</span><i
+                                            class="fas fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div role="slide">
+                        <div class="rti-1 card_slide">
+                            <div class="card card_ss card_shadow ">
+                                <img class="card-img-top"
+                                    src="https://serb.gov.in/assets/images/ss/1/success story_1.jpg"
+                                    alt="Public-Health Relevance Project under High Research Priority Area Program">
+                                <div class="collage_name">Maulana Azad Medical College, Delhi</div>
+                                <div class="card-body card-body-2">
+                                    <h5 class="card-title">Public-Health Relevance Project under High Research Priority Area Program</h5>
+                                    <p class="card-text ss_content">New-born Screening for Inborn Errors of Metabolism (IEM) has completed 50 golden years and it is regarded as “The MOST IMPORTANT PUBLIC HEALTH INITIATIVE” of this decade.                                    </p>
+                                </div>
+
+                                <div class="card-body card-body-2 ss_first2">
+                                    <a href="https://serb.gov.in/page/mamc"
+                                        class="card-link card-link-right float-right">
+                                        <span class="more">Read More</span><i
+                                            class="fas fa-chevron-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div role="slide">
+                        <div class="serb_heading_new_mobile_small card_slide">
+                            <div class="card card_ss card_shadow">
+                                <img class="card-img-top"
+                                    src="https://serb.gov.in/assets/images/ss/2/success story_2.jpg"
+                                    alt="Cyber Security and Cyber Defense of Critical Infrastructures">
+                                <div class="collage_name"
+                                    aria-label="IIT Kanpur">
+                                    IIT Kanpur</div>
+                                <div class="card-body card-body-2">
+                                    <h5 class="card-title">Cyber Security and Cyber Defense of Critical Infrastructures</h5>
+                                    <p class="card-text ss_content">Since SEBI funded the C3i Center at IIT Kanpur in March 2017, C3i center1 has developed into a leading research, education, and technology innovation center                                    </p>
+                                </div>
+                                <div class="card-body card-body-2 ss_first2 ss_first3">
+                                    <a href="https://serb.gov.in/page/iit_kanpur"
+                                        class="card-link card-link-right float-right">
+                                        <span class="more">Read More</span><i
+                                            class="fas fa-chevron-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="new pb-5">
+
+    <div class="container3">
+
+        <div class="row mb-5" style="margin-right: 0px;">
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 rti-1" role="news">
+                <h1 class="serb_heading_new" role="Press Release">Press Release</h1>
+                <div class="new_bg">
+                    <div class="news_scroll">
+                        <ul class="news_update" id="marquee-vertical">
+                            <li>
+                                <!-- <div class="news_date">
+                                    July 28, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.inae.in/serb-inae-online-and-digital-gaming-research-initiative"
+                                        class="news_link" target="_blank">SERB-INAE Online and Digital Gaming Research
+                                        Initiative-Call for Proposals.</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    July 28, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41467-021-21906-w" class="news_link"
+                                        target="_blank">High-frequency rectifiers based on type-II Dirac fermions
+                                        Nature Communication 12, 1584 (2021).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    July 28, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41586-021-03679-w" class="news_link">Layer
+                                        Hall effect in a 2D topological axion antiferromagnet
+                                        Nature 595, 521 (2021).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    June 02, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41467-021-27805-4" class="news_link"
+                                        target="_blank">Observation of ballistic upstream modes at fractional quantum
+                                        Hall edges of graphene
+                                        Nature Communications 13, 213 (2022).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    April, 26, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.science.org/doi/10.1126/science.abg3886" class="news_link"
+                                        target="_blank">Autonomous self-repair in piezoelectric molecular crystals
+                                        Science 373, 321 (2021).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    April, 09, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.embopress.org/doi/full/10.15252/embr.202152948"
+                                        class="news_link" target="_blank">Inhibition of IRGM establishes a robust
+                                        antiviral immune state to restrict pathogenic viruses EMBO Reports 22: e52948
+                                        (2021).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    March, 29, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41467-021-27418-x" class="news_link"
+                                        target="_blank">Boosting quantum yields in two-dimensional semiconductors via
+                                        proximal metal plates
+                                        Nature Communications 12, 7095 (2021).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    Feb, 28, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41467-022-29198-4" class="news_link"
+                                        target="_blank">Breakdown of semiclassical description of thermoelectricity in
+                                        near-magic angle twisted bilayer graphene Nature Communications 13, 1522
+                                        (2022).</a>
+                                </div>
+
+                            </li>
+                            <li>
+                                <!-- <div class="news_date">
+                                    Jan 28, 2022
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41563-021-01169-y" class="news_link"
+                                        target="_blank">The Ising triangular-lattice antiferromagnet neodymium
+                                        heptatantalate as a quantum spin liquid candidate Nature Materials 21, 416
+                                        (2022). </a>
+                                </div>
+
+                            </li>
+
+                            <!-------------------------------------------------------------------------------------------->
+
+                            <li>
+                                <!-- <div class="news_date">
+                                    Dec 29, 2021
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.nature.com/articles/s41556-021-00825-4" class="news_link"
+                                        target="_blank">Lysate-based pipeline to characterize microtubule-associated
+                                        proteins uncovers unique microtubule behaviours Nature Cell Biology 24, 253
+                                        (2022). </a>
+                                </div>
+
+                                <!-- <div class="news_content">
+                                    Attention is invited to the office memorandum (O.M.) of even no.
+                                    </div> -->
+                            </li>
+
+                            <li>
+                                <!-- <div class="news_date">
+                                    December 16, 2021
+                                </div> -->
+
+                                <div class="news_title">
+                                    <a href="https://www.science.org/doi/10.1126/science.abl4732" class="news_link"
+                                        target="_blank">Cryo-EM structure of human GPR158 receptor coupled to the
+                                        RGS7-GÎ²5 signalling complex Science 375, 86 (2021). </a>
+                                </div>
+
+                                <!-- <div class="news_content">
+                                    Attention is invited to the office memorandum (O.M.) of even no.
+                                    </div> -->
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3" id="dst">
+                <h1 class="serb_heading_new">50 Years of DST</h1>
+                <div class="dst_frame">
+                    <!-- <img src="https://serb.gov.in/assets/images/index_report2.png" alt="50 Years of DST Video" class="img-fluid img-lg-res"> -->
+
+                    <ul class="dst_video">
+                        <li class="border-bottom" role="DST Video In Hindi" title="DST Video In Hindi"
+                            style="background-image: url('https://serb.gov.in/assets/images/index_report_hindi.png');background-size: 100% 100%;background-position: center;">
+                            <div id="light_hindi">
+                                <a class="boxclose" href="#" id="boxclose" onclick="lightbox_close_hindi();"></a>
+                                <video id="VisaChipCardVideo_hindi" width="600" controls>
+                                    <source src="https://serb.gov.in/assets/serb/SERB_Hindi.mp4" type="video/mp4">
+                                    <!--Browser does not support <video> tag -->
+                                </video>
+                            </div>
+                            <div id="fade_hindi" onClick="lightbox_close_hindi();"></div>
+                            <div class="text-center" role="DST Video In Hindi">
+                                <a href="#dst" class="btn_video" href="#" onclick="lightbox_open_hindi();"
+                                    role="DST Video In Hindi" title="DST Video In Hindi"><i
+                                        class="far fa-play-circle"></i><br>Hindi</a>
+                            </div>
+                        </li>
+                        <li role="DST Video In English" title="DST Video In English"
+                            style="background-image: url('https://serb.gov.in/assets/images/index_report_english.png');background-size: 100% 100%;background-position: center;">
+                            <div id="light">
+                                <a class="boxclose" href="#" onclick="lightbox_close();"></a>
+                                <video id="VisaChipCardVideo" width="600" controls>
+                                    <source src="https://serb.gov.in/assets/serb/SERB_English.mp4" type="video/mp4">
+                                    <!--Browser does not support <video> tag -->
+                                </video>
+                            </div>
+                            <div id="fade" onClick="lightbox_close();"></div>
+                            <div class="text-center" role="DST Video In English">
+                                <a href="#dst" class="btn_video" onclick="lightbox_open();" role="DST Video In English"
+                                    title="DST Video In English"><i class="far fa-play-circle"></i><br>English</a>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
+                <h1 class="serb_heading_new serb_heading_new_mobile" role="Media Gallery">Media Gallery</h1>
+                <div id="gallery" class="carousel slide gallery-custom" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2023.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2012">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/Secy_SERB.jpg"
+                                class="d-block w-100 peinture-ombre-interne-fine"
+                                alt="Women in Science and Technology: Fostering Innovation">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/Group_Photo.jpg"
+                                class="d-block w-100" alt="Women in Science and Technology: Fostering Innovation">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2019.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2019">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/inae_group.jpg"
+                                class="d-block w-100"
+                                alt="SERB-INAE Conclave on SERB Digital Gaming Research Initiative">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/inae_main.jpg"
+                                class="d-block w-100"
+                                alt="SERB-INAE Conclave on SERB Digital Gaming Research Initiative">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/inae_main2.jpg"
+                                class="d-block w-100"
+                                alt="SERB-INAE Conclave on SERB Digital Gaming Research Initiative">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2018.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2018">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2017.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2017">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2016.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2016">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2015.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2015">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2014.png"
+                                class="d-block w-100" alt="SERB Gallery 2014">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2013.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2013">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://serb.gov.in/assets/images/gallery/home/2012.jpg"
+                                class="d-block w-100" alt="SERB Gallery 2012">
+                            <div class="carousel-caption">
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#gallery" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true" role='icon' aria-label='icon'
+                            aria-labelledby='icon'></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#gallery" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true" role='icon' aria-label='icon'
+                            aria-labelledby='icon'></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+                <!-- <img src="images/media.png" alt="" class="new_media img-fluid"> -->
+                <a href="https://serb.gov.in/page/media" class=" media_view float-end" role="View All">View
+                    all</a>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- <script type="text/javascript" src="https://serb.gov.in/assets/js/jquery.marquee.js"></script> -->
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
+<script src="https://serb.gov.in/assets/js/slick.min.js"></script>
+
+<script>
+    $('.slider-nav').slick({
+        slidesToShow: 2,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 7000,
+        arrows: true,
+        prevArrow: `<button class='carousel-control-prev ss_slider_btn' type='button'>
+                    <span class='carousel-control-prev-icon' aria-hidden='true'></span>
+                    <span class='visually-hidden'>Previous</span>
+                    </button>`,
+        nextArrow: `<button class='carousel-control-next ss_slider_btn' type='button'>
+                    <span class='carousel-control-next-icon' aria-hidden='true'></span>
+                    <span class='visually-hidden'>Next</span>
+                    </button>`,
+        // asNavFor: '.slider-for',
+        dots: true,
+        focusOnSelect: true,
+        pauseOnHover: true,
+        responsive: [{
+            breakpoint: 1025,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 574,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        $('a.sticky_btn').click(function() {
+            if ($('.marquee_display_top').hasClass('intro')) {
+                $('.marquee_display_top').removeClass('intro'); /* missing . before removeClass */
+            } else {
+                $('.marquee_display_top').addClass('intro');
+            }
+        });
+
+        $('.toggle').click(function() {
+            $('.sidebar-contact').toggleClass('active')
+            $('.toggle').toggleClass('active')
+        })
+
+    })
+
+
+    window.document.onkeydown = function(e) {
+        if (!e) {
+            e = event;
+        }
+        if (e.keyCode == 27) {
+            lightbox_close();
+            lightbox_close_hindi();
+        }
+    }
+
+    function lightbox_open() {
+        var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+        window.scrollTo(0, 0);
+        document.getElementById('light').style.display = 'block';
+        document.getElementById('fade').style.display = 'block';
+        lightBoxVideo.play();
+    }
+
+    function lightbox_close() {
+        var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+        document.getElementById('light').style.display = 'none';
+        document.getElementById('fade').style.display = 'none';
+        lightBoxVideo.pause();
+    }
+
+    function lightbox_open_hindi() {
+        var lightBoxVideo = document.getElementById("VisaChipCardVideo_hindi");
+        window.scrollTo(0, 0);
+        document.getElementById('light_hindi').style.display = 'block';
+        document.getElementById('fade_hindi').style.display = 'block';
+        lightBoxVideo.play();
+    }
+
+    function lightbox_close_hindi() {
+        var lightBoxVideo = document.getElementById("VisaChipCardVideo_hindi");
+        document.getElementById('light_hindi').style.display = 'none';
+        document.getElementById('fade_hindi').style.display = 'none';
+        lightBoxVideo.pause();
+    }
+</script>
+
+<script type="text/javascript">
+    $(function() {
+        // $('#marquee-vertical').marquee({delay:0, timing:50}); 
+    });
+</script><link rel="stylesheet" href="https://serb.gov.in/assets/css/owl.theme.default.css">
+    <script src="https://serb.gov.in/assets/js/owl.carousel.min.js"></script>
+    <script src="https://serb.gov.in/assets/js/font-size.js"></script>
+
+
+    <!-- <div class="clearfix p-1">&nbsp;</div> -->
+        <!------------------------END CLIENT LOGO SLIDER------------------------>
+
+    <script>
+        $('.brand-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            autoplay: true,
+            dots: false,
+            autoplayHoverPause: true,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+    </script>
+
+<!----------------TOP FOOTER SECTION---------------->
+<style type="text/css">
+    #btn-back-to-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  display: none;
+  background-color: #ea5e20;
+  box-shadow:  0px 0px 10px rgba(255, 255, 255, 0.1);
+  color:#fff;
+}
+</style>
+
+<button
+        type="button"
+        class="btn btn-floating btn-md"
+        id="btn-back-to-top"
+        >
+  <i class="fas fa-arrow-up" title="Go To Top"></i>
+</button>
+
+<script type="text/javascript">
+    //Get the button
+let mybutton = document.getElementById("btn-back-to-top");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function () {
+  scrollFunction();
+};
+
+function scrollFunction() {
+  if (
+    document.body.scrollTop > 20 ||
+    document.documentElement.scrollTop > 20
+  ) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+// When the user clicks on the button, scroll to the top of the document
+mybutton.addEventListener("click", backToTop);
+
+function backToTop() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
+<!----------------END TOP FOOTER SECTION---------------->
+
+<!----------------FOOTER SECTION---------------->
+<footer class="bg_color_new d-print-none"> 
+        <div class="container3"  style="border-bottom: 1px solid #fff;">
+        <div class="text-center">
+            <div class="row footer_menu">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    
+
+
+<div class="row footer_menu">
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right">
+        <h4 class="text-white footer_menu_heading">About Us</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/about" class="f_menu_list">- Vision. Mission. Goals.</a></li>
+			<li><a href="https://serb.gov.in/page/english/board_committee_organisation_structure" class="f_menu_list">- Board, Committee, Organization Structure</a></li>
+			<!--<li><a href="" class="f_menu_list">- From Secretary’s Desk</a></li>-->
+			<!-- <li><a href="dst.php" class="f_menu_list" >- 50 Years of DST</a></li> -->
+			<li><a href="https://serb.gov.in/page/english/directory" class="f_menu_list">- Directory</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right">
+        <h4 class="text-white footer_menu_heading">Funding</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/research_grants" class="f_menu_list">- Research Grants</a></li>
+			<li><a href="https://serb.gov.in/page/english/awards_fellowship" class="f_menu_list">- Awards & Fellowships</a></li>
+			<li><a href="https://serb.gov.in/page/english/research_networking" class="f_menu_list">- Research Networking</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right">
+        <h4 class="text-white footer_menu_heading">Decision Path</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/process" class="f_menu_list">- Process</a></li>
+			<li><a href="https://serb.gov.in/page/english/scientific_ethics_and_plagiarism" class="f_menu_list">- Scientific Ethics and Plagiarism</a></li>
+			<li><a href="https://serb.gov.in/page/english/committee_structure" class="f_menu_list">- Committee Structure</a></li>
+			<li><a href="https://serb.gov.in/page/english/result" class="f_menu_list">- Results</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right">
+        <h4 class="text-white footer_menu_heading">Disclosures</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/annual_report" class="f_menu_list">- Annual Reports</a></li>
+			<li><a href="https://serb.gov.in/page/english/policies" class="f_menu_list">- Policies</a></li>
+			<!-- <li><a href="#" class="f_menu_list" >- Upcoming Events</a></li> -->
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right">
+        <h4 class="text-white footer_menu_heading">Compliance</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/icc_women" class="f_menu_list">- ICC Women</a></li>
+			<li><a href="https://serb.gov.in/page/english/rti" class="f_menu_list">- RTI</a></li>
+			<li><a href="https://serb.gov.in/page/english/vigilance" class="f_menu_list">- Vigilance</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-2 col-md-12 col-lg-2 border-right-mobile">
+        <h4 class="text-white footer_menu_heading">Other links</h4>
+		<ul class="footer_menu_new">
+			<li><a href="https://serb.gov.in/page/english/contact" class="f_menu_list">- Contact Us</a></li>
+			<li><a href="https://serb.gov.in/page/english/order_circular" class="f_menu_list">- Orders & Circulars</a></li>
+			<li><a href="https://serb.gov.in/page/english/covid_update" class="f_menu_list">- Covid Updates</a></li>
+			<li><a href="https://serb.gov.in/page/english/related_website" class="f_menu_list">- Related Websites</a></li>
+			<li><a href="https://serb.gov.in/page/english/faq" class="f_menu_list">- FAQs</a></li>
+			<!-- <li><a href="#" class="f_menu_list" >- Funding Statistics</a></li> -->
+		</ul>
+	</div>
+</div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="main_footer">
+            <div class="container3">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+                        <p class="footer-content">Copyright © Anusandhan National Research Foundation - All Rights Reserved <br>
+                        <a href="https://serb.gov.in/page/english/sitemap" class="f_menu_new">SiteMap</a> | 
+												<a href="https://serb.gov.in/page/english/website_policies" class="f_menu_new">Website Policies</a> | 
+												<a href="https://serb.gov.in/page/english/terms_conditions" class="f_menu_new">Terms & Conditions</a> | 
+												<a href="https://serb.gov.in/page/english/accessibility_statement" class="f_menu_new">Accessibility Statement</a> | 
+												<a href="https://serb.gov.in/page/english/disclaimer" class="f_menu_new">Disclaimer</a> | 
+												<a href="https://serb.gov.in/page/english/contact" class="f_menu_new">Contact Us</a> </p>
+                    </div>
+                    <!-- <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2"><span>You Are Visitor No.: </span></div> -->
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">
+                    <ul class="footer_social_media">
+                            <li>
+                                <a href="https://www.facebook.com/Science-and-Engineering-Research-Board-SERB-1006682416088667/?ref=aymt_homepage_panel"
+                                    >
+                                    <i class="fab fa-facebook-f" title="Facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/serbonline" target="_blank">
+                                    <i class="fab fa-twitter"  title="Twitter"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        <img src="https://serb.gov.in/assets/images/india_gov.png" class="img-fluid" alt="Govt. of India" srcset="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<!----------------END FOOTER SECTION---------------->
+
+
+
+<script>
+$(document).ready(function() {
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 500, function() {
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+      return false;
+    } // End if
+  });
+  
+  $("button").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 500, function() {
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+      return false;
+    } // End if
+  });
+});
+
+// direct browser to top right away
+if (window.location.hash)
+    scroll(0,0);
+// takes care of some browsers issue
+setTimeout(function(){scroll(0,0);},1);
+
+$(function(){
+//your current click function
+$('.scroll').on('click',function(e){
+    e.preventDefault();
+    $('html,body').animate({
+        scrollTop:$($(this).attr('href')).offset().top + 'px'
+    },500,'swing');
+});
+
+// if we have anchor on the url (calling from other page)
+if(window.location.hash){
+    // smooth scroll to the anchor id
+    $('html,body').animate({
+        scrollTop:$(window.location.hash).offset().top + 'px'
+        },500,'swing');
+    }
+});
+
+</script>
+
+
+
+<!-- <script src=""></script> -->
+
+<script src="https://serb.gov.in/assets/js/bootstrap.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+    $("#dropdown_search_btn").click(function() {
+       $("#dropdown_search").toggle();
+       $("input[type='search']").focus();
+     });
+
+});
+
+
+
+</script>
+
+
+</body>
+
+</html>
