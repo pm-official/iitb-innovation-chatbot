@@ -3,9 +3,9 @@
   "configurations": [
     {
       "name": "chatbot",
-      "runtimeExecutable": "python",
-      "runtimeArgs": ["app.py"],
-      "port": 8000
+      "runtimeExecutable": "streamlit",
+      "runtimeArgs": ["run", "streamlit_app.py", "--server.port=8501"],
+      "port": 8501
     }
   ]
 }

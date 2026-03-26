@@ -11,19 +11,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Pre-download the embedding model during build (not at runtime)
+# Pre-download the embedding model during build
 RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
 
 # Copy application code
-COPY config.py document_loader.py chunker.py ingest.py rag.py app.py ./
+COPY config.py document_loader.py chunker.py ingest.py rag.py streamlit_app.py ./
+COPY .streamlit/ ./.streamlit/
 COPY static/ ./static/
 COPY documents/ ./documents/
 
-# Run ingestion at build time so chroma_db is baked into the image
+# Run ingestion at build time
 RUN python ingest.py
 
-# Expose port
-EXPOSE 8000
+EXPOSE 8501
 
-# Start server
-CMD ["python", "app.py"]
+CMD ["streamlit", "run", "streamlit_app.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.headless=true"]
