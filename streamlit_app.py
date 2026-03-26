@@ -179,10 +179,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Load models once ──
-from rag import load_embedding_model, load_collection, stream_answer
+from rag import load_collection, stream_answer
 
 with st.spinner("⚡ Loading knowledge base..."):
-    load_embedding_model()
     load_collection()
 
 # ── Session state ──
