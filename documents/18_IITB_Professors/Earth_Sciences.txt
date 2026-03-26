@@ -1,0 +1,188 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Earth Sciences
+Department: Earth Sciences
+Total Faculty: 26
+
+--- Professor ---
+Name: Prof. Munukutla Radhakrishna
+Department: Earth Sciences
+Email: radhakrishna@iitb.ac.in
+Research Areas: Gravity & Magnetic Methods, Seismotectonics, Continental Margins, Lithospheric Structure
+Profile: https://www.geos.iitb.ac.in/?page_id=2758
+
+--- Professor ---
+Name: Prof. Santanu Banerjee
+Department: Earth Sciences
+Email: sbanerjee@iitb.ac.in
+Research Areas: Sedimentology, Sequence Stratigraphy, Basin Analysis, Precambrian Sedimentary Environments
+Profile: https://www.geos.iitb.ac.in/?page_id=2807
+
+--- Professor ---
+Name: Prof. Enamundram Chandrasekhar
+Department: Earth Sciences
+Email: ec@iitb.ac.in
+Research Areas: Geo-electromagnetic Induction, Magnetotellurics, Crustal Resistivity Studies
+Profile: https://www.geos.iitb.ac.in/?page_id=2287
+
+--- Professor ---
+Name: Prof. Sakthi Saravanan Chinnasamy
+Department: Earth Sciences
+Email: ssaravanan@iitb.ac.in
+Research Areas: Economic Geology, Mineral Exploration, Fluid Inclusions, Ore Deposit Studies
+Profile: https://www.geos.iitb.ac.in/?page_id=2804
+
+--- Professor ---
+Name: Prof. Sudipta Dasgupta
+Department: Earth Sciences
+Email: sdasgupta@iitb.ac.in
+Research Areas: Process Sedimentology, Gravity-Flow Deposits, Petroleum Geoscience, Submarine Mass Transport
+Profile: https://www.geos.iitb.ac.in/?page_id=2819
+
+--- Professor ---
+Name: Prof. Suryendu Dutta
+Department: Earth Sciences
+Email: sdutta@iitb.ac.in
+Research Areas: Organic Geochemistry, Biomarker Analysis, Fossil Fuels, Paleoenvironmental Reconstruction
+Profile: https://www.geos.iitb.ac.in/?page_id=2825
+
+--- Professor ---
+Name: Prof. Srinivasa Rao Gangumalla
+Department: Earth Sciences
+Email: srg@iitb.ac.in
+Research Areas: Gravity & Magnetics, Potential Field Methods, Crustal Structure, Geodynamics
+Profile: https://www.geos.iitb.ac.in/?page_id=13135
+
+--- Professor ---
+Name: Prof. Bivin Geo George
+Department: Earth Sciences
+Email: bivin.george@iitb.ac.in
+Research Areas: Radiogenic & Stable Isotopes, Geochronology, Crustal Evolution, Isotope Geochemistry
+Profile: https://www.geos.iitb.ac.in/?page_id=13106
+
+--- Professor ---
+Name: Prof. Vivek Kumar
+Department: Earth Sciences
+Email: vivek.kumar@iitb.ac.in
+Research Areas: Seismology, Ambient Noise Tomography, Seismic Tomography, Bayesian Inversion, Crustal & Mantle Structure
+Profile: https://www.geos.iitb.ac.in/?page_id=13915
+
+--- Professor ---
+Name: Prof. George Mathew
+Department: Earth Sciences
+Email: gmathew@iitb.ac.in
+Research Areas: Mineralogy, Thermochronology, Fission Track Dating, Uplift & Exhumation History
+Profile: https://www.geos.iitb.ac.in/?page_id=2305
+
+--- Professor ---
+Name: Prof. Satish Maurya
+Department: Earth Sciences
+Email: maurya@iitb.ac.in
+Research Areas: Seismic Tomography, Seismic Anisotropy, Full Waveform Inversion, Subsurface Imaging
+Profile: https://www.geos.iitb.ac.in/index.php/satish-maurya/
+
+--- Professor ---
+Name: Prof. Gollapally Mohan
+Department: Earth Sciences
+Email: mohan@iitb.ac.in
+Research Areas: Seismology, Earthquake Source Parameters, Attenuation Studies, Crustal Seismicity
+Profile: https://www.geos.iitb.ac.in/?page_id=2677
+
+--- Professor ---
+Name: Prof. Soumyajit Mukherjee
+Department: Earth Sciences
+Email: smukherjee@iitb.ac.in
+Research Areas: Structural Geology, Tectonics, Ductile Shear Zones, Salt Tectonics, Kinematics
+Profile: https://www.geos.iitb.ac.in/index.php/s-mukherjee/
+
+--- Professor ---
+Name: Prof. Malay Mukul
+Department: Earth Sciences
+Email: mmukul@iitb.ac.in
+Research Areas: Structural Geology, Geodesy, GPS & InSAR Applications, Fold-Thrust Belt Tectonics
+Profile: https://www.geos.iitb.ac.in/?page_id=2751
+
+--- Professor ---
+Name: Prof. Prabhakar Naraga
+Department: Earth Sciences
+Email: pnaraga@iitb.ac.in
+Research Areas: Metamorphic Petrology, P-T-t Path Reconstruction, High-Grade Metamorphism, Granulites
+Profile: https://www.geos.iitb.ac.in/?page_id=2762
+
+--- Professor ---
+Name: Prof. Jahnavi Punekar
+Department: Earth Sciences
+Email: jpunekar@iitb.ac.in
+Research Areas: Micropalaeontology, Foraminifera, Mass Extinction Events, Cretaceous-Paleogene Boundary
+Profile: https://www.geos.iitb.ac.in/?page_id=2693
+
+--- Professor ---
+Name: Prof. Nibedita Rakshit
+Department: Earth Sciences
+Email: nibedita@iitb.ac.in
+Research Areas: Vertebrate Palaeontology, Taphonomy, Fossil Vertebrates of India, Mesozoic & Cenozoic Faunas
+Profile: https://www.geos.iitb.ac.in/?page_id=11272
+
+--- Professor ---
+Name: Prof. Desikan Ramakrishnan
+Department: Earth Sciences
+Email: desikan@iitb.ac.in
+Research Areas: Remote Sensing & GIS, Geomorphology, Hydrogeology, Lithological Mapping, Land Degradation
+Profile: https://www.geos.iitb.ac.in/?page_id=2276
+
+--- Professor ---
+Name: Prof. Sameer Ranjan
+Department: Earth Sciences
+Email: sameer.ranjan@iitb.ac.in
+Research Areas: Isotope Geology, Geochronology, U-Pb Dating, Geochemistry, Crustal Evolution
+Profile: https://www.geos.iitb.ac.in/?page_id=12287
+
+--- Professor ---
+Name: Prof. Bharath Shekar
+Department: Earth Sciences
+Email: bshekar@iitb.ac.in
+Research Areas: Seismic Imaging, Wave Propagation, Inverse Problems, Seismic Anisotropy, Full Waveform Inversion
+Profile: https://www.geos.iitb.ac.in/?page_id=2250
+
+--- Professor ---
+Name: Prof. Hetu Sheth
+Department: Earth Sciences
+Email: hsheth@iitb.ac.in
+Research Areas: Volcanology, Flood Basalts, Deccan Volcanism, Igneous Petrology, Geochemistry
+Profile: https://www.geos.iitb.ac.in/?page_id=2684
+
+--- Professor ---
+Name: Prof. Anand Singh
+Department: Earth Sciences
+Email: anandsingh@iitb.ac.in
+Research Areas: Geophysical Inversion, Potential Field Methods, Gravity & Magnetic Inversion, Subsurface Modelling
+Profile: https://www.geos.iitb.ac.in/?page_id=2230
+
+--- Professor ---
+Name: Prof. Kumar Hemant Singh
+Department: Earth Sciences
+Email: khsingh@iitb.ac.in
+Research Areas: Applied Geophysics, Litho-tectonic Studies, Gravity & Magnetic Methods, Crustal Structure
+Profile: https://www.geos.iitb.ac.in/?page_id=2701
+
+--- Professor ---
+Name: Prof. Rambabu Singh
+Department: Earth Sciences
+Email: rambabu.singh@iitb.ac.in
+Research Areas: Groundwater Modelling, Mining Hydrogeology, Hydrogeochemistry, Ore-Water Interactions, Climate-Resilient Groundwater Management
+Profile: https://www.geos.iitb.ac.in/?page_id=15389
+
+--- Professor ---
+Name: Prof. Trilok Nath Singh
+Department: Earth Sciences
+Email: tnsingh@iitb.ac.in
+Research Areas: Engineering Geology, Rock Mechanics, Tunnelling, Slope Stability, Underground Excavations
+Profile: https://www.geos.iitb.ac.in/?page_id=2833
+
+--- Professor ---
+Name: Prof. Vikram Vishal
+Department: Earth Sciences
+Email: vvishal@iitb.ac.in
+Research Areas: Geomechanics, CO2 Sequestration in Coal Seams, Coalbed Methane, Unconventional Energy Resources, Rock Physics
+Profile: https://www.geos.iitb.ac.in/?page_id=2836

@@ -1,0 +1,27 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Operations & Supply Chain
+Department: Operations & Supply Chain
+Total Faculty: 3
+
+--- Professor ---
+Name: Gajendra Kumar Adil
+Department: Operations & Supply Chain
+Email: adil@iitb.ac.in
+Research Areas: Operations management, warehouse operations, sustainable supply chain management
+Profile: https://www.som.iitb.ac.in/prof-gajendra-kumar-adil/
+
+--- Professor ---
+Name: Rahul Patil
+Department: Operations & Supply Chain
+Email: rahul.patil@iitb.ac.in
+Research Areas: Operations research, supply chain management
+Profile: https://www.som.iitb.ac.in/prof-rahul-patil/
+
+--- Professor ---
+Name: T. T. Niranjan
+Department: Operations & Supply Chain
+Email: ttniranjan@iitb.ac.in
+Research Areas: Behavioural operations, service operations, supply chain management
+Profile: https://www.som.iitb.ac.in/4177/

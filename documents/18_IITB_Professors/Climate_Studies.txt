@@ -1,0 +1,76 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Climate Studies
+Department: Climate Studies
+Total Faculty: 10
+
+--- Professor ---
+Name: Prof. Subimal Ghosh (Head)
+Department: Climate Studies
+Email: subimal@iitb.ac.in
+Research Areas: Hydroclimatology, Indian Monsoon, Urban Flooding, Climate Extremes, Climate Change Impacts on Water
+Profile: https://www.civil.iitb.ac.in/~subimal/
+
+--- Professor ---
+Name: Prof. Akshaya Nikumbh
+Department: Climate Studies
+Email: akshaya.nikumbh@iitb.ac.in
+Research Areas: Large-Scale Atmospheric Dynamics, South Asian Summer Monsoon, Extreme Climate Events, Tropical Convection
+Profile: https://www.akshayanikumbh.in/
+
+--- Professor ---
+Name: Prof. Angshuman Modak
+Department: Climate Studies
+Email: angshuman.modak@iitb.ac.in
+Research Areas: Climate System Response to Perturbations, Regional Climate Change, Arctic Climate, Radiative Forcing
+Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+--- Professor ---
+Name: Prof. Anjali Sharma
+Department: Climate Studies
+Email: anjali.sharma@iitb.ac.in
+Research Areas: Low-Carbon Energy Transitions, Climate Mitigation Policy, Distributional Impacts, Energy Justice in Developing Countries
+Profile: https://www.cps.iitb.ac.in/faculty/anjali-sharma/
+
+--- Professor ---
+Name: Prof. Jaideep Joshi
+Department: Climate Studies
+Email: jjoshi@iitb.ac.in
+Research Areas: Evolutionary Theory, Vegetation Modelling, Plant Ecophysiology, Biodiversity & Climate Change, Eco-Evolutionary Dynamics
+Profile: https://treehouse-iitb.github.io/
+
+--- Professor ---
+Name: Prof. S. Ravichandran
+Department: Climate Studies
+Email: sravichandran@iitb.ac.in
+Research Areas: Fluid Dynamics of Climate, Cloud Microphysics, Sea Ice Melting, Convective Dynamics, Urban Flows
+Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+--- Professor ---
+Name: Prof. Suyash Bire
+Department: Climate Studies
+Email: suyash.bire@iitb.ac.in
+Research Areas: Physical Oceanography, Ocean Circulation, Small-Scale Turbulence, Ocean-Atmosphere Interactions
+Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+--- Professor ---
+Name: Prof. Vishal Dixit
+Department: Climate Studies
+Email: vdixit@iitb.ac.in
+Research Areas: Tropical Climate Dynamics, Monsoon Dynamics, Cloud-Resolving Modelling, Climate Modelling
+Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+--- Professor ---
+Name: Prof. Rangan Banerjee
+Department: Climate Studies
+Email: rangan@iitb.ac.in
+Research Areas: Energy Systems Modelling, Energy Policy, Power Systems Planning, Cogeneration, Fuel Cell & Hydrogen Storage
+Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/rangan-banerjee
+
+--- Professor ---
+Name: Prof. Harish C. Phuleria
+Department: Climate Studies
+Email: phuleria@iitb.ac.in
+Research Areas: Air Pollution Exposure Assessment, Aerosol Characterisation, Source Apportionment, Environmental Health, Transportation Noise
+Profile: https://www.climate.iitb.ac.in/index.php/associate-faculty/harish-c-phuleria/

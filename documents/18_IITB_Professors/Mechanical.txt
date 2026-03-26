@@ -1,0 +1,12 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Mechanical
+Department: Mechanical
+Total Faculty: 1
+
+--- Professor ---
+Name: Prof. Atul Sharma
+Department: Mechanical
+Email: atulsharma@iitb.ac.in
+Research Areas: Thermal/Fluids (CFD)

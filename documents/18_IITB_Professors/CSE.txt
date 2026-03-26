@@ -1,0 +1,1457 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — CSE
+Department: CSE
+Total Faculty: 145
+
+--- Professor ---
+Name: Prof. Sunita Sarawagi
+Professor (HAG) · Founding Head CMInDS
+Department: CSE
+Email: sunita@cse.iitb.ac.in
+Research Areas: AI / ML Group
+ML, Graphical Models, Data Mining, Web IR
+Profile: https://www.cse.iitb.ac.in/~sunita/
+
+--- Professor ---
+Name: Prof. Ganesh Ramakrishnan
+Professor
+Department: CSE
+Email: ganesh@cse.iitb.ac.in
+Research Areas: AI / ML Group
+NLP, Multilingual AI, Data-efficient ML, BharatGen
+Profile: https://www.cse.iitb.ac.in/~ganesh/
+
+--- Professor ---
+Name: Assoc. Prof. Preethi Jyothi
+Associate Professor
+Department: CSE
+Email: pjyothi@cse.iitb.ac.in
+Research Areas: AI / ML Group
+Speech & Language, Low-resource ASR, Code-switching
+Profile: https://www.cse.iitb.ac.in/~pjyothi/csalt/
+
+--- Professor ---
+Name: Asst. Prof. Arpit Agarwal
+Assistant Professor
+Department: CSE
+Email: aarpit@cse.iitb.ac.in
+Research Areas: AI / ML Group
+ML, Human-AI Interaction, Responsible AI
+Profile: https://www.cse.iitb.ac.in/~aarpit/
+
+--- Professor ---
+Name: Asst. Prof. Abir De
+Assistant Professor
+Department: CSE
+Email: abir@cse.iitb.ac.in
+Research Areas: AI / ML Group
+Graph/Set ML, Social Networks, Privacy
+Profile: https://trustlab.iitb.ac.in/
+
+--- Professor ---
+Name: Asst. Prof. Avishek Ghosh
+Assistant Professor
+Department: CSE
+Email: avishek@cse.iitb.ac.in
+Research Areas: AI / ML Group
+Federated Learning, Multi-armed Bandits, RL Theory
+Profile: https://sites.google.com/view/avishekghosh/home
+
+--- Professor ---
+Name: Prof. Shivaram Kalyanakrishnan
+Professor
+Department: CSE
+Email: shivaram@cse.iitb.ac.in
+Research Areas: AI / ML Group
+Reinforcement Learning, Robotics, Bandits
+Profile: https://www.cse.iitb.ac.in/~shivaram/
+
+--- Professor ---
+Name: Assoc. Prof. Swaprava Nath
+Associate Professor
+Department: CSE
+Email: swaprava@cse.iitb.ac.in
+Research Areas: AI / ML Group
+Game Theory, Mechanism Design, Computational Social Choice
+Profile: https://www.cse.iitb.ac.in/~swaprava/
+
+--- Professor ---
+Name: Prof. Soumen Chakrabarti
+Halepete Chair Professor
+Department: CSE
+Email: soumen@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+Graph Mining, Knowledge Graphs, Hypertext Databases
+Profile: https://www.cse.iitb.ac.in/~soumen/
+
+--- Professor ---
+Name: Prof. Sharat Chandran
+Professor
+Department: CSE
+Email: sharat@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+Medical Imaging, Computer Vision, Parallel Algorithms
+Profile: https://www.cse.iitb.ac.in/~sharat/
+
+--- Professor ---
+Name: Assoc. Prof. Suyash P. Awate
+Associate Professor
+Department: CSE
+Email: suyash@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+Medical Image Computing, Bayesian ML, CV
+Profile: https://www.cse.iitb.ac.in/~suyash/
+
+--- Professor ---
+Name: Prof. Parag Chaudhuri
+Professor
+Department: CSE
+Email: paragc@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+Computer Graphics, Animation, AR/VR
+Profile: https://www.cse.iitb.ac.in/~paragc/
+
+--- Professor ---
+Name: Assoc. Prof. Siddhartha Chaudhuri
+Associate Professor
+Department: CSE
+Email: sidch@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+3D Shape Analysis, Generative Models for 3D
+Profile: https://www.cse.iitb.ac.in/~sidch/
+
+--- Professor ---
+Name: Assoc. Prof. Ajit Rajwade
+Associate Professor
+Department: CSE
+Email: ajitvr@cse.iitb.ac.in
+Research Areas: Vision / Graphics
+Image/Signal Processing, Compressed Sensing, Group Testing
+Profile: https://www.cse.iitb.ac.in/~ajitvr/
+
+--- Professor ---
+Name: Prof. Varsha Apte
+Professor
+Department: CSE
+Email: varsha@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Perf. Modelling, Distributed Apps, e-Learning
+Profile: https://www.cse.iitb.ac.in/~varsha/
+
+--- Professor ---
+Name: Prof. Umesh Bellur
+Professor
+Department: CSE
+Email: umesh.bellur@iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Cloud Computing, Distributed Systems
+Profile: https://www.cse.iitb.ac.in/~umesh/
+
+--- Professor ---
+Name: Prof. Bhaskaran Raman
+Professor
+Department: CSE
+Email: br@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Wireless Networks, ICT for Dev
+Profile: https://www.cse.iitb.ac.in/~br/
+
+--- Professor ---
+Name: Assoc. Prof. Kameswari Chebrolu
+Associate Professor
+Department: CSE
+Email: chebrolu@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Wireless/Mobile Networks, ICT for Dev
+Profile: https://www.cse.iitb.ac.in/~chebrolu/
+
+--- Professor ---
+Name: Assoc. Prof. Purushottam Kulkarni
+Associate Professor
+Department: CSE
+Email: puru@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+OS, Virtualization, Cloud & Edge Systems
+Profile: https://www.cse.iitb.ac.in/~puru/
+
+--- Professor ---
+Name: Assoc. Prof. Mythili Vutukuru
+Associate Professor
+Department: CSE
+Email: mythili@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Computer Networks, OS, Networked Systems
+Profile: https://www.cse.iitb.ac.in/~mythili/
+
+--- Professor ---
+Name: Asst. Prof. Biswabandan Panda
+Assistant Professor
+Department: CSE
+Email: biswa@cse.iitb.ac.in
+Research Areas: Systems / Networks (SYNERG)
+Computer Architecture, Microarch. Security
+Profile: https://www.cse.iitb.ac.in/~biswa/
+
+--- Professor ---
+Name: Prof. S. Sudarshan
+Professor (Former HoD)
+Department: CSE
+Email: sudarsha@cse.iitb.ac.in
+Research Areas: Databases / InfoLab
+Query Processing, DB Testing, Keyword Querying
+Profile: https://www.cse.iitb.ac.in/~sudarsha/
+
+--- Professor ---
+Name: Prof. Krithi Ramamritham
+Professor (HAG)
+Department: CSE
+Email: krithi@cse.iitb.ac.in
+Research Areas: Databases / InfoLab
+Real-time DB, IoT, Embedded Systems
+Profile: https://www.cse.iitb.ac.in/~krithi/
+
+--- Professor ---
+Name: Assoc. Prof. Saketha Nath J
+Associate Professor
+Department: CSE
+Email: saketh@cse.iitb.ac.in
+Research Areas: Databases / InfoLab
+ML Optimization, Large-scale Learning
+Profile: https://www.cse.iitb.ac.in/~saketh/
+
+--- Professor ---
+Name: Asst. Prof. Suraj Shetiya
+Assistant Professor
+Department: CSE
+Email: surajs@cse.iitb.ac.in
+Research Areas: Databases / InfoLab
+Fairness in Databases, Computational Geometry
+Profile: https://www.cse.iitb.ac.in/~surajs/
+
+--- Professor ---
+Name: Prof. Abhiram Ranade
+Professor (HAG)
+Department: CSE
+Email: ranade@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Algorithms, Parallel Computing
+Profile: https://www.cse.iitb.ac.in/~ranade/
+
+--- Professor ---
+Name: Prof. Ajit Diwan
+Professor
+Department: CSE
+Email: aad@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Graph Theory, Combinatorics
+Profile: https://www.cse.iitb.ac.in/~aad/
+
+--- Professor ---
+Name: Prof. Bharat Adsul
+Professor
+Department: CSE
+Email: adsul@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Algorithms, Complexity, Combinatorial Optimization
+Profile: https://www.cse.iitb.ac.in/~adsul/
+
+--- Professor ---
+Name: Prof. Manoj Prabhakaran
+Vashee Chair Professor
+Department: CSE
+Email: mp@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Cryptography, Information Theory
+Profile: https://www.cse.iitb.ac.in/~mp/
+
+--- Professor ---
+Name: Prof. Nutan Limaye
+Professor
+Department: CSE
+Email: nutan@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Circuit Complexity, Algebraic Complexity
+Profile: https://www.cse.iitb.ac.in/~nutan/
+
+--- Professor ---
+Name: Prof. Srikanth Srinivasan
+Professor
+Department: CSE
+Email: srikanth@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Computational Complexity, Boolean Functions
+Profile: https://www.cse.iitb.ac.in/~srikanth/
+
+--- Professor ---
+Name: Prof. Sundar Vishwanathan
+Professor
+Department: CSE
+Email: sundar@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Algorithms, Graph Algorithms
+Profile: https://www.cse.iitb.ac.in/~sundar/
+
+--- Professor ---
+Name: Assoc. Prof. S Akshay
+Associate Professor
+Department: CSE
+Email: akshayss@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Formal Methods, Automata, Logic
+Profile: https://www.cse.iitb.ac.in/~akshayss/
+
+--- Professor ---
+Name: Assoc. Prof. Sujoy Bhore
+Associate Professor
+Department: CSE
+Email: sujoy@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Computational Geometry, Algorithms under Uncertainty
+Profile: https://www.cse.iitb.ac.in/~sujoy/
+
+--- Professor ---
+Name: Prof. Supratik Chakraborty
+Bajaj Group Chair Professor
+Department: CSE
+Email: supratik@cse.iitb.ac.in
+Research Areas: Formal Verification / PL (CFDVS)
+Formal Verification, Constrained Sampling, Automata
+Profile: https://www.cse.iitb.ac.in/~supratik/
+
+--- Professor ---
+Name: Prof. Uday Khedker
+Professor
+Department: CSE
+Email: uday@cse.iitb.ac.in
+Research Areas: Formal Verification / PL (CFDVS)
+Compilers, Program Analysis, Data Flow
+Profile: https://www.cse.iitb.ac.in/~uday/
+
+--- Professor ---
+Name: Prof. Amitabha Sanyal
+Professor (HAG)
+Department: CSE
+Email: as@cse.iitb.ac.in
+Research Areas: Formal Verification / PL (CFDVS)
+Programming Languages, Functional/Logic PL
+Profile: https://www.cse.iitb.ac.in/~as/
+
+--- Professor ---
+Name: Prof. Supratim Biswas
+Professor
+Department: CSE
+Email: sb@cse.iitb.ac.in
+Research Areas: Formal Verification / PL (CFDVS)
+Compilers, Parallelism, Functional PL
+Profile: https://www.cse.iitb.ac.in/~sb/
+
+--- Professor ---
+Name: Assoc. Prof. Ashutosh Gupta
+Associate Professor
+Department: CSE
+Email: akg@cse.iitb.ac.in
+Research Areas: Formal Verification / PL (CFDVS)
+Model Checking, Biological Systems Modelling
+Profile: https://www.cse.iitb.ac.in/~akg/
+
+--- Professor ---
+Name: Prof. Bernard Menezes
+Professor
+Department: CSE
+Email: bernard@cse.iitb.ac.in
+Research Areas: Security & Cryptography
+Network Security, Cryptography
+Profile: https://www.cse.iitb.ac.in/~bernard/
+
+--- Professor ---
+Name: Assoc. Prof. Kavi Arya
+Associate Professor
+Department: CSE
+Email: kavi@cse.iitb.ac.in
+Research Areas: Embedded & RT Systems (ERTS)
+Embedded Systems, Real-time OS, Robotics
+Profile: https://www.cse.iitb.ac.in/~kavi/
+
+--- Professor ---
+Name: Prof. Sridhar Iyer
+Professor
+Department: CSE
+Email: sri@cse.iitb.ac.in
+Research Areas: Education Technology
+Technology-enhanced Learning, CS Education Research
+Profile: https://www.cse.iitb.ac.in/~sri/
+
+--- Professor ---
+Name: Prof. Milind Sohoni
+Professor
+Department: CSE
+Email: sohoni@cse.iitb.ac.in
+Research Areas: Theoretical CS / Math
+Algorithms, Geometric Complexity Theory
+Profile: https://www.cse.iitb.ac.in/~sohoni/
+
+--- Professor ---
+Name: Prof. G. Sivakumar
+Professor
+Department: CSE
+Email: siva@cse.iitb.ac.in
+Research Areas: Theoretical CS
+Logic, Automata, Formal Methods
+Profile: https://www.cse.iitb.ac.in/~siva/
+
+--- Professor ---
+Name: Prof. Rushikesh K. Joshi
+Professor
+Department: CSE
+Email: rkj@cse.iitb.ac.in
+Research Areas: Software Engineering
+Component Architectures, Software Design
+Profile: https://www.cse.iitb.ac.in/~rkj/
+
+--- Professor ---
+Name: Prof. Jugal K. Verma
+Professor (HAG)
+Department: CSE
+Email: jkv@math.iitb.ac.in
+Research Areas: Commutative Algebra
+Hilbert functions, Mixed multiplicities,
+Rees algebras, Blow-up algebras, Local cohomology
+Profile: https://www.math.iitb.ac.in/~jkv/
+
+--- Professor ---
+Name: Prof. Sudarshan R. Gurjar
+Professor · HoD (Current)
+Department: CSE
+Email: sgurjar@math.iitb.ac.in
+Research Areas: Algebraic Geometry
+Fundamental groups, Algebraic curves,
+Affine algebraic geometry, Algebraic K-theory
+Profile: https://www.math.iitb.ac.in/~sgurjar/
+
+--- Professor ---
+Name: Prof. Ravi Raghunathan
+Professor
+Department: CSE
+Email: ravir@math.iitb.ac.in
+Research Areas: Number Theory & Automorphic Forms
+L-functions, Analytic number theory,
+Automorphic representations, Modular forms
+Profile: https://www.math.iitb.ac.in/~ravir/
+
+--- Professor ---
+Name: Prof. Ananthnarayan Hariharan
+Professor
+Department: CSE
+Email: ananth@math.iitb.ac.in
+Research Areas: Commutative Algebra
+Local rings, Homological conjectures,
+Gorenstein rings, DG algebras
+Profile: https://www.math.iitb.ac.in/~ananth/
+
+--- Professor ---
+Name: Prof. Sandip Singh
+Professor
+Department: CSE
+Email: sandip@math.iitb.ac.in
+Research Areas: Number Theory & Representation Theory
+Galois representations, p-adic Langlands program,
+Automorphic forms, Shimura varieties
+Profile: https://sites.google.com/site/sandiptifr/
+
+--- Professor ---
+Name: Assoc. Prof. Saurav Bhaumik
+Associate Professor
+Department: CSE
+Email: saurav@math.iitb.ac.in
+Research Areas: Algebraic Geometry
+Algebraic cycles, Motives,
+Moduli spaces, Special values of L-functions
+Profile: https://www.math.iitb.ac.in/~saurav/
+
+--- Professor ---
+Name: Assoc. Prof. Swapneel Mahajan
+Associate Professor
+Department: CSE
+Email: swapneel@math.iitb.ac.in
+Research Areas: Algebraic Combinatorics
+Hopf algebras, Coxeter groups,
+Monoid theory, Species theory
+Profile: https://www.math.iitb.ac.in/~swapneel/
+
+--- Professor ---
+Name: Asst. Prof. Madhusudan Manjunath
+Assistant Professor
+Department: CSE
+Email: madhu@math.iitb.ac.in
+Research Areas: Combinatorial Algebra & Tropical Geometry
+Chip-firing, Tropical curves,
+Combinatorial commutative algebra, Graph theory
+Profile: https://www.math.iitb.ac.in/~madhu/
+
+--- Professor ---
+Name: Prof. Preeti Raman
+Professor
+Department: CSE
+Email: preeti@math.iitb.ac.in
+Research Areas: Algebra & Number Theory
+Quadratic forms, Central simple algebras,
+Galois cohomology, Linear algebraic groups
+Profile: https://www.math.iitb.ac.in/~preeti/
+
+--- Professor ---
+Name: Prof. Krishnan Sivasubramanian
+Professor
+Department: CSE
+Email: krishnan@math.iitb.ac.in
+Research Areas: Combinatorics & Graph Theory
+Algebraic combinatorics, Representation theory of
+finite groups, Codes and designs
+Profile: https://www.math.iitb.ac.in/~krishnan/
+
+--- Professor ---
+Name: Prof. Niranjan Balachandran
+Professor
+Department: CSE
+Email: niranjan@math.iitb.ac.in
+Research Areas: Combinatorics
+Extremal combinatorics, Combinatorial number theory,
+Graph theory, Discrete geometry
+Profile: https://www.math.iitb.ac.in/~niranj/
+
+--- Professor ---
+Name: Asst. Prof. Gunja Sachdeva
+Assistant Professor
+Department: CSE
+Email: gunja@math.iitb.ac.in
+Research Areas: Algebraic Geometry
+Algebraic cycles, Moduli spaces,
+Special values of L-functions, Motives
+Profile: https://www.math.iitb.ac.in/~gunja/
+
+--- Professor ---
+Name: Prof. Sivaji Ganesh Sista
+Professor
+Department: CSE
+Email: sivaji.ganesh@math.iitb.ac.in
+Research Areas: Partial Differential Equations
+Hyperbolic conservation laws, Nonlinear waves,
+Shock formation, Singular limits
+Profile: https://www.math.iitb.ac.in/~sivaji/
+
+--- Professor ---
+Name: Assoc. Prof. Harsha Hutridurga
+Associate Professor
+Department: CSE
+Email: harsha@math.iitb.ac.in
+Research Areas: PDEs & Homogenization
+Hyperbolic relaxation systems, Kinetic theory,
+Homogenization of differential equations,
+Multiscale analysis
+Profile: https://hutridurga.wordpress.com/
+
+--- Professor ---
+Name: Prof. Santanu Dey
+Professor
+Department: CSE
+Email: santanu.dey@math.iitb.ac.in
+Research Areas: Functional Analysis & Operator Theory
+Dilations, Operator spaces,
+Multivariable operator theory, Hardy spaces over polydisc
+Profile: https://www.math.iitb.ac.in/~santanu/
+
+--- Professor ---
+Name: Assoc. Prof. Sourav Pal
+Associate Professor
+Department: CSE
+Email: sourav@math.iitb.ac.in
+Research Areas: Complex Analysis & Operator Theory
+Function theory, Spectral sets,
+Tetrablock/Symmetrized bidisc, Dilation theory
+Profile: https://www.math.iitb.ac.in/~sourav/
+
+--- Professor ---
+Name: Assoc. Prof. Bata Krishna Das
+Associate Professor
+Department: CSE
+Email: bata.krishna@math.iitb.ac.in
+Research Areas: Functional Analysis
+Dilations of tuples of operators,
+Commutant lifting, Reproducing kernel Hilbert spaces
+Profile: https://www.math.iitb.ac.in/~bata/
+
+--- Professor ---
+Name: Assoc. Prof. Sanjoy Pusti
+Associate Professor
+Department: CSE
+Email: sanjoy.pusti@math.iitb.ac.in
+Research Areas: Harmonic Analysis
+Harmonic analysis on Lie groups,
+Special functions, Uncertainty principles,
+Fourier analysis
+Profile: https://www.math.iitb.ac.in/~sanjoy/
+
+--- Professor ---
+Name: Asst. Prof. Saikat Mazumdar
+Assistant Professor
+Department: CSE
+Email: saikat@math.iitb.ac.in
+Research Areas: Geometric Analysis & PDEs
+Nonlinear elliptic PDEs, Riemannian geometry,
+Yamabe problem, Q-curvature equations, Hardy–Sobolev inequalities
+Profile: https://www.math.iitb.ac.in/~saikat/
+
+--- Professor ---
+Name: Asst. Prof. Debanjana Mitra
+Assistant Professor
+Department: CSE
+Email: debanjana@math.iitb.ac.in
+Research Areas: Control Theory & PDEs
+Controllability of fluid equations (Navier–Stokes, Stokes),
+Linearization and stabilization of PDEs
+Profile: https://www.math.iitb.ac.in/~debanjana/
+
+--- Professor ---
+Name: Asst. Prof. Mayukh Mukherjee
+Assistant Professor
+Department: CSE
+Email: mayukh@math.iitb.ac.in
+Research Areas: Spectral Geometry
+Eigenvalues of Laplacian on Riemannian manifolds,
+Isoperimetric problems, Heat kernel estimates
+Profile: https://www.math.iitb.ac.in/~mayukh/
+
+--- Professor ---
+Name: Asst. Prof. Prachi Mahajan
+Assistant Professor
+Department: CSE
+Email: prachi@math.iitb.ac.in
+Research Areas: Several Complex Variables
+Pseudoconvex domains, Kobayashi metric,
+Squeezing functions, Complex geometry
+Profile: https://www.math.iitb.ac.in/~prachi/
+
+--- Professor ---
+Name: Asst. Prof. Gunja Sachdeva
+Assistant Professor
+(also listed under Algebra)
+Department: CSE
+Email: gunja@math.iitb.ac.in
+Research Areas: Algebraic Geometry / Analysis interface
+Algebraic cycles, Moduli spaces
+Profile: https://www.math.iitb.ac.in/~gunja/
+
+--- Professor ---
+Name: Prof. P. Vellaisamy
+Professor
+Department: CSE
+Email: vellaisa@math.iitb.ac.in
+Research Areas: Probability Theory
+Limit theorems, Stein–Chen method,
+Distribution approximations, Compound Poisson approximations
+Profile: https://www.math.iitb.ac.in/~vellaisa/
+
+--- Professor ---
+Name: Prof. Siuli Mukhopadhyay
+Professor · Associated Faculty, KCDH
+Department: CSE
+Email: siuli@math.iitb.ac.in
+Research Areas: Biostatistics & Experimental Design
+Clinical trials, Longitudinal data,
+Optimal design, National Disease Modelling Consortium (NDMC)
+Profile: https://sites.google.com/view/siulis-homepage/home
+
+--- Professor ---
+Name: Prof. K. Suresh Kumar
+Professor
+Department: CSE
+Email: suresh@math.iitb.ac.in
+Research Areas: Stochastic Control & Mathematical Finance
+Controlled diffusions, Risk-sensitive control,
+Mathematical finance, Markov selection
+Profile: https://www.math.iitb.ac.in/~suresh/
+
+--- Professor ---
+Name: Assoc. Prof. Radhendushka Srivastava
+Associate Professor
+Department: CSE
+Email: radhendushka@math.iitb.ac.in
+Research Areas: Statistics & Data Science
+Statistical modelling, High-dimensional inference,
+Multiple testing, Network models
+Profile: https://www.math.iitb.ac.in/~radhendushka/
+
+--- Professor ---
+Name: Asst. Prof. Ayan Bhattacharya
+Assistant Professor
+Department: CSE
+Email: ayan@math.iitb.ac.in
+Research Areas: Probability Theory
+Extreme value theory, Random matrices,
+Free probability, Heavy-tailed distributions
+Profile: https://www.math.iitb.ac.in/~ayan/
+
+--- Professor ---
+Name: Asst. Prof. Monika Bhattacharjee
+Assistant Professor
+Department: CSE
+Email: monika@math.iitb.ac.in
+Research Areas: High-Dimensional Statistics
+Asymptotic statistics, Random matrix theory,
+Covariance estimation, High-dimensional testing
+Profile: https://www.math.iitb.ac.in/~monika/
+
+--- Professor ---
+Name: Prof. Neela Nataraj
+Professor
+Department: CSE
+Email: neela@math.iitb.ac.in
+Research Areas: Numerical Analysis & Scientific Computing
+Finite element methods, Adaptive algorithms,
+Numerical PDEs, A posteriori error analysis
+Profile: https://www.math.iitb.ac.in/~neela/
+
+--- Professor ---
+Name: Assoc. Prof. Rekha Santhanam
+Associate Professor
+Department: CSE
+Email: rekha@math.iitb.ac.in
+Research Areas: Algebraic Topology
+Equivariant homotopy theory,
+K-theory, Operads, Cobordism
+Profile: https://www.math.iitb.ac.in/~rekha/
+
+--- Professor ---
+Name: Prof. Amiya Kumar Pani
+Professor (HAG)
+Department: CSE
+Email: akp@math.iitb.ac.in
+Research Areas: Numerical Methods for PDEs
+Finite element methods, Error analysis,
+Nonlinear parabolic problems
+Profile: https://www.math.iitb.ac.in/~akp/
+
+--- Professor ---
+Name: Prof. Raju Bartaula
+Professor (Applied Math)
+Department: CSE
+Email: raju@math.iitb.ac.in
+Research Areas: Fluid Mechanics & Applied Mathematics
+Computational fluid dynamics,
+Boundary layer theory, Numerical simulation
+Profile: https://www.math.iitb.ac.in/~raju/
+
+--- Professor ---
+Name: Asst. Prof. Harsha Hutridurga
+Associate Professor
+(also in Analysis sheet)
+Department: CSE
+Email: harsha@math.iitb.ac.in
+Research Areas: PDEs & Homogenization
+Kinetic equations, Multiscale methods,
+Hyperbolic relaxation, Transport equations
+Profile: https://hutridurga.wordpress.com/
+
+--- Professor ---
+Name: Prof. Ranjith Padinhateeri
+Professor-In-Charge, KCDH
+Professor, Dept. of Biosciences & Bioengineering (BSBE)
+Department: CSE
+Email: ranjithp@iitb.ac.in
+Research Areas: Computational Biology & Biophysics
+Chromatin organization & nucleosome positioning,
+Soft-matter physics, Bioinformatics, Systems Biology
+Profile: https://www.bio.iitb.ac.in/people/faculty/ranjith-p/
+
+--- Professor ---
+Name: Asst. Prof. Kshitij S. Jadhav
+Assistant Professor, KCDH
+(MBBS, MD Pharmacology, PhD Neuroscience — Univ. of Lausanne)
+Department: CSE
+Email: kshitij@iitb.ac.in
+Research Areas: Healthcare Analytics & AI/ML · LLMs in Healthcare
+Medical Data-Efficient ML, Federated Learning,
+Large Language Models for Healthcare (KARMA, RadJEPA),
+Chief Coordinator — AI CoE, MoE, GoI
+Profile: https://www.kcdh.iitb.ac.in/kshitij
+
+--- Professor ---
+Name: Asst. Prof. Saket Choudhary
+Assistant Professor, KCDH
+(PhD USC; Postdoc — NY Genome Center)
+Department: CSE
+Email: saket@iitb.ac.in
+Research Areas: Computational Biology & Bioinformatics
+Gene expression regulation, Single-cell genomics,
+Computational Pathology, Biostatistics, Computer Vision
+Profile: https://www.kcdh.iitb.ac.in/saket
+
+--- Professor ---
+Name: Asst. Prof. Nirmal Punjabi
+Assistant Professor, KCDH
+Department: CSE
+Email: nirmal.punjabi@iitb.ac.in
+Research Areas: Wearable Health Technologies & Biosensors
+Consumer Health & Tele-Medicine,
+Healthcare Analytics & AI/ML,
+Wearable systems for vital parameter monitoring
+Profile: https://www.kcdh.iitb.ac.in/nirmal
+
+--- Professor ---
+Name: Col (Dr) Kalyani Addya (Retd.)
+Professor of Practice, KCDH
+Department: CSE
+Email: kalyani.addya@iitb.ac.in
+Research Areas: Clinical Data Management & Digital Transformation
+Health IT, Clinical care, Global medical administration,
+Digital health platforms & regulatory compliance
+Profile: https://www.kcdh.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Prof. Ganesh Ramakrishnan
+Professor, Dept. of Computer Science & Engineering
+(Bank of Baroda Chair, Digital Entrepreneurship)
+Department: CSE
+Email: ganesh@cse.iitb.ac.in
+Research Areas: NLP / Multilingual AI · LLMs
+Healthcare Analytics & AI/ML, Population Health,
+BharatGen, Constrained Decoding for medical NLP
+Profile: https://www.cse.iitb.ac.in/~ganesh/
+
+--- Professor ---
+Name: Prof. Abir De
+Assistant Professor, Dept. of Computer Science & Engineering
+Department: CSE
+Email: abir@cse.iitb.ac.in
+Research Areas: Healthcare Analytics & AI/ML
+Graph ML, Privacy-preserving Learning,
+Fairness in healthcare AI
+Profile: https://trustlab.iitb.ac.in/
+
+--- Professor ---
+Name: Assoc. Prof. Ajit Rajwade
+Associate Professor, Dept. of Computer Science & Engineering
+Department: CSE
+Email: ajitvr@cse.iitb.ac.in
+Research Areas: Medical Image Processing
+Image Reconstruction, Compressed Sensing,
+Computer Vision for healthcare, Cancer imaging (Tata Memorial)
+Profile: https://www.cse.iitb.ac.in/~ajitvr/
+
+--- Professor ---
+Name: Prof. Amit Sethi
+Professor, Dept. of Electrical Engineering
+Department: CSE
+Email: asethi@ee.iitb.ac.in
+Research Areas: AI/ML in Healthcare · Medical Imaging
+Computational Pathology, Deep Learning for diagnostics,
+AI in Metabolic Diseases, Biomedical Sensors
+Profile: https://www.ee.iitb.ac.in/~asethi/
+
+--- Professor ---
+Name: Prof. Ranjith Padinhateeri
+Professor, BSBE (also Professor-in-Charge, KCDH)
+Department: CSE
+Email: ranjithp@iitb.ac.in
+Research Areas: Computational Biology & Bioinformatics
+Chromatin physics, Nucleosome dynamics, Biophysics
+Profile: https://www.bio.iitb.ac.in/people/faculty/ranjith-p/
+
+--- Professor ---
+Name: Prof. Shamik Sen
+Professor, Dept. of Biosciences & Bioengineering
+Department: CSE
+Email: shamiks@iitb.ac.in
+Research Areas: Cancer Biomechanics & Cell Biology
+Mechanobiology, Cancer cell mechanics,
+Collective invasion in cancer (npj Sys. Biol., 2025)
+Profile: https://www.bio.iitb.ac.in/people/faculty/shamik-sen/
+
+--- Professor ---
+Name: Prof. Ashutosh Kumar
+Professor, Dept. of Biosciences & Bioengineering
+Department: CSE
+Email: ashutosh@iitb.ac.in
+Research Areas: Biomedical Engineering
+Drug delivery, Biomaterials, Tissue Engineering,
+Healthcare applications in diagnostics
+Profile: https://www.bio.iitb.ac.in/people/faculty/ashutosh-kumar/
+
+--- Professor ---
+Name: Prof. Pramod P. Wangikar
+Professor, Dept. of Chemical Engineering
+Department: CSE
+Email: wangikar@iitb.ac.in
+Research Areas: Computational Biology & Metabolomics
+Blood-based metabolic biomarkers for diabetes/kidney disease,
+Systems biology, Metabolic engineering
+Profile: https://www.che.iitb.ac.in/faculty/pramod-p-wangikar
+
+--- Professor ---
+Name: Prof. Siuli Mukhopadhyay
+Professor, Dept. of Mathematics
+Department: CSE
+Email: siuli@math.iitb.ac.in
+Research Areas: Biostatistics & Population Health
+Statistical methods for clinical trials,
+Experimental design, Healthcare data analytics
+Profile: https://www.math.iitb.ac.in/~siuli/
+
+--- Professor ---
+Name: Prof. Mithun Kumar Mitra
+Professor, Dept. of Physics
+Department: CSE
+Email: mithun@phy.iitb.ac.in
+Research Areas: Mathematical Modelling in Healthcare
+Compartmental & statistical models for infectious disease,
+Biophysics, Computational modelling
+Profile: https://www.phy.iitb.ac.in/en/content/mithun-kumar-mitra
+
+--- Professor ---
+Name: Assoc. Prof. Manjesh Kumar Hanawal
+Associate Professor, Dept. of IEOR
+Department: CSE
+Email: mhanawal@iitb.ac.in
+Research Areas: Healthcare Operations & ML
+Online Learning, Bandits,
+ML applications in healthcare resource allocation
+Profile: https://www.ieor.iitb.ac.in/mhanawal
+
+--- Professor ---
+Name: Prof. Sarthak Gaurav
+Professor, Shailesh J. Mehta School of Management (SJMSOM)
+Department: CSE
+Email: sarthak.gaurav@iitb.ac.in
+Research Areas: Population Health & Health Economics
+Public health policy, Health informatics,
+Digital health economics, Behavioural interventions
+Profile: https://www.som.iitb.ac.in/faculty/sarthak-gaurav/
+
+--- Professor ---
+Name: Prof. Souvik Banerjee
+Professor, Dept. of Humanities & Social Sciences
+Department: CSE
+Email: souvik@hss.iitb.ac.in
+Research Areas: Health Policy & Social Determinants
+Socioeconomic determinants of health,
+Digital health equity, Public health policy
+Profile: https://www.hss.iitb.ac.in/en/faculty-profile/souvik-banerjee
+
+--- Professor ---
+Name: Prof. Biplab Banerjee
+Professor, CSRE & C-MInDS, IIT Bombay
+Department: CSE
+Email: biplab@csre.iitb.ac.in
+Research Areas: AI/ML & Remote Sensing in Healthcare
+Deep Learning, Hyperspectral imaging,
+ML for population health & epidemiology
+Profile: https://www.csre.iitb.ac.in/biplab-banerjee
+
+--- Professor ---
+Name: Dr. Parichoy Pal Choudhury
+Visiting Associate Professor, KCDH
+(Principal Scientist, American Cancer Society)
+Department: CSE
+Email: ppchoudhury@cancer.org
+Research Areas: Biostatistics & Cancer Epidemiology
+Cancer risk-prediction models (iCARE, Wasm-iCARE),
+Prevention science, Health disparities
+Profile: https://www.kcdh.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Prof. Shantanu Chowdhury
+Visiting Associate Professor, KCDH
+(CSIR-IGIB, New Delhi)
+Department: CSE
+Email: shantanuc@igib.in
+Research Areas: Cancer Genomics & Immunology
+Telomere biology, Tumor-immune cell signaling,
+Pan-India breast cancer genomes program
+Profile: https://www.kcdh.iitb.ac.in/news-events
+
+--- Professor ---
+Name: Dr. Karthik Adapa
+Visiting Faculty
+(WHO-SEARO Regional Adviser for Digital Health;
+UNC School of Medicine)
+Department: CSE
+Email: kadapa@unc.edu
+Research Areas: Digital Health Implementation Science
+AI for clinical decision support,
+Digital health policy, Bench-to-bedside AI translation
+Profile: https://www.kcdh.iitb.ac.in/news-events
+
+--- Professor ---
+Name: Prof. Trupti Mishra
+Head, DSSE (since July 2025)
+Professor, SJM School of Management, IIT Bombay
+Department: CSE
+Email: truptimishra@iitb.ac.in
+Research Areas: Managerial Economics & Sustainability
+Managerial Economics, Circular Economy,
+Sustainable Finance, Energy Economics
+Profile: https://www.som.iitb.ac.in/prof-trupti-mishra/
+
+--- Professor ---
+Name: Assoc. Prof. Lina Sonne Vyas
+Associate Professor, DSSE
+(PhD Economics of Innovation, UNU-MERIT / Maastricht Univ.)
+Department: CSE
+Email: linasonnevyas@iitb.ac.in
+Research Areas: Innovation Economics & Social Entrepreneurship
+Impact of technological change & digitisation on society,
+Inclusive innovation, Social entrepreneurship,
+Entrepreneurial ecosystems, Gender & entrepreneurship,
+Innovation at the Base of Pyramid
+Profile: https://www.dsse.iitb.ac.in/people/lina-sonne-vyas
+
+--- Professor ---
+Name: Asst. Prof. Sankalp Pratap
+Assistant Professor, DSSE
+(PhD & MBA Strategic Management, IIM Calcutta)
+Department: CSE
+Email: sankalp.pratap@iitb.ac.in
+Research Areas: Entrepreneurship Ecosystems & Strategy
+DeepTech venture development, Lab-to-market translation,
+Entrepreneurship support organizations,
+Entrepreneurship education (UG / executives / craft economy)
+Profile: https://www.dsse.iitb.ac.in/people/sankalp-pratap
+
+--- Professor ---
+Name: Asst. Prof. Ramesh Kuruva
+Assistant Professor, DSSE
+(PhD IIT Madras)
+Department: CSE
+Email: ramesh.kuruva@iitb.ac.in
+Research Areas: Entrepreneurial Finance & Venture Funding
+Startup financing, Venture capital & funding ecosystems,
+Startup valuation, Entrepreneurship education
+Profile: https://www.dsse.iitb.ac.in/people/ramesh-kuruva
+
+--- Professor ---
+Name: Prof. Anuradha Narasimhan
+Professor-of-Practice, DSSE
+(Former Head, DSSE 2022–2025)
+Department: CSE
+Email: anu.narasimhan@iitb.ac.in
+Research Areas: Technology Entrepreneurship & Strategy
+24 years corporate experience in Strategy & Marketing,
+Technology commercialisation, Product-market fit,
+Pre-incubation program design (IDEAS, WiE)
+Profile: https://www.dsse.iitb.ac.in/people/anuradha-narasimhan
+
+--- Professor ---
+Name: Prof. Devdip Purkayastha
+Professor-of-Practice, DSSE
+(First PoP recruited at IITB, 2021)
+Department: CSE
+Email: devdip@iitb.ac.in
+Research Areas: Technology & Social Entrepreneurship
+Startup ecosystem (tech & social sectors),
+Investor advising, Technology entrepreneurship courses,
+Mentoring of startup teams
+Profile: https://www.dsse.iitb.ac.in/people/devdip-purkayastha
+
+--- Professor ---
+Name: Prof. Rajesh Gopinathan
+Professor-of-Practice, DSSE
+(Former MD & CEO, TCS)
+Department: CSE
+Email: r.gopinathan@iitb.ac.in
+Research Areas: Academia–Industry–Startup Interface
+Research-to-market translation,
+Technology industry leadership,
+Academia-corporate-startup ecosystem building
+Profile: https://www.dsse.iitb.ac.in/people/rajesh-gopinathan
+
+--- Professor ---
+Name: Raj Jaswa
+Adjunct / Honorary Professor of Practice, DSSE
+(Tech Entrepreneur; Ex-President, TiE Silicon Valley)
+Department: CSE
+Email: raj.jaswa@iitb.ac.in
+Research Areas: Technology Entrepreneurship
+Silicon Valley startup ecosystem,
+Tech venture building, Entrepreneurship education
+Profile: https://www.dsse.iitb.ac.in/people/raj-jaswa
+
+--- Professor ---
+Name: Vinay Dabholkar
+Adjunct Faculty, DSSE
+(Author: "8 Steps to Innovation"; Consultant)
+Department: CSE
+Email: i16236@iitb.ac.in
+Research Areas: Innovation & Design Thinking
+Innovation stamina, Design thinking,
+Mindfulness for entrepreneurs,
+Jugaad to excellence methodology
+Profile: https://www.dsse.iitb.ac.in/people/vinay-dabholkar
+
+--- Professor ---
+Name: Rajkumar Hirwani
+Adjunct Faculty, DSSE
+(Ex-Head IP Directorate, CSIR)
+Department: CSE
+Email: hirwani@iitb.ac.in
+Research Areas: IP Management & R&D Translation
+Intellectual Property management,
+R&D to commercialisation, Technology licensing,
+World Bank consultant (China & Indonesia)
+Profile: https://www.dsse.iitb.ac.in/people/rajkumar-hirwani
+
+--- Professor ---
+Name: Umakant Jayaram
+Adjunct Professor, DSSE
+(Director Public Interest, BSE)
+Department: CSE
+Email: umakantj@iitb.ac.in
+Research Areas: Entrepreneurial Finance & Capital Markets
+Capital markets, Startup financing,
+Venture investment, Entrepreneurial finance education
+Profile: https://www.dsse.iitb.ac.in/people/umakant-jayaram
+
+--- Professor ---
+Name: Ramesh Mangaleswaran
+Adjunct Faculty, DSSE
+(Senior Partner Emeritus, McKinsey & Company)
+Department: CSE
+Email: ramesh.mangaleswaran@iitb.ac.in
+Research Areas: Strategy & Innovation Management
+Strategy consulting, Innovation management,
+Business scaling, South Asia entrepreneurship
+Profile: https://www.dsse.iitb.ac.in/people/ramesh-mangaleswaran
+
+--- Professor ---
+Name: Milind Kopikare
+Adjunct Faculty, DSSE
+(Ex-Google, Qualtrics, McKinsey, Marvell)
+Department: CSE
+Email: milind.kopikare@iitb.ac.in
+Research Areas: Product & Technology Management
+Product development (zero to scale),
+Tech product strategy, Silicon Valley tech ecosystem
+Profile: https://www.dsse.iitb.ac.in/people/milind-kopikare
+
+--- Professor ---
+Name: Rizwan Koita
+Honorary Professor of Practice, DSSE
+(Entrepreneur & Philanthropist; Koita Foundation)
+Department: CSE
+Email: rizwank@iitb.ac.in
+Research Areas: Social Impact & Deep-tech Entrepreneurship
+Emerging technology for social impact,
+Business process innovation, Philanthropic ventures
+(KCDH, Koita Foundation)
+Profile: https://www.dsse.iitb.ac.in/people/rizwan-koita
+
+--- Professor ---
+Name: Anand Deshpande
+Honorary Adjunct, DSSE
+(Founder, Chairman & MD — Persistent Systems)
+Department: CSE
+Research Areas: Software & Technology Entrepreneurship
+Building global technology companies,
+Entrepreneurship in software industry,
+Institution building
+Profile: https://www.dsse.iitb.ac.in/people/anand-deshpande
+
+--- Professor ---
+Name: Prof. Santosh Gharpure
+Professor, Dept. of Chemistry, IIT Bombay
+(PG Committee Member, DSSE)
+Department: CSE
+Email: sjgharpure@iitb.ac.in
+Research Areas: Organic Chemistry & Innovation
+Synthetic methodology, Natural product synthesis,
+Organic reaction mechanisms
+Profile: http://ether.chem.iitb.ac.in/~sjgharpure/
+
+--- Professor ---
+Name: Prof. Pramod P. Wangikar
+Professor, Dept. of Chemical Engineering, IIT Bombay
+(PG Committee Member, DSSE)
+Department: CSE
+Email: wangikar@iitb.ac.in
+Research Areas: Biotechnology & Metabolomics
+Metabolic engineering, Systems biology,
+Blood biomarkers for diabetes & kidney disease,
+Research commercialisation
+Profile: https://www.che.iitb.ac.in/faculty/pramod-p-wangikar
+
+--- Professor ---
+Name: Prof. Trupti Mishra
+Professor, SJMSOM, IIT Bombay
+(Head DSSE & PG Committee Chair)
+Department: CSE
+Email: truptimishra@iitb.ac.in
+Research Areas: Economics & Sustainable Finance
+Managerial Economics, Circular Economy,
+Sustainable Finance, Energy policy
+Profile: https://www.som.iitb.ac.in/prof-trupti-mishra/
+
+--- Professor ---
+Name: Prof. Nishant Sharma
+Professor, IDC School of Design, IIT Bombay
+(PG Committee Member, DSSE)
+Department: CSE
+Email: nishant@idc.iitb.ac.in
+Research Areas: Design & Innovation
+Interaction design, Design for social good,
+Product innovation, Design pedagogy
+Profile: https://www.idc.iitb.ac.in/nishant/bio.html
+
+--- Professor ---
+Name: Prof. Amit Sethi
+Professor, Dept. of Electrical Engineering, IIT Bombay
+(PG Committee Member, DSSE)
+Department: CSE
+Email: asethi@ee.iitb.ac.in
+Research Areas: AI/ML in Healthcare & MedTech
+Computational pathology, Medical image analysis,
+Deep learning diagnostics, AI-driven MedTech startups
+Profile: https://www.ee.iitb.ac.in/~asethi/
+
+--- Professor ---
+Name: Prof. Varun Bhalerao
+Professor, Dept. of Physics, IIT Bombay
+(PG Committee Member, DSSE)
+Department: CSE
+Email: varun@iitb.ac.in
+Research Areas: Astronomy & Space-tech Entrepreneurship
+X-ray astronomy, Gravitational wave follow-up,
+Space instrumentation, AstroSat / CZTI missions
+Profile: https://www.phy.iitb.ac.in/en/content/varun-bhalerao
+
+--- Professor ---
+Name: Prof. K.S. Mallikarjuna Rao
+Professor · Head of Department
+Department: CSE
+Email: mallik@iitb.ac.in
+Research Areas: Stochastic Control & Finance
+Deterministic/Stochastic Control, Differential Game Theory,
+Viscosity Solutions, Markov Decision Processes, Mathematical Finance
+Profile: https://www.ieor.iitb.ac.in/~mallik/
+
+--- Professor ---
+Name: Assoc. Prof. P. Balamurugan
+Associate Professor
+Department: CSE
+Email: balamurugan.palaniappan@iitb.ac.in
+Research Areas: Machine Learning & Optimization
+ML Theory & Practice, Deep Learning, Data Mining,
+Optimization for Data Science, Longitudinal Data Analysis
+Profile: https://sites.google.com/site/pbalamuru/
+
+--- Professor ---
+Name: Prof. Avinash Bhardwaj
+Professor
+Department: CSE
+Email: abhardwaj@iitb.ac.in
+Research Areas: Mathematical Optimization
+Linear & Nonlinear Mixed-Integer Optimization,
+Convex Optimization, Polyhedral Combinatorics, Optimization under Uncertainty
+Profile: https://www.ieor.iitb.ac.in/files/faculty/abhardwaj/
+
+--- Professor ---
+Name: Assoc. Prof. Manjesh Kumar Hanawal
+Associate Professor
+Department: CSE
+Email: mhanawal@iitb.ac.in
+Research Areas: Networks & ML
+Communication Networks, Machine Learning,
+Online Learning, Network Economics, Bandits
+Profile: https://www.ieor.iitb.ac.in/mhanawal
+
+--- Professor ---
+Name: Prof. N. Hemachandra
+Professor
+Department: CSE
+Email: nh@iitb.ac.in
+Research Areas: Operations Research & ML
+Reinforcement Learning, Neural Networks,
+Markov Decision Models, Queueing Theory, Game Theory
+Profile: https://www.ieor.iitb.ac.in/~nh/
+
+--- Professor ---
+Name: Assoc. Prof. Saurabh Jain
+Associate Professor
+Department: CSE
+Email: saurabh@iitb.ac.in
+Research Areas: Dynamic Decision Support Systems
+Data-driven Decision Systems, Manufacturing Systems,
+Healthcare, Border Security, Social Networks
+Profile: https://www.ieor.iitb.ac.in/saurabh
+
+--- Professor ---
+Name: Prof. Veeraruna Kavitha
+Professor
+Department: CSE
+Email: vkavitha@iitb.ac.in
+Research Areas: Stochastic Systems & Networks
+Stochastic Processes, Queueing Theory, Polling Systems,
+Optimal Control, Game Theory, Wireless Communications
+Profile: https://www.ieor.iitb.ac.in/vkavitha
+
+--- Professor ---
+Name: Asst. Prof. Vinay Kumar
+Assistant Professor
+Department: CSE
+Email: vinaykumarbr@iitb.ac.in
+Research Areas: Network Science
+Random Graphs, Community Detection,
+Percolation, Communication Networks
+Profile: https://www.ieor.iitb.ac.in/vinaykumarbr
+
+--- Professor ---
+Name: Assoc. Prof. Urban Larsson
+Associate Professor
+Department: CSE
+Email: urban@iitb.ac.in
+Research Areas: Combinatorial Game Theory & Discrete Math
+Game Theory, Discrete Mathematics, Number Theory,
+Combinatorics, Cellular Automata, Mechanism Design, Algorithms
+Profile: http://urbanlarsson.mine.nu/
+
+--- Professor ---
+Name: Prof. Ashutosh Mahajan
+Professor
+Department: CSE
+Email: amahajan@iitb.ac.in
+Research Areas: Integer & Nonlinear Optimization
+Algorithms & Software for Integer/Nonlinear Optimization,
+MINLO, Industrial Applications of OR
+Profile: https://www.ieor.iitb.ac.in/amahajan
+
+--- Professor ---
+Name: Prof. Vishnu Narayanan
+Professor
+Department: CSE
+Email: vishnu@iitb.ac.in
+Research Areas: Mathematical Programming
+Integer Programming, Convex Optimization,
+Polyhedral Theory
+Profile: https://www.ieor.iitb.ac.in/~vishnu
+
+--- Professor ---
+Name: Prof. Narayan Rangaraj
+Professor
+Department: CSE
+Email: narayan@iitb.ac.in
+Research Areas: Logistics & Supply Chain OR
+OR Applications: Logistics, Supply Chain Management,
+Manufacturing, Railway Operations, Transportation, Healthcare
+Profile: https://www.ieor.iitb.ac.in/~narayan
+
+--- Professor ---
+Name: Asst. Prof. Priyank Sinha
+Assistant Professor
+Department: CSE
+Email: priyank@iitb.ac.in
+Research Areas: Network Optimization & Logistics
+Network Optimization, Transportation & Logistics Network Design,
+Supply Chain Network Analysis
+Profile: https://www.ieor.iitb.ac.in/~priyank
+
+--- Professor ---
+Name: Prof. Jayendran Venkateswaran
+Professor · Head of IEOR (Current)
+Department: CSE
+Email: jayendran@iitb.ac.in
+Research Areas: Simulation & Supply Chain
+Modeling & Distributed Simulation (Discrete-event, System Dynamics),
+Integrated Supply Chain Analysis
+Profile: https://www.ieor.iitb.ac.in/~jayendran/
+
+--- Professor ---
+Name: Asst. Prof. Sarath Yasodharan
+Assistant Professor
+Department: CSE
+Email: sarath@iitb.ac.in
+Research Areas: Applied Probability
+Interacting Particle Systems, Large Deviations,
+Stochastic Control, Mean-field Games
+Profile: https://www.ieor.iitb.ac.in/~sarath
+
+--- Professor ---
+Name: Prof. Madhu Belur
+Professor, Electrical Engineering, IITB
+Department: CSE
+Email: belur@iitb.ac.in
+Research Areas: Systems & Operations Research
+Railway Timetabling, Singular/Descriptor Systems,
+Dissipative Systems, Graph-theoretic Control, Allocation Problems
+Profile: https://www.ee.iitb.ac.in/~belur/
+
+--- Professor ---
+Name: Assoc. Prof. Jayakrishnan Nair
+Associate Professor, Electrical Engineering, IITB
+Department: CSE
+Email: jayakrishnan.nair@ee.iitb.ac.in
+Research Areas: Stochastic Networks
+Queueing Theory, Communication Networks, Heavy Tails
+Profile: https://www.ee.iitb.ac.in/~jayakrishnan.nair/
+
+--- Professor ---
+Name: Prof. Om P. Damani
+Professor, Computer Science Engineering, IITB
+Department: CSE
+Email: damani.cse@iitb.ac.in
+Research Areas: Technology for Development
+ICT for Dev (Bottom 80%), System Dynamics,
+Modelling for Social Development, Data Science
+Profile: https://www.cse.iitb.ac.in/~damani/
+
+--- Professor ---
+Name: Prof. Kavita Ramanan
+Distinguished Visiting Professor
+(Brown University, US)
+Department: CSE
+Email: kavita_ramanan@brown.edu
+Research Areas: Probability Theory
+Reflected Processes, Large Deviations,
+High-dimensional Probability, Asymptotic Convex Geometry
+Profile: https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home
+
+--- Professor ---
+Name: Assoc. Prof. Ketan Savla
+Visiting Associate Professor
+(Univ. of Southern California)
+Department: CSE
+Email: ksavla@usc.edu
+Research Areas: Control & Networked Systems
+Distributed Robust/Optimal Control, Dynamical Networks,
+State-dependent Queueing, Incentive Design, Transportation
+Profile: https://viterbi-web.usc.edu/~ksavla/
+
+--- Professor ---
+Name: Asst. Prof. Reinoud Joosten
+Visiting Faculty
+(University of Twente)
+Department: CSE
+Email: r.a.m.g.joosten@utwente.nl
+Research Areas: Game Theory & Economics
+Stochastic Games, Cooperative/Evolutionary Games,
+Resource & Environmental Economics, Real Options, Internet Security
+Profile: https://people.utwente.nl/r.a.m.g.joosten
+
+--- Professor ---
+Name: Asst. Prof. Pietro Belotti
+Visiting Assistant Professor
+(Politecnico di Milano, Italy)
+Department: CSE
+Email: pietro.belotti@polimi.it
+Research Areas: Discrete Nonlinear Optimization
+Global Optimization, Discrete Multiobjective Optimization,
+Robust Optimization, Open-source Optimization Software
+Profile: https://www.deib.polimi.it/eng/people/details/85850
+
+--- Professor ---
+Name: Prof. P.G. Awate
+Professor Emeritus, IEOR
+Department: CSE
+Email: prakash.awate@gmail.com
+Research Areas: Scheduling & AI (Emeritus)
+Scheduling, Inventory Management,
+Neural Networks, Knowledge-based Systems
+Profile: https://www.ieor.iitb.ac.in/~awatepg

@@ -1,0 +1,356 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Physics
+Department: Physics
+Total Faculty: 50
+
+--- Professor ---
+Name: Aftab Alam
+Department: Physics
+Email: aftab@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Theory, Electronic Structure, Alloys
+
+--- Professor ---
+Name: M. Aslam
+Department: Physics
+Email: aslam@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Experimental Condensed Matter, Nanomaterials, CZTS Solar Cells
+
+--- Professor ---
+Name: Soumya Bera
+Department: Physics
+Email: soumya.bera@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Condensed Matter Theory, Disordered Quantum Systems
+
+--- Professor ---
+Name: Varun Bhalerao
+Department: Physics
+Email: varunb@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Astronomy, Gravitational Waves, High Energy Astrophysics
+
+--- Professor ---
+Name: Sayantika Bhowal
+Department: Physics
+Email: sbhowal@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Condensed Matter Theory, Topological Materials, Spintronics
+
+--- Professor ---
+Name: Raghunath Chelakkot
+Department: Physics
+Email: raghu@phy.iitb.ac.in
+Research Areas: Associate Professor
+Profile: Soft Matter Physics, Active Matter, Biophysics
+
+--- Professor ---
+Name: Pragya Das
+Department: Physics
+Email: pragya@phy.iitb.ac.in
+Research Areas: Associate Professor
+Profile: High Energy Experiments, Heavy Ion Physics
+
+--- Professor ---
+Name: Dibyendu Das
+Department: Physics
+Email: dibyendudas@iitb.ac.in
+Research Areas: Professor
+Profile: Soft Matter, Statistical Physics, Non-equilibrium Systems
+
+--- Professor ---
+Name: Sadhana Dash
+Department: Physics
+Email: sadhana@phy.iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Experiments, Heavy Ion Collisions
+
+--- Professor ---
+Name: Subhabrata Dhar
+Department: Physics
+Email: dhar@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Magnetic Materials
+
+--- Professor ---
+Name: Himadri Shekhar Dhar
+Department: Physics
+Email: himadri.dhar@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Quantum Information Theory, Quantum Correlations
+
+--- Professor ---
+Name: Gopal Dixit
+Department: Physics
+Email: g.dixit@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Condensed Matter Theory, Ultrafast Processes, Attosecond Physics
+
+--- Professor ---
+Name: Kantimay Das Gupta
+Department: Physics
+Email: kdasgupta@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Mesoscopic Physics, Low Temperature
+
+--- Professor ---
+Name: Dinesh Kabra
+Department: Physics
+Email: dkabra@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Optics & Photonics, Organic Semiconductors, LED & Solar Cells
+
+--- Professor ---
+Name: Rahul Kashyap
+Department: Physics
+Email: rahulkashyap@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Astronomy, Cosmology, Gravitational Wave Transient Search
+
+--- Professor ---
+Name: Nitin Kumar
+Department: Physics
+Email: nkumar@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Soft Matter, Colloids, Granular Materials
+
+--- Professor ---
+Name: Pramod Kumar
+Department: Physics
+Email: pramod_k@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Condensed Matter Experiments, Quantum Materials
+
+--- Professor ---
+Name: Anshuman Kumar
+Department: Physics
+Email: anshuman.kumar@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Optics & Photonics, Nanophotonics, 2D Materials
+
+--- Professor ---
+Name: Prashant Kumar
+Department: Physics
+Email: pkumar16@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Condensed Matter Theory, Quantum Magnetism
+
+--- Professor ---
+Name: Avinash V. Mahajan
+Department: Physics
+Email: mahajan@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Magnetism, Strongly Correlated Systems
+
+--- Professor ---
+Name: Maniraj Mahalingam
+Department: Physics
+Email: maniraj@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Condensed Matter Experiments, Surface Physics, Spintronics
+
+--- Professor ---
+Name: Suddhasatta Mahapatra
+Department: Physics
+Email: suddha@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Silicon Quantum Dots, Spin Qubits
+
+--- Professor ---
+Name: Subhaskar Mandal
+Department: Physics
+Email: subhaskar@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Optics & Photonics, Nanophotonics, Quantum Emitters
+
+--- Professor ---
+Name: Mithun Kumar Mitra
+Department: Physics
+Email: mithun@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Soft Matter, Biophysics, Molecular Motors
+
+--- Professor ---
+Name: Asmita Mukherjee
+Department: Physics
+Email: asmita@phy.iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Theory, QCD, Particle Physics
+
+--- Professor ---
+Name: Uditendu Mukhopadhyay
+Department: Physics
+Email: uditendu@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Condensed Matter Experiments, 2D Materials, Quantum Transport
+
+--- Professor ---
+Name: Amitabha Nandi
+Department: Physics
+Email: amitabha@phy.iitb.ac.in
+Research Areas: Associate Professor
+Profile: Soft Matter, Biophysics, Active Matter
+
+--- Professor ---
+Name: Basanta Kumar Nandi
+Department: Physics
+Email: basanta@iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Experiments, Heavy Ion Collisions
+
+--- Professor ---
+Name: Archana Pai
+Department: Physics
+Email: archana@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Astronomy, Gravitational Wave Astrophysics, LIGO
+
+--- Professor ---
+Name: Hridis Kumar Pal
+Department: Physics
+Email: hridis.pal@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Condensed Matter Theory, Topological Materials, Weyl Semimetals
+
+--- Professor ---
+Name: Punit Parmananda
+Department: Physics
+Email: punit@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Soft Matter, Nonlinear Dynamics, Stochastic Systems
+
+--- Professor ---
+Name: Sumiran Pujari
+Department: Physics
+Email: sumiran.pujari@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Condensed Matter Theory, Frustrated Magnetism, Quantum Phase Transitions
+
+--- Professor ---
+Name: P. Ramadevi
+Department: Physics
+Email: ramadevi@phy.iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Theory, String Theory, Knot Theory
+
+--- Professor ---
+Name: Kumar Rao
+Department: Physics
+Email: kumar.rao@iitb.ac.in
+Research Areas: Associate Professor
+Profile: High Energy Theory, Quantum Field Theory, String Theory
+
+--- Professor ---
+Name: Vikram Rentala
+Department: Physics
+Email: rentala@phy.iitb.ac.in
+Research Areas: Associate Professor
+Profile: Astronomy, Cosmology, Dark Matter, Particle Astrophysics
+
+--- Professor ---
+Name: Shankaranarayanan S.
+Department: Physics
+Email: shanki@iitb.ac.in
+Research Areas: Professor
+Profile: Astronomy, Cosmology, Black Holes, Quantum Gravity
+
+--- Professor ---
+Name: Anirban Sain
+Department: Physics
+Email: asain@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Soft Matter, Biophysics, Cell Mechanics
+
+--- Professor ---
+Name: Siddhartha Santra
+Department: Physics
+Email: santra@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: Quantum Information Theory, Quantum Computing
+
+--- Professor ---
+Name: Pradeep Sarin
+Department: Physics
+Email: pradeepsarin@iitb.ac.in
+Research Areas: Associate Professor
+Profile: High Energy Experiments, Particle Detectors, Radiation Sensors
+
+--- Professor ---
+Name: Debojit Sarkar
+Department: Physics
+Email: debojit.sarkar@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: High Energy Experiments, CERN, Particle Physics
+
+--- Professor ---
+Name: Manibrata Sen
+Department: Physics
+Email: manibrata@iitb.ac.in
+Research Areas: Assistant Professor
+Profile: High Energy Theory, Neutrino Physics, Astroparticle Physics
+
+--- Professor ---
+Name: M. Senthil Kumar
+Department: Physics
+Email: senthil@iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Magnetic Thin Films, Spintronics
+
+--- Professor ---
+Name: Alok Shukla
+Department: Physics
+Email: shukla@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Theory, Electronic Structure, Optical Properties
+
+--- Professor ---
+Name: P. P. Singh
+Department: Physics
+Email: ppsingh@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Theory, Nuclear Physics
+
+--- Professor ---
+Name: Sunita Srivastava
+Department: Physics
+Email: sunita.srivastava@iitb.ac.in
+Research Areas: Associate Professor
+Profile: Soft Matter, Nanomaterials, Colloids
+
+--- Professor ---
+Name: K. G. Suresh
+Department: Physics
+Email: suresh@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Condensed Matter Experiments, Magnetic Materials, Magnetocaloric Effect
+
+--- Professor ---
+Name: S. Umasankar
+Department: Physics
+Email: umasankar@phy.iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Theory, Neutrino Physics, Particle Physics
+
+--- Professor ---
+Name: Raghava Varma
+Department: Physics
+Email: varma@phy.iitb.ac.in
+Research Areas: Professor
+Profile: High Energy Experiments, Plasma Physics
+
+--- Professor ---
+Name: Parinda Vasa
+Department: Physics
+Email: parinda@phy.iitb.ac.in
+Research Areas: Professor
+Profile: Optics & Photonics, Plasmonics, Ultrafast Spectroscopy
+
+--- Professor ---
+Name: Sai Vinjanampathy
+Department: Physics
+Email: sai@phy.iitb.ac.in
+Research Areas: Associate Professor
+Profile: Quantum Information Theory, Quantum Thermodynamics

@@ -1,0 +1,34 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — CUSE
+Department: CUSE
+Total Faculty: 4
+
+--- Professor ---
+Name: Virendra Sethi
+Department: CUSE
+Email: vsethi@iitb.ac.in
+Research Areas: Environmental engineering, water and wastewater treatment, urban environmental systems, air quality and pollution control
+Profile: https://www.esed.iitb.ac.in/faculty/virendra-sethi
+
+--- Professor ---
+Name: Arnab Jana
+Department: CUSE
+Email: arnab.jana@iitb.ac.in
+Research Areas: Infrastructure planning, ICT in urban and regional planning, urban policy assessment, econometric and behavioural modeling
+Profile: https://www.civil.iitb.ac.in/faculty/details/prof-arnab-jana
+
+--- Professor ---
+Name: Pradip Kalbar
+Department: CUSE
+Email: kalbar@iitb.ac.in
+Research Areas: Water supply systems, environment, energy and natural resources, urban water management, sustainability and resilience
+Profile: https://www.cps.iitb.ac.in/faculty/pradip-kalbar/
+
+--- Professor ---
+Name: Chirag Deb
+Department: CUSE
+Email: deb.chirag@iitb.ac.in
+Research Areas: Building energy efficiency, urban energy demand modelling, city energy analysis
+Profile: https://www.iitb.ac.in/newacadhome/DetailsregardingPGcontactdetails2022-23.pdf

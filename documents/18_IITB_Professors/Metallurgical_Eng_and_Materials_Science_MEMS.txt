@@ -1,0 +1,258 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Metallurgical Eng & Materials Science (MEMS)
+Department: Metallurgical Eng & Materials Science (MEMS)
+Total Faculty: 42
+
+--- Professor ---
+Name: Ajay Singh Panwar
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: panwar@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Abhijeet L. Sangle
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: alsangle@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Abhinandan Gangopadhyay
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: abhinandan.g@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Ajit R. Kulkarni
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: ark@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Amartya Mukhopadhyay
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: amartya_mukhopadhyay@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Amrita Bhattacharya
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: b_amrita@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Anirban Patra
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: anirbanpatra@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Aparna Singh
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: aparna_s@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Arup R. Bhattacharyya
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: arbhattacharyya@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Arka Mandal
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: arkamandal@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Ashutosh S. Gandhi
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: agandhi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Aswani Yella
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: aswani.yella@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Darothi Bairagi
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: darothibairagi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Deepoo Kumar
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: deepook@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Dipti Gupta
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: diptig@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Durga A.
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: a.durga@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Indradev Samajdar
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: indra@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Jayasree Biswas
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: biswasj@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Karthikeyan Hariharan
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: karthik.hariharan@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: K. Narasimhan
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: nara@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: M.J.N.V. Prasad
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: mjnvprasad@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: M.P. Gururajan
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: guru.mp@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Mithun Chowdhury
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: mithunc@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Nagamani Jaya B.
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: nagamani@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Nithyanand Prabhu
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: nprabhu@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: N.K. Khosla
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: n.khosla@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Parag Bhargava
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: pbhargava@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prasanna T.R.S.
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: prasanna@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prasanna Kumar Mural
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: prasannamural@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prita Pant
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: pritapant@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Rajiv O. Dusane
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: rodusane@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Sandeep Mishra
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: smishra@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Shobha Shukla
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: sshukla@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Smrutiranjan Parida
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: paridasm@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Somnath Basu
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: somnathbasu@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Sudhanshu Mallik
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: smallick@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Sumit Saxena
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: sumit.saxena@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Tanushree Choudhury
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: tanuhc@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Tarun Muneshwar
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: tmuneshwar@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Titas Dasgupta
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: titas.dasgupta@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Viswanathan N. Nurni
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: vichu@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: V.S. Raja
+Department: Metallurgical Eng & Materials Science (MEMS)
+Research Areas: vsraja@iitb.ac.in
+Profile: Profile

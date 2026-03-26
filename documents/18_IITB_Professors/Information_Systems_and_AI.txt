@@ -1,0 +1,13 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Information Systems & AI
+Department: Information Systems & AI
+Total Faculty: 1
+
+--- Professor ---
+Name: Rajendra Sonar
+Department: Information Systems & AI
+Email: office.som@iitb.ac.in
+Research Areas: Applied AI, intelligent systems, personalization, information systems, entrepreneurship in AI
+Profile: https://www.som.iitb.ac.in/core-faculty/

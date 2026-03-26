@@ -1,0 +1,131 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Systems & Control Engineering (SysCon)
+Department: Systems & Control Engineering (SysCon)
+Total Faculty: 18
+
+--- Professor ---
+Name: Ravi N. Banavar
+Department: Systems & Control Engineering (SysCon)
+Email: banavar@sc.iitb.ac.in
+Research Areas: Optimal Control, Geometric Mechanics, Nonlinear Control, Robotics, Aerospace
+Profile: https://sites.google.com/view/ravibanavar/
+
+--- Professor ---
+Name: Navin Khaneja
+Department: Systems & Control Engineering (SysCon)
+Email: nkhaneja@sc.iitb.ac.in
+Research Areas: Control Theory, NMR Spectroscopy, Nonlinear & Geometric Control, Quantum Control
+Profile: http://www.sc.iitb.ac.in/~nkhaneja/
+
+--- Professor ---
+Name: Arpita Sinha
+Department: Systems & Control Engineering (SysCon)
+Email: asinha@sc.iitb.ac.in
+Research Areas: Cooperative Control, Multi-agent Systems, Game Theory, Resource Allocation
+Profile: https://sites.google.com/iitb.ac.in/arpitasinha
+
+--- Professor ---
+Name: Leena Vachhani
+Department: Systems & Control Engineering (SysCon)
+Email: leena@sc.iitb.ac.in
+Research Areas: Embedded Control, Vision-based Motion Planning, Multi-agent Robotics, Underwater Robots
+Profile: http://www.sc.iitb.ac.in/~leena/
+
+--- Professor ---
+Name: Debasish Chatterjee
+Department: Systems & Control Engineering (SysCon)
+Email: dchatter@iitb.ac.in
+Research Areas: Stochastic MPC, Switched & Hybrid Systems, Optimization-based Control
+Profile: http://www.sc.iitb.ac.in/~chatterjee/
+
+--- Professor ---
+Name: Sukumar Srikant
+Department: Systems & Control Engineering (SysCon)
+Email: srikant@sc.iitb.ac.in
+Research Areas: Nonlinear & Adaptive Control, Decentralized Control, Spacecraft Attitude, Robotics
+Profile: http://www.sc.iitb.ac.in/~srikant/
+
+--- Professor ---
+Name: Ankur A. Kulkarni
+Department: Systems & Control Engineering (SysCon)
+Email: ankur@sc.iitb.ac.in
+Research Areas: Game Theory, Stochastic Control, Decentralized Control, Quantum Information, ML
+Profile: http://www.sc.iitb.ac.in/~ankur/
+
+--- Professor ---
+Name: Vivek Natarajan
+Department: Systems & Control Engineering (SysCon)
+Email: vivek.natarajan@iitb.ac.in
+Research Areas: Distributed Parameter Systems, Output Regulation, Adaptive Control, Power System Stability
+Profile: https://sites.google.com/view/viveknatarajan
+
+--- Professor ---
+Name: Rajasekhar Anguluri
+Department: Systems & Control Engineering (SysCon)
+Email: rajanguluri@iitb.ac.in
+Research Areas: Linear Systems & Networks, Structured Estimation, High-dimensional Data Science, Energy Systems
+Profile: https://rajanguluri.github.io/
+
+--- Professor ---
+Name: Hemendra Arya
+Department: Systems & Control Engineering (SysCon)
+Email: arya@aero.iitb.ac.in
+Research Areas: Aerospace Engineering
+Profile: Flight Control, Unmanned Aerial Vehicles
+
+--- Professor ---
+Name: P. S. Gandhi
+Department: Systems & Control Engineering (SysCon)
+Email: gandhi@me.iitb.ac.in
+Research Areas: Mechanical Engineering
+Profile: Nonlinear Dynamics, MEMS, Precision Systems
+
+--- Professor ---
+Name: H. K. Pillai
+Department: Systems & Control Engineering (SysCon)
+Email: hp@ee.iitb.ac.in
+Research Areas: Electrical Engineering
+Profile: Control Theory, Multidimensional Systems
+
+--- Professor ---
+Name: Kannan M. Moudgalya
+Department: Systems & Control Engineering (SysCon)
+Email: kannan@iitb.ac.in
+Research Areas: Chemical Engineering
+Profile: Process Control, Computer-aided Control Design
+
+--- Professor ---
+Name: Mani Bhushan
+Department: Systems & Control Engineering (SysCon)
+Email: mbhushan@che.iitb.ac.in
+Research Areas: Chemical Engineering
+Profile: Process Control, Fault Detection & Diagnosis
+
+--- Professor ---
+Name: Sachin C. Patwardhan
+Department: Systems & Control Engineering (SysCon)
+Email: sachinp@che.iitb.ac.in
+Research Areas: Chemical Engineering
+Profile: Model Predictive Control, Process Identification
+
+--- Professor ---
+Name: Sharad Bhartiya
+Department: Systems & Control Engineering (SysCon)
+Email: bhartiya@che.iitb.ac.in
+Research Areas: Chemical Engineering
+Profile: Advanced Process Control, Optimization
+
+--- Professor ---
+Name: S. Suryanarayanan
+Department: Systems & Control Engineering (SysCon)
+Email: shashisn@me.iitb.ac.in
+Research Areas: Mechanical Engineering
+Profile: Dynamics & Control of Mechanical Systems
+
+--- Professor ---
+Name: Mayank Baranwal
+Department: Systems & Control Engineering (SysCon)
+Email: mayank@sc.iitb.ac.in
+Research Areas: Optimization, Control & ML, Combinatorial Optimization, Energy Systems, Graph Neural Networks

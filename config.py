@@ -19,7 +19,7 @@ MIN_CHUNK_SIZE = 100       # skip tiny fragments
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # Retrieval
-TOP_K = 6                  # chunks to retrieve per query
+TOP_K = 10                 # chunks to retrieve per query (increased for professor matching)
 
 # Gemini
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
@@ -51,4 +51,5 @@ CATEGORY_NAMES = {
     "15_Insight_IITB_Articles": "Insight IIT Bombay",
     "16_IITB_Main_Site": "IIT Bombay Official",
     "17_Additional_Govt_Schemes": "Additional Govt Schemes",
+    "18_IITB_Professors": "IIT Bombay Faculty & Professors",
 }

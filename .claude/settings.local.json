@@ -7,7 +7,11 @@
       "Bash(python download_documents.py)",
       "mcp__Claude_Preview__preview_start",
       "Bash(python -c \":*)",
-      "Bash(python -c \"from pyngrok import ngrok; ngrok.set_auth_token\\(''3BSJkcmJhIcMPAb7VTWDtr0Uyqw_5je5ErbXPtLbMLR3WRscM''\\); tunnel = ngrok.connect\\(8000\\); print\\(''PUBLIC URL:'', tunnel.public_url\\)\")"
+      "Bash(python -c \"from pyngrok import ngrok; ngrok.set_auth_token\\(''3BSJkcmJhIcMPAb7VTWDtr0Uyqw_5je5ErbXPtLbMLR3WRscM''\\); tunnel = ngrok.connect\\(8000\\); print\\(''PUBLIC URL:'', tunnel.public_url\\)\")",
+      "Bash(gh auth:*)",
+      "Bash(where git:*)",
+      "Bash(git config:*)",
+      "Bash(python ingest.py)"
     ]
   }
 }

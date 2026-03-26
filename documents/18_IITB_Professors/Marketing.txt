@@ -1,0 +1,27 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Marketing
+Department: Marketing
+Total Faculty: 3
+
+--- Professor ---
+Name: Arti D. Kalro
+Department: Marketing
+Email: kalro.arti@iitb.ac.in
+Research Areas: Consumer behaviour, branding, marketing communications, social media and online marketing, experiments and qualitative methods
+Profile: https://www.som.iitb.ac.in/prof-arti/
+
+--- Professor ---
+Name: Dinesh Sharma
+Department: Marketing
+Email: dineshsharma@iitb.ac.in
+Research Areas: Digital marketing, branding, customer value, customer engagement and experience, marketing strategy
+Profile: https://www.som.iitb.ac.in/core-faculty/
+
+--- Professor ---
+Name: Srinwanti H. Chaudhury
+Department: Marketing
+Email: office.som@iitb.ac.in
+Research Areas: Consumer decision-making, well-being, emotions, cognition, culture, brand and product response
+Profile: https://www.som.iitb.ac.in/core-faculty/

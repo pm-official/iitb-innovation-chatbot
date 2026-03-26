@@ -1,0 +1,552 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Electrical Engineering
+Department: Electrical Engineering
+Total Faculty: 78
+
+--- Professor ---
+Name: Vivek S. Borkar
+Department: Electrical Engineering
+Email: borkar@ee.iitb.ac.in
+Research Areas: Stochastic control, Learning Control Theory, Random Processes
+Profile: https://www.ee.iitb.ac.in/web/people/vivek-shripad-borkar/
+
+--- Professor ---
+Name: Prasanna Chaporkar
+Department: Electrical Engineering
+Email: chaporkar@ee.iitb.ac.in
+Research Areas: Information theory, Stochastic control, Optimal decision issues
+Profile: https://www.ee.iitb.ac.in/web/people/prasanna-chaporkar/
+
+--- Professor ---
+Name: Subhasis Chaudhuri
+Department: Electrical Engineering
+Email: sc@ee.iitb.ac.in
+Research Areas: Multimedia, Computer Vision, Image Processing, Pattern Recognition, Biomedical Signal Processing
+Profile: https://www.ee.iitb.ac.in/web/people/subhasis-chaudhuri/
+
+--- Professor ---
+Name: U. B. Desai
+Department: Electrical Engineering
+Email: ubdesai@ee.iitb.ac.in
+Research Areas: Signal Processing, Wireless Communication, Adaptive Signal Processing, Image & Video Processing, Wavelets
+Profile: https://www.ee.iitb.ac.in/web/people/u-b-desai/
+
+--- Professor ---
+Name: Vikram M. Gadre
+Department: Electrical Engineering
+Email: vmgadre@ee.iitb.ac.in
+Research Areas: Communications & Signal Processing, Multiresolution & Wavelet-based methods
+Profile: https://www.ee.iitb.ac.in/web/people/vikram-m-gadre/
+
+--- Professor ---
+Name: Shalabh Gupta
+Department: Electrical Engineering
+Email: shalabh@ee.iitb.ac.in
+Research Areas: High-speed analog/RF IC design, Optical fiber communications, Smart antenna systems, Biophotonics
+Profile: https://www.ee.iitb.ac.in/web/people/shalabh-gupta/
+
+--- Professor ---
+Name: Joseph John
+Department: Electrical Engineering
+Email: jjohn@ee.iitb.ac.in
+Research Areas: Optical Fiber Communications, Electronic Circuits, Electronic Systems & Instrumentation
+Profile: https://www.ee.iitb.ac.in/web/people/joseph-john/
+
+--- Professor ---
+Name: Abhay Karandikar
+Department: Electrical Engineering
+Email: karandi@ee.iitb.ac.in
+Research Areas: Communication Networks, QoS in Internet, Telecommunication switching, Digital Communication
+Profile: https://www.ee.iitb.ac.in/web/people/abhay-karandikar/
+
+--- Professor ---
+Name: Animesh Kumar
+Department: Electrical Engineering
+Email: animesh@ee.iitb.ac.in
+Research Areas: Applied Statistics, Signal Processing, Sampling Theory, Integrated Circuits
+Profile: https://www.ee.iitb.ac.in/web/people/animesh-kumar/
+
+--- Professor ---
+Name: Girish Kumar
+Department: Electrical Engineering
+Email: gkumar@ee.iitb.ac.in
+Research Areas: Microstrip Antennas & Arrays, Broadband Antennas, Microwave ICs, EMI/EMC, RF Communication
+Profile: https://www.ee.iitb.ac.in/web/people/girish-kumar/
+
+--- Professor ---
+Name: D. Manjunath
+Department: Electrical Engineering
+Email: dmanju@ee.iitb.ac.in
+Research Areas: Communication Network Protocols, Performance Modeling, Queueing Theory, Stochastic Systems
+Profile: https://www.ee.iitb.ac.in/web/people/d-manjunath/
+
+--- Professor ---
+Name: Shabbir N. Merchant
+Department: Electrical Engineering
+Email: merchant@ee.iitb.ac.in
+Research Areas: Signal Processing, Adaptive Signal Processing, Wireless Communications, Sensor Networks
+Profile: https://www.ee.iitb.ac.in/web/people/shabbir-merchant/
+
+--- Professor ---
+Name: Jayanta Mukherjee
+Department: Electrical Engineering
+Email: jayanta@ee.iitb.ac.in
+Research Areas: RF VLSI Design, Testing, Noise Modeling, Analog VLSI
+Profile: https://www.ee.iitb.ac.in/web/people/jayanta-mukherjee/
+
+--- Professor ---
+Name: Harihar Narayanan
+Department: Electrical Engineering
+Email: hn@ee.iitb.ac.in
+Research Areas: Combinatorial optimization, Submodular function theory, Large-scale circuit simulators
+Profile: https://www.ee.iitb.ac.in/web/people/harihar-narayanan/
+
+--- Professor ---
+Name: Prem C. Pandey
+Department: Electrical Engineering
+Email: pcpandey@ee.iitb.ac.in
+Research Areas: Speech & Signal Processing, Biomedical Signal Processing, Electronic Instrumentation, Embedded Systems
+Profile: https://www.ee.iitb.ac.in/web/people/prem-c-pandey/
+
+--- Professor ---
+Name: Harish K. Pillai
+Department: Electrical Engineering
+Email: hp@ee.iitb.ac.in
+Research Areas: Control Theory, Behavioural Theory of Systems, Multidimensional Systems, Coding Theory
+Profile: https://www.ee.iitb.ac.in/web/people/harish-k-pillai/
+
+--- Professor ---
+Name: Sibi Raj B. Pillai
+Department: Electrical Engineering
+Email: bsraj@ee.iitb.ac.in
+Research Areas: Fundamental Limits of Communication, Information Theory, Compressed Sensing, Resource Allocation
+Profile: https://www.ee.iitb.ac.in/web/people/sibi-raj-b-pillai/
+
+--- Professor ---
+Name: Preeti Rao
+Department: Electrical Engineering
+Email: prao@ee.iitb.ac.in
+Research Areas: Speech & Audio Signal Processing, Digital Signal Processing, Music Information Retrieval
+Profile: https://www.ee.iitb.ac.in/web/people/preeti-rao/
+
+--- Professor ---
+Name: R. K. Shevgaonkar
+Department: Electrical Engineering
+Email: rks@ee.iitb.ac.in
+Research Areas: Fibre Optic Communication, Photonics, Antennas, Image Processing, Wireless Communication
+Profile: https://www.ee.iitb.ac.in/web/people/r-k-shevgaonkar/
+
+--- Professor ---
+Name: Virendra R. Sule
+Department: Electrical Engineering
+Email: vrs@ee.iitb.ac.in
+Research Areas: Cryptography, Algebraic Cryptanalysis, Feedback System Design
+Profile: https://www.ee.iitb.ac.in/web/people/virendra-r-sule/
+
+--- Professor ---
+Name: Rajbabu Velmurugan
+Department: Electrical Engineering
+Email: rajbabu@ee.iitb.ac.in
+Research Areas: Statistical & Digital Signal Processing, Particle Filter Applications, Target Tracking
+Profile: https://www.ee.iitb.ac.in/web/people/rajbabu-velmurugan/
+
+--- Professor ---
+Name: Saravanan Vijayakumaran
+Department: Electrical Engineering
+Email: sarva@ee.iitb.ac.in
+Research Areas: Digital Communications, Computer Networks, Parallel Simulation Algorithms
+Profile: https://www.ee.iitb.ac.in/web/people/saravanan-vijayakumaran/
+
+--- Professor ---
+Name: Girish P. Saraph
+Department: Electrical Engineering
+Email: girishs@ee.iitb.ac.in
+Research Areas: RF Electronics & Wireless Communications, High Power Microwave Sources & Radar, Fiber Optics
+Profile: https://www.ee.iitb.ac.in/web/people/girish-p-saraph/
+
+--- Professor ---
+Name: Bikash Kumar Dey
+Department: Electrical Engineering
+Email: bikash@ee.iitb.ac.in
+Research Areas: Error Correcting Codes, Wireless Communication, Signal Processing, Information Theory
+Profile: https://www.ee.iitb.ac.in/web/people/bikash-kumar-dey/
+
+--- Professor ---
+Name: Nikhil Karamchandani
+Department: Electrical Engineering
+Email: nikhilk@ee.iitb.ac.in
+Research Areas: Information Theory, Networks, Communications, Distributed Systems
+Profile: https://www.ee.iitb.ac.in/web/people/nikhil-karamchandani/
+
+--- Professor ---
+Name: Jayakrishnan U. Nair
+Department: Electrical Engineering
+Email: jayakrishnannair@ee.iitb.ac.in
+Research Areas: Queueing Theory, Communication Networks, Content Delivery Networks
+Profile: https://www.ee.iitb.ac.in/web/people/jayakrishnan-u-nair/
+
+--- Professor ---
+Name: Kumar Appaiah
+Department: Electrical Engineering
+Email: akumar@ee.iitb.ac.in
+Research Areas: Optical Fiber Communication, Signal Processing for Communications, High Speed Links
+Profile: https://www.ee.iitb.ac.in/web/people/kumar-appaiah/
+
+--- Professor ---
+Name: Amit Sethi
+Department: Electrical Engineering
+Email: asethi@ee.iitb.ac.in
+Research Areas: Deep Learning, Medical Image Analysis, Computer Vision, Computational Pathology
+Profile: https://www.ee.iitb.ac.in/web/people/amit-sethi/
+
+--- Professor ---
+Name: Gaurav S. Kasbekar
+Department: Electrical Engineering
+Email: gkasbekar@ee.iitb.ac.in
+Research Areas: Resource Allocation & Scheduling in Wireless Networks, Game Theory
+Profile: https://www.ee.iitb.ac.in/web/people/gaurav-s-kasbekar/
+
+--- Professor ---
+Name: Manoj Gopalkrishnan
+Department: Electrical Engineering
+Email: manoj@ee.iitb.ac.in
+Research Areas: Algorithms in nature, Information processing in networks, Deep learning, Game theory
+Profile: https://www.ee.iitb.ac.in/web/people/manoj-gopalkrishnan/
+
+--- Professor ---
+Name: Sharayu Moharir
+Department: Electrical Engineering
+Email: sharayu@ee.iitb.ac.in
+Research Areas: Content Delivery Networks, Communication Networks, Distributed Systems
+Profile: https://www.ee.iitb.ac.in/web/people/sharayu-moharir/
+
+--- Professor ---
+Name: Siddhartha P. Duttagupta
+Department: Electrical Engineering
+Email: sdg@ee.iitb.ac.in
+Research Areas: Signal Processing, Communication Systems, Mixed-Signal IC Design
+Profile: https://www.ee.iitb.ac.in/web/people/siddhartha-p-duttagupta/
+
+--- Professor ---
+Name: Virendra Singh
+Department: Electrical Engineering
+Email: vsingh@ee.iitb.ac.in
+Research Areas: Signal Processing, Communication Systems
+Profile: https://www.ee.iitb.ac.in/web/people/virendra-singh/
+
+--- Professor ---
+Name: Madhu N. Belur
+Department: Electrical Engineering
+Email: belur@ee.iitb.ac.in
+Research Areas: Behavioral Systems Theory, Linear Systems, Control Theory, nD Systems
+Profile: https://www.ee.iitb.ac.in/web/people/madhu-n-belur/
+
+--- Professor ---
+Name: Debraj Chakraborty
+Department: Electrical Engineering
+Email: debraj@ee.iitb.ac.in
+Research Areas: Control Systems, Time-delay Systems, Distributed Parameter Systems, Optimal Control
+Profile: https://www.ee.iitb.ac.in/web/people/debraj-chakraborty/
+
+--- Professor ---
+Name: Parthib Khound
+Department: Electrical Engineering
+Email: parthib@ee.iitb.ac.in
+Research Areas: Control Theory, Dynamical Systems, Power Systems Control
+Profile: https://www.ee.iitb.ac.in/web/people/parthib-khound/
+
+--- Professor ---
+Name: Shrikrishna V. Kulkarni
+Department: Electrical Engineering
+Email: svk@ee.iitb.ac.in
+Research Areas: Power Systems, Transformer Design, Electromagnetic Computation
+Profile: https://www.ee.iitb.ac.in/web/people/shrikrishna-v-kulkarni/
+
+--- Professor ---
+Name: Dwaipayan Mukherjee
+Department: Electrical Engineering
+Email: dwaipayan@ee.iitb.ac.in
+Research Areas: Multi-agent Systems, Formation Control, Cooperative Control, Spacecraft Systems
+Profile: https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/
+
+--- Professor ---
+Name: Debasattam Pal
+Department: Electrical Engineering
+Email: debasattam@ee.iitb.ac.in
+Research Areas: Behavioral Systems, Differential-Algebraic Systems, nD Systems, Control Theory
+Profile: https://www.ee.iitb.ac.in/web/people/debasattam-pal/
+
+--- Professor ---
+Name: Sachin Patkar
+Department: Electrical Engineering
+Email: patkar@ee.iitb.ac.in
+Research Areas: High Performance Computing, FPGA Design, Parallel Algorithms, Electronic Design Automation
+Profile: https://www.ee.iitb.ac.in/web/people/sachin-patkar/
+
+--- Professor ---
+Name: Shreevardhan A. Soman
+Department: Electrical Engineering
+Email: soman@ee.iitb.ac.in
+Research Areas: Power Systems, State Estimation, Wide Area Monitoring, Smart Grid
+Profile: https://www.ee.iitb.ac.in/web/people/shreevardhan-a-soman/
+
+--- Professor ---
+Name: Anshuman Shukla
+Department: Electrical Engineering
+Email: anshumanshukla@ee.iitb.ac.in
+Research Areas: Control Systems, Robotics, Autonomous Systems
+Profile: https://www.ee.iitb.ac.in/web/people/anshuman-shukla/
+
+--- Professor ---
+Name: S. D. Agashe
+Department: Electrical Engineering
+Email: agashe@ee.iitb.ac.in
+Research Areas: Control Systems, System Theory, Feedback Control
+Profile: https://www.ee.iitb.ac.in/web/people/s-d-agashe/
+
+--- Professor ---
+Name: Vivek Agarwal
+Department: Electrical Engineering
+Email: agarwal@ee.iitb.ac.in
+Research Areas: Power Electronics, Renewable Energy Systems, Solar PV, Motor Drives, EMI/EMC
+Profile: https://www.ee.iitb.ac.in/web/people/vivek-agarwal/
+
+--- Professor ---
+Name: Kishore Chatterjee
+Department: Electrical Engineering
+Email: kishore@ee.iitb.ac.in
+Research Areas: Power Electronics, Electric Drives, Renewable Energy, Power Quality
+Profile: https://www.ee.iitb.ac.in/web/people/kishore-chatterjee/
+
+--- Professor ---
+Name: Baylon G. Fernandes
+Department: Electrical Engineering
+Email: bgf@ee.iitb.ac.in
+Research Areas: Power Electronics, Electric Machines, Renewable Energy Integration, Motor Drives
+Profile: https://www.ee.iitb.ac.in/web/people/baylon-g-fernandes/
+
+--- Professor ---
+Name: Shrikrishna A. Khaparde
+Department: Electrical Engineering
+Email: khaparde@ee.iitb.ac.in
+Research Areas: Power Systems, Smart Grid, Electricity Markets, Power System Planning
+Profile: https://www.ee.iitb.ac.in/web/people/shrikrishna-a-khaparde/
+
+--- Professor ---
+Name: Anil Kulkarni
+Department: Electrical Engineering
+Email: anil@ee.iitb.ac.in
+Research Areas: HVDC, FACTS, Power Systems Dynamics, Renewable Energy Integration
+Profile: https://www.ee.iitb.ac.in/web/people/anil-kulkarni/
+
+--- Professor ---
+Name: Anupama Kowli
+Department: Electrical Engineering
+Email: anupama@ee.iitb.ac.in
+Research Areas: Power Systems, Smart Grid, Demand Response, Energy Storage
+Profile: https://www.ee.iitb.ac.in/web/people/anupama-kowli/
+
+--- Professor ---
+Name: Sandeep Anand
+Department: Electrical Engineering
+Email: sandeep.anand@ee.iitb.ac.in
+Research Areas: DC Microgrids, Power Electronics, Renewable Energy, Energy Storage
+Profile: https://www.ee.iitb.ac.in/web/people/sandeep-anand/
+
+--- Professor ---
+Name: Mahesh B. Patil
+Department: Electrical Engineering
+Email: mbpatil@ee.iitb.ac.in
+Research Areas: Circuit Simulation, Power Electronics, Semiconductor Device Modeling
+Profile: https://www.ee.iitb.ac.in/web/people/mahesh-b-patil/
+
+--- Professor ---
+Name: Mukul C. Chandorkar
+Department: Electrical Engineering
+Email: mukul@ee.iitb.ac.in
+Research Areas: Power Electronics, Microgrids, Distributed Generation, Inverter Control
+Profile: https://www.ee.iitb.ac.in/web/people/mukul-c-chandorkar/
+
+--- Professor ---
+Name: Himanshu J. Bahirat
+Department: Electrical Engineering
+Email: himanshu@ee.iitb.ac.in
+Research Areas: HVDC, Power Systems, Electromagnetic Field Computation, Insulation
+Profile: https://www.ee.iitb.ac.in/web/people/himanshu-j-bahirat/
+
+--- Professor ---
+Name: Ashwin A. Seshia
+Department: Electrical Engineering
+Email: seshia@ee.iitb.ac.in
+Research Areas: MEMS, Sensors, Resonant Sensing, Energy Harvesting
+Profile: https://www.ee.iitb.ac.in/web/people/ashwin-a-seshia/
+
+--- Professor ---
+Name: D. K. Sharma
+Department: Electrical Engineering
+Email: dks@ee.iitb.ac.in
+Research Areas: Electronic Systems, VLSI, High Performance Computing
+Profile: https://www.ee.iitb.ac.in/web/people/d-k-sharma/
+
+--- Professor ---
+Name: Debanjan Bhowmik
+Department: Electrical Engineering
+Email: debanjan@ee.iitb.ac.in
+Research Areas: Spintronic Devices, Neuromorphic Computing, AI Hardware
+Profile: https://www.ee.iitb.ac.in/web/people/debanjan-bhowmik/
+
+--- Professor ---
+Name: Kasturi Saha
+Department: Electrical Engineering
+Email: kasturi@ee.iitb.ac.in
+Research Areas: Nanophotonics, Optical Sensors, MEMS, Biosensors
+Profile: https://www.ee.iitb.ac.in/web/people/kasturi-saha/
+
+--- Professor ---
+Name: Laxmeesha Somappa
+Department: Electrical Engineering
+Email: laxmeesha@ee.iitb.ac.in
+Research Areas: Analog & Mixed-Signal IC Design, Biomedical Electronics
+Profile: https://www.ee.iitb.ac.in/web/people/laxmeesha-somappa/
+
+--- Professor ---
+Name: Madhav P. Desai
+Department: Electrical Engineering
+Email: madhav@ee.iitb.ac.in
+Research Areas: VLSI Design, Formal Verification, High Performance Computing, EDA
+Profile: https://www.ee.iitb.ac.in/web/people/madhav-p-desai/
+
+--- Professor ---
+Name: Maryam Shojaei Baghini
+Department: Electrical Engineering
+Email: mshojaei@ee.iitb.ac.in
+Research Areas: Analog/Mixed-Signal VLSI, Biomedical ICs, Embedded Systems, Sensor Interfaces
+Profile: https://www.ee.iitb.ac.in/web/people/maryam-shojaei-baghini/
+
+--- Professor ---
+Name: Rajesh H. Zele
+Department: Electrical Engineering
+Email: zele@ee.iitb.ac.in
+Research Areas: Analog/RF IC Design, High-speed Data Converters, mm-Wave Circuits, 5G
+Profile: https://www.ee.iitb.ac.in/web/people/rajesh-h-zele/
+
+--- Professor ---
+Name: Siddharth Tallur
+Department: Electrical Engineering
+Email: stallur@ee.iitb.ac.in
+Research Areas: MEMS/NEMS, Optomechanics, Sensors, Microfabrication
+Profile: https://www.ee.iitb.ac.in/web/people/siddharth-tallur/
+
+--- Professor ---
+Name: Udayan Ganguly
+Department: Electrical Engineering
+Email: udayan@ee.iitb.ac.in
+Research Areas: Neuromorphic Computing, Memory Devices, Semiconductor Devices
+Profile: https://www.ee.iitb.ac.in/web/people/udayan-ganguly/
+
+--- Professor ---
+Name: Swaroop Ganguly
+Department: Electrical Engineering
+Email: swaroop@ee.iitb.ac.in
+Research Areas: Semiconductor Devices, FinFETs, Beyond-CMOS Devices, Low-Power ICs
+Profile: https://www.ee.iitb.ac.in/web/people/swaroop-ganguly/
+
+--- Professor ---
+Name: Rahul Singh
+Department: Electrical Engineering
+Email: rahulsingh@ee.iitb.ac.in
+Research Areas: RF & mm-Wave IC Design, Wireless Communications, CMOS Circuits
+Profile: https://www.ee.iitb.ac.in/web/people/rahul-singh/
+
+--- Professor ---
+Name: Veeresh Deshpande
+Department: Electrical Engineering
+Email: veeresh@ee.iitb.ac.in
+Research Areas: Semiconductor Devices, Advanced CMOS, Nanoelectronics, 2D Materials
+Profile: https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/
+
+--- Professor ---
+Name: Souvik Mahapatra
+Department: Electrical Engineering
+Email: souvik@ee.iitb.ac.in
+Research Areas: MOSFET Reliability, Transistor Scaling, Semiconductor Device Physics
+Profile: https://www.ee.iitb.ac.in/web/people/souvik-mahapatra/
+
+--- Professor ---
+Name: Anil Kottantharayil
+Department: Electrical Engineering
+Email: anil.k@ee.iitb.ac.in
+Research Areas: Advanced CMOS Devices, Solar Cells, Low-Power Transistors, Nanoelectronics
+Profile: https://www.ee.iitb.ac.in/web/people/anil-kottantharayil/
+
+--- Professor ---
+Name: Subhananda Chakrabarti
+Department: Electrical Engineering
+Email: subhananda@ee.iitb.ac.in
+Research Areas: III-V Semiconductors, Quantum Dots, Infrared Photodetectors, Optoelectronics
+Profile: https://www.ee.iitb.ac.in/web/people/subhananda-chakrabarti/
+
+--- Professor ---
+Name: Ashwin A. Tulapurkar
+Department: Electrical Engineering
+Email: ashwin@ee.iitb.ac.in
+Research Areas: Spintronics, Magnetic Tunnel Junctions, Neuromorphic Devices, Spin-torque
+Profile: https://www.ee.iitb.ac.in/web/people/ashwin-a-tulapurkar/
+
+--- Professor ---
+Name: Apurba Laha
+Department: Electrical Engineering
+Email: apurba@ee.iitb.ac.in
+Research Areas: III-Nitride Semiconductors, GaN Devices, LEDs, Power Electronics Devices
+Profile: https://www.ee.iitb.ac.in/web/people/apurba-laha/
+
+--- Professor ---
+Name: Pradeep R. Nair
+Department: Electrical Engineering
+Email: pradeep@ee.iitb.ac.in
+Research Areas: Nanoscale Biosensors, Computational Nanoelectronics, FET-based Sensors
+Profile: https://www.ee.iitb.ac.in/web/people/pradeep-r-nair/
+
+--- Professor ---
+Name: Saurabh Lodha
+Department: Electrical Engineering
+Email: saurabh@ee.iitb.ac.in
+Research Areas: Advanced CMOS, 2D Materials, Low-Power Devices, Semiconductor Technology
+Profile: https://www.ee.iitb.ac.in/web/people/saurabh-lodha/
+
+--- Professor ---
+Name: Dipankar Saha
+Department: Electrical Engineering
+Email: dipankar@ee.iitb.ac.in
+Research Areas: Mid-Infrared Photonics, Semiconductor Lasers, Optoelectronic Devices
+Profile: https://www.ee.iitb.ac.in/web/people/dipankar-saha-2/
+
+--- Professor ---
+Name: Bhaskaran Muralidharan
+Department: Electrical Engineering
+Email: bhaskaran@ee.iitb.ac.in
+Research Areas: Quantum Transport, Quantum Computing, Thermoelectric Devices, Nanoelectronics
+Profile: https://www.ee.iitb.ac.in/web/people/bhaskaran-muralidharan/
+
+--- Professor ---
+Name: Narendra S. Shiradkar
+Department: Electrical Engineering
+Email: narendra@ee.iitb.ac.in
+Research Areas: Solar PV Reliability, Photovoltaic Devices, Module Degradation
+Profile: https://www.ee.iitb.ac.in/web/people/narendra-s-shiradkar/
+
+--- Professor ---
+Name: Sandip Mondal
+Department: Electrical Engineering
+Email: sandip@ee.iitb.ac.in
+Research Areas: Quantum Devices, Superconducting Qubits, Low-Temperature Electronics
+Profile: https://www.ee.iitb.ac.in/web/people/sandip-mondal/
+
+--- Professor ---
+Name: Arun S.
+Department: Electrical Engineering
+Email: sarun@ee.iitb.ac.in
+Research Areas: Fiber Lasers, Photonics, Nonlinear Optics, Laser Engineering
+Profile: https://www.ee.iitb.ac.in/web/people/arun-s/

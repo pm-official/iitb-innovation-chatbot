@@ -1,0 +1,216 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — IDC School of Design
+Department: IDC School of Design
+Total Faculty: 35
+
+--- Professor ---
+Name: Prof. Venkatesh Rajamanickam (HOD)
+Department: IDC School of Design
+Research Areas: venkatra@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. B. K. Chakravarthy
+Department: IDC School of Design
+Research Areas: chakku@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Anirudha Joshi
+Department: IDC School of Design
+Research Areas: anirudha@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. G. V. Sreekumar
+Department: IDC School of Design
+Research Areas: gvsree@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Girish Dalvi
+Department: IDC School of Design
+Research Areas: girish.dalvi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Prasad Bokil
+Department: IDC School of Design
+Research Areas: prasad.bokil@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Sugandh Malhotra
+Department: IDC School of Design
+Research Areas: sugandh@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Purba Joshi
+Department: IDC School of Design
+Research Areas: purba_joshi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Nishant Sharma
+Department: IDC School of Design
+Research Areas: nishantsharma@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Jayesh Pillai
+Department: IDC School of Design
+Research Areas: jay@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Alka Hingorani
+Department: IDC School of Design
+Research Areas: alka@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Swati Pal
+Department: IDC School of Design
+Research Areas: swatipal@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. R. Sandesh
+Department: IDC School of Design
+Research Areas: sandesh.idc@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Vivek Kant
+Department: IDC School of Design
+Research Areas: vivek.kant@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Avinash Shende
+Department: IDC School of Design
+Research Areas: shende@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Shilpa Ranade
+Department: IDC School of Design
+Research Areas: shilpa@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Mandar Rane
+Department: IDC School of Design
+Research Areas: mrane@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Phani Tetali
+Department: IDC School of Design
+Research Areas: phanit@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Sumant M. Rao
+Department: IDC School of Design
+Research Areas: sumant_rao@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Mazhar Kamran
+Department: IDC School of Design
+Research Areas: mazhar@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Wricha Mishra
+Department: IDC School of Design
+Research Areas: wricha@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Anisha Malhotra Dalvi
+Department: IDC School of Design
+Research Areas: anisha.dalvi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Swati Agarwal
+Department: IDC School of Design
+Research Areas: swati_agarwal@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Kanika Jolly
+Department: IDC School of Design
+Research Areas: kanika.jolly@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. P. Kumaresan
+Department: IDC School of Design
+Research Areas: kums@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Bharat Parmar
+Department: IDC School of Design
+Research Areas: bharat.parmar@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Yohan Soharb Engineer
+Department: IDC School of Design
+Research Areas: yohan.e@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Abhishek Verma
+Department: IDC School of Design
+Research Areas: abhishek.verma@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Aman Rupesh Xaxa
+Department: IDC School of Design
+Research Areas: 25d1325@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Ravi Poovaiah (Emeritus)
+Department: IDC School of Design
+Research Areas: ravi@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. G. G. Ray (Emeritus)
+Department: IDC School of Design
+Research Areas: ggray@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Nina Sabnani (Emeritus)
+Department: IDC School of Design
+Research Areas: nina@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Raja Mohanty (Emeritus)
+Department: IDC School of Design
+Research Areas: rajam@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Lalit Das (Visiting)
+Department: IDC School of Design
+Research Areas: lalitdas@iitb.ac.in
+Profile: Profile
+
+--- Professor ---
+Name: Prof. Anil K. Gupta (Visiting)
+Department: IDC School of Design
+Research Areas: anilgb@gmail.com
+Profile: Profile

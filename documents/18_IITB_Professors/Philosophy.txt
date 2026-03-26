@@ -1,0 +1,69 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Philosophy
+Department: Philosophy
+Total Faculty: 9
+
+--- Professor ---
+Name: Amrita Banerjee
+Department: Philosophy
+Email: abanerjee.phi@iitb.ac.in; abanerjee.phi@gmail.com
+Research Areas: Moral, social, and political philosophy; ethics
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: C. D. Sebastian
+Department: Philosophy
+Email: Sebastian@iitb.ac.in
+Research Areas: Classical Indian philosophy, Buddhist philosophy, Sankhya, Vedanta
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Mrinal Kaul
+Department: Philosophy
+Email: mrinal.kaul@iitb.ac.in
+Research Areas: Philosophical hermeneutics, non-dual Shaiva philosophy, classical Indian philosophy
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Pravesh Jung Golay
+Department: Philosophy
+Email: pgjung@iitb.ac.in
+Research Areas: Moral theory, history of concepts, ethics and social-political philosophy
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Rajakishore Nath
+Department: Philosophy
+Email: rajakishorenath@iitb.ac.in; rajakishorenath@gmail.com
+Research Areas: Philosophy of AI, philosophy of mind, philosophy of cognitive science, AI ethics
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Ranjan K. Panda
+Department: Philosophy
+Email: ranjan.panda@iitb.ac.in
+Research Areas: Philosophy of mind and language, philosophy of education
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Ratikanta Panda
+Department: Philosophy
+Email: ratikanta@hss.iitb.ac.in
+Research Areas: Philosophy of language, Wittgenstein, culture and value, ethics, contemporary Indian philosophy
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Siby K George
+Department: Philosophy
+Email: kgsiby@hss.iitb.ac.in
+Research Areas: Continental philosophy, Heidegger, Merleau-Ponty, Levinas, ethics and critique
+Profile: https://www.hss.iitb.ac.in/people/faculty
+
+--- Professor ---
+Name: Vikram Singh Sirola
+Department: Philosophy
+Email: v.s.sirola@iitb.ac.in; vikramsirola@gmail.com
+Research Areas: Social epistemology, philosophy of science, naturalistic ethics, philosophy of education
+Profile: https://www.hss.iitb.ac.in/people/faculty

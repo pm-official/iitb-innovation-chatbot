@@ -1,0 +1,13 @@
+SOURCE URL: https://www.iitb.ac.in
+================================================================================
+
+IIT Bombay Faculty — Decision Sciences & Quantitative Methods
+Department: Decision Sciences & Quantitative Methods
+Total Faculty: 1
+
+--- Professor ---
+Name: Usha Ananthakumar
+Department: Decision Sciences & Quantitative Methods
+Email: office.som@iitb.ac.in
+Research Areas: Applied statistics, classification under imbalance, statistical learning, data mining, predictive analytics
+Profile: https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/
