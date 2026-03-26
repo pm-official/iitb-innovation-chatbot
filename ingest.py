@@ -1,10 +1,10 @@
-"""Ingest documents: load → chunk → embed → store in ChromaDB."""
+"""Ingest documents: load -> chunk -> store in ChromaDB (with built-in ONNX embeddings)."""
 
 import time
 import chromadb
-from sentence_transformers import SentenceTransformer
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 
-from config import CHROMA_DIR, COLLECTION_NAME, EMBEDDING_MODEL
+from config import CHROMA_DIR, COLLECTION_NAME
 from document_loader import load_all_documents
 from chunker import chunk_documents
 
@@ -13,7 +13,7 @@ def main():
     start = time.time()
 
     # Step 1: Load documents
-    print("Step 1/4: Loading documents...")
+    print("Step 1/3: Loading documents...")
     documents = load_all_documents()
     print(f"  Loaded {len(documents)} documents")
 
@@ -22,21 +22,16 @@ def main():
         return
 
     # Step 2: Chunk documents
-    print("\nStep 2/4: Chunking documents...")
+    print("\nStep 2/3: Chunking documents...")
     chunks = chunk_documents(documents)
     print(f"  Created {len(chunks)} chunks")
 
-    # Step 3: Generate embeddings
-    print(f"\nStep 3/4: Generating embeddings with {EMBEDDING_MODEL}...")
-    print("  (First run downloads the model ~80MB, subsequent runs use cache)")
-    model = SentenceTransformer(EMBEDDING_MODEL)
-    texts = [c.text for c in chunks]
-    embeddings = model.encode(texts, show_progress_bar=True, batch_size=64)
-    print(f"  Generated {len(embeddings)} embeddings (dim={embeddings.shape[1]})")
-
-    # Step 4: Store in ChromaDB
-    print(f"\nStep 4/4: Storing in ChromaDB at {CHROMA_DIR}...")
+    # Step 3: Store in ChromaDB (embeddings computed automatically via ONNX)
+    print(f"\nStep 3/3: Storing in ChromaDB with ONNX embeddings...")
     client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+
+    # Use ChromaDB's built-in ONNX embedding function (all-MiniLM-L6-v2)
+    embedding_fn = DefaultEmbeddingFunction()
 
     # Delete existing collection if it exists (fresh ingest)
     try:
@@ -47,28 +42,28 @@ def main():
     collection = client.create_collection(
         name=COLLECTION_NAME,
         metadata={"hnsw:space": "cosine"},
+        embedding_function=embedding_fn,
     )
 
-    # Insert in batches
+    # Insert in batches — ChromaDB computes embeddings automatically
     batch_size = 100
     for i in range(0, len(chunks), batch_size):
         batch_end = min(i + batch_size, len(chunks))
         batch_chunks = chunks[i:batch_end]
-        batch_embeddings = embeddings[i:batch_end].tolist()
 
         collection.add(
             ids=[c.chunk_id for c in batch_chunks],
             documents=[c.text for c in batch_chunks],
-            embeddings=batch_embeddings,
             metadatas=[c.metadata for c in batch_chunks],
         )
+        print(f"  Stored batch {i//batch_size + 1}/{(len(chunks) + batch_size - 1)//batch_size}")
 
     elapsed = time.time() - start
     print(f"\nDone! Ingestion complete in {elapsed:.1f}s")
     print(f"  Documents: {len(documents)}")
     print(f"  Chunks: {collection.count()}")
     print(f"  Storage: {CHROMA_DIR}")
-    print(f"\nYou can now run: python app.py")
+    print(f"\nYou can now run: streamlit run streamlit_app.py")
 
 
 if __name__ == "__main__":

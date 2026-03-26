@@ -1,14 +1,11 @@
-"""RAG pipeline: retrieve context → build prompt → stream from Groq."""
+"""RAG pipeline: retrieve context -> build prompt -> stream from Groq."""
 
 import chromadb
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 from groq import Groq
-from sentence_transformers import SentenceTransformer
 import streamlit as st
 
-from config import (
-    CHROMA_DIR, COLLECTION_NAME, EMBEDDING_MODEL,
-    GROQ_API_KEY, GROQ_MODEL, TOP_K,
-)
+from config import CHROMA_DIR, COLLECTION_NAME, GROQ_API_KEY, GROQ_MODEL, TOP_K
 
 SYSTEM_PROMPT = """You are the IIC Innovation Advisor at IIT Bombay. You help students navigate IIT Bombay's innovation and entrepreneurship ecosystem with practical, actionable guidance.
 
@@ -54,16 +51,11 @@ RULES:
 
 
 @st.cache_resource(show_spinner=False)
-def load_embedding_model():
-    """Load and cache the embedding model at startup."""
-    return SentenceTransformer(EMBEDDING_MODEL)
-
-
-@st.cache_resource(show_spinner=False)
 def load_collection():
-    """Load and cache the ChromaDB collection."""
+    """Load ChromaDB collection with built-in ONNX embedding function."""
+    embedding_fn = DefaultEmbeddingFunction()
     client = chromadb.PersistentClient(path=str(CHROMA_DIR))
-    return client.get_collection(COLLECTION_NAME)
+    return client.get_collection(COLLECTION_NAME, embedding_function=embedding_fn)
 
 
 def get_groq_client():
@@ -72,14 +64,11 @@ def get_groq_client():
 
 
 def retrieve_context(query: str) -> list[dict]:
-    """Embed query and retrieve top-K relevant chunks."""
-    model = load_embedding_model()
+    """Query ChromaDB — embedding is computed automatically via ONNX."""
     collection = load_collection()
 
-    query_embedding = model.encode(query).tolist()
-
     results = collection.query(
-        query_embeddings=[query_embedding],
+        query_texts=[query],
         n_results=TOP_K,
         include=["documents", "metadatas", "distances"],
     )

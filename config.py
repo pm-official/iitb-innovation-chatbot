@@ -14,9 +14,6 @@ CHUNK_SIZE = 800
 CHUNK_OVERLAP = 200
 MIN_CHUNK_SIZE = 100
 
-# Embedding
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-
 # Retrieval
 TOP_K = 10
 

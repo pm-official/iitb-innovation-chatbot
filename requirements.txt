@@ -1,6 +1,9 @@
 streamlit
 python-dotenv
 chromadb
-sentence-transformers
+onnxruntime
+tokenizers
 pdfplumber
 groq
+openpyxl
+numpy
