@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
 .env
-chroma_db/
 *.output
 download_documents.py
 DOCUMENTS_TO_DOWNLOAD.md
 IIC_Research_Report.md
+professors_raw.json
+professors_cleaned.json
+static/iitb_logo.png

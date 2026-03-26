@@ -1,12 +1,12 @@
-"""RAG pipeline: retrieve context → build prompt → call Gemini → return answer."""
+"""RAG pipeline: retrieve context → build prompt → call Groq LLM → return answer."""
 
 import chromadb
-from google import genai
+from groq import Groq
 from sentence_transformers import SentenceTransformer
 
 from config import (
     CHROMA_DIR, COLLECTION_NAME, EMBEDDING_MODEL,
-    GEMINI_API_KEY, GEMINI_MODEL, TOP_K,
+    GROQ_API_KEY, GROQ_MODEL, TOP_K,
 )
 
 SYSTEM_PROMPT = """You are the IIC Innovation Advisor at IIT Bombay. You help students navigate IIT Bombay's innovation and entrepreneurship ecosystem with practical, actionable guidance.
@@ -54,16 +54,15 @@ RULES:
 4. Always be encouraging but honest about requirements and timelines.
 5. If asked about something outside IIT Bombay's innovation ecosystem, politely redirect.
 6. End answers with a clear "Next Steps" section when appropriate.
-7. Cite sources using the format: [Source: filename] at the end of your answer.
-8. Use markdown formatting for readability (headers, bullets, bold for key terms).
+7. Use markdown formatting for readability (headers, bullets, bold for key terms).
 
 IMPORTANT: You are NOT a general-purpose AI. You specifically help IIT Bombay students with innovation and entrepreneurship resources. Stay focused on this domain."""
 
 
-# Module-level singletons (initialized on first call)
+# Module-level singletons
 _embedding_model = None
 _collection = None
-_gemini_client = None
+_groq_client = None
 
 
 def _get_embedding_model():
@@ -81,11 +80,11 @@ def _get_collection():
     return _collection
 
 
-def _get_gemini_client():
-    global _gemini_client
-    if _gemini_client is None:
-        _gemini_client = genai.Client(api_key=GEMINI_API_KEY)
-    return _gemini_client
+def _get_groq_client():
+    global _groq_client
+    if _groq_client is None:
+        _groq_client = Groq(api_key=GROQ_API_KEY)
+    return _groq_client
 
 
 def retrieve_context(query: str) -> list[dict]:
@@ -113,14 +112,20 @@ def retrieve_context(query: str) -> list[dict]:
                 "source_file": meta.get("source_file", ""),
                 "category": meta.get("category", ""),
                 "source_url": meta.get("source_url", ""),
-                "relevance": 1 - dist,  # cosine distance to similarity
+                "relevance": 1 - dist,
             })
 
     return contexts
 
 
-def build_prompt(query: str, contexts: list[dict], history: list[dict]) -> str:
-    """Construct the full prompt with context and history."""
+def get_answer(query: str, history: list[dict] | None = None) -> dict:
+    """Full RAG pipeline: retrieve → prompt → Groq → answer."""
+    if history is None:
+        history = []
+
+    # Retrieve relevant context
+    contexts = retrieve_context(query)
+
     # Format context
     context_parts = []
     for i, ctx in enumerate(contexts, 1):
@@ -129,72 +134,36 @@ def build_prompt(query: str, contexts: list[dict], history: list[dict]) -> str:
         )
     context_str = "\n\n".join(context_parts)
 
-    # Format history (last 4 exchanges = 8 messages)
-    history_str = ""
+    # Format history (last 4 exchanges)
     recent_history = history[-8:] if len(history) > 8 else history
-    if recent_history:
-        history_parts = []
-        for msg in recent_history:
-            role = "Student" if msg["role"] == "user" else "Advisor"
-            history_parts.append(f"{role}: {msg['content']}")
-        history_str = "\n".join(history_parts)
 
-    prompt = f"""{SYSTEM_PROMPT}
+    # Build messages for Groq chat API
+    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
-CONTEXT FROM KNOWLEDGE BASE:
+    for msg in recent_history:
+        messages.append({"role": msg["role"], "content": msg["content"]})
+
+    user_message = f"""CONTEXT FROM KNOWLEDGE BASE:
 {context_str}
-
-{"CONVERSATION HISTORY:" + chr(10) + history_str if history_str else ""}
 
 STUDENT'S QUESTION: {query}
 
-Provide a helpful, practical answer with specific next steps. Cite your sources at the end."""
+Provide a helpful, practical answer with specific next steps."""
 
-    return prompt
+    messages.append({"role": "user", "content": user_message})
 
-
-def get_answer(query: str, history: list[dict] | None = None) -> dict:
-    """Full RAG pipeline: retrieve → prompt → Gemini → answer."""
-    if history is None:
-        history = []
-
-    # Retrieve relevant context
-    contexts = retrieve_context(query)
-
-    # Build prompt
-    prompt = build_prompt(query, contexts, history)
-
-    # Call Gemini with retry and fallback
-    import time
-    client = _get_gemini_client()
-
-    models_to_try = [GEMINI_MODEL, "gemini-2.5-flash-lite", "gemini-2.0-flash-lite"]
-    answer = None
-
-    for model_name in models_to_try:
-        for attempt in range(3):
-            try:
-                response = client.models.generate_content(
-                    model=model_name,
-                    contents=prompt,
-                )
-                answer = response.text if response.text else None
-                if answer:
-                    break
-            except Exception as e:
-                err_str = str(e)
-                if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
-                    wait = (attempt + 1) * 5
-                    print(f"Rate limited on {model_name}, retrying in {wait}s (attempt {attempt + 1}/3)")
-                    time.sleep(wait)
-                else:
-                    print(f"Error with {model_name}: {err_str[:100]}")
-                    break  # Non-rate-limit error, try next model
-        if answer:
-            break
-
-    if not answer:
-        answer = "I'm sorry, the AI service is temporarily unavailable. Please try again in a minute. If the issue persists, the API quota may have been exceeded."
+    # Call Groq (blazing fast)
+    client = _get_groq_client()
+    try:
+        response = client.chat.completions.create(
+            model=GROQ_MODEL,
+            messages=messages,
+            temperature=0.3,
+            max_tokens=2000,
+        )
+        answer = response.choices[0].message.content
+    except Exception as e:
+        answer = f"Sorry, something went wrong: {str(e)[:100]}. Please try again."
 
     # Extract source references
     sources = []
@@ -214,13 +183,3 @@ def get_answer(query: str, history: list[dict] | None = None) -> dict:
         "answer": answer,
         "sources": sources,
     }
-
-
-if __name__ == "__main__":
-    # Quick test
-    result = get_answer("How do I file a patent at IIT Bombay?")
-    print("ANSWER:")
-    print(result["answer"])
-    print("\nSOURCES:")
-    for s in result["sources"]:
-        print(f"  [{s['category']}] {s['file']} (relevance: {s['relevance']})")

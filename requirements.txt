@@ -1,7 +1,6 @@
-fastapi
-uvicorn[standard]
+streamlit
 python-dotenv
 chromadb
 sentence-transformers
 pdfplumber
-google-genai
+groq

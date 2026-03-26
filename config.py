@@ -8,26 +8,21 @@ load_dotenv()
 PROJECT_ROOT = Path(__file__).parent
 DOCUMENTS_DIR = PROJECT_ROOT / "documents"
 CHROMA_DIR = PROJECT_ROOT / "chroma_db"
-STATIC_DIR = PROJECT_ROOT / "static"
 
 # Chunking
-CHUNK_SIZE = 800           # characters per chunk
-CHUNK_OVERLAP = 200        # overlap between chunks
-MIN_CHUNK_SIZE = 100       # skip tiny fragments
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 200
+MIN_CHUNK_SIZE = 100
 
 # Embedding
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # Retrieval
-TOP_K = 10                 # chunks to retrieve per query (increased for professor matching)
+TOP_K = 10
 
-# Gemini
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.5-flash"
-
-# Server
-HOST = "0.0.0.0"
-PORT = 8000
+# Groq LLM
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # ChromaDB collection name
 COLLECTION_NAME = "iic_knowledge_base"
