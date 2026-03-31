@@ -1,0 +1,65 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Educational Technology Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Jayakrishnan M.
+- Department: Educational Technology
+- Designation: Assistant Professor
+- Email: jayakrishnan@iitb.ac.in
+- Research Group: ET Core Faculty
+- Primary Research Area: Computational Thinking & Programming Education
+- Research Interests & Innovation Focus: Computational thinking education, programming pedagogy, learning sciences, block-based programming, CS unplugged methods
+- Notable Projects: Computational thinking curriculum development, programming education tools
+- Key Tools & Platforms: Python, Scratch, block-based programming tools
+- Innovation Keywords: computational thinking, programming education, learning sciences, CS education
+- Profile: https://www.et.iitb.ac.in/people/faculty/core
+
+## Ramkumar Rajendran
+- Department: Educational Technology
+- Designation: Associate Professor
+- Email: ramkumar@iitb.ac.in
+- Research Group: ET Core Faculty
+- Primary Research Area: Learning Analytics & AI in Education
+- Research Interests & Innovation Focus: Learning analytics, AI in education, student modelling, educational data mining, adaptive learning systems
+- Notable Projects: AI-based learning analytics platforms, student performance prediction
+- Key Tools & Platforms: Python, ML libraries, LMS platforms, R
+- Innovation Keywords: learning analytics, AI in education, educational data mining, adaptive learning
+- Profile: https://www.et.iitb.ac.in/people/faculty/core
+
+## Ritayan Mitra
+- Department: Educational Technology
+- Designation: Assistant Professor
+- Email: rmitra@iitb.ac.in
+- Research Group: ET Core Faculty
+- Primary Research Area: STEM Education & Eye Tracking
+- Research Interests & Innovation Focus: STEM education, eye tracking and biosensors in learning, systems thinking, earth science education, learner behaviour analysis
+- Notable Projects: Eye tracking studies in education, systems thinking curriculum
+- Key Tools & Platforms: Eye trackers, biosensors, learning analytics
+- Innovation Keywords: STEM education, eye tracking, systems thinking, biosensors, learner behaviour
+- Profile: https://www.et.iitb.ac.in/people/faculty/core
+
+## Sahana Murthy
+- Department: Educational Technology
+- Designation: Professor
+- Email: sahanamurthy@iitb.ac.in
+- Research Group: ET Core Faculty
+- Primary Research Area: Inquiry-based STEM Education
+- Research Interests & Innovation Focus: Inquiry-based STEM education, scientific abilities, technology-enhanced learning, learning design, guided discovery pedagogy
+- Notable Projects: Inquiry-based learning tools, STEM education design
+- Key Tools & Platforms: Learning analytics tools, Moodle, assessment platforms
+- Innovation Keywords: STEM education, inquiry-based learning, learning design, scientific abilities, pedagogy
+- Profile: https://www.et.iitb.ac.in/people/faculty/core
+
+## Sridhar Iyer
+- Department: Educational Technology
+- Designation: Professor
+- Email: sri@iitb.ac.in
+- Research Group: ET Core Faculty
+- Primary Research Area: Technology-Enhanced Learning & CS Education
+- Research Interests & Innovation Focus: Technology-enhanced learning, ICT for education, computer science education research, scalable educational innovation, MOOC design
+- Notable Projects: NPTEL courses, CS education research, scalable learning platforms
+- Key Tools & Platforms: Moodle, Python, LMS platforms
+- Industry Collaborations: NPTEL, MHRD
+- Innovation Keywords: ed-tech, technology-enhanced learning, CS education, MOOCs, scalable learning
+- Profile: https://www.et.iitb.ac.in/people/faculty/core

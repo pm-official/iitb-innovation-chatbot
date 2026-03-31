@@ -1,0 +1,562 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Chemical Engineering - Course Catalog for IIT Bombay Students
+
+
+## CL 101: Introduction to Chemical Engineering
+- Credits: 6
+- Type: Theory
+- Description: History of Science and Engineering Copernican revolution: Galileo versus Church, Kepler and Newton  Enlightenment movement followed by Romantic movement & further professionalisation Major developments: Industrial revolution and engines, Electromagnetism, Darwin and Mendel Quantum & Statistical physics  History of chemical engineering discipline Early examples of chemical process industry (alchemy) Transition from unit operations to unit processes Rise of transport: Unification of heat, mass and momentum transfer Use of computational approaches and adoption of numerical methods to solve integrated problems Attempts to address problems across multiple scales of space and time Automation in process systems Inclusion of biology and rise of biotechnology/biochemical engineering Consideration o...
+
+## CL 102: Material and Energy Balances
+- Credits: 6
+- Type: Theory
+- Description: Principles of balancing with examples to illustrate differential and integral balances, lumped and distributed balances. Material balances in simple systems involving physical changes and chemical reactions; systems involving recycle, purge. and bypass. Properties of substances: single component & multicomponent, single and multiphase systems. Use of Compressibility charts, vapour pressure correlations/charts & Psychometric charts. Ideal liquid and gaseous mixtures. Energy balance calculations in systems with and without reactions. Introduction to Computer aided calculations-steady state material and energy balances
+
+## CL 152: Introduction to Chemical Engg.
+- Credits: 6
+- Type: Theory
+- Description: Historical overview of Chemical Engineering: Concepts of unit operations and unit processes, and more recent developments, Features of organized chemical processing- from chemistry to chemical engineering. The Chemical Industry-scope, features & characteristics. and scope. Principles of balancing with examples to illustrate differential and integral balances, lumped and distributed balances. Material balances in simple systems involving physical changes and chemical reactions; systems involving recycle, purge. and bypass. Properties of substances: single component & multicomponent, single and multiphase systems. Use of Compressibility charts, vapour pressure correlations/charts & Psychometric charts. Ideal liquid and gaseous mixtures. Energy balance calculations in simple systems. Introduc...
+
+## CL 202: Introduction to Data Analysis
+- Credits: 8
+- Type: Theory
+
+## CL 203: Introduction to Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL152
+- Description: Introduction: Vectors/Tensors, Viscosity, Shell balance: Falling film, Circular tube; Equations of Change for isothermal systems: Continuity, Motion, Energy, Substantial derivatives; Unidirectional flows: Pipe flow, Variable viscosity falling film, Couette viscometer, Rotating Sphere; Unsteady flows: Startup Plate flow, Parallel plates, Oscillating plate; Thermal  conductivity and mechanism of energy transport; Shell energy balances and temperature distributions in solids and laminar flow; The equations of change for nonisothermal systems; Diffusivity and the mechanisms of mass transport; Concentration distributions in solids and laminar flow; Equations of change for multicomponent systems; Introduction to the concept of heat and mass transfer coefficients.
+
+## CL 205: AI and Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: AI and Data Science in Chemical Engineering: Introduction to supervised learning.  What are learning objectives?   Motivating examples of the use of AI and Data Science in Chemical Engineering and broad categories of problems in AI. Connections between AI methods and probability/ statistics.   Introduction to Probability:  Sample Spaces and events Probability axioms. Properties of Probability, Counting Techniques. Random Variables. Expectations and Variances.  Visualizing PDF: Point plot, PDF, CDF, histogram, binning issues in histogram.  Conditional probabilities and conditional expectation. Independence. Important discrete and continuous distributions. Bivariate distributions.  Visualization of relationship between two variables: bi-variate histogram, conditional PDFs. Joint Probability ...
+
+## CL 207: Chemical Engineering Thermodynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Volumetric Properties of Fluids Thermodynamic Reversibility; First Law: Steady and Unsteady State Analyses Carnot Cycle and Entropy; Second Law: Steady and Unsteady State Analyses; Statistical Interpretation of Entropy Maxwell Relations, Thermodynamic Properties of Real Fluids Thermodynamic Analysis of Process Devices: Pumps, Compressors, Nozzles, Turbines, etc. Thermodynamics of Ideal Mixtures and Solutions Thermodynamics of Real Mixtures: Use of Partial Molar Properties; Residual and Excess Properties; Fugacity and Activity Coefficients Criteria of Chemical Equilibria/Stability of Thermodynamic Systems Vapour-Liquid Equilibria (Ideal/Non-ideal systems) Liquid-Liquid Equilibria Reaction Equilibria: Homogeneous Reactions  Additional topics Vapor-Liquid-Liquid Equilibria Solid-Liquid Equili...
+
+## CL 208: Chemical Reaction Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction Kinetics of chemical reactions: Elementary and non-elementary reactions Order and rate constant from experimental data Design of batch reactors, ideal CSTR, PFR for systems without and with density changes; for systems with multiple reactions; and for systems with temperature effects. Catalysis: Introduction, mechanisms, kinetics, reactor design Catalyst deactivation: Kinetics, reactor design Residence time distribution: Tracer; experiments, E and F-curves - CSTR, PFR, Laminar flow reactor; diagnostics; PFR/CSTR in series; mixing properties; zero parameter models. Additional topics: One-parameter models
+
+## CL 210: Separation Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Principles and design of the following unit operations: Absorption, distillation, extraction (liquid-liquid and solid-liquid), adsorption, drying, cooling towers, evaporators, crystallization, membrane processes
+
+## CL 231: Solid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Rigid and deformable solids; Method of sections for evaluating internal forces in bodies - review of free body diagrams; Concept of stress - normal and shear stresses; State of stress; Concept of strain - normal and shear strains; State of strain; Hookes law; Constitutive relations; Axially loaded members, force and deflections; Indeterminate systems and compatibility conditions; Simple indeterminate systems and lack of fit problems; Generalized Hookes law; Stress in cylindrical and spherical shells; Thin-Walled Pressure Vessels; Torsion of circular shafts - determinate and simple indeterminate systems. Elastic theory of bending of beams; Shear force and bending moment diagrams; Bending and shearing stresses in beams of symmetrical cross-section; Concept of shear flow and shear centre; Pri...
+
+## CL 232: Chemical Engineering Lab. I
+- Credits: 6
+- Type: Laboratory
+- Description: (Focus: Fluid Mechanics, Thermodynamics) Experiments on the flow through piping networks, Nature of flow, Venturi / Orifice meter, Stokes Law, pumps in series / parallel, determination of partial molar enthalpies, vapour pressures, infinite dilution activity coefficient,vapour-liquid equilibrium, adiabatic calorimetry, size reduction (ball mill), porosity measurement
+
+## CL 238: Introduction to Numerical Analysis
+- Credits: 6
+- Type: Theory
+- Description: Interpolation by polynomials, divided differences, error of the interpolating polynomial, piecewise linear and cubic spline interpolation. Numerical integration, composite rules, error formulae. Solution of a system of linear equations, implementation of Gaussian elimination and Gauss-Seidel methods, partial pivoting, row echelon form, LU factorization Cholesky302222s method, ill-conditioning, norms. Solution of a nonlinear equation, bisection and secant methods. Newton302222s method, rate of convergence, solution of a system of nonlinear equations, numerical solution of ordinary differential equations, Euler and Runge-Kutta methods, multi-step methods, predictor-corrector methods, order of convergence, finite difference methods, numerical solutions of elliptic, parabolic, and hyperbolic p...
+
+## CL 242: Fundamentals of Heat and Mass Transfer
+- Credits: 6
+- Type: Theory
+- Description: Review of conduction, resistance concept, extended surfaces, lumped capacitance; Introduction to Convection, boundary layer theory, natural and forced convection, correlations; Radiation; Heat exchangers: LMTD, epsilon-NTU method; Interphase mass transfer, mass transfer coefficient, theories for interphase mass transfer, overall mass transfer coefficient, correlations, mass transfer with chemical reaction, simultaneous heat and mass transfer, analogy between momentum, heat and mass transfer; Crystallization.
+
+## CL 244: Introduction to Numerical Analysis
+- Credits: 8
+- Type: Theory
+- Description: Interpolation by polynomials, divided differences, error of the interpolating polynomial, piecewise linear and cubic spline interpolation. Numerical integration, composite rules, error formulae. Solution of a system of linear equations, implementation of Gaussian elimination and Gauss-Seidel methods, partial pivoting, row echelon form, LU factorization Cholesky-s method, ill-conditioning, norms. Solution of a nonlinear equation, bisection and secant methods. Newton-s method, rate of convergence, solution of a system of nonlinear equations, numerical solution of ordinary differential equations, Euler and Runge-Kutta methods, multi-step methods, predictor-corrector methods, order of convergence, finite difference methods, numerical solutions of elliptic, parabolic, and hyperbolic partial dif...
+
+## CL 246: Heat Transfer
+- Credits: 6
+- Type: Theory
+
+## CL 249: Computational Methods Lab
+- Credits: 3
+- Type: Laboratory
+
+## CL 250: Chemical Engineering Thermodynamics II
+- Credits: 6
+- Type: Theory
+
+## CL 253: Chemical Engineering Thermodynamics
+- Credits: 8
+- Type: Theory
+- Description: Single-Phase Systems: Introductory concepts: Work, Heat, Reversible and Irreversible Processes; Equations of State and Generalized Correlations; First Law: Closed and Open Systems, Steady and Transient Processes. Second law and Entropy: Reversible Heat Engines; Availability and Exergy Analyses, Maxwell Relations and Fluid Properties Estimation; Pure Component Phase Equilibria, Power and Refrigeration Cycles; Flow Processes; Statistical Mechanics Basics: quantum states and degeneracy of energy levels. Liouiville theorem, microcanonical, canonical, grand canonical and the other ensembles, partition function and thermodynamic properties; monoatomic and diatomic gases, lattice statistics, ideal gas mixtures, imperfect gases; liquid state and solution theories. Single Phase Mixtures and Solutio...
+
+## CL 254: Process Fluid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Basic Fluid Concepts: Dimensions and Units, Velocity and Stress Fields, Viscosity and surface tension, Nonnewtonian viscosity, Dimensional Analysis (Buckingham PI theorem), Types of flows, Methods of Analysis, Fluid Statics; Differential Analysis: Review of NSE, Potential flows, Velocity potential, Boundary Layer Theory (Laminar), Viscous flows (past sphere), Integral Analysis: Mass, Energy (Bernouli), Momentum (Impinging jet, pitot tube, Orifice meter, rotameter, pipe flow: f vs Re charts); Chem Engg Equipment: Piping systems (K factors, networks), Flow past immersed objects (Packed beds, Fluidised beds, sedimentation, Centrifugal separation, filtration), Pumps, Agitation and Mixing, (Power consumption, mixing times, scale up), Particulate solids, characterisation, Other topics: Introduct...
+
+## CL 255: Chemical Engineering Thermodynamics I
+- Credits: 6
+- Type: Theory
+
+## CL 260: Molecular and Statistical Thermodynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL 251
+- Description: Review: Elementary Statistical Mechanics, Postulates, Ensembles, Relation between microscopic and macroscopic thermodynamics; Equivalence of ensembles, Legendre Transformation. Intermolecular Potential Energy functions (Non-Polar molecules); Distribution functions: Radial Distribution Function (RDF) Physical Interpretation: Structure of Fluids and Solids, Experimental Measurement  Thermodynamics from RDF; Molecular Simulation Techniques: Mass, Length and Time Scales at atomic levels, LJ reduced units, Molecular Dynamics: Autocorrelation Functions: Transport properties;   Random Walks; Diffusion and Einstein-s Equation; Stochastic: Monte Carlo Numerical Integration versus Monte Carlo Integration Importance Sampling, Markov Chains, Metropolis Monte Carlo Metropolis MC applied to NVE ensemble...
+
+## CL 302: Process Control
+- Credits: 8
+- Type: Theory
+- Description: First Principles model development; Process dynamics for first, second and higher order systems: linearisation, transfer function models, effect of poles, zeros and time delays on system response; Empirical models from data; control system instrumentation; introduction to feedback control: objectives, PID control; analysis of closed loop systems: stability, root locus, frequency response using Bode and Nyquist plots; control design techniques: design criteria, time and frequency domain techniques, model based design, tuning; advanced control strategies: cascade and feed forward, introduction to multivariable control; controller implementation through discretisation.
+
+## CL 305: Solid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Rigid and deformable solids; Method of sections for evaluating internal forces in bodies - review of free body diagrams; Concept of stress - normal and shear stresses; State of stress; Concept of strain - normal and shear strains; State of strain; Hookes law; Constitutive relations; Axially loaded members, force and deflections; Indeterminate systems and compatibility conditions; Simple indeterminate systems and lack of fit problems; Generalized Hookes law; Stress in cylindrical and spherical shells; Thin-Walled Pressure Vessels; Torsion of circular shafts - determinate and simple indeterminate systems. Elastic theory of bending of beams; Shear force and bending moment diagrams; Bending and shearing stresses inbeams of symmetrical cross-section; Concept of shear flow and shear centre; Prin...
+
+## CL 306: Chemical Processes
+- Credits: 6
+- Type: Theory
+
+## CL 308: Overview of Indian Chemical Industry
+- Credits: 6
+- Type: Theory
+- Description: Overview of chemical and allied industries in India and worldwide. Process technologies in various chemical sectors such as refinery, petrochemicals, fertilizers, pharmaceuticals, fine chemicals (dyes, agrochemicals, paints, perfumeries and other intermediates).  The course will have significant component of visits to most of the sectors.
+
+## CL 310: Mass Transfer II
+- Credits: 6
+- Type: Theory
+- Description: Perspective on Unit Operations; Liquid-Liquid extraction; Leaching; Adsorption and Ion-exchange; Simultaneous Heat and Mass Transfer: Humidification and Dehumidification, Design of cooling towers, Drying, Crystallization; Membrane processes: Ultra-filtration and reverse osmosis.
+
+## CL 317: Mass Transfer Operations
+- Credits: 6
+- Type: Theory
+- Description: Distillation: batch distillation, continuous fractionation, calculations with multiple feeds and withdrawals; Special distillation techniques (azeotropic, extractive, etc.) steam and molecular distillation; Tray hydrodynamics and efficiencies; Liquid-Liquid extraction: Calculations with and without reflux for immiscible and partially miscible system; Gas absorption: packed tower design, effect of reaction; Simultaneous heat and mass transfer: Drying; Design of cooling towers; Adsorption: Types and nature of adsorption; Freundlich isotherm; Membrane processes: Gas separation processes; reverse osmosis processes.
+
+## CL 319: Mass Transfer I
+- Credits: 6
+- Type: Theory
+- Description: Principles of Mass transfer: Constitutive laws of diffusion; unsteady state diffusion; Convective mass transfer. Interphase mass transfer and mass transfer coefficients; Mass transfer theories/models; Effect of chemical reaction on mass transfer. Equilibrium stages and transfer units: number and height of transfer units; stage efficiency. Gas absorption: plate and packed column design; reactive absorption. Distillation: batch distillation, continuous fractionation, other types of distillation (eg azeotropic); introduction to multi-component mixtures.
+
+## CL 324: Chemical Reaction Engineering
+- Credits: 8
+- Type: Theory
+- Description: Kinetics Reaction rate, order, rate constant; Batch reactors Design + basics; Kinetic constants from batch reactor data; Ideal flow reactors Mass and Energy balances; Isothermal, adiabatic and non-isothermal operation; Catalysts, Catalytic rates, Reaction mechanisms; Internal/External transport in catalysts; Non-catalytic solid-gas reactions; Reactor design for ideal flow reactors; Yield and Selectivity; Concept of RTD; Segregation and Maximum Mixedness models
+
+## CL 325: Chemical Reaction Engineering II
+- Credits: 6
+- Type: Theory
+- Description: Multiphase reactors (Gas-Liquid; Liquid-Liquid); Yield, Selectivity, Reactor Design for Multiple Reactions; Models of Industrial Reactors: Pressure Drop considerations, Heat management, Non-isothermal reactors, Steady State multiplicity; Residence Time Distribution: Theory; Evaluation from Tracer Experiments; Non-Ideal Reactor Modelling: Use of RTD; Zero, One and Two Parameter Models; Compartment Modelling; Applications: Polymerisation; Combustion; Biochemical Reactions; Multi-functional Reactors; Stochastic approaches to kinetics.
+
+## CL 326: Material Science
+- Credits: 6
+- Type: Theory
+- Description: Atomic Bonding, Crystal Structure and Defects, Mechanical and Thermal Behaviour: Failure Analysis and prevention, Phase Diagrams; Metals and alloys, Polymers (Plastics), Semiconductors, Ceramics & Glasses, Corrosion and its prevention, Environmental Effects, Nanotechnology, Biomaterials.
+
+## CL 327: Chemical Process Design I
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: - Theory component of the course:         ◦ Process design and development         ◦ Green chemistry and engineering         ◦ Process safety         ◦ Design of batch process         ◦ Design of separation system and heat exchanger network         ◦ Optimization of design      - Practical component of the course:         ◦ Project topic selection, scoping, and literature review         ◦ Process identification and plant sizing         ◦ Linear mass balances         ◦ Process flowsheet simulation         ◦ Development of process flowsheet including reaction and separation system         ◦ Flowsheet optimization         ◦ Design of heat exchange network
+
+## CL 329: Process Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: First principles model development; Process dynamics for first, second and higher order systems: linearisation, Laplace Transform, transfer function models, effect of poles, zeros and time delays on system response; Empirical models from data; control system instrumentation; introduction to feedback control: objectives, PID control; analysis of closed loop systems: stability, root locus, frequency response, Bode and Nyquist plots; control design techniques: design criteria, time and frequency domain techniques, model based design, tuning; advanced control strategies: cascade and feed forward, introduction to multivariable control; controller implementation through discretisation, Z Transform, applications of process control in unit operations and reactors.
+
+## CL 331: Chemical Process Design II
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: - Theory component:         ◦ Process equipment selection and design         ◦ Process economics         ◦ Sustainability considerations in process design         ◦ Industrial ecology and circular economy         ◦ Product design         ◦ Process intensification      - Practical component:         ◦ Equipment sizing         ◦ Detailed economic calculations of the process plant         ◦ Process improvement to achieve economic targets         ◦ Preliminary life cycle assessment/footprint analysis
+
+## CL 333: Chemical Engineering Lab. II
+- Credits: 6
+- Type: Laboratory
+- Description: (Focus: Heat andMass Transfer) Experiments on hydrodynamics of a packed column, Differential distillation, Heat transfer in laminar and turbulent flow, boiling and condensation, Plate heat exchanger, Fluidization with heat transfer, heat transfer through a submerged helical coil, heat transfer in an agitated vessel, finned tube heat exchanger
+
+## CL 335: Chemical Engineering Lab. III
+- Credits: 6
+- Type: Laboratory
+- Description: (Focus: Reaction Engineering and Unit Operations) Experiments on esterification kinetics, Batch reactive distillation, micellar catalysis, homogeneous reaction, metal recovery from dilute solutions, reaction in CSTR, reaction in PFR, Gas chromatography, Cooling tower, gas liquid absorption
+
+## CL 336: Advanced Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Description: This course will teach students how to think about problems in transport phenomena. Given a physical problem, students will learn how to formulate a consistent mathematical model based on first principles, and how to simplify and analyze the equations to obtain useful physical insights and make quantitative predictions. The scope of the course is limited to single-phase, laminar flows with transport of a scalar. However, we will consider nonlinear problems, including situation where fluid flow is coupled to heat/mass transport. Key Topics: Introduction and motivation - Continuum approach - Elementary kinematics  - Reynolds Transport Theorem - Governing conservation equations - Cauchy stress tensor - Navier-Stokes equations - Brief history of the stress tensor and continuum mechanics - Non-...
+
+## CL 405: Process Equipment Selection
+- Credits: 4
+- Type: Theory
+- Description: Design variations, Selection criteria, process calculations and representative industrial applications for the following will be covered. (1) Pumps: Types of pumps and selection criteria, Typical calculations of a pumping circuit and pump rating, Pump characteristic curves, Cavitation and NPSH. (2) Compression and Expansion: blowers and compressors, Single or multistage compressing, Typical multistage compressor calculations. (3) Furnaces: Types of furnaces, simple 1-D, 2-D heat transfer models of furnaces. (4) Gas-Solid Catalytic Reactors: Fluidized Bed. (5) Evaporator: Multiple Effect Evaporator Design, Optimum number of effects; Plant Design: PFD, P&ID, Plant Layout, Safety
+
+## CL 407: Process Equipment Design
+- Credits: 4
+- Type: Theory
+- Description: (1) Materials for vessel construction, corrosion and mechanical strength criteria, Alloy Steel, Specimen Test, Yield/Ultimate/Proof/Code Stresses, Elastic and Plastic Deformation, Strain Hardening; (2) Pressure vessels, International Pressure Vessel Design Codes, Various shapes of revolution as employed in shell and closure design of pressure vessels, membrane theory or simple free body diagrams, Safety Factors and Allowable Stress Weld Quality Factor, Shape or Y factor, Design Temperature, Design Pressure, Design Life, Corrosion Allowance, Mill Tolerance, Dimensional Standards for Nominal plate thicknesses and pipe size and schedules; (3) Design for vacuum service, External pressure design, Buckling Failure, Iterative thickness calculation using Factor A - Factor B approach in codes, Stif...
+
+## CL 409: Material Science
+- Credits: 6
+- Type: Theory
+- Description: Atomic Bonding, Crystal Structure and Defects, Mechanical and Thermal Behaviour: Failure Analysis and prevention, Phase Diagrams; Metals and alloys, Polymers (Plastics), Semiconductors, Ceramics & Glasses, Corrosion and its prevention, Environmental Effects, Nanotechnology, Biomaterials.
+
+## CL 419: Process Economics
+- Credits: 4
+- Type: Theory
+- Prerequisite: 0
+- Description: Essentials of Process Economics : Time value of money, Simple and compound Interest. Capital cost estimation, Location and inflation corrections, Capacity exponents of major equipment, Annualized Capital cost and Capitalized annual cost, least Annual Cost, Amortization, Depreciation and taxes, Profitability Chart, Return on investment, Payback period.
+
+## CL 433: Chemical Engineering Lab IV
+- Credits: 6
+- Type: Laboratory
+- Description: (Focus: Process Control, Unit Operations) Experiments on Residence time distribution, continuous distillation, Dynamic process modeling, identification of transfer functions, P /PI control, Temperature measurement and signal conversion, Control valve characteristics, Fixed bed reactor, drying
+
+## CL 451: Chemical Process Design
+- Credits: 6
+- Type: Theory
+- Description: Process Design and Development: General Design Considerations; The Hierarchy of Chemical Process Design; The Nature of Process Synthesis and Analysis; Reactor networks in process flowsheets: Attainable region Separation systems in process flowsheets: multicomponent distillation for ideal and non-ideal systems, distillation column sequences, heat integration in distillation columns Heat exchange networks synthesis and utilities: Energy targets Introduction to optimization approaches to optimal design, role of simulations in process design, Design under uncertainty and failure tolerance, Engineering around variations, Introduction to process integration
+
+## CL 452: Process Design Project
+- Credits: 6
+- Type: Laboratory
+- Description: Process and mechanical design calculations for process equipment; Numerical studies in reactor design; Design and analysis of separation equipment.
+
+## CL 455: Design Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Steady-state simulation of flow sheets; Optimization and costing in flow sheets; Design and analysis of control systems; Simulations using commercial simulators (e.g. ASPEN, HYSYS), Computational Fluid Dynamics, Molecular modeling.
+
+## CL 601: Advanced Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Description: Vector and tensor algebra. Kinematics: Motion, streamlines, pathlines and streaklines.Governing equations of fluid mechanics: Equation of continuity, Momentum balance, Stress tensor, constitutive equations, Boundary conditions. Unidirectional flows: steady and unsteady; Two-dimensional flows: Stream function. Limiting cases: Creeping flow, Inviscid flow, Boundary layer theory, Turbulent flow: Transition to turbulence, Turbulence models. Macroscopic balances. Governing equations of heat transfer: Energy balance, Constitutive equations, Boundary conditions, Conduction, Forced convection, Natural convection. Radiation, Macroscopic balances. Concentrations, velocities and mass fluxes: Governing equations of mass transfer: Species mass balance, Constitutive equations, Boundary conditions. Compl...
+
+## CL 602: Mathematical and Statistical Methods in Chemical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Linear Algebra: Linear spaces, Vector spaces, Function spaces, Linear operator theory, self-adjoint operators, Eigenvalues and eigenvectors-eigenfunctions, Cayley-Hamilton theorem, Polynomials and functions defined on matrices, Similarity transformations, Jordan forms, quadratic forms, Strum-Liouville equations and solution of boundary value problems, Finite difference equations, Difference operators, Generating functions and Z-transforms.  Nonlinear Ordinary Differential Equations: Autonomous/ nonautonomous systems of odes, Phase plane analysis, Limit cycle and bifurcation, regular and singular perturbation techniques, Poincare and Liapunov stability criteria, Chaos, Differential-Algebraic equations. Graph theory: Classification of graphs, matrix representation of graphs, Analysis of tree...
+
+## CL 603: Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL353
+- Description: Introduction to Process Optimization; Formulation of Various Process Optimization Problems and their Classification; Basic Concepts of Optimization-Convex and Concave Functions, Necessary and sufficient conditions for Stationary Points; Optimization of one-dimensional Functions; Unconstrained Multivariable Optimization- Direct Search Methods. Indirect First Order and Second Order Methods; Linear Programming and its Applications; Constrained Multivariable Optimization-Necessary and Sufficient Conditions for Constrained Optimum, Quadratic Programming, Generalized Reduced Gradient Method, Successive Linear and Quadratic Programming; Optimization of Staged and Discrete Processes, Dynamic Programming, Integer and Mixed Integer Programming.
+
+## CL 604: Process Plant Simulation
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Process Plant Simulation, Various Approaches to Plant Simulation, Steady-State Sequential Introduction to process model building and simulation; Various approaches to plant simulation; Flowsheet topology representation methods and recycle detection algorithms; Steady-state sequential modular simulation techniques, concepts of partitioning and tearing; Recycle convergence algorithms; Equation oriented simulation techniques; Solution methods for sparse systems; Simultaneous modular simulation techniques; Steady state commercial simulation packages and their features; Problem solving using selected commercial simulators; Thermodynamic Procedures in Process Simulators; Introduction to Dynamic Simulation; Commercial Dynamic Simulators and their applications.
+
+## CL 605: Advanced Reaction Engineering
+- Credits: 6
+- Type: Theory
+- Description: Homogeneous reactor design and analysis-I: Ideal reactors, Review of isothermal design for batch, semi-batch and flow reactors, Multiple reactions and reaction networks: Yield-selectivity concepts, Wei-Prater analysis for first order networks, reaction networks of general order, Reactor energy balance and its applications to reactor design and analysis. Homogeneous reactor design and analysis-II: Non-ideal reactors- Review of the basic concepts of residence time distributions, single parameter models for real reactor behavior, Macromixing and micromixing, segregated flow model and Zweitering`s analysis of maximum mixedness, IEM and other models for micromixing. Heterogeneous reactors-I: Gas-solid systems- Review of kinetics of gas-solid catalytic reactions with and without diffusion limita...
+
+## CL 607: Advanced Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Review of Basic Postulates, Maxwell`s relations, Legendre Transformation, Pure Component properties, Theory of corresponding states, real fluids Equilibrium, Phase Rule, Single component phase diagrams, Introduction to Multicomponent Multiphase equilibrium, introduction to Classical Mechanics, quantum Mechanics, Canonical Ensemble, Microcanonical Ensemble, Grand Canonical Ensemble, Boltzmann, Fermi-dirac and Bose Einstein Statistics,Fluctuations,Monoatomic and Diatomic Gases, introduction to Classical StatisticalMechanics, phase space, liouville equation, Crystals, Intermolecular forces and potential energy functions, imperfect Monoatomic Gases, Molecular theory of corresponding states, introduction to Molecular Simulations, Mixtures, partial molar properties, Gibbs Duhems equations, fugac...
+
+## CL 608: Fluidization Engineering
+- Credits: 6
+- Type: Theory
+- Description: Gross behaviour of fluidized beds, Minimum fluidizing velocity and pressure drops; Voidage, transport disengaging height; Bubbles in dense beds, Davidson Model, stream of bubbles, bubbling bed models, Emulsion phase, Turn-over rate of solids, residence time distribution diffusion model of solids movement, interchange coefficient into and out of wake; Diffusion model for gas flow; two region models, evaluation of interchange coefficients.  Mass and heat transfer between fluids and solid from bubbling bed model; Catalytic conversion from bubbling bed model; contacting efficiency; application to successive reactions; Theories and bed-wall heat transfer; comparison of theories; Entrainment and elutrition, application of entrainment model; Residence time distribution and size distribution of so...
+
+## CL 609: Pollution Control Systems
+- Credits: 6
+- Type: Theory
+- Description: Sources of water, air and land pollution; Legislation and standards; Analysis of pollution; Design of waste-water and industrial effluent treatment; Specification of Clean technologies and recovery schemes of useful chemicals. Air pollution and its measurement; Design of pollution abatement systems for particulate matter and gaseous constituents; Hazardous waste disposal and treatment; Solid-waste disposal and recovery of useful products through chemical and biological methods.
+
+## CL 610: Experimental Methods
+- Credits: 6
+- Type: Laboratory
+- Description: The lab consists of experiments from the following list, each experiment being coupled with an analytical instrument: Fluid mechanics-Microscopy and Image Analysis; Emulsion liquid membranes-spectrophotometry; Heat effects associated with phase transformation-Differential Scanning Calorimeter / Thermogravimetry; Reactive Distillation-GC/HPLC analysis, Adsorptive separations-High Performance Thin Layer Chromatography; Behavior of monolayers at air-liquid/liquid-liquid interface- Langmuir-Blodgett apparatus; Kinetics of electrochemical reactions- Cyclic voltammetry; Heat of complexation-Microcalorimetry; Catalyst characterization-BET, mercury porosimetry; Rheology of Non-Newtonian Fluids-Rheometry; Characterization of Colloids -Dynamic light scattering and Zeta potential; Material characteri...
+
+## CL 611: Electrochemical Reaction Engineering
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to electrochemistry and examples of electrochemical systems, Electrochemical cells and reactions.2. Non-faradic processes, Electrode-solution interface, and double layer capacitance.3. Factors affecting rates of electrode reactions ( Mass transfer controlled reactions and coupled chemical reactions)4. Thermodynamics of electrochemical systems, cell potentials, liquid junction potentials etc.5. Conductance, transference and mobility6. Kinetics of electrode reactions, Butler-Volmer model and Microscopic theories for charge transfer7. Mass transfer by migration and diffusion 9. Potential step Methods (chronoamperometry)- (Nernstian, Quasireversible and irreversible systems).10. Potential sweep techniques (reversible, irreversible and quasi reversible techniques) and cyclic vol...
+
+## CL 612: Multiphase Flow Systems
+- Credits: 6
+- Type: Theory
+- Description: Phase separation and settling behaviour. Description of general two phase systems. Slip and hold-up effect; Horizontal and vertical flow of gas liquid, liquid-liquid, and liquid-solid, gas-solid mixtures; Motion in fluidized beds: Jets and sprays; Chemical reaction in transport systems; Heat and mass transfer effects in suspension flow.
+
+## CL 613: Special Topics in Complex Fluids
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Statistical Thermodynamics 2. Intermolecular and Surface forces 3. Thermodynamics and Dynamics of Self    Assembly 4. Lipids and Biological membranes 5. Mechanics of Cells  6. Polymeric Suspensions 7. Rheology of Complex Fluids 8. Electrohydrodynamics 9. Computational Techniques
+
+## CL 614: Petroleum Refinery Engg. II
+- Credits: 8
+- Type: Theory
+- Description: Thermal Processes-Thermal cracking, Coking, Pyrolysis, Visbreaking; Design of thermal cracking unit, Catalytic Processes-Catalytic Cracking, Catalytic reforming, Application of molecular sieve for refinery processes. Hydrogenation Processes-Hydrogenation, Hydrocracking, Hydro refining, Hydrofinishing,Hydro-desulfurisation.
+
+## CL 615: Polymer Reaction Engineering
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Brief introduction to polymer structure; classification of polymers (addition and step growth, thermoplastics and thermosets, linear, branched and network, etc.), molecular weight distributions and averages. Polymerization kinetics and MWD development: Chain growth polymerization-kinetics and kinetic chain length in free radical, anionic and cationic polymerization. Gel effect. Allylic polymerization, (in-situ) casting of polymer products, Molecular weight regulation in chain growth polymerization.  Copolymerization kinetics: reactivity ratios and copolymer composition, Walling-Mayo and Skiest equations, MWD prediction, Experimental determination of polymerization kinetics. Step growth polymerization: Types, equal reactivity hypothesis, kinetics and evolution of molecular wei...
+
+## CL 618: Catalysis and Surface Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Review of chemical kinetics, Homogeneous, Acid-Base and Heterogeneous catalysis, Adsorption, Diffusion, Fundamental modeling for catalytic processes, Catalyst preparation and characterization, catalysts in pollution control abatement, Introduction to industrial catalysis, Biocatalysis.
+
+## CL 620: Petroleum Refining Engineering I
+- Credits: 8
+- Type: Theory
+- Description: Chemistry of Petroleum hydrocarbons, Composition of petroleum, and petroleum products. Physico-chemical and thermodynamic properties of petroleum products and their characterization. Oil field refining operations-Dehydration, Desalting, Gas separation.  Natural gas production and gas sweetening. Refinery operations and vacuum distillation. Sequencing of distillation columns.   Distillation column design. Tube still heater design.
+
+## CL 624: Polymer Processing
+- Credits: 6
+- Type: Theory
+- Description: Processes, Importance of processing. Viscous non-Newtonian flow: Behavior of polymer melts, One-dimensional isothermal flows, Approximations. Visco-elastic non-Newtonian flow: Phenomena and material functions, Constitutive equations, Rheometry. Non-isothermal aspects: Effect on rhelogical properties. Thermal transport properties, Transient heat conduction, Radiation, Crystallization- morphology and orientation. Mixing: Characterization of mixed state, Dispersive and distributive mixing, Thermodynamics. Extrusion dies: Visco-elastic phenomena, Sheet and film dies. Annular dies. Profile extrusion dies. Multilayer extrusion, Extruders: Extruder types. Hopper design, Plasticating single screw extruder. Postdie processing: Fibre spinning. Film blowing, Moulding and forming- Injection moulding, ...
+
+## CL 625: Process Modelling and Identification
+- Credits: 6
+- Type: Theory
+- Description: Development of first principle models and linearization, State estimation for linear perturbation models (Luenberger observer), Models for unmeasured disturbances and Kalman filtering,  Innovation form of state space model, Extended Kalman filtering , Development of Grey box models (using ANN etc.), Discrete time series models: FIR and ARX models, Development of ARX models by least square estimation, Unmeasured disturbance Modeling: ARMAX, OE, Box-Jenkin?s models, Parameter estimation using prediction error method and instrumental variable method, Distribution of bias and variance errors, Input signal requirements for identification experiments, Control Relevant Identification, MIMO system identification?Issues of directionality, scaling and input signal design. U-D factorization and AUDI ...
+
+## CL 644: Modeling and Analysis of Bioprocesses
+- Credits: 6
+- Type: Theory
+- Description: Structured growth models; compartmental models, cybernetic and optimal models, stoichiometric models, immobilized enzyme kinetics, multi-enzyme kinetics.  Reactor design, use of structured models, bubble column reactors, fed-batch operation, immobilized cell reactors, immobilized cell reactor/separator, simultaneous enzyme and cell reactors. Metabolic Engineering, Flux analysis, Biochemical Systems Theory (BST), Metabolic Control Analysis (MCA), Genetic models, Protein production kinetics, Analysis of genetic switches.
+
+## CL 645: Polymer Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Viscosity of Polymer Melts and Solution: Viscosity of Concentrated Solutions and Melts, Effect of Branching on Viscosity, Elasticity and Viscoelasticity, Maxwell Model for Viscoelasticity,Flow phenomena in polymeric liquids, Brownian Motion, Smoluchowski and Langevin Equation, Autocorrelation and Cross-Correlation functions, Response Function, Fluctuation Dissipation Theorem, Interacting Brownian Particles, Oseen Tensor, microscopic basis of viscoelasticity. Dilute Solutions: Elastic Dumbell Model and bead-rod-spring model for polymer chain, the Rouse and Zimm Models, Viscoelasticity and Birefringence.  Semidilute and Concentrated Solutions and melts: Effective Medium Theory, Entanglement Effect, Tube Model and Reptation Model, Network theories, Linear Viscoelasticity, Stress Relaxation, N...
+
+## CL 647: Advanced Process Optimization
+- Credits: 6
+- Type: Theory
+- Description: Optimization strategies for Large Scale Plants; Global Optimization Techniques ? Simulated Annealing, Genetic Algorithms; Mixed Integer Linear and Nonlinear Optimization; Applications to Planning and Scheduling; Mixed integer optimization models for supply chain management.
+
+## CL 649: Reaction Engineering in Dispersed Phase Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Classification of multiphase reactors/ heterogeneous reaction systems, Basic theories of mass transfer with chemical reaction, model systems and model reactions, Application to complex and multiple reaction schemes, Mass transport in microheterogeneous systems (emulsions, slurries etc.), Design of selected multiphase reactors.
+
+## CL 650: Process Monitoring and Fault Diagnosis
+- Credits: 6
+- Type: Theory
+- Description: Preliminaries: Introduction to probability distributions, Confidence intervals and hypothesis testing, Analysis of variances, wavelets and multiscale analysis. Statistical Quality Control: Introduction to control charts, X and R charts, control charts for individual measurements, CUSUM charts, other SPC problem solving tools, wavelet Methods for Statistical Process Monitoring: Simple linear regression, Multiple linear regression (MLR), Principal Component Analysis (PCA), Projection to Latent Structures (PLS) Performance assessment of control loops for univariate and multivariate cases, Minimum variance benchmarking, LQG benchmarking Introduction to model based fault diagnosis, Fault diagnosis using parameter identification Generalized likelihood ratio (GLR) method, Concepts of analytical r...
+
+## CL 651: Rheology of Complex Fluids
+- Credits: 6
+- Type: Theory
+- Description: The course will largely follow Prof. Ronald Larson-s book titled Structure and Rheology of Complex Fluids.  We will begin with an introduction to linear and non-linear viscoelasticity, flow-fields, stresses, etc.  Complex fluids such as suspensions, polymer solutions, and soft colloidal glasses will be discussed. Phenomenological models and theories will be presented. Some of the measurement techniques including rheometry, microscopy, etc. will be introduced.
+
+## CL 653: State Estimation:  Theory and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: This course will deal with theory, tools and techniques for estimation of process states (variables) in the presence of uncertainty. This uncertainty is in the form of uncertainty (noise) in measurements as well as disturbances/noise in the process. The theory covered will deal with estimation for dynamic systems for both linear and nonlinear processes, as well as for gaussian and non-gaussian noise characteristics. Issues related to constraints on process states (constrained estimation), and delayed and multirate measurements will also be dealt with. It is expected that this course will expose the student to not only the well-accepted basics of estimation, but also to recent advances in this area. Throughout the course, the main ideas will be illustrated using matlab-based examples. The f...
+
+## CL 656: Colloid and Interfacial Engineering
+- Credits: 6
+- Type: Theory
+- Description: Colloidal materials; Brownian motion and Brownian flocculation, Colloidal and interfacial forces, Interfaces, interfacial tension and contact angle, thermodynamics of interfaces, Stability of colloidal dispersions and interfaces, Electrokinetic phenomena and electroviscous flows, Capillary hydrostatics and thin films, Industrial applications.
+
+## CL 657: Computational Flow Modelling
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CL 659: Bioprocess Principles
+- Credits: 6
+- Type: Theory
+- Description: Introduction to biosystems: microorganisms, molecules, genetics, recombinant DNA systems. Principles of enzyme catalysis: enzyme kinetics, enzyme inhibition, enzyme and cell immobilization.  Microbial growth and production: stoichiometry, energetics, unstructured and structured models, flux analyses, control analysis.  Bioreactors: CSTR, PFR, fed batch, gas-liquid mass transfer, power requirements, control, data acquisition, sterilization, high-cell density cultivation.  Separation methods: centrifugation, filtration, ultrafiltration, precipitation, chromatography, and electrophoresis.  Other topics: bioinformatics, new classes of molecules, manufacturing, regulatory issues, and economic analyses.
+
+## CL 662: Introduction to Computational Biology
+- Credits: 6
+- Type: Theory
+- Description: Flood of data on genomics, transcriptomics, proteomics, phenomics, and xxx-omics has led to the emergence of a new inter-disciplinary field where organization, analysis, and processing of this data has to be done efficiently.  The biological database are of many different kinds and more and more are emerging with the advent of the technology in the respective field.  Although the differnt databases are related to each other, the link is not always clear.  The challenge lies in understanding the link between these databases to glean new biological information.  Another avenbue is to apply systems science approach to understand biology better. The course introduces students to biological databases, inter-and intra-database relationships, various algorithms, verbal models, quantitative models...
+
+## CL 663: Introduction to Systems Biology
+- Credits: 6
+- Type: Theory
+- Description: Complexity in biological systems; Basic concepts of biological networks; Genetic networks, Transcription networks, Protein networks; Network motifs; Deterministic modeling approaches - kinetics, dynamics; Dynamics of and multiplicity in biological systems - bistability, oscillations, synchronization; Introduction to probability; Stochastic modeling approaches - Introduction, Langevin technique, Master equations, quasi-steady state approximation; Numerical simulations - Gillespie algorithm, Monte Carlo simulations; Fluctuations and robustness; Pattern formation; Traveling waves in biological systems; Quantitative experimentation.
+
+## CL 664: Polymer Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Polymer Chain Conformations: Random flight model for polymer, The Gaussian Chain, Chain Conformation under an External Field, Excluded Volume Effect and Theta Condition, Rotational Isomeric States, Scaling Concept. Mechanical Behavior of Polymers: Rubber Elasticity, Network Model. Thermodynamics of Polymer Solutions: Dilute, Semidilute and Concentrated Solutions, Osmotic Pressure - MW Measurement, Zimm Diagram - MW Measurement, Viscosity of Dilute Solutions - MW Measurement, Screening Effect, Flory-Huggins Theory, Phase Equilibria in Polymer Solutions, Phase Behaviour of Block Copolymers. Glassy, Crystalline and Molten States of Polymers: Thermodynamics of Melting of Polymers, Kinetics of Crystallization (Avrami Equation), Thermodynamics of Glass Transition, Free Volume theory. Thermodynam...
+
+## CL 665: Sustainable Engineering Principles
+- Credits: 6
+- Type: Theory
+- Description: Part I: Overview and basics (~4 hours)  Basics of sustainability and sustainable development  Brundtland commission report, Millennium Ecosystems Assessment, IPCC report  Evolution from green engineering to sustainable engineering  Motivating examples from chemical as well as other branches of engineering Part II: Sustainability quantification (~15 hours)  Why quantification is important?  Different quantification methods: o Brief review of well established economic indicators o Footprint analysis (carbon footprint, water footprint) o Life cycle inventory and assessment o Ecological/environmental carrying capacity o Information theory based indicators for dynamic systems o Resource use intensity o Exergy, emergy etc. o Social indicators Part III: Design of sustainable systems (~15 ho...
+
+## CL 669: Product Research & Development
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: The course will be an introduction to the methodology, skills, and "competencies" required for target/objective oriented R&D in creation of Chemical Technology embedded "Products". The "Products" under consideration could be consumer goods, foods, specialty chemicals, equipment or devices. The course will include case studies demonstrating the process of Product R&D, as well as application of rigorous Scientific and Chemical Engineering principles, to solve problems posed by real life products. Apart from class room lectures, the students will have to carry out short term assignments/projects. The course would be of benefit to those interested in pursuing careers in R&D or Product Innovation.   (A few interested 2nd, 3rd,4th Year B.Tech students will be permitted to opt for the course, alt...
+
+## CL 671: Multiscale Simulations
+- Credits: 6
+- Type: Theory
+- Description: -       Intermolecular forces (van der Waals, Electrostatic)  -       Force-fields (Atomistic and molecular system)  -       Potential models (Lennard-Jones, Coulombic, Bonded Potential)  -       Structural properties (Radial distribution function, Potential energy, Pressure, structure factor, s(k))  -       Dynamic Properties (Diffusivity from MSD and/or VACF, Thermal conductivity)  -       Periodic Boundary Conditions (PBC) and minimum image convention  -       Bond constraints for molecular systems  -       Molecular Dynamics Methodology (through its implementation in NVE, NVT and NPT ensemble)  -       Monte Carlo Method (Importance Sampling, Partition function and probability density for NVT, NPT, uVT ensembles)  -       Introduction to coarse-graining techniques  Introduction to DFT/...
+
+## CL 672: Applied Multivariate Statistics in Chemical Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: IC 102
+- Description: The aim of this course is to provide students with foundational elements of multivariate statistics and its applications in Chemical Engineering. The topics covered are: Multivariate Gaussian, Multivariate moments and inferences, Multivariate regression and classification, and Industrial applications related to process monitoring and modeling.
+
+## CL 673: Turbulent Multiphase Flow
+- Credits: 6
+- Type: Theory
+- Description: Single phase turbulence Introduction to stability and transition. Vorticity dynamics. Origin and characteristics of turbulence. Spatial and temporal correlations. Time and length scales in turbulence. Momentum transport and concept of Reynolds stress. Kinetic Energy of turbulence. Spectral dynamics and energy cascading.  Multiphase dynamics Properties of dispersed phase flows. Dilute versus dense phase flows. Interphase coupling between particles/droplets-fluid for mass, momentum, and energy transport. Particle-particle interactions. Phenomena of particle clustering, turbulence attenuation and augmentation, turbophoresis.  Modeling and Computational methods Lagrangian-Eulerian and Eulerian-Eulerian approach to model multiphase turbulent flow.  Introduction to direct numerical simulation us...
+
+## CL 676: Modeling and Simulation
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL 353
+- Description: Modelling of Staged Processes - Equilibrium and Rate Based Approaches; Modelling of Differential Contactors - Lumped/Distributed Parameter Models of Packed Beds: Adsorption Columns, Packed Bed Reactors; Model Reduction through Orthogonal Collocation; Modelling of Reactive Separation Processes; Solution Strategies for Large Sparse Nonlinear Algebraic Equations, Stiff and Non-stiff Differential Equations, Differential Algebraic Equations (DAEs), and Partial Differential Equations (PDEs).
+
+## CL 678: Techno-Commerical Aspects of Fine Chemicals
+- Credits: 6
+- Type: Theory
+- Description: Overview  of  F&S  Chemicals  industry  sectors:  AGROCHE MICALS,    FLAVORS  AND  FRAGRANCES, DYES AND PIGMENTS, SURFACTANTS, POLYMER  ADDITIVES, PERSONAL CARE  INGREDIENTS, CONSTRUCTION CHEMICALS, WATER CHEMICAL S, TEXTILE CHEMICALS  Manufacturing  Practices:  Introduction,  Catalysis,  S electivity  Engineering,  Separation  processes, Process Development.    Commercial Aspects: Introduction to the market  (wit h special focus on Indian Industry),  market size and growth, Key success factors, trends , Indian Companies in this sector, Future  outlook.
+
+## CL 682: Computer Aided Design & Engineering
+- Credits: 6
+- Type: Theory
+- Description: Computer Aided Design and Engineering Tools; Process Simulators ? Steady State Simulators, Dynamic Simulators; Control System Design Environments; Process and Energy Integration software Packages; Heat Exchanger Network synthesis software; Computational Fluid Dynamics and related software; Problem solving in the areas of Process Synthesis, Process Simulation, Design & Optimization, Process Control, and CFD Modeling applications; Expert Systems and other Artificial Intelligence applications.
+
+## CL 684: Advanced Process Synthesis
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL451
+- Description: Development of Chemical Process Systems; Process Integration, Philosophy of Targeting, Thermodynamic Approach, Mathematical Programming Approach; Heat Exchanger Networks and Energy Optimization; Utility and Power Systems; Total Site Analysis; Separation Systems, Distillation Column Sequencing and Integration; Mass Exchange Networks; Networks for Water and Hydrogen Management; Reaction Path Synthesis, Reactor Networks, Reactor-Separator-Recycle Systems: Grassroots and Retrofit Designs, Multiple Base Case Designs; Flexibility Considerations; Industrial Applications and Case Studies.
+
+## CL 686: Advanced Process Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL358
+- Description: Review of Single Input Single Output (SISO) Control; Model Based Control; Multivariable control strategies; Internal Model Control Preliminaries and Model Predictive Control, Model forms for Model Predictive Control, Model forms for Model Predictive Control; Parametric and Non-parametric Models, State space and Transfer Function Representations and their inter relationships; Control Relevant Proces identification; Choice of Input Signals and Model Forms; Parameter Estimation using batch and Recursive Least Squares; Model Validations using Correlation Concepts; Identification of Non-parametric Representations; Model Predictive Control; Analysis of Dynamic Matrix Control (DMC) and Generalized Predictive Control (GPC) Schemes, Controller Tunning and Robustness Issues; Extensions to Constraine...
+
+## CL 688: Artificial Intelligence in Process Engineering
+- Credits: 6
+- Type: Theory
+- Description: Intorduction-History and Relation of Artificial Intelligence (AI) to Process Engineering; Knowledge Representation I- Predicate calculus and Semantic Networks; Search-forward/Backward. depth/breadth/best - first search; Production Systems; History; Components; Knowledge Representation II - Frames, Objects; Inexact Reasoning - Introduction, Blackboard Architecture; Expert Systems - Applications to Industry' Programming Languages; Expert System Shells; Neural Nets - Introduction and Application to Process Engineering.
+
+## CL 692: Digital Control
+- Credits: 6
+- Type: Theory
+- Description: State space models, discretisation, ZOH equivalent, basic system, concepts, Z-transforms, transfer function, internal stability, frequecncy domain analysis, Fourier series and transforms. Identification, Traditional control techniques. State space techniques. Model predictive control, and adaptive control.
+
+## CL 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## CL 701: Computational Methods in Chemical Engineering
+- Credits: 8
+- Type: Theory
+- Description: Errors and error control; Interpolation and optimization; Linear algebraic equations; Matrix inversion and matrix eigenvalues estimation; Solution of non-linear algebraic equations; Newton Raphson technique and homotopy; Numerical integration; Ordinary differential equations; Runge Kutta Techniques; Predictor corrector methods; solution of partial differential equations; implicit and explicit techniques; finite volume and finite element methods; Differential algebraic equations; Introduction to equation solving software like MATLAB, DSSL, LSODE etc.
+
+## CL 702: Lecture Series
+- Credits: 2
+- Prerequisite: nil
+- Description: Course Content: The students are required to attend lectures on a wide variety of topics relevant to Chemical Engineering research and industry, presented by persons of high standing in industry and other academic institutions, faculty from the chemical Engineering and the other Departments /Centres /Schools at IIT-B and PhD Students at advanced stages in their Research. Assessment of the performance would be based on attendance alone.
+
+## CL 704: Lecture Series
+- Credits: 2
+- Prerequisite: nil
+- Description: Course Content: The students are required to attend lectures on a wide variety of topics relevant to Chemical Engineering research and industry, presented by persons of high standing in industry and other academic institutions, faculty from the chemical Engineering and the other Departments /Centres /Schools at IIT-B and PhD Students at advanced stages in their Research. Assessment of the performance would be based on attendance alone.
+
+## CL 706: Molecular Principles in Chemical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Molecular Structure of Matter - states of matter, solids and bonding, amorphous solids, density and distribution functions of liquids, non-ideal gases, kinetic theory of gases, Maxwell-Boltzmann distribution, molecular origins of transport. Solution Thermodynamics - review of the laws of thermodynamics and the Boltzmann equation for entropy, chemical potential and its relation to equilibrium, ideal and non-ideal solutions, colligative properties, Debye Huckel Theory. Theories of Chemical Reactions/Chemical Kinetics - mechanisms and rate laws, transition state theory, collision theory, activated complex theory, transport properties, catalysis, reactions in fluids, reactions on solid surfaces.
+
+## CL 707: Processing with Supercritical Fluids
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: -Mukhopadhyay, M., Natural Extracts Using Supercritical Carbon Dioxide, CRC Press LLC, Florida, USA, 2000. -McHugh M.A., and Krukonis, V.J., Supercritical Fluid Extraction: Principles and Practise, Butterworth-Heinemann, Stoneham, MA, USA, 1994. -York P., Kompella, U.B., and Shekonov, B.Y., Supercritical Fluid Technology for Drug Product Development, Marcel Dekker Inc., New Yark,USA,2004. -Jessop, P.G. and Leitner, W., Chemical Systhesis Using Supercritical Fluids, Wiley-VCH, Weinheim, Germany, 1999.
+
+## CL 708: Introduction to Granular Mechanics
+- Credits: 6
+- Type: Theory
+
+## CL 710: Aerosol Technology
+- Credits: 6
+- Type: Theory
+
+## CL 712: Process Data Analysis and Design of Experiments
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: This course will deal with statistical analysis of engineering process data and the design of experiments. Specifically, this course will be concerned with building empirical models (linear as well as nonlinear models) from given data, analyzing the developed models for adequacy, and refining the model if required. Data analysis methods based on covariance structures of the variables will also be discussed. Further, generation of data in an “optimal” sense by using designed experiments will also be covered. Techniques for finding new operating regions for improved process performance will be discussed. Throughout the course, the main ideas will be illustrated by examples based on experimental or industrial data.   The following topics will be covered:  Basic Statistics:  Confidence interva...
+
+## CL 713: Introduction to Network Analysis
+- Credits: 6
+- Type: Theory
+- Description: Introduction to network and Motivation.Network as a model and a graph. Elements of basic graph theory.Simulation and analyses. Networks metrics  and operation. Analyses iof large netwroks.Sub-networks approach.Network decomposition -Motif finding Modularity.Large Network approach: Boolean dynamics modeling.Case studies- 1. Process networks; Sensor network, Reaction Networks, Water distribution networks.2, biological networks: Cellular networks, Disease Networks.Tools Matlab.
+
+## CL 714: Nonlinear Systems Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: This course will cover the following topics: a) Some common distinguishing properties of nonlinear systems b) Bifurcation and limit cycles c) Perturbation methods d) Chaos e) Lyapunov stability
+
+## CL 716: Modelling  Chemical and Biiological Patterns
+- Credits: 6
+- Type: Theory
+- Description: Temporal patterns in chemical and biological systems - Introduction to temporally oscillating chemical and biological systems. Examples from chemistry such as CIDMA, Brusselator, B-Z reactions. Examples from biology such as circadian rhythms.  Experimental observations and measurements. Modeling and some analytical solutions to ODEs. Spatio-temporal pattern formation and analytical solutions - Introduction to spatial pattern formation in chemical and biological systems. Reaction-diffusion systems. BZ- reactions, Turing patterns. Spatial patterns in reaction - diffusion-advection systems. Stationary and travelling waves. Modeling of spatio-temporal patterns. Some analytical solutions to PDEs.  Computer simulation of spatio-temporal dynamics - Numerical solutions to PDEs. Simulating the evol...
+
+## CL 717: Evolutionary Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Evolution; Fitness Landscape and Sequence Spaces; Evolutionary Game Theory (fitness dependent on frequency);Origin of Cooperation (genes to genomes; single-cell to multicellular organisms); Deterministic and Stochastic Description of Finite Populations; Evolutionary Graph Theory; Infinite Populations;  Modeling Ecological Dynamics; &Examples: Evolution of Cancer, HIV, Virulence, and Language.
+
+## CL 718: Introduction to Cell  Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Review of cell biology in general; shape, size and function. Introduction to intracellular structures and their functions: membrane, cytoplasm, cytoskeletal elements and nucleus. Introduction to Cell mechanics and its importance in biology under normal and pathological conditions. Review of rheology and surface tension. Cell membrane: description of bi-layer structure, membrane tension, Laplace-s equation, micro-aspiration technique and related calculations. Cytoskeletal elements: Structure of actin, microtubule, molecular motors, related mechanisms.  Review of stress-strain and solid mechanics. Cellular rheology and associated experimental methods; AFM, optical tweezers. Effect of cell mechanics on cellular functions. Cell types covered; stem cells, RBC and cardiomyocytes. Cell response t...
+
+## CL 720: Introduction to Bio-membranes
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Introduction to a cell and organelles, role of cell membrane, chemistry and structure of lipids and proteins, fundamentals of self-assembly and applications to membranes and vesicles, phase transition in membranes, Interaction of proteins with membranes, multicomponent membranes, concept of line tension, concept of a raft, membrane permeation  Experimental: Synthesis of vesicles,-classification based on size, hydration, extrusion, sonication,-electroformation, experimental techniques in bio-membranes and vesicles, -ESR, Neutron scattering to measure bilayer thickness, FRAP and other fluorescence based assays for diffusion / phase separation due to temperature and tension variation  Membrane Elasticity: Elasticity in membranes: Hookes law, Skalak-s law, etc, gaussian, mean and...
+
+## CL 722: Introduction to Interfacial Waves
+- Credits: 6
+- Type: Theory
+- Prerequisite: CL 602
+- Description: Introduction to oscillations: Oscillations in discrete systems, coupled system of discrete oscillators, normal-modes, Oscillations in continuous media.Interfacial Flows: Boundary conditions at an interface, Non-dimensionalisation and scaling, Derivation of equations and boundary conditions from a variational principle.Sound Waves: Acoustic waves, Speed of sound, Acoustic energy and intensity, Simple Source, Acoustic Dipole, Compact Source Regions in General, Ripple-tank simulations Introduction to surface-gravity waves: Surface-gravity waves on water of finite and uniform depth, Dispersion relations, Mixed nature of surface-gravity waves, Deep and shallow-water limits, frequency dispersion, phase-speed and group-velocity, group-velocity for linear dispersive systems, Physical interpretatio...
+
+## CL 724: Technology Design and Development Laboratory
+- Credits: 6
+- Type: Laboratory
+- Description: The basic components of the course are:1. Lectures/Tutorials: Fundamentals of  need, innovation, technology, design, development and deployment  - to be covered in about 8 lectures  (4 in Jan and 4 in Feb) in the first two months semester.  2. Laboratory: Manufacturing machine/equipment training, hands on practice on the machines - to be covered in 8 lab sessions (4 in Jan and 4 in Feb). Students, who seek to practice further, will have access to extra practice sessions in the first two months of the semester.  The students will get trained to use the fabrication machines and develop basic skills so that they should be adequately abled. 3. Mini project: identified by a group of students (likely 3) based on need assessment and on arriving at a clearly defined problem statement. Project work...
+
+## CL 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates after Listening, Podcasts and Webcasts 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling 7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 8.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## CL 797: I Stage Project
+- Credits: 46
+- Prerequisite: 0
+
+## CL 798: II Stage Project
+- Credits: 44
+- Prerequisite: 0
+
+## CL 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## CLS601: Seminar
+- Credits: 4
+- Type: Seminar

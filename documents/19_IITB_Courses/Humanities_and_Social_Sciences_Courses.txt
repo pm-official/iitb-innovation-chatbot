@@ -1,0 +1,869 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Humanities and Social Sciences - Course Catalog for IIT Bombay Students
+
+
+## HS 001: English
+- Credits: 0
+- Type: Theory
+- Description: Listening comprehension. Rapid reading and intensive reading skills. Oral skills with emphasis on conversational practice. Writing skills through guided composition - paragraphs and simple essays. Remedial grammer - word order, clause structure, and sentence types, articles, tenses, active and passive forms, and prepositions. Vocabulary development. Reading materials to be selected by the teachers.
+
+## HS 002: English
+- Credits: 0
+- Type: Theory
+
+## HS 101: Economics
+- Credits: 6
+- Type: Theory
+- Description: Basic economic problems.  resource constraints and Welfare maximizations. Nature of Economics : Positive and normative economics; Micro and macroeconomics, Basic concepts in economics. The role of the State in economic activity; market and government failures; New Economic Policy in India.Theory of utility and consumer"s choice. Theories of demand, supply and market equilibrium. Theories of firm, production and costs.  Market structures. Perfect and imperfect competition, oligopoly, monopoly.An overview of macroeconomics, measurement and determination of national income. Consumption, savings, and investments. Commercial and central banking.  Relationship between money, output and prices.  Inflation - causes, consequences and remedies. International trade, foreign exchange and balace paymen...
+
+## HS 102: History of Economic Analysis
+- Credits: 6
+- Type: Theory
+- Description: 1 Concept and perspective of -political economy-: Mercantilists and Physiocrats 2 Right and Ownership, Price and Value, legality and morality 3 Nation State, Commerce and Trade: Thomas Mun, William Perry 4 Concepts of Wealth and Surplus, Tableau Economique 5 Development of Classical Economics-Market and Trade: Adams Smith, David Ricardo and  J. S. Mill 6 Socialism: Interaction of labour, capital and technology 7 Comparing Classical economics and Socialism 8 Marginalism: Menger, Walrus, Marshal and Lionel Robbins 9 Utilitarianism and Welfare 10 Revisiting marginalism using the tool of Utilitarianism: Relook into Welfare, Trade Public Finance 11 Great depression and re-emergence of importance of nation: Macroeconomics and Keynes (Multiplier effect, and emergence of macroeconomic policies-fis...
+
+## HS 200: Environmental Studies
+- Credits: 3
+- Type: Theory
+
+## HS 210: Intermediate Microeconomics II
+- Credits: 6
+- Type: Theory
+- Description: Choice under Risk and Uncertainty: Preferences, Time Value of preferences, Net Present Value  General Equilibrium, Efficiency and Welfare:  Multi market equilibrium; partial and general equilibrium compared; Equilibrium and efficiency under pure exchange and production; Topics in Multimarket Equilibrium; Existence, uniqueness and stability of equilibrium.  Welfare Economics: Pareto Optimality; the efficiency of Perfect Competition; efficiency of imperfect competition; external effects in consumption and production; inter-dependent utility function; taxation and subsidies; Social welfare function; the theory of second best.  Market Failure:  Externalities; public goods and markets with asymmetric information.
+
+## HS 212: Intermediate Macroeconomics II
+- Credits: 6
+- Type: Theory
+- Description: Derivation of Aggregate Supply and Interlinkage Between Aggregate Supply and Phillips Curve Unemployment and Theories of Inflation Interest Rate Targeting vis-a- vis Money Supply Targeting Real Business Cycle Theory: Impact of Technology shock, Fiscal shock New Keynesian Macroeconomics: Staggering of Wage and Price, Overlapping Wage Contract
+
+## HS 214: Statistics II
+- Credits: 6
+- Type: Theory
+- Description: Sampling Techniques:  Simple random sampling, stratified sampling, cluster sampling, systematic sampling. Estimation Theory:  Estimator and estimate, Point estimation, Interval estimation, Sampling distributions, t, F, and chi-square distributions. Hypothesis Testing:  Null and alternate hypothesis, Test statistic, Testing equality of means, Testing equality of variances, Power of the test. Relation between Two Variables:  Correlation coefficient, Regression analysis,statistical inference about regression parameters.
+
+## HS 216: Money and Banking
+- Credits: 6
+- Type: Theory
+- Description: Monetary Institutions and Policy:  The functioning of The Gold Standard and its Breakdown. Determinants of the money supply and bank panics. Budget Deficits and the Monetary Base.   What are the appropriate goals and targets?  Money and Inflation. Monetization of the debt. International Financial System and Monetary Policy. Foreign exchange and the money supply. Financial markets vs. financial intermediaries.  Term Structure of Interest Rates.            Indian Financial System.  Banking Sector Reforms in India.  Banking and the Management of Financial Institutions. Basel Norms and their implications.
+
+## HS 221: Intermediate Microeconomics I
+- Credits: 6
+- Type: Theory
+- Description: Theory of Consumer Behaviour:  Preferences, utility, choice, substitution and income effects, demand curves. Theory of Firm: Production function, returns to scale, cost function, profit function, short and long run supply curve. Market Structure: Price and output decisions under different market structures like: Perfect Competition, Monopoly, Duopoly, Oligopoly, and Monopolistic Competition.
+
+## HS 223: Intermediate Macroeconomics-I
+- Credits: 6
+- Type: Theory
+- Description: National Income Accounting: GDP, GNP, National Income, Personal Disposable Income, Price Index, Okun-s Law, role of inventories Theories of consumption and investment functions: Consumption puzzle and it reconciliation, Relative income hypothesis, Life cycle hypothesis, permanent income hypothesis. Hall-s random walk hypothesis, Flexible accelerator models and its drawback Keynesian model of effective demand and income determination: Simple Keynesian model, IS-LM framework, Complete Keynesian model Classical Macroeconomics: Full employment model, Classical dichotomy, Patinkin-s integration of real and monetary sector, Pigou effect and Keynes- criticism. Post Keynesian theories of demand for money: Baumol-s transaction demand for money, Tobin-s theory of speculative demand for money, Portfo...
+
+## HS 225: Mathematics for Economics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to real analysis: Basic concepts of mappings, sequence, limits, continuous functions, closed and open set, Debreu-s utility representation theorem. Linear algebra: Input-output system, complete Keynesian model. Linear programming: Simplex method, duality theorem, cost minimization problem, shadow price and their relevance. Optimization: Quasi-concavity and quasi-convexity, Karusch-Kuhn-Tucker necessary and sufficient conditions, utility maximization problem, overlapping generations models. Comparative Static Analysis: Berge-s theorem of maximum, Envelope theorem, Implicit function theorem, Slutsky equation, Roy-s identity, Le-Chatelier-s principle. Dynamic analysis:  Continuous time: Cobweb model, expectation augmented Phillips curve, dynamic input output model Discrete time: ...
+
+## HS 227: Statistics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Statistics for Economics Descriptive Statistics: Frequency distributions, Measures of central tendency, Measures of dispersion, Skewness, Kurtosis, Quantiles, Measuring changes in price and quantity: theory of index numbers, Measuring short-run and long-run changes: growth rates, time series, seasonal effects, cyclical effects, irregular effects. Probability, Random Variables and Moments:  Sample space, Events, Probability, Bayes- Theorem, Random variable, Expectation, Variance, Moments and moment generating function Discrete Probability Distributions:  Bernoulli distribution, Binomial distribution, Poisson Distribution. Continuous Probability Distributions:  Uniform distribution, Normal distribution. Joint Probability Distributions:  Jointly distributed random variables: d...
+
+## HS 250: Environmental Studies
+- Credits: 3
+
+## HS 302: International  Economics II
+- Credits: 6
+- Type: Theory
+- Description: 1. Opening up a closed economy, National Income identities; Balance of Payments statement 2. The Foreign Exchange Market: arbitrage, hedging and speculation; Exchange Rate concepts; spot and derivative markets.  3. Exchange rate regimes and International Monetary System: Fixed, Flexible, Managed Floating, etc.  4. Adjustment mechanisms: Monetary vs Absorption approach, expenditure reduction and expenditure switching, devaluation and Marshall-Lerner-Robinson Condition  5. Models and approaches to exchange rate determination: Purchasing power parity, Monetary, asset and Portfolio Balance Models,  6. Output, interest rates and exchange rate determination; impossible trinity 7. Optimum Currency Areas and Financial crises
+
+## HS 303: Psychology
+- Credits: 6
+- Type: Theory
+
+## HS 304: Development Economics II
+- Credits: 6
+- Type: Theory
+- Description: Poverty and Inequality: Measurement of poverty and inequality, Inequality and Growth: inverted-U hypothesis, Human Development Indices, Capabilities approach, Poverty alleviation programmes, Government policies and inequality, Functional impact of poverty: credit and insurance, Nutrition and labour markets, Intra-household bargaining and unequal sharing of poverty: within-household inequality. Health and Education: Access to health and education, Interrelation between health, education and productivity, Government policies to improve health and education.   The Dual Economy: Structure of dual economy, The Lewis Model, Migration, Harris-Todaro model,  Rural-urban wage gap, Unemployment and surplus labour: wage productivity model, surplus labour and efficiency wage, collusive theory of unemp...
+
+## HS 305: Reading Literature
+- Credits: 6
+- Type: Theory
+- Description: Reading of and reading into (interpreting) a variety of literary texts; analysing the art of literature; evaluation of the context(s) of reading and the reader-text relationship (s)
+
+## HS 306: Econometrics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Econometrics: What is econometrics? - Steps in econometrics analysis - Classical Linear Regression Model (CLRM): Assumptions Classical Linear Regression Model (CLRM): Bivariate and multivariate ordinary least squares models - Assumptions for estimation and hypothesis testing of OLS estimators. CLRM: Estimation and Hypothesis Testing -Deriving OLS estimates - Properties of OLS estimators - Distribution of OLS estimators - Hypothesis testing for single population parameter (t-test) - Confidence Intervals - Hypothesis testing for linear combination of parameters - Testing multiple linear restrictions CLRM: Further Issues -Effects of data scaling on OLS estimates - Functional forms - Prediction and residual analysis CLRM: Violation of assumptions -Multicollinearity - Autocorrel...
+
+## HS 307: Sociology
+- Credits: 6
+- Type: Theory
+
+## HS 308: Econometrics I Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to data analysis in Economics Quantitative and qualitative analyses of economic models with probabilistic tools Application of Econometric models and interpretation Implementing these models using software like SPSS, STATA, RATS, EVIEWS, OXMETRICS and R.
+
+## HS 311: International Economics I
+- Credits: 6
+- Type: Theory
+- Description: Gains from Trade: Free trade versus autarky; Failures of the gains from trade theorem; Distribution of gains  Bases for Trade: The No-Trade Model; Ricardian Model - Technology as a basis for Trade; Comparative versus absolute advantage; Comparative advantage and autarky price ratios; Distribution of gains between countries; Real wage comparisons across countries  Heckscher-Ohlin Theory: Basic assumptions; The Heckscher-Ohlin Theorem; The Factor Price-Equalization Theorem; The Stolper-Samuelson Theorem; The Rybczynski Theorem; The Leontief Paradox. New Trade Theory: Intra industry trade and imperfect markets, trade and productivity. Government Policies and Distortions as Determinants of Trade: Distinguishing among producer, consumer, and world prices; small open economy; Tariff and non-tari...
+
+## HS 313: Development Economics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Development Economics Vicious circle of poverty, Characteristics of underdevelopment, Growth and development, Stages of development and structural change, Rostow-s stages of growth, Industrialization and growth, Balanced Growth, Unbalanced Growth Theories of Growth The Harrod-Domar model, The Solow growth model, Convergence: unconditional and conditional convergence. Endogenous Growth Human capital and growth, Population, Technological progress Trade and Growth Closed and open economies, Gains from trade, Export-led growth, Import-substitution vs trade-promotion, Terms of trade Financing Growth & Development Domestic resource, Foreign resources, Dual-gap analysis and foreign borrowing, Foreign debt and development, Balance of payments, International Monetary Fund.
+
+## HS 315: Public Finance
+- Credits: 6
+- Type: Theory
+- Description: Normative Approach to Public Finance: Equality Between (Marginal) Social Benefit and Social Cost   The Theory of Optimum Budget: Allocation, Distribution and Stabilization.   Principles of Taxation and Government Expenditure: Benefit Approach, Ability To Pay Principle.        Progressive Taxation  Equality Theory, Surplus-Income Theory. The Lindahl Model of Pareto Optimality; Public Goods and the Free Rider Problem.  The Burden and Management of Public Debt. Ricardo-Pigou Thesis; Anti-Cyclical Debt Management.
+
+## HS 402: Game Theory and Economic Analysis
+- Credits: 6
+- Type: Theory
+- Description: Introduction of Game Theory. Classifications of games, Terminology and assumptions. Simultaneous games of complete information. Normal form games, Dominant strategy equilibrium, Iterated strict dominance, Nash Equilibrium in pure strategies, Cournot duopoly, Prisoner-s dilemma, Battle of Sexes, Problem of commons, Final offer arbitration, Strategic Voting, Non-existence of pure strategy Nash equilibrium Mixed strategies, Existence of Nash equilibrium, Matching coins Dynamic games of complete information. Extensive form games, Perfect and imperfect information in dynamic games, Stackelberg duopoly, Wage bargaining, Rubinstein-s bargaining (finite version), Nebulous skill enhancement Subgame perfection, Bank Runs, Finite stage repeated games, Cournot duopoly and collusion Static Bayesian gam...
+
+## HS 405: Econometrics II
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Time Series Econometrics: Univariate Time Series-Lag operators, AR, MA, ARMA and ARIMA processes, Stationary time series, difference stationary and trend stationary time series, Seasonality Models with Qualitative Dependent Variables -Linear probability models, Maximum likelihood estimation, Logit, Probit, Tobit  Introduction to Panel Data -Fixed effects estimation, Random effects model, Applying Panel data methods to other data structures Instrumental Variables Regression -Endogeneity of explanatory variable, Instrumental variable (IV), Statistical inference with IV estimator, Properties of IV with poor instruments. Simultaneous Equations Model -Simultaneity bias in OLS, Identifying and estimating a structural equation, Systems with more than two equations  Selected econom...
+
+## HS 406: Philosophy of Technology
+- Credits: 6
+- Type: Theory
+
+## HS 407: Econometrics II Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to Panel data analysis in Econometrics Quantitative and qualitative dependent variable models with probabilistic tools Application of Simultaneous Equation models and interpretation Implementing these models using software like SPSS, STATA, RATS, EVIEWS, OXMETRICS and R.
+
+## HS4108: Gender, Caste and Class in Colonial Indian History
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. The Colonial Encounter: Ideas of the Indian Past (Weeks 1-4) British Orientalism and Utilitarianism Indian Reactions: Reformism and Revivalism  2. Gender, Caste and Class in 19 th Century India (Weeks 5-10) The -Woman-s Question- and Social Reform: Sati, Age of Consent and Women-s Education Land and Labour in Transition The Ethnographic State: Colonial Census and Caste Categories  3. Subaltern lives and critiques of power (Weeks 11-14) Reading subaltern writings
+
+## HS 411: Indian Economy
+- Credits: 6
+- Type: Theory
+
+## HS4110: Experimental Archaeology: An Introduction
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Introduction to archaeology -what is archaeology -brief history of archaeology -basic concepts of archaeology-including excavation, stratigraphy, technology in archaeology, chronology etc. 2. Introduction to experimental archaeology -a brief history of experimental archaeology -case studies to understand experimental archaeology- e.g. Butser Ancient Farm -differentiating experiential and experimental archaeology 3. Material remains and the past -How the past is understood through material remains -Craft specialisation and archaeology 4. Cha-ne op-ratoire in archaeology -Using cha-ne op-ratoire to understand technology in prehistory -Experimental Archaeology and cha-ne op-ratoire
+
+## HS 412: Social Movement and Social Change: Contemporary Reflections
+- Credits: 6
+- Type: Theory
+- Description: Nature, Definitions and Characteristics of Social Movement, Relationship with state and Civil Society Theories of Social Movements Social Movements and Social Change Reform, Rebellion, Revival Revolution, Counter Movement New Social Movements (Peasant movement, Labour movement, Dalit movement, Women-s movement, Ecological/Environmental Movement, Anti-Nuclear Movement, Anti-Globlalization movements Movements, mobilization and current social order
+
+## HS 414: Justice, Ethics and Community
+- Credits: 6
+- Type: Theory
+- Description: 1. Classic Writings: The introductory section will focus on some classic philosophical writings on the theme of justice and community by thinkers such as Immanuel Kant and John Rawls. 2. Critiques and Contemporary Frameworks: Drawing on the work of contemporary philosophers, this section will highlight some problems with the traditional philosophical theories of justice and community, especially how they fail to adequately accommodate concerns about difference, inequality, oppression, and privilege. Some alternative philosophical frameworks such as -politics of difference,- -ethic of care,- etc., which emerge from these critiques and are attentive to difference and diversity, will also be introduced. 3. Quandaries of Difference and Building Communities across Differences: This section will...
+
+## HS 418: Human Cognitive Processes
+- Credits: 6
+- Type: Theory
+
+## HS 420: Philosophy of Mind
+- Credits: 6
+- Type: Theory
+
+## HS 423: Trends in Twentieth Century Drama
+- Credits: 6
+- Type: Theory
+- Description: This course offers a comparative perspective on important trends in modern india. Through highly participatory pedagogic methods, the students are encouraged to  share their special interest in examining specific themes, techniques of theatre representation, acting and writing. Definitions : the origin and function of drama. The connection between drama, leterature, theatre, cinema and performing arts. Historical overview of various trends in the West : Naturalism in the plays of Chekhov, lbsen strindberg. Antinaturalistic movements such as expressionalism of Luigi Pirandello, epic theatre of Bertolt Brecht, surrealism in the plays of Samuel Beckett, lonesco. The rise of ritualistic, political theatre of Brook, Schechner, Akalitis. Developments in post independence Indian drama : Classical...
+
+## HS 429: Sociology of Science
+- Credits: 6
+- Type: Theory
+- Description: Socio cultural bases of knowledge and science Conceptions of science : positivistic, realistic, Weberian and forms of conventionalism. Theory of scientific creativity : Mertonian normative structure of science, notions of creativity of Kuhn, Mulkay, Koestler and  Holton. Discoveries : singleton and multiples, scientism, antiscience movements, views reflections and institutions, science and religion relations. Socioeconomic and cultural aspects of scientific and technological revolution. Science and technology, conceptual distinction reconsisdered, and relations between science and technology.
+
+## HS 431: Reading Fiction
+- Credits: 6
+- Type: Theory
+- Description: Salient topics of this course are as follows : The novel : birth of a genre in the eighteenth century; literary ancestors of the novel; evolution of the form; its coming of age in the nineteenth century; status of the novel as an artform; potential for experimentation; self - consciousness and metafiction; the novel in the age of modernism and postmodernism. In the twentieth century the evolution of the novel form has involved interesting and unconventional experiments such as John Fowles"s the French Lieutenant:s Woman(FLW)(1969), for instance which adapt the literary form of the historical novel into metafiction and magic realism respectively. As a result a radical mode of reading is called for from the reader. FLW among other things offers two endings from which the reader is invited to...
+
+## HS 440: Industrial Economics
+- Credits: 6
+- Type: Theory
+- Description: Industrialization: Problems and processes (rationale of industrialisation); developing countries - Industrial policy and industrial licensing; Changes in the licensing Policy and procedure - tariffs and protection - capital market : structure, role and incentives- Industrial finance and growth: Banks and industrial finance: Industrial Development and finance corporations: IFCI; ICICI, SFCs, IDBI etc. - place and problems of small industries: definition, types and classification, structure and problems.
+
+## HS 443: Philosophy and History of Science
+- Credits: 6
+- Type: Theory
+- Description: Development and growth of some of the major concepts, laws and theories from Babylonian astronomy to quantum theory by which physical scientists explain the phenomena of the external world.  Use of selected case studies to stress the interconnection of concepts and conceptual schemes to experimentation and observation, the relation between observed data and theoretical concepts, the intellectual procedures of the working scientists, Social and philosophical ideas, growth of knowledge.  Analysis of the role of experience, Logical thinking, and free imagination in science.  In particular, geometry and mechanics are discussed as examples, with special emphasis on the distinction between empirical facts and the language by which those facts are described.The basic ideas of modern physics are p...
+
+## HS 452: Economic Reforms in India
+- Credits: 6
+- Type: Theory
+
+## HS 454: Principles of Management and Organisational Behaviour
+- Credits: 6
+- Type: Theory
+
+## HS 456: Understanding Creativity and Creative Writing
+- Credits: 6
+- Type: Theory
+- Description: The aim of this course is to analyse various approaches to generating creativity. Reading and writing work is undertaken to provoke fresh possibilities.To understand the creative writing process the reading of writer302222s journals is emphasized. These will be examined with reference to selected literary work of the chosen author. The literary forms such as drama and short story will be studied and creative exercises will be generated with reference to form and content. The difference between drama as a performative form and short story as narrative form is meant to help the students work out a suitable form for their writing.Contemporary issues of multilinguality; science-technology-humanities interface; globalization; youth and crisis will be problematized.
+
+## HS 457: Managerial Economics
+- Credits: 6
+- Type: Theory
+
+## HS 467: Indian Philosophy
+- Credits: 6
+- Type: Theory
+- Description: A study and examination of the logical, epistemological and ethical problems in the classical schools of Indian Philosophy, science and metaphysics in ancient India. The course will emphasize the insights of ancient Indian thinkers and their perennial preoccupation with issues centering on man and his being in the world in society.
+
+## HS 468: Philosophy of Religion
+- Credits: 6
+- Type: Theory
+- Description: Science and Religion.  Analysis and understanding of "religion" from different standpoints.  Arguments for and against the existence of God.  Historical religions, Mysticism and Occultism.  Nature of man`s reference to God.  Religious experience and religious language.  Theistic Existentialism.  Hermeneutics and religious frames of reference.
+
+## HS 472: Psychology of Health
+- Credits: 6
+- Type: Theory
+- Description: Course objective: The understanding of human physiological and psychological functions is one of the most useful and beneficial assets in a technological and industrial environment. It is for better management of human life that one must have a good understanding of human behaviour, thoughts and feelings. Among these, stress is one of the most common psycho-physiological phenomena of today and moreover, the young have been found to be its usual victims. In fact, stress and its emotional components result from the complex interaction of genetic, physiological, behavioural, and environmental factors, which finally disturb the homeostasis (balance among internal physiological conditions) of the body. This course is designed to cover the entire field of enquiry as given above.    Course outlin...
+
+## HS 474: Postmodernism and Philosophy
+- Credits: 6
+- Type: Theory
+- Description: Enlightebment Reason and it`s Fragile Interior: Validity Claims and Norative Action, Immanent and Transcendent sources of Realism and it`s Critique through Kant nietzsche, Foucault and Deleuze.  Derrida`s Radical Critique of Knowledge: Deconstruction, Singularity and Alterity, Identity Erasure; Subjectivity and Responsibilituy in Emmanuel Levinas and Derrida.  Recovering the Text the and Meaning: Communicative Action of Habermas, Honneth`s Critique of Power, Lyotard`s Report on Knowledge.  Indeterminacy of Meanings: Pragmatism of Richard Rorty, Internal realism of Hilary Putnam and Belief Revision in David Lewis.  After the Subject: Otherness in Helen Cixous, Femininity in Luce Irigaray, Presence in Jean Luc Nancy.  Critiquin natural and Human Sciences: Science as Praxis, Phenomenology of ...
+
+## HS 476: Culture and Media
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## HS 478: Industrial Sociology
+- Credits: 6
+- Type: Theory
+- Description: Types of productive systems - the rise of factory system.  Importance of human Relations at work and various experiments to bring out human factor at work.  The concept of organization - structure of and principles of organizations both formal and informal.Industrial bureaucracy - society of inequals.Executives - roles functions and strains. Specialists, supervisory levels and white collared workers - roles, strains.Workers in modern society - roles, alienation, embourgeoisoment. Trade union as an instrument of power. Automation and its impact on industry.
+
+## HS 485: Management of Human Resources in Organizations
+- Credits: 6
+- Type: Theory
+- Description: This course is designe to understand the personal and interpersonal behavioural problems people face within the organization. It also intends  to highlight the techniques of organizational behaviour through which the human resource potentialities of the personnel can be effectively utilized and developed for their self and organizational development. An introduction of the personeal and interpersonal dynamics of the organization - managing high performance : A challange - work motivation : Theoretical and behavioural framework. Improving work motivation in organizations. Human resources Development (HRD); Behaviour scientist"s view. Human capacity : Physical and psychological - Builing management, decision, interpersonal and goal setting skills - The functions of HRD and personnel DEpartme...
+
+## HS 487: Planning and Economic Policies in India
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction : A chronological survey of indian plans. 2. Theoretical underpinnings of India"s Planning models. 3. Objectives of economic planning in india - Growth, Price stability, Employment generation, POverty alleviation, Sustainable balance of payments etc. 4. A historical perspective on the economic policies implemented in India to achieve the goals of planned economic development : Monetary and fiscal policies; Industrial policy; Foreign trade and exchange rate policies; Price and wage policies etc. 5. A critique of Indian planning and policies in the light of the select macroeconomic indicators such as : (i) Growth rate(s); (ii) Inflation rate(S); (iii) Unemployment levels; (iv) Incidence of povery; and (v) External payments position. 6. Planning versus privatisation : Lessons ...
+
+## HS 491: Contemporary Urban India; Sociological Perspective
+- Credits: 6
+- Type: Theory
+- Description: Urban Social Structure. Social stratification in cities. Modern occupational structure. Urban space and social processes. Tradition and modernity in Urban India. Changes in gender, kinship and family. Aspects of urban culture. Ethnicity and social movements. Urban conflicts and violence. The city in a globalizing economy.
+
+## HS 496: Globalization: A Social Perspective
+- Credits: 6
+- Type: Theory
+
+## HS 497: BS Project Stage II
+- Credits: 12
+- Type: Project
+- Description: BS Project Stage II
+
+## HS 498: Life Span Development : Infancy to Old Age
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 1. Developmental Psychology: Historical roots, Issues and Stages of Development, Methods of Study, and Concept of Childhood. 2. Theories of Development: Psychodynamic, Behavioral and Learning , Cognitive, biological and Contextual Theories. 3. Overview of genetic makeup, Conception, Phases of pregnancy and its Hazards. 4. Infancy: Physical and Motor Development, Sensory and Perceptual development,      Piaget-s Cognitive Development, Language development and Social and Emotional Development. 5. Early Childhood and Toddler-hood: Physical, Cognitive, Language and Memory development. 6. Middle Childhood:  Perspective and Physical development, Moral development, Developmental disorders. 7. Adolescence: Physical growth and Development, Identity Formation 8. Adulthood {Early, Middle, and Late Ad...
+
+## HS 501: Vedanta Philosophy in the Vedic Tradition
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Orthodox Systems of Indian Thought and the place ofVedanta. 2. Six Schools ofVedanta 3. Advaita Vedanta andVisistadvaita 4. Six Ways of Knowing: Theory of Knowledge inAdvaita 5. MetaphysicalPostulatesinVedanta:Brahman,Atman,Isvara,Jiva,Maya,World,Bondageand Moksa 6. Exposition of Tarkapada in the Brahmasutra-bhasya ofSankara
+
+## HS 502: Madhyamika Philosophy in the Buddhist Tradition
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Non-Vedic Traditions in IndianPhilosophy 2. Mahayana Buddhist Thought: SalientFeatures 3. Prajnaparamita literature and Madhyamikathought. 4. Nagarjuna and MadhyamikaPhilosophy 5. Post-Nagarjuna MadhyamikaThought 6. The Philosophy ofYogacara-Vijnanavada
+
+## HS 503: Philosophy in the Age of the Greeks
+- Credits: 6
+- Type: Theory
+- Description: 1. The question of Being (to on/ousia): Being as Idea in Plato`s Phaedo, Republic and the Sophist, Being as synthesis of hyle [matter] and morphe [form] in Aristotle`s Metaphysics andPhysics 2. Knowledge (episteme, doxa, sophia): Distinction between knowledge (episteme) and opinion (doxa) Plato`s Theatetus and Republic; Distinction between universals and particulars in Aristotle`s Posterior Analytics, Categories, Nicomachean Ethics and the De Anima 3. Virtue (arete): Virtue as knowledge in Plato`s Protagoras, Meno; Justice in Plato`s Republic; Virtue as activity in relation to happiness (Eudamonia) Nicomachean Ethics and Politics; Practical Wisdom (Phronesis) and Theoretical Wisdom (Sophia) in Aristotle`s Nicomachean Ethics 4. Politics and the Political life (politeia, zoon politikon)?: Po...
+
+## HS 504: Western Philosophy in the Time of Crisis
+- Credits: 6
+- Type: Theory
+- Description: 1. Immanuel Kant - the Copernican Revolution and Transcendentalism: The significance of Kant`s transcendental philosophy through a study of selections from Critiques, mainly the Critique of Pure Reason and smaller texts such the Prolegomena and theGroundwork. 2. History and Immanence: The significance of history and the impossibility of speaking about the transcendent in the manner of religiously medieval philosophy, the emphasis on immanence through a selection of the works of Hegel (notably The Phenomenology of Spirit), Nietzsche (notable Geneology of Morals), the pragmatists (notably Pierce and James), Marx (German Ideology, Grundrisse, Capital), Dilthey (Hermenutics and the Study of History) 3. Emancipation and Praxis: Philosophy`s ambiguous response to the French Revolution in Kant (T...
+
+## HS 505: Western Philosophy and the Advent of Modern Science
+- Credits: 6
+- Type: Theory
+- Description: 1. On the Idea of Method: Discussion of idea of method - Descartes` Rules for the Direction of our Native Intelligence; Bacon`s The New Organon, Mary Astell-s A Serious Proposal to the Ladies, and Locke`s An Essay Concerning Human Understanding. 2. The Rise of the Individual: Discussion of the emergence of the concept ofindividuality - Descartes` Meditations on First Philosophy, Leibniz`s Monadology, Ann Conway`s The Principles of the Most Modern and Ancient Philosophy, and Spinoza`s Ethics. 3. Rights and Liberties: Discussion of the modern concept of right and liberty in contrast to the ancient medieval understanding of the same ideas - Hobbes` Leviathan, Locke`s Two Treatises on Government, Mary Wollstonecraft`s A Vindication of the Rights of Women and Rousseau`s Discourse onInequality. ...
+
+## HS 506: Writing and Research in Philosophy
+- Credits: 8
+- Type: Theory
+- Description: 1. Writing abstracts and choosing key-words for researchpapers. 2. Doing a literature review by distinguishing between primary and secondaryliterature. 3. Creating abibliography. 4. Reading an original text and summarizing itaccurately.
+
+## HS 507: Vedanta Philosophy in the Vedic Tradition
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## HS 551: Introduction to Feminist Philosophy
+- Credits: 6
+- Type: Theory
+- Description: 1. Critical Interrogation of Philosophical Methodology from a feministperspective. 2. Feminist Epistemology: Rethinking the Reason/Emotion Binary, Standpoint epistemology, and Epistemologies ofignorance. 3. Feminist Metaphysics: Retrieving the Body, the metaphysics of sex andgender. 4. Feminist Moral Philosophy: Ethics of Duty versus Ethics of Care, Vulnerability and Moral Agency, RelationalAutonomy. 5. Feminist Socio-Political Philosophy: Care versus Justice, Affect and Politics, Perspectives on Empowerment and PoliticalAgency.
+
+## HS 556: Sankhya Philosophy
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to SankhyaSystem 2. Theory of Knowledge in Sankhya: Pratyaksa, Anumana, Apta-vacana. The Sankhya Theory ofError 3. Metaphysics in Sankhya: Two Realities - Purusa and Prakriti, Three Gunas of Prakriti, Theory of Causality - Satkaryavada, The Sankhya Naturalism -Prakriti-parinama-vada. 4. Sankhya Notion of Suffering(Duhkha) 5. The Sankhya Conception of Bondage andLiberation 6. Influence of Sankhya Metaphysics in Ayurveda andYoga
+
+## HS 597: Project Stage I
+- Credits: 12
+- Type: Project
+- Description: MA Project Stage I
+
+## HS 598: Project Stage II
+- Credits: 12
+- Type: Project
+- Description: MA Stage Project -II
+
+## HS 599: Project Stage III
+- Credits: 24
+- Type: Project
+- Description: MA- Project Stage III
+
+## HS 601: Development in South Asia: Issues & Debates
+- Credits: 6
+- Type: Theory
+- Description:  What is meant by developmen (Why) Do we need development? Who is developmentfor? How do we achieve development?o State capitalism, Elites and development, Development state What should be the objectives of development in South Asia, given the prevailing socio-cultural, economic and political conditions? Indian (South Asian) Voices and debates on Development and Development Strategies:Development & Underdevelopment, Poverty and destitution, Issues of progress, civilisation,well-being, and modernity Theories of development (non-economic factors) - religion, values, class conflict, technology(industrial revolution), social reform, cultural revolution, governance; Max Weber:Protestant Ethic and Spirit of Capitalism, Amartya Sen: Asian and Global comparative perspectiveIs development alway...
+
+## HS 602: Science & Technology in India
+- Credits: 6
+- Type: Theory
+- Description: Growth of S & T and their relationship to economy and social relations in the ancient and medieval India- Introduction of modern S & T in India in the colonial era - Development of S & T and their relationship to socio-economic systems in the post-independence period; alternative models -Emergence of big science and technology and their role in economic growth through industrialization.  The current adoption of high technology, which is largely imported, in not only raising productivity levels and rates of growth in different sectors, but also in shaping the structure of the economy and social relations-Technology transfer from foreign firms and plight of indigenous technology competing with imported technology-Technology absorption and assimilation by Indian firms - The emergence of dual ...
+
+## HS 603: Socio-Psychological Perspectives in Development & Change
+- Credits: 6
+- Type: Theory
+- Description: Defining Social Change: Patterns of change, factors and conditions of change, direction of change, control of change, planned change.  Relevant concepts:Progress, Urbanization,industrialization, modernization, Developemnt, Revolution and Social movements as forms of change.   Theories of change: Modernization theory and conflict theory. India"s response to modernity: Relations between tradition and modernity (antagonistic or continuity and persistence, modernization of tradition and traditionalization of modernity.) Theories of under-development/dependency, Relations between planning and development, social factors of economic planning and development.   Culture of development: Role of culture in social developemnt values and development congruence, Indian values and behaviour dispositions...
+
+## HS 605: Research Methods in Social Sciences
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: The Scientific approach, Problem formulation, hypothesis building, variable identification. Field Research methods, the Case Method, The Empirical Method. Data Base, Scaling Techniques.  Check list and Questionnaires, Interviews, Observational and Archival Data. Elements of quantitative, policy research. Qualitative Research Techniques: Ethnographic methods, PRA techniques, Participant observation. Phenomenological, Hermeneutic and Linguistic methods in Social Sciences, De-constructive and Semiotic Methods, Genealogical Methods, Critique of Ideology.
+
+## HS 606: Environmental Planning Development
+- Credits: 6
+- Type: Theory
+- Description: Economic approaches to environmental problems: theoretical and methodological issues, techniques of environmental analysis-basic theorems, cost-benefit analysis. Project appraisal and evaluation, risk assessment.Microfoundations of environmental economics: Theory of public goods, externalities and market failure, design of environmental policy, Baumol222s Standards and Charges Approach, Alternative Policy Instruments, Command and Control vs Market Based Instruments, Direct and Indirect Economic Instruments, International Experience.Macro aspects in environmental planning: sustainable development, economy and ecology, green/natural resource accounting, Valuation of Natural Resources: Direct and Indirect Methods Environmental impact assessment.Natural resource management: Exhuastible, renewa...
+
+## HS 609: Public Administration for Development
+- Credits: 6
+- Type: Theory
+- Description: Nature and scope of Development Administration public Bureauracy, Politics, planners and people in Development Administration; Development Administration in India since Independence: Administrative Reforms.  Areas of Development Administration: Regional Planning and Developmental Administration: Urban and Rural Development Programs role of local bodies, including voluntary organisations. Structure of leadership and Development Adminstration in Regional Development.   Plannig, Evaluation and Organisation for Developmental Admisnstration: Project Appraisals; Techniques of evaluation; Financial and organisation problems-Role of Banks and Co-operatives.   Attitude and Motivational aspects of Bureaucrats, Planners, Politicians:Leadership Training; Training in Development dministration; Manageme...
+
+## HS 610: Cost Benefit Analysis
+- Credits: 6
+- Type: Theory
+- Description: The welfare and Philosophical foundations of cost-benefit analysis-efficiency and distribution-Decision rules in appraising cost and benefits of long-term projects - the social rate of discount, social time preference rate, the oppertunity cost-the valuation of cost and benefits, surrogate prices-Risks and uncertainity-Cost-benefit analysis as a technique of project appraisal-Some case studies.
+
+## HS 611: Financing Economic Development
+- Credits: 6
+- Type: Theory
+- Description: Importance and role of finance in economic development- structure, growth and innovations in Indian financial system- Sources and uses of funds-Changes in the rate and composition of savings and capital formation-The role of commercial banks and development banks in financing private and public sectors-Capital and money markets and changes in these markets- Institutional financing of economic development- The role, limitations and problems of internal and external debt of Govt. and dangers of deficit, financing- Bilateral and multilateral foreign aid-Private Foreign investment-Role of Wrld Bank, IMF, and international capital markets in financing development.
+
+## HS 615: Computer Aided Applied Statistics
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: The course will provide an overview of univariate and multivariate descriptive and inferential statistics, and give an outline of logical and procedural aspects of the application of statistical methods for data reduction and hypothesis testing in social science research. The focus will be on how the concepts and tools are of statistics are used in the analysis rather than on the theorems and derivative aspects. The course will emphasise the use of computer software with special reference to SPSS software routines and sub-routines. Accordingly, the course will be computer-lab based. Statistics and the research process, Scientific methods, the role of statistics in the study of behaviour. Data displays, frequency distributions and graphical analysis. Measures of central tendency and dispers...
+
+## HS 619: Human Development : A Psychological Perspective
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## HS 620: Linguistics and Natural Language Processing
+- Credits: 6
+- Type: Theory
+- Description: Aims: To introduce students to the theoretical issues in the mental representation of grammar and natural language processing. The course will address the following questions: What is language? What is universal grammar? What is the internal or mental representation of natural languages? How do languages vary from each other and how are they similar? What is NLP?  What is the history of NLP, its current applications and topics? What is the need for precise language understanding? What are the techniques used in NLP?  Course Outline:  Universal Grammar and mental modules Word building Phrase construction Construing meaning Language variation and invariables NLP Parsing: top-down parsing, bottom-up parsing; n-gram models of language: Relative Frequency estimation from corpora; Markov models,...
+
+## HS 621: Contemporary Indian Philosophy
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: This course will introduce the student to the philosophical contentions, ethical and political arguments and conceptions of the problems of life underlying the writings of a selected list of thinkers of twentieth century India. Together, these streams of thought will also show to the student how the Indian culture and philosophy has grappled with perennial questions in the light of contemporary problems and how questions of life and meaning can be addressed in these times in ways unique to this tradition of philosophical enquiry. The select list of thinkers to be introduced in the course includes: Swami Vivekananda, Rabindranath Tagore, Mahatma Gandhi, Sri Aurobindo, Krishnachandra Bhattacharya, S. Radhakrishnan, Sri Mohammad Iqubal, Jiddu Krishnamurti.  The issues to be discussed relating...
+
+## HS 622: Philosophy of Development
+- Credits: 6
+- Type: Theory
+
+## HS 623: Problems in Social Ethics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Life Ethics: Just War Theory, Killing, Death Penalty, Suicide, Abortion, Euthanasia Social Ethics: Mass Media Ethics, Justice and Democracy, Inclusive Globalization and Global Ethics, Ethics of Development, Equality and Social Differences, Protective Discrimination Debate, Social Responsibility, ‘What Do I Owe to the Other Person?’ Technology Ethics: Ethics of the Cyberspace, Research Ethics, Technology and Humanization of the Planet, Technology and Development, the Appropriate Technology Debate.
+
+## HS 624: Contemporary Issues in Philosophy of Mind
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Mind-Body problem: Interactionism, Instrumentalism, Physicalism, Epiphenomenalism, Dualism, Parallelism, Materialism, Non-Materialistic view of mind, Concept of person/personal identity. Minds and Machines: Functionalism, Computationalism: Multiple Draft Model, Language of Thought, Syntax as Physical Symbol System, Meaning and Mind, Connectionism and Folk-psychology, Eliminative Materialism, Cognitive Psychology, Artificial Intelligence and Creativity,  The Non-computational/mechanical Mind: Revisiting the Cartesian theory of the Mind, Phenomenal Consciousness, Subjectivity and Personal Identity, Chalmers Phenomenal mind, Emergentism-Supervenience, Creativity and Cognition, Creativity and Consciousness.
+
+## HS 625: Philosophy of Education
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Education is about learning. Learning is an important aspect of life. Every living being learns to survive. As Charles Darwin hypothesized about the existence of various species in the world that a living being struggles to exist. And whoever is biologically fit will exists otherwise would perish from the world. Following this Karl Popper, one of the eminent philosophers of science advocates evolutionary epistemology. Learning defined in the theoretical framework of evolutionary epistemology shows the knowledge acquisition happens due to certain biological disposition. The biological need of life explains the necessity of knowledge. Learning therefore remains a continuous activity. One continues to learn in order to remain in the world. So the notion of survival or enduring life goes along...
+
+## HS 626: Framing Caste
+- Credits: 6
+- Type: Theory
+
+## HS 627: Development of Calculus: Indian and Western Context
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Prequisite: Knowledge of Devanagari (Hindi) Script Introduction - Sources - Development of ideas of Calculus - Aryabhata-s constuction of sine table - Discussion of irrationality of  - Sum of an infinite geometric series - -San. kara-s discussion of the binomial series expansion - Archimedes and Integration - Estimation of sums of powers of integers 1 to n for large n. Fundamental theorem of Calculus - Derivation of the Liebniz/ M-adhava series for  - Estimation of end-correction terms (Antyasam. sk-ara) - Transformation for  series for fast convergence - Infinite series for the sine and cosine function - Derivation of the M-adhava series for Rsine and Rversine - Need for the derivative of trigonometric and inverse trigonometric function - Instantaneous velocity of planets - Derivatives of...
+
+## HS 629: Ecology and Society
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Sociology and the Environment: Mapping the field and its- intellectual tradition Ecological PerspectivesSocial Ecology, Cultural Ecology, Eco-                          Feminism and Political Ecology Development, and Environment Sociological analysis and the Global Environment Contemporary Environmental Debates:           the global environmental movements           environmental movements in India and Protests,          large dams and human displacement,          gender and environment         Major Environmental Accords: Rio-92, Kyoto and it-s socio-ecological and Sociological significance
+
+## HS 631: Financial Economics
+- Credits: 6
+- Type: Theory
+- Description: Topics to be covered  1. Financial Markets and the Economy  Real Assets versus Financial Assets  The Role of Financial Assets in the Economy  Users of the Financial System  Role of the financial system: An illustration   2. Making choices in risky situations: Utility theory given uncertainty  Axioms of choice under uncertainty  Establishing a definition of risk aversion   3. Financial Instruments  Types of Financial Instruments  Characteristics of Financial Instruments  Financial Innovation   4. (a) Bond Pricing  (b) Term Structure Theories of Interest Rates  Theories of Term Structure -  i. The Expectations Hypothesis  ii. Liquidity Preference  iii. Market Segmentation Theory  iv. Preferred Habitat Theory  Interpreting and measuring the term structure   5. Introducti...
+
+## HS 632: Making Choices : Ethical Decisions in Scientific Endeavour
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Scholarly integrity is recognized as an important issue in research and training. Yet there are profound differences in the larger cultural context for ethical decision-making.  As international collaborations become more common, new generations of scholars enter the field of research, and norms and consequences of research become more complicated, these differences need to be more fully confronted.  Standard guidelines on responsible conduct of research or IPR / Copyright rules tend to ignore cross-cultural challenges of ethical decision-making in the scientific endeavor, and also ignore alternate perspectives and approaches to such issues.  Moving away from norms that are largely proscriptive, field- and country-specific, and from guidelines and approaches to ethical issues that are univ...
+
+## HS 633: Economtrics of Programme Evaluation
+- Credits: 6
+- Type: Theory
+- Description: 1.Problem of Causal Inference and Randomized Experiments: Cause and effects, randomized and non-randomized trials, treatment effect and selection bias 2.Regression Fundamentals and Causality: Introduction to regression analysis, ordinary least squares regression, linear regression and conditional expectation, inference and hypothesis testing in regression, regression and causality 3.Matching: Counterfactuals, propensity score matching, average treatment effect, quantile treatment effect, regression and matching, ordered and continuous treatment 4.Instrumental Variables Regression: Instrumental variables and causality, Two-stage least squares, 2SLS inference, IV with heterogeneous potential outcomes 5.Difference-in-difference Estimator: Individual fixed effects, difference-in-difference, re...
+
+## HS 634: Theories of Verbal Congnition (Shaabdabodha)
+- Credits: 6
+- Type: Theory
+- Description: Discourse Analysis, Anaphora, Cognitive faculties of human being, types of cognition, features of verbal cognition, Significance of Verbal Cognition, Causes of verbal cognition. Nature of Verbal cognition according to Naiyayikas (Logicians), Meaning of the verbal root, meaning of suffixes, Simple sentence and complex sentences, problems in this view.Nature of Verbal cognition according to Mimamsakas (Hermeneuticians), concept of vidhi,concept of bhaavanaa, Kumaril302222s view and Prabhakara302222s view, problems in this view. Nature of Verbal cognition according to Vaiyakaranas (Gramamrians), concept of Word Permanancy, Word as a primary meaning of a word, Concept of Word universal. Application of these theories in Natural Language Proceesing of Sanskrit and other Indian Languages.
+
+## HS 635: Managerial Psychology
+- Credits: 6
+- Type: Theory
+
+## HS 636: Development of Mathematics in India
+- Credits: 6
+- Type: Theory
+- Description: Introduction; Mathematics in Antiquity; Sulvasutras - Construc- tion of altars, Expression for surds; Mathematics in Jaina and Bauddha texts; Development of the Decimal Place value system. Aryabhata and his contributions - Construction of sine table, Value of Pi, Sum of series, Kuttaka problem; Brahmagupta and his Bha- vana principle; Mathematics during 7-11th centuries. Bhaskara II and his Cakravala Algorithm; Glimpses of Ganitakau- mudi of Narayana Pandita. Contribution of the Kerala School of Mathematics - Discussion on the irrationality of Pi, Sum of an infinite geometric series, Binomial expansion, Estimation of sums of powers of integers 1 to n for large n. Derivation of the Lieb- niz/Madhava series for Pi, Transformation of the series for fast con- vergence, Infinite series for the ...
+
+## HS 637: Anthropology  and  Disaster
+- Credits: 6
+- Type: Theory
+- Description: - History of the social science study of disaster - What can anthropology tell us about disaster? - What is a disaster? Types and causes - Differences between hazard, emergency, disaster, catastrophe - Anthropology of disaster: context, community, aftermath, coping, change & adaptation - Social science theories of disaster: behaviorist or functionalist; hazard approach; political economy approaches and the notions of -risk- and -vulnerability- - Disaster and gender, caste, class, race and ethnicity - What can disasters tell us about anthropology?
+
+## HS 640: Civil Society: Its Foundations and Future
+- Credits: 6
+- Type: Theory
+- Description: Relations between the family and civil society - Plato and Aristotle, Civility and Intellectual Autonomy - Kant, Civil Society as the site of inequality - Rousseau, Origin of Civility in the sentiment of sympathy - Smith, Communism as the future of civility - Marx, The Civil Sphere as a Contemporary Idea - Jeffery, Post-Colonial Democracies and Civil Society - Chatterjee, De-Provincializing Civility, Civility, Trust and the Public Sphere, Society, Individuals and Groups, The necessary transformations of Civil Sphere in the name of Civility
+
+## HS 645: Fundamentals of Language
+- Credits: 6
+- Type: Theory
+- Description: The course aims to do the following: 1. Situate language in the intersection of various disciplines to show how an understanding of the nature of human language is arrived at through a cross- disciplinary mode of inquiry and to also show how a study of language drives understanding and inquiry within other disciplines as well. 2. Provide a trajectory of methods and ideas in the development of Linguistics (across traditions) with particular reference to a. The general phenomenon of language b. Structure and variation in human languages and the features of the abstract cognitive capacity for language c. Philosophical underpinnings of the discipline of Linguistics d. Language within cultural, social, historical, cognitive, political, and biological contexts
+
+## HS 646: Understanding the Past
+- Credits: 6
+- Type: Theory
+- Description: 1. Reasoning about the past from the present a) Periodisation (chronology vs process) b) Nature of historical evidence-sources (objectivity/subjectivity debate) 2. Past and its relationship to space and time a) Nation and history b) Maps-Mapping c) Urbanisation-cities 3. Society, politics and culture a) State formation b) Gender c) Movement and migration d) Trade, Crafts and Occupations
+
+## HS 647: Social Theory - I
+- Credits: 6
+- Type: Theory
+- Description: The emergence of social theory The sociological imagination The division of labour in society Capitalism and commodification of social relations Religion and social change The total social fact Social Action, its categories and interpretation Organisation of modern society
+
+## HS 648: Literary Studies
+- Credits: 6
+- Type: Theory
+- Description: History of Literature, taking English as an example, may be taken up for study in order to understand how the history of English Literature is related to canon-formation. Standard texts on this subject, observe trajectories of tracing the evolution of British literary history. This course will interrogate the trajectory, in ways ranging from accommodating more women authors in the literary history, to re-imagining the conventional subdivision of the writers of each age as major and minor. The course may also look at alternative modes of structuring histories of literature, following departures from diachronic, national-language models, to synchronic models that look at interrelations between different literatures produced in different languages, in which connections emerge because of a mul...
+
+## HS 650: Research Methods: Expository Writing & Analysis
+- Credits: 2
+- Type: Theory
+- Description: The course will require students to carry out regular written work related to the material inthe theory courses, with peer and instructor feedback. The aims of the course are to help thestudent to analyse take the preliminary steps in academic writing through their readingsand to help them express ideas accurately, concisely, and with clarity. The tasks will coverpre-writing plans, organisation of the ideas to be expressed, structuring, attending toviewpoints and audience, precision in language use, recognising their individual style, andadjusting to practical constraints such as word-limits, editorial restrictions, deadlines etc.
+
+## HS 651: Research Methods: Critical Reading
+- Credits: 2
+- Type: Theory
+- Description: Research papers in the areas touched upon by the theory components of this programmewill be read, analysed and discussed. For example, a paper on periodisation that recasts thestandard canon would show that the canon is a construct.Selected portions of the literary history and texts could be read either revisionally orreflexively, tracing it over time, thus bringing the critical analytical component in. Forinstance, for a very long time, interpretations of William Shakespeare`s The Tempestreading of Prospero as the civilising influence on the native Caliban endured. In the last fewdecades, the robust development of postcolonial (re)reading of this play questioned thisparadigm could be tracked. The choice of the texts, for such scrutiny/case study, may vary from term to term, the example of...
+
+## HS 652: Research Methods: Qualitative Methods
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Qualitative Methods2. Ethnography 302226 Participant and Non-Participant3. Grounded Theory, Narrative Analysis4. Mixed methods and Ethnography5. Hands-on project on Ethnography.
+
+## HS 653: Research Methods : Sources and Methods and the Past
+- Credits: 6
+- Type: Theory
+- Description: a) Reasoning about the past from the presenti) Periodisation (chronology vs process)ii) Nature of historical evidence-sources (objectivity/subjectivity debate)iii) Kinds of sources: archives, texts, oral histories, material remains; disciplines-arthistory, history, archaeologyb) Past and its relationship to space and timei) Nation and historyii) Maps-Mappingiii) Urbanisation-citiesc) Society, politics and culturei) When was the source produced?ii) Who produced the source?iii) For whom?
+
+## HS 654: Performance Historiography and Documentation
+- Credits: 6
+- Type: Theory
+- Description: Part I: This course would be devoted toi) understanding the debates around ephemerality and the archive andii) how in the context of these debates the archive is employed in theatre historiographyA part of the course will be devoted to examples and techniques that have been developed inemploying history or the archive in performance making.Part II:The course will be also enable a detailed understanding of methods of documentation andarchiving processes/techniques that are implemented in documenting theatre and/orperformance, so that students are aware of the various mechanisms of documentationfollowed in archives of the performing arts and the role they play in the study of theatreand/or performance. This section will require students to actively participate in internshipsat theatre and pe...
+
+## HS 655: Linguistic Theory and Analysis
+- Credits: 6
+- Type: Theory
+- Description: The main purpose of the course is to provide an understanding of theory and analysis within Linguistics and its sub-areas which include phonetics (the study of the perception/ production of speech sounds), phonology (the study of sound systems and patterns), morphology (the study of word formation and structure), syntax (the study of sentence structure), semantics (the study of word and sentence meaning) and pragmatics (the study of language in use). The course will demonstrate how patterns are recovered and how they inform us about the internal organisation of grammars and the faculty of language itself and to this end, it will survey linguistic data that represents a diversity of human languages (major and minor, written and unwritten, Indian and other). In addition, the course will also...
+
+## HS 656: Literary Periodisation
+- Credits: 6
+- Type: Theory
+- Description: The course is imagined to have three unequal components.  Part A: A quarter of the course to be devoted to overview of periodisation and the history/ies and contours of literature that it yields, so that students are broadly familiar with the various periods as named in English literary studies: Early Modern, Neo- classical, Romantic, Victorian, Modern, and so on.  Part B: A large part of the course will be devoted to studying one or two period/s as representative -case/s-. Instructor/s will choose the period/s for study and determine the organisation of the course content. The selection will aim to (i) frame the selected period in terms of dis/continuities with other periods and trace the historical trajectories and what would typically be seen as -evolution- of literature, (ii) animate...
+
+## HS 657: Genre and Literature
+- Credits: 6
+- Type: Theory
+- Description: The focus of this course is on studying one, possibly two genres with a view towards:  Showing the emergence, trajectory and variabilities of the genre studied. Thus, for example, if Tragedy is the chosen genre, then how has this dramatic form manifested itself in text and on stage since the period of Greek Tragedy. Taking for scrutiny the formal features of the genre studied: With the help of both theoretical formulations on the genre, and textual examples Situating the concerned genre in relation to other genres, and in the process, scrutinise adaptations, transactions, boundary-formations, and circulations, such as for instance, Anthony Burgess` novel A Clockwork Orange (1962) and Stanley Kubrick`s adaptation of it in the film A Clockwork Orange (1971) Demonstrating how different liter...
+
+## HS 658: Literary Theory
+- Credits: 6
+- Type: Theory
+- Description: The course will take a survey form, aiming to introduce students to the history of engagement with literary (and other artistic) forms. As a result, the course, while allowing for conversations across time, will take the route of thinking in linear time to examine developments of thought regarding literature. In doing so, the limits of such linear imagination would also be exposed. It will take the crystallisation of -Literature- as an autonomous domain as the ground to examine how a canon was formed over time. Possible modules listed below.  What is Literature? Historical formation of an autonomous domain for disciplinary and critical consideration; -critique- and -imagination- in determination of the human subject, beginning with the philosophical writings of Immanuel Kant and made cent...
+
+## HS 661: Social Theory - II
+- Credits: 6
+- Type: Theory
+- Description:  Action, structure, function and agency  Self and other  The social construction of reality  Structuralism in sociology / anthropology  The interpretation of cultures  Ethnomethodology and Phenomenology  Feminism and the subversion of identity
+
+## HS 662: Indian Society
+- Credits: 6
+- Type: Theory
+- Description:  Social Inequality and Social Stratification in India: Caste, Tribe, Class (Urban and Rural, Agrarian, Middle Class), Ethnicity)  Family and Kinship: Institutions and Transformation  Gender and Patriarchy: Honour, Violence, and Intersectionality  Agrarian Change and Urbanism in India: Persisting and Emerging Inequalities, Opportunities for Mobility  Social Mobility: Trends, Possibilities, Policies  Social Movements and Social Conflicts in India: Women, Students, Peasants and Farmers, Working Class, Region and Ethnicity, Environment  Religion and Faith in India: Religiosity, Materiality and New Spiritual Movements  Secularism, Communalism, and Nationalism: Challenges of Diversity and Pluralism  Demography and Human Development: Issues, Patterns, and Trajectories
+
+## HS 663: Tribal Studies: Concepts and Perspective
+- Credits: 6
+- Type: Theory
+- Description:  Concepts and perspectives on Tribes Theoretical approaches to tribes Tribe-Caste continuum debate Social transformation and tribal identity State policies and Tribes Political economy of tribal development Towards an alternative epistemology of tribes
+
+## HS 664: Sociology of Development
+- Credits: 6
+- Type: Theory
+- Description: 1. Genealogy of the concept of Development: tracing how ideas concerning development have evolved along with various stages of growth of capitalism- starting from classical political economy to present times. 2. Modernisation theory (Rostow, Parsons, Lerner, McClelland, Hoselitz) and its critique 3. Marxist and Neo-Marxist theories of Development: Historical materialism (Marx), Dependency theories and World Systems approach (Baran, Frank, Wallerstein, Samir Amin), Mode of production debate (Laclau, Alavi, Rey) 4. Feminist theories of Development: Women in Development (WID), Women and Development (WAD), Gender and Development (GAD), Women, Environment and Development (WED), Postmodernism and Development (PAD). 5. Postdevelopmentalism and its critique: Arturo Escobar (Encountering Developmen...
+
+## HS 665: Sociology of Gender
+- Credits: 6
+- Type: Theory
+- Description:  Introduction - what is gender anyway?  Doing gender .... And race and class  Sexuality, sexual identity  Masculinities  Gender, science, and research  Explaining gender inequality (India and global)  Gender and culture (India and global)  The gendered division of labor  The organisation of gender  Gender, politics and the state  Gender and globalisation  Feminist organising, gender democracy and gender mainstreaming: a global perspective  Ecofeminism  Gender-based rights, social movements (India, global south and global north)
+
+## HS 666: Quantitative Methods in Social Sciences
+- Credits: 6
+- Type: Theory
+- Description: With emphasis on quantitative methods, the students will learn the basics of research design, data collection and analysis, and application of the concepts and tools of statistics in social science research.  The first module will discuss the theory underpinning the design of quantitative research. Basics of conceptualisation of enquiry, operationalisation, measurement and sampling, inference and causality using techniques like survey methods.  The second module will discuss descriptive statistics, including measures of central tendency and dispersion.  The third module will deal with the fundamentals of inferential statistics, including probability distributions, hypothesis testing, analysis of variance and regression analysis. Program and use -R- and other software for statistical ana...
+
+## HS 668: Studying Literature
+- Credits: 3
+- Type: Theory
+- Description: The course introduces the objects, methods, debates and critical frames of literary studies. The course will centre for study:     - a selection of texts in a range of forms and genres (fiction, poetry, prose, songs, travel- writing, graphic novels, life writing, plays, and so on)      - various constituents of studying the literary (Author, Reader, Text, World) and the changing relations between them     - methods of reading within the discipline (close reading, critical reading, surface reading, distant reading, and so on) Through these, the course also hopes to open out several of the conversations and debates within literary studies and sometimes in its interface with other disciplines. These may include, but need not be confined to:     - The contours of the literary     - Canons and ...
+
+## HS 669: Studying Performance
+- Credits: 3
+- Type: Theory
+- Description: This course introduces students to the idea of performance and its pedagogic practices. The course equips students with critical skills to understand performance, aesthetics and virtuosity and will familiarize students with the performed practice and theories of theatre, dance and other related art forms and also borrow conceptually from the field to understand other social and ritualistic phenomena. Understanding these concepts will help students to focus on the nuances of performance and other related dynamic processes discussed within, helping the student to develop critical engagement and understanding of the world of Performance Studies. It will include viewing various performances in person, artist talks and workshops discussing its practice, history and the performers unfolding inve...
+
+## HS 670: Studying Media
+- Credits: 3
+- Type: Theory
+- Description: The proposed course introduces students to the foundations of media studies as a field of research, pedagogy, and practice. The course explores a humanities-oriented approach to media where media becomes an operative term to bring together a wide array of disciplines like film studies, visual cultures, digital cultures, television studies, and media archaeology. It trains students to critically and effectively engage with key concepts, approaches, and debates in the field that focuses on:     - Media, culture and society     - Popular Culture and Media     - Film and Media theory     - Practices of looking     - Introduction to Media through the senses     - Form, genres and movements     - Media infrastructures     - Cinema decades     - Production, distribution and circulation     - Arch...
+
+## HS 671: Historicising Society, State and Culture
+- Credits: 3
+- Type: Theory
+- Description: 1. Political history: state, law, war, ideas, movements.     2. Economic history: trade, industry, labour, agriculture, technology.     3. Social history: gender, caste, class, education.     4. Cultural history: art, performance, painting, photography, language, literature.     5. Environmental history: land, forests, water, people.
+
+## HS 672: From the ground up: Basics of History and Archaeology
+- Credits: 3
+- Type: Theory
+- Description: 1. How material remains help us understand the past.     2. Sources of understanding the past: relating texts to material sources     3. Relationship between the past and present     4. Evidence, Expertise and Reasoning in researching the past     5. Nature and culture or Humans and their environment     6. Culture in archaeology: why and how it is important     7. Time and space     8. Modernity and Deep time     9. Defining sites and landscapes     10. Social structures focusing on the premodern     11. Civilizations and Empires
+
+## HS 674: Fundamentals of Language Science
+- Credits: 3
+- Type: Theory
+- Description: The course aims to do the following:     1. Situate language in the intersection of various disciplines to show how an understanding of the nature of human language is arrived at through a cross- disciplinary mode of inquiry and to also show how a study of language drives understanding and inquiry within other disciplines as well.     2. Survey the scientific methods and tools that allow an understanding of         a. the general phenomenon of language         b. the cross-linguistic variation in human languages and the abstract cognitive capacity for language
+
+## HS 691: Field Visit
+- Credits: 4
+- Description: x
+
+## HS 693: R & D Project
+- Credits: 12
+- Type: Project
+- Prerequisite: 0.0
+
+## HS 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## HS 698: III Stage Project
+- Credits: 24
+- Type: Project
+- Prerequisite: 0
+
+## HS 699: Communication and Presentation Skills
+- Credits: 4
+- Description: The aim of this course is to equip the post-graduate students with basic communication and presentation skills for academic and professional purposes. Remedial work will be conducted wherever necessary.   The course will focus on the following topics:  The process of communication; barriers to communication and how they can be overcome. Types of communication: verbal and non-verbal. Non-verbal communication: body language Verbal communication: Oral and Written  Oral: elements of pronunciation, oral presentation, group discussion  Written: technical reports, business letters  Reception skills: reading and listening skills Vocabulary and Grammar Style and Usage: Punctuation, Readability and Culture-sensitivity Use of computerized audio-visual aids for academic and professional presentations....
+
+## HS 700: Applied Economics
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Nature and Scope of Applied Economics ? Methodological Aspects ?  Common Tools and Techniques.  Economics of Risk and Uncertainty ? Difference between Applied Economics and Economics.  Fundamental concepts associated with Applied Economics.    Analysis of Demand and Supply and their Applications: Elasticity of Demand and Supply, and Applications to major Economic Issues.  Demand Estimation and Forecasting.  Study of Economic Environment.  Theory of the firm ? Objectives ? Production and Cost Analysis ? Production Function ? Efficiency and Productivity ? Decision making under Uncertainty ? The value of Information.  Various definitions of Costs for Managerial Applications ? Cost Estimation and Forecasting.  Market Structure & Pricing and Output Strategy: Perfect Competition, M...
+
+## HS 702: Law, Governance, Rights and Development
+- Credits: 6
+- Type: Theory
+- Description: The main objective of the course is to introduce students to the concepts of rights and governance and relate these to current debates on justice and development. This will include understanding in a historical perspective the important role of law in social, political, and economic development. The course will provide students with an understanding of the governance and development debates. It will enable them to understand the importance of laws, policies, social capital and civic participation for improving the effectiveness, accountability and legitimacy of governance for development. The course will also enhance capacity of students to develop and implement policies in public and private and NGO organizational environments.The major topics to be covered include:1.011Concepts: Rights, ...
+
+## HS 704: Engendering Development Theory and Practice
+- Credits: 6
+- Type: Theory
+- Description: Since 1975, feminist theory has had an impact on the development discourse. In India too, the women222s movement and feminist scholarship has intervened in critical issues related to labour, sexuality, caste, environment, impact of technology and law and politics. Gender has been established as a crucial component of all development programmes and strategies. In this context, this course seeks to introduce the participants to:1.Contemporary theoretical debates in Gender and Development.2.Feminist interventions in the institutional framework of development thought and practice in India.3.Women222s struggles for resistance and strategies for empowerment. This course, through the use of case material will train students to analyse the interactions between ideas and practices in relation to sp...
+
+## HS 705: Historical Linguistics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Diachronic Linguistics, comparative method Genetic relationship, grouping, reconstruction, language family theory of sound change, syntactic and semantic change, change in progress sound change and analogy, reorganization of phonemic inventory of a language Computational methods to assist in compiling, comparing and mapping of language development
+
+## HS 706: Classical Indian Thought in Modern Times
+- Credits: 6
+- Type: Theory
+
+## HS 710: Consumer Psychology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## HS 712: Research Project -I
+- Credits: 12
+- Type: Project
+- Description: For MARes programme
+
+## HS 713: Research Project -II
+- Credits: 12
+- Type: Project
+- Description: For MARes Programme
+
+## HS 715: Methods: Language, Text, and the Performative
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: This course on methods as applied to Language, Text and the Performative will allow students to      1. Apply disciplinary concepts      2. Understand and use analytical tools from at least two      (if not all three) disciplines of Linguistics, Literature, and Performance to an original work by applying them to at least two themes.       The following is an example; the themes/keywords may change given the instructors and class profiles.       Medium: In Linguistics, what is medium/channels for language or communication; how do the channels shape linguistic structures, meaning, and transmission; key considerations include Orality vs. Literacy; impact of recording, digital tools, and online platforms; the role of gestures, visuals, and other non-verbal elements; language standardization, e...
+
+## HS 716: Language, Text, and the Performative
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: This course investigates the theoretical and practical connections between Linguistics, Literature, and Performance Studies, with a focus on the reciprocal influence of at least two (if not all three) of these fields. We will examine the ways in which language, text, and performance operate within various cultural contexts, including, but not limited to, everyday discourse, literary forms, theatrical performance, oral traditions, and ritual practices. Students will develop a sophisticated understanding of the processes of meaning-making, the power of expression, and the construction of cultural productions.      **  Course Objectives:Students are expected to learn to:     1. Understand the nature and structure of language, what linguistic analysis means, the difference between internal(i)-...
+
+## HS 717: Academic Writing & Analysis
+- Credits: 2
+- Type: Theory
+- Prerequisite: -
+- Description: The course will explore the following themes and questions:    * Knowledge production in the Humanities and Social Sciences    * Heuristics, Methods of Discovery and Problem Formulation    * Modes of Reasoning: Their limits and Possibilities    * What can Interpretation do?    * On Text, Sample, Field, Archive, Source, Performance    * Claim-Making, Evidencing and Argumentation    * Writing Culture, History, the Social       It will also train students to bring these concerns into their writing. The course will also, therefore, cover pre-writing plans, organisation of the ideas to be expressed, structuring, attending to viewpoints and audience, precision in language use, recognising their individual style, and adjusting to practical constraints such as word-limits, editorial restrictions, ...
+
+## HS 791: Communication Skills -I
+- Credits: 2
+- Description: 1.Week 1-2: Importance of communication skills for researchers and aspiring technologists (Scientific Method and Analytical Skills)-- (2 Lectures) a.Importance of Communication b.Philosophy of the Scientific Method: Cycle of Steps (Observation, Hypothesis, Prediction, Testing) c.Note Taking Essentials 2.Week 3-4: Reading Including dictionary and grammar--(2 Lectures) a.Reading Scientific Articles (Types, Organisation, Three pass approach, Summary, Citations Analysis) 3.Week 5-6: Writing--(2 Lectures) a.What is the key message ? Organising the outline (point wise); Abstract Writing (Expanding Statements); Expanding the outline to paragraphs 4.Week 7-8: Speaking and Oral Presentation--(2 Lectures) a.Objectives of Presentation, Types, Timing, Organisation, Audience Attention, Visual Aids, Bad...
+
+## HS 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Speaking skills and oral presentation  2.Basics of Academic writing and reports 3.Technical writing skills 4.Reading, Listening, Note-taking 5.Structure of Academic Essay  6.Argumentation  7.Ethics and Plagiarism 8.Literature Survey  9.Stylistic Devices 10.Dictionary and Grammar Skills 11.Common Errors in Academic writing 12.Bibliography, References 13.Gender and Cultural Sensitivity
+
+## HS 795: I Stage Project
+- Credits: 48
+- Description: Dissertation work
+
+## HS 796: II Stage Project
+- Credits: 42
+- Description: Final Project
+
+## HS 800: Research Methods in Social Sciences
+- Credits: 6
+- Type: Theory
+- Description: The nature and process of research, selection and formulation of a research problem. Research design: explanatory and descriptive studies, testing of hypothesis. Problems of measurement. Data collection: observational methods, questionnaires and interviews, projective and other indirect methods. Use of available data as source material. Scaling techniques. Sampling. Analysis and interpretation; establishment of categories, coding, tabulation, statistical analysis. The use of non-quantified data in analysis and interpretation. The research report. Application of social sciences, research and theory. Values and Objectivity in Social Science Research.
+
+## HS 801: Statistical Methods
+- Credits: 6
+- Type: Theory
+- Description: Inferential statistics. Tests of mean differences: +, F, Neuman Keul, Duncan, Suffay, Turkey tests. Simple, multiple, partial, and canonial correlation. Simple and multiple regression. ANOVA and MANOVA. Discriminant, Factor, and Cluster Analyses. Brief introduction of Trend and Path Analysis. Non parametric tests. Chi square, Mann whitney U test, Run test, sign test etc.
+
+## HS 802: Advanced Economic Theory
+- Credits: 6
+- Type: Theory
+- Description: Economic growth: Theories and models. The technology of the economy.  The neoclassical one sector model of growth. Two sector models of economic growth and planning.
+
+## HS 803: Advanced Psychological Theory
+- Credits: 6
+- Type: Theory
+- Description: Crisis and Recent debates on different issues in Psychology. Theories and Research in Feminist Psychology and Gender Studies. Organizational Behaviour: Present status. Research on Training and development.  Cognitive Psychology: Research on intelligence and cognitive development. Applied Social Psychology. Methodological issues in psychological research. Environmental and Community Psychology.
+
+## HS 804: Advanced Theory of Society
+- Credits: 6
+- Type: Theory
+- Description: Scope and problems of sociological analysis; sociological theory and empirical research. History of developments in sociological theory with special emphasis on the contributions of Comte, Marx, V. Pareto, George Simmel, F. Tonnies, Max Weber and Durkheim; Major schools of sociological theory; Positivistic organism; Conflict theory; Social action theory; Social system; Middle range theories of social processes, social structure, social stratification, social change, ethnic group, reference group behaviour.
+
+## HS 805: Theory of Knowledge
+- Credits: 6
+- Type: Theory
+- Description: Some Methodological Questions.  (a) Analysis and Philosophy  (b) Philosophy and Argument  Scepticism and Rational Justification for Knowledge; A Historical Perspective.  (a) Academic vs. Pyrrhonian Scepticism  (b) Contemporary Philosophy  Scepticism about Senses/Objects and the Problem of Perception.  (a) The Problem  (b) The Argument from Illusion  (c) Status of sense-data and the dichotomy between "ideas" and "objects", "sense-data" and "material thing", "the given" and "the constructed or inferred," "experience" and its object.  (d) Hierarchical Structure of Knowledge;  sense - data language as the foundation Reductionism.  (e) Causal Theory of Perception  (f) Phenomenalism  (g) Recent Observations  (h) Work on Perception from interdisciplinary point of view.  Scepticism about the past:...
+
+## HS 806: Contemporary Trends in Philosophical Analysis
+- Credits: 6
+- Type: Theory
+- Description: The concept of  language in  the  philosophy  of  Wittgenstein.  Meaning and Use.  Symptom and Criteria.  The Speech Act analysis of language: views of Austin and Searle.  Names and Natural  kind terms;  view  of  Quine, Ryle, Strawson,  Donnellan,  Putnam  and Kripke.  Ethics and Language: Moore: Natural and Non-natural Properties; `Good` as a simple notion.  Stevenson: Disagreement in belief and in Attitude; Persuasive Argument.  Universalizability, Moral Argument, Reason in Ethics: Views of Hare and Toulmin.
+
+## HS 807: Phenomenology and Existentialism
+- Credits: 6
+- Type: Theory
+- Description: Phenomenolgical Method: Reduction, Constitution and Destruction in Brentano,  Husserl, Merleau Ponty, Heidegger, Nietzsche, Sartre and Derrida.  Consciousness and Intentionality: Husserl, Nancy, Zizek and JN Mohanty.  Genetic Epistemolgy:   Blanchot, Heidegger, Merleau Ponty and Foucault.  Existentialism and Humanism: Sarter, Levinas, Heidegger and JLMehta.
+
+## HS 808: Philosophy of Language
+- Credits: 6
+- Type: Theory
+- Description: The nature and functions of language: Language as social institution, arbitrary nature of language, symbolic nature of language, language as a tool, language as communicative, language and mind, language and thought, language and reality.  Meaning: word meaning and sentence meaning; reference and meaning, meaning and speech acts, emotive and prescriptive meanings; intention and meaning; meaning and use; discourse theory of meaning;  Reference: proper names, denoting words, logically proper names, referring expressions, definite descriptions,  identifying expressions, rigid designators.
+
+## HS 809: Practice and Theory of  Literary Research
+- Credits: 6
+- Type: Theory
+- Description: Types   of Literary Research:  Theoretical Research, Textual Research, Historical   Research, Interpretative Research, Interdisciplinary Research.  Methods of Literary   Research: Presentation, References, Footnotes, Indexing, Bibliography.
+
+## HS 810: A Survey of Modern and Post Modern Literature
+- Credits: 6
+- Type: Theory
+- Description: This course focuses on the twentieth century conceptual framework (issues and movements such as Darwinism,  Freudianism,  Marxism, Colonization,  Imperialism, etc.) through the  dramatic,  poetic, and  narrative  forms of modern  literature.   Original literary creations will be used as illustrative texts from  (a)  Western literature, and (b) Post-colonial literatures.
+
+## HS 811: Literary Theory
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## HS 813: Structure of Language & its applications, Morphophonology and ELT
+- Credits: 6
+- Type: Theory
+- Description: This course will develop and build on the student?s knowledge of basic phonology and morphology and will adress topics such as Principles of articulatory and acoustic phonetics, Distinctive feature theory, Segmental phonological analysis, Phonological rule-writing and cyclicity, Autosegmental and metrical and prosodic theories, Feature geometry, Prosodic morphology, Lexical phonology, Morphological processes, Distributive morphology and the Structure of the lexicon.  This course shall also discuss the application of some of the basic concepts in modern linguistics to the field of English Language Teaching. The following issues will be raised: Linguistic attitudes to language: speech and writing; descriptive and explanatory principles; pedagogical implications, Language Pedagogy and Languag...
+
+## HS 814: Architecture of Grammer & its applications, Syntax Semantics and Sociolinguistics
+- Credits: 6
+- Type: Theory
+- Description: This advanced course on issues in syntax and semantics shall address issues such as Minimalism and economy of representation, Feature-checking (case, agreement, morphology-syntax interface), Locality-constraints, Phrase structure, Movement operations, Logical form (syntax-semantics interface), Compositionality, Variables and variable binding, Quantification and Ellipsis and Binding. This course shall also deal with the relationship between language, culture and society with respect to topics such as Language, culture and world-view, Language and Social Class, Language and Gender, Languages in Contact: Bilingualism, Multilingualism, Language and Nation and Language Planning.
+
+## HS 815: Languages in Cognitive Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: This course deals with the interface areas between the cognitive sciences of Linguistics and Psychology and Neuroscience. Issues to be discussed include Speech perception, Sentence perception and processing, Language production, First language acquisition, Biological foundations of language, aphasiology, evolutionary perspectives on language, Mental lexicon, Lab techniques for analysis, Corpus analysis and Modularity.
+
+## HS 818: Sociology of Social Stratification in India
+- Credits: 6
+- Type: Theory
+- Description: The treatment of social stratification from the perspectives of theory, structure, and process and their variations in societal and cultural contexts.  Structural units and the study of social stratification:  Class, Status and Party as distinctive categories of power and position, Race, Age and Gender differences as units for social formation and social interaction and processes involving social stratification, Classes, Power and Conflict and different approaches to the study of Power.  Culture and Structural Units and the study of Social Stratification  in India: Dimensions in studies of caste, class, ethnicity and power, Gender and Social Stratification,  Scheduled Castes and Social Stratification,  Agrarian Class Stratification and Change, Social Stratification and Agrarian ?Rural Sett...
+
+## HS 820: Research Methods in Economics
+- Credits: 6
+- Type: Theory
+- Description: The Methodological Foundations of Economic Analysis - Historicism, Positivism, Abstraction and Generalisation in Economic Science The purpose of and approach to Research. Formulation of Research problem and Research Design. Meaning of Hypothesis and Testing of hypotheses. Methodology of model building. Types of Economic models - Methods of data collection. Surveys and Sampling techniques. Structure of Dissertation.
+
+## HS 821: Applied Econometrics
+- Credits: 6
+- Type: Theory
+- Description: The aim of this one semester course is to give, briefly, an account of the main aspects of econometric procedures generally pursued by research analysts in economics. The course will attempt to enlighten the students for understanding the utility and disutility of various results based on econometric computations. No emphasis will be placed on derivation of formula and proofs.  Simple, partial and multiple correlation analysis - simple and multiple regression.   Normal distribution - small and large sample tests, F test.   Hypothesis testing and prediction using multiple regression analysis - Econometric foundations.   Functional forms and economic Interpretations, Time series, cross sectional and pooled analysis.   Important problems in econometric model building and testing; use of estim...
+
+## HS 823: Logic: Formal and Philosophical
+- Credits: 6
+- Type: Theory
+- Description: Sets and relations. First order Language: Propositional calculus and quantifiers. Natural deduction and axiomatic approaches. Theory of conditionals. Modal Logic. Concept of truth and model. Semantics.  Situation Logic. Relevance Logic.   Formal analysis. The theory of description. Logical Atomism.   Wittgenstein. Truth as meaning: Quine and Davidson. Possible world semantics: Kripke; D. Lewis and R. Stalnaker: Counterfactual conditionals and causation; Situation semantics: Barwise and Perry.
+
+## HS 824: Cultural Studies
+- Credits: 6
+- Type: Theory
+- Description: This course seeks to understand the changing meanings of culture and the emergence of cultural studies in general and in India in particular. The possibilities and limitations of the colonial discourse, postcolonial studies and the radical discourse on culture will be mapped. Issues related to doing engaged cultural studies and cultural methodologies would be discussed.  Sociology/Anthropology of Culture: the challenges to the classical approaches.  The Formation of Cultural Studies:  Discussions on Culture Industry, Hegemony, Ideology and Birmingham School Postmodernism, Culture and the Dilemma of politics: Theories of consumer culture.  Colonialism, Nationalism and conceptions of Indian Culture: The different nationalisms and their conceptions of Indian Culture, colonialism and its forms...
+
+## HS 825: Gender Studies
+- Credits: 6
+- Type: Theory
+- Description: The course seeks to map the basic concepts developed in gender studies and especially outline their implications for the practice of social sciences in India. The contemporary debates in gender theory will be outlined and the specific problems of theorizing gender in the Indian context highlighted.  Feminist Theory: Beyond the hyphenated approach-the key debates in feminist theory.  Operationalising concepts: Gender, Patriarch and Sexual Division of Labour.  From Margins to the Centre: Reading Working Class and Black Feminisms.  The Challenge of Gender Studies to the Disciplines: Critiques of theory, methodology and epistemology.  Problems of theorizing Gender in India: Issues of Caste, Class and Community.  Recasting Gender: Understanding debates of Nationalism, colonialism and gender.  E...
+
+## HS 828: Phillosophical Points of View & Major Thinkers
+- Credits: 6
+- Type: Theory
+- Description: For this course, a scholar may choose for study one of the following major philosophical thinkers or major philosophical viewpoints. In case the direction of the scholar"s research is such that the study of a philosophical thinker or viewpoint other than those listed here would enrich his research, he is permitted to take that for this course.  Socrates, Plato, Aristotle, Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, Kant, Hegel Nietzsche, Karl Marx, Wittgenstein, G.E. Moore, Bertrand Russell, Gilbert Ryle, Austin, A.J. Ayer, P.F. Strawson, Brentano, Meinong, Husserl, Heidegger, Sartre, Albert Camus.   Idealism, Realism, Materialism, Mechanism, Positivism, Rationalism, Indian Idealism, Pragmatism, Frankfurt School of Sociology, Existentialism.-
+
+## HS 833: Community Psychology and its Social Impact
+- Credits: 6
+- Type: Theory
+- Description: History and Importance of community psychology and its impact on modern life  Impact of Community psychology with respect to developing countries  Community mental health, concepts, models and various intervention programs  Principles and goals of community psychology  Concepts, programs and techniques in crisis intervention  Rural India and community Psychology
+
+## HS 836: Linguistics and Literary Analysis
+- Credits: 6
+- Type: Theory
+- Description: 1. The nature and study of language: concepts of langue and parole; language as a system of signs; language as a system of relations; concepts of competence and performance; levels of linguistic analysis.  2.     Some major critical approaches to literary analysis which focus on language:  (a) The Formalistic Approach: Russian Formalism, Prague School Poetics; Anglo-American New Criticism  (b) The Linguistic and Structuralist Approaches: the Dhvani theory and the nature of metaphor; Linguistic Stylistics; Structuralist Criticism and Semiotics; the Generative Approach to literary analysis (c) The Functionalist Approaches: Sociolinguistic Approach, Pragmatics and Discourse-based analysis of literary texts.
+
+## HS 837: Aesthetics and Criticism
+- Credits: 6
+- Type: Theory
+- Description: 1. The nature of Aesthetics: Aesthetics as ?metacriticism?; the relationship between art-criticism and aesthetic theorizing; the relationship between creative practices and aesthetics  2. Some major theories of art: Western  (a) Formalism-Structuralism  (b) Post-structuralism (c) Art and the human mind: Psychoanalysis (d) Art and human society and culture: Marxism, Cultural Studies (e) Feminism (f) Post-modernism and Post-colonialism  3. Some major theories of art: Indian  (a) the Dhvani theory (b) the Rasa theory
+
+## HS 839: Major Issues in Economic Development
+- Credits: 6
+- Type: Theory
+- Description: Concept of Growth and Development - Theories of Development 226 Goals of Development 226 Fallacies in Development Theory and Their Implications for Policy.Select Issues in Economic Development 226 Distributive Conflicts, Collective Action, and Institutional Economics 226 Political Economy of Development Policy Making 226 Development Strategies and the Environment.Economic Development and Technological Change 226 Endogenous Growth Models 226 Neo-classical Theories of Growth 226 Technology led Development models for contemporary Developing countries.Development Process of the Indian Economy: Issues and Challenges.
+
+## HS 840: Paninian Grammar
+- Credits: 6
+- Type: Theory
+
+## HS 842: Philosophy of Language in Sanskrit Literature
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## HS 843: Vedanta Philosophy
+- Credits: 6
+- Type: Theory
+
+## HS 844: Ethics:  Theory and Practic
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## HS 845: Indian Logic
+- Credits: 6
+- Type: Theory
+
+## HS 846: Advanced Course on Postcolonial Theory
+- Credits: 6
+- Type: Theory
+- Description: This is an advanced course on Postcolonial Theory. In this course, we will examine some of the influential scholarship that constitutes the field of Postcolonial Studies. We will look at a few of the important debates that were waged, including a fierce one on the legitimacy of the term 302221postcolonial302222 itself, the critical vocabulary and methodological tools that developed, and analytical practices that this field engendered. Some of the topics that the course may wish to emphasize upon are as follows: 1) colonial discourse analysis, which forms a significant part of Postcolonial Studies, especially in the formative years. 2) The institutional and disciplinary history of the development of Postcolonial Studies: how it was and is conditioned by it development in the Anglo-American ...
+
+## HS 847: Algorithms in Indian Astronomy
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## HS 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## HSS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## HSS802: Seminar
+- Credits: 4
+- Type: Seminar

@@ -1,0 +1,151 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Economics - Course Catalog for IIT Bombay Students
+
+
+## EC 101: Economics
+- Credits: 6
+- Type: Theory
+- Description: Basic economic problems.  resource constraints and Welfare maximizations. Nature of Economics : Positive and normative economics; Micro and macroeconomics, Basic concepts in economics. The role of the State in economic activity; market and government failures; New Economic Policy in India.Theory of utility and consumer"s choice. Theories of demand, supply and market equilibrium. Theories of firm, production and costs.  Market structures. Perfect and imperfect competition, oligopoly, monopoly.An overview of macroeconomics, measurement and determination of national income. Consumption, savings, and investments. Commercial and central banking.  Relationship between money, output and prices.  Inflation - causes, consequences and remedies. International trade, foreign exchange and balace paymen...
+
+## EC 210: Intermediate Microeconomics II
+- Credits: 6
+- Type: Theory
+- Description: Choice under Risk and Uncertainty: Preferences, Time Value of preferences, Net Present ValueGeneral Equilibrium, Efficiency and Welfare:  Multi market equilibrium; partial and general equilibrium compared; Equilibrium and efficiency under pure exchange and production; Topics in Multimarket Equilibrium; Existence, uniqueness and stability of equilibrium.Welfare Economics: Pareto Optimality; the efficiency of Perfect Competition; efficiency of imperfect competition; external effects in consumption and production; inter-dependent utility function; taxation and subsidies; Social welfare function; the theory of second best.Market Failure:  Externalities; public goods and markets with asymmetric information.
+
+## EC 212: Intermediate Macroeconomics II
+- Credits: 6
+- Type: Theory
+- Description: Derivation of Aggregate Supply and Interlinkage Between Aggregate Supply and Phillips CurveUnemployment and Theories of InflationInterest Rate Targeting vis-a- vis Money Supply TargetingReal Business Cycle Theory: Impact of Technology shock, Fiscal shockNew Keynesian Macroeconomics: Staggering of Wage and Price, Overlapping Wage Contract
+
+## EC 213: Statistics for Economics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Descriptive Statistics Frequency distributions, Measures of central tendency, Measures of dispersion, Skewness, Kurtosis, Quantiles, Measuring changes in price and quantity: theory of index numbers, Measuring shortrun and long-run changes: growth rates, time series, seasonal effects, cyclical effects, irregular effects. 2. Random Variables, Probability Distributions and Moments Introduction: Sample space, Events, Probability, Bayes- Theorem; Random variable: Expectation, Variance; Discrete Probability Distributions 1 Bernoulli, Binomial, Poisson; Continuous Probability Distributions: Uniform, Exponential, Normal Moments and Moment Generating Function. 3. Joint Probability Distributions Jointly distributed random variables: discrete and continuous case, Independent random variables, Marg...
+
+## EC 214: Statistics II
+- Credits: 6
+- Type: Theory
+- Description: Sampling Techniques:  Simple random sampling, stratified sampling, cluster sampling, systematic sampling.Estimation Theory:  Estimator and estimate, Point estimation, Interval estimation, Sampling distributions, t, F, and chi-square distributions.Hypothesis Testing:  Null and alternate hypothesis, Test statistic, Testing equality of means, Testing equality of variances, Power of the test.Relation between Two Variables:  Correlation coefficient, Regression analysis,statistical inference about regression parameters.
+
+## EC 217: Statistics for Economics Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. BasicsIntroduction to R/Python programming, Read in data files, View and manipulate data, Construct tables, charts and plots, Compute various measures of central tendency, variation,skewness, kurtosis, correlation, etc. Economic data on nationalincome, household consumption, consumer price index, etc. from RBI and MOSPI will be used to show these applications.2. Probability Distributions Monte Carlo simulations - to generate data using various distributions, Study the properties of distributions with parameter variation, Match a density to data - both real dataand simulated data3. Applications of Central Limit Theorem and Point Estimation
+
+## EC 218: AI and Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Estimation and Hypothesis Testing in Economics Estimation Theory: Estimator and Estimate, Point Estimation, Unbiased Estimator and Cremer-Rao Inequality, Interval Estimation; Sampling Distributions: Sampling distributions, t, F, and chi-square distributions; Hypothesis Testing: Null and alternate hypothesis, Test statistic, Testing equality of means, Testing equality of variances, Power of the test. Economic application problems to estimate and test the hypothesis for mean income, volatility of stock price returns, average crop productivity, etc. 2. ANOVA One-way ANOVA, Two-way ANOVA (without interaction), Twoway ANOVA Hypothesis Testing, Two-way ANOVA with interaction. Economic application problems: e.g. regional income comparison, impact of income on consumption expenditure, impact on...
+
+## EC 220: AI and Data Science Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Programming Basics (Python programming, basic data structures in Python Data handling: introduction to data file input and output, introduction to plotting, economic data applications Tests of Hypotheses Compute point and interval estimates, Perform tests of hypotheses about the mean, Compute test statistic, p-value, critical region Introduction to n-d arrays (numpy) Unsupervised data exploration methods: PCA, SVD, T-SNE. Supervised learningClassification and regression, Neural networks, CNNs. Economic applications: e.g. estimation of mean income, volatility of stock price returns, average crop productivity; regional incomeand major health indicators visualization, impact of income on consumption expenditure, impact on type of seed and average rainfall on crop yields, forecasting propensit...
+
+## EC 221: Intermediate Microeconomics I
+- Credits: 6
+- Type: Theory
+- Description: Theory of Consumer Behaviour:  Preferences, utility, choice, substitution and income effects, demand curves.Theory of Firm: Production function, returns to scale, cost function, profit function, short and long run supply curve.Market Structure: Price and output decisions under different market structures like: Perfect Competition, Monopoly, Duopoly, Oligopoly, and Monopolistic Competition.
+
+## EC 223: Intermediate Macroeconomics-I
+- Credits: 6
+- Type: Theory
+- Description: National Income Accounting: GDP, GNP, National Income, Personal Disposable Income, Price Index, Okun302222s Law, role of inventoriesTheories of consumption and investment functions: Consumption puzzle and it reconciliation, Relative income hypothesis, Life cycle hypothesis, permanent income hypothesis. Hall302222s random walk hypothesis, Flexible accelerator models and its drawbackKeynesian model of effective demand and income determination: Simple Keynesian model, IS-LM framework, Complete Keynesian modelClassical Macroeconomics: Full employment model, Classical dichotomy, Patinkin302222s integration of real and monetary sector, Pigou effect and Keynes302222 criticism.Post Keynesian theories of demand for money: Baumol302222s transaction demand for money, Tobin302222s theory of speculativ...
+
+## EC 225: Mathematics for Economics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to real analysis: Basic concepts of mappings, sequence, limits, continuous functions, closed and open set, Debreu302222s utility representation theorem.Linear algebra: Input-output system, complete Keynesian model.Linear programming: Simplex method, duality theorem, cost minimization problem, shadow price and their relevance.Optimization: Quasi-concavity and quasi-convexity, Karusch-Kuhn-Tucker necessary and sufficient conditions, utility maximization problem, overlapping generations models.Comparative Static Analysis: Berge302222s theorem of maximum, Envelope theorem, Implicit function theorem, Slutsky equation, Roy302222s identity, Le-Chatelier302222s principle.Dynamic analysis: Continuous time: Cobweb model, expectation augmented Phillips curve, dynamic input output modelDi...
+
+## EC 227: Statistics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Statistics for Economics Descriptive Statistics: Frequency distributions, Measures of central tendency, Measures of dispersion, Skewness, Kurtosis, Quantiles, Measuring changes in price and quantity: theory of index numbers, Measuring short-run and long-run changes: growth rates, time series, seasonal effects, cyclical effects, irregular effects.Probability, Random Variables and Moments:  Sample space, Events, Probability, Bayes302222 Theorem, Random variable, Expectation, Variance, Moments and moment generating function Discrete Probability Distributions:  Bernoulli distribution, Binomial distribution, Poisson Distribution.Continuous Probability Distributions:  Uniform distribution, Normal distribution.Joint Probability Distributions:  Jointly distributed random variables:...
+
+## EC 302: International  Economics II
+- Credits: 6
+- Type: Theory
+- Description: 1. Opening up a closed economy, National Income identities; Balance of Payments statement2. The Foreign Exchange Market: arbitrage, hedging and speculation; Exchange Rate concepts; spot and derivative markets. 3. Exchange rate regimes and International Monetary System: Fixed, Flexible, Managed Floating, etc. 4. Adjustment mechanisms: Monetary vs Absorption approach, expenditure reduction and expenditure switching, devaluation and Marshall-Lerner-Robinson Condition 5. Models and approaches to exchange rate determination: Purchasing power parity, Monetary, asset and Portfolio Balance Models, 6. Output, interest rates and exchange rate determination; impossible trinity7. Optimum Currency Areas and Financial crises
+
+## EC 304: Development Economics II
+- Credits: 6
+- Type: Theory
+- Description: Poverty and Inequality: Measurement of poverty and inequality, Inequality and Growth: inverted-U hypothesis, Human Development Indices, Capabilities approach, Poverty alleviation programmes, Government policies and inequality, Functional impact of poverty: credit and insurance, Nutrition and labour markets, Intra-household bargaining and unequal sharing of poverty: within-household inequality.Health and Education: Access to health and education, Interrelation between health, education and productivity, Government policies to improve health and education.  The Dual Economy: Structure of dual economy, The Lewis Model, Migration, Harris-Todaro model,  Rural-urban wage gap, Unemployment and surplus labour: wage productivity model, surplus labour and efficiency wage, collusive theory of unemplo...
+
+## EC 306: Econometrics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Econometrics: What is econometrics? 302226 Steps in econometrics analysis 302226 Classical Linear Regression Model (CLRM): AssumptionsClassical Linear Regression Model (CLRM): Bivariate and multivariate ordinary least squares models 302226 Assumptions for estimation and hypothesis testing of OLS estimators.CLRM: Estimation and Hypothesis Testing -Deriving OLS estimates 302226 Properties of OLS estimators 302226 Distribution of OLS estimators 302226 Hypothesis testing for single population parameter (t-test) 302226 Confidence Intervals 302226 Hypothesis testing for linear combination of parameters 302226 Testing multiple linear restrictionsCLRM: Further Issues -Effects of data scaling on OLS estimates 302226 Functional forms 302226 Prediction and residual analysisCLRM: Viola...
+
+## EC 308: Econometrics I Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to data analysis in EconomicsQuantitative and qualitative analyses of economic models with probabilistic toolsApplication of Econometric models and interpretationImplementing these models using software like SPSS, STATA, RATS, EVIEWS, OXMETRICS and R.
+
+## EC 311: International Economics I
+- Credits: 6
+- Type: Theory
+- Description: Gains from Trade: Free trade versus autarky; Failures of the gains from trade theorem; Distribution of gains Bases for Trade: The No-Trade Model; Ricardian Model - Technology as a basis for Trade;Comparative versus absolute advantage; Comparative advantage and autarky price ratios; Distribution of gains between countries; Real wage comparisons across countries Heckscher-Ohlin Theory: Basic assumptions; The Heckscher-Ohlin Theorem; The Factor Price-Equalization Theorem; The Stolper-Samuelson Theorem; The Rybczynski Theorem; The Leontief Paradox.New Trade Theory: Intra industry trade and imperfect markets, trade and productivity.Government Policies and Distortions as Determinants of Trade: Distinguishing among producer, consumer, and world prices; small open economy; Tariff and non-tariff ba...
+
+## EC 313: Development Economics I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Development EconomicsVicious circle of poverty, Characteristics of underdevelopment, Growth and development, Stages of development and structural change, Rostow302222s stages of growth, Industrialization and growth, Balanced Growth, Unbalanced GrowthTheories of GrowthThe Harrod-Domar model, The Solow growth model, Convergence: unconditional and conditional convergence.Endogenous GrowthHuman capital and growth, Population, Technological progressTrade and GrowthClosed and open economies, Gains from trade, Export-led growth, Import-substitution vs trade-promotion, Terms of tradeFinancing Growth & DevelopmentDomestic resource, Foreign resources, Dual-gap analysis and foreign borrowing, Foreign debt and development, Balance of payments, International Monetary Fund.
+
+## EC 315: Public Finance
+- Credits: 6
+- Type: Theory
+- Description: Normative Approach to Public Finance: Equality Between (Marginal) Social Benefit and Social Cost  The Theory of Optimum Budget: Allocation, Distribution and Stabilization.  Principles of Taxation and Government Expenditure: Benefit Approach, Ability To Pay Principle.       Progressive Taxation  Equality Theory, Surplus-Income Theory.The Lindahl Model of Pareto Optimality; Public Goods and the Free Rider Problem. The Burden and Management of Public Debt. Ricardo-Pigou Thesis; Anti-Cyclical Debt Management.
+
+## EC 402: Game Theory and Economic Analysis
+- Credits: 6
+- Type: Theory
+- Description: Introduction of Game Theory.Classifications of games, Terminology and assumptions.Simultaneous games of complete information.Normal form games, Dominant strategy equilibrium, Iterated strict dominance, Nash Equilibrium in pure strategies, Cournot duopoly, Prisoner302222s dilemma, Battle of Sexes, Problem of commons, Final offer arbitration, Strategic Voting, Non-existence of pure strategy Nash equilibriumMixed strategies, Existence of Nash equilibrium, Matching coinsDynamic games of complete information.Extensive form games, Perfect and imperfect information in dynamic games, Stackelberg duopoly, Wage bargaining, Rubinstein302222s bargaining (finite version), Nebulous skill enhancementSubgame perfection, Bank Runs, Finite stage repeated games, Cournot duopoly and collusionStatic Bayesian g...
+
+## EC 405: Econometrics II
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Time Series Econometrics: Univariate Time Series-Lag operators, AR, MA, ARMA and ARIMA processes, Stationary time series, difference stationary and trend stationary time series, SeasonalityModels with Qualitative Dependent Variables -Linear probability models, Maximum likelihood estimation, Logit, Probit, Tobit Introduction to Panel Data -Fixed effects estimation, Random effects model, Applying Panel data methods to other data structuresInstrumental Variables Regression -Endogeneity of explanatory variable, Instrumental variable (IV), Statistical inference with IV estimator, Properties of IV with poor instruments.Simultaneous Equations Model -Simultaneity bias in OLS, Identifying and estimating a structural equation, Systems with more than two equations Selected economic Ap...
+
+## EC 407: Econometrics II Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to Panel data analysis in EconometricsQuantitative and qualitative dependent variable models with probabilistic toolsApplication of Simultaneous Equation models and interpretationImplementing these models using software like SPSS, STATA, RATS, EVIEWS, OXMETRICS and R.
+
+## EC 411: Indian Economy
+- Credits: 6
+- Type: Theory
+
+## EC 495: BS Project Stage I
+- Credits: 6
+- Type: Project
+- Description: BS Project Stage I
+
+## EC 497: BS Project Stage II
+- Credits: 12
+- Type: Project
+- Description: BS Project Stage II
+
+## EC 802: Advanced Economic Theory
+- Credits: 6
+- Type: Theory
+- Description: Economic growth: Theories and models. The technology of the economy. The neoclassical one sector model of growth. Two sector models of economic growth and planning.
+
+## EC 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## ECS801: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar
+
+## ECS802: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar

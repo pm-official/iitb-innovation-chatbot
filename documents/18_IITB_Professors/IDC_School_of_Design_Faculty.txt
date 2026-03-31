@@ -1,0 +1,425 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IDC School of Design Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Abhishek Verma
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: abhishek.verma@iitb.ac.in
+- Primary Research Area: 2D Animation & Screenplay Development
+- Research Interests & Innovation Focus: 2D animation, screenplay writing, storyboarding, narrative structure, animation direction
+- Notable Projects: 2D animated films, screenplay workshops
+- Key Tools & Platforms: Toon Boom, Adobe Animate, storyboarding tools
+- Innovation Keywords: 2D animation, screenplay, storyboarding, narrative, animation direction
+- Profile: https://www.idc.iitb.ac.in
+
+## Alka Hingorani
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: alka@iitb.ac.in
+- Primary Research Area: Storytelling as Pedagogy & Collaborative Learning
+- Research Interests & Innovation Focus: Storytelling-based design pedagogy, collaborative learning, design education, art and design history, visual culture
+- Notable Projects: Design pedagogy frameworks, storytelling workshops
+- Innovation Keywords: storytelling, pedagogy, collaborative learning, design education, visual culture
+- Profile: https://www.idc.iitb.ac.in
+
+## Aman Rupesh Xaxa
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: 25d1325@iitb.ac.in
+- Primary Research Area: Communication Design
+- Research Interests & Innovation Focus: Communication design, visual identity, branding, design strategy, social design
+- Notable Projects: Communication design projects
+- Key Tools & Platforms: Adobe Suite, design tools
+- Innovation Keywords: communication design, branding, visual identity, social design
+- Profile: https://www.idc.iitb.ac.in
+
+## Anil K. Gupta
+- Department: IDC School of Design
+- Designation: Visiting Professor
+- Email: anilgb@gmail.com
+- Research Group: Honey Bee Network
+- Primary Research Area: Agriculture Innovation & Grassroots Innovation
+- Research Interests & Innovation Focus: Grassroots innovation, traditional knowledge, Honey Bee Network, frugal innovation, farmer innovation
+- Notable Projects: Honey Bee Network, National Innovation Foundation, SRISTI
+- Key Tools & Platforms: Field research methods, documentation tools
+- Industry Collaborations: NIF, GIAN, multiple NGOs
+- Awards: Padma Shri awardee
+- Innovation Keywords: grassroots innovation, Honey Bee Network, frugal innovation, traditional knowledge
+- Profile: https://www.idc.iitb.ac.in
+
+## Anirudha Joshi
+- Department: IDC School of Design
+- Designation: Professor
+- Email: anirudha@iitb.ac.in
+- Research Group: Interaction Design for Indian Needs (IDfIN)
+- Primary Research Area: Human-Computer Interaction & UX Design
+- Research Interests & Innovation Focus: HCI for developing regions, UX design, interaction design, usability evaluation, design for Indian languages, participatory design
+- Notable Projects: Indian language interface design, UX for low-literacy users
+- Key Tools & Platforms: Figma, usability testing tools, eye tracking
+- Industry Collaborations: IT and software companies
+- Awards: ACM SIGCHI contributions
+- Innovation Keywords: HCI, UX design, Indian languages, usability, participatory design, interaction
+- Profile: https://www.idc.iitb.ac.in/people/faculty/joshi-anirudha
+
+## Anisha Malhotra Dalvi
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: anisha.dalvi@iitb.ac.in
+- Primary Research Area: Design for Children & Design Pedagogy
+- Research Interests & Innovation Focus: Designing for children, design pedagogy, play-based learning, child-computer interaction, toy design
+- Notable Projects: Design for children's learning, play-based education tools
+- Key Tools & Platforms: Prototyping tools, user research methods
+- Innovation Keywords: design for children, pedagogy, play-based learning, toy design, child interaction
+- Profile: https://www.idc.iitb.ac.in
+
+## Avinash Shende
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: shende@iitb.ac.in
+- Research Group: Digital Fabrication Lab
+- Primary Research Area: Digital Fabrication, Craft & Form
+- Research Interests & Innovation Focus: Digital fabrication technologies, craft integration with technology, material exploration, 3D printing, laser cutting
+- Notable Projects: Digital craft projects, fabrication-based design education
+- Key Tools & Platforms: 3D printers, laser cutters, CNC machines, Arduino
+- Innovation Keywords: digital fabrication, craft, 3D printing, laser cutting, material exploration
+- Profile: https://www.idc.iitb.ac.in/people/faculty/shende-avinash
+
+## B. K. Chakravarthy
+- Department: IDC School of Design
+- Designation: Professor
+- Email: chakku@iitb.ac.in
+- Research Group: Shenoy Innovation Studio
+- Primary Research Area: Innovation by Design & Product Innovation
+- Research Interests & Innovation Focus: Design innovation methodology, product development strategy, conceptual design, design thinking, innovation management
+- Notable Projects: Innovation by design frameworks, product innovation studios
+- Key Tools & Platforms: CAD tools, design prototyping equipment
+- Industry Collaborations: Manufacturing and product companies
+- Innovation Keywords: innovation, product design, design thinking, conceptual design, strategy
+- Profile: https://www.idc.iitb.ac.in/people/faculty/chakravarthy-b-k
+
+## Bharat Parmar
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: bharat.parmar@iitb.ac.in
+- Primary Research Area: Experimental Film & Instructional Design
+- Research Interests & Innovation Focus: Experimental filmmaking, instructional design, video production, multimedia learning
+- Notable Projects: Experimental film productions, instructional content design
+- Key Tools & Platforms: Camera equipment, editing software, LMS platforms
+- Innovation Keywords: experimental film, instructional design, video production, multimedia learning
+- Profile: https://www.idc.iitb.ac.in
+
+## G. G. Ray
+- Department: IDC School of Design
+- Designation: Professor Emeritus
+- Email: ggray@iitb.ac.in
+- Primary Research Area: Workstation Ergonomics & Design for Geriatric Needs
+- Research Interests & Innovation Focus: Ergonomics, workstation design, design for elderly, anthropometry, occupational health
+- Notable Projects: Workstation ergonomic assessment, geriatric design studies
+- Key Tools & Platforms: Anthropometric tools, ergonomic assessment equipment
+- Industry Collaborations: Manufacturing, furniture companies
+- Innovation Keywords: ergonomics, workstation design, geriatric design, anthropometry, occupational health
+- Profile: https://www.idc.iitb.ac.in
+
+## G. V. Sreekumar
+- Department: IDC School of Design
+- Designation: Institute Chair Professor
+- Email: gvsree@iitb.ac.in
+- Research Group: Visual Communication Lab
+- Primary Research Area: Typography & Information Graphics
+- Research Interests & Innovation Focus: Typography, information graphics, visual communication design, wayfinding systems, Indic script typography, publication design
+- Notable Projects: Indic typography systems, wayfinding design for public spaces
+- Key Tools & Platforms: Adobe InDesign, Illustrator, font design tools
+- Innovation Keywords: typography, information graphics, visual communication, wayfinding, Indic scripts
+- Profile: https://www.idc.iitb.ac.in/people/faculty/sreekumar-g-v
+
+## Girish Dalvi
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: girish.dalvi@iitb.ac.in
+- Research Group: Type Design Lab
+- Primary Research Area: Type Design & Critical Design Theory
+- Research Interests & Innovation Focus: Type design for Indic scripts, critical design theory, design research methods, visual culture studies, font engineering
+- Notable Projects: Indic font development, design research methodologies
+- Key Tools & Platforms: FontForge, Glyphs, RoboFont, Python scripting
+- Innovation Keywords: type design, Indic scripts, critical design, font engineering, visual culture
+- Profile: https://www.idc.iitb.ac.in/people/faculty/dalvi-girish
+
+## Jayesh Pillai
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: jay@iitb.ac.in
+- Research Group: IMXD Lab (Immersive Media Experience Design)
+- Primary Research Area: VR/AR, Immersive Media & Novel Interactions
+- Research Interests & Innovation Focus: Virtual reality, augmented reality, immersive storytelling, spatial computing, novel interaction design, XR for education
+- Notable Projects: VR/AR immersive narratives, XR for education and training
+- Key Tools & Platforms: Unity, Unreal Engine, VR headsets, motion capture
+- Industry Collaborations: XR and gaming companies
+- Innovation Keywords: VR, AR, immersive media, XR, spatial computing, interactive storytelling
+- Profile: https://www.idc.iitb.ac.in/people/faculty/pillai-jayesh
+
+## Kanika Jolly
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: kanika.jolly@iitb.ac.in
+- Primary Research Area: Design for Inclusivity & Sensory Experience
+- Research Interests & Innovation Focus: Inclusive design, sensory design, accessibility, design for disabilities, multisensory experiences
+- Notable Projects: Inclusive design projects, sensory experience design
+- Key Tools & Platforms: Prototyping tools, sensory testing equipment
+- Innovation Keywords: inclusive design, accessibility, sensory design, multisensory, disabilities
+- Profile: https://www.idc.iitb.ac.in
+
+## Lalit Das
+- Department: IDC School of Design
+- Designation: Visiting Professor
+- Email: lalitdas@iitb.ac.in
+- Primary Research Area: Product Design & Conceptualization
+- Research Interests & Innovation Focus: Product conceptualization, industrial design, design strategy, automotive design
+- Notable Projects: Product concept development
+- Key Tools & Platforms: CAD, design visualization tools
+- Industry Collaborations: Automotive and consumer product industries
+- Innovation Keywords: product design, conceptualization, industrial design, automotive, strategy
+- Profile: https://www.idc.iitb.ac.in
+
+## Mandar Rane
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: mrane@iitb.ac.in
+- Research Group: Visual Communication Lab
+- Primary Research Area: Print Media, Basic Design & Web Media
+- Research Interests & Innovation Focus: Print design, web design, basic design principles, publication design, digital media
+- Notable Projects: Print and web media design projects
+- Key Tools & Platforms: Adobe Suite, HTML/CSS, web design tools
+- Innovation Keywords: print media, web media, publication design, basic design, digital media
+- Profile: https://www.idc.iitb.ac.in
+
+## Mazhar Kamran
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: mazhar@iitb.ac.in
+- Research Group: Film & Narrative Lab
+- Primary Research Area: World Cinema, Filmmaking & Narrative
+- Research Interests & Innovation Focus: Film studies, documentary filmmaking, world cinema, narrative design, film aesthetics
+- Notable Projects: Documentary films, narrative cinema projects
+- Key Tools & Platforms: Camera equipment, editing software, DaVinci Resolve
+- Innovation Keywords: filmmaking, cinema, narrative, documentary, film aesthetics
+- Profile: https://www.idc.iitb.ac.in
+
+## Nina Sabnani
+- Department: IDC School of Design
+- Designation: Professor Emeritus
+- Email: nina@iitb.ac.in
+- Primary Research Area: Animation & Storytelling
+- Research Interests & Innovation Focus: Animation filmmaking, storytelling through art, folk traditions in design, visual narratives
+- Notable Projects: Award-winning animated films, folk art animation
+- Key Tools & Platforms: Animation tools, illustration software
+- Awards: National Film Award nominee
+- Innovation Keywords: animation, storytelling, folk art, visual narratives, cultural design
+- Profile: https://www.idc.iitb.ac.in
+
+## Nishant Sharma
+- Department: IDC School of Design
+- Designation: Professor
+- Email: nishantsharma@iitb.ac.in
+- Research Group: Mobility & Healthcare Design Lab
+- Primary Research Area: Mobility Design & Healthcare Participatory Design
+- Research Interests & Innovation Focus: Mobility product design, participatory design methods, healthcare system design, co-creation, user-centred design
+- Notable Projects: Participatory healthcare design, mobility solutions for India
+- Key Tools & Platforms: CAD, prototyping tools, participatory design kits
+- Industry Collaborations: Healthcare and mobility organizations
+- Innovation Keywords: mobility design, participatory design, healthcare, co-creation, user-centred
+- Profile: https://www.idc.iitb.ac.in/people/faculty/sharma-nishant
+
+## P. Kumaresan
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: kums@iitb.ac.in
+- Research Group: Visual Arts Studio
+- Primary Research Area: Visual Arts, Ceramics & Aesthetics
+- Research Interests & Innovation Focus: Ceramics, visual arts, aesthetic philosophy, craft practice, material culture
+- Notable Projects: Ceramic art installations, visual arts projects
+- Key Tools & Platforms: Kiln, pottery wheel, sculpture tools
+- Innovation Keywords: visual arts, ceramics, aesthetics, craft, material culture
+- Profile: https://www.idc.iitb.ac.in
+
+## Phani Tetali
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: phanit@iitb.ac.in
+- Research Group: New Media & Gaming Lab
+- Primary Research Area: Animation, Gaming & New Media in Education
+- Research Interests & Innovation Focus: Game design, animation for education, new media technologies, interactive learning, gamification
+- Notable Projects: Educational games, new media for learning
+- Key Tools & Platforms: Unity, Unreal Engine, Adobe Suite, game engines
+- Innovation Keywords: gaming, animation, new media, gamification, educational technology
+- Profile: https://www.idc.iitb.ac.in
+
+## Prasad Bokil
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: prasad.bokil@iitb.ac.in
+- Research Group: Visual Communication Lab
+- Primary Research Area: Graphic Design, Visual Narratives & Game Design
+- Research Interests & Innovation Focus: Graphic design, visual storytelling, game design, illustration, branding, design for social impact
+- Notable Projects: Game design for education, visual narrative projects
+- Key Tools & Platforms: Adobe Suite, Unity, game design tools
+- Innovation Keywords: graphic design, visual narratives, game design, illustration, branding
+- Profile: https://www.idc.iitb.ac.in/people/faculty/bokil-prasad
+
+## Purba Joshi
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: purba_joshi@iitb.ac.in
+- Research Group: Healthcare Design Lab
+- Primary Research Area: Healthcare Design & Assistive Aids
+- Research Interests & Innovation Focus: Design for healthcare, assistive technology, medical device design, inclusive design, rehabilitation aids
+- Notable Projects: Assistive device design for disabilities, healthcare product innovation
+- Key Tools & Platforms: 3D printing, prototyping tools, user research methods
+- Industry Collaborations: Healthcare and medical device companies
+- Innovation Keywords: healthcare design, assistive aids, inclusive design, medical devices, rehabilitation
+- Profile: https://www.idc.iitb.ac.in/people/faculty/joshi-purba
+
+## R. Sandesh
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: sandesh.idc@iitb.ac.in
+- Research Group: Product Design Studio
+- Primary Research Area: Product Design, Form & Expression
+- Research Interests & Innovation Focus: Product form exploration, systems design, design expression, conceptual design, furniture design
+- Notable Projects: Product form studies, design expression explorations
+- Key Tools & Platforms: CAD, woodworking tools, 3D printing
+- Innovation Keywords: product design, form, systems design, expression, furniture design
+- Profile: https://www.idc.iitb.ac.in
+
+## Raja Mohanty
+- Department: IDC School of Design
+- Designation: Professor Emeritus
+- Email: rajam@iitb.ac.in
+- Primary Research Area: Visual Arts & Craft Narratives
+- Research Interests & Innovation Focus: Visual art practice, craft-based narratives, illustration, design for cultural contexts
+- Notable Projects: Illustrated books, craft narrative projects
+- Key Tools & Platforms: Illustration tools, printmaking equipment
+- Innovation Keywords: visual arts, craft, illustration, cultural design, narratives
+- Profile: https://www.idc.iitb.ac.in
+
+## Ravi Poovaiah
+- Department: IDC School of Design
+- Designation: Professor Emeritus
+- Email: ravi@iitb.ac.in
+- Primary Research Area: Interaction Design & Collaborative Enterprise
+- Research Interests & Innovation Focus: Interaction design, collaborative design platforms, design for digital communities, accessibility
+- Notable Projects: Collaborative design platforms, digital accessibility projects
+- Key Tools & Platforms: Web technologies, prototyping tools
+- Awards: Pioneer in interaction design in India
+- Innovation Keywords: interaction design, collaboration, digital communities, accessibility
+- Profile: https://www.idc.iitb.ac.in
+
+## Shilpa Ranade
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: shilpa@iitb.ac.in
+- Research Group: Animation & Illustration Studio
+- Primary Research Area: Animation & Illustration
+- Research Interests & Innovation Focus: Animation filmmaking, illustration, visual narratives, character design, design for children
+- Notable Projects: Animation films, illustrated narratives for education
+- Key Tools & Platforms: Toon Boom, Adobe Animate, Procreate
+- Innovation Keywords: animation, illustration, visual narratives, character design, storytelling
+- Profile: https://www.idc.iitb.ac.in
+
+## Sugandh Malhotra
+- Department: IDC School of Design
+- Designation: Professor
+- Email: sugandh@iitb.ac.in
+- Research Group: Design for Future Lab
+- Primary Research Area: Sustainable Mobility & Future Trends
+- Research Interests & Innovation Focus: Sustainable transportation design, future mobility, electric vehicle design, design futuring, urban mobility systems
+- Notable Projects: EV design concepts, sustainable transportation solutions
+- Key Tools & Platforms: CAD, Alias, 3D printing, VR prototyping
+- Industry Collaborations: Automotive and mobility companies
+- Innovation Keywords: sustainable mobility, EV design, design futures, transportation, urban mobility
+- Profile: https://www.idc.iitb.ac.in/people/faculty/malhotra-sugandh
+
+## Sumant M. Rao
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: sumant_rao@iitb.ac.in
+- Research Group: Animation Studio
+- Primary Research Area: Animation & Special Effects
+- Research Interests & Innovation Focus: Animation production, special effects, post-production, motion graphics, visual effects pipeline
+- Notable Projects: Animation production workflows, VFX projects
+- Key Tools & Platforms: Maya, After Effects, Nuke, Houdini
+- Innovation Keywords: animation, special effects, VFX, motion graphics, post-production
+- Profile: https://www.idc.iitb.ac.in
+
+## Swati Agarwal
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: swati_agarwal@iitb.ac.in
+- Primary Research Area: Interaction Design
+- Research Interests & Innovation Focus: Interaction design, interface design, experience design, design research, digital product design
+- Notable Projects: Interaction design research projects
+- Key Tools & Platforms: Figma, Sketch, prototyping tools
+- Innovation Keywords: interaction design, interface design, UX, digital products, design research
+- Profile: https://www.idc.iitb.ac.in
+
+## Swati Pal
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: swatipal@iitb.ac.in
+- Research Group: Product Design Studio
+- Primary Research Area: Product Design, Cognitive & Physical Ergonomics
+- Research Interests & Innovation Focus: Product design, cognitive ergonomics, physical ergonomics, human factors, user-centred product development
+- Notable Projects: Ergonomic product design, human factors studies
+- Key Tools & Platforms: CAD, ergonomic assessment tools, 3D printing
+- Industry Collaborations: Consumer product companies
+- Innovation Keywords: product design, ergonomics, human factors, cognitive ergonomics, user-centred
+- Profile: https://www.idc.iitb.ac.in
+
+## Venkatesh Rajamanickam
+- Department: IDC School of Design
+- Designation: Professor & HOD
+- Email: venkatra@iitb.ac.in
+- Research Group: Information Design Lab
+- Primary Research Area: HCI, Data Visualization & Ed-Tech
+- Research Interests & Innovation Focus: Human-computer interaction, data visualization, information design, ed-tech platforms, interactive media, design for complex systems
+- Notable Projects: Data visualization for public health, ed-tech platform design
+- Key Tools & Platforms: D3.js, Figma, Adobe Suite, Python
+- Industry Collaborations: Ed-tech companies, public health organizations
+- Innovation Keywords: HCI, data visualization, ed-tech, information design, interactive media
+- Profile: https://www.idc.iitb.ac.in/people/faculty/venkatesh-rajamanickam
+
+## Vivek Kant
+- Department: IDC School of Design
+- Designation: Associate Professor
+- Email: vivek.kant@iitb.ac.in
+- Research Group: HFSS Studios (Human Factors & Strategic Systems)
+- Primary Research Area: Strategic Design, Ergonomics & Human Factors
+- Research Interests & Innovation Focus: Strategic design, human factors engineering, ergonomics, systems thinking, design for complexity
+- Notable Projects: Strategic design frameworks, human factors assessment tools
+- Key Tools & Platforms: Ergonomic assessment tools, eye tracking, design software
+- Industry Collaborations: Defence, automotive industries
+- Innovation Keywords: strategic design, ergonomics, human factors, systems thinking, complexity
+- Profile: https://www.idc.iitb.ac.in/people/faculty/kant-vivek
+
+## Wricha Mishra
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: wricha@iitb.ac.in
+- Primary Research Area: Conversational Interfaces & Sustainable HCI
+- Research Interests & Innovation Focus: Conversational UI design, sustainable HCI, chatbot design, voice interfaces, green design
+- Notable Projects: Conversational interface design, sustainable interaction design
+- Key Tools & Platforms: Figma, prototyping tools, conversational AI platforms
+- Innovation Keywords: conversational interfaces, sustainable HCI, chatbots, voice UI, green design
+- Profile: https://www.idc.iitb.ac.in
+
+## Yohan Soharb Engineer
+- Department: IDC School of Design
+- Designation: Assistant Professor
+- Email: yohan.e@iitb.ac.in
+- Primary Research Area: Product Detailing & Dark UI Patterns
+- Research Interests & Innovation Focus: Product detailing, dark patterns in UI, ethical design, design criticism, interface analysis
+- Notable Projects: Dark pattern research, ethical UI design studies
+- Key Tools & Platforms: Figma, web analytics, UX research tools
+- Innovation Keywords: product detailing, dark patterns, ethical design, UI criticism, interface analysis
+- Profile: https://www.idc.iitb.ac.in

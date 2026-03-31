@@ -1,0 +1,60 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Aerospace Adjunct Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Ashok Joshi
+- Department: Aerospace Adjunct
+- Designation: Adjunct Faculty
+- Email: ashokj@aero.iitb.ac.in
+- Research Group: Flight Simulation and Control Laboratory
+- Primary Research Area: Dynamics & Control — Flight Simulation & Aircraft Dynamics
+- Research Interests & Innovation Focus: Research on flight simulation systems, aircraft dynamics modeling, real-time simulation systems for pilot training and aircraft development.
+- Notable Projects: Flight simulation system development; Aircraft dynamics modeling; Real-time simulation
+- Key Tools & Platforms: Flight simulation software, aircraft dynamics modeling, real-time simulation systems, control law implementation
+- Industry Collaborations: Flight training and aircraft certification
+- Awards: Adjunct faculty
+- Innovation Keywords: flight simulation, aircraft dynamics, control systems, pilot training, real-time simulation
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Ganapathi Bhat
+- Department: Aerospace Adjunct
+- Designation: Adjunct Faculty
+- Email: gbhat@aero.iitb.ac.in
+- Research Group: Experimental Fluid Mechanics Laboratory
+- Primary Research Area: Aerodynamics — Experimental Fluid Mechanics & Heat Transfer
+- Research Interests & Innovation Focus: Research on experimental fluid flow and heat transfer studies, optical flow diagnostics, wind tunnel testing, and thermal management of electrical/electronic systems.
+- Notable Projects: Industrial equipment thermal systems; Heat transfer optimization; Object-oriented modeling of thermal systems
+- Key Tools & Platforms: Experimental fluid mechanics, optical diagnostics, wind tunnel testing, heat transfer measurement, thermal system modeling
+- Industry Collaborations: Industrial thermal management applications
+- Awards: Adjunct faculty
+- Innovation Keywords: experimental aerodynamics, fluid mechanics, heat transfer, thermal systems, instrumentation, flow visualization
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-ganapathi-bhat
+
+## Prof. Harshad Khadilkar
+- Department: Aerospace Adjunct
+- Designation: Visiting Associate Professor (Data Science Lead, Tata Group)
+- Email: harshadk@aero.iitb.ac.in
+- Research Group: Control Theory and Reinforcement Learning Laboratory
+- Primary Research Area: Control & ML — Reinforcement Learning for Networked Systems
+- Research Interests & Innovation Focus: Research on control theory, probability, and machine learning for autonomous decision-making in networked systems. Applications in energy, transportation, supply chain, and finance using distributed control, optimization, and reinforcement learning.
+- Notable Projects: 12+ years applying intelligent algorithms; Research at MIT Aeronautics; Courses in control, optimization, RL at IIT Bombay
+- Key Tools & Platforms: Reinforcement learning, optimal control, distributed algorithms, Python, ML frameworks, optimization
+- Industry Collaborations: Tata Consultancy Services (Lead Data Scientist); Energy systems; Transportation networks
+- Awards: MIT graduate (MS 2011, PhD 2013); BTech IIT Bombay (2009)
+- Innovation Keywords: reinforcement learning, control algorithms, optimization, networked systems, autonomous decision-making, machine learning, distributed control
+- Profile: https://www.aero.iitb.ac.in/home/node/172
+
+## Prof. Krishna Kumar
+- Department: Aerospace Adjunct
+- Designation: Associate Professor / Adjunct
+- Email: kdkumar@aero.iitb.ac.in
+- Research Group: Spacecraft Dynamics and Control Laboratory
+- Primary Research Area: Dynamics & Control — Spacecraft Dynamics, IoT & Machine Learning
+- Research Interests & Innovation Focus: Research on spacecraft dynamics and control, IoT applications in aerospace, AI/ML for autonomous systems, big data analytics for flight data, genetic programming, and miniature wireless systems.
+- Notable Projects: Spacecraft attitude dynamics; Autonomous navigation; Sensor networks; ML applications to aerospace
+- Key Tools & Platforms: Spacecraft dynamics simulation, control algorithms, ML frameworks, IoT, genetic programming, wireless sensor networks
+- Industry Collaborations: IoT and AI applications in aerospace systems
+- Awards: Faculty member
+- Innovation Keywords: spacecraft dynamics, control systems, IoT, machine learning, genetic programming, big data analytics, autonomous systems
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty

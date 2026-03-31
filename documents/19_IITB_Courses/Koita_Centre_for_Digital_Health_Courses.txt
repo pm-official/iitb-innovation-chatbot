@@ -1,0 +1,32 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Koita Centre for Digital Health - Course Catalog for IIT Bombay Students
+
+
+## DH 302: Introduction to Public Health Informatics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to public health with emphasis on health promotion and disease prevention.  History of public health work, Role of government in health,-public health policies and interventions Introduction to global health, health inequities,-Epidemic and pandemic preparedness, Environmental issues in public health. Mapping and surveillance techniques for controlling diseases, models for efficient and knowledge based public health work Introduction to biomedical informatics and public health informatics, role of informatics in public health and global health Standards in Biomedical and public health Informatics Evaluation of Biomedical and Health Information Resources, Patient-Centered Care Systems, Patient Monitoring Systems, Clinical Research Informatics  Introduction to ethics in healthca...
+
+## DH 604: R&D Project-I
+- Credits: 6
+- Type: Project
+- Description: The DH 604 - Research and Development Project course offers students a unique opportunity to undertake hands-on research and development in the field of Digital Health under the mentorship of faculty members associated with KCDH, IIT Bombay. Projects will focus on 6-7 research areas. Students are expected to contribute meaningfully to a research project and/or development work, gaining practical exposure to various methods, tools, and problem-solving strategies. Evaluation is based on contribution to the project, project reports, presentations, and final deliverables as decided by the respective faculty mentor. Procedure for Students to opt for DH 604 (R&D Project-I Course): :1. View Project Topics: a. The list of available projects, along with brief descriptions and prerequisites, will be...
+
+## DH 605: R&D Project-II
+- Credits: 6
+- Type: Project
+- Description: MSR R&D Project-II
+
+## DH 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: MSR-Seminar code
+
+## DH 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## DHS801: Seminar
+- Credits: 4
+- Type: Seminar

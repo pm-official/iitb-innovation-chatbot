@@ -1,0 +1,109 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Ashank Desai Centre for Policy Studies - Course Catalog for IIT Bombay Students
+
+
+## PS 601: Public Policy Theory I
+- Credits: 6
+- Type: Theory
+- Description: Foundational Concepts in Public Policy: Introduction to Key Relevant Concepts from Political Science, Economics, and SociologyVarious Models and Approaches to Public Policy: Rational-Comprehensive, Incrementalism, Group Theory, Elite Theory, Functional Theory, Public Choice, Political System Theory, Institutionalism, Welfare Economics, Corporatism, Neo-9.Institutionalism Various Instruments of Public Policy: Different Types of Policy Instruments and Their Functioning: (a) Instruments of PublicIntervention: Command and Control, Regulatory, Direct Provisioning, Public Enterprises, (b) Market Instruments: Taxes, Rebates,Subsidies, Support Pricing, (c) Behavioral/ Educational Instruments: Information and Awareness, Naming and Shaming.
+
+## PS 604: Technology, Culture and Policy
+- Credits: 6
+- Type: Theory
+- Description: 1. Technology and Culture Theories: The historical-materialist view - cultural superstructure and economic base (Marx); Evolution of cultural beliefs and rationality in different societies; Separation of State and Church; The state of modern capitalist societies - Alienation, mass psychology (Freud, Frankfurt School), Technocratic elitism (Illich); Consumer societies (Baudrillard); Media ecology (Postman); The -Masculinity- of Technology; Policy as the politics of class conflict. 2a. Technology & Public Policy in Industrial Capitalism in the -Developed- World: A brief history of the industrial revolution; Wage labor, factory based production and the assembly line, economic efficiency and productivity; Growth and development, indices of growth (GDP, growth rate); Wartime developments and th...
+
+## PS 605: Social Science Perspective in Public Policy
+- Credits: 6
+- Type: Theory
+- Description: Classical Political Economy- Early Influences in Policy :The perspectives that were the roots of many later debates about the relationship between state, society and markets; interest group and policy influences and normative concerns like efficiency, equity, redistribution etc. - Select Growth Theories - Growth Models and Planning in India - Comparative Political Development and State Formation - Ethnographies of the state More information attached below Classical Political Economy- Early Influences in Policy :The perspectives that were the roots of many later debates about the relationship between state, society and markets; interest group and policy influences and normative concerns like efficiency, equity, redistribution etc. Major streams/authors like Meracntilism, Physiocracy, Adam S...
+
+## PS 606: Public Policy in India: History, Institutions and Practice
+- Credits: 6
+- Type: Theory
+- Description: Brief History of Policy Making in India:  Overall Architecture of Policy Making in India: Role of Key Functionaries in Policy Making: Structure and Functioning of Key Policy-Making Institutions, Structure and Functioning of Other Policy and Regulatory Institutions:  Policy Implementation in India: Public Administration and Bureaucracy  Practice of Policy Making in India:  Role of International Agencies and Civil Society in Policy Making in India  Policy Research and Policy Advice in India: Sources, Roles, and Efficacy  Administrative Reforms in India  Brief Introduction to Development Policies and Policies in Some Key Sectors:
+
+## PS 607: Public Policy Theory II
+- Credits: 6
+- Type: Theory
+- Description: Definition of Conditions and Policy Problem, Types of Policy Problem,Agenda Setting and Policy Formulation: Policy Formulation:Decision Making in Public Policy: Policy Implementation: Street Level Bureaucracy Policy Compliance: Impact Analysis and Policy Evaluation:
+
+## PS 609: Research Methodology and Design
+- Credits: 6
+- Type: Theory
+- Description: A. Research Methodology  Research: Some Basic Concepts, Terms, Purposes  Philosophical World-views/Perspectives: Ontology, Epistemology  Three Types of Research Designs: Positivist/ Quantitative, Qualitative/ Interpretive, Mixed Methods  Main Research Strategies:  Literature Review: Concepts, Purposes, and Techniques  Quality Criteria for Post-Positivist and Interpretive Research B. Designing Research (Concepts, Techniques, and Examples)  Developing and Operationalizing Research Questions  Decisions on Research Strategy and Methods  Application of Quality Criteria C. Introduction to Qualitative Methods D. Introduction to Quantitative Methods  Simple statistics  Probability  Random Variables  Probability Distributions  Sampling Distributions  Liner Regression and Ordinary Lea...
+
+## PS 610: Quantitative and Qualitative Research Methods
+- Credits: 6
+- Type: Theory
+- Description: A. Methods for Collection and Analysis of Qualitative Data  Qualitative Data: Nature and Properties  Sampling in Qualitative Research  Main Methods for Qualitative Data Collection  Data Condensation and Data Display  Methods of Qualitative Data Analysis B. Methods for Collection and Analysis of Quantitative Data  Estimation  Testing of Hypotheses  Chi Square Tests  Analysis of Variance  Conditional expectation, inference and hypothesis testing in regression, regression and causality  Difference-in-difference Estimator: Individual fixed effects, difference-in-difference, regression DD
+
+## PS 612: Science and Technology Policy -I
+- Credits: 6
+- Type: Theory
+- Description: 1. History of the emergence of the science and technology nexus: industrial revolution, world wars,military-industrial complex and the rise of related state policies in the US, Western Europe and Soviet Union.2. National organization of science and technology: formal institutional structures for science and technologyinnovation in developed countries (e.g. NSF, NIH); industrial and development policies in India and theestablishment of sector-specific government agencies (e.g. CSIR, DAE, ISRO, DST), and the role of stateplanning (planning commission) and the public sector; growth and nature of corporate Research &Development in the country in domestic and multinational companies, across various sectors; science andtechnology education and research in universities and other institutions; kno...
+
+## PS 613: Water Policy I- Introduction to Water Science and Policy
+- Credits: 6
+- Type: Theory
+- Description: - Basic Science of water - Stocks and water balance - Groundwater flow - Watersheds - GIS and other planning tools - Water Management Structures - Introduction to water policy in India - History of water development and management systems - Interdisciplinary knowledge on water systems - Water governance - Evolution of national water policy - Evolution of water law framework in India - Major debates in water policy and governance - Introduction to water and sanitation planning. Part I - The Basic Science of Water Part II - Introduction to Water Policy and Governance Framework in India Part I : The Basic Science of Water - Nature and use of water, properties and distribution, hydrological cycle, global and national availability of water, differential users and uses, sustainable water use. - ...
+
+## PS 615: Information Economy and Governance I
+- Credits: 3
+- Type: Theory
+- Description: 1. Emergence of a new global information economy: impact on state, markets & individual 2. Importance of intellectual property for an information economy 3. Data Analysis & Visualisation 4. Data Capture & Control (govt. & private)
+
+## PS 619: Health Policy: An Introduction
+- Credits: 6
+- Type: Theory
+- Description: Health and Public Policy - fundamentals. 1. What is meant by health? What qualifies as health policy? Who are the stakeholders when we talk about health policy? 2. Role of policy and law in public health and health care. 3. Social determinants of health and effect of policy in these spheres. 4. Role of health policy in development, with a focus on the sustainable development goals. Overview of existing health policies in India. * 1. History of health policy in India. 2. National immunization programmes. Pulse Polio program. 3. Tuberculosis, Leprosy and HIV. 4. Malaria and other vector borne disease eradication programmes. 5. Family planning and population control policies. 6. Policies for non-communicable diseases. 7. Nutrition and maternal and child health policies. 8. Policies concerning...
+
+## PS 621: Internship
+- Credits: 20
+- Type: Theory
+- Description: x
+
+## PS 627: Values in Public Policy: The Rhetoric of Political "Isms"
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## PS 633: Writing Policy
+- Credits: 6
+- Type: Theory
+- Description: This course has three broad aims and several core objectives:  1. To make writing in general and policy related writing in particular, become a crucial tool for their professional development. 2. To introduce students to the theory and practice of narrative analysis and situated reading as a research methodology for interpreting texts.  3. To strengthen students- ability to critique and problematise discourses through a critical reading of texts, identify gaps and raise relevant questions of discourses and themes represented within texts as works of art. This course will initiate students into the process of critique, evaluation and interpretation of pervasive discourses through the practice of textual analysis. The following are seven core objectives: Make students fluent in terms of writ...
+
+## PS 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: x
+
+## PS 792: Communication Skill -II
+- Credits: 2
+- Description: x
+
+## PS 796: MPP Dissertation -I Stage
+- Credits: 18
+- Description: MPP I stage project  credits reduced to 18 from 2024 BATCH
+
+## PS 797: MPP Dissertaion -I Stage
+- Credits: 36
+- Description: x
+
+## PS 798: MPP Dissertaion -II Stage
+- Credits: 40
+- Description: x
+
+## PS 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## PSS801: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: x
+
+## PSS802: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: x

@@ -1,0 +1,16 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CSE + KCDH Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Ajit Rajwade
+- Department: CSE + KCDH
+- Designation: Associate Professor
+- Email: ajitvr@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: Image Processing / Compressed Sensing
+- Research Interests & Innovation Focus: Image/signal processing; Compressed sensing & matrix recovery; Group testing; Probability density estimation; Graph signal processing; Image reconstruction & restoration
+- Notable Projects: Compressed sensing algorithms; COVID group testing methods; Image reconstruction systems
+- Key Tools & Platforms: Compressed sensing and image processing tools
+- Innovation Keywords: image processing, compressed sensing, group testing, signal processing, image reconstruction, matrix recovery, graph signal processing, sparse recovery
+- Profile: https://www.cse.iitb.ac.in/~ajitvr/

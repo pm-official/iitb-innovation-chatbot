@@ -1,0 +1,32 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Electrical + IEOR (Associated) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Jayakrishnan U. Nair
+- Department: Electrical + IEOR (Associated)
+- Designation: Associate Professor
+- Email: jayakrishnannair@ee.iitb.ac.in
+- Research Group: Stochastic Systems & Networks Lab
+- Primary Research Area: Queueing Theory, Communication Networks & Content Delivery
+- Research Interests & Innovation Focus: Queueing theory; Communication networks; Content delivery networks; Stochastic modeling; Performance analysis; Scheduling algorithms; Cloud computing performance
+- Notable Projects: Content delivery network analysis; Cloud performance modeling; Scheduling algorithms for data centers
+- Key Tools & Platforms: Queueing analysis tools, MATLAB, network simulation
+- Industry Collaborations: Cloud service providers; CDN companies
+- Awards: Publications in ACM SIGMETRICS, IEEE INFOCOM; Rising star in queueing theory
+- Innovation Keywords: queueing theory, content delivery, cloud computing, scheduling, stochastic modeling, performance analysis, data centers
+- Profile: https://www.ee.iitb.ac.in/web/people/jayakrishnan-u-nair/
+
+## Prof. Madhu N. Belur
+- Department: Electrical + IEOR (Associated)
+- Designation: Professor
+- Email: belur@ee.iitb.ac.in
+- Research Group: Control Theory & Systems Group
+- Primary Research Area: Behavioral Systems Theory, Dissipative Systems & Data-Driven Control
+- Research Interests & Innovation Focus: Control theory; Dissipative systems; Graph theoretic methods; Decentralized control; Behavioral theory; Fault diagnosis; Nonlinear dynamical systems; Lyapunov stability; Data-driven control
+- Notable Projects: Railway timetabling tools; FOSS solutions for control; Behavioral systems for data-driven control
+- Key Tools & Platforms: MATLAB, control system toolboxes, graph analysis tools
+- Industry Collaborations: Tata Motors (former); Railway systems
+- Awards: 1,400+ citations; Extensive publications in Automatica, Systems & Control Letters
+- Innovation Keywords: behavioral systems, dissipative systems, data-driven control, decentralized control, fault diagnosis, nonlinear dynamics
+- Profile: https://www.ee.iitb.ac.in/~belur/

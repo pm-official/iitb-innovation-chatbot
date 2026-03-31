@@ -1,0 +1,16 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ADCPS + Climate Studies Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Anjali Sharma
+- Department: ADCPS + Climate Studies
+- Designation: Assistant Professor
+- Email: anjali.sharma@iitb.ac.in
+- Primary Research Area: Climate Justice & Clean Energy
+- Research Interests & Innovation Focus: Climate justice, just transition, clean energy policy, green jobs, electric vehicles, sustainability entrepreneurship
+- Notable Projects: Climate-tech policy studies, just transition frameworks
+- Key Tools & Platforms: Policy analysis tools, statistical software
+- Industry Collaborations: Climate and energy organizations
+- Innovation Keywords: climate justice, just transition, clean energy, green jobs, EVs, sustainability
+- Profile: https://www.cps.iitb.ac.in/faculty/anjali-sharma/

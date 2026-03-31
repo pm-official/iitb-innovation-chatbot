@@ -1,0 +1,405 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Industrial Engineering and Operations Research - Course Catalog for IIT Bombay Students
+
+
+## IE 101: Introduction to IE and OR
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: The course briefly introduces the evolution of various aspects of IE and OR over the past decades, and its current and future prospects. The different broad theme areas relevant to IE OR may also be discussed.  Students will be encouraged towards problem scoping and thinking from first principles on a range of issues. Examples of modern work systems designed to provide value in manufacturing and services (large factory, bus terminus, hospital, primary school, sports facility for training and events) will be discussed. Applications to a wide range of sectors including manufacturing, health care, sports, logistics, academics, banks, etc. will be discussed.  Links to sustainability and Sustainable Development Goals  will be discussed to make students aware of challenges and opportunities
+
+## IE 102: Probability and Statistics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Descriptive Statistics & Data Handling,      - Probability: Sample spaces & events, conditional probability, Notions of independent events, Bayes Theorem, Discrete and Continuous random variables; probability mass functions, density functions, distributions, Expectations & Variance & their properties, covariance, correlation     - Conditional random variables, conditional expectations, joint and marginal distributions, laws of large numbers, Central Limit Theorem     - Some of the useful & common Distributions such as Bernoulli, Binomial, Poisson, Exponential, Uniform, Normal     - Statistical inference basics, including parameter estimation, hypothesis testing (t-test, chi-square tests)     - Introduction to time series data     - Examples and use of spreadsheets / software for computat...
+
+## IE 201: Data Analytics, AI/ML Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: - Data formatting:  csv, arff, json, xml      -  Understanding and working with time series data,      - Understanding and Working with image data , audio and video data     - Processing and understanding text data, natural language data       - Understanding and working with graph data, maps, spatio-temporal data
+
+## IE 202: Digital Enterprise Systems Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: - Bar Coding, QR Codes, RFIDs, App based data collections      - IoT systems, develop and evaluate small IoT systems, which includes: sensors to get data, embedded systems to control/ process, wireless/wired transmission, store and process data. Use of actuators, Sensors, PLC controller/Use Raspberry Pi.     - Augmented Reality / Virtual Reality
+
+## IE 203: Data Structures and Algorithms
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Object oriented programming: Concepts and use in data structures.   2. Complexity analysis: Computational complexity, asymptotic complexity, Big-O Notation, Omega and Theta Notations, Amortized complexity, Theory of P and NP complexity classes 3. Algorithm paradigms: greedy, divide-and-conquer, dynamic programming 3. Linked list, stacks, queues, priority queues, dequeues.  4. Recursion and Backtracking. Binary trees: creation, insertion, deletion, search, traversal. Balancing trees, self-adjusting trees. Heaps: Creation, insertion, deletion, search, traversal. 5. K-d trees, Multi-way trees: B-tree, Tries. 6. Sorting algorithms 7. Hashing algorithms. Dictionaries, skip lists. 8. Graphs: Graph representation, traversal, cycle detection, spanning trees, topological sort, Shortest path: Dijkst...
+
+## IE 204: Feedback and Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 302225 Brisk review of Introduction to Dynamical Systems and Linear Dynamical Systems (Motivation through examples in business/ industrial settings); Modeling linear dynamical systems using ODEs; Solution characterization, solution methods for first, second, higher order ODEs; Characterizing higher order ODEs as linear systems    302225 Motivating examples of dynamical systems with feedback    302225 Laplace transforms. Transfer functions: Block diagrams, poles, zeros, delays    302225 Stability, regulation, tracking and Controllability of dynamical systems.    302225 Proportional, Integral, Derivative (PID) control     302225 Root locus design method: Perspective, procedure finding root locus, design using lead, lag, notch compensation     302225 Frequency-Response Design method: Frequenc...
+
+## IE 205: Industrial Engineering Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Lab sessions will allow students to explore     - Various Manufacturing technologies, Making products individually vs. assembly line; Manufacturing Flows, Blocking & Bottleneck;      - Activity charts and visualizing and quantifying flows of people, material and information; Value Stream Mapping, in industrial and service systems     - Understanding processes and measurements using Time & Motion Study;      - Understand Material Handling Systems, Facility Layouts, Warehousing; Designing queues     - Factory /Warehouse/ eRetailers Visits may also be included
+
+## IE 206: Introduction to Artificial Intelligence and Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Artificial agents - nature and structure     - Search based problem-solving         ◦ Uninformed search and heuristic search         ◦ Local search         ◦ Adversarial search and constraint satisfaction     - Propositional logic, first order logic and knowledge representation using semantic nets, taxonomy trees     - Uncertain knowledge representation: Bayesian nets, causal nets, inference, temporal models like HMM, dynamic Bayesian nets     - Planning: Heuristics, Hierarchical planning, planning in uncertain domains, scheduling     - Decision networks, sequential decision making, multi-agent decision making      - Learning from examples: regression and classification     - Deep learning models for computer vision and NLP     - Basics of Reinforcement learning      - Robotics - percept...
+
+## IE 207: Industrial Systems
+- Credits: 6
+- Type: Theory
+
+## IE 208: Nonlinear and Discrete Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Formulating Nonlinear Optimization Problems. Examples from Warehouse location, EOQ, Least Squares, Markowitz Model, Matrix Completion, etc. Linear Program as unconstrained nonlinear programs.     - Optimality Conditions. First and Second order optimality conditions for constrained and unconstrained problems. Necessity vs Sufficiency.     - Gradient Descent and Newton-s Method. Basic introduction to these algorithms and illustration of some properties on examples. Discuss convergence without proofs.     - Convex Optimization Problems. How are convex optimization problems different from nonconvex optimization problems? Lagrangian duality.      - Formulating Discrete Optimization Problems. Knapsack problems, Facility Location, Traveling Salesman Problem, timetabling, scheduling, etc. Modeli...
+
+## IE 209: Linear Optimization and Network Flows
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Formulating Linear Optimization Models. Examples from production planning, scheduling, investment analysis, blending products, ridesharing, sports, healthcare, etc. Modeling problems with piecewise linear convex functions.      - Solving Linear Optimization Problems. Extreme point optimality. Basic feasible solutions and the standard-form LP.  The simplex method.     - Linear Optimization Software. Solving linear programming problems using software tools like PuLP. Extracting useful information from the solutions.      - Linear Optimization Duality. How to get bounds on the objective function? The dual Linear Program. Relationship between primal and dual linear programs. Complementary slackness and sensitivity analysis.      - Network Flow Problems. Linear Programming formulations of Sho...
+
+## IE 210: Optimization Modeling LAB
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Programming in AMPL/Julia/Python to computationally model optimization problems. -      Identification of metrics of performance, certificates of infeasibility/optimality through the solver logs using various solvers (such as CPLEX, GUROBI, PuLP, MINOTAUR, Mosek, etc). -      Comparison of different formulations and contrasting their computational performance viz - viz facility location, Traveling Salesman Problem, Scheduling etc. Identifying why certain formulations are better computationally. -      Implementation of fundamental branching rules, cutting planes in branch and cut procedures for discrete optimization algorithms. -      Introduction to Polymake/PORTA to get some hands-on perspective on polyhedral geometry.     - Use of Meta-heuristics for solving optimisation models     - Go...
+
+## IE 211: Programming & Computing Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: - Introduction to problem solving with computers using a modern language such as Python, R, SPSS, SciLab, or Julia, etc.     - Labs will cover Implementation of algorithms in various settings: searching, sorting, matching, numerical computing, modeling graphs and networks. Implementing iterative and recursive algorithms. Calling other programs through libraries and system calls, Testing and debugging programs; Measuring performance of programs, Notions of algorithmic complexity.
+
+## IE 501: Optimization Models
+- Credits: 6
+- Type: Theory
+- Description: Modeling of allocation and control problems in industry andsocial systems. Framework and overview of optimization withexamples of continuous and discrete optimization,unconstrained and constrained problems. Single stage and multistage models.Formulations and equivalences. Examples from science,engineering and business.Linear programming. Geometry and algebra of the simplexmethod. Duality & sensitivity.Combinatorial optimization problems with emphasis onapplications, notion of large feasible spaces and neighborhoodsolutions, representation of solution space, search tree, searchtechniques, branch and bound method.Examples of mixed-integer programming models. Use of binaryvariables in constraint modeling.Decision problems involving network flows, assignmentmodels, transportation models, multi...
+
+## IE 502: Probabilistic Models
+- Credits: 6
+- Type: Theory
+- Description: Models and techniques to deal with randomness that underlie many industrial and social systems. It includes discussions on models, their properties and their applications.  Review of basic probability concepts: conditional probability and random variables.  Stochastic processes, sample paths, finite dimensional distribution functions. Time averages and Laws of large numbers.  Finite state Markov chains, Chapman-Kolmogorov equations, limiting state probabilities, Stationary distributions.  Memory-less property of exponential random variables and related models & examples. Poisson process and its applications. Renewal processes with examples.  Elementary Queueing theory: steady state probabilities, Little-s Law. Exponential models with examples. Applications of open and closed queueing syste...
+
+## IE 503: Operations Analysis
+- Credits: 6
+- Type: Theory
+- Description: The aim of the course is to familiarize students with supply chain system and issues therein; and equip with techniques to model some specific operational issues in such systems. Part 1: Stages of manufacturing supply chain and value addition. Concepts of supply, storage, production, warehousing and transport. Supply chain terminology. Structure of supply chains, decisions and decision levels in supply chain. Overview of supply chain operations & costs: location, procurement, production, inventory, transportation, and information technology. Material flow systems: push, pull, flow shop, job shop, cell, etc Part 2: Quantitative models in supply chain systems including forecasting, production planning, scheduling and inventory models. Basic forecasting models. Product structure representatio...
+
+## IE 507: Modeling & Computation Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Introduction to software tools for modeling and data analysis Exposure to computational software for optimization. Use of some software tools such as AMPL/ CPLEX/ Spreadsheet Solver/ LINDO/ LINGO/ Neos Solver/ MATLAB for solving and analyzing optimization problems. Building models, representing input data, results, interpretation & sensitivity analysis. Exposure to statistical packages for data analysis. Use of R/ SAS/ SPSS/ Excel-spreadsheet. Summarizing data with descriptive statistics, computing statistics, statistical estimation & tests Notion of simulation and effect of randomness. Introduction to Monte Carlo simulation. Simulation of reliability, inventory,queueing systems and basic Markov models, computing performance measures.
+
+## IE 509: Computer Programming Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to problem solving with computers using a modern language such as Java or C/C++ or Python. ● Introduction to programming basics: conditional statements, loops, simple data structures, inputs & outputs. ● Creation and manipulation of data structures: arrays, lists, etc. File reading and writing, working with data. Dynamic aspects of operations on data, analysis of algorithms. User interface and interactions. ● Implementation of various algorithms, including searching, sorting, computational analysis, graphs & networks, and recursive algorithms ● Testing and Debugging, Notions of algorithmic complexity
+
+## IE 601: Optimization Techniques
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Aim of course: To develop understanding of theory and computational schemes for optimization problems . Major Contents: Examples of Optimization problems, mainly from decision making viewpoint. A brisk look at linear programming: Fundamental theorem of linear programming, Degenerate solutions, Simplex based methods, Cycling, Duality, Complementary slackness conditions. Non-linear programming: First and second order conditions. Iterative methods and associated issues. Line search methods: Stationarity of limit points of steepest descent, successive step-size reduction algorithms, etc. Hessian based algorithms: Newton, Conjugate directions and Quasi-Newton methods. Constrained optimization problems: Lagrange variables, Karush-Kuhn-Tucker conditions, Regular points, Sensitivity analysis. Quad...
+
+## IE 602: Service Engineering and Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Strategic service vision, service concepts and strategy, Understanding services, focus on customers, customer service management; Design and delivery of the services, Managing capacity and demand, Service quality and productivity, Globalization of services, Service Network; IT Enabled services, Design and operation of systems for eBusiness ;  Business Process Management - process analysis, reengineering, process measurement and effectiveness;  Management science application in services- Applications of inventory models, location analysis, queuing theory, operations scheduling, economic analysis, decision models, utility theory, simulation modeling, performance evaluation with data envelopment analysis, AHP and productivity models, evaluation of the dynamics of enablers, inhibitors and resu...
+
+## IE 603: Discrete Event System Simulation
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Concepts in discrete event system simulation; approaches based on event scheduling, process interaction and activity scanning. Examples of systems such as job shop scheduling & extensions, queuing systems, inventory systems. Use of linked lists in implementing some common data structures encountered in simulation. Simulation in C. Concepts of object oriented simulation. Simulation packages.  Overview of basic concepts from probability and statistics concerning random variables, correlation, estimation, confidence intervals, hypothesis testing. Generation and testing of random numbers. Generation of random variates, random vectors, correlated random variates and stochastic processes. Input modeling; useful probability distributions; hypothesizing families of distributions, estimation of par...
+
+## IE 604: Systems Dynamics Modeling & Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 605: Engineering Statistics
+- Credits: 8
+- Type: Theory
+- Description: The course provides a strong foundation in theory and methods of modeling randomness and data analysis in engineering applications.Specific topics include, review of calculus-based probability concepts, common distributions, expectation, moment generating functions; sampling statistics, order statistics, properties of sample mean, Central Limit Theorem. Sampling from a Normal distribution; Parameter estimation, maximum likelihood estimators, interval estimates; bias, efficiency and consistency of point estimators; sampling plans, sequential tests, Hypothesis testing, common tests concerning means, variances, goodness-of-fit, likelihood ratio test, Neyman-Pearson lemma; Regression models, design of experiments.
+
+## IE 606: Analysis & Control of Queues
+- Credits: 6
+- Type: Theory
+- Description: 1. Review: Conditional expectation, Convergence of Random Variables.2. Martingales : Super and Sub martingales, Doob302222s inequalities, Martingale convergence theo-   rems3. Markov chains and stability (general state space, e.g., Rn ) : Introduction, Psi irreducibility,   Small sets, Transience and recurrence, Drift criterion, Ergodicity - Geometric and Uniform.   Existence and continuity of stationary distribution for a decision feedback equalizer.4. Brownian motion : Definition, Properties (continuous paths, nowhere differentiability) Hit-   ting times (one dimensional results), Functional Central Limit theorem.5. Controlled Queueing systems : Various models approximating the controlled queueing systems   (G/G/1): Renewal processes, Random Walks, Brownian Motion and Fluid models   Sche...
+
+## IE 607: Polyhedra and Combinatorial Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: IE 601
+- Description: 1. Elements of Polyhedral Theory. Introduction to polyhedra, faces and the face-lattice, size issues    such as facet and vertex complexity. Polarity and the equivalence of (strong/weak) optimization and    (strong/weak) separation for polyhedra. 2. Properties of Integral Polyhedra. Total Dual Integrality (TDI), Box TDI, Hilbert Bases and mini-    mal TDI systems, behaviour of TDI systems under transformations, integer versions of Carath ́odory-s                                                                                                e    Theorem, recognizing integrality. Size estimates: facet and vertex complexity, number of extreme    points. 3. Unimodularity and Total Unimodularity. Total unimodularity and integral polyhedra, exact    characterization of unimodular matrices, balan...
+
+## IE 609: Mathematical Optimisation Techniques
+- Credits: 6
+- Type: Theory
+- Description: Revised Syllabus: Aim of course: To develop understanding of theory and computational schemes for optimization problems . Major Contents: Examples of Optimization problems, mainly from decision making viewpoint. A brisk look at linear programming: Fundamental theorem of linear programming, Degenerate solutions, Simplex based methods, Cycling, Duality, Complementary slackness conditions. Non-linear programming: First and second order conditions. Iterative methods and associated issues. Line search methods: Stationarity of limit points of steepest descent, successive step-size reduction algorithms, etc. Hessian based algorithms: Newton, Conjugate directions and Quasi-Newton methods. Constrained optimization problems: Lagrange variables, Karush-Kuhn-Tucker conditions, Regular points, Sensitiv...
+
+## IE 610: Networks, Games and Algorithms
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0
+- Description: Overview of basic game theory and networking; Introductory networking games, Routing games, network formation games, games for load balancing, game theoretic view of resource allocation, and facility location problems,  utility maximization in networks and game theoretic view; games for peer-to-peer systems.
+
+## IE 612: Introduction to Financial Engineering
+- Credits: 6
+- Type: Theory
+- Description: Portfolio optimization: Markowitz model; Two and one fund theorems; mutual funds. Capital Asset Pricing model; Security market line.  Arbitrage; Hedging; Pricing. Contingent claims; Forward and futures contracts. European and American options; Asian and other path dependent options. One and multi-period binomial models; Finite state models. Equivalent martingale measures; Completeness of markets; Fundamental asset pricing theorems; Option pricing. Black-Scholes option pricing formula.
+
+## IE 613: Online Learning
+- Credits: 6
+- Type: Theory
+- Description: 1. Brief introduction to batch learning methods and algorithms 2.Introduction to online learning methods: adversarial and stochastic settings 3.Convex optimization methods for online learning algorithms 4.Online learning with expert feedback, bandit feedback, partial monitoring: algorithms and their analysis 5.Online learning with side information (known and unknown feedback structure)
+
+## IE 614: Linear Systems
+- Credits: 6
+- Type: Theory
+- Description: Revised Syllabus: Aim of course: To familiarize students with models and theory of linear dynamical systems. Major Contents: ● Review of linear algebra: Systems of linear equations, Gaussian elimination, inverse of matrix and transpose. ● Review of Fields, Vector Spaces and Linear Transformations. Review of concepts of linear independence, basis, and fundamental subspaces associated with matrices and linear transformations, rank-nullity theorem, duality. ● Eigenvalues and eigenvectors of matrices and linear transformations, characteristic polynomials, Cayley-Hamilton Theorem, diagonalization. ● Concepts of dynamic systems and linear time invariant systems. Representation of linear dynamical systems using ordinary differential equations (ODEs) and linearization of non-linear dynamical syste...
+
+## IE 615: Data Analytics in Operations Research
+- Credits: 6
+- Type: Theory
+- Description: Supervised learning methods:regression,classification, support vector methods, boosting decision trees, random forest, model selection and assessment:feature engineering, cross validation methods. Unsupervised learning:-K-means clustering,spectral methods, EM algorithm. Dimensionally reduction and data visulaization techniques, graphical models.  Time series analysis. Examples from domain areas like value chains, transport, communication networkls and health-care.
+
+## IE 616: Decision Analysis and Game Theory
+- Credits: 6
+- Type: Theory
+- Description: Decision making techniques for systems operating under uncertainty.  Multi criteria decision models, Pareto optimality, Goal programming with examples.  Basic concepts of decision theory. Decision under risk with examples: Probability and Bayesian Inference, von-Neumann Morgenstern expected utility theorem, Interpretations of probability; Utility, paradoxes of utility theory, Newcomb`s problem.  Dynamic programming, finite state action models, backward induction algorithm, and applications.  Multi-agent models and Game Theory, with applications: Prisoner`s Dilemma, zero-sum and non-zero-sum games, static and dynamic games, strategic and extensive form games, Nash Equilibrium, Backward induction, repeated games, games with incomplete information, Bayesian Nash equilibrium, Evolutionary game...
+
+## IE 618: Advanced Stochastic Processes for Operations Research
+- Credits: 6
+- Type: Theory
+- Description: 1. Review: Construction of Probability Measure, Integration, Convergence theorems, Law of large numbers and Central limit theorem. Lp spaces and Conditional expectation 2. Martingales : Super and Sub martingales, Doob`s inequalities, Martingale convergence theo- rems 3. Analysis of M/G/1 and GI/M/1 queues. Derivation of Little`s law and PASTA. 4. Markov chains and stability (general state space, e.g., Rn) : Introduction,  -irreducibility, Small sets, Transience and recurrence. Drift criterion, SLLN, CLT. 5. Random Walk Models, Analysis of G/G/1 queues using Ladder chains.
+
+## IE 621: Probability and Stochastic Processes I
+- Credits: 6
+- Type: Theory
+- Description: Models and techniques to deal with randomness that underlie many industrial and social systems. Emphasis on models, their properties and their applications (rather than proofs). ● Introduction to Probability: conditional probability, independence, discrete random variables, expectation, moments, random vectors, joint and marginal distributions, continuous random variables, expectation, moments, joint and marginal densities, laws of large numbers. ● Elementary stochastic processes: random walks, Markov chains: first step analysis, state classifications, invariant distributions, Finite state Markov chains, Chapman-Kolmogorov equations, limiting state probabilities, Stationary distributions. Memory-less property of exponential random variables and related models & examples, Poisson processes....
+
+## IE 622: Probability and Stochastic Processes II
+- Credits: 6
+- Type: Theory
+- Description: Apart from their intrinsic role in the theory of stochastic processes, Markov chains and regenerative processes form an important set of tools for analysis and optimization problems arising in many decision models. Measure theoretic ideas of probability, expectation, convergence of random variables, limit theorems. Discrete time countable state Markov chains, hitting times, stopping times and strong Markov property. Recurrence and transience. Invariant measures for irreducible chains, ergodic theorem. Convergence in variation and coupling lemma. Absorption probabilities and criterion for transience. Discrete time renewal theory, elementary renewal theorem and renewal reward theorem. Regenerative processes and their time averages. Jump processes; jump chain and sojourn time construction of ...
+
+## IE 630: Simulation Modeling and Analysis
+- Credits: 6
+- Type: Theory
+- Description: Overview of basic concepts from probability and statistics concerning random variables, correlation, estimation, confidence intervals, hypothesis testing. Fundamental concepts of System Simulation: Discrete event simulation, Monte Carlo simulation Generation and testing of random numbers. Generation of random variates, random vectors, correlated random variates and stochastic processes. Input modeling; useful probability distributions; hypothesizing families of distributions, estimation of parameters, testing goodness of fit. Building Monte Carlo / Discrete event simulation models of various processes and systems. Use of general purpose languages such as Python/R/C++ and/or packages such as Anylogic, Flexsim, etc for to build simulation models. Simulation Output data analysis for a single ...
+
+## IE 635: Facilities Planning
+- Credits: 6
+- Type: Laboratory
+- Description: Objectives in location and layout of facilities. Planning for production flow systems. Activity relationships.  Personnel and organizational factors; Developing alternatives of layout for facilities for particular functions; Manufacturing, Receiving and shipping, Storage and warehousing systems. Principles of factory layout.   Quantitative and computer-aided approaches to facilities layout. Constructive and improvement procedures.   Interaction of layout and flow system design philosophies; Analysis of different types of assembly lines. Flexibility in assembly lines and flow lines, Automation and computer aids in warehousing operations.   Introduction to Group Technology and Cellular Manufacturing Location of multiple facilities ,Expansion of facilities; Strategic considerations and curren...
+
+## IE 641: Network Flow Models and Applications
+- Credits: 6
+- Type: Theory
+- Description: Multi-terminal Maximal flows, Multi- terminal shortest paths. Multi commodity flows. Synthesis of networks. The general minimal cost flow problem, Minimal cost calculation,Network Simplex Method.Matching problems and the bottleneck assignment problem.Application to vehicle routing problems. Determination of size and schedules for transportation fleets.Synchronisation of signalised interactions. Project Scheduling with resource constraints,Network flows in the economy, Input -output analysis.
+
+## IE 642: Engineering Economic Analysis
+- Credits: 6
+- Type: Theory
+- Description: Cost concepts, job order and process costing, Standard costs and variances. Cost volume profit relationships. Costing of joint products and by conducts. Profit measurements. Financial statement analysis. Capital investment planning, perfect ranking using present worth, internal rate of return and MAPI urgency rating. Replacement analysis. Financing of manufacturing enterprises. Cost of capital. Capital budgeting; risk and uncertainty, application of linear programming. Full and variable cost pricing. Transfer pricing. Income tax and engineering economy.
+
+## IE 643: Deep Learning - Theory and Practice
+- Credits: 6
+- Type: Theory
+- Description: The Perceptron, Feed-forward networks and Multi-layer perceptron, Memory based networks like Boltzmann Machines, Hopfield Networks. State based networks like Recurrent Neural Networks, Long Short Term Memory Networks. Convolutional Neural Networks, Bidirectional networks, Concept based networks used for transfer learning, Structural Networks for structured prediction, Attention based networks, Auto encoders for dimension reduction and embedding, Generative Adversarial Networks, Deep Gaussian Processes, Deep Bayesian nets, Deep Search Models, Deep Reinforcement Learning, Deep Neural Recommenders. Non-convex Optimization tools for Deep Networks. Theoretical tools to describe Convolutional Neural Networks and Recurrent Neural Networks. Learning theory for Deep Neural Networks. Several Applica...
+
+## IE 645: Industrial Scheduling
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Importance of scheduling in implementation of production planning. Common measures of performance. Exact solutions in some one/two processor serial systems. Heuristics in flow shop and job shop scheduling problems. Scheduling of projects with limited resources and in long cycle job shops. Scheduling in dynamic flow systems. Use of priority disciplines. Scheduling balancing and other aspects of design in mixed model assembly lines and flow lines. Scheduling in process industries with no waiting or limited work in process. parallel processor, bin packing heuristics and applications. Group technology as decomposition of job shops. Vehicles scheduling problems.  Personal scheduling.   Case Studies in Indian Industries.
+
+## IE 646: Quality Control & Reliability
+- Credits: 6
+- Type: Theory
+- Description: Basic Concepts in Assurance Technology, Terminilogies, Definitions, Approaches and Important issues.  Product Quality Control : Acceptance Sampling Methods-Single Multiple and Sequential Sampling Plans; Recent developments in inspection methods.  Process Evaluation and Control by Control Charts: Various control charts including CUSUM charts and Multivariate charts.  Process Evaluation and Control by Designs of Experiment: Various basic designs; Special Methods like EVOP, RSM and ROBUST Designs  Process Capability Studies : Use of  control charts, Various indices, SPAN PLAN METHOD and use of Nomographs  Total Quality Management perspective, methodologies and procedures  Road map to TQM: Quality Function Deployment, ISO 9000, Quality Cost System, KAIZEN, Quality Circles, Quality Policy Deplo...
+
+## IE 647: Applied Integer Programming
+- Credits: 6
+- Type: Theory
+- Prerequisite: IM 601
+- Description: Examples of integer programmes; capital budgeting, multicommodity, distribution, airline crew scheduling, truck delivery problems. cutting plane methods, Dual fractional integer and mixed programming. Dual and primal all integer algorithms. Branch and bound methods, surrogate constraints, Recursions for the Knapsack problems, a periodic property of solutions; group knapsack problem. Set covering and set partitioning problem.
+
+## IE 648: Quantitative Analysis in Finance and Marketing
+- Credits: 6
+- Type: Theory
+- Description: Objectives of financial management. Risk aversion, utility and gambling. Financial analysis and planning, balance sheet, income statement funds flow analysis, financial ratio analysis, discriminant analysis, limitations of ratio analysis, cost-volume-profit analysis; operation and financial leverages.  Investment decision under certainty and uncertainty. Resolution of inconsistency between NPV and IRR as ranking criteria.   Portfolio selection and capital budgeting. Analysis of selected investment decisions.   Working capital management cash, marketable securities, receivables, inventories. Short term financing.   Cost of capital under certainty/uncertainty and perfect capital market/capital rationing, cost of debt, prefereed stock, convertibles, common equity under static and growth condi...
+
+## IE 650: Modelling and Optimisation in Flexible Manufacturing System
+- Credits: 6
+- Type: Theory
+- Prerequisite: IM 601
+- Description: Overview of design, planning, scheduling and control decision problems of flexible manufacturing systems; party type selection, grouping of machines, parts production ratios, allocation of pallets and fixtures, and machine loading and part routing, parts input strategy, real-time scheduling, hierarchy in solution procedures.   Methodologies for analysis/ optimization and their range of applications. Open and closed queuing networks, estimation of average production rate, queue lengths and machine utilizations, Mean value Analysis (MVA), mathematical programming for machine loading and part routing subject to practical constraints, concepts for optimizing flow-control and route-control, scheduling techniques for a flexible manufacturing line, FMS scheduling with dynamic features such as loo...
+
+## IE 651: Inventory Control and Management Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Production flow processes; Fundamental types of systems for efficient inventory management in large integrated production flow systems; PUSH/feed forward and PULL/feedback control elements incorporated in prevalent systems in practice; MRP, MRP II, JIT Kanban, OPT, Hierarchical Planning Systems; Hybrids of push & pull systems; issues of decentralization of control; role of information and data base systems; effecting integration in supply chains.  Determinants of Lead Times in batch manufacturing; impact of setup times, batch sizes and uncertainties in demands, shop yields and material supplies; controlling bottlenecks and delays through capacity allocation policies.  Effectiveness of MRP & MRP II systems; alternatives for Master Production Scheduling processes, ordering policies , policie...
+
+## IE 684: IEOR Lab
+- Credits: 5
+- Type: Laboratory
+- Prerequisite: nil
+- Description: Revised Syllabus: Aim of course: To familiarize students with implementation of optimization algorithms, combinatorial optimization problems, algorithms for statistics, machine learning and deep learning, algorithms for sampling, simulation, Bayesian inference, and other dynamical, stochastic models, using programming languages like Python, R and Matlab. The course will involve 3 hours of Lab practice along with 1 hour of theory per week. The course will cover a subset of the major topics listed below. Some examples are listed for each of the topics. The theory sessions would involve discussions related to some of the examples given under the listed topics. The Lab practice sessions will involve implementation of models discussed during the theory sessions. Major Contents: ● Theory and Imp...
+
+## IE 685: MSc.Phd. Research Project I
+- Credits: 15
+- Type: Project
+- Description: MSc.Phd. Research Project I
+
+## IE 686: MSc.Phd. Research Project II
+- Credits: 30
+- Type: Project
+- Description: MSc.Phd. Research Project II
+
+## IE 688: R & D Project
+- Credits: 6
+- Type: Project
+- Description: The scope of project work will be defined by the supervisors.
+
+## IE 692: MSc-PhD Project II
+- Credits: 10
+- Type: Project
+
+## IE 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## IE 695: MSc-PhD Project III
+- Credits: 24
+- Type: Project
+
+## IE 702: Neural Nets, Fuzzy Systems and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Relevance and importance of neural nets, fuzzy systems and combination of such systems in certain problem areas of IE & OR, involving combinatorial optimization, systems modeling , approximations, prediction,  robust control and learning.   Artificial neurons; network architectures; learning processes; single and multilayer perceptrons; back propagation learning; radial basis function networks; Hopfield models, bi-directional associative memories and combinatorial optimization; Boltzmann machines; Mean Field theory; temporal processing using feed forward networks; dynamically driven recurrent networks; principal components analysis; self-organising maps; ART type models; Neuro-dynamic  programing and reinforcement learning.   Fuzzy sets; fuzzy rules and fuzzy reasoning; temporal fuzzy logi...
+
+## IE 703: Introduction to Knowledge Based Systems and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Concepts of knowledge and learning in intelligent agents; Structure of agents; Knowledge representation paradigms; Inference and decision systems; Production systems. Problem solving by search; Graph search strategies; Local search; Constraint satisfaction problems and strategies.  Agents based on professional logic; Inference in first order logic; Forward chaining and backward chaining strategies; Resolution; Inference in Prolog; Constraint Logic; Programming; Adversarial search.  Representation of actions, events and time; Situation calculus; Semantic networks; Planning with state space search; Partial Order Planning; Planning Graphs; Conditional planning; Multi-agent planning; Large constraint directed scheduling systems; Reactive scheduling systems  Inference in Bayesian networks; Othe...
+
+## IE 704: Selected Topics in A.I. in Operations Research
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 705: Quantitative Methods in Project Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 706: Pricing & Revenue Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 707: Multi-player Decision Making Models
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 708: Markov Decision Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## IE 709: IEOR for Health Care
+- Credits: 6
+- Type: Theory
+- Description: 1. Scheduling appointments of patients with primary health care providers and specialists2. Resource planning for equipment, rooms and sta0133. Capacity planning and inventory management in health care supply chains4. Planning and managing emergency services5. Designing and operating organ exchanges6. Modeling spread of epidemics and planning response7. Mathematical modeling of biological systems8. Design of optimal radiotherapy and other treatments9. Financial planning and pricing in health care10. Economics of community health care11. Designing experiments and statistical analysis of clinical data12. Managing health care during calamities
+
+## IE 710: OR Applications in Infrastructural and Service Sectors
+- Credits: 6
+- Type: Theory
+- Description: The course will take up applications from live problem areas in infrastructural and service sectors. Representative applications will be considered in areas such as transport, energy, and telecom . . The emphasis  will be on the way OR techniques are used in decision making.   The applications will be at two levels: Strategic decisions of long term significance such as design of networks for power distribution or transport will be considered. The second area is in operations management at the tactical level, where applications such as routing, scheduling, time tabling and allocation will be discussed.   Typical problem areas are rail network design and analysis, section scheduling on railway sections, time tabling for vehicles and crew in rail and road operations, analysis of telecom netwo...
+
+## IE 712: Selected Application of Stochastic Models
+- Credits: 6
+- Type: Theory
+- Prerequisite: IE 611
+- Description: The aim of this course is to look at some models that arise in decision making in an uncertain environment. Models are for analysis, or optimization or both. We also emphasize computational tools. A possible set of topics are as below.  Markov decision processes: finite and infinite horizon models. Optimality of Markov policies. Computational aspects. Examples from inventory systems, resource allocation, etc.  Models from financial engineering: some types of derivatives. Black-Scholes model and pricing of European and American options.  Point processes and their use in queuing models. Stability of queuing models. Little"s law and its extensions. Advanced queuing models in discrete and continuous time.  Some classes of stochastic scheduling rules; minimizing mean sum of completion times on ...
+
+## IE 714: Quantitative Models for Supply Chain Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: Y
+- Description: Supply chain management involves a number of decisions that benefit by quantitative techniques of analysis and design. The course will take up a few of these to explore modeling, computation and IT-enabled implementation of solutions in some areas of Supply Chain Management. The application areas include material flow management across the supply chain, value management and analysis of total supply chain costs, robust design of supply chains, co-ordination of supply chain decisions and handling of uncertainties in supply chain management. The emphasis will be on modeling, analysis and implementation issues, including a few case studies, but the relevant techniques will be covered as required.
+
+## IE 716: Integer Programming:  Theory and Computations
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: 1.      Effective modelling in integer programming: Modelling with integer variables: correct formulations; optimality, relaxation, bounds, search, branch-and-bound; choices in modelling: strong formulations, extended formulations, preprocessing of formulations. 2.      Polyhedra and integer programming: Describing polyhedra with extreme points and extreme rays; affine independence, dimensions and faces of polyhedra; facets of polyhedra; projection of polyhedra onto subspaces; the polar of polyhedra; equivalence of separation and optimization for polyhedra; connections between polyhedra and integer programming. 3.      Relaxation and decomposition methods for large{scale problems: Lagrangian relaxation and subgradient optimization; Dantzig-Wolfe decomposition and column generation; Benders...
+
+## IE 718: Networks, Games and Algorithms
+- Credits: 6
+- Type: Theory
+
+## IE 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates after Listening, Podcasts and Webcasts 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling 7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 8.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## IE 797: I Stage Project
+- Credits: 48
+- Prerequisite: 0
+
+## IE 798: II Stage Project
+- Credits: 42
+- Prerequisite: 0
+
+## IE 802: Topics in Industrial Engineering and Operations Research
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: The details of the course offered in the current semester can be found at website http://www.ieor.iitb.ac.in/acad/courses/ie802 .
+
+## IE 803: Advanced Stochastic Simulation
+- Credits: 6
+- Type: Theory
+- Description: Topics include: Advanced random number generation/testing, advanced input/output analysis, bootstrapping, advanced variance reduction methods, importance sampling, optimal computing budget allocation, rare-event simulation, Agent Based Simulation, Monte Carlo Markov Chains, System Dynamics methodology, distributed & parallel simulation, validation and verification, meta modeling, design of simulation experiments, stochastic optimization using simulation, and other state-of-the-art techniques and methods in simulation.
+
+## IE 804: Convex Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: x
+
+## IE 805: Advanced Topics in Discrete Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: IE 716
+- Description: 1. Lenstra302222s algorithm. Lattices and bases for lattices, unimodular transformations, shortest vector    problems, reduced basis of a lattice, Hermite normal form and the solution to linear diophantine  equations, the LLL algorithm for basis reduction, Lenstra302222s algorithm for integer programming.2. Modern approaches to cutting planes for integer programs. Maximal lattice-free convex setsof vector spaces, Minkowski functionals of convex sets, corner polyhedra and intersection cuts, cutting planes from multiple rows of the simplex tableau. The lattice-free closure of a rational polyhedron, and finite convergence to the integer hull.3. Symmetry in Integer Programming. Detecting and breaking symmetries, branching rules to dealwith symmetry, structure of the permutahedron.4. Extended f...
+
+## IE 806: Game Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: IE 601
+- Description: Noncooperative game theory focusses on equilibrium in games, especially Nash equilibrium and itsrefinements. It does not inform us when and why we might expect that the observed play in a gamewill correspond to one of these equilibria. In this course, we study these aspects. When a game isplayed again and again, equilibrium arises as the long-run outcome of a process. In this process,the players involved may not be fully rational. Thus this course aims to study various dynamicmechanisms whose long-run behavior converges to the equilibrium. The following are the topics tobe covered in this course.    302225 Refinements of Nash equilibrium    302225 Differential equations, inclusions and stochastic approximations    302225 Fictitious Play: Discrete time, continuous time and best reply dynami...
+
+## IE 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## IES601: Seminar
+- Credits: 5
+- Type: Seminar

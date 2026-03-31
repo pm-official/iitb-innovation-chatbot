@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Chemical Engineering + Climate Studies Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Chandra Venkataraman
+- Department: Chemical Engineering + Climate Studies
+- Designation: Professor
+- Email: chandra@che.iitb.ac.in
+- Research Group: Aerosol Science & Engineering Lab
+- Primary Research Area: Aerosol Science, Air Quality & Climate
+- Research Interests & Innovation Focus: Aerosol science, source characterization of emissions, air quality modelling, climate effects of aerosols, carbonaceous aerosol measurements, cookstove emissions
+- Notable Projects: National Carbonaceous Aerosol Programme, cookstove emission characterization
+- Key Tools & Platforms: SMPS, AMS, Aethalometer, Python, atmospheric models (WRF-Chem)
+- Industry Collaborations: Environmental agencies, clean energy organizations
+- Awards: Shanti Swarup Bhatnagar nominee
+- Innovation Keywords: aerosol science, air quality, climate, emissions, carbonaceous aerosols, cookstoves
+- Profile: https://www.che.iitb.ac.in/faculty/chandra-venkataraman

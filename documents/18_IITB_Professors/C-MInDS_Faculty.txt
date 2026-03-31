@@ -1,0 +1,87 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# C-MInDS Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Arjun Bhagoji
+- Department: C-MInDS
+- Designation: Assistant Professor
+- Email: arjunbhagoji@iitb.ac.in
+- Research Group: C-MInDS; IRoHS Lab; Trust Lab
+- Primary Research Area: Adversarial ML / AI Security
+- Research Interests & Innovation Focus: Adversarial ML & robustness; Federated learning security (Byzantine attacks, poisoning); Black-box adversarial attacks; LLM red-teaming & safety evaluation; Content moderation auditing; DNS censorship & network security; Optimal transport for robustness bounds
+- Notable Projects: LLM red-teaming (SBI Foundation); Collaborative fraud detection (SBI Foundation); Content moderation audit across 43+ platforms; Model versioning for adversarial robustness; ARG MATRICS Grant (theoretical foundations of robust ML)
+- Key Tools & Platforms: ml_defense, log-loss-lower-bounds, nn_robust_attacks; Contributor to cleverhans (adversarial examples library)
+- Industry Collaborations: Former Research Scientist at Univ of Chicago; SBI Foundation grants; PhD from Princeton (Prateek Mittal); Dual Degree IIT Madras
+- Awards: NeurIPS 2023 Spotlight; ACL 2025 Top 5% Highlight; Bell Labs Prize Finalist 2017; Siemens FutureMakers Fellowship 2018-19; SEAS Award for Excellence (Princeton); Rising Star in Data Science 2021
+- Innovation Keywords: adversarial ML, AI security, robustness, federated learning attacks, LLM safety, red-teaming, content moderation, fraud detection, poisoning attacks, Byzantine, network security
+- Profile: https://arjunbhagoji.github.io/
+
+## Prof. D. Manjunath
+- Department: C-MInDS
+- Designation: Professor; Head of C-MInDS; Dept of EE
+- Email: dmanju@ee.iitb.ac.in
+- Research Group: C-MInDS; EE Dept; Networking & Queueing Lab
+- Primary Research Area: Communication Networks / Stochastic Modeling
+- Research Interests & Innovation Focus: Communication networks & network economics; Queueing theory & stochastic systems; Random geometric graphs for wireless networks; Distributed computation in sensor networks; Resource allocation & self-tuning mechanisms; Internet pricing & QoS; Optical network design; Performance modeling & monitoring
+- Notable Projects: Distributed optimization for network resource provisioning; Stochastic coverage processes; Internet traffic engineering; Former Head of IIT Bombay Computer Centre (IT infrastructure)
+- Industry Collaborations: GE Corporate R&D (summer 1990); Visiting Faculty at Univ of Delaware; Postdoc at Univ of Toronto; CCIL (Clearing Corporation of India) advisory
+- Awards: ACM Sigmetrics 2010 Best Paper Award; Co-author of 2 textbooks: "Wireless Networking" & "Communication Networking: An Analytical Approach" (Morgan Kaufman); h-index 17, 1598 citations
+- Innovation Keywords: communication networks, queueing theory, stochastic modeling, network economics, wireless networks, sensor networks, random graphs, Internet pricing, QoS, optical networks, resource allocation
+- Profile: https://www.ee.iitb.ac.in/~dmanju/
+
+## Prof. Parthe Pandit
+- Department: C-MInDS
+- Designation: Thakur Family Chair Assistant Professor
+- Email: pandit@iitb.ac.in
+- Research Group: C-MInDS (Core Faculty)
+- Primary Research Area: ML/DL Theory / Kernel Methods
+- Research Interests & Innovation Focus: Generalization behavior of interpolating ML models; Scalable kernel machine training; Deep learning theory & neural network generalization; GAN convergence theory; Feature learning mechanisms in neural networks; Kernel random matrices; Reproducing kernel Banach spaces
+- Notable Projects: EigenPro (fast kernel training); TorchKernels (PyTorch kernel methods); RFM (Recursive Feature Machines); "Mechanism for feature learning" published in Science (2024); Grokking modular arithmetic (ICML 2025 Oral)
+- Key Tools & Platforms: EigenPro, TorchKernels, RFM (Recursive Feature Machines)
+- Industry Collaborations: Postdoc at UC San Diego (HDSI); PhD & MS from UCLA; Collaborates with Mikhail Belkin (UCSD), Apple ML Research
+- Awards: AI2050 Early Career Fellow (Schmidt Sciences, Dec 2024); INSPIRE Faculty Fellowship (DST, 2024); NeurIPS 2025 Spotlight; ICML 2025 Oral; Paper in Science journal (2024)
+- Innovation Keywords: kernel methods, deep learning theory, generalization, interpolation, neural networks, GAN theory, feature learning, kernel machines, scalable training, overfitting taxonomy
+- Profile: https://parthe.github.io/
+
+## Prof. Pranay Sharma
+- Department: C-MInDS
+- Designation: Assistant Professor
+- Email: pranaysh@iitb.ac.in
+- Research Group: C-MInDS (Core Faculty)
+- Primary Research Area: Federated Learning / Distributed Optimization
+- Research Interests & Innovation Focus: Federated & collaborative learning; Stochastic & nonconvex optimization; Differential privacy in distributed systems; Communication-efficient distributed learning; Min-max optimization; Federated reinforcement learning; Privacy amplification by iteration
+- Notable Projects: FedVARP (variance reduction in FL); FedAST (asynchronous simultaneous training); Federated minimax optimization; Private gradient shuffling optimization; Federated multi-objective optimization
+- Key Tools & Platforms: FedVARP, FedAST frameworks
+- Industry Collaborations: Former Research Scientist at Carnegie Mellon (with Prof. Gauri Joshi); PhD Syracuse University; B.Tech-M.Tech IIT Kanpur
+- Awards: ICLR 2025, ICML 2022 & 2023, AISTATS 2025 (2 papers), UAI 2022 & 2024; 982+ citations
+- Innovation Keywords: federated learning, distributed optimization, differential privacy, communication efficiency, stochastic optimization, asynchronous training, nonconvex optimization, privacy-preserving ML
+- Profile: https://sites.google.com/view/pranay-sharma/home
+
+## Prof. Pratik Jawanpuria
+- Department: C-MInDS
+- Designation: Associate Professor; Principal Researcher at Microsoft Research
+- Email: pratik.jawanpuria@iitb.ac.in
+- Research Group: C-MInDS (Core Faculty)
+- Primary Research Area: Riemannian Optimization / Optimal Transport
+- Research Interests & Innovation Focus: Riemannian optimization on manifolds; Optimal transport theory & applications; Geometric deep learning; Federated learning with privacy (Riemannian FL); Matrix & tensor learning; Kernel methods & multiple kernel learning; Bilevel & min-max optimization on manifolds
+- Notable Projects: McTorch (manifold optimization in PyTorch); SPOT (Prototype Selection via Optimal Transport); RFedAGS (Riemannian federated learning); Statistical OT via kernel mean embeddings; Differentially private Riemannian optimization
+- Key Tools & Platforms: McTorch (GitHub: mctorch/mctorch); SPOT framework
+- Industry Collaborations: Microsoft Research (Principal Researcher, concurrent); Amazon (former Applied Scientist, Core ML); Built Office Lens mobile app at Microsoft; US Patent US11250206B2
+- Awards: XRCI Open'15 Best Doctoral Dissertation; Named among "30 Indian Minds in AI"; Area Chair AAAI 2022; Reviewer: NeurIPS, ICML, ICLR, JMLR
+- Innovation Keywords: Riemannian optimization, optimal transport, manifold learning, geometric deep learning, federated learning, privacy, kernel learning, tensor completion, McTorch, Microsoft Research
+- Profile: https://pratikjawanpuria.com/
+
+## Prof. Pushpak Bhattacharyya
+- Department: C-MInDS
+- Designation: Professor; Abdul Kalam National Fellow; FNAE; Past President ACL
+- Email: pb@cse.iitb.ac.in
+- Research Group: C-MInDS; CFILT Lab (Centre for Indian Language Technology)
+- Primary Research Area: NLP / Machine Translation / Sentiment Analysis
+- Research Interests & Innovation Focus: NLP & multilingual computation; Machine translation (all paradigms); Sentiment analysis & sarcasm detection; Word sense disambiguation; Psycholinguistics & cognitive NLP (eye-tracking); Cross-lingual information retrieval; Named entity recognition; Relation extraction; Indian language technology
+- Notable Projects: IndoWordNet (wordnets for 18 Indian languages); Hindi/Marathi/Sanskrit WordNet; IIT Bombay English-Hindi Parallel Corpus; Hindi/Marathi/Sanskrit Shabdamitra (e-learning); Neural MT for Indian languages; Universal Networking Language (UNL); Former Director IIT Patna (2015-2020)
+- Key Tools & Platforms: IndoWordNet (18 languages), Hindi WordNet, Marathi WordNet, Sanskrit WordNet, Shabdamitra e-learning platforms, IIT Bombay En-Hi Parallel Corpus, Shallow Parsing tools for Hindi/Marathi
+- Industry Collaborations: IBM, Microsoft, Yahoo, United Nations; CAFRAL (RBI advisory); Chairman AI Standardization Committee (Govt of India); Visiting at MIT, Stanford, Univ Joseph Fourier
+- Awards: Called "Godfather of Indian NLP" by Nandan Nilekani; Past President ACL (2016-17); Abdul Kalam National Fellow; Fellow INAE; H.H. Mathur Research Excellence Award 2021; Manthan Award 2009; P.K. Patwardhan Award 2008; Distinguished Alumnus IIT Kharagpur; 21,000+ citations, h-index 68; 4 authored books; Brought COLING 2010 to India
+- Innovation Keywords: NLP, machine translation, Indian languages, WordNet, IndoWordNet, sentiment analysis, sarcasm detection, Hindi, Marathi, Sanskrit, multilingual, CFILT, eye-tracking, cognitive NLP, cross-lingual
+- Profile: https://www.cse.iitb.ac.in/~pb/

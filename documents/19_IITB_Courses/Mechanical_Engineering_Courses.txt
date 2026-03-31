@@ -1,0 +1,941 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Mechanical Engineering - Course Catalog for IIT Bombay Students
+
+
+## ME 103: Mechanical Department Introductory Course I
+- Credits: 6
+- Type: Theory
+- Description: -The scientific revolution of the 17th century -- mechanics of the craftsmen and mathematics of the scholars are fused to explain the Universe.-  The 18th century enlightenment movement and growing dominance of the scientific worldview.-  The 19th century steam engine and electric generator, and the industrial revolution. Evolutionary perspectives in geology, biology and society. The professionalization of Science and development of its secular and elite character.  The 20th century - the birth of new physics and chemistry of the atomic and subatomic world, and related technologies. The birth of computing machines, aerodynamic and space technologies. The growing knowledge of cellular and molecular biology, and human diseases.  The 21st century - the global concerns for public health a...
+
+## ME 104: Engineering Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Friction: Types of friction, Limiting friction, Laws of Friction, Static and Dynamic Friction; Motion of Bodies, wedge friction; Application: Screw Jack Basic Structural Analysis: Two-dimensional Simple Trusses; How to determine if a member is in tension or compression; Zero force members; Frames & MachinesKinematics of Particles: Rectilinear motion, Plane curvilinear motion - rectangular coordinates, normal and tangential coordinates, polar coordinates, Space curvilinear - cylindrical, spherical (coordinates), Relative and Constrained motionKinetics of Particles: Force, mass and acceleration 302226 rectilinear and curvilinear motion, work and energy, impulse and momentum 302226 linear and angular; Impact 302226 Direct and Oblique. Kinetics of System of Particles Generalized Newton302222s ...
+
+## ME 112: Workshop Practice II
+- Credits: 4
+- Type: Laboratory
+- Description: Introduction to safety measures, introduction to the principles of working, construction, operation, types of cutting tools, selection of cutting speeds and feeds etc. regarding basic machine tools e.g. lathe, shaping, slotting, milling and grinding machines, etc. Introduction to gas and arc welding processes, soldering and brazing.  Exercise; Simple jobs on centre lathe and shaping machcines and welding.   Demonstrations; Slotting, milling and grinding machines.
+
+## ME 113: Workshop Practice
+- Credits: 4
+- Type: Laboratory
+- Description: Introduction to wood work: hand tools & various operations.Introduction to pattern making: types of patterns, allowances, colourcoding. etc. Introduction to bench work & fitting: tools & operations.Introduction to metal cutting and machine tools: Safety measures,principles of operation of basic machine tools like lathe, shaping, &drilling. Important operations on these machines. Cutting tools and theirusage, selection of cutting speeds, feeds, etc. Introduction to welding.Assignments: Simple assignments in wood working, fitting, electric arcwelding, lathe and shaping machine work.
+
+## ME 119: Engineering Graphics & Drawing
+- Credits: 5
+- Type: Laboratory
+- Description: Introduction to engineering drawing and orthographic projections; Projection of points and straight line; Projection of planes and solids; Projection of simple machine elements; Development of surfaces, Intersection of surfaces; Construction of isometric views from orthographic projections. v
+
+## ME 201: Solid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of mechanics of deformable solids. Concepts of stress and strain and their relationships. Fatigue and thermal stresses, creep.  Equilibrium equations, strain displacement relation. Combined stresses, Mohr s circle diagram for stress and strain rosettes.   Simple beams, bending moments, shear forces and stresses in beams. Torsion, energy methods. Theories of failure. Stresses in thin, thick cylinders and rotating discs.
+
+## ME 202: Strength of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME 201
+- Description: Statically indeterminate problems in bending. Unsymmetrical bending problems, curved bars, Castigliano s theorem and its applications. Laterally and axially loaded beams. Deflection of beams.   Theory of plates and shells. Introduction to theory of elasticity and photoelasticity.
+
+## ME 206: Manufacturing Processes I
+- Credits: 6
+- Type: Theory
+- Description: Casting processes: dispensable and permanent mould processes; analysis of melting, pouring and solidification phenomena; design of pattern, core, feeder and gating system; casting defects and inspection. Joining processes: fusion and solid-state welding; brazing and soldering; weld joint design, cooling rate, and joint properties; welding defects and inspection. Bulk and Sheet Forming processes: rolling, forging, extrusion and drawing; sheet metal working; forming limit diagram; loads, friction and lubrication; forming defects and inspection. Powder processing: Powder manufacture, characterization, compaction and sintering; metal injection moulding; hot and cold isostatic pressing. Polymers and Composites: Thermoplastics, thermosets, elastomers and composites; related processes; injection ...
+
+## ME 209: Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to thermodynamics.  System, surroundings, boundaries, classiﬁcation of systems.  Units and dimensions. Conversion factors.  Properties of systems. Equilibrium, processes, interactions. The work interaction. Thermodynamic deﬁnition of work. Characteristics of the work interaction. Evaluation of work.011Adiabatic boundary. Adiabatic systems and processes. Adiabatic work.  The First Law. Basic form. Energy of a system. The heat interaction. Sign convention.011Diathermic boundary. Zeroth law. Isothermal states. Empirical temperature. Principles of thermometry. Scales of temperature. Gas thermometer. The ideal gas. Ideal gas temperature scale. The state principle. Equations of state. Properties of gases. Properties of steam. Introduction to steam tables. Other equations of state. V...
+
+## ME 213: Manufacturing Practice Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: ME 111
+- Description: Manufacturing and fitting of a machine subassembly according to given specification by groups of students.
+
+## ME 218: Solid Mechanics Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments associated with tensile testing, torsion testing, buckling, hardness testing, fatigue testing and impact testing. Experiments on beam bending, strain gaging and photoelasticity.
+
+## ME 219: Fluid Mechanics
+- Credits: 6
+- Type: Theory
+
+## ME 220: Theory of Machines and Machine Design
+- Credits: 6
+- Type: Theory
+- Description: Kinematics of linkages, cams and gear trains. Velocity and static force analyses. Geometry of gear teeth. Spur, helical, worm and bevel gears. Belt and chain drives, couplings, clutches, and brakes. Design considerations-material selection, allowable stresses and deflections, fatigue and factor of safety. Design of welded joints. Keys, splines and cotters. Design of shafts. Bearing selection. Considerations in pressure vessel design. Thin cylinders.
+
+## ME 221: Structural Materials
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Materials Science and Engineering [4 h] 1.1. The composition- processing- microstructure- properties- performance pyramid 1.2. The hierarchy of microstructures  1.3. Metals and alloys, ceramics, polymers and composites  2. Atomic scale structure in solids [7 h] 2.1.  Crystalline and amorphous phases 2.2. Crystal structure, structural defects, texture (as applicable to metals, ceramics and polymers) 2.3. Atomistic origin of properties and anisotropy 2.3.1. Elastic properties 2.3.2. Plastic properties (slip and twinning) 2.3.3. Strengthening and softening mechanisms  3. Micro scale structure in solids[8h] 3.1. Thermodynamic equilibrium structures: Phase diagrams and phase transformations 3.2. Development of structure due to solidification  3.3. Development of structure due...
+
+## ME 223: Solid Mechanics and Strength of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Introduction to solid mechanics: motivation and objectives. Axially loaded 1D bars.  2. Concept of stress, equilibrium equations, stress - traction relationship, stress transformations, principal stresses and principal directions, Mohr-s circle  3. Concept of strain, strain-displacement relationship, strain transformations, strain gages  4. Constitutive equations (linear elasticity/Hooke-s Law) stress-strain relationship, thermal stress/strain  5. 2D boundary value problems with plane stress and plane strain, axisymmetric problems, thin-walled pressure vessels  6. Torsion of cylindrical shafts with engineering assumptions  7. Bending of beams: shear force diagram, bending moment diagram, Euler- Bernoulli bending theory, bending stresses, beam deflections  8. Theories of failure, applica...
+
+## ME 224: Fluid Mechanics Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 226: Mechanical Measurements
+- Credits: 6
+- Type: Theory
+
+## ME 228: Applied Data Science and Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: a) Introduction to ML b) Review of mathematical concepts (Linear Algebra, Probability, Statistics and Optimization), Programming using python  d) Supervised learning methods and examples - Perceptron learning algorithm, Regression, Generalized models, Classification, Decision trees, Support vector machines, and others  e) Unsupervised learning methods and examples - Clustering, K-means and others, Dimensionality Reduction  f) Deep learning - Neural networks, Backpropagation g) Generalization and Regularization h) Introduction to Reinforcement and Generative learning  i) Applications and Case-studies in Mechanical Engineering, implementing ML based solutions to problems in mechanics, robotics, materials, manufacturing, operations modeling, fluid flow, heat transfer, etc., through hands-on a...
+
+## ME 230: Mechanical Processing of Materials
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ME 232: Kinematics and Dynamics of Machines
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Mechanisms. Position, velocity and acceleration analysis. Design of Cam Follower Mechanisms. Gear tooth profiles, spur gears and helical gears. Epicyclic Gear Trains. Dynamic Analysis of Mechanisms. Balancing. Analysis and Applications of Discrete and Continuous System Vibration.
+
+## ME 306: Applied Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Autumn Semester  Introduction to the Course, General Scheme of things, Energy Resources, Heat Engines. Recap of I law for Closed and Open Systems. Classification of cycles as Open/Closed, Refrigeration/Power, Multi-component/ Single- component, Internal combustion/ external combustion, etc. Performance parameters: Net work, thermal efficiency, heat rate, specific fuel consumption, work ratio, specific output, mean effective pressure, volumetric efficiency, COP, refrigeration effect. Carnot vs. other cycles. General stoichiometry and definition of terms (rich mixture, lean mixtures). Heat of formation, Heat of reaction, Calorific Value of fuel, Estimation methods for Calorific values, Exhaust Gas Analysis, Orsat Apparatus.   Otto Cycles, Diesel Cycles, Air-standard cycles and Actual cycles,...
+
+## ME 307: Mechanical Measurements Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 308: Industrial Engineering and  Operations Research I
+- Credits: 6
+- Type: Theory
+
+## ME 310: Microprocessors and Automatic Control Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 311: Microprocessors and Automatic Control
+- Credits: 6
+- Type: Theory
+- Description: Introduction, Review of combinational logic circuits. Intro to Sequential circuits, prelim design of sequential circuits, flip-flops. Registers, counters, tri-state logic,  Register-register data transfer. Timing and control circuitry. Sequential circuit design examples design considerations for arriving at appropriate data/control paths. Functional architecture of microprocessors, terminology. Intro to Microcontroller Programming. Interfacing 302226 A/D, D/A, Timer. Introduction to feedback, dynamic system behaviour. Math review: Fourier series, transforms, LTI systems, notion of stability. Non-linear system behaviour, linearization. Linear feedback controller design 302226 frequency response based methods. PID control. Sampling theorem, Digital implementation of controllers
+
+## ME 312: Operations Modeling and Analysis
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ME 316: Kinematics and Dynamics of Machines
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Mechanisms. Position, velocity and acceleration analysis. Design of Cam Follower Mechanisms. Gear tooth profiles, spur gears and helical gears. Epicyclic Gear Trains. Dynamic Analysis of Mechanisms. Balancing. Analysis and Applications of Discrete and Continuous System Vibration.
+
+## ME 317: Fluid Mechanics Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 318: Machine Design Laboratory
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1.  This core practicum course seeks to, through -hands-on- projects and laboratory experiments, enable third year students in our B.Tech. (Mech. Engg.) programme to synthesize and apply the concepts learnt through the core lecture (-theory-) courses in the preceding years.    2.  The in-lab activities and projects will span the following disciplinary areas of the Core UG Mechanical Engineering curriculum: (a). Solid Mechanics. (b). Kinematics. (c). Dynamics. (d). Controls.   3.Projects/experiments in the above individual areas will culminate with a Capstone design project involving elements from all/several of the above areas.
+
+## ME 323: Thermal and Chemical processing of materials
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ME 338: Manufacturing Processes II
+- Credits: 6
+- Type: Theory
+- Description: Material Removal Processes: Mechanics of Machining, tool geometry and materials, chip formation, tool temperature, tool wear, tool life, surface finish, machinability. Optimization of machining processes. Machine Tools: Generation of surfaces by machining, basic operations on shaping, slotting and planning machines, lathe, drilling and boring machines and grinding machines. Process Parameters and setups. Production Machines: Capstan and turret lathes, automats, broaching machines, centreless grinding machines. Special purpose machines for thread cutting and gear cutting (hobbing and shaping). Finishing processes honing, laping burnishing and deburring. Introduction to modern machining processes: EDM, ECM, LASER, Jigs and fixtures, principles of location and clamping, synthesis of simple ji...
+
+## ME 346: Heat Transfer
+- Credits: 6
+- Type: Theory
+
+## ME 370: Kinematics and Dynamics of Machines Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments on velocity, static force and acceleration analysis of mechanisms; friction; belt drives and cam-follower; balancing; bearings; gyroscopes; vibrations.
+
+## ME 372: Heat Transfer and Metrology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Part A: Heat Transfer   Determination of  the thermal conductivity of a  material in granular form. Determination of  the total hemispherical emissivity  of a surface by two methods. Study the natural convection heat transfer from a vertical tube.  Study  the performance of a pin fin under natural and forced  convection conditions. Heat transfer through circular tube with uniform heat flow.  Measurement of the forced convection heat transfer coefficient in cross-flow over a circular tube.  Study the performance of a double-pipe heat exchanger under parallel and counter flow conditions.  Part B: Metrology   Measurements of  lengths, angles,  flatness, squareness, parallelism,  alignment,  surface finish,  and errors in gears and screw threads.
+
+## ME 374: Manufacturing Processes Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 401: Microprocessors and Automatic Control
+- Credits: 6
+- Type: Theory
+- Description: Introduction, Review of combinational logic circuits. Intro to Sequential circuits, prelim design of sequential circuits, flip-flops. Registers, counters, tri-state logic,  Register-register data transfer. Timing and control circuitry. Sequential circuit design examples design considerations for arriving at appropriate data/control paths. Functional architecture of microprocessors, terminology. Intro to Microcontroller Programming. Interfacing - A/D, D/A, Timer. Introduction to feedback, dynamic system behaviour. Math review: Fourier series, transforms, LTI systems, notion of stability. Non-linear system behaviour, linearization. Linear feedback controller design - frequency response based methods. PID control. Sampling theorem, Digital implementation of controllers
+
+## ME 407: Industrial Engineering and  Operations Research I
+- Credits: 6
+- Type: Theory
+
+## ME4101: Design of Welded Structures
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to joining techniques - Welding, Fasteners, Adhesives  Welding Processes, Solidification in Welds and Metallurgy of Welding  Design consideration for welded structures - Type of Welds, Joint Design, Stresses in Welds  Atomic structure and Mechanical Response of Materials - Introduction  Theories of Fatigue: Stress and Strain based  Fatigue and Fracture of Welded Structures  Welding induced Residual Stress and Structure Integrity of Welds  Control of Shrinkage and Distortion in Welds  Corrosion in Welds  Weld Defects and Inspection of Welds  Case StudIES
+
+## ME 412: CFD and HT Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Two dimensional boundary layer computer programming for wallboundary layer and free shear layers with applications in laminar and turbulent flow with and without heat and mass transfer and combustion.
+
+## ME 415: Computational Fluid Dynamics and Heat Transfer
+- Credits: 6
+- Type: Theory
+- Description: Review of conservation equations, lumped parameter approach leading to non-linear equations, numerical solutions of non-linear equation. Concept of round off error, overflow, propagation of error. Problems leading to system of linear equations. Techniques for solving system of linear equations (direct and iterative). Scaling and nondimensionalisation. Linear and non linear regression techniques to correlate experimental data. Numerical Integration, calculation of shape factors. Thermal and fluid problems leading to ODE. Initial, Boundary and Eigen value problems. Solutions of ODE using marching and finite difference methods. Characterization of partial differential equations, Numerical solutions of elliptic, parabolic and hyperbolic equations encountered in heat transfer and fluid flow.
+
+## ME 423: Machine Design
+- Credits: 8
+- Type: Theory
+
+## ME 434: Finite Element and Boundary Element Methods
+- Credits: 6
+- Type: Theory
+- Description: Introduction, Finite element formulation-variational method, method of weighted residuals, etc. Linear elastic stress analysis-2D, 3D and axisymmetric problems. Analysis of structural vibration, stability, heat conduction, fluid flow, etc. Boundary element formulation for heat conduction and 2D stress analysis. Case studies.
+
+## ME 438: Introduction to modeling of materials from atomistics to continuum
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 105
+- Description: 1) Crystal structure and defects: Lattices, crystal structure, symmetries; Miller indices; Crystal defects  (2) Classical atomistic modeling: Interatomic potentials for crystalline and amorphous materials; Molecular Statics, Introduce KIM and LAMMPS  (3) Quantum mechanics and density functional theory: Learn Quantum Espresso  (4) Lattice Dynamics: One-dimensional chain, Monoatomic and diatomic crystal; Phonon scattering; Dispersion curves; Boltzmann Transport Equation (BTE)  (5) Statistical mechanics and molecular dynamics: Hamiltonian mechanics and phase space; Macroscopic observables; Statistical mechanics ensembles (NVE, NVT, NPT); Molecular dynamics; Thermostat development  (6) Microscopic expressions for continuum fields: Microscopic expressions for stress and heat flux; Steady state ...
+
+## ME 441: Applied Thermodynamics Lab
+- Credits: 3
+- Type: Laboratory
+
+## ME 444: Analysis and Design of Mechanical Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Components of mechanical drivetrains: Law of Gearing, Epicyclic Gear Train, Kinematics of CamsForces, moments and power in mechanical drives: Shafts, Gears, Clutches, Brakes, Keys, Belts, Pulleys, Bearings; Reliability and selection of bearingsIntroduction to Vibration: 1 DOF vibrations: Free, forced; 2 DOF vibrations: Free, Tuned mass dampersDynamics of Machines: Static and dynamic balancing, Bearing loads in a single cylinder engine, unbalance due to reciprocating masses, shaft whirling (modelled as a single DOF system), Gyroscopes
+
+## ME 456: Automobile Engineering (Transmission)
+- Credits: 6
+- Type: Theory
+- Description: History of automobiles, automobile and mechancial engineer, function, construction opertion and maintenance of clutch, gear box, fluid drive, automatic transmissions, over drive, universal joints, propeller shaft, final drive differential, back axle. Latest technical developments in drive line, frame, suspension systems, vibration and vehicle dynamics, steering systems, wheels, tires and brakes. Recent developments in running gear. Automobiles industry in India and abroad, testing of automobiles.
+
+## ME 477: Introduction to Optimization
+- Credits: 6
+- Type: Theory
+- Description: Need for optimization and historical development, classification and formulation of optimization problem, classical optimization methods, differential calculus, Lagrangian theory, Kuhn Tucker condition, unconstrained minimization techniques, one dimensional minimization technique, one dimensional minimization, Fibonacci, golden section and quadratic interpolation methods, Multidimensional minimization, univariate, conjugate direction gradient and variable metric methods, constrained minimization technique, penalty function methods. Examples and applications of the above methods in the recent engineering design literature.
+
+## ME 478: Management Principles and Practice
+- Credits: 6
+- Type: Theory
+- Description: Overview of the development of theory and evolution of the various approaches to management. Contemporary thinking on organization and the engineer s role. Significance and role of accounting, costing (attaching a Rupee tag), auditing and communication. Considerations and challenges in the management of legal and ethical aspects, taxation, innovation, information, technology, quality, finance and human resources.  Business and social environment, economic efficiency, performance assessment, incentive and reward systems and cases of current interest, highlighting issues and responses.
+
+## ME 593: Dual Degree Project I
+- Credits: 30
+
+## ME 601: Stress Analysis
+- Credits: 6
+- Type: Theory
+- Description: Components of stress and strain; their principal values and invariants.  Generalised Hooke s law. General 3-D problems and classical theorems.   Plane stress and plane strain. Airy s stress function. 2-D problems in rectangular and polar coordinates.   Complex variable approach. Complex representation of stresses, displacements and applied boundary loads. Different methods of solution of 2-d problems for finite and infinite plates with simply and multiply connected regions.   Experimental methods of stress analysis. Strain gages.   Photoelasticity. Biorefringent coatings. Brittle coatings. Moire frings. X-ray techniques and holography.
+
+## ME 602: Fatigue, Fracture and Failure Analysis
+- Credits: 6
+- Type: Theory
+- Description: Introduction to fatigue and fracture mechanics, ductile and brittle fractures. Mechanism of fatigue crack initiation and propagation, fatigue data representation, factors influencing fatigue strength, life prediction, prevention of fatigue failures, corrosion fatigue. Linear elastic fracture mechanics, determination of fracture toughness, elastic plastic fracture mechanics, sub-critical growth in reactive environment. Fatigue and fracture safe designs. Investigation and analysis of failures, case studies in fatigue and fracture mechanics.
+
+## ME 603: Kinematics and Dynamics of Machinery
+- Credits: 6
+- Type: Theory
+- Description: Review of kinematic analysis-mobility, displacement, velocity and acceleration analysis of mechanisms.  Kinematic synthesis - Function generation, path generation and rigid body guidance. Graphical and analytical techniques of synthesis Dynamic analysis of mechanism - Equations of motion, forward and inverse dynamic analysis, simulation of systems of interconnected rigid bodies.   Vibration - review of single and two DOF systems. Multi DOF systems vibration, transfer matrix, Holzer and vector iteration techniques.   Lagrange s equation of motion. Vibrations of continuous systems-axial, torsional and lateral vibration of bars. Introduction to nonlinear and random vibration.
+
+## ME 604: Robotics
+- Credits: 6
+- Type: Theory
+- Description: Introduction. Construction of manipulators, advantages and disadvantages of various kinematic structures. Applications, Actuators, pneumatic, hydraulic and electric. Characteristics and control.  Nonservo robots, motion planning. Feed back systems, encoders, servo control PTP and CP. Kinematics, homogeneous coordinates, solution of the inverse kinematic problem, multiple solutions, jacobian, work envelopes. Trajectory planning.   Manipulator dynamics and force control. Sensors: Vision, ranging, laser, acoustic, tactile. Developments in sensor technology, sensory control. Programming Language: VAL, RAIL, AML. Mobile robots, walking devices. Robot reasoning.
+
+## ME 606: Computer Aided Design of Machines
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Purpose and applications of optimum design, effect of manufacturing errors; Factor of safety; Characteristics of mechanical systems; Selection of optimum configuration; Critical regions; Materials and dimensions; Primary and subsidiary design equations; Limit equations; Normal redundant and incompatible specifications; General techniques; Digital computers in optimum design; Exact and iterative techniques. Optimal design of element and systems; shafts, beams, gears, bearings, springs, high speed machinery, cams, intermittent motion devices, case studies.
+
+## ME 610: Applied Tribology
+- Credits: 6
+- Type: Theory
+- Description: Variable speed drives, theory of friction variable speed drives, types and construction of friction variable speed drives, analysis and design of multiball, torroidal, frontal, Gaaham, planetory cone, planetory ball cluster and other variable speed drives.  Design of clutches and brakes.   Design of boundary lubricated, hydrodynamic hydrostatic and rolling element bearings.
+
+## ME6101: Lattice Dynamics and Thermal Energy Transport
+- Credits: 6
+- Type: Theory
+- Description: The proposed course will introduce the concept of collective vibration of atoms (phonons). Simulation of phonons using non-local forces (molecular dynamics) and quantum mechanics principles (only a brief introduction for completeness), and measurements using a continuous and pulsed laser, x-ray, and neutron will be outlined. Based on statistical mechanics, expressions correlating phonons and thermodynamic properties (Helmholtz free energy, enthalpy, internal energy, entropy, thermal expansion, thermal conductivity, heat capacity) will be derived, solved, and compared with measurements. Applicability of Fourier-s law in the diffusive regime and its breakdown in ballistic and quasi-ballistic regime will be reviewed. Measurement techniques (NIR pump and soft x-ray probe, transient grating, ti...
+
+## ME6102: Design of Mechatronic Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction, applications of mechatronic systems. Elements of mechatronic system: Sensor, actuator, plant, and controller. Hands-on experience with CDROM drive, scanner, or similar such system/s.   Integrated mechanical-electronic design philosophy. Integrated analysis tools and examples, selection of sensors, actuators and drive systems.   Microcontrollers for mechatronics: interfacing, programming, selection of microcontroller. UI and software requirements.   Control design in linear and nonlinear domains for rigid body and compliant motion systems, control implementation: various techniques; practical issues in implementation: friction, backlash, noise; digital control fundamentals.   Signal processing for mechatronics and Fast Fourier Transform (FFT), analog and digital filters, s...
+
+## ME6106: Computational Structural Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 1. Brief Review of the Finite Element Method for dynamic problems and vibrations of  multi-degree freedom systems, both  undamped and damped 2. Solution methods for eigenvalue problems 3. Sensitivity of eigensolutions to model parameters 4. Dynamic reduction and substructuring - static condensation, component mode  synthesis, domain decomposition methods 5. Time integration algorithms - single step, multistep: stability and accuracy analysis
+
+## ME6108: Quality Measurement, Monitoring and Improvement
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: of measurement systems Quality cost models Integration of quality and production metrics (eg. OEE) Monitoring  In-process sampling using Chain, Sequential, Skip-lot and Continuous sampling procedures Process monitoring for correlated quality characteristics Process minitoring for quality characteristics displaying autocorrelation Methods to detect process shifts for continuous process monitoring Change point analysis Methods for optimizing process inspection intervals Simulation based approach for evaluating the effectiveness of process quality control Process quality control for multiple stream processes Process quality control by feed-back adjustment Back-tracking for rejection segregation Tool condition monitoring Improvement Tolerance design using using loss functions and simulation ba...
+
+## ME6109: Mechanical Measurements
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction: Generalized measurement system, static calibration, calibration, random errors, uncertainty analysis, Dynamic characteristics: zero, first and second order measurement systems.      Temperature measurement: Introduction to temperature measurement, Thermocouples: laws governing their use; Static and Dynamic characteristics of thermocouples, Other measurement techniques like Infrared thermography and liquid crystal thermography      Pressure/ Velocity measurement: Manometers, pressure transducers (resistive, inductive and capacitance) and their static and dynamic characteristics, Pitot static tube, Three hole and five hole probes, Hot wire anemometer, particle image velocimetry.      Flow measurement: Differential pressure devices (orifice, venturi, nozzle, conical), variable a...
+
+## ME 611: Machine Tool Design
+- Credits: 6
+- Type: Theory
+- Description: Introduction to metal cutting machine tools - Criteria for the selection of operating capacity and design parameters, Kinematics of machine tools Basic principles of machine tool design, Estimation of drive power, Machine tool drives - Electrical, Mechanical and Fluid drives, Stepped and stepless speed arrangements and systems.  Design of machine tool spindles and bearings. Design of Power screws, Design of slideways, Selective and Preselective mechanisms.   Machine Tool Structures - Beds, Columns, Tables and Supports, Stock feed mechanism, Measurement and Control of machine tools, Protective and Safety devices. Design of precision machine tools, Microfeeding mechanisms, Concepts of modular design and integration for SPMs.   Concepts of Aesthetic and Ergonomics applied to machine tools, Ac...
+
+## ME6110: Nanomanufacturing Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: The complete course contents along with (actual hours) and [cumulative hours] are shown below:  Overview of the course: scope and importance (1) [1] Microfabrication Technologies: Capabilitiesand Limitations(2) [3] Nanofabrication by Photons (9) [12] Optical Lithography Overview and Limitations Resolution Enhancement Techniques Lithographic Techniques for Nanofabrication Near-field Lithography and Interference Lithography Two-photon Lithography Nanofabrication by Charged Beams (9) [21] E-beam Lithography:  System and Principles of Electron Matter Interaction Resolution Issues Focused Ion Beam (FIB) Nano patterning:  FIB System and Principles of Ion Matter Interaction FIB Milling and Deposition, Resolution Issues FIB/SEM Dual Beam Capabilities Nanofabrication by Replication (5) [26] Introdu...
+
+## ME6112: Acoustics and hearing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description:  Introduction and background (complex variables, decibels, wave attributes, Fourier transforms)  Brief review of discrete and continuous vibrating systems  Acoustic wave equation  Acoustic intensity, impedance, transmission, reflection of plane waves  Sound sources and radiation  Resonators, low-frequency analysis of networks  Equivalent electrical circuits for electroacoustic transducers  Waves and modes in ducts and enclosures with rigid and flexible walls  Sound transmission through the ear  Sound transduction in the inner ear
+
+## ME6119: Vibration and Control
+- Credits: 6
+- Type: Theory
+- Description: Review of single DOF system vibrations; Lagrange,s equation of motion; Multi DOF system vibration - Different methods to form equations of motion and to find natural frequencies and mode shapes; Vibrations of continuous systems- Axial, torsional and lateral vibration of bars; Introduction to nonlinear and random vibration     Concept of feedback, open and closed loop systems. Review Laplace transforms. Transfer function. Concept of stability, poles, and zeros. Standard transient responses. Methods for synthesis and analysis of control: P, PD, PID control. Frequency domain techniques for control design. Examples of active vibration control.  Introduction to signals and sampling, Shannon sampling theorem. Control implementation using microcontroller.
+
+## ME 613: Finite Element and Boundary Element Methods
+- Credits: 6
+- Type: Theory
+- Description: Introduction, Finite element formulation-variational method, method of weighted residuals, etc. Linear elastic stress analysis-2D, 3D and axisymmetric problems. Analysis of structural vibration, stability, heat conduction, fluid flow, etc. Boundary element formulation for heat conduction and 2D stress analysis. Case studies.
+
+## ME 615: Machinery Vibration and Diagnostics
+- Credits: 6
+- Type: Theory
+- Description: Single degree of freedom system: Differential equation, complex exponential method of solution, energy method, power relations, phase relations, Nyquist diagram.  Damping and modal analysis: Damping mechanisms, characterization and behavior of typical damping materials, structural response of multi-degree of freedom (MDOF) damped structures, proportional damping, modal testing, MDOF formulation using Finite Element Method (FEM), application of modal analysis in vibration reduction. Random vibration: Ensemble averages, stationary and ergodic processes, autospectrum, cross-spectrum, Fast Fourier transform, spectrum analysis, Hilbert transform.  Vibration measurement: Accelerometers, force gages, instrumented hammers, Fast Fourier transform analyzers and digital filters, applications in vibra...
+
+## ME 616: Fracture Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME
+- Description: Introduction to Grifftc s surface energy and Irwin s stress intensity factor. Stress analysis of fracture, Westegaard s and William s stress functions. Analytical, numerical and experimental methods of determining stress intensity factors. Macroscopic theories in crack extension. Mixed mode fracture mechanics, fracture mechanics based design and fracture control plans. Fatigue crack growth. Elasticplastic fracture : Small scale yielding. The J-Integral. Stationary crack tip fields. J-integral testing. Engineering approach to plastic fracture. Ductile fracture criterion. J-controlled crack growth and stability.
+
+## ME 617: Rapid Product Development
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: 1. Overview of Rapid Product  Development: Product Developing Cycle,Definition of Rapid Product Development, Virtual prototypical and rapid manufacturing technologies, Physical Prototyping & rapid manufacturing technologies, Synergic integration technologies  2. Rapid Prototyping: Principal of Rapid Prototyping, Various RP technologies, Selection of a suitable RP process for a given application, Status of outstanding issue in RP- accuracy, speed, materials (strength, homogeneity and isotropy), Emerging Trends  3. Rapid Tooling: Introduction to Rapid Tooling, Indirect Rapid Tooling Processes, Direct Rapid Tooling Processes, Emerging Trends in Rapid Tooling  4. Reverse Engineering: Data Extraction, Data Processing  5. Applications and Case Studies: Engineering Applications, Medical Applicati...
+
+## ME 618: Pressure Vessel Design
+- Credits: 6
+- Type: Theory
+- Description: Preliminary considerations. Design construction and features. Stress analysis of components-shells, ends, flanges, local attachements, etc.  Material selection. Special type of vessels- high pressure applications, externally loaded vessels, etc. Design of piping system.   Use of Codes.
+
+## ME 619: Experimental  Methods in Thermal and Fluids Engg.
+- Credits: 6
+- Type: Theory
+- Description: Planning of experiments: preliminary, intermediate and final stages in experimental investigations. Steady state and transient techniques. Selection of measuring devices based  on static, dynamic characteristies and allowable uncertainties. Analysis of experimental data and  determination of overall uncertainties in experimental investigation, curve fitting and report writing.  Calibration of temperature measuring devices, uncertainties in measurement of temperature under various conditions. Optical and radiation methods of temperature  measurement. Steady state and transient methods of measuring heat fluxes. Measurement of thermal radiation and associated parameters.  Calibration of pressure and vaccum measuring devices. Estimation of uncertainties in measurements of pressure and vaccum. ...
+
+## ME 621: Mathematical Methods for Mechanics and Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction & motivation. Role of mathematical modeling & simulation. Review of vector calculus, integral theorems, tensors, linear algebra, single & multi-variable optimization. Calculus of variations for functional minimization. Ordinary differential equations. Series solutions & special functions (Legendre, Bessel). Partial differential equations: parabolic (heat), hyperbolic (wave), and elliptic (Laplace, Poisson) and methods of solution involving Fourier series/transforms, perturbation methods. Green`s functions. Computational methods for PDEs. Complex analysis, harmonic functions, Cauchy`s theorem, contour integration, Laurent series. Nonlinear dynamical systems, phase plane analysis, linear stability, bifurcations.
+
+## ME 623: Cryogenic Engineering II
+- Credits: 6
+- Type: Theory
+
+## ME 630: Knowledge Based systems in Manufacturing
+- Credits: 6
+- Type: Theory
+- Description: Introduction Development of Databases and Knowledge bases, Knowledge representing paradigms - Rule based, Logic based, Object oriented, Semantic nets and frames, Uncertainty, Fuzzy logic, Neural nets.  Inference mechanism: Goals, Control strategies, Forward and Backward chaining, Conflict resolution, Explanation, Blackboard model.   Implementation issues: Knowledge acquisition, Coding, Expert system shells, PROLOG and LISP. Selected applications in manufacturing: Product design, Process Planning and Scheduling, Robot movement, Factory layout, Defect analysis, Diagnostic maintenance, Quality control, etc.
+
+## ME 636: Advanced Joining Technology
+- Credits: 6
+- Type: Theory
+- Description: Analysis of heat sources for material joining, Parameters in welding and their control, Analysis of 2D,3D heat flow in welds.  Modern welding process like EBW, LBW, Diffusion bonding, Ultrasonic welding etc. Pulsed current welding processes. Welding of Ceramics, Plastics, Composites.   Weldment design for Pressure vessels, Offshore structures and Subma-rine Pipe lines, Heavy structures.   Failure of welds, NDT of welds, Inspection codes for weldments
+
+## ME 637: Manufacturing Automation
+- Credits: 6
+- Type: Theory
+- Description: Product cycle, Manufacturing functions, Types of automation, Degree of automation, Technical, economic and human factors in automation, Technologies - Mechanical, Electrical, Hydraulic, Pneumatic, Electronic, Hybrid systems, Comparative evaluation.  Development of small automation systems using mechanical devices, Basics of pneumatics, Synthesis of circuits, Basics of hydraulic systems, Synthesis of hydraulic circuits, Elements used for electrical circuits, Synthesis, Circuit optimization techniques.   Illustrative examples of the above types of systems as well as hybrid systems used for automation of working cycles of machines, Material Handling, Inspection and Assembly etc.   Industrial logic control systems Logic diagraming, Programmable controllers, Applications, Designing for automati...
+
+## ME 639: Linear Systems Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## ME 642: Advanced Tool Design
+- Credits: 6
+- Type: Theory
+- Description: Influence of tooling on quality and productivity: Requirements of tooling for flexible small lot production with constraints on lead time.  Jigs and Fixtures: Locating elements and methods, Principles of clamping, Clamping elements and methods, Indexing devices, Tool guiding and cutter setting concepts, Development of housing, Design of jigs, fixtures for milling, boring etc.   Assembly and Inspection fixtures , Welding fixtures. Tooling for CNC: Development of modular fixtures, Innovative concepts like tooling for fragile parts, Plastics for tooling etc.   Design of special cutting tools: Form tools for turning and milling, Hobbing and shaping for generating special forms.   Manufacture and maintenance of tools: Cost estimation and cost benefit analysis, Tool Reconditioning, SMTC analysis...
+
+## ME 643: Materials Processing and Simulation Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Hardware and Simulation experiments in Metal forming, welding, casting and Machining Laboratories.
+
+## ME 645: MEMS - Design, Fabrication, and Characterisation
+- Credits: 6
+- Type: Theory
+
+## ME 647: Automatic Control Engineering
+- Credits: 6
+- Type: Theory
+- Description: System Dynamics: Laplace transform, system transfer function, types of excitations, impulse response function, first-order systems, second-order systems.Feedback control systems: history, physical modeling, mathematical modeling, block diagram algebra, signal flow graphs.Transient response and stability: second-order systems, control system types, steady-state error, disturbance, controllers, higher order systems, Routh-Hurwitz302222s stability criterion.1.Controllers: dashpot, hydraulic controllers, pneumatic controllers, tuning of pid controllers.2. Root-locus method: physical significance, construction steps, additional information from root-locus plots, gain margin, transient characteristics, steady-state error.3.Nyquist302222s stability criterion: Nyquist (polar) plots, theory, Nyquis...
+
+## ME 649: Advanced Manufacturing Processes I
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Mechanics of plastic deformation, Theory of plasticity - constitutive equations, isotropic and anisotropic yield criteria, compatibility conditions of strain, stress and strain paths, limit theorems, slip line field analysis. Application of plasticity concepts to hot and cold working processes, formability of engineering materials, net shape manufacturing processes, powder metallurgy processes, superplastic forming processes, Manufacturing of composites. Analysis of material removal in conventional machining - shear angle solutions, stress and strain in primary deformation zone; friction, temperature and wear in the secondary and tertiary deformation zones in machining; machinabilty, mechanistic modeling as applied to turning, drilling, milling and grinding processes, machining of advanced...
+
+## ME 651: Fluid Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Continuum concept, control volume equations, Ideal fluid flow and hydraulic singularities, Navier-stokes equations, and their use.  Concept of compressible flow, one dimensional isentropic flow, normal shock, flow with-friction, heat transfer, boundary-Layer theory and applications.
+
+## ME 653: Boundary Layer Theory
+- Credits: 6
+- Type: Theory
+- Description: Basic concepts, B.L. Parameters, B.L. on flat plate, stokes first and second problems, Hiemenz flow, flow near rotating disc. Von-Karman Momentum Equation.  General Properties of B.L. equations, momentum and energy B.L. Equations. Exact solution of two dimensional methods. Theory of stability. Perturbation methods, OrrSomerfield equation, general properties of disturbance equations. Tollmien s method of solution.   Thermal B.L. in Laminar flow. Theory of similarity in heat transfer and exact solutions. Turbulence, correlation coefficient.
+
+## ME 654: Non-Newtonian Fluid Mechanics & Industrial Applications
+- Credits: 6
+- Type: Theory
+
+## ME 655: Theory and Design of Fluid Machinery
+- Credits: 6
+- Type: Theory
+- Description: General classification: Equations of work transfer for rotodynamic type machinery; operation, performance and similarity laws of rotodynamic type of pump, fan, blower and compressor; cavitation in pump; hydraulic design of centrifugal type pump and blower.  Positive displacement type and jet pump type machinery: Impulse type and reaction type hydroturbines; operation, performance, similarity laws, governing, runaway speed; hydraulic design of impulse type and radial flow type hydroturbines.
+
+## ME 657: Thermal and Fluids Engg Laboratory
+- Credits: 6
+- Type: Laboratory
+
+## ME 660: Numerical Methods in Fluid Flow Problems
+- Credits: 6
+- Type: Theory
+- Prerequisite: A
+- Description: Fluid Dynamics Equations in Eulerian systems, the characteristic method, finite element methods and application in fluid dynamics, solution of physical flow problems.
+
+## ME 661: Advanced Thermodynamics & Combustion
+- Credits: 6
+- Type: Theory
+- Description: Concepts of classical thermodynamics. Application of I and II laws to closed and open systems. Availability analysis of thermal systems and the concept of energy conservation.  Phase and reaction equilibria. Equilibrium constants. calculation of equilibrium composition of multi component gasesous mixtures.   Equations of state and calculation of thermodynamics and transport properties of substances.   Reaction rates and first, second and higher order reactions. Reactions in gaseous, liquid and solid phases.   Combustion and flame velocities, Laminar and turbulent flames. Premixed and diffusion flames their properties and structures.   Theories of flame propagation, thermal, diffusion and comprehensive theories, Problems of flame stability, flashback and blow off.   Combustion of solid, liq...
+
+## ME 662: Convective Heat and Mass Transfer
+- Credits: 6
+- Type: Theory
+- Description: Flow classifications, mass, momentum and energy relations in differential form. Exact and approximate solutions to forced convection in laminar and turbulent, internal and external flow.  Solution to natural convection problems. Heat transfer at high velocity and incompressible fluid. Liquid metal heat transfer. Convective mass transfer. Reacting flows.   Mass transfer. Transport equations. Mass transfer across interface.   Heat and mass transfer in separated flows.
+
+## ME 663: Advanced Heat Transfer
+- Credits: 6
+- Type: Theory
+- Description: Heat conduction - basic law, governing equations in differential form, solution methods, steady state, unsteady state problems-fins, moving boundaries. Convective heat transfer - conservation equations, boundary layer approximations. Forced convective laminar and turbulent flow solutions. Natural convection solutions, correlations.  Radiation heat transfer mechanism; properties; exchange between black and non black surfaces, condensation - mechanism, controlling parameters. Nusselt Theory; solution to laminar film modifications, influence of other parameters, correlations for single horizontal tube, vertical bank of horizontal tubes, other configurations.   Dropwise condensation. Boiling mechanisms regimes. Basic models, correlations.   Mass Transfer- governing laws, transfer coefficients;...
+
+## ME 664: Advanced Finite Element and Boundary Element Methods
+- Credits: 6
+- Type: Theory
+- Description: Plates and Shells   Dynamic Response Analysis  Material and Geometric Non-linearities  Special Topics ? BEM, Applications, FE Mesh Generation, Adaptive Meshing, Error Analysis, Special Elements, Analysis of Composites, Analysis of Crack Problem; Solution Techniques skyline, Frontal, Conjugate Gradient Method, and Parallel Processing.
+
+## ME 665: Conduction and  Radiation Heat Transfer
+- Credits: 6
+- Type: Theory
+
+## ME 666: Design of Heat-Exchange Equipment
+- Credits: 6
+- Type: Theory
+- Description: Classification, design Methodology. LMTD and ENTU methods. Design of double-pipe, shell and tube heat exchanger, longitudinal and transverse fins, longitudinal conduction effects. Regenerators. Fired heaters.  Transient Analysis, optimization, testing.
+
+## ME 667: Industrial Noise Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: ntroduction-Historical background, source, transmission, receiver concept Basics of Acoustics-Speed of sound, sound pressure levels, decibels, octave bands, Acoustic Measurements- Sound level meters, intensity level meters, Transmission of sound -Wave equation, plane waves, spherical waves, transmission loss of walls, Noise Sources- Sound transmission, indoor and outdoor sound  transmission,  Acoustic Criteria- Human ear, hearing loss, industrial noise criteria, Room Acoustics- Absorption coefficients, reverberation time, noise transmission between rooms, acoustic enclosures, acoustic barriers,  Silencer Design- Transmission loss, insertion loss, Helmholtz’s resonators, dissipative silencers, reactive silencers, dispersive silencers, plenum chambers, Vibration Isolation for Noise Control, ...
+
+## ME 669: Design for Manufacturing
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Concepts of Design for Manufacturing (DFM), Role of DFM in product specification and standardization, design, development, and functional requirements, material and process selection. Introduction to Components of DFM - Design for Assembly, Performance, Quality, Bio-compatibility, Ergonomics, Recycling, etc. Design to Cost. Quantitative methods of material selection in DFM based on engineering properties, material performance indices, comparative property charts, costs, etc., Evaluation of single and multi-attribute utilities. Design rules for selection of materials and processes, Part geometry and tolerances, Shape factor, Prototyping, Computer-aided material and functional modeling, Mathematical Optimization, Formation of objective and constraint functions, Factorial analysis. Case studi...
+
+## ME 670: Non-Linear System Analysis and Control
+- Credits: 6
+- Type: Theory
+- Description: Linear systems vs. nonlinear systems  Phase plane method, Describing function method Mathematical preliminaries: Normed vector spaces, Hilbert spaces, contraction mapping, notions of stability. Existence and uniqueness of solutions of nonlinear differential equations. Limit cycles, Lyapunov stability theory and its application to control of nonlinear dynamical and robotic systems. Parameter sensitivity analysis and numerical techniques for nonlinear parameter estimation. Introduction to singular perturbations and geometric tools for control synthesis Research case studies: singular perturbations, passivity based approach.
+
+## ME 671: Spark Ignition Engines
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME
+- Description: Fules and suitability of fuels for use in S.I. Engines; Rating of S.I. Engines fuels; Carburettors and carburation; Petrol injection systems; Combustion in S.I. Engines normal and abnormal, detonation, stratification and lean mixture operations. Performance characteristics; Breathing capacity, pumping losses, friction losses; Design of induction and exhaust systems; Supercharging, design of combustion chamber. Air pollution by engine exhaust; Remedial measures; Digital simulation for performance prediction.
+
+## ME 673: Mathematical Methods in Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Eigen Value Problem: Solution procedure and applications; Scalar and Vector Field Theory: Divergence, Gradient, Curl, Laplacian, Divergence and Stoke theorems; Linear differential equation of second order and higher : Solution of homogenous and nonhomogeneous equations with and without constant coefficient;Power Series Solutions: Method of Frobenius, Legendre, Gamma and Bessel functions;Laplace Transform: Properties and application to solution of differential equations; Heaviside and Dirac-delta functions;Fourier Transform: Fourier series of a periodic function, Sturm-Liouville theory, Fourier integral, Fourier TransformDiffusion Equation: Separation of variables, Fourier and Laplace transforms;Wave Equation: Separation of variables, d`Alembert`s solution; Complex Integral Calculus: Comple...
+
+## ME 674: Compression Ignition Engines
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME
+- Description: Suitability of fuels for C.I. Engines. Rating of fuels. Fuel additives.   Theory of combustion and other working processes. Heat release rate calculations. Injection equipment design and injection process combustion.   Chamber design and matching with fuel injection parameters.   Induction and exhaust systems. Effect of altitude and ambient conditions on engine performance parameters. Mechanical losses and mechanical efficiency. Supercharging and engine performance. Other waste heat utilisation practices, Engine emissions.
+
+## ME 675: Theory of Plasticity
+- Credits: 6
+- Type: Theory
+
+## ME 676: Collaborative Engineering
+- Credits: 6
+- Type: Theory
+- Description: EMERGING TRENDS: Product innovation; Global manufacturing; Early supplier Involvement; Product and process integration; Need &    Philosophy.  CONCEPT DEVELOPMENT  Market research; Quality function deployment; Product  Definition and functional specifications; Design axioms;     Conceptual design and evaluation.  IINTEGRATED DESIGN  Product development and life cycle; Design for X, where X =  Aesthetics, Ergonomics, Manufacture, Assembly, Testing, Service, Shipping and Environment; DFX guidelines.  DESIGN TO COST Target cost setting; Current cost estimation; Cost models based on history; ABC and parametric approaches; Value engineering.  SOFTWARE TOOLS Intelligent CAD; Feature based DFX; Product data Management;  Knowledge management; Blackboard and other architectures for computer-aided C...
+
+## ME 677: Laser Material Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: 1. Fundamentals of Lasers: Stimulated emission, Laser system, Gaussian Beams, Pulsing techniques, Beam propagation, Beam quality, Beam delivery, Types of lasers.  2. Laser-Matter Interaction: Photo-thermal and Photo-chemical, Relation between power and Intensity, Beer-Lambert Law, Photo-thermal models: One-step and two-step., Line and Point heat source models for continuous pulses, Photo-polymerization.  3. Laser Processing Applications-I: Laser Cutting, Laser Drilling, Laser Welding, Laser Forming, Laser Bending, Laser Hardening.  4. Laser Processing Applications-II : Selective Laser Melting, Laser Cladding, Stereolithography, Selective Laser Sintering 5. Laser Processing Applications-III : Laser Ablation, Pulsed laser deposition, Laser shock peening, Underwater laser ablation, Laser indu...
+
+## ME 678: Fundamentals of Gas Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## ME 679: Micromechanics of Composites
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Content 1.Introduction:  a.Mechanics b.Micromechanics c.Scalars, vectors, tensors d.Mathematical framework and notations 2.Fundamental Equation of elasticity:  e.Equation of equilibrium f.Compatibility g.Boundary and interface conditions h.Definition of eigenstrain and eigenstress 3.General representations a.Fourier series and integrals b.Green-s function 4.Inclusions and inhomogeneities a.Eshelby-s solution b.Equivalent inclusion method 5.Composite Materials a.Average strains and stresses b.Tanaka-Mori-s theorem 6.Effective elastic moduli of composites a.Voigt and Reuss approximation b.Upper and lower bounds c.Self-consistent method d.Generalized self-consistent method e.Differential self-consistent method f.Mori-Tanaka method 7.Homogenization methods a.Periodic structure b.Perturbation m...
+
+## ME 680: Two Phase Flow and Heat Transfer
+- Credits: 6
+- Type: Theory
+- Description: Definitions; Review of 1-D conservation equations in single phase flows; Governing equations for homogeneous, separated and drift-flux models; Flow pattern maps for horizontal and vertical systems; Simplified treatment of stratified, bubbly, slug and annular flows. Thermodynamics of boiling; Pool boiling- onset of nucleation, heat transfer coefficients, critical heat flux, effect of sub-cooling; Flow boiling- onset of nucleation, heat transfer coefficients, critical heat flux, effect of sub-cooling. Condensation- Film and dropwise condensation
+
+## ME 681: Thermal Environmental Engg
+- Credits: 6
+- Type: Theory
+- Description: Refrigeration cycles: need for refrigeration, various refrigeration cycles, vapour compression cycles, single-stage, two-stage and cascade, vapour absorbtion cycles, LiBr/H2O and NH3/H2O, gas cycles and air liquifaction cycles, selection of refrigerants and refrigerant/absorbent combination; Advanced psychometrics: psychometric charts, thermodynamic properties of moist air, typical air conditioning processes and associated energy calculations.  Introduction to advanced refrigeration cycles: vapour compression cycles with solution circuits, cogeneration of power and refrigeration, refrigeration using solar energy and waste heat.
+
+## ME 683: Cryogenic Engineering - I
+- Credits: 6
+- Type: Theory
+- Description: Historical background and applications. Gas liquifaction systems. Gas - separation and gas-purification systems. Cryogenic refrigeration systems. Storage and handling of cryogens. Cryogenic insulations.  Liquefied natural.   Gas-properties of materials of low temperatures. Material of construction and techniques of fabrication. Instrumentation.   Ultra-low temperature techniques. Application.
+
+## ME 684: Airconditioning System Design
+- Credits: 6
+- Type: Theory
+- Description: Load estimating: comfort conditions, weather data, solar heat gain, cooling and heating loads.  Airconditioning systems: central and unitary systems, duct design and fan selection, heating and cooling coil design, cooling tower design and selection, air cleaners and scrubbers, hydronic heating and cooling systems, humidification and dehumidification equipement, automatic controls, noise reduction.   Energy conservation and air conditioning for special applications: waste heat, recovery, cogeneration of power and refrigeration, industrial air conditioning, textile processing, clean spaces.
+
+## ME 685: Analytical Combustion
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## ME 687: Fire Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Energy Release Rates Basic definitions - burning rate or mass loss rate, combustion efficiency, energy release rate or heat release rate, Factors affecting energy release rates in fires, Energy release rates based on fire burn measurements - energy release rate, burning rate, heat of combustion and combustion efficiency, Pool fires - burning rate of pool fires, diameter dependence, steady burning of solids and liquids Fire Plumes and Flame Heights Flame characteristics - diffusion, buoyancy, turbulence, periodic instability of buoyant plumes and pool fires, mean flame height, flame height correlations, flame height of natural fires, Turbulent fire plume characteristics, Ideal plume- continuity equations, momentum and buoyancy equations along with solutions, Plume equations based on experim...
+
+## ME 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## ME 695: Introduction to Nuclear Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Nuclear reactions, radioactive decay, decay chains, Fission and fusion reactions, reaction cross-sections, multiplication factor for infinite and finite medium, criticality, conversion and breeding. One group neutron diffusion theory, Concept of source and criticality problems, solution for one dimensional equations for simple geometries, Criticality calculations using one group theory, One and half group theory, Criticality calculations using one and half group theory. Nuclear materials and their application, Waste generation and their treatment Nuclear reactor systems.
+
+## ME 698: III Stage Project
+- Credits: 40
+- Type: Project
+- Prerequisite: 0
+
+## ME 699: Magnetohydrodynamics and its engineering applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Basic Principles: Revision of basic electromagnetic theory - Magnetostatics, Biot-Savart law, Electrodynamics, Maxwell-s equations, Basic fluid dynamics - Conservation equations of mass, momentum and energy, Vorticity equation, Kelvin & Helmholtz theorems, Boundary Layers, Ekman layers in rotating fluids  Kinematics of Magnetohydrodynamics (MHD): Low-frequency approximation, MHD equation, Magnetic Reynolds number (Rm) and Interaction Parameter, Analogy with the vorticity equation, Diffusion and advection of magnetic field, Two-dimensional MHD problems  Magnetic force and its effects: Lorentz force and its effects, Hartmann number, Maxwell stresses, Linear Pinch, Force-free fields, Vorticity creation and suppression  Boundary & external conditions: Boundary conditions on velocity, magnetic ...
+
+## ME 701: Optimization Methods in Engineering Design
+- Credits: 6
+- Type: Theory
+- Description: Need for optimization and historical development. Classification and formulation of optimisation problem, classical optimization methods Differential calculus, Lagrangian theory, Kuhn Tucker condition.  Unconstrained minimization techniques, one dimensional minimization techniques, one dimensional minimization, Fibonnacci, Goldern section and quadratic interpolation methods. Multi- dimensional minimisation, Univariate, Conjugate direction, gradient and variable metric methods. Constrained minimization techniques, penalty function methods, feasible direction and gradient projection method.   Introduction to geometric programming, linear programming and simplex method. Examples and applications of the above methods in the recent engineering design literature.
+
+## ME 702: Experimental Engineering Project
+- Credits: 6
+- Type: Laboratory
+- Description: Experimental Planning; Preliminary, intermediate and final stages in experimental investigations. Selection of instruments based on static, dynamic characteristics and allowable errors. Analysis of experimental data, curve fitting, report writing.  Calibration of measuring devices commonly used in Thermal Engineering. Estimates of error in the measurement of common parameters.   Experimental project. Planning and execution of an open ended experiment. Analysis of data and reporting.
+
+## ME 704: Computational Methods in Thermal & Fluid Engg
+- Credits: 6
+- Type: Theory
+- Description: Introduction, numerical integration, solution to algebraic equations, solution to ordinary differential equations, application to conduction, radiation and flow processes. Solution to partial differential equations, application to conduction, convection and flow problems.  Difference forms, implicit and explicit methods for steady state and transient problems. Accuracy stability, speed of convergence, etc.   Governing relation and boundary conditions. Solution to conduction problems. Convective problems in laminar and turbulent flows. Choice of governing equations and solution methods.
+
+## ME 710: Vibration Engg.
+- Credits: 6
+- Type: Theory
+- Description: Review of lumped parameter modelling of vibrations. Vibrations of continuous systems-bars, beams and plates. Flexural and torsional vibrations. Classical and approximate methods of analysis. Vibration experimentation. Standard vibration test set-up. Vibration exciters and pickups. Advanced vibration analysis. Introduction to self-excited, non-industrial and random vibrations. Some case studies of industrial problems. Demonstration of some experiments in the vibrations laboratory.
+
+## ME 711: Manufacturing Planning and Control
+- Credits: 6
+- Type: Theory
+- Description: Overview of manufacturing systems and various issues of interest: Assembly Line, Repetitive batch manufacturing, Cellular manufacturing, FMS, JIT, CIM. Preplanning: Forecasting, Economic analysis, Aggregate planning, Capacity planning, Inventory planning.  Decision making in design of manufacturing systems: Group technology, Line balancing, Plant layout.   Operations planning: MRP, MRP II, Hierarchical planning systems, JIT systems, FMS. Operation and control: Lot sizing decisions, Production scheduling, Line of balance, Quality planning and control, Cost planning and control.   Simulation analysis of manufacturing systems. Case studies.
+
+## ME 712: Computer Numerical Control and Programming.
+- Credits: 6
+- Type: Theory
+- Description: . Fundamentals of  Numerical Control - NC, CNC and DNC. Classification of CNC machines - Axes, Configurations, Control Strategies. Computational Algorithms for Interpolationo - Linear,  Circular and Parametric.. Manual Part Programmin - Formats. Codes and Cycles. Advanced Programming Techniques for CNC Millling and Turning Centers.. Macros and Parametric Programming Techniques.. Computer Assisted Process Planning - Techniques, Algoritms, CAM Sofrware,. Sculptured surface  machining - algorithms for multi surface and CVerification of CNC part programs. Data Standards of CNC - STEP NC. Open Architecture and Distributed CNC manufacturing.,
+
+## ME 714: Computer Integrated manufacturing
+- Credits: 6
+- Type: Theory
+- Description: Introduction to CIM, Basic building blocks of CIM, CNC machines, Tool handling systems, Material handling systems.  CNC machines types, classification, File formats, Controllers, Distributed NC, Hierarchical control, Issues in file transfer and integration, Tooling on CNC, Fixtures on CNC. Material handling and storage systems like Robots, AGVS, systems, AS/RS etc., Development for total material handling system.   Automatic inspection systems use of CMM, Communication systems, Links in the network, Computer control systems.   From product design to manufacturing, Introduction to GT, CAPP, Scheduling, MRP, Flexible cell, FMS system design, development and utilization, Computer simulation of FMS, Packages available, Illustrative examples.   Product data management for CIM. Integration of th...
+
+## ME 721: Design Engg. Lab
+- Credits: 4
+- Type: Laboratory
+
+## ME 722: Analysis and Control in Flexible Manufacturing Systems
+- Credits: 6
+- Type: Theory
+- Description: Overview of basic elements and features of flexible manufacturing systems; classification of systems and configurations; nature of decision problems in design, operation and control of the systems; methods for part selection, grouping of machines, allocation of tools; scope of application of group technlogy; objectives and approaches in dynamic loading problems; modellilng and optimization in routing decisions; closed queuing networks and related models for performance analysis; Mean Value analysis; models for design and operational control of AGV systems; sequencing activities of machine tending robots; coordination of simultaneous operations by multiple robots; elements of real time scheduling; deadlock problems, their detection and prevention; Petri Net models, their simulation and scop...
+
+## ME 724: Essentials of Turbulence
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## ME 725: Introduction to Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to Vectors/Tensors; Viscosity, thermal conductivity as mechanism of momentum energy transport; Control volume balance equations; Governing equations for mass, momentum and energy in differential form, substantial derivatives; One dimensional fluid flow and heat transfer, Velocity and temperature distribution in flow between parallel plates, pipe flow. Two dimensional boundary layer flow and heat transfer, similarity transformation and integral methods for obtaining solutions; Heat transfer during phase change, Radiation heat transfer, heat exchangers
+
+## ME 726: Methods Engineering and Work Measurement
+- Credits: 6
+- Type: Theory
+- Description: Formulation analysis of methods design problems, Search for alternative solutions, Evaluation criteria, Timing and rating operators, Adjustment for job difficulty, Machine interference, Predetermined time systems, Applying motion and time study ,  Works sampling
+
+## ME 728: Intelligent Product Design and Manufacturing
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Intelligent Manufacturing Systems – Architecture, Basic building blocks, Techniques for Knowledge modeling and representation, rule based and fuzzy systems   Artificial Neural Networks – The Perceptron model, network architectures, Pattern recognition and classification, Learning methodologies, Back propagation algorithm, Design of neural networks  Genetic Algorithms – Basics, Encoding, crossover and mutation strategies, case studies  Product–Process Design – Network modeling techniques, Analysis and decomposition of Process / System models, Assembly planning, Tolerance synthesis and optimization,   Intelligent Manufacturing Planning – Process Planning, Operation Sequence and Path planning with constraints, Case studies in CAPP, Robot navigation, routing, configuration design etc.  Intelli...
+
+## ME 729: Nuclear Reactor Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to transport theory Multiregion, Multigroup neutron diffusion equation, Source and criticality problems for two-group neutron diffusion equation, Methodology for solving multigroup neutron diffusion equation. Numerical solutions of one group neutron diffusion equations, power iterations for criticality calculations.  Point Reactor kinetics, Concept of delay groups. Neutron fission products, neutron poison, perturbation theory
+
+## ME 730: Ultra-Precision Machining
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Single Point Tool Approach 303242302200302223 Principles of single point diamond turning, Machine tool, Single and polycrystalline diamond tools; Chip formation and surface quality evaluation, Modeling of machining mechanics, Implications of size-effect and minimum depth of cut.UP machining of brittle materials: Ductile regime machining of ceramics and glasses, Cutting tool geometry and modeling of ductile-brittle transition in material removal mechanisms.Multi-point Tool Approach 303242302200302223 Micro-cutting, Micro-drilling and micro-milling; Mechanics of machining including the effect of scale reduction, Cutting tool geometry and manufacture.Abrasive Tool Approach Atomic cluster processing using Nano- and micro-grinding, Elastic emission machining, Form lapping and honing, In-process...
+
+## ME 732: Selected Applications of Operations Research & Artificial Intelligence in Manufacturing Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Overview of application of O.R., A.I. and hybrid methods, in operational control of systems involving manufacturing capacities, flows and stocks.  Mathematical Programming and Knowledge-based Systems methods in reactive scheduling systems using hierarchical control.  Heuristics and Neural Net based hybrid systems for scheduling in complex job shops and in sequencing in flexible flow lines.  Dynamic job routing strategies in Flexible Manufacturing Systems; controlling flow of Automated Guided Vehicles in FMS and scheduling of vehicles in Automated Storage & Retrieval System.  Control of stocks and load smoothing in capacitated production-inventory systems; control of inventories in assemble-to-order systems, pull manufacturing systems and divergent inventory systems. Scope for use of Intell...
+
+## ME 733: Nuclear Safety and Reliability
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Basic concepts of reliability, Probabilistic Safety Analysis, Sources of nuclear radiation; Ionization and energy deposition in matter with an emphasis on biological systems; Principles of dosimetry; Determination of exposure and limits for internal and external emitters, Shielding calculations; Radiation detection Accident analysis, Loss of coolant analysis, containment loading, Active and passive engineered safety systems. Dispersion of radioactive materials in the environment, calculation of expected dose following an accident, emergency planning, Safety philosophy, Regulatory guidelines in India and other countries
+
+## ME 734: Vibro-acoustics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: viiCourse Content*1.Single degree of freedom systemComplex exponential method, impedance, power input, power factor, frequency response, impulse response function, electrical analogies (force- voltage and force- current).2.Continuous systemsStrings, beams, plates and shells:   modal and wave approach, drive point and transfer mobility, modal density.3.Sound structure interactionVolume source, baffled piston, and sound radiation by flexural modes of plates and shells, radiation efficiency.4.Fluid-structure vibration interactionPractical aspects, pressure fields on vibrating surfaces, wave impedances of structures and fluids, fluid loading of vibrating plates5.Random vibration Ensemble averages, stationary and ergodic  processes, autospectrum, cross‑spectrum, Fast Fourier transform, cepstrum...
+
+## ME 735: Computer Graphics and Product Modeling
+- Credits: 6
+- Type: Theory
+- Description: Role of Computer Graphics in Product Modeling  Elements of a graphics system -  Vector and Raster devices, Bresenham and DDA raster graphics algorithms, Viewing Pipeline, Window, Viewport and Clipping transformations Geometric and Projection Transformations  Homogenous co-ordinate system, Transformations in 2D and 3D Geometric design/synthesis of Planar and Space curves - Vector valued Parametric and Rational equations, Hermite, Bezier,  B-spline and NURBS curves, Modeling of Freeform surfaces - Coons, Bezier and NURBS patches, Developable Surfaces  Fundamentals of 3 D Product Modeling - Topology of Solids, Euler-Poincare equations, Geometric modeling using Boundary representation (BRep) and Set Theoretic (CSG) approaches, Regularized Boolean Operations, Constraint based modeling,  Feature...
+
+## ME 738: Nuclear Reactor Thermal Hydraulics
+- Credits: 6
+- Type: Theory
+- Description: Overview of nuclear reactor systems, Heat generation in reactors, Thermal constraints, analysis of conduction, Heat transfer characteristics in single phase flow, pool boiling and flow boiling, Governing equations for single phase convective heat transfer and its applications, fundamental aspects of two phase flow, analysis of loss of flow accidents (lumped models), Natural convection cooling, Loss of coolant analysis, ,Governing equations for sub-channel analysis.
+
+## ME 739: Combustion & Emissions in IC Engines
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ME 741: Turbulence and Combustions Modeling
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Turbulence: General properties of turbulence, Scales of turbulence, Energy spectra, law of the wall, statistical description of turbulent flows Closure       Problem:       Reynolds     averaging, Correlations,     Reynolds-averaged         equation, Reynolds-Stress equation Algebraic Models: Mixing length hypothesis, applications to free shear flows, mixing layer and jet. Variants of mixing length model, applications to wall bounded flows One and Two Equation model: Turbulence energy equation, one equation model, Two equation models, k-omega and k-epsilon models, Applications to free shear flows, Perturbation analysis of the boundary layer, Application to wall bounded flows, Shear Stress Transport (SST) model Advanced models: Brief introduction to LES and DNS Basics of Tur...
+
+## ME 743: Optical Methods in Mechanical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Introduction to experiments: Need for experiments; Intrusive versus non-intrusive experimental techniques; Probes and calibration; Errors: Sources of errors (temporal errors, dynamic errors, systematic and operational errors, hardware related errors, software related errors etc.); Scatter. Introduction to light propagation and basic optics: Introduction to wave motion, Longitudinal waves, Transverse waves, Wave equation, Phase, Phase       Velocity;     Scattering;      Dispersion; Interference; Index of refraction; Refraction and law of refraction; Reflection and law of reflection; Introduction to geometrical optics; Lenses, Properties of thin lens, Mirrors, Focal points and planes; Resolution, Diffraction limit; Aberrations; Superposition of two waves, Optical path difference, Conditions...
+
+## ME 744: Applied Random Vibrations
+- Credits: 6
+- Type: Theory
+- Description: Single Degree of Freedom systems and Multi Degree of Freedom Systems.  Statistical properties of random processes, level crossing analysis, Response of linear systems to random vibrations.   Single processing, Aliasing, basic lag and spectral windows, smoothing spectral estimates Transducers and Instrumentation, FFT analyzers, data acquisition systems.   Failure by fatigue due to random vibration.
+
+## ME 747: Interfacial Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Description: 1.Basic Concepts of interfaces: Interfacial Tension, Laplace Equation, Contact Angle, and Young-Laplace Equation.2.Surface energy: Surface tension driven flows, Coating flows, Thermocapillary flows, capillary phenomena.3.Wetting: Wetting and spreading of liquids, wetting line pinning and hysteresis, dynamics of wetting, three phase contact line, Moving contact lines, wetting of textured surfaces, wetting and porous media,4.Capillary Statics: Shapes of Drops and Thin films.5.Jets and Drops: Generation, Dynamics, Stability and impact with solid surfaces, Plateau302226Rayleigh instability6.Surfactants, Bubbles: Properties of surfactant solutions and surface films, nucleation, stability, dynamics of bubbles.7. Experimental techniques involving interfaces: High-speed visualization, Laser-based ...
+
+## ME 748: Computer Aided Simulation of Machines
+- Credits: 6
+- Type: Theory
+- Description: Review of Newton-Euler formulation for rigid body dynamics. Lagrange?s fomulation for particles and rigid bodies. Conservative and Non-conservative systems.  Modeling of Coulomb?s friction, impact and flexible bodies.  System of interconnected bodies ? kinematics constraints and formulation of equations of motion, techniques for solving ODE?s and DAE?s (ordinary differential equations and differential ?algebraic equations), stiffness of equations and stability of solutions.  Simulation of typical multi-body systems (examples drawn from high speed packaging machinery, robotic manipulators, etc.)
+
+## ME 750: Sheet Metal Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME 33
+- Description: Sheet metal production, Mechanical properties and their assessment, Forming Limit Diagram (FLD), Anisotopic yield criteria, Stress and strain paths.  Sheet metal forming processes: Shearing, Punching/Blanking, Bending, Deep drawing, Pre and post treatment of sheet metal pars.  Process modeling & analysis of typical processes, Scope of CAD/AM in sheet metal forming.  Numerical Analysis of forming processes.  Varieties of sheet metal ? Ferrous and Non ferrous.  Forming Machines : Conventional  and Advanced ? CNC shears, Press brakes.  Turret punching press etc., Sheet handling equipment.  Tool design & Design of inspection fixtures, Component handling.  Super plastic forming.
+
+## ME 751: Mechanics of Deformable Bodies
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Vectors and Tensors: Indicial notation, Summation convention, Vectors and Cartesian Tensors, Vector and Tensor Calculus.2. Kinematics: Bodies and deformation, Rigid deformation, Strain, Motion, Material derivative.3. Balance laws: Transport Theorems, Mass Balance, Stress, Body force, Cauchy302222s Stress Principle, Energy Balance based on the First Law of Thermodynamics, Entropy and the Second Law, Clausius-Duhem Inequality, Jump conditions, Variational Principles.4. Elastic constitutive laws: Elastic response function and hyperelasticity, Principle of Frame-indifference, Material symmetry and isotropy, Constraints, Stress rates.5. Linearized theory of Elasticity: Linearization of governing equations, Uniqueness, Minimum potential energy principle, Principle of Virtual w...
+
+## ME 753: Mechanics of Polymers
+- Credits: 6
+- Type: Theory
+- Description: Broadly, the following aspects are covered in the course: basics of polymer structure, their applications in engineering, typical processing techniques, mechanical properties of polymers relevant to engineering applications, theories of viscoelasticity and viscoplasticity, Boltzmann superposition method and time-temperature equivalence, experimental techniques used to measure polymer properties for modeling (e.g., DMA), fracture and fatigue failure in polymers. Syllabus: 1.Introduction to polymers, applications and processing 2.Mechanical properties of polymers 3.Viscoelasticity 4.Creep, stress relaxation, Boltzmann superposition principle, mechanical models, dynamic behavior. 5.Yielding in polymers 6.Finite strain viscoplasticity 7.Experimental methods to measure properties of solid polym...
+
+## ME 754: Textile Machines Design & Automation
+- Credits: 6
+- Type: Theory
+- Description: ntroduction to Textiles.  Description of process, machinery and mechanics.  Design of power transmission systems and mechanisms used in textile machinery.  Variable speed drives and tension control.  Automation and application of microprocessors to textile machinery automation and textile instrumentation.  Transducers and control systems.  Case studies on ? Design and Automation of Yarn processing, weaving, cloth processing and textile machinery and equipment.  High production cards, High speed spinning, Weft insertion
+
+## ME 755: Advanced Mechanics of Solid
+- Credits: 6
+- Type: Theory
+- Prerequisite: ME 201
+- Description: 1. Inclusions and inhomogeneity mechanics:Review of linear elasticity, Green302222s functionfunction: Kelvin302222s problem; Boussinnesq problem,Betti302222s reciprocity theorem, Inclusion and eigenstrain, Eshelby theorem for ellipsoidal inclusions,Eshelby tensor, Energy and energetic forces forinclusion problems.2. Crack mechanics: Griffith problem, Ellipsoidalvoids and cracks, crack opening displacement,Stress intensity factor, Energy release rates andcrack extension force, J-integral, Singular integralequations.3. Dislocation mechanics: Elastic field of adislocation loop, Self-energy of a dislocation loop,Peach-Koehler force on a dislocation.4. Contact mechanics: Hertz problem of contactbetween elastic solids, JKR problem of adhesivecontact between elastic solids, Prandtl problem andsli...
+
+## ME 756: Numerical Modelling of Manufacturing Processes
+- Credits: 6
+- Type: Theory
+- Description: Review of Manufacturing Processes, Influence of process variables on manufactrugin processes, Roll of numerical modelling in simulating manufacturing processes.Introduction and fundamentals of FEM, Elastic stress analysis, variational approach, Weighted residue technique, steady and trasient state heat transfer analysis, material non-linearity.Application of FEM with respect to the problem types (thermal, solid or fluid), Approach to modelling of manufacturing processes (welding, casting, forming, etc.), Discussions on major causes of errors, Training on the use of FEM on sample problems.Application of other numerical techniques to manufacturing process simulation
+
+## ME 757: Galerkin Methods for Fluid Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Galerkin methods including global and local methods as well as continuous and discontinuous methods will be covered in detail; finite differences will be covered for comparing and contrasting. One-dimensional partial differential equations such as the linear advection-diffusion equation and the Poisson equation will be used to demonstrate the implementation of the methods. One-dimensional systems of equations such as the shallow water equations and the Euler equations will be covered as well. The two-dimensional Laplace and advection-diffusion will also be discussed as well as extensions to systems of nonlinear equations.  1.Introduction: The importance of numerical methods/modeling for solving real world problems. Galerkin methods and their role in scientific computing.   2.Classification...
+
+## ME 758: Microfluidics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## ME 759: Nonlinear Finite Element Methods
+- Credits: 6
+- Type: Theory
+- Description: 1) Review of linear FEA:  FE formulation of 1D bar, 3D linear elastic  continuum, 2D plane strain, plane stress, and  axisymmetric elements; Isoparametric mapping;  numerical integration. 2) FE formulation for 1D plasticity:  Elastic-perfectly plastic material; Isotropic and  kinematic hardening; Integration algorithms for  1D plasticity; FE formulation; Newton-Raphson  method for solving nonlinear equilibrium  equations; 1D viscoplasticity and integration  algorithm. 3) Continuum theories of plasticity:  Review of tensor algebra; Yield condition, flow  rule and hardening rules; loading and unloading  conditions; Drucker-s stability postulates;  Convexity and normality; J2 flow theory of  plasticity and viscoplasticity, Gurson model. 4) FE procedures for 2D and 3D plasticity:  Integration ...
+
+## ME 760: Fuels  and Combustion
+- Credits: 6
+- Type: Theory
+- Description: The World s requirement of heat and power and how they are supplied. The types of fuels which are available, their nature and properties. Hydrocarbon fuel testing. Fuel reserves and use of energy in India. Synthetic and other fuels. Thermodynamics of combustion. Calculation of temperature and equilibrium flame gas composition following constant pressure and constant volume combustion. Elementary chemical kinetics. Premixed flames, theories of flame propagation, factors affecting propagation velocity, effects of turbulence. Diffusion flames. Burning rates of solid and liquid fuels, combustion of a fuel droplet and fuel sprays, combustion of coal and pulverised particles in air. Combustion in I.C. engines, gas turbine combustion systems.
+
+## ME 761: Advanced Stereology and Microstructural Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Concepts and language of stereology; geometrical probability; fundamental operations in stereology; averaging with respect to orientation; basic stereological parameters on true 2-D sections and thick sections; topological parameters of microstructure; error analysis; applications of analysis of optical, scanning and transmission electron micrographs; numerical density and size distribution of particles and grains of various shapes and sizes; stereological analysis of anisotropic microstructures; fractal description of various microstructures; fractal dimensions and its significance; applications to characterization of martensitic, polycrystalline and other structures and fracture surfaces. Application of digital Image analysis for quantitative analysis of microstructures and mathematical ...
+
+## ME 762: Advanced Engineering Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Three -dimensional kinematics and dynamics of particles and rigid bodies:linear and angular momentum;energy and stability considertations;non-inertial reference frames.(Ref.Meirovitch,Ch.3 and 4)Analytical Dynamics:principle of virtual workHamilton principle, Lagrange equations, generalized coordinates,holonomic and non-holonomic constraints (Ref: Meirovitch, Ch2: Greenwood,Ch,2,3 and 7) State space formulation of dynamics equations; time-domain numerical integration;computer implementation and analysis of associated errors.(ref:course handouts/notes) Experimental dynamics: essential of digital signal processing;sensors;computer-based data acquisition;system identification and dignostics.(ref. Doebelin,Ch4,11,13,14;Den Hartog,Ch,2: Course handouts/notes)  Analytical and/or experimental inv...
+
+## ME 765: Micro-forming
+- Credits: 6
+- Type: Theory
+- Description: Fundamental of Micro-manufacturing; Mechanics of  micro-forming; Mechanical property at micron-scale; Size effects; Microstructural effects; Micro-forming processes: Micro-Extrusion, Micro-Drawing, Micro-stamping, micro- Punching, Micro-Rolling, Electromagnetic forming, Micro-laser forming; Micro-forming machines, tooling and handling; Micro-forming of Polymers; Quality, inspection and process control; Modelling and analysis at micro-scale; Simulation of Micro-forming processes; Micro fabrication in semiconductor industry; Applications of micro forming.
+
+## ME 766: High Performance Scientific Computing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to high performance computing and scientific computing. The need for HPSC. Processor performance. Memory hierarchy. Multi-core processing and Vector computing Introduction to parallel programming concepts and  parallel algorithms Effective use of command line Linux. Bash scripting Use of version control systems such as Git/SVN/Mercurial. Introduction to OpenMP and thread programming Introduction to MPI programming Introduction to GPGPU / Vector programming Effective use of debuggers and parallel debugging Performance analysis of parallel programming Use of toolkits such as BLAS, LAPACK, PETSC Advanced scientific visualization.
+
+## ME 768: Introduction to Microsystems Packaging
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of Microsystems, Sensors and actuators, Basic principles of sensing and actuation mechanism, piezoelectric materials, MEMS fabrication process steps (lithography, wafer bonding, wet/dry etching, etc) Overview of Microsystems packaging: Role and need of packaging in Microsystems, Different hierarchy levels of packaging, Technology roadmap of  Packaging Interconnection choices, wire bonding, flip-chip, 3D Interconnects, Through-silicon Vias, Advanced interconnectsFundamentals of packaging materials and selection in Packaging: silicon, glass, organic substrate, encapsulation materials Single-chip, multi-chip and wafer-level packagingPrinter-circuit board technology, Surface mount Technology, Soldering, lead and lead-free solders, Under-bump-metallization (UBM) layersThermal manag...
+
+## ME 769: Combustion in Automobile and Gas Turbine Engines
+- Credits: 6
+- Type: Theory
+- Description: Introduction and Cycles: IC engines classifications, Air standard cycles, Fuel air and actual cycles, Comparison of cycles, Numerical problems.                                                                                                                                              Combustion in SI and CI engines: Stages of combustion, knocking combustion and factors affecting knocking/detonation.                                                                                                                         Miscellaneous chapters:   Testing and performance of IC engines, New technologies like Direct Injection Stratified Charge (DISC) engines, Homogeneous charge CI engines (HCCI).                                                            Thermodynamics of Combustion: Combustion s...
+
+## ME 770: Thermal Design of Electronic Equipment
+- Credits: 6
+- Type: Theory
+- Description: Heat transfer fundamentals:  review of conduction, convection and radiation Introduction, basic definitions, classification: electronic packages and self-heatingIntroduction, basic definitions, classification: thermal management of electronic packages and datacentersContact resistance: elastic-elastic contacts, elastic-plastic contactsConjugate conduction and thermal spreading: derivation of analytical solution for spreading in heat sink base. Fin analysis, heat sink design:  derivation of general thermal resistance network.Natural convection in electronics packagingRadiation in electronic packagesForced convection in electronics Liquid cold plates for electronics coolingJet impingement 302226 analytical solution derivationBoiling and condensationImmersion cooling of electronics 302226 des...
+
+## ME 772: Processing of Aerospace Materials-I
+- Credits: 6
+- Type: Theory
+- Description: - Overview of the course: scope and importance (1) [1] - Selection of materials for air frames (2) [3] - Selection of materials for aeroengines (2) [5] - Theory of air induction melting, degassing and inoculation, and application to aluminium alloys (2)[7] - General solidification microstructures, defects and control (2)[9] - Theory of semi continuous casting, and application to aluminium alloys (1) [10] - Theory of high temperature deformation and cold working (3) [13] - Forging, rolling and extrusion of aluminium alloys (2) [15] - Phase transformations in aluminium alloys and heat treatment practices (2) [17] - Theory of vacuum induction melting and ingot casting, and application to nickel base superalloys (2)[19] - Forging and rolling of wrought nickel base superalloys (2) [21] - Theory...
+
+## ME 773: Reliability Modelling and Analysis for Engineering Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Course Content:  Importance of reliability modelling and analysis for engineering systems  Basics of reliability, availability and maintainability of engineering systems  Failure data analysis for non-repairable systems  Reliability models for non-repairable systems: ◦ System reliability models, ◦ Reliability models for mixed population and competing failure modes ◦ Stress-strength, degradation based and shock based reliability models ◦ Conditional reliability models and residual life estimation ◦ Reliability models for multiple operational phases 9.  Failure data analysis for repairable systems  Reliability models for repairable systems ◦ HPP and NHPP models ◦ Generalized models with restoration factors  Failure simulation for system performance evaluation  Warranty policies, mode...
+
+## ME 774: Processing of Aerospace Materials-II
+- Credits: 6
+- Type: Theory
+- Description: Criteria of materials selection for given aerospace applications will be taught. The science and technological aspects of processing of titanium alloys, special steels and carbon fibre reinforced ceramic composites will be explained. The processes covered will be: (i) vacuum arc remelting, forging, rolling and heat treatment of titanium alloys, (ii) induction melting, continuous casting, forging/ring rolling and heat treatment of steels, (iii) pyrolysis, impregnation and heat treatment of Cf -C composites. Equipments used to manufacture mill forms and components will be described. The complete course contents along with (actual hours) and [cumulative hours] are shown below (assuming 1.5 hours per lecture):   Functions of subsystems and structural parts of aircraft, aeroengine and rockets ...
+
+## ME 775: Mechanisms in Crystal Plasticity
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Content (List of the topics/subtopics to be covered in the lectures/practicals/assignments): The first part of the course focuses on concepts of dislocation theory and the later part focuses on modeling i.e. crystal kinematics and boundary value problem. The complete course content along with (actual hours) and [cumulative hours] is shown below:  A. Dislocation Mechanics 1. Introduction to Vector Algebra and Vector Calculus (2) [2] 2. Crystal Structures and Linear Elasticity (2) [4] 3. Mathematical Description of a Dislocation (2) [6] 4. Strain and Stress Fields of a Dislocation (2) [8] 5. Force on a Dislocation (2) [10] 6. Elastic Interactions of Dislocations (2) [12] 7. Defect Dynamics and Transport (2) [14] 8. Interfaces and Boundaries (2) [16] B. Crystal Plasticity Modeling 9. Introduc...
+
+## ME 776: Fluid-Structure Interaction
+- Credits: 6
+- Type: Theory
+- Description: Basics and concepts Waves in fluids and structures, Interaction between wavetypes in fluids and structures; Coupled systems, Dynamic dimensional analysis in FSI, Dimensionless parameters in a coupled problem, Dimensional analysis of balance equations; Introduction to variety of interaction configurations, Moving rigid bodies in flow vs. flow-induced deformation, Added mass effect.  Stationary and moving rigid structures in flow Drag reduction due to detached rigid splitter plate, Vortex induced vibrations of flow past a cylinder, Single and dual degrees of freedom with spring-dashpot system, Lock-on characteristics, transversely vs longitudinal/in-line oscillations/flow perturbations, Vortex regimes.   Deformable structures in flow Large- vs small-scale flow-induced deformation, Geometrica...
+
+## ME 778: Moving Boundary Problems in Solidification
+- Credits: 6
+- Type: Theory
+- Description: Introduction to evolving interfaces and necessity of modelling. Examples of casting, mould filling, seepage, sedimentation, cryobiology, electrochemistry and porous medium flowReview of multicomponent and multiphase systemsReview of transport phenomena and processesPhase change, Stefan302222s problem, Pure and binary alloys, plane-front and dendritic growth Directional solidificationAnalytical solutionsFormulation of moving and free boundary problems Front-tracking methods  Front-fixing methods Fixed-domain methods Numerical solutions and simple 1-D programming examples Coupling approaches for multi-phase problems 302226 solid-liquid-gas systems, Eutectic/Peritectic solidificationRecent advances and challenges, Experimental validations, Introduction to multi-scale modelling.
+
+## ME 779: Control Systems
+- Credits: 6
+- Type: Theory
+- Description: System Dynamics: Laplace transform, system transfer function, types of excitations, impulse response function, first-order systems, secondorder systems. Feedback control Description systems: history, physical modeling, mathematical modeling, block diagram algebra, signal flow graphs. Transient response and stability: second-order systems, control system types, steady-state error, disturbance, controllers, higher order systems, RouthHurwitz-s stability criterion. Controllers: dashpot, hydraulic controllers, pneumatic description of controllers, tuning of PID controllers. Root-locus method: physical significance, construction steps, additional information from root-locus plots, gain margin, transient characteristics, steady-state error. Nyquist-s stability criterion: Nyquist (polar) plots, t...
+
+## ME 780: Introduction to Biofluid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Structure and function of biological cells, Types of tissues, Hierarchial structure of tissues, Human circulatory system, Lung physiology, Skeletal physiology, Continuum kinematics, Constitutive relationships for fluid & solid stress, Navier Stokes Equation, Generalized Hooke-s law, Potential flow theory, Vortex dynamics Swimming and flying: S callop theorem, Resistive force theory, Motion of flagellum, Swimming of flexible sheet, Small amplitude swimming of fish, Steady flight, Soaring of birds, Clap and fling mechanism for insect flight Blood flow in human body: B lood rheology, Flow through arteries and veins, Wave propagation in arterial circulation, Flow separation in bifurcations, Pulsatile flow, Cardiac cycle, Heart motion, Heart valve function, Disease conditions, Mic...
+
+## ME 781: Statistical Machine Learning and Data Mining
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: COURSE CONTENTSIntroduction / Foundation(4 lectures - 6 hours)- Essentials of Statistics- What is Data Mining- Data Mining Stages- Methods overview- Applications overviewData Mining Methods(10 Lectures - 15 hours)- Clustering- Classification- Association- Sequence Analysis- Regressions- Decision Trees- Neural Networks- SVMEngineering and Manufacturing Applications(6 lectures - 9 hours)- Data Mining for Product Design- Applications in Planning and Scheduling- Data Mining for Process and Quality Control- Application of Data Mining in Maintenance- Applications in Shop Floor Control and Layout- Introduction to Cyber Physical SystemsHandling Very Large Data Sets (Big Data) andtheir Analytics(5 lectures - 7.5 hours)- Definition of Big Data- Structured / semi-structured / un-structured data- Tech...
+
+## ME 782: Design Optimization
+- Credits: 6
+- Type: Theory
+- Description: Need for optimum design: Characteristics of Mechanical System Design - conflicting requirements of static strength, stiffness, weight, resonant frequencies, robustness, finite dimensional and infinite dimensional problems Optimum Design Problem Formulation: Formulation of optimal design problem - design variables, objective function, equality and inequality constraints; linear, nonlinear problems, Typical examples from design of machine elements Optimum Design Concepts: Concept of local and global optima, review of basics of calculus  Unconstrained problems: optimality conditions - functions of single variable, functions of multiple variables Constrained optimization: equality constraints-necessary conditions, Lagrange multipliers, Lagrange multiplier theorem General constrained problem: K...
+
+## ME 784: Non-Destructive Testing and Evaluation
+- Credits: 6
+- Type: Theory
+- Description: ...
+
+## ME 785: Machining Processes
+- Credits: 4
+- Type: Theory
+- Description: Analysis of material removal in conventional machining - shear angle solutions, stress and strain in primary deformation zone; friction, temperature and wear in the secondary and tertiary deformation zones in machining; machinabilty, mechanistic modeling as applied to turning, drilling, milling and grinding processes, machining of advanced materials. Analysis of material removal in electro-spark & electro- chemical machining processes. Analysis of ultrasonic, laser and electron-beam machining.
+
+## ME 786: Welding Processes
+- Credits: 4
+- Type: Theory
+- Description: Introduction to welding processes & technology: Joining, fusion Welding, solid state welding, mechanical joining, Gas welding, electric arc welding, laser welding, electron beam welding Fundamentals of fusion welding processes: Heat source, Analysis of heat flow in welding, Fluid flow in melt pool, Types of metal transfer Chemical reactions in welding: Gas-metal reactions, Slag-metal reactions Microstructure evolution: Solidification mechanisms, Effect of cooling rate, Grain growth at fusion zone and fusion boundary, Heat affected zone Application: Types of weld joint, Residual stresses, distortion and fatigue, Welding defects, destructive and non-destructive testing of welds Tutorials: (Analytical and numerical problems, simulation examples, case- studies
+
+## ME 787: Deformation Processes
+- Credits: 4
+- Type: Theory
+- Description: Concept of stress and strain: Fundamentals of compliance and stiffness, Concept of stress and strain Basic mechanics of plasticity: Isotropic and anisotropic yield criteria, Flow rules, normality, consistency, Effect of strain rate and temperature, Stress and strain path dependence, Limit theorems, Formability, Slip-line field theory. Application of concepts of deformation: Rolling, Forging, Extrusion and wire drawing, Sheet metal forming, Superplastic deformation Simulation of thermo-mechanical processing of materials: Physical simulation of deformation process, Modeling of deformation process
+
+## ME 788: Liquid Material Processing
+- Credits: 4
+- Type: Theory
+- Description: Introduction to processing of materials from liquid state Fundamentals of transport phenomena, solidification and microstructures Design of casting, moulding and 3D printing (gating, cooling and system design) Defects and advanced characterization Technology of process modeling, optimization and new processing modules Industrial applications and case studies New Developments and Future (ICME, Hybrid processing, Smart manufacturing) Tutorials (Analytical and numerical problems, simulation examples, case-studies)
+
+## ME 789: Computational Tools for Process Modeling
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction (3 hrs) Computing platforms, data structures Physical processes and examples 2. Review of elementary concepts (4 hrs) Integration and differentiation, polynomials, ODEs/PDEs, Discretization methods (Finite difference/volume/element techniques) 3. Numerical methods for heat and species diffusion in materials (5 hrs) Diffusion in Solid and liquid phases Formulation of linear-algebraic systems and solutions 4. Numerical methods for stress analysis in materials (5 hrs) Calculus of variations, Finite element methods 5. Optimization of functions (4 hrs) Simplex, Newton methods, Gradient optimization, Powell method etc 6. Statistical and hierarchical models for data optimization (5 hrs) Genetic Algorithm, ANN. Machine learning  7. Tutorials (1 hr every week) Numerical problems, si...
+
+## ME 790: Materials modelling using atomistic first-principles calculations
+- Credits: 6
+- Type: Theory
+- Description: Outline:  The proposed course will provide hands-on training on first-principles based state-of-the-art density functional theory (DFT) calculations. The setup of a basic planewave based-DFT calculator and the role of different simulation parameters on the obtained results would be discussed. The use of DFT calculator to calculate observable material properties such as bulk modulus, material density, speed of sound in materials, material stability, etc (without using any prior material knowledge) and their comparison with experimentally measured values (from textbook and literature) will be presented. The shortcomings of DFT calculations in predicting electronic bandgaps, handling strongly correlated solids (such as oxides) will be discussed. The course will conclude by presenting beyond-D...
+
+## ME 791: Acoustic Devices
+- Credits: 6
+- Type: Theory
+- Description: Brief review of discrete and continuous vibrating systems (single and multiple degrees of freedom, string vibrations) Overview of acoustics fundamentals (wave equation, sound sources, transmission) Electroacoustic transducers: working principles, equivalent electrical circuits Analysis and design of loudspeakers and microphones Practical aspects of using electroacoustic transducers such as reading manufacturer specifications and selecting the right acoustic transducer for an application Principles involved in the design and analysis of headphones and earbuds or other personal audio wearable devices  Basic introduction to the mechanics of hearing and mechanical and acoustic design of hearing aids.
+
+## ME 792: Communication Skills -II
+- Credits: 4
+- Description: Reflection on excellent/poor learning experiences in earlier courses/lectures Write about some interesting hobbies and experiences Demonstrate elements of a structured approach followed in papers and thesis   Write a one page abstract of any previous scientific work with the identified elements Literature Survey: Research resources, using the internet and the library facilities, identifying keywords, significance of citations  Literature search related to a technical paper-group wise. Write a one page write-up describing/analyzing the paper (homework) Group presentation of the assigned paper orally (without visual aids) for a duration of 10 minutes each  Provide feedback on the each group-s write-up and oral presentation Guidelines for delivering a good presentation, timing a talk, memoriz...
+
+## ME 793: Multiscale Materials Informatics, Discovery and Design
+- Credits: 6
+- Type: Theory
+- Description: Content (List of the topics/subtopics to be covered in the lectures/practicals/assignments):  ( ) shows the hours for a given topic. [ ] shows the accumulated hours.  Lectures Outline A.  Mathematical Background (6) 1. Preliminaries of Statistics, Bayesian Statistics (2)[2] 2. Vector and Tensor Mathematics (1)[3] 3. Polynomials (1)[4] 4. Iterative Numerical Methods (2)[6] B.  Multiscale Methods and Statistical Relevance (10) 5. Review of Multiscale Mechanics Concepts (2)[8] 6. Spatial and Temporal Mapping (2)[10] 7. Upscaling and Downscaling in Time and Space (2)[12] 8. Statistical Quantification of Material Structure Across Scales (2)[14] 9. Reduced-Order Representations of Correlations (2)[16] C.  Cyber-infrastructure for High-throughput Materials Design and Innovation (18) 10. Concept o...
+
+## ME 794: Statistical Design of Experiments
+- Credits: 6
+- Type: Theory
+- Description: Fundamental Concepts and Methods  Quality philosophy and conceptual framework  Statistical Methods and Probability Concepts for Data Characterization Classical Design of Experiments  Nature of variability, probability distributions  Empirical models (regression, hypothesis testing, confidence intervals, applications)  Two-level factorial designs (factor effects, ANOVA, residual analysis, interactions)  General 2^k factorial designs  Two-level fractional factorial designs Response Surface Methodology  First and second-order models and surfaces  Central composite designs  Multiple response analysis, Design rotatibility, Box-Behnken design Robust Design Method  Quality loss function, signal, noise and control factors, product life cycle  Matrix experiments using orthogonal arrays,...
+
+## ME 795: Cellular Solids: Properties and Engineering Applications
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Examples - images, overview of properties - density, mechanical, acoustics and thermal, application examples, engineering selection of cellular materials. Structure: Relative density (AAG), open vs closed cell (AAG), anisotropy, topological laws - Euler, Aboav-Weaire Materials Processing: Polymer, ceramic and metallic cellular solids processing methods Mechanics: AAG: elastic and plastic deformation, scaling laws, Dependence of mechanical strength on unit cell topology Acoustics: Equivalent fluid model based on Johnson-Champoux-Allard parameters, quantification of porous material acoustic performance, Dependence on unit cell topology Thermal and Fluid Flow: Conduction, convection and radiation, effective thermal conductivity, Darcy-s law, Brinkman extension, Darcy-Forchheimer...
+
+## ME 797: I Stage Project
+- Credits: 50
+- Prerequisite: 0
+
+## ME 798: II Stage Project
+- Credits: 40
+- Prerequisite: 0
+
+## ME 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## MES601: Seminar (Thermal & Fluids Engg.)
+- Credits: 4
+- Type: Seminar
+
+## MS 101: Makerspace
+- Credits: 8
+- Type: Laboratory
+- Description: 1. Engineering Drawing Basics: Projections, Sections, 3D Modeling interfaced with the software, Productassembly and tolerances, Manufacturing Practices (Conventional + Advanced)2. Kirchoff302222s current and voltage laws; independent and dependent sources. Passive electrical devices: R, L, C,and transformer. Electromechanical devices: electromagnetic relays, solenoids, DC motors,stepper motors. Electronic devices & circuits: pn junction diode, Zener diode, LED, photodiode, solar cell.Diode rectifiers: half-wave, full-wave, bridge; BJT and MOSFET amplifiers, BJT and MOSFET switches.Op amps, feedback amplifiers, oscillators, comparators, and Schmitt trigger.Logic gates and digital circuits, digital-to-analog converter (DAC), and analog-to-digital converter (ADC).Microprocessors, microcontrol...

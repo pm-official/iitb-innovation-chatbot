@@ -1,0 +1,46 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Aerospace Visiting Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Dr. A. Sivathanu Pillai
+- Department: Aerospace Visiting
+- Designation: Honorary Distinguished Professor (DRDO Retired)
+- Email: aspillai@aero.iitb.ac.in
+- Research Group: Strategic Technology and Missile Systems
+- Primary Research Area: Strategic Management — Missile Technology & Defense Program Management
+- Research Interests & Innovation Focus: Research on strategic technology development, guided missile systems, launch vehicle technology, management of large-scale high-technology defense programs. Key figure in BrahMos supersonic cruise missile development and India's missile program.
+- Notable Projects: BrahMos supersonic cruise missile development; India's missile program; Author of books on technology management; Building High Technology Capabilities in India (IETE Technical Review)
+- Key Tools & Platforms: Systems engineering, program management, technology strategy, strategic planning
+- Industry Collaborations: BrahMos Aerospace (Chief Executive & Managing Director); ISRO; DRDO; Indian defense sector
+- Awards: Padma Bhushan (2013); Padma Shri (2002); Distinguished Scientist DRDO; Known as 'Father of BrahMos'; Close associate of former President APJ Abdul Kalam
+- Innovation Keywords: missile technology, strategic management, BrahMos, DRDO, launch vehicles, technology strategy, defense systems
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Bhupendra Khandelwal
+- Department: Aerospace Visiting
+- Designation: Visiting Faculty (Assoc. Prof., University of Alabama)
+- Email: bhupendra.khandelwal@aero.iitb.ac.in
+- Research Group: Low Carbon Combustion Centre (LCCC)
+- Primary Research Area: Propulsion — Alternative Aviation Fuels, Low-Emissions Combustion & Sustainability
+- Research Interests & Innovation Focus: Research on performance evaluation of alternative aviation fuels, emissions measurement and reduction, low-emissions combustor development, fuel characterization, and combustor design optimization for sustainable aviation.
+- Notable Projects: National Jet Fuel Combustion Program (NJFCP); CLEEN program; FlexJET; JETSCREEN; Best Paper Aeronautical Journal 2020
+- Key Tools & Platforms: Combustor test facilities, emissions measurement, fuel characterization, combustion diagnostics, computational combustion
+- Industry Collaborations: Rolls-Royce; Siemens; UK Dstl; FAA; Alternative fuel development
+- Awards: Royal Aeronautical Society Centennial Scholar Award (2012); AIAA Best Paper (2019); ASME IGTI Student Scholar; Chartered Engineer (CEng); AIAA Senior Member
+- Innovation Keywords: alternative aviation fuels, low-emissions combustion, sustainable aviation fuel, emissions control, fuel characterization, combustor design, bio-fuels
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/bhupendra
+
+## R ADM Philipose PG
+- Department: Aerospace Visiting
+- Designation: Visiting Faculty (Retired Rear Admiral, Indian Navy)
+- Email: pgphilipose@aero.iitb.ac.in
+- Research Group: Aero-Systems Laboratory
+- Primary Research Area: Aero-Systems — Naval Aviation & Carrier-Based Aviation Systems
+- Research Interests & Innovation Focus: Military aviation experience with focus on aero-systems integration, naval aircraft operations, carrier-based aviation systems, and applied aeronautics for defense applications.
+- Notable Projects: Naval aviation career; Large-scale aerospace system development; Carrier operations experience
+- Key Tools & Platforms: Systems engineering, aircraft integration, operational analysis, naval aviation
+- Industry Collaborations: Indian Navy; Defense aerospace
+- Awards: Rank of Rear Admiral in Indian Navy; Distinguished Naval Aviator
+- Innovation Keywords: aero-systems, naval aviation, carrier operations, systems integration, defense applications, aircraft operations
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/pgphilipose

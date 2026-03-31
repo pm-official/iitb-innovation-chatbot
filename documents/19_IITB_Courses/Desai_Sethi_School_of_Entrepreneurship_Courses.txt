@@ -1,0 +1,39 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Desai Sethi School of Entrepreneurship - Course Catalog for IIT Bombay Students
+
+
+## ENT601: Intellectual Property for Entrepreneurs
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description:  Introduction to IP Introduction   Patent Fundamentals  Patent Informatics  Copyrights  Designs 302226 All forms of design including graphic and interaction design   Trade Marks, Service Dress, Branding   Trade Secrets and other forms of IP  Industry specific IP issues   IP Management   IP Issues in Agreements
+
+## ENT603: Introduction to Entrepreneurship
+- Credits: 6
+- Type: Theory
+- Description: ENT603 Introduction to Innovation & Entrepreneurship: It is a great time to create value and to create jobs in emerging economies as an entrepreneur. This activity-oriented foundation course provides the necessary context and content for learners interested in innovation and entrepreneurship. Learners will gain an understanding of the Entrepreneurial process - the entrepreneurial mindset, opportunity identification and innovation, customer discovery and Go-To-Market, entrepreneurial finance, and technology venture creation. This course will use a combination of concept teaching and real-life storytelling to bring alive the entrepreneurial journey for learners. Learners can apply the principles and practices taught through a hands-on course project. There have been ventures created by stude...
+
+## ENT605: Business Fundamentals for Technopreneurs
+- Credits: 3
+- Type: Theory
+- Description: Businesses today are very complex and multi-disciplinary operations. Aspiring entrepreneurs and managers need to have a broad based overview of how companies operate and succeed. This course introduces the Fundamentals of Business to the learners.  1. Business and Business Environment 2. Company Structure, Goals, Strategy & Values 3. New Product Development, Manufacturing & Quality Management 4. Leading Teams & Human Resource Management 5. Marketing. Branding & Advertising 6. B2B / B2C Sales & Distribution Channels 7. Customer Service & Advocacy. 8. Supply Chain & Logistics 9. Finance & Accounting 10. Environment Society & Governance
+
+## ENT606: Developing a Proof of Concept- Basic
+- Credits: 6
+- Type: Laboratory
+- Description: ENT 606 Developing a Proof of Concept (Basic) is a foundational lab course for aspiring entrepreneurs - it is a project-based course and involves workshops in the lab where students gain hands-on experience in fundamental skills required for product development. The expected output is a product designed after learning from the workshops, and having undergone concept and product development for your start-up ideas. Both the concept and the product will be considered and evaluated for the course grade. Learning Objectives : (1) Hands-on approach to model building (2) Prototype-Design Approaches (3) Creation of working prototype (4) Testing of prototype
+
+## ENT899: Communication Skills
+- Credits: 4
+- Description: X
+
+## ENTS01: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar
+
+## ENTS02: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar

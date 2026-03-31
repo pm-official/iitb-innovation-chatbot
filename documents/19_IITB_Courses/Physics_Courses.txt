@@ -1,0 +1,570 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Physics - Course Catalog for IIT Bombay Students
+
+
+## PH 001: Physics - I
+- Credits: 0
+- Type: Theory
+
+## PH 002: Physics II
+- Credits: 0
+- Type: Theory
+
+## PH 011: Physics (Lab)
+- Credits: 0
+- Type: Laboratory
+
+## PH 012: Physics Lab
+- Credits: 0
+- Type: Laboratory
+
+## PH 103: Electricity & Magnetism
+- Credits: 6
+- Type: Theory
+- Description: Review of vector calculus - gradient, divergence, Curl and Laplacian. Spherical polar and cylindrical coordinates, Stokes and divergence theorems.   Coulomb-s law and principle of superposition. Gauss-s law and its applications. Electric potential and electrostatic energy Poisson-s and Laplace-s equations with simple examples, uniqueness theorem, boundary value problems, Properties of conductors, method of images Dielectrics- Polarization and bound charges, Displacement vector Lorentz force law (cycloidal motion in an electric and magnetic field), Magnetostatics- Biot & Savart-s law, Amperes law.  Divergence and curl of magnetic field, Vector potential  and concept of gauge, Calculation of vector potential for a finite straight conductor, infinite wire and for a uniform magnetic field Magn...
+
+## PH 105: Modern Physics
+- Credits: 6
+- Type: Theory
+- Description: Special theory of relativity: Galilean and Lorentz transformation, space time viewpoints, Minkowski space and four vectors, energy momentum conservation. Review of quantum concepts, Bohr model, Black body radiation, particle nature of light, photoelectric effect, Compton effect, matter waves, wave packets, phase and group velocity, Davisson Germer experiment, Franck-Hertz experiment, Heisenberg uncertainty principle. Schr-dinger equation, probabilistic interpretation of wave function, superposition principle, Hermitian operators. One dimensional problems: particle in a box, potential well, potential barrier and tunneling. Elements of statistical Physics: Maxwellian distribution, Bose-Einstein and Fermi-Dirac distributions.  Elements of solid state Physics: Crystal structure, Band theory, S...
+
+## PH 106: Modern Physics
+- Credits: 6
+- Type: Theory
+
+## PH 107: Quantum Physics and Application
+- Credits: 6
+- Type: Theory
+- Description: Classical equipartition theorem. Kinetic Theory, Concept of degrees of freedom, specific heat, mono - atomic, diatomic gases and solids, Black body radiation, Photoelectric Effect, Compton Scattering Concept of Wave packets:Phase velocity, group velocity, de-Broglie wavelength Experiments demonstrating wave properties of electron : Electron interference (double slit experiment), Electron Diffraction (Davison - Germer experiment) Mathematical interlude: Introduction to Fourier Transforms;Few examples (Step potentials, Gaussian wave packet), leadingto concept of Uncertainty relation. Heuristic derivation of Schrodinger Equation. Concept of free particle, particle in a box problem. Finite Square well. Bound vs. unbound states. Superposition principle of eigenstates. Concept of collapse of wav...
+
+## PH 108: Basics of Electricity & Magnetism
+- Credits: 6
+- Type: Theory
+- Description: Review of vector calculus: Spherical polar and cylindrical coordinates; gradient, divergence and curl; Divergence and Stokes theorems; Divergence and curl of electric field, Electric potential, properties of conductors;  Poissons and Laplaces equations, uniqueness theorems, boundary value problems, separation of variables, method of images, multipoles;Polarization and bound charges, Gauss law in the presence of dielectrics, Electric displacement D and boundary conditions, linear dielectrics; Divergence and curl of magnetic field, Vector potential and its applications; Magnetization, bound currents, Amperes law in magnetic materials, Magnetic field H, boundary conditions, classification of magnetic materials;  Faradays law in integral and differential forms, Motional emf, Energy in magnetic...
+
+## PH 109: Fundamental Themes in Physics
+- Credits: 6
+- Type: Theory
+- Description: 1. Physics of Ancient Times:        Laws of lever, Archimedean screw, Archemedes principle, Spherical shape of earth,       Determination of radius of earth, Planets vs stars, distances to planets 2. Heliocentric Theory: Copernicus model, Kepler-s laws, Newton-s law of universal gravitation 3. Newtonian Mechanics: Newton-s laws of motion, Application to rigid bodies, Application to continuous systems, Mechanical view of universe 4. Thermodynamics: Energy conservation and first law of thermodynamics, One way flow of heat and second law of thermodynamics 5. Field Point of View:  The development of the concept of field, Faraday-s law of induction, Maxwell-s equations and the unification of electricity, magnetism and optics. Man-made electromagnetic waves, wireless communication and developmen...
+
+## PH 110: Introduction to Classical and Quantum Physics
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Dynamics with plane polar coordinates, Dynamics in rotating frames, Special theory of relativity, deBroglie hypothesis, Fourier analysis, Heisenberg Uncertainty Principle, Schrodinger equation in one dimension, infinite potential well and other bound state problems, scattering in one dimension and tunneling.
+
+## PH 111: Introduction to classical Physics
+- Credits: 4
+- Type: Theory
+- Description: Topic-1: Dynamics with plane polar coordinates (a) Definition of plane polar coordinates and corresponding unit vectors.(b) Velocity and acceleration in plane polar coordinates.(c) Derivation of Newton`s law of gravitation from Kepler`s laws of motionTopic-2: Dynamics in rotating frames (a) Brief introduction to psuedo forces(b) Formal derivation of pseudo forces in rotating frames. Centrifugal Force and Coriolis force(c) Foucault`s pendulum and other examplesTopic-3: Special Theory of Relativity (a) Michelson-Morley Experiment(b) Einstein`s postulates and derivation of Lorentz Transformations(c) Time dilation and Length Contraction(d) Lorentz Invariance, Time and Space like intervals(e) Energy and momentum in special relativity
+
+## PH 112: Introduction to Quantum Physics
+- Credits: 4
+- Type: Theory
+- Description: Young-s Double Slit Experiment(YDSE), photoelectric effect, YDSE with single electron, failure of classical explanation of electrons as particles, introduce wave function as the solution to this problem and write down Time Dependent Schrodinger Equation (TDSE) as the evolution equation (details in [5]), examples of other experiments (For example Davisson - Germer). Consequences of wave function formalism: wave-packet formalism (explains wave-particle duality), uncertainty principle via Fourier Transform and deBroglie wavelength. (Axiomatic) Introduction to wavefunction, operators, eigenvalues, Schrodinger equation, non- commutativity, measurements. Applications and applications to real-life (stories), Infinite potential well, Finite potential well (sketched out). Reflection and Transmissio...
+
+## PH 113: Oscillations and Waves
+- Credits: 3
+- Type: Theory
+- Description: Simple Harmonic motion, damped SHM, critical damping, Sustaining oscillations in a damped oscillator. Driven oscillation, resonance, damped-driven oscillator and its resonance, Q-factor, Vanderpol oscillator, non-linear feedback for sustained oscillations. SHM in 2-dim, dependence on initial conditions, Lissajous figures, condition for closed orbits, SHM in 3-dim. Oscillations of two particle systems, symmetric and asymmetric modes, general solution to the problem. Driven oscillations of two particle system. Oscillations of `n` particle systems, normal modes, Formulation of the general problem, eigenvalues and eigenvectors of normal modes, general solution for arbitrary initial conditions. Driven oscillations. Example of a linear triatomic molecule. Longitudinal and transverse oscillations...
+
+## PH 114: Thermal Physics
+- Credits: 3
+- Type: Theory
+- Description: Thermal equilibrium, zeroth law and concept of temperature. First law and its consequences, reversible, irreversible and quasi-static processes. Second law: heat engines, concept of entropy and its statistical interpretation. Thermodynamic potentials, Maxwell`s relations. Joule Kelvin effect. Phase transitions, order of phase transitions, order parameter, critical exponents and the Clausius-Clapeyron equation. Applications to magnetism, superfluidity and superconductivity.
+
+## PH 117: Physics Lab
+- Credits: 3
+- Type: Laboratory
+- Description: 1. Lab Manual 2. Advanced Practical Physics, Worsnop and Flint
+
+## PH 201: Physics IV(Optics)
+- Credits: 6
+- Type: Theory
+- Description: Electromagnetic wave description of light, waves in vacuum,plane waves,polarization(stokes parameters), confined waves,Gaussian wave propagation,diffraction free beams, waves in isotropic media, optical response of media, Lorentz and Drude models, dispersion and absorption,wave propagation in uniaxial media, Reflection and refraction,Fresnel`s equations and their consequences. Interference,Fabry-Perot and Michelson interferometers, interference coatings,Spatial and temporal coherence,introduction to Fourier transforms,convolution theorem, Fourier transform spectroscopy, optical coherence tomography, Fraunhofer diffraction, diffraction gratings and their uses,  Fabri-perot resonator with gain, stimulated emission,lasers and holography.
+
+## PH 202: Waves & Oscillations & Optics
+- Credits: 6
+- Type: Theory
+- Description: Waves & Oscillations: Simple Harmonic motion, damped SHM, critical damping, Sustaining oscillations in a damped oscillator. Driven oscillation, resonance, damped-driven oscillator and its resonance, Q-factor, Vanderpol oscillator, non-linear feedback for sustained oscillations. SHM in 2-dim, dependence on initial conditions, Lissajous figures, condition for closed orbits, SHM in 3-dim. Oscillations of two particle systems, symmetric and asymmetric modes, general solution to the problem. Driven oscillations of two particle system. Oscillations of `n` particle systems, normal modes, Formulation of the general problem, eigenvalues and eigenvectors of normal modes, general solution for arbitrary initial conditions. Driven oscillations. Example of a linear triatomic molecule. Longitudinal and t...
+
+## PH 203: Physics V (Thermodynamics)
+- Credits: 8
+- Type: Theory
+- Description: Thermal equilibrium , zeroth law and concept of temperature. First law and its consequences, reversible, irreversible and quasi-static processes. Second law: heat engines, concept of entropy and its statistical interpretation. Thermodynamic potentials, Maxwell-s relations. Joule Kelvin effect. Phase transitions, order of phase transitions, order parameter, critical exponents and the Clausius-Clapeyron equation. Applications to magnetism , superfluidity and superconductivity.
+
+## PH 204: Quantum Mechanics I
+- Credits: 8
+- Type: Theory
+- Description: Review quantum ideas using wavefunction formalism; Linear vectorspaces and Dirac bra(ket) notation; Operators, state vector approach ofharmonic oscillator; Hydrogen atom; angular momentum, spin, addition ofangular momentum, Clebsch-Gordan coefficients.
+
+## PH 207: Introduction to Special Theory of Relativity
+- Credits: 3
+- Type: Theory
+- Description: Problems with Classical Physics, Postulates of Special Theory of Relativity, Galilean and Lorentz transformations, Examples of length contraction and time dilation.   Velocity Transformation, Relative velocity. Space-like and Time-like intervals. Concept of causality.  Doppler effect in special relativity.  Need to redefine momentum. Minkowski space. Four vectors and four scalars. Proper time interval as a four scalar. Velocity and Momentum-Energy Four Vectors. New definitions of momentum and Energy, Momentum Energy Transformation. Concept of zero rest mass particle. Transverse and longitudinal Doppler Effect. Problems involving L- frame and C-frame. Force in relativity. Newton-s second law in relativity. Equation of motion in special cases when force is along and perpendicular to the inst...
+
+## PH 215: Thermal Physics
+- Credits: 3
+- Type: Theory
+- Description: Thermal equilibrium, zeroth law and concept of temperature. First law and its consequences, reversible, irreversible and quasi-static processes. Second law: heat engines, concept of entropy and its statistical interpretation. Thermodynamic potentials, Maxwells relations. Joule Kelvin effect. Phase transitions, order of phase transitions, order parameter, critical exponents and the Clausius-Clapeyron equation. Applications to magnetism, superfluidity and superconductivity.
+
+## PH 216: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: (1) Basics of probability theory, moments, cumulants and Central limit theorem. (2) Thermodynamic equilibrium and stability, response functions and thermodynamic potentials. (3) Isolated system. Entropy and phase space volume. Micro-canonical ensemble. Ideal gas. (4) System and reservoirs. Canonical, Gibbs, and Grand Canonical ensembles. Partition function and thermodynamic connections. (5) Quantum Statistics and mixed states. Density matrix in position basis for single particle and N non-interacting Fermions and Bosons. (6) Fermi and Bose gases at High temperatures. (7) Fermi and Bose gases at low temperature, pressure, specific heat, and applications.
+
+## PH 217: Classical Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Review of Newton`s laws of motion, frames of reference, rotating frames, centrifugal and Coriolis forces. Free and constrained motion, D`Alemberts principle and Lagrange`s equation of first kind. Lagrangian formulation, Hamilton-s equation of motion. Variational principles. Canonical transformation and Poisson Bracket. Hamilton Jacobi theory and action angle variables.Periodic motion, small oscillations, normal coordinates, Central force, Kepler`s Laws and Rutherford scattering.
+
+## PH 219: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+- Description: Probability: Probability distributions with continuous and discrete outcomes, Moments and moment generating function, transformation of variables, multivariate probability densities, contour plots, common distribution functions  Errors: Error assignment, statistical and systematic errors, error propagation, error correlations   Parameter Inference: Bayesian vs. Frequentist statistics, likelihood function and its properties, likelihood ratio for hypothesis comparison, maximum likelihood estimator  Hypothesis testing: Test statistic, chi-squared test, p-values  Course involves several programming assignments to gain familiarity with various kinds of plots and histograms, error estimation, curve fitting and parameter extraction.
+
+## PH 221: Analog Electronics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Fundamentals of semiconductor of device physics 2. Electronic signal transmission in circuits in time and frequency domain 3. Operational characterization of diodes and transistors performance. 4. Use of a transistor as a switch 5. Study linear amplification mode of transistor with some applications including: a. voltage amplification b. power amplification 6. Opamps - Design characteristics  7. Typical opamp application circuits including: a. Inverting, Non-inverting voltage amplification b. Transimpedance amplifiers to measure signals from typical transducers like photo-diodes, thermocouples etc c. Instrumentation amplifier and/or Lock-in amplifier Feedback control circuit using the PID (Proportional-Integrative-Differential) algorithm
+
+## PH 222: Digital Electronics and Microprocessors
+- Credits: 6
+- Type: Theory
+- Description: Digital electronics: Theory includes (1) Boolean algebra Basic gates  (2) Combinational logic (3) Sequential logic (4) Finite State Machines (5) Karnaugh maps. Laboratory: Each of the theory topics is developed in a lab assignment Microprocessors: (1) Architecture of microprocessors, with focus on the hardware design and application to control of physics experiments (2) Digital input/output systems (3) analog-to-digital and digital-to-analog conversion  (4) Interrupts. Each of these concepts is developed using laboratory assignments on the Arduino microcontroller platform.  Course project: Culminates in a student ideated project that combines concepts of digital electronics and microprocessors to build an electronic instrumentation system that demonstrates some physics concept, or is usefu...
+
+## PH 223: Complex Analysis and Integral Transforms
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Part A (60% of the course):  Complex analysis   12) Complex numbers z.  Complex plane.  Triangle inequalities.  13) Continuity, Differentiability,  Continuity and existence of partial derivatives, Cauchy-Riemann conditions, pure complex function of z.   14) Analyticity.  Single value.  Cauchy-s theorem.  Complex Taylor Series. Convergence and domains of analyticity. Order of zeros.  15) Cauchy integral formula,  and derivation of Laurent Series. Calculation of Residues.  16) Meromorphic functions and order of poles, Branch singularities, Essential singularities.  17) Residue theorem. Cauchy-s argument principle.  18) Various types of contour integrals - semicircles, rectangular, conical.  Case of poles on real line.  19) Branch Points and branch cuts.  Integrals involving branch singular i...
+
+## PH 225: Quantum Mechanics I
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Review quantum ideas using wave function formalism; Linear vector spaces and Dirac bra(ket) notation; Operators, state vector approach of harmonic oscillator; Hydrogen atom; angular momentum, spin,
+
+## PH 227: AI and Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Syllabus: Data Science: Introduction to data driven systems and examples. Bayesian vs. Frequentist statistics. Random variables, probability distribution with continuous and discrete outcomes, common distribution functions. Moments and moment generating function. Central limit theorem, parameter Inference: maximum likelihood method and confidence interval. Hypothesis testing: Test statistic, chi-squared test, p-value test. Introduction to linear models, simple and multiple linear regression, logistic regression. Machine Learning: What is learning? Learning objective, data needed. Introduction to supervised learning, training validation and testing (including loss function) - (i) Decision trees and support vector machines (SVM), classification and regression trees (CART) - growing trees, va...
+
+## PH 230: Electronics Lab III (Digital Electronics)
+- Credits: 5
+- Type: Laboratory
+- Description: Introduction to Digital electronics: Ring Oscillator Combinational to sequential circuits Sequential circuits: Memory and feedback Multi-vibrators using IC 555 Advanced Finite State machines Storage of n-bits and feedback in sequential circuits Basics of FPGA and Installation guidelines of FPGA IDE FPGA based project work
+
+## PH 231: Electronics Lab I (Basic circuits)
+- Credits: 3
+- Type: Laboratory
+- Description: Lab 0 - Introduction to electronics instrumentation Lab 1 - Basic Electronics Lab 2 - Active electronic elements : DIODE Lab 3 : I/V characteristics Lab 4: Transistor I-V characteristics Lab 5: Common Emitter Amplifier Lab 6 : CE amplifier improved with feedback Lab 7: Emitter Follower as a transistor current amplifier Lab 8(A): Push-pull amplifier Lab 8(B) : Push-pull amplifier (advanced) Laboratory 9: Current mirrors
+
+## PH 232: Physics Laboratory I (General Physics Lab)
+- Credits: 3
+- Type: Laboratory
+- Description: 1. Photoelectric Effect  2. Frank-Hertz Experiment  3. Elastic Constant by Cornu-s Method  4. Dielectric Constant  5. Viscosity by Stoke-s Method  6. Thermal conductivity by Forbes- Method  7. Magnetic Susceptibility Gouy-s Method  8. Potential Energy of a Magnet
+
+## PH 233: Electronics Lab II (Op amp circuits)
+- Credits: 3
+- Type: Laboratory
+- Description: Lab 1: Introduction to Opamps Lab 2: Positive feedback - Schmitt Trigger Lab 3: Negative Feedback in Opamps Lab 4: Filters: Passive, Active and Oscillating Lab 5: Instrumentation amplifier Lab 6: LockinAmplifier A Lab 7: Lockin amplifier Part B: application in a physics experiment Lab 8: Power transfer (DC/AC) and Reflectometry
+
+## PH 301: Quantum Mechanics II
+- Credits: 6
+- Type: Theory
+- Description: Approximation methods in Quantum Mechanics. WKB method. Connection formulae. Bohr"s quantization condition. Penetration through a pontential barrier. Time independent perturbation theory. Zeeman and Stark effects, Convergence of the perturbation series. Time dependent perturbation theory. Transition, scattering probability. Absorption and emission of radiation, Einstein coefficients. Variational procedure. Applications to Helium atom and many particle systems. Theory of potential scattering. Cross section, method of partial waves.
+
+## PH 303: Supervised Learning
+- Credits: 6
+- Type: Seminar
+
+## PH 304: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: 1) Random walk, Gaussian statistics and diffusion. 2) Statistical ensembles: a)phase space, ergodicity, micro canonical ensemble, Liouville`s theorem,Ideal-gas. b)canonical ensemble, partition function c)grand-canonical ensemble,equivalence of ensembles 3) Quantum statistical Mechanics: density matrix, Boltzmann, Bose &Fermi statistics. 4) Fermi gas: high and low temp limits, electrons in magnetic field,para and diamagnetism. 5) Bose gas: black body radiation, phonons, B.E. condensation.
+
+## PH 306: Continuum Mechanics
+- Credits: 6
+- Type: Theory
+- Description: 1) Tensors: co/contra variant tensors,contraction, Levi-civita symbols. 2) Fluid mechanics: Continuity and Euler equations, Navier-Stokes equation for viscous fluids, stokes solution in various geometries, drag, vorticity, stream lines. If times permits, surface (capilary) waves. 3) Elasticity: Stress, Strain, constitutive equation, shear, extension,torsion,bending, examples in various geometries and boundary conditions. 4) Free energy of continuum media: polymer, membrane, liquid-crystals andfluctuations (if time permits).
+
+## PH 307: Introduction to Numerical Analysis
+- Credits: 6
+- Type: Theory
+- Description: 1. Basics: Errors, binary representation of numbers.  2. Solutions of algebraic equations: bisection method, false-position method, modified false-position method, Newton-Rapson method both for one and many variables  3. Interpolation and extrapolation: forward, backward, and divided differences and the corresponding Newton-s interpolation formulas. Lagrange formula for interpolation.  4. Numerical integration: finite differences based approaches such as trapezoidal rule, Simpson rule, and Romberg integration. Gaussian quadrature. 5. Solutions of ordinary differential equations: Euler method and improved Euler method, Runge-Kutta class of methods up to fourth order. Predictor-Corrector methods  6. Solutions of Partial Differential Equations: Mainly finite difference approaches, spectral me...
+
+## PH 309: Quantum Mechanics II
+- Credits: 8
+- Type: Theory
+- Description: Addition of angular momentum, Clebsch-Gordan coefficients, Tensor operators, Wigner Eckart theorem.  Approximation methods in Quantum Mechanics: (i) Variational principle,  (ii) WKB method, (iii) time-independent and (iv) time dependent perturbation theory.   Applications in atomic physics: Hydrogen atom Fine structure -Relativistic effect, spin orbit coupling, hyperfine interaction. Stark, Zeeman and Paschen-Back effects. Ground and excited states of helium, direct and exchange terms.  Time-dependent electromagnetic interaction, transition probabilities and selection rules. Scattering theory-Born approximation. Partial wave analysis.  A brief exposure on Klein-Gordan and Dirac equation.
+
+## PH 310: Introduction to Condensed Matter Physics
+- Credits: 6
+- Type: Theory
+- Description: Crystal structures, reciprocal lattice, X-ray and electron diffraction. Lattice vibrations, Einstein and Debye models, phonons. Drude and Summerfeld models. Block theorem, Empty lattice and nearly free electron model, tight-binding model, Density of states and Fermi surfaces. Semi classical model of electron dynamics. Concept of Effective mass.
+
+## PH 312: Electromagnetic Theory
+- Credits: 8
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Divergence and curl of the electrostatic field. Electrostatic potential, Laplace and Poisson-s equation. Solving Laplace-s equation in Cartesian and Spherical Polar (revision only). Solution in cylindrical co-ordinates with examples. Use of Bessel functions. 11 Contents of the course Uniqueness and mean value theorems. Boundary value problems, Green-s function. Solving Green-s functions with images, eigenfunction expansion of Dirac delta function. Multipole moment upto dipole and quadrupole potentials. Interaction energy of a charge distribution with an external field.Dielectrics and polarization, E, P and D vectors. Boundary conditions. Magnetic fields and vector potential, induced currents, magnetic materials, B,H and M vectors. Electromagnetic induction, Faraday-s laws and Maxwell-s cor...
+
+## PH 314: Molecular Spectroscopy and Optical Physics
+- Credits: 8
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Part-I Molecular Spectroscopy (Half-semester) Born-Oppenheimer approximation, Rotational structure of diatomic molecules and extension to linear, symmetric/spherical top molecules, vibrational structure of diatomic molecules and extension to triatomic molecules, Rotational-vibrational spectrum of diatomic molecules, Electronic structure of diatomic molecules and extension to simple polyatomic molecules, Selection rules for rotational, vibrational and electronic transitions, Franck-Condon principle, Raman effect. X-ray and photoelectron spectroscopy.  Part-II Optical Physics (Half-semester) Linear optical response on the basis of Lorentz oscillator model, photonic crystals- an introduction to their band structure, introduction to plasmonics and applications, non-linear optical response of t...
+
+## PH 401: Classical Mechanics
+- Credits: 8
+- Type: Theory
+- Description: 1. A short revision of elementary Newtonian mechanics  - Forces, Torques, Rotational motion, Sliding friction, Rolling friction as a constraint, Oscillations of  single degrees of freedom, Energy conservation, Energy non-conservation and inelasticity.   2. Lagrangian formalism (i) Generalised Kinetic energy, Potential energy, Symmetries leading to Lagrangian of a free particle in non-relativistic and relativistic mechanics.  (ii) Hamilton-s principle, Variational method, and Euler-Lagrange equations.  (iii) Symmetries and conservation laws - generalised momenta, energy function, and Gauge  freedom of Lagrangian.  (iv) Lagrangian systems with constraint - Lagrange multipliers, and generalised forces of  constraint and virtual work.  (v) Particles to fields - derivation of 1-dimensional wave...
+
+## PH 403: Quantum Mechanics I
+- Credits: 8
+- Type: Theory
+- Description: 1. Experimental Motivation, Future of Quantum Mechanics. Axioms of QM. 2. Mathematical Preliminaries: Linear Algebra (esp. trace, partial trace, tensor products. . . ), Hilbert Space, Orthogonal Polynomials, Rotations &Unitaries. 3. Quantum States & Density Matrices. 4. Schr ̈odinger-s equation, Schr ̈odinger-s equation for Unitaries, Schr ̈odinger, Heisenberg & Interaction Pictures. 5. Simple Problems in One Dimension, Preview of Selection Rules. 6. Harmonic Oscillators, Uncertainty Principle, Ladder Operators. 7. Spin-1/2: Qubit states, Bloch Sphere Representation, Transitions, Rabi Oscillations. . . 8. Coupled Quantum Systems. . . 9. Central Force Problems, Rigid Rotor. . . 10. Hydrogen Atom, Angular Momentum Operators, Addition of Angular Momentum.
+
+## PH 405: Electronics
+- Credits: 6
+- Type: Theory
+- Description: Semiconductor basics, diodes, transistors, transistor models, biasing, amplifiers(CE, CC, Swamped), Darlington pairs, difference amplifiers, operational amplifiers,feedback, instrumentation amplifier, filters, JFETs and MOSFETs, Digitalelectronics: Logic gates, Boolean algebra, Karnaugh maps, flip flops, shiftregisters, adders, counters, ADC and DAC.
+
+## PH 407: Mathematical Physics I
+- Credits: 8
+- Type: Theory
+- Description: 1. Linear Vector space  - Scalar product, Metric spaces, Linear operator, Matrix algebra, Eigenvalues and Eigenvector, , Infinite dimensional vector spaces, Introduction to tensors.  2. Theory of analytical functions : Complex analysis  - Complex numbers, Cauchy-Riemann condition, Analytic function, Taylor and Laurent series, Classification of singularities, Series, Calculus of residue, Various contour integration, Conformal mapping , Riemann surface, Branch cut integrals, Analytic continuation, Integral approximation.
+
+## PH 408: Mathematical Physics II
+- Credits: 8
+- Type: Theory
+- Description: Partial differential equations and the method of separation of variables.Ordinary differential equations, second order homogeneous and inhomogeneous equations. Wronskian, general solutions, particular integral using the method of variation of parameters. Sturm separation and comparison theorems. Adjoint of a differential equation. Ordinary and singular points. Series solution. Gauss hypergeometric and confluent hyprgeometric equations. Sturm Liouville problem. Legendre, Hermite and the associated polynomials, their differential equations, generating functions. Bessel functions, spherical Bessel equations. Fourier series, Fourier and Laplace transforms with applications. Bromwich integral approach to inverse Laplace transform. Green-s function approach to inhomogeneous differential equation...
+
+## PH 409: Introduction to Condensed Matter Physics I
+- Credits: 6
+- Type: Theory
+- Description: Crystal structures, reciprocal lattice, X-ray and electron diffraction. Lattice vibrations, Einstein and Debye models, phonons. Drude and Summerfeld models. Block theorem, Empty lattice and nearly free electron model, tight-binding model, Density of states and Fermi surfaces. Semi classical model of electron dynamics. Concept of Effective mass.
+
+## PH 410: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: 1. Revision of Thermodynamics:  Zeroth law, First law, Second law, Carnot cycle, Claussius theorem, reversible work and heat transfer. Entropy. Extensivity - Euler and Gibbs-Duhem relations. Ideal gas. Response functions. Stability conditions, second law, and positivity of response functions. Thermodynamic potentials. Maxwell-s relations.   2. Elementary aspects of probability theory:  Empirical versus theoretical probabilities, equal a priori probabilities. Probability distributions functions, and cumulative distribution functions. Characteristic function and moments. Cumulant generating function and cumulants. Transformation of variables and corresponding distributions.  Central limit theorem statement and explaining its significance. Problem set should clarify the procedure of attaining...
+
+## PH 411: Physics Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Millikan"s oil drop expriment,h-photoelectic effect,Ultrasonic grating, Franck-Hertz experiment, Elastic constant by interference method (cornu"s fringes), Susceptibility by Guoy"s method, Airtrack-study of potential well, Faraday effect-Verdet"s constant, Rating of vacuum pump.
+
+## PH 412: Physics Lab II
+- Credits: 6
+- Type: Laboratory
+- Description: Energy gap of semiconductors, Hall effect, Registivity of ferrites, Transition of ferroelectrics, Hysterisis of wire and rod photo conductivity. - emission spectrum, absorption spectrum of iodine, Rotation spectrum of iodine, Rotation spectrum of cynogar, AlO vibrational spectrum, Gaseous discharge, Densitometry.
+
+## PH 413: Programming Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Exposure to DOS and Unix environment. Elementary numerical programming using either FORTRAN-77 or C Language.
+
+## PH 414: Electronics Laboratory
+- Credits: 3
+- Type: Laboratory
+
+## PH 418: Introduction to Condensed Matter Physics
+- Credits: 6
+- Type: Theory
+- Description: Crystal structures, reciprocal lattice, X-ray and electron diffraction. Lattice vibrations, Einstein and Debye models, phonons. Drude and Sommerfeld models. Block theorem, Empty lattice and nearly free electron model, tight-binding model, Density of states and Fermi surfaces. Semi classical model of electron dynamics. Concept of Effective mass.
+
+## PH 421: Photonics
+- Credits: 6
+- Type: Theory
+- Description: Non-linear optical response of the medium, origin of the optical non-linearities (second and third order susceptibilities), classical and quantum pictures, a synopsis of nonlinear optical processes. Electromagnetic wave propagation in nonlinear medium, coupled wave equations for three wave mixing, Manley-Rowe relation, second harmonic generation- weak and strong coupling regimes, phase matching considerations, birefringence phase matching, harmonic generation with focused Gaussian beams, Difference frequency generation, optical parametric generation, optical parametric oscillators and amplifies. Third order nonlinear optical processes, four wave mixing, intensity dependent refractive index, self focusing, degenerate four wave mixing and its applications, optical bistability and optical log...
+
+## PH 422: Quantum Mechanics II
+- Credits: 6
+- Type: Theory
+- Description: Recapitulation of angular momentum, tensor operators and Wigner-Eckart theorem. Variational principle method and WKB approximation methods and their applications. Formalism of time independent perturbation theory - both non-degenerate and degenerate cases. Techniques and application of time dependent perturbation theory. Scattering theory concepts with particular discussion on Born approximation, partial wave analysis. Brief exposure to relativistic quantum mechanics and solution of Dirac equation.
+
+## PH 423: Quantum Mechanics II
+- Credits: 6
+- Type: Theory
+- Description: Recap of angular momentum, Clebsch-Gordan coefficients, tensor operators, Wigner-Eckart theorem; Approximation methods - variational principle, WKB method, time-independent and time dependentperturbation theory; Scattering theory- Born approximation, partial waveanalysis; relativistic quantum mechanics- Klein-Gordan equation and Diracequation and their solutions
+
+## PH 424: Electromagnetic Theory I
+- Credits: 6
+- Type: Theory
+- Description: 1. Electrostatics Introduction: Coulomb-s law, Scalar potential, Electrostatic potential energy, Total energy, electric stress tensor Multipole expansion, Conducting matter, Dielectric Matter   2. Boundary Value Problems Solution of Laplace-s equation: Potential theory, Uniqueness, Separation of Variables in different coordinateSystems Solution of Poisson-s  equation using Green-s function. Methodof Images  3. Magnetostatics Introduction:  Steady currents, Biot - Savart law, Ampere law, Magnetic vector potential, Magnetic multipoles Magnetic Force & Energy Magnetic matter   4. Electrodynamics Dynamic and Quasi - static fields General EMFields Waves in vacuum and dispersive media  5. Special Theory of Relativity Introduction: Galilean relativity, Einstein-s relativity Lorentz transformation...
+
+## PH 429: Introduction to Condensed Matter Physics I
+- Credits: 6
+- Type: Theory
+
+## PH 430: Introduction to Condensed Matter Physics II
+- Credits: 6
+- Type: Theory
+- Description: Energy bands in solids, nearly free electron and tight binding models. Boltzmann transport equation, electrical and thermal conduction. Dielectrics and optical properties, ferroelectrics and piezoelectrics, optical processes, electronic polarizability, excitons, optical properties of metals, plasma frequency. Dia, para and ferromagnetism, magnetic susceptibility, Curie and Curie-Weiss law, Heisenberg exchange model, ferromagnetic domains, ferri- and antiferro-magnetism. Superconductivity, type I and type II superconductors, Meissner effect, London equation, concept of coherence length
+
+## PH 434: Programming Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Exposure to DOS and Unix environment. Elementary numerical programming using either FORTRAN-77 or C Language.
+
+## PH 435: Electronics Lab  IV (Microprocessors)
+- Credits: 5
+- Type: Laboratory
+- Description: Introduction to Arduino: "Hello World" Analog output from Arduino and its post processing Handling Interrupts in Arduino Implementing Feedback control system using PID  Project work
+
+## PH 436: Introduction to Condensed Matter Physics
+- Credits: 6
+- Type: Theory
+- Description: Crystal structures, reciprocal lattice, X-ray and electron diffraction. Lattice vibrations, Einstein and Debye models, phonons. Drude and Sommerfeld models. Bloch theorem, Empty lattice and nearly free electron model, tight-binding model, Density of states and Fermi surfaces. Semi classical model of electron dynamics. Concept of Effective mass.
+
+## PH 438: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: 1)Random walk, gaussian statistics and diffusion. 2) Statistical ensembles: a) phase space, ergodicity, microcanonical ensemble, Liouville`s theorem, Ideal-gas. b)canonical ensemble, partition function c)grand-canonical ensemble,equivalence of ensembles,  3) Quantum statistical Mechanics: density matrix, Boltzmann, Bose & Fermi statistics. 4) Fermi gas: high and low temp limits, electrons in magnetic field, para and diamagnetism. 5) Bose gas: black body radiation, phonons, B.E. condensation
+
+## PH 440: Introduction  to Atomic and Molecular Physics
+- Credits: 6
+- Type: Theory
+- Description: Energy quantization, momentum of radiation, radiative transition probabilities, line-widths, laser interactions in hydrogen atom, Lamb shift, hydrogen maser. Coupling of angular momenta and multiplet structure in many electron atoms. Atomic magnetism, gyromagnetic effects, angular momentum of radiation and free electrons. Zeeman and Paschen Back effects. Hyperfine and Nuclear quadrupole interactions. X-ray and photoelectron spectra. Electronic, vibrational and rotational spectra of diatomic molecules. Experimental methods in atomic and molecular physics : interference, level-crossing, Fourier transform and radio frequency spectroscopy. Life times and oscillator strengths. Electronic and atom collisions. Basic principles of NMR, NQR, ESR, Mossbauer, Microwave, IR and Raman spectroscopy.
+
+## PH 441: Physics Lab (General Physics)
+- Credits: 3
+- Type: Laboratory
+- Description: 1. e/m Ratio  2. Photoelectric Effect  3. Frank-Hertz Experiment  4. Elastic Constant by Cornu-s Method  5. Dielectric Constant  6. Linear Expansion of Brass - Fizeau-s Method  7. Thermal conductivity by Forbes- Method  8. Magnetic Susceptibility Gouy-s Method  9. Potential Energy of a Magnet
+
+## PH 443: Electronics Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Logic gate circuits: all six gates and truth table verification; R-S and J-K flips using NOR-NAND gates, Design and study of common emitter amplifier, two stage feeddback amplifier, common collector and FET apmlifier, Use if IC741: (a) Inverting amplifier (b) Integulator (c) Multivibrator (d) Weinbridge oscillator, Unregulated and regulated power supply: estimation of ripple factor for different filters.
+
+## PH 444: Electromagnetic Theory
+- Credits: 6
+- Type: Theory
+- Description: Poissons and Laplaces Equations,Greens Theorem, Greens Function and boundary value problems with spherical harmonics and Bessel functions, Multipole Expansion up to quadrupole moment,Maxwells Equations (recap), Continuity Equation, Poynting Theorem, Newtons 3rd lawin ED, Maxwells stress tensor, Conservation of linear and angular momentum, Potential formulation of ED, 4D-Poissons equation, Time dependent Greens functionand Jefimenkos equations, Lienard-Wiechert Potential and EM fields, Electric Dipoleradiation, Larmors formula, Bremsstrahlung, Synchrotron, Cerenkov radiation.
+
+## PH 446: Physics Laboratory (Solid state and Nuclear Physics)
+- Credits: 3
+- Type: Laboratory
+- Description: SSP:  1) g value using ESR spectrometer,  2) spin-lattice relaxation time using NMR spectrometer,  3) energy gap of a semiconductor using four-probe method,  4) carrier concentration using Hall measurement,  5) wave length of microwaves. NP:  1) Absorption coefficient of gamma-rays in Aluminium. 2) Low and high counting statistics using G. M. Counter. 3) Gamma-ray spectrometry using NaI(Tl) scintillator. 4) Compton scattering of gamma-ray using 137Cs source. 5) Coincident study of annihilation photons using 22Na source. 6) Rutherford scattering of alpha particles in gold.
+
+## PH 447: Physics Lab (Optics and Spectroscopy)
+- Credits: 3
+- Type: Laboratory
+- Description: Optics Spatial Filtering  Spatial Coherence  Mach-Zehnder Interferometer  Nonlinear Optics / Z Scan  CdS Nanoparticles (Theory)   Spectroscopy  Spin Orbit Coupling of Cu  Absorption Spectrum of Iodine  Rotation Spectrum of CN
+
+## PH 454: Light Matter Interaction
+- Credits: 6
+- Type: Theory
+
+## PH 500: Thin Film Physics & Technology
+- Credits: 6
+- Type: Theory
+- Description: Vacuum technology, gas transport and pumping systems, pressure measurements, physical and chemical vapour deposition processes, sputtering and plasma CVD, deposition by electron beams, arc plasma and pulsed laser, Molecular beam epitaxy and metal organic CVD, Chemical solution based deposition processes, electrochemical deposition, Langmuir Blodgett and self assembly processes, Physics of thin film deposition, adsorption, surface deposition, nucleation, growth and structure development, surface structure, role of surfaces, epitaxial growth, lattice mismatch, strain, growth modes, self organization, self aligned structures, heterostructures, multilayer superlattice structures, patterning techniques for IC, MEMS and other device fabrications, application of thin films.
+
+## PH 501: Quantum Mechanics II
+- Credits: 10
+- Type: Theory
+
+## PH 504: Quantum Electronics
+- Credits: 6
+- Type: Theory
+- Description: Nature of light, wave propagation in dielectric media, wave guides and optical fibers, interaction of light with matter, semiclassical theory of radiation, laser resonators and Gaussian beams, solid state lasers, molecular and atomic gas lasers, semiconductor lasers and free electron laser.  Non-linear optical frequency conversion, phase conjugation and optical bistability, applications of lasers.
+
+## PH 505: Introduction to Nuclear  & Particle Physics
+- Credits: 6
+- Type: Theory
+- Description: Basic properties of nuclei and interactions, Nuclear binding energy, Nuclear moments, Nuclear models- independent particle model, shell model, Deuteron problem, Central and tensor forces, Radioactive decay-theory of alpha decay, Fermi theory of beta decay, gamma decay, Nuclear reactions- direct and compound reactions, Elementary particles- classification, symmetries and conserved quantum numbers, quark model
+
+## PH 507: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to probability. Binomial, Poisson and Gaussian distributions and their applications in statistical mechanics. Distribution functions and phase space. H-theorem, equilibrium conditions and applications. Gibbs phases. Space-distribution functions. Lionville equation, equili-brium and erogodicity. Various ensembles, equilibrium distribution functions, partition functions, connection between statistical and thermodynamic quantities. Boltzmann statistics. Application to ideal gases, magnetic and electric phenomena and chemical equilibrium. Phase transitions and introduction to density matrix. Bose-Einstein Statistics. Application to black-body radiation. Bose condensation. Fermi-Dirac statistics. Application to metals and semi-conductors. Nuclear spin statistics. Ortho and para hyd...
+
+## PH 509: Methods in Analytical Techniques
+- Credits: 8
+- Type: Theory
+- Description: Structure and Microstructure analysis by X-ray and electron diffraction, transmission and scanning electron microscopy techniques. Study of molecular structure by resonance techniques like Nuclear magnetic resonance (NMR), Fourier transform NMR (FTNMR) and Electron spin resonance (ESR). Study of molecular structure by Infrared (IR), Fourier transform IR (FTIR) and Raman spectroscopies. Study of electronic structure by Photoelectron Spectroscopy and X-ray absorption techniques. Composition analysis by Energy dispersive X-ray (EDX), Auger Electron Spectroscopy (AES) and Secondary ion mass spectrometry (SIMS). Study of surface morphology and structure by Scanning tunneling and Atomic Force microscopies (STM, AFM). Study of magnetic thin films by Ferromagnetic resonance, vibrating sample and t...
+
+## PH 510: Electromagnetic Theory II
+- Credits: 6
+- Type: Theory
+- Description: Potentials and fields of moving charges (Lienard-Wiechert), radiation basics, radiative transfer, Plancks law, dipole radiation, Thomson scattering, Cyclotron, Synchrotron, Bremmstrahlung, Cherenkov, Compton and inverse Compton, Einstein coefficients, Transmission lines, Waveguides, Antennas and Arrays, detection of radiation - detector physics.
+
+## PH 511: Physics Lab III
+- Credits: 6
+- Type: Laboratory
+- Description: Fresnel"s laws of reflection, Jasmin"s and Raileign interferometer, Michelson"s inter-ferometer, Laser diffraction.  Geiger counter, Gamma-ray spectrometer, Alpha spectrometer, statistics of nuclear counting, X-ray emission, X-ray absorption spectrum, X-ray differaction.
+
+## PH 512: Physics Lab (Optics and Spectroscopy)
+- Credits: 6
+- Type: Laboratory
+- Description: Optics  Spatial Filtering  Spatial Coherence  Mach-Zehnder Interferometer  Nonlinear Optics / Z Scan  CdsNanoparticals (Theory)   Spectroscopy  Spin Orbit Coupling of Cu  Absorption Spectrum of Iodine  Rotation Spectrum of CN
+
+## PH 515: Introduction  to Atomic and Molecular Physics
+- Credits: 6
+- Type: Theory
+- Description: Review of one and two-electron atoms: Relativistic effects (spin orbit, mass-velocity and Darwin terms) in hydrogen and hydrogenic atoms, Lamb shift, ground and excited states of helium, shell structure of alkalis, quantum defect, Rydberg levels. Basics of spectroscopy: Absorption and emission of photons, Transition probabilities and cross-sections, Lifetime, Line broadening mechanisms, Homogenous and in-homogenous broadening. Many electron atoms: Central field approximation, coupled and uncoupled representations, L-S and j-j coupling schemes, Selection rules, Zeeman and Paschen-Back effects, Hyperfine interaction (magnetic dipole and electric quadrupole interactions), Isotope shift (mass shift and volume shift). Molecular structure: Born-Oppenheimer approximation, Rotational structure of ...
+
+## PH 517: Methods in Analytical Techniques
+- Credits: 6
+- Type: Theory
+- Description: Structure and Microstructure analysis by X-ray and electron diffraction, transmission and scanning electron microscopy techniques. Study of molecular structure by resonance techniques like Nuclear magnetic resonance (NMR), Fourier transform NMR (FTNMR) and Electron spin resonance (ESR). Study of molecular structure by Infrared (IR), Fourier transform IR (FTIR) and Raman spectroscopies. Study of electronic structure by Photoelectron Spectroscopy and X-ray absorption techniques. Composition analysis by Energy dispersive X-ray (EDX), Auger Electron Spectroscopy (AES) and Secondary ion mass spectrometry (SIMS). Study of surface morphology and structure by Scanning tunneling and Atomic Force microscopies (STM, AFM). Study of magnetic thin films by Ferromagnetic resonance, vibrating sample and t...
+
+## PH 521: Introduction to Photonics
+- Credits: 6
+- Type: Theory
+- Description: Propagation of EM waves in anisotropic Materials, Uniaxial and biaxial materials, Polarization Devices.  Electro optic effects - Kerr and Pockels effects, Amplitude and Phase Modulators, Beam deflection and scanning devices.Magneto-optic effects - Faraday, Cotton-Mouton and inverse Faraday effects, Optical diode and isolator.Interaction of light with acoustic waves, Acousto-optic modulators and beam deflectors and their application to laser, display and printing technologies. Nonlinear interaction of light with Matter, Origin of optical nonlinearities, Second order optical processes (SFG, DFG, SHG and OPA), Frequency converters and their applications, Third order nonlinear optical processes (self action, self focusing, self phase modulation, optical bistability, degenerate four-wave-mixing...
+
+## PH 525: Electromagnetic Theory II
+- Credits: 6
+- Type: Theory
+- Description: Transmission lines. Waves guides. Impedance of transmission lines, VSWR, Smith Chart. Diffraction and scattering of electromagnetic waves. Wave equation with sources. Antennas and arrays.  Motion of charged particles in an electromagnetic field.   Microwave waveguide components. Microwave measurements.
+
+## PH 527: Physics Lab (Solid State and Nuclear Physics)
+- Credits: 6
+- Type: Laboratory
+- Description: SSP:  1. g value using ESR spectrometer,  2. spin-lattice relaxation using NMR spectrometer,  3. Energy gap of a semiconductor using four-probe method,  4. Carrier concentration using Hall measurement,  5. wave length of microwaves.  NP:  1)Absorption coefficient of gamma-rays in Aluminium. 2) Low and high counting statistics using G. M. Counter. 3) Gamma-ray spectrometry using NaI(Tl) scintillator. 4) Compton scattering of gamma-ray using 137Cs source. 5) Coincident study of annihilation photons using 22Na source. 6) Rutherford scattering of alpha particles in gold.
+
+## PH 530: Light Matter Interaction
+- Credits: 6
+- Type: Theory
+- Description: Interaction of two level atom with incoherent light, Einstein coefficients, multi quantum transitions, interaction of two level atom with resonant coherent light, analogy between two level and spin - systems, optical Bloch equations of two level systems-polarization, susceptibility and spontaneous emission, dressed states, Rabbi flopping, free precession and photon echoes.   Interaction of light with three level system-irradiation of single and two  transitions, coherence transfer, three level echoes, quantum beats, Raman excitation, coherent population trapping, electromagnetically induced transparency, over damped systems adiabatic limit, optical pumping, light shift and damping, ground state dynamics
+
+## PH 542: Non-linear Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Physics of nonlinear systems, dynamical equations and constants of motion, phase space, fixed points, stability analysis, bifurcations and their classifications, Poincar`e section and iterative maps. One dimensional non--invertible maps, simple and strange attractors, period doubling and universality, intermittency, invariant measure, Lyapunov exponents. Higher dimensional systems, Henon map, Lorenz equations. Fractal geometry and examples of simple and fat fractals, concept of dimensions. Hamiltonian systems, integrability, Liouville`s theorem, action and angle variables, introduction to perturbation techniques, KAM theorem, area preserving maps, chaos and stochasticity.
+
+## PH 552: Project Stage II
+- Credits: 15
+- Type: Project
+
+## PH 555: Project  Stage III
+- Credits: 24
+- Type: Project
+
+## PH 570: Advanced Laboratory Techniques  in Nanosience
+- Credits: 6
+- Type: Laboratory
+
+## PH 574: Physics of Semiconductor Devices
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Basics of Semiconductors: Brief review of Band structure. Band diagram of few importantsemiconductors: Si, Ge, GaAs, GaN, constant energy surface, density of states, effective mass,different directions in the Brillouin zone and their common names. Direct and indirect gaps.Doping: Hydrogenic impurity model in detail (show how to construct impurity wave functionusing the band wave functions as the basis.) shallow and deep donors, Probability of Ionisation ofa dopant (Saha ionization equation) Fermi level, Intrinsic, extrinsic and compensatedsemiconductors, carrier statistics, carrier density product[How does one experimentally measure donor level positions?]Boltzmann transport equation, Mobility, drift, diffusion, electrochemical potential and itsdifference with electrostatic potential. Disc...
+
+## PH 575: Nanoscience: Fundamentals to Fabrication
+- Credits: 6
+- Type: Theory
+- Description: Physical Properties of Nanomaterials: Effect of size on thermal, electrical, mechanical, optical and magnetic properties of nanoscale materials, diffusion properties, dielectric properties, Surface area to aspect ratio, Quantum confinement size effects, bang gap effect at nanoscale. Synthesis of Nanomaterials The principles of nucleation and growth, thermodynamics, kinetics, and mechanisms of Nucleation and Growth of nanocrystals, crystallography, surfaces and Interfaces, Applications to growth from solutions, melts and vapors. NanoFabrication Introduction to micro/nano fabrication, photolithography, x-ray lithography, e-beam lithography, nanoimprint lithography, stamping techniques for micro/nano fabrication, methods and applications of lithographic techniques, AFM based nanolithography (...
+
+## PH 576: Nanoscale Quantum Transport
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Preliminary concepts: Fundamental length scales (De Broglie wavelength, Mean Free Path, Coherence Length, Thermal Diffusion Length) and classification of transport regimes, Resistance (in d-dimension) in the bulk and mesoscopic limits. Energy levels, wave functions, and DOS in quantum wells (both square and triangular), quantum wires, and quantum dots. (Optional: Coupling between quantum wells and superlattices); Revision of Bloch wavefunction and effective mass tensor. Band-structures of GaAs and Si, concept of valleys, longitudinal and transverse effective masses, the band-gap lattice parameter diagram, the concept of heterojunctions and different band alignments. Envelope function and effective mass approximation for heterostructures. Quantum nano/heterostructures in the real world: Qua...
+
+## PH 578: Nanodevices and Applications
+- Credits: 6
+- Type: Theory
+- Description: 1) Nano sensors, nano-pressure, nanopiezeo sensors, plasmonic nanosensors, nano for gas sensors & Nano actuators, with particular emphasis on biomaterial based devices, Field effect transistor based biosensors (bio-FETs) 2) Novel batteries: Li, Na, and other materials based batteries 3) Memory devices: DVD Roms, magnetic, solid state, memristors, and other modern proposals 9. 4) Nano and Microfluidic devices: To learn the basic behaviour of liquid in micro or nanosystems. Emphasize on interaction of fundamental mechanism and desing of microfluidic devices. Application is Lab on a chip state of art, analyse it. Theory of micro and nanofluidics, equation of change, flow at microscale, diffusion and microscale mixing, circuit analysis, Stokes flow electrostatics and electrodynamics, electrica...
+
+## PH 591: Dual Degree Project I
+- Credits: 30
+
+## PH 592: Dual Degree Project II
+- Credits: 42
+
+## PH 595: M.Sc. project stage 1
+- Credits: 6
+- Type: Project
+
+## PH 597: Project Stage I
+- Credits: 12
+- Type: Project
+- Description: Integrated M.Sc. Project Stage I
+
+## PH 598: Project Stage II
+- Credits: 18
+- Type: Project
+- Description: Integrated M.Sc. Project Stage II
+
+## PH 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates after Listening, Podcasts and Webcasts 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling 7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 8.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## PH 801: Classical Methods of Particles and Fields
+- Credits: 8
+- Type: Theory
+- Prerequisite: nil
+- Description: Particle mechanics and its applications, D`Alemberts principle, Lagrangian and Hamiltonian Mechanics,  Central forces, Special theory of  Relativity. Solutions of boundary value problems in Electrostatics, Green`s Functions and images, Magnetostatics, Maxwell equations and wave equations in various media, Fresnel equations.
+
+## PH 802: Quantum and Statistical Mechanics:  Advanced Methods
+- Credits: 8
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of basic concepts, Hilbert space structure of Quantum Mechanics, The free particle solution and wave packets, Uncertainty Principle and the minimum uncertainty wave packet, Single  particle problems in  one dimensional potentials, The WKB Formalism. Harmonic oscillator, Solution in terms of Hermite polynomials, Coherent states as minimum uncertainty wavepackets, Harmonic oscillator in algebraic language, Creation and destruction operator formalism, Angular momentum, Spherical harmonics, The same in algebraic language. Systems of identical particles, Field operator formalism for bosons and fermions, Partition function for Bose and Fermi gases, Equations of state, Degenerate Bose gas, Black body radiation, Thermodynamic properties of degenerate gas of non-relativistic Electrons,  Magn...
+
+## PH 803: Computer Programming and Numerical Methods
+- Credits: 8
+- Type: Theory
+- Prerequisite: nil
+- Description: Basics in computing : Basic organization of computer and its functional units; Exposure to Unix operating system. Fortran 90 programming language : Conditional statements; Looping; Logical expression and case statement; Arrays; Modular programming using functions and subroutines; Format specifications and processing strings and characters; Processing files in Fortran 90 ; Dynamic memory allocation and pointers. Numerical methods: Statistical description of data: Mean, Variance and Skewness. Solution of algebraic and transcendental equation : bisection method, the method of false position, Newton Raphson method. Interpolation. Integration of functions : Trapezoidal rule, Simpson`s 1/3 method; Least squares fit; Sorting; Matrices : Matrix inversion and evaluation of determinant by eliminatio...
+
+## PH 804: Laboratory Techniques
+- Credits: 8
+- Type: Laboratory
+- Description: Selected topics from the following : a) Vacuum Techniques : Production and measurement of vacuum, different typesof vacuum systems and gauges, their working and limitations, leak detection, techniques for production of ultra high vacuum. The laboratory work will consist of experiments with a vacuum system and assembling of a vacuum system. b) Electronics : Measurement techniques in electronics, use of different measuring devices, their scope and limitations. Power supplies, amplifiers, pulse techniques and high frequency techniques. Laboratory work will include handling different types of electronic measuring instruments, study of certain readymade units, design, fabrication and testing of some circuits. c) Detectors : Study of different types of detectors, photographic detectors, microwav...
+
+## PH 805: Application of Quantum Mechanics
+- Credits: 8
+- Type: Theory
+- Description: Review of standard methods in Quantum Mechanics including time independent perturbation theory. Selected topics from each of the parts (a), (b) and (c). a) Two electron atoms. Fermi Thomas, Hartree and Hartree Fock Equations, Configurations and spin orbit splitting. Born-Oppenheimer method for hydrogen molecule ions and hydrogenmolecule. Hydrogen atom in Dirac theory.  b) Addition of angular momenta. Tensor Operators and Wigner Eckert theorem. Inter-action of radiation with matter. Ideas of quatised radiation fields. Multipole transitions. Photon scattering including Raman effect.   c) Partial wave and Jost function methods in scattering. Levinson"s theorem. Varia-tional methods. Integral expressions for scattering amplitude. Born, Bethe and Oppenheimer approximations. Applications to elec...
+
+## PH 806: Special Topics in Elementary Particle Physics
+- Credits: 6
+- Type: Theory
+- Description: Renormalisation in QED,Ward-Takahashi Identities. Functional method, effective action, expansion in fields and derivatives.  Renormalisation Group. Wilson Interpretation of RG, Non-abeliangauge theories. Fadde ev-Popov methos of quantization. BRST symmetry and renormalisation.  Chiral fermions and anomalies.  Optional materials : Poincare group and classification of space-time fields by mass and spin or helicity. systematic renormalisation of phi4 theory.
+
+## PH 807: Current Trends in Physics
+- Credits: 8
+- Type: Theory
+- Description: The course will consist of lectures by a group of faculty on topics of current research interest in Physics. There will be three or four modules covering various areas of interest to the faculty.
+
+## PH 808: Current Trends in Physics
+- Credits: 8
+- Type: Theory
+- Description: Current Trends in Physics II same as PH-807 but covering different topics of interest.
+
+## PH 810: Advanced Simulation Techniques in Physics
+- Credits: 8
+- Type: Theory
+- Prerequisite: 0
+- Description: Basic Numerical Methods and Classical Simulations : Review of differentiation, integration (quadrature), and finding roots. Integration of ordinary differential equations. Monte Carlo simulations, applications to classical spin systems. Classical Molecular Dynamics. Quantum Simulations : Time-independent Schrodinger equation in one dimension (radial or linear equations). Scattering from a spherical potential; Born Approximation; Bound State solutions. Single particle time-dependent Schrodinger equations. Hartree-Fock Theory : restricted and unrestricted theory applied to atoms. Schrodinger equation in a basis: Matrix operations, variational properties; applications of  basis functions for atomic, molecular, solid-state  and nuclear calculations. Mini-projects on different fields of physics...
+
+## PH 811: Laboratory Techniques
+- Credits: 8
+- Type: Laboratory
+- Description: Selected topics from the following: a) Vacuum Techniques: Production and measurement of vacuum, different types of vacuum systems and gauges, their working and limitations, leak detection, techniques for production of ultra-high vacuum. The laboratory work will consist of experiments with a vacuum system and assembling of a vacuum system.  b) Electronics: Measurement techniques in electronics, use of different measuring devices, their scope and limitations. Power supplies, amplifiers, pulse techniques and high frequency techniques.   Laboratory work will involve handling of different types of electronic measuring instruments. Study of certain readymade units. Design, fabrication and testing of some circuits.   c) Detectors; Study of different types of detectors. Photographic detectors, mic...
+
+## PH 820: Applications of Mathematical Techniques in Physics
+- Credits: 8
+- Type: Theory
+- Description: Application of mathematical Techniques in Physics problems in classical mechanics, electrodynamics, and quantum mechanics, based on the following topics: Vector equations; equation of motion of particles in fields.  Matrices and eigenvalue problems.   Differential equations.   Boundary value problems.   Spherical harmonics, addition theorem and multipole expansions Fourier tranforms,delta -functions, Green"s functions. Method of residues, poles and cuts in complex variables.
+
+## PH 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## PHS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## PHS802: Seminar
+- Credits: 4
+- Type: Seminar

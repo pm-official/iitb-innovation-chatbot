@@ -1,0 +1,88 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# KCDH (Associated) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Ashutosh Kumar
+- Department: KCDH (Associated)
+- Designation: Professor, Dept. of Biosciences & Bioengineering
+- Email: ashutosh@iitb.ac.in
+- Research Group: Structural Biology & Biophysics Laboratory (BSBE)
+- Primary Research Area: Structural Biology, Biophysics & Therapeutic Biologics
+- Research Interests & Innovation Focus: NMR spectroscopy for protein characterization; Structural biology of therapeutic proteins; Drug delivery systems; Biomaterials for healthcare; Tissue engineering; Protein biophysics; Intrinsically disordered proteins; Therapeutic biologics development; Diagnostics applications; Biosimilar characterization
+- Notable Projects: Ramalingaswami Fellowship; Marie-Curie Fellowship (EU); NMR-based structural characterization research; Therapeutic biologics and biosimilar projects; KCDH associated faculty for healthcare applications
+- Key Tools & Platforms: NMR spectroscopy, X-ray crystallography, protein purification, biomaterial synthesis, drug delivery platforms
+- Industry Collaborations: Pharmaceutical companies (biosimilar characterization); Healthcare institutions; KCDH digital health research
+- Awards: Ramalingaswami Fellowship; Marie-Curie Fellowship; Expert in NMR-based protein characterization
+- Innovation Keywords: structural biology, NMR spectroscopy, biophysics, therapeutic biologics, drug delivery, biomaterials, tissue engineering, diagnostics, biosimilars
+- Profile: https://www.bio.iitb.ac.in/people/faculty/ashutosh-kumar/
+
+## Prof. Biplab Banerjee
+- Department: KCDH (Associated)
+- Designation: Professor, CSRE & C-MInDS
+- Email: biplab@csre.iitb.ac.in
+- Research Group: Machine Intelligence Lab (CSRE/C-MInDS)
+- Primary Research Area: AI/ML, Deep Learning & Remote Sensing in Healthcare
+- Research Interests & Innovation Focus: Deep learning & computer vision; Hyperspectral imaging; ML for population health & epidemiology; Remote sensing analytics; Few-shot & zero-shot learning; Domain adaptation; Generative models; Medical image analysis; AI for healthcare screening; Satellite-health data fusion
+- Notable Projects: Senior IEEE Member; 13+ international funding sources (ANRF, ISRO, Samsung, Adobe, DeepMind); KCDH associated faculty for AI in healthcare; Research on ML for epidemiological applications; Hyperspectral imaging for health
+- Key Tools & Platforms: PyTorch, TensorFlow, remote sensing tools (ERDAS, ENVI), hyperspectral analysis, GAN frameworks, few-shot learning
+- Industry Collaborations: Samsung; Adobe; DeepMind; ISRO; KCDH healthcare AI; ANRF
+- Awards: Senior IEEE Member; 13+ international funding sources; Publications in NeurIPS, CVPR, IEEE TGRS
+- Innovation Keywords: deep learning, computer vision, remote sensing, healthcare AI, hyperspectral imaging, few-shot learning, medical imaging, population health, epidemiology, digital health
+- Profile: https://www.csre.iitb.ac.in/biplab-banerjee
+
+## Prof. Mithun Kumar Mitra
+- Department: KCDH (Associated)
+- Designation: Professor, Dept. of Physics
+- Email: mithun@phy.iitb.ac.in
+- Research Group: THBio - Theoretical Biology & Biophysics Group (Physics)
+- Primary Research Area: Mathematical Modelling in Healthcare & Biophysics
+- Research Interests & Innovation Focus: Quantitative biology & biophysics; Mathematical models for infectious disease spread; Compartmental & statistical models for epidemiology; Chromatin dynamics; Molecular motors; Epigenetics; Theoretical biophysics; Polymer physics of biological systems; Stochastic processes in biology
+- Notable Projects: Co-PI National Disease Modelling Consortium (NDMC); COVID-19 mathematical modeling; Research on chromatin dynamics and molecular motors; KCDH associated faculty for computational healthcare
+- Key Tools & Platforms: Mathematical modeling (ODEs, SDEs), Monte Carlo simulations, Python, MATLAB, stochastic simulation algorithms
+- Industry Collaborations: National Disease Modelling Consortium; Public health modelling agencies; KCDH healthcare research
+- Awards: Co-PI NDMC; Publications in Physical Review, Biophysical Journal; Expertise in theoretical biology
+- Innovation Keywords: mathematical modeling, biophysics, epidemiology, disease modeling, chromatin dynamics, molecular motors, stochastic processes, computational biology, digital health
+- Profile: https://www.phy.iitb.ac.in/en/content/mithun-kumar-mitra
+
+## Prof. Pramod P. Wangikar
+- Department: KCDH (Associated)
+- Designation: Professor, Dept. of Chemical Engineering
+- Email: wangikar@iitb.ac.in
+- Research Group: Wangikar Laboratory / Biosystems Engineering Lab (ChemE)
+- Primary Research Area: Computational Biology, Metabolomics & Systems Biology
+- Research Interests & Innovation Focus: Metabolomics & metabolic biomarker discovery; Blood-based metabolic biomarkers for diabetes & kidney disease; Systems biology & metabolic engineering; Cyanobacterial biotechnology; Sustainable biofuels; Metabolic flux analysis; Bioprocess optimization; Multi-omics data integration; Synthetic biology
+- Notable Projects: INAE Fellow (2023); National Bioscience Award (2006); Co-founder Clarity Bio Systems (metabolomics startup); Research on metabolic biomarkers for chronic diseases; Large-scale metabolomics studies with KCDH
+- Key Tools & Platforms: LC-MS/GC-MS metabolomics platforms, flux balance analysis, genome-scale metabolic models, bioinformatics, MATLAB, Python
+- Industry Collaborations: Clarity Bio Systems (co-founded); Pharmaceutical companies; KCDH healthcare metabolomics; Hospital collaborations for biomarker studies
+- Awards: INAE Fellow 2023; National Bioscience Award 2006; Co-founder Clarity Bio Systems; Pioneer in metabolomics at IITB
+- Innovation Keywords: metabolomics, systems biology, biomarkers, diabetes, kidney disease, metabolic engineering, bioinformatics, computational biology, synthetic biology, digital health
+- Profile: https://www.che.iitb.ac.in/faculty/pramod-p-wangikar
+
+## Prof. Shamik Sen
+- Department: KCDH (Associated)
+- Designation: Professor, Dept. of Biosciences & Bioengineering
+- Email: shamiks@iitb.ac.in
+- Research Group: Cancer Biomechanics Lab (BSBE)
+- Primary Research Area: Cancer Biomechanics, Mechanobiology & Cell Biology
+- Research Interests & Innovation Focus: Physical forces in cellular processes; Cancer cell mechanics & collective invasion; Mechanobiology; Tissue engineering; Extracellular matrix mechanics; Cell migration & metastasis; Biophysics of cancer progression; Mechanotransduction; 3D cancer models; Tumor microenvironment mechanics
+- Notable Projects: Swarnajayanti Fellowship (DST 2017); BRNS Young Investigator Award; Research on cancer cell mechanics published in npj Systems Biology (2025); Collective invasion in cancer; Collaboration with KCDH on cancer digital health
+- Key Tools & Platforms: Atomic force microscopy (AFM), traction force microscopy, micropatterning, 3D cell culture, biomechanical characterization, image analysis
+- Industry Collaborations: Cancer hospitals (Tata Memorial collaboration); KCDH digital health; Biomedical device companies
+- Awards: Swarnajayanti Fellowship DST 2017; BRNS Young Investigator Award; Publications in high-impact biophysics journals
+- Innovation Keywords: cancer biomechanics, mechanobiology, cell mechanics, tissue engineering, cancer invasion, tumor microenvironment, extracellular matrix, biophysics, digital health
+- Profile: https://www.bio.iitb.ac.in/people/faculty/shamik-sen/
+
+## Prof. Souvik Banerjee
+- Department: KCDH (Associated)
+- Designation: Professor, Dept. of Humanities & Social Sciences
+- Email: souvik@hss.iitb.ac.in
+- Research Group: Health Policy & Applied Econometrics Group (HSS)
+- Primary Research Area: Health Policy, Health Economics & Applied Econometrics
+- Research Interests & Innovation Focus: Socioeconomic determinants of health; Digital health equity; Public health policy; Applied econometrics; Causal inference in health; Healthcare outcomes analysis; Health disparities; Labor economics; Program evaluation; Impact assessment of health interventions
+- Notable Projects: Young Faculty Award; Prior positions at Harvard, Stanford, Pfizer; Research on health determinants and disparities; KCDH associated faculty for health policy; Publications in JAMA, health economics journals
+- Key Tools & Platforms: Stata, R, causal inference methods (diff-in-diff, RDD, IV), survey data analysis, health data analytics
+- Industry Collaborations: Pfizer (former); Harvard (former); Stanford (former); KCDH health policy research; Public health organizations
+- Awards: Young Faculty Award; Former Harvard/Stanford/Pfizer researcher; Publications in JAMA and health economics journals
+- Innovation Keywords: health policy, health economics, econometrics, causal inference, health disparities, digital health equity, public health, program evaluation, social determinants, digital health
+- Profile: https://www.hss.iitb.ac.in/en/faculty-profile/souvik-banerjee

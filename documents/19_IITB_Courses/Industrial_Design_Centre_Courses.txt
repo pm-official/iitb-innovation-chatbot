@@ -1,0 +1,1180 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Industrial Design Centre - Course Catalog for IIT Bombay Students
+
+
+## DE 101: Art and Design Fundamental 2D
+- Credits: 6
+- Type: Laboratory
+- Description: . Exposure to various elements and principles of art and design in 2D . Expressions and explorations using Points, Lines, Planes and Volumes. Its relation in context to nature and environment. Study and understanding of Frame of Reference or Point of Views. Principles of colour theory and explorations. Understanding of the visual relationships 302226 balance, proportion, order, symmetry, rhythm, etc.. Study of visual principles of composition: grids, layouts, asymmetry, balance and asymmetry.
+
+## DE 102: Art and Design Fundamentals 3D
+- Credits: 6
+- Type: Laboratory
+- Description: . Exposure to various elements of 3D and principles of art and design in 3D  . Expressions and explorations of spaces and Volumes . Experimentations with Form, Texture, Colour and space . Its relation in context to nature and environment . Radii Manipulation, Form Transition, Morphology . Exposure to form and movement .  Exposure and demonstration of 3D modeling software
+
+## DE 103: Image Representation and Transformations I
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: . Object Representation . Representing nature. Figure Drawing. One point, Two point, and Three point Perspective. Studies in light and shadow on 3-dimensional Form Representations. Grid based drawing, Analytical Representation. Exposure and demonstration of Illustration and Image making software
+
+## DE 104: Image Representation and Transformations II
+- Credits: 4
+- Type: Laboratory
+- Description: . Representing the observed . Representing concepts - Sketching for ideation. Mimetic Imagery and Abstraction. Memory and Imagination. History of Art and Aesthetics. Expression and Imagery. Time and space in Image. Migration of forms and Image manipulation. Metamorphosis through form, colour and structure. Advanced exposure and demonstration to Illustration and Image making software
+
+## DE 105: Captured Audio and Image Design (Photography & Videography)
+- Credits: 6
+- Type: Theory
+- Description: . Exposure to elements of Audio, photography and video . Light and Composition . Framing and Point of view . Photo-essays and Storytelling through stills and video . Fundamentals of Sound . Exposure to video editing software
+
+## DE 106: Typography Fundamentals and Exploratory Printing
+- Credits: 6
+- Type: Theory
+- Description: . Introduction to type and its history.  . Type as a form and means of communication.  . Type in our environment.   . Introduction to Indian Type . Learning to see and recognize typefaces, type families and know about type designers.   . Construction of type with hand.  . Structure and anatomy of the type; x-height, ascenders, descenders, counter, cap-height, baseline, etc.  . Typographic variables: kerning, tracking, leading, Spacing etc.  . Classification of type.  . Semantics of type. Legibility and readability issues in type. Vernacular letter-forms. . Introduction to traditional printing techniques like Block printing, Screen printing, Hot stamping, etc .
+
+## DE 107: A Study of the Power of Words
+- Credits: 2
+- Type: Laboratory
+- Description: To look at retelling as a powerful means of examining, interpreting and understanding the present by exploring the resources of the past.In this module we will look at some of the reasons why we retell stories:To make old texts new. To interrogate inherited mythologies/perceptions/worldviews. To enjoy the gaps in the old stories and fill them in new ways.To make room for a multiplicity of narratives.To give voice to marginal/invisible/unjustly-treated characters.To raid the shared collective cultures we can all access. To celebrate that great gift: freedom of interpretationTo understand who we are and where we come from. We will look at some of the areas that are rich with possibility for creative retellings: mythologies, fairy tales, folktales. Each student will be encouraged to pick a fa...
+
+## DE 108: Exploration in Drawing, Tonalities
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Exploration of drawing and Rendering Creating textures Understanding quality of strokes
+
+## DE 110: Form Exploration in Pottery
+- Credits: 2
+- Type: Theory
+- Description: Centering, Making cylinders Making identical bowls Form exploration History of Ceramics Contemporary Ceramics
+
+## DE 111: Communication through Sculptural Forms
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Expostulations in form through suitable medium, usage of diverse traditional and contemporary materials. Sculpting methods like additive and substantive methods. Form manipulation through various techniques like abstracting, modelling, carving and assemblage. Documenting and exhibiting create forms, maquettes and scaled prototypes.
+
+## DE 112: Communication Through Illustrations
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: The visual communication methods like drawing, renderings, basic printing techniques will be used with analogous and digital explorations. Exposure to Illustration and Image making methods and forms. The output of physical, digital and hybrid assets will be submitted for evaluation.
+
+## DE 113: Introduction to Film Making
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Basics of photography     2. Film language     3. Filmic composition     4. Cinematography     5. Sound design     6. Filmic narrative and screenwriting     7. Editing
+
+## DE 114: Basics of Film Editing
+- Credits: 2
+- Type: Theory
+- Description: - Editing Basics & Vocabulary  - Editing Grammar - Continuity Editing - Montage theory - Analytical and constructive editing - Post classical editing - Rhythm of editing - Each topic will be demonstrated by the instructor and practiced by the students in form of small exercises daily and one final long assignment at the end.
+
+## DE 115: Drawing Tools, Lines and Forms
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Drawing tools and media Understanding line and forms Still Life and Outdoors Drawing from nature
+
+## DE 116: Exploration in Drawing, Tonalities and Textures
+- Credits: 4
+- Type: Theory
+- Description: Exploration of Drawing and Rendering Chiaroscuro: Light and Shade Creating textures Understanding quality of strokes Drawing from nature
+
+## DE 117: Introduction to Writing
+- Credits: 4
+- Type: Theory
+- Description: Introduction to writing and language Understanding Point of View Understanding Situations Exercises in Observation Imagination and Intention in writing Exercises in modes, styles, craft and vocabulary Understanding Coherence in Writing Framing subjective responses within objective frameworks
+
+## DE 118: Product analysis
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Dissection of products and analyses.Study of components of products and their connections with each other. Component designs for gadgets and its fitting Understanding the Influences of material and processes on the details.Exploration of the details for soft and hard assembly, knock-down systems, fold-ability and flexibilityVisualization of details in the form of orthographic views, sectional view and exploded views of products. Classroom Projects on component design and Detailing Representation and communication techniques for evaluation and presentation of options for detai
+
+## DE 119: Material Exploration
+- Credits: 4
+- Type: Theory
+- Description: Course Objectives: 1. Exposure to materials like clay, wood, textiles, bamboo and metal 2. Sensitize students to materials above 3. Hands-on experience working with material above.  Learnings:  1. Students will learn the types, textures and behaviour of materials 2. Basics of wheel thrown forms in pottery 3. Free exploration with clay 4. Introduced to yarn and the basics of weaving techniques 4. The details of joineries  5. The structural properties of each material 6. The exploration of wood, bamboo, and metal to make products.
+
+## DE 120: Product sketching
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Exercises on lines, circle, ellipse and  curves to improve the hand mind coordination. 1 point, 2 point and 3 point perspectives and Object drawing Drawing of objects from outdoor. Light and shadow on product. Hand rendering and Digital renderings. Drawing of orthographic views, sectional view and exploded views of products. Exercises for improving observation and visual memory
+
+## DE 121: Design Studio I - Problem Identification
+- Credits: 6
+- Type: Theory
+- Description: .  Introduction to Design and its eco-system .  Design Relevance: Exposure and analysis .  Introduction to the process of design .  Inquiry and Observations .  Documenting activities and environments .  Talking and conversing with users .  Problem Identification or need finding .  Documentation, report making and presentations
+
+## DE 122: Design Studio II - Problem Analysis
+- Credits: 6
+- Type: Theory
+- Description: .  Analysis of an existing problem in a given context .  Mind Maps, Affinity Mappings, Temporal-Spatial Mappings .  Physical(Sensory) - Social - Cognitive Mappings .  Semiotic Analysis (Syntax-Semantic-Pragmatic) .  Observations, Insights and Opportunities .  Soft Prototyping the idea/concept .  Documentation, report making and presentations
+
+## DE 123: Introduction to Writing
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to writing and language understanding Point of View Understanding Situations Exercises in Observation Imagination and Intention in writing Exercises in modes, styles, craft and vocabulary Understanding Coherence in Writing Framing subjective responses within objective frameworks
+
+## DE 125: Drawing Tools, Lines and Forms
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to Drawing tools and media Understanding line and forms Still Life and Outdoors Drawing from nature
+
+## DE 126: Sculptural Form
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Learning Objectives The objective of the module is to learn the process of creating various forms, using the sculptural methods and techniques. The learners will get an Introduction and exposure to various processes creating forms and their application in Design projects. Hand modeling/carving/building to achieve the form Transferring the form to other stable and durable mediums Learning methods to achieve various surface details and finishes Methodology/ Techniques Lecture/ discussion sessions to introduce the fundamentals and processes. Demonstrations and hands-on Practical sessions for learning the process and understanding the material. Resources, tutorials and case studies will cater to the broader learning, and understanding of the processes. Deliverables Sculptural forms in the appr...
+
+## DE 127: Basic Forms in Pottery
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Understanding Clay Bodies (terracotta, stoneware, porecelain) Hand-shaped forms Centering Making a Cylinder Making a kulhar and a tea-cup History of Ceramics
+
+## DE 129: Introduction to Weaving
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to spinning and weaving Types of Yarns and Knots Using the Peg-warp Beaming, Drafting and Denting a Table Loom Introduction to plain weaving History of handlooms
+
+## DE 131: Design and Human Evolution
+- Credits: 4
+- Type: Theory
+- Description: .  The evolution of Design as a discipline and its relationship to the environment. .  The discoveries and inventions that have changed the world. .  Design and its relationship to art, craft and technology. .  Design and designers that have made a difference.
+
+## DE 132: World of Images and Objects
+- Credits: 4
+- Type: Theory
+- Description: . Images, Objects and meaning-making . Introduction to aesthetics, form and function . Cultural codes embedded in images and objects . Everyday objects, perception and cognition
+
+## DE 133: Applied Science for Designers
+- Credits: 4
+- Type: Theory
+- Description: . Fundamentals of Symmetry and Patterns in Nature. Evolution of Form in Nature. Triangles, Hexagons and rigid structures. Work by Buckminster fuller and concept of sustainable structures. Understanding Fibonacci series and the Golden ratio. Geometry of shapes
+
+## DE 134: Knowledge Organisation and Communication
+- Credits: 4
+- Type: Theory
+- Description: .  Knowledge Gathering, Organisation and Visualisation.  Visual Mapping of large systems.  Data Mining and making sense of dynamic information.  Building concept maps, affinities and networks.  Diffusion and communication of Knowledge
+
+## DE 135: Design Studio Project I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Design and its eco-system .  Design Relevance: Exposure and analysis .  Introduction to the process of design .  Inquiry and Observations .  Documenting activities and environments .  Talking and conversing with users.  Problem Identification. Framing observations accurately to identify needs.  Analysis of observations and data collected. Creative exploration and model making. Documentation, report making and presentations.
+
+## DE 136: Design Studio Project II
+- Credits: 6
+- Type: Theory
+- Description: Inquiry and Observations .  Talking and conversing with users.  Framing observations accurately to identify needs.  Analysis of observations and data collected. Mind Maps, Affinity Mappings, Temporal-Spatial Mappings . Physical(Sensory) - Social - Cognitive Mappings . Observations, Insights and Opportunities.  Creative exploration and model making. Soft Prototyping the idea/concept.  Documentation, report making and presentations.
+
+## DE 138: Space and form
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: The course will cover the basics of form and space for the 1st year B.Des. students and allow them to learn and sensitized to the 3D Forms and space around them.Exposure to the basic elements and principles of 3D form.Exposure to the composition and proportions in 3D Form.Exposure to the convexity, concavity, space around the contour of 3D form.Experimentation`s with Form, Texture, Colour and space.3D form transition and concept of family of forms.
+
+## DE 139: Typography Fundamentals
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Type as a form and means of communication.  Introduction to history of typography. Construction of type with hand. Structure and anatomy of the type. Basics of typesetting and composition. Classification of type. Semantics of letter forms. Legibility and readability. Usage of vernacular letter-forms. Learning to observe and recognize typefaces. Basics of Calligraphy. Introduction to traditional printing techniques like Letterpress. Using letter forms in visual communication.
+
+## DE 191: Visual Design Project
+- Credits: 4
+- Type: Project
+- Prerequisite: NIL
+- Description: Study of Visual Design principles. Structuring of Information, Information Graphics, Golden Ratio, Visual Hierarchy, Visual Abstraction, Design Methodology, Creative Visualization. Study of visual principles of composition: Grids, Layouts, Symmetry, Balance and Asymmetry. Use of Typographic principles in Visual communication. Creative problem-solving projects with focus on Communication Design.
+
+## DE 201: 2D Visual Studies I - Word and Image
+- Credits: 6
+- Type: Laboratory
+- Description: .  To understand and experiment with word image hierarchies .  What is an image? .  Image and Perception .  Word and meaning, Word as image, Image in word, word in image .  Word Image interaction .  Word Image juxtaposition (delete..sounds the same as above?) .  Word/letter form  transforming into image .  Fusing word and image (cartoons)
+
+## DE 202: 2D Visual Studies II
+- Credits: 6
+- Type: Laboratory
+- Description: .  Typography and layouts - symmetrical and asymmetrical layouts.  Visual principles of text and image composition: grids and planned division of space.  Design of dynamic layouts.  Typography for print and digital media .  Exposure to layouts in newspapers, magazines, webspaces, wayfinding, etc.
+
+## DE 203: 3D Form Studies I - Aesthetics , Identity and Expressions
+- Credits: 6
+- Type: Laboratory
+- Description: .  Form Studies and Aesthetics .  Identity and Form - creating a family of forms .  Abstraction, Expression and Meaning in Product Form .  Material Explorations using different materials .  Advanced exposure and demonstration of 3D modeling software
+
+## DE 204: 3D Form Studies II
+- Credits: 6
+- Type: Laboratory
+- Description: .  Form and metaphors  - inspirations from nature .  Nature and Form - Biomimicry as inspirations  .  Form in Transition - movement in time and space .  Exposure and demonstration of detailing with 3D modeling software
+
+## DE 205: Creative Thinking Process and Methods
+- Credits: 4
+- Type: Theory
+- Description: .  Creative problem solving process and methods. Introduction to Brain storming, syntectics, etc..  Creative thinking experience in multiple modes of intelligence (visual, verbal, mathematical, musical, spatial (Theatrical).  Creativity and personality growth. Reflective thinking and self-discovery.  Mappings, Affinities and Concept Maps.  Understanding Users, Environments and Artifacts.  Primary and secondary Research Methods (HCI techniques).  Clustering of ideas for concept development.  Participatory and collaborative design process
+
+## DE 206: Communication Theories, Visual Perception and Semiotics
+- Credits: 6
+- Type: Theory
+- Description: .  Defining communication .  Processing information - Coding & Decoding .  Sender, Channel and Receiver .  Semiotics - signs and their meanings in Indian cultures .  Study of relationships between Signifier, Signified and context, Denotation and Connotation .  Communicating  through gestures, voice, type and visuals .  Designing  visual messages to send meanings .  Defining perception .  Principles of 2 dimensional perception .  Introduction to Gestalt laws of perception .  Understanding Figure and ground and its relevance in design
+
+## DE 207: Understanding Space and Perspective
+- Credits: 2
+- Type: Theory
+- Description: Understanding Space Understanding Perspective
+
+## DE 208: Design, Storytelling and Narratives
+- Credits: 4
+- Type: Theory
+- Description: .  Story, narrative and meaning making.  Premise and problem statement.  Characters and personas.  Plot and Scenarios.  Relationship between problem, need and conflict.  Conflict, Action and Resolution
+
+## DE 209: Sculptural Ceramics
+- Credits: 2
+- Type: Theory
+- Description: Refinement in Wheel Thrown Forms Slab and coil technique Sculptural Ceramics Basics of Glazing
+
+## DE 210: Understanding Human Anatomy
+- Credits: 2
+- Type: Theory
+- Description: Human Portrait and Anatomy Capturing Movement of human figure
+
+## DE 212: Ceramic Glazes and Colour Development
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Sculptural Exploration Glaze and Colour Development Ceramic Kilns
+
+## DE 213: Material Exploration-1
+- Credits: 2
+- Type: Theory
+- Description: Course Objectives: 1. Exposure to materials like wood, bamboo, and metal 2. Sensitize students to materials above 3. Hands-on experience working with material above.            Learnings:- 1. Students will learn the types, texture, weight, smell, and behavior of the materials 2. The details of Joineries change with the material. 3. The structural properties of each material 4. The exploration of wood, bamboo, and metal to make products.         Tentative Assignments: 1. Preparation of material involves making cuboids using a planner, Cylinder 2. Using a Lathe machine, and groves using a Chisel. 3. Joineries in wood and bamboo: T joints, L joints, Dovetail joints, Finger joints 4. Joineries in Metal: Joining two metal pieces Without welding 5. Group exercise of making a stool with four legs...
+
+## DE 214: Writing by Design
+- Credits: 2
+- Type: Theory
+- Description: Primary objectives: 1. To be able to apply existing writing skills to achieve desired intentions with greater precision 2. To understand form, structure, pattern and process with even greater depth through regular practice 3. To look at different modes - imaginative, narrative, informative - using apt vocabularies  Secondary objectives: 1. To realize that -inspiration- lies everywhere - in the daily news, in science journals in extra-curricular activities that interest students 2. To channelize those interests into writing practice so that each feed into the other 3. To make ongoing investigations of everyday realities and close observation of lived  experiences a key to writing better 4. To see how vital our own environment, location and context is to shaping our creative process
+
+## DE 215: Reading the World through Many Lenses
+- Credits: 2
+- Type: Theory
+- Description: To create a free-flowing conversation between diverse world-views expressed through  a variety of genres - historical fiction, science fiction, short fiction, non-fiction and poetry To suggest that reading is a natural - and enjoyable - corollary of writing, and that  both are essential to any form of critical thinking To help students recognize and explore the links between different  cultures/mythologies/modes  To reveal how the most interesting ideas can come out of these interstices  To understand the contextual nature of creative work and the writer as a creation of his/her specific time and location
+
+## DE 221: Design Studio III - Creative Explorations
+- Credits: 6
+- Type: Theory
+- Description: .  Creativity and Ideation methods - Brain Storming, Synectics and Lateral thinking .  Design Explorations for Alternate Concepts .  Exposure to Design Synthesis  .  Design Conceptualization and Visualisation .  Idea sketching for alternate creative solutions .  Personas, Scenarios and Story Boarding .  Rapid Visualisation and Quick Mock-ups
+
+## DE 222: Design Studio IV - Prototyping
+- Credits: 6
+- Type: Theory
+- Description: .  Soft prototyping and 3D quick models .  Paper and quick mock -up models .  Bookmaking prototyping methods .  Keyframes and Animatics .  Walkthroughs, Wireframes and Simulated Prototypes .  Interactive prototyping methods .  Introduction to Rapid Prototyping techniques
+
+## DE 224: Natural Dyeing Techniques
+- Credits: 2
+- Type: Laboratory
+- Description: Introduction to colour in nature Learning to look at colours of plants, birds, minerals, nature & natural fibres Learning colour extraction processes Making colours from plants and other natural materials Developing colour palettes using different materials
+
+## DE 231: Design, Society, Culture and Environment
+- Credits: 4
+- Type: Theory
+- Description: .  Culture and Society  .  Design and Social Concern .  Urban/Rural context/needs/problems .  Social Structure and Identity .  The Community, the Family and the Individual .  What is -Indian- and how it has been defined over time  . Gandhian thoughts, Khadi,  Rabindranath Tagores thoughts- Shilpa Sadan, Aurobindo and Mothers thoughts  in auroville .  Calendrical events: festivals, rituals, rites of passage .  Design in everyday objects .  Cultural artifacts, ritualistic artifacts, myths and legends .  Observation and immersion .  Interacting with strangers, self-reflexivity .  Drawing as method of interaction, rapport-building, observation and documentation .  Note-keeping, synthesizing observations
+
+## DE 232: Design, Media and Technology
+- Credits: 4
+- Type: Theory
+- Description: . Communication and tools of Communication . Media and changing technologies . Potential of technology and its impact on society  . Media artefacts and convergences . New Applications and ways of working
+
+## DE 250: Design Thinking for Innovation
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+
+## DE 302: Animation Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Study of Animation Techniques & styles developed and used over the years in animation. .  Entire animation process from script to screen in process for an animation film (short or feature) .  Overview of the  Animation Process - Preproduction, Production, Post Production .  Exploring the look and feel for animation through concept art  .  Planning character design, layout design, illustration style, composition, staging, backgrounds .  An exposure to various animation techniques  .  Workshops using both 2D and 3D techniques on Computer, Film, Video etc. .  Production of professional stop-motion animation puppet and usable set props.  .  Animation Production Planning, Estimation and Distribution
+
+## DE 303: Information Graphics and Visualisation
+- Credits: 6
+- Type: Laboratory
+- Description: .  Syntactic and semantic aspects of information design. .  Understanding information graphics from simple to complex representations. .  Study of visual display of quantitative and qualitative information. .  Information structuring and principles of Visualisation, Visualisation  of events, Activity in terms of time and space representations. .  Understanding of charts, maps and diagrams .  Explorations in visualizing dynamic information .  Design of dynamic information
+
+## DE 304: Communication Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Understanding design as applied to solving communication problems within the context of our society .  Structuring information in terms of classifications, hierarchy, order, sequence, etc.  .  Design of magazine, textbook, picture books, Children-s books, exhibition, website, e-book, etc.
+
+## DE 305: Moving Image Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  History of cinema, its development as art and as an industry .  Film theory and analysis .  Documentary, narrative and experimental films .  Cinema as propoganda .  World Cinema, Indian Cinema (main stream and parellel) .  Digital Cinema, new filmmakers and the influence of internet.
+
+## DE 306: Film-Video Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Pre-production: Concept development, Script writing, production planning .  Production:  Digital film cameras, Lens, Accessories Digital Image; technology, Formats Digital Sound Recording, Formats and techniques .  Post production:  Editing, audio, color correction, display and distribution
+
+## DE 307: Product Design - I
+- Credits: 6
+- Type: Laboratory
+- Description: .  Understanding users, defining their needs and defining the problem to solve .  Methods for creating creative concepts - exploration of alternative solutions .  Mapping the functional requirements to possibilities of form .  Considerations of user requirement, ergonomics, function, materials and processes
+
+## DE 308: Product Design II
+- Credits: 6
+- Type: Laboratory
+- Description: .  Product function, structure, form and ergonomic relationship .  Situation/ Context of use, users, market research, and product research with a focus on materials and processes.  .  Analysis of research information and identification of problem areas leading to a problem statement and articulation of constraints .  Methods/ Techniques for evolution of creative alternative concepts .  Validation of concepts through Exploratory Mock ups from the point of view of functionality, ergonomics, form etc, by the users and other stakeholders. .  Finalisation of the concept, preparation of final model, technical drawings and other supporting documentation
+
+## DE 309: Design for Interactive Media
+- Credits: 6
+- Type: Laboratory
+- Description: .  Morphology of Interactive medias  .  Storytelling and narratives in Interactive medias .  Experience design and interactive medias .  Information Structuring, time and space for Interactive Medias .  Design of multi-modal interfaces for text, graphics, animation, video, audio, games, etc. .  Designing interactive medias for public use - installations, Museums and community facilities
+
+## DE 310: Interaction Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Use of HCI methods (Contextual Enquiry, Focus Groups, Interviews, etc.) for understanding the user and his requirement. . Understanding the factors that define user experience. .  Design of multi-modal interfaces, expressive interfaces, audio interfaces, tangible interfaces and gestural interfaces. .  Design of interactive systems, products for future use, Collaborative products to be used in groups, devices for rural applications and devices for use in public places.
+
+## DE 311: Mobility and Vehicle Design
+- Credits: 6
+- Type: Laboratory
+- Description: A brief history of automobiles; from Coach building to Mass Production Vehicle Types, Configurations. Vehicle Construction and Architecture, Trends and Developments Vehicle Design process, Concept to Realization Vehicle Ergonomics and Packaging Styling/ Vehicle Form, Vehicle Aerodynamics and Form, Brand Styles and Values, Styling Trends Concept Sketching and Presentation Skills, CAD Skills, Modelling skills
+
+## DE 312: Transportation Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Vehicle Design Process .  Vehicle Product Planning, Product Brief, User Study,  .  Concept Generation,  .  Concept Presentation,  .  Theme Selection,  .  Rendering,  .  Tape Drawing,  .  3D and Computer Model Development,  .  Design Evaluation.
+
+## DE 313: 3D Modeling and Prototyping
+- Credits: 6
+- Type: Laboratory
+- Description: .  Modeling and Prototyping Techniques with the materials including timber, plaster, plastics, and metals. .  Vacuum Forming and Mould Making .  Introduction to the industrial clay and the techniques used in making clay models .  Clay Modelling is an important step in the 3D design process, and in many professional studios designers are required to make preliminary proposals in clay .  Introduction to 3D CAD using state of art CAID software for product design and development. The focus is on creating advanced 3D models both for model-making, production and advanced visualization Introduction to contemporary methods for prototyping like Rapid Prototyping, CNC milling. Flow of CAD data from sketch to prototypes and production.
+
+## DE 314: Game Design
+- Credits: 6
+- Type: Laboratory
+- Description: .  Game Design - an introduction (Game Theory, Detailed Design Docs, Storytelling, Visual Storytelling, Critical Game Analysis) .  Various Genres of Games .  Various platforms in games and their differences .  Game Art and a comparison with Art asset creation for animation .  Game Art production techniques and technologies involved .  Technology for game development (a study on various game engines) .  A detailed look at a 3D game engine .  Game Design Documents and Technical Design Document .  Level Design  .  Sound, UI Design .  Production pipelines in game production .  The gaming industry, Producing and Distribution .  Making a playable level
+
+## DE 315: Applied Ergonomics
+- Credits: 6
+- Type: Theory
+- Description: .  Definition of Ergonomics and it`s application and overview .  The concept of Man Machine Environment systeMDesign .  Overview of Human body and it-s sub systems .  Understanding musculoskeletal system and it`s function in terms of manual activities .  Understanding nervous system, human sensory organs and their limitations. .  Basic Bio mechanics and it`s application in design .  Anthropometry and its application Understanding nervous system, human sensory organs and their limitations. .  Issues of cognition, perception and performance  .  Study of work posture and it`s impact on human performance .  Physical environment and their impact on human performance
+
+## DE 316: Product Ergonomics
+- Credits: 6
+- Type: Laboratory
+- Description: . Understanding of Product Ergonomics . Ergonomics as applied to transportation design field . Physical ergonomic evaluation of any vehicle workstation
+
+## DE 318: Interaction Techniques
+- Credits: 6
+- Type: Theory
+- Description: ● Interaction techniques ● Design detailing and microinteractions ● Data visualisation ● Prototyping ● Evaluating prototypes through performance tests ● Iterative improvement of design
+
+## DE 319: Interaction Design Process and Methods
+- Credits: 6
+- Type: Theory
+- Description: ● Conducting user studies with contextual inquiry ● Interpreting and analysing interviews ● Creating work models ● Consolidating findings with affinity ● Layers of user experience  ● Modelling users (conceptual models, stages of use mode, user-usage model) ● Setting product goals and user experience goals ● Personas, scenarios and creative ideation ● Heuristics and principles of human-computer interaction ● Evaluating designs through heuristic evaluation, think aloud tests and card sorts ● User experience metrics ● Design process
+
+## DE 320: Designing Books for children
+- Credits: 6
+- Type: Project
+- Description: What are children-s books? Exploring the nature and history of children-s books in India and Abroad Exposure to different art styles/ forms with a view to understand the socio-cultural basis of illustration Study pedagogy and how stories and illustrations affect children Exposure to the world of Indian children-s book publishing The writing, designing and illustrating of a complete children-s book
+
+## DE 322: Materials and Processes
+- Credits: 6
+- Type: Theory
+- Description: .  Properties and usage of thermoplastics and thermosetting plastics. .   .  Process of selection and applications of plastics for engineering and consumer products.  .  Design limitations and specific advantages of plastic molding processes. .  Properties, detailing and use of rubber, ceramics and glass.  .  Properties of natural materials like wood, bamboo, cane, leather, cloth, jute and paper and their use at craft and industry.
+
+## DE 323: Stopmotion Animation
+- Credits: 6
+- Type: Theory
+- Description: Different styles and techniques of stop-motion Setting it up- Working with cameras and tripods -Basic Lighting and set preparation -Object animation: manipulation and interaction with -characters and the environment -Learning different techniques with clay -Lip syncing on a dialogue -VFX in stopmotion -Adding creative sounds -Editing the stop-motion footage
+
+## DE 324: Digital Media Technologies
+- Credits: 6
+- Type: Theory
+- Description: .  An overview of the media industry - print and publishing, TV and Video, Web and e-books, Movie and Animation. .  Introduction to web specifications. .  Introduction to Paper, specifications and its variations .  Introduction to printing technologies. .  Introduction to Video production and TV industry.  .  Introduction to the animation and movie industry.
+
+## DE 327: Basics of Materials and Processes
+- Credits: 4
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 302225 Types of plastics    302225 Plastic manufacturing processes    302225 Metal manufacturing processes    302225 Exposure to detailing    302225 Exposure to other materials like bamboo, wood, jute, etc.
+
+## DE 329: Ceramics through the Ages
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: To encourage students to engage with traditional clay practices and practitioners.To encourage students to deepen their understanding of clay.To encourage students to explore new products that integrate clay with other materials.To encourage students to develop sculptural abilities using clay.Visits to CSVS, Bhaudaji LadTraditional Pottery of India(Molela, Bankura, Kathiawad, Koraput, Manipur)Traditional Pottery of AsiaEarly Innovations in Chinese PotteryPottery traditions in the Far EastMiddle Eastern Pottery traditionsLusterware and Islamic art in PotteryEarly European PotteryPottery of early American civilizations
+
+## DE 331: Design, Technology and Innovation
+- Credits: 4
+- Type: Theory
+- Description: . History of Innovation - great innovations that have shaped mankind . Relation between Design and Innovation . Factors for Innovation - from problem framing to reframing .  Culture of innovation - understanding needs, cross-connections, limits and challenges . Problem-solving strategies that lead to innovation . Collaborative methods to enable innovation
+
+## DE 332: Design Management, Planning and Professional Practice
+- Credits: 4
+- Type: Theory
+- Description: Product Planning for the future .  Product Life Cycle management .  Planning for redesign .  Strategy for product differentiation and identity .  Models of entrepreneurship .  Exposure to successful firms that are based on sound design principles .  How to set up an independent office, method of charging, preparing project schedules, etc. .  Study of Intellectual property Rights and design registration procedures
+
+## DE 337: Introduction to Sound Design
+- Credits: 4
+- Type: Project
+- Prerequisite: 0.0
+- Description: - Aesthetics of sound     - Sound design for motion picture     - Manipulation of sound     - Planning sound design     - Sound editing     - Sound mixing
+
+## DE 350: Introduction to Product of Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Understanding and learning design process, and use for simple product design Understanding concept design process and learn to write design brief tools for idea generation and lateral exploration simple product detailing and prototyping
+
+## DE 351: Introduction to Elements of Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: An introduction to basic elements: Line, texture, colour, form, symmetry, balance, scale, mass, unity and variety. Concept of visual language and visual design Introduction to Gestalt Laws, composition and figure and ground relationship. Introduction to concept of negative space. Use of symmetry. Generation of patterns and textures using simple elements. Introduction to typography and fonts. Use of grids in graphic composition. Colour circle, colour combinations and its dimensions: hue, value and chroma. Colour meanings in traditions and psychological use of colours.
+
+## DE 403: Studio Project I
+- Credits: 6
+- Type: Theory
+- Description: The studio project is offered for students who already have exceptional skills in the area of design and are able to contribute to the specialisation of the faculty.  The student will have to undertake a topic in guidance with the guide from IDC and would have to complete the project within the semester.
+
+## DE 405: Studio Project II
+- Credits: 6
+- Type: Theory
+- Description: The studio project is offered for students who already have exceptional skills in the area of design and are able to contribute to the specialisation of the faculty.  The student will have to undertake a topic in guidance with the guide from IDC and would have to complete the project within one semester.
+
+## DE 410: Perspectives on World Cinema
+- Credits: 6
+- Type: Theory
+- Description: An overview of Film HostorySocial Context of Filmamking :relationships of Filmmakers to their milieuAnalysis of Selected Classics of Cinema:Common themes and individuals styles, similiarities and contrasts in stylesAsian Cinema:Film directors Akira Kurosawa,Mizoguchi and KiarostamiEuropean Cinema:Film Directors Godard,Truffaut,Bergman and FelliniRussian Cinema:film directos Anderi TarkovskyAmeriacn Cinema:Film directors Sidney Lumet and Stanely KubrickWriting of a film diary of required film viewingA long form esssay on any filmmaker would be a final requirement for completion of the course
+
+## DE 415: Understanding Design
+- Credits: 6
+- Type: Theory
+
+## DE 416: Sustainability Fundamentals
+- Credits: 4
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Why critical, consumption vs population increases, challenges - Explore climate change,-resource depletion,-biodiversity loss,-and their impact from design decisions     - History of Sustainability movement, Paris accord, COP initiative, Regulatory and policy evolution (including for India).       - Foundational Sustainability concepts - Triple bottom line (environmental, social and economic) considerations, circular economy, cradle to cradle design and life cycle impact.      - Design for Sustainability (across Product, Systems, Services, communication, Mobility, UI/UX,) covering approaches of Material and process selection, Longevity, renewable sources,  Servicification, business impact and strategy planning and integration, Biomimicry.         - User behaviour and communication:-Under...
+
+## DE 417: Physical Ergonomics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to the concept of Ergonomics in Design, Analysis of Man Machine Environment system Design . Physical aspects of Ergonomics including anthropometrics, human body-structure and function, posture, joint movement and biomechanics; Issues of cognition, perception and performance . Ergonomics and Workplace Safety, Occupational health and Musculoskeletal disorders; Physical environment and their impact on human performance, Application of Physical Ergonomics principles in real-world scenarios with respect to Product and Vehicle Design
+
+## DE 419: Visual and Cognitive Ergonomics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Human cognitive process including perception, attention, memory, decision-making, and problem-solving and it-s influence on human performance; Human physical characteristics and limitations with respect to visual communication; Visual ergonomics related to- readability issues in different contexts (e.g., static/dynamic, short/long distance, type of display etc.); Human perception related to visual design application, Heuristic evaluation and UX audits; Stress and mental workload; Implication and application of cognitive principles to design interfaces with respect to Interaction and Communication Design.-
+
+## DE 431: Global Design Thoughts and Discourse
+- Credits: 4
+- Type: Theory
+- Description: .  Understanding -Form follows nature-, -Form follows Function- and -Form follows emotion- .  Understanding the concept of -Less is more-  .  The role of aesthetics in society .  The role of design in a sustainable world .  Design in the context of a globalised world .  Exposure to Indian and Asian thoughts on design
+
+## DE 601: Introduction to Studio Photography
+- Credits: 2
+- Type: Laboratory
+- Description: Lens, Focal Length, Exposure (Shutterspeed, Aperture, ISO), Depth of Field, Histogram, Picture Styles, RAW image, Digital Imaging, Sensor, Crop Factor, Light Meter (Incident, Reflected), Studio Lighting, Flash Photography, Tabletop Photography.
+
+## DE 602: Product Interface Design
+- Credits: 4
+- Type: Theory
+- Description: - Investigations and study of visual, functional and ergonomic requirements of control and display interfaces. Legibility of display elements, character of different typefaces and their readability. - Study of the process of building interactions. - The course involves an interdisciplinary approach including User Centered Design Process, Activity Analysis, Structuring of Content, Participatory Design, Experiential Ideation, Scenario Building, Linear and Animatic storyboarding, Soft Physical Prototyping Techniques. - The students will collaboratively design an interactive product interface.
+
+## DE 603: Presentation and Communication Skills
+- Credits: 2
+- Type: Laboratory
+- Description: Introduction to presentation methods and technologies. Understanding and creative applications of these media. Design principles for creating presentations, slides and report writing. Creative writing, articulation, narration exercises. Final Project: Documentation and presentation exercise.
+
+## DE 604: Introduction to Product Ergonomics
+- Credits: 4
+- Type: Theory
+- Description: 302225 Introduction to the concept of ergonomics in design302225 Analysis of MME system design, How to assess the interface design, Design methodology302225 Body dimensions and is application in design302225 Dimensional optimization for the population and use of percentile302225 The musculo-skeletal system and joint motion study, Human body follows the principle of lever302225 Basic model on calculation of biomechanical stresses on our body302225 Design for the physically challenged302225 Mini Project work involving Ergonomic design research for product system.
+
+## DE 605: Workshop Skills
+- Credits: 4
+- Type: Laboratory
+- Description: Introduction to workshop safety, best practices and workshop discipline and rules. Introduction to workshop machines and hand on operation of each tool Introduction to prototyping materials, processes, and prototyping techniques. Modern prototyping technologies and working with CAD. Painting and Finishes Prototyping a product
+
+## DE 606: Studies in Form II
+- Credits: 6
+- Type: Theory
+- Description: - Form exploration in the context of products. - Expressions in Form like soft, hard, warm, cold, precise, gross, delicate, strong, fragile, rugged etc. - Study of product expressions by analyzing in terms of elements like form, proportion, colour, texture etc. - Introduction to abstraction in form. Study of 3D abstraction in art and sculpture. Exploration of industrial material and processes as elements of design through 3D abstraction of entities in Nature.
+
+## DE 607: Studies in Form-1
+- Credits: 6
+- Type: Theory
+- Description: Introduction to 2 dimensional and 3 dimensional form. Radii manipulation in 2D and 3D form Exploration of surface textures in different materials. 2 and 3D Form transition.  Exploration of form to develop imagination and insight. Use of metaphors to generate new forms. Concept of family of forms. Introduction to 3D geometry. Basic 3D Forms: cube, tetrahedron, octahedron etc. And their imaginative use in generating complex forms and structures. Use of combinatrics as a method of 3D form generation. Form, material and process relationship.
+
+## DE 608: Product Design -2
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - The emphasis of the course is on group design projects. Selection of the projects is based on the possibility of user interaction leading to innovation. Projects end with a comprehensive presentation through working/mock up models, design drawing and a report. - The project is supported by detailed discussion on various stages in the design process emphasizing the complementary nature of systematic and creative thinking. - This is achieved by short supporting assignment in following topics: Creativity techniques like brain storming & synectics to develop creative attitude and open mind, design opportunity, problem perception, Idea Sketching , clustering of ideas for concept development, exploratory mock up models for concept development, evaluation of concepts, final concept selection, c...
+
+## DE 609: Product Design-1
+- Credits: 6
+- Type: Theory
+- Description: Design Definitions and Design Spectrum Product Attributed - Function and Emotion Product configurations and Component relationships (component Matrix) Introduction to Design Research Product Analysis - Diachronic, Synchronic Understanding and Analysis - Diachronic, Synchronic Understanding and Analyzing contexts, parallel situations, future situations Understanding modularity and modular systems - 3D lattice and structures Design of Modular System - abstract design Process of conception and its documentation Seminar and exercises related to above topics
+
+## DE 610: Nature of Materials and Processes
+- Credits: 6
+- Type: Theory
+- Description: - Properties and usage of thermoplastics, thermosetting plastics. Process of selection and applications of plastics for engineering and consumer products. - Design Limitations and specific advantages of plastic modelling processes. - Assembly and Decorative techniques for plastic product Manufacturing processes and assembly techniques for Ferrous and non ferrous metals. - Concepts of structure and costing. - Significance of form in structural strength of products. Influence of materials and processes on product aesthetics. - Industrial finishes for plastic, wood and metals. - Properties and use of rubber, ceramics and glass. Properties of nature materials like wood, bamboo, cane, leather, cloth, jute and paper and their use at craft and industrial levels
+
+## DE6101: ELEMENTS OF PHOTOGRAPHY
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Fundamental concepts of photography- Depth of field, Lenses and Exposure, Shutter speed, Histogram, Visual composition.     Studio Lighting methods and available light photography (with practicals)     Study of the works of Masters of photography     Study of different genres: Portrait photography, Street Photography, Product Photography and Photography as Art.
+
+## DE 611: Elements of Design
+- Credits: 6
+- Type: Theory
+- Description: An introduction to basic elements: Line, texture, colour, form, symmetry, balance, scale, mass, unity and variety.Concept of visual language and visual designIntroduction to Gestalt Laws, composition and figure and ground relationship.Introduction to concept of negative space.Use of symmetry. Generation of patterns and textures using simple elements.Introduction to typography and fonts.Use of grids in graphic composition.Colour circle, colour combinations and its dimensions: hue, value and chroma.Colour meanings in traditions and psychological use of colours.
+
+## DE 612: Design Issues
+- Credits: 4
+- Type: Theory
+- Description: This course will contain two predominant approaches. The first is reflective which will help students to ponder on the very basic yet subjective questions like what makes a good designer. - It will address understanding perceptions & Paradigms which enable students to -think outside the box- by identifying the boxes one creates inadvertently while designing. - It will deal with the tangible and intangible relevance of broadening one-s perspectives in Arts Aesthetics, Science and Technology to design. The second is an exposure to different thoughts and perspectives, concerns and issues in the context of design. - The challenges in design, layers or user experience, design process - Design for the real world - It will also expose the students to emerging areas of design, - Relevance of desig...
+
+## DE 613: Visual Language Syntactics
+- Credits: 4
+- Type: Laboratory
+- Description: Relationship between syntactic, semantics and pragmatics. Viewpoints, point of reference and framing. Relationship of colour, form and meaning. Explorations in visual abstraction. Study of Visual Language - critical study of visual elements, features and principles. Exploration and creation of complex and meta patterns. Analysis of Aesthetics- the structure of Appearance. Form in nature, Exploration of visual images with analogies from nature.
+
+## DE 614: Design Workshop
+- Credits: 2
+- Type: Laboratory
+- Description: An independent one week workshop which involves working on actual design problems with practicing professionals. Study of various techniques used in Design execution like Calligraphy, Pottery and Ceramics, Printmaking, Theatre, Film and Video, Performing Arts Sculpture, Painting, Story Telling and Narrative, Toy Design, Book Design, Sound Design, Exhibition Design, Information Graphics and Way finding, Environment etc.
+
+## DE 615: Studies in Typography
+- Credits: 4
+- Type: Theory
+- Description: Study of Typography. Study of Indian Language scripots. History, Classification, Anatomy and usage of various letterforms. Theoretical and applicable principles of communicating with letterforms. Multi lingual Typography.  Expressive Typography. Compositions with type. Calligraphic Experiments in Indian Language scripts.  Exploration of three dimensional features of letter forms. Typography in different contexts like Books, Mailers, New media, Posters, Signages, Motion graphics etc. Study of grids and layouts.
+
+## DE 616: Introduction to User Studies
+- Credits: 2
+- Type: Laboratory
+- Description: - Observation - Contextual inquiry - Interpreting interviews with team members, - Consolidating data across users with personas - Using data in the design process
+
+## DE 617: Introduction to Advanced Photography
+- Credits: 4
+- Type: Laboratory
+- Description: Lens, Focal Length, Exposure (Shutterspeed, Aperture, ISO), Depth of Field, Histogram, Picture Styles, RAW image, Digital Imaging, Sensor, Crop Factor, Light Metering (Incident, Reflected), Photographic Documentation, Studio Lighting, Flash Photography, Tabletop photography, Master Photographers, Relevance of Zone Systems in Digital Photography.
+
+## DE 618: Semantics and Communication Theory
+- Credits: 6
+- Type: Theory
+- Description: - The course explores relationship between human information processing and design of messages - Introduction to the, working memory (STM & LTM), chunking theory and their implications on human information processing. Human information processing strategies with emphasis on processing of visual information. Introduction to visual perception and Gestalt laws of organization. Introduction to information theory and their application to spatial and spatio - temporal message design. - Concept of attention in perception. Relationship between message design and attention, Exploring relationships between the semantics and the structure of messages. - Course is supported by studio work which uses these theories in design of communication messges.
+
+## DE 619: The Speaking Image
+- Credits: 4
+- Type: Theory
+- Description: Keyframes from the history of visual art Keyframes from the history of literature The past, the present and the future of the image The illustrated text The illuminated image
+
+## DE 620: Introdction to 3D Form
+- Credits: 2
+- Type: Laboratory
+- Description: - Introduction to 2 dimensional and 3 dimensional form. - Exploration of Product form and Product interface - Exploration various interactive technologies and their influence in product interaction and product form. - Use of metaphors to generate new forms. Concept of family of forms. - Introduction to 3D geometry and CADD software. Basic 3D Forms: cube, tetrahedron, octahedron etc. and their imaginative use in generating complex forms and structures. - Use of combinatrics as a method of 3Dform generation. - Form, material and process relationship.
+
+## DE 621: Media Technology
+- Credits: 4
+- Type: Theory
+- Description: Introduction to various digital technologies used in communication design Designing for internet and communication devices, its limitations and possibilities Pixel perfect design, use and importance of digital artifacts Designing for print media Constraints and possibilities in modern printing process Study of production methods of books, new papers, magazines etc. Study of packaging using different materials. Handling print projects through digital media. Digital format image manipulation, Colour correction, font management, colour proofing etc.
+
+## DE 622: Introduction to Animation
+- Credits: 2
+- Type: Laboratory
+- Description: - Introduction to animation, processes, techniques & Styles. - Applications of animation - Data Visualisation, Gaming, Information graphics, Motion graphics. - Hands on exposure through assignments. 10.
+
+## DE 623: Visual Design
+- Credits: 4
+- Type: Laboratory
+- Description: The focus of this course will be acquire an ability to identify a visual design problem. Understand the factors that directly or indirectly influence the visual design problem. Design methodology -Study in the phases of process from analysis through synthesis an evaluation. To be able to develop a program for investigation of problem. To be able to think from the audience point of view and to construct communicable messages for the audience through various media.
+
+## DE 624: Introduction to Film Making
+- Credits: 2
+- Type: Laboratory
+- Description: Pre-production, Developing Story, Script Writing, Story Board, Production, Camera, Shooting Strategies, Camera Movements, Steadicam, Sound Recording, Post Production, Editing, Sound Design, Color Correction, Transcoding.
+
+## DE 625: Introduction to Filmmaking
+- Credits: 4
+- Type: Laboratory
+- Description: Pre-production, Developing Story, Script Writing, Story Board, Production, Camera, Shooting Strategies, Camera Movements, Steadicam, Sound Recording, Post Production, Editing, Sound Design, Color Correction, Transcoding, Film Theory, History, Regional Movies.
+
+## DE 626: Human Factors in Interaction Design
+- Credits: 4
+- Type: Theory
+- Description: 1) Foundations of Human Factors for Interaction design (IxD)- Concept of Human Factors- Nature of mind, body and behavior- Mind, body and behavior and its relation to design- New Trends in Design and Cognition in IxD: Embodied, Embedded, Extended andEnactive Cognition- Systems-orientation of Human Factors and its relation to design2) Unravelling the mind - introduction- Sensation and Perception- Cognition, Memory and Emotion- Thinking and Problem Solving- Attention and Decision making- Multi-sensory Integration3) Implications and Applications for IxDa) Human Factors issues at the Micro-level- Interaction with Display (e.g. desktops, mobiles)- Data Visualization- Control applications/ Design for input and control- Task-analysis/Work-analysis techniquesb) Human Factors issues at the Meso-lev...
+
+## DE 627: Indian Thought and Tradition
+- Credits: 4
+- Type: Theory
+- Description: Visual Art - Traditional and contemporary schools of Indian Art, folk art Oral Traditions from the ancient to the present Music - Classical (Hindustani & Carnatic), Semi-classical, Folk, Fusion Dance - Classical, Folk, Contemporary Theatre - Traditional (Natashastra), Contemporary, Puppet Theatre Science - An understanding of the scientific approach to everything and the holistic approach to it and how it influenced all aspects like health, architecture, management and even the arts. Post independence understanding of India as a nation and bridging the wealth of the past with the potential of the future. Reflection of this exposure to the question - What is or what can be called -Indian- Design
+
+## DE 628: Interaction Design
+- Credits: 6
+- Type: Theory
+- Description: - Design process and methodology for designing solutions for interactive products, services and events: Design of integrated systems, products for future use, products to be used in groups, devices used in public places, design of tangible, gestural and expressive interfaces, products that enrich user experience - The course takes an inter-disciplinary approach drawing upon product design, visual communication, information architecture, cognitive psychology and computer science. The course involves exploration of alternative, pushing the envelope of what is known. - The focus is on working collaboratively in groups to solve design problems. The course will involve doing projects. Students need to build soft prototypes of proposed systems at the end of the course. - The course involves lear...
+
+## DE 629: Introduction to Photography
+- Credits: 2
+- Type: Laboratory
+- Description: Lens, Focal Length, Exposure (Shutter speed, Aperture, ISO), Depth of Field, Histogram, Picture Styles, RAW image, Digital Imaging, Sensor, Crop Factor, Light Metering (Incident, Reflected), Photographic Documentation.
+
+## DE 630: Trends in Interactive Technologies
+- Credits: 4
+- Type: Theory
+- Description: - History of technology development, influences on society and design - Information and communication technology, past, present and future - Influences from other media - New trends in interaction design hardware and software - Interaction design in the context of India - Design for future needs.
+
+## DE 631: Introduction to Typography
+- Credits: 2
+- Type: Laboratory
+- Description: History of Typography, Type Terminology, Font Classification, Anatomy of Typefaces, Introduction to Indic Script Typography, Typesetting, Web Typography.
+
+## DE 632: Acting and Staging
+- Credits: 2
+- Type: Theory
+- Description: Acting and Stating are absolute essentials for making the characters and story to come alive. - Introduction to stagecraft for theatre, live action film and animation - Understanding characters and their back stories - Interpreting the importance of the scene through action & staging - Acting workshop - Using editing and understanding film language to enhance character development and storytelling.
+
+## DE 633: Colour, Composition and Layout
+- Credits: 2
+- Type: Laboratory
+- Description: Colour Theory, Colour through different mediums, Physical properties of Colour, Colour Schemes, Colour Harmonies, Colour Symbolism. Methods of Composition: Realistic, Decorative, Abstract Compositions etc. Principles of Organization & Composition: Repetition, Variety, Contrast, Radiation, Rhythm, Balance, Gradation, Dominance & Subordination, Transition, Harmony, Unity etc.
+
+## DE 634: Digital Animation 2
+- Credits: 2
+- Type: Theory
+- Description: Object Creation for Animation - Creating and Modifying Objects - The main animation parameters - Grouping and Hierarchy - Optimizing your projects and Interactivity for animation creation Creating Animation - Project Planning, Execution to Completion - Keyframes, Interpolation and Graph Editing Compositing and Special Effects - Creating a Special Effects Film - Script to screen - Influence of animation on Live action Films: previz, animation, compositing and effects. - Advanced digital techniques in animation
+
+## DE 635: Interface Design
+- Credits: 2
+- Type: Laboratory
+- Description: Human Capabilities (e.g. visual and auditory perception, memory models, and interface metaphors)Interface technology (e.g. input and output devices, interaction styles, and common interface paradigms)Interface design methods (e.g. user-centered design, prototyping, and design principles and rules), and interface evaluation (e.g. software logging, user observation, benchmarks and experiments)Interaction principles, requirements analysis, designing for different screens (web, TVs, and mobile devices), design standards, style guides, techniques and visual design principles.
+
+## DE 636: Animation Theory-2
+- Credits: 4
+- Type: Theory
+- Description: - Understanding contemporary trends in animation making in terms of content, styling, techniques and applications - Studying animation films through film viewing, appreciation, criticism, theoretical writings, essays , research studies - Aesthetics: Introduction to Aesthetics (Indian and Western) - Introduction to major art movements - Narrative: Introduction to narrative structures (Indian and Western) - Modes of Narrative - Narrative Discourse - Film Theory: Perception - Representation - Signification - Genres - Identification and Psychoanalysis - Interpretation
+
+## DE 637: User Studies
+- Credits: 4
+- Type: Laboratory
+- Description: Gathering user data through observation and contextual interviews Interpreting interviews with team members, creating work models (Flow, sequence, culture, physical, artefact etc.) Consolidating data across users with techniques such as affinity diagrams and personas Using data in the design process Comparison of contextual interview to other techniques such as survey research, focus groups, Rapid Assessment Procedure, task analysis.
+
+## DE 638: Animation Principles-2
+- Credits: 6
+- Type: Theory
+- Description: - Study of Animation Techniques & styles developed and used over the years in animation. - Appreciating the difference between the processes of the basic 3 methods of animation, namely - frame by frame creation of animation (like traditional 2D) - Modification of object or image to produce animation. (like paint on glass, sand on glass, simple claymation without armatures etc) - Manipulation of objects to produce animation. (like 2D cutout animation, 3D claymation with armatures, simple object animation, Puppets, etc) - Exploring & developing the animation world based on the technique you might choose for animation. - The Digital World and the avenues opened by it in terms of animation design. Animation articulation and performance - Understanding the role of drama and acting in creating c...
+
+## DE 639: Usability Evaluation
+- Credits: 4
+- Type: Theory
+- Description: Elements of user experiencePrinciples, heuristics, patterns, guidelines and standards of human-computer interactionSetting user experience goals for a productgHeuristic evaluationUsability evaluation, think aloud protocol, card sorts and user performance testsRecruitment and design of usability testsIntroduction to quantitative evaluation techniques.
+
+## DE 640: Animation Design-2
+- Credits: 6
+- Type: Theory
+- Description: - Experimenting with techniques for visual storytelling, structure, story building, writing for animation - Examining indigenous narratives, both contemporary and traditional to gain an understanding of storytelling methods pertinent to our culture - Creating dramatic flow, planning, pacing, sequencing, organizing visual flow and continuity in storyboards - Co-ordinating character, scene length, pace of action - Choreographing scene change and camera movement - Planning, examining, analyzing and pacing character behaviour - An exposure to various animation techniques - Workshops using both 2D and 3D techniques on Computer, Film, Video etc. - Production of professional stop-motion animation puppet and usable set props. - Understanding how a stop-motion animation production works - Sculpting...
+
+## DE 641: Interactions, Media, Senses
+- Credits: 6
+- Type: Theory
+- Description: Designing interactions for the Physical, Cognitive and Social environments of the user Digital Smart Medias and co-evolution of technology- Understanding design in the context of digital, Smart products with information, databases, connectivity, sensors and multimodal displays. Study of how people sense, perceive, understand, use and experience interactive objects and spaces.
+
+## DE 642: Sketching and Anatomy-2
+- Credits: 4
+- Type: Theory
+- Description: - To become fluent with capturing the human and animal form - Proportions, structure, volume and shading techniques.
+
+## DE 643: Digital Animation-1
+- Credits: 2
+- Type: Theory
+- Description: The Digital Image - Analog v/s Digital and the Binary world - Digital Colour, Channels, bit depth and resolutions - Bitmap and Vector graphics - Boolean operations and Blend modes Getting Real world into the Digital Realm - Input tools like digital photography, video, digital intermediate (DI) for film, scanning and 3D digitizing - Paint and Photo retouching tools Organising your data - Data management tools - Organization of Research with Mindmaps and Story Concept Creation - Spreadsheets Animation and the Digital world - Tradigital Animation - 3D Animation - Other methods of Animation Digital Filmmaking - Compositing and Special Effects - Editing - Sound Engineering Other Digital Technologies - Motion Control - Motion Capture - Motion Tracking - Image Processing, Matting and Keying - Use...
+
+## DE 644: Exposure to Grid System in Visual Design
+- Credits: 2
+- Type: Laboratory
+- Description: 302225 Brief introduction to typography302225 Understand the relationship of space and content, type and image302225 Exposure to application of elements and principles of design in relation to space302225 Introduction of grid as a system to arrange elements to create order and hierarchy to the content302225 Creation of grid and its applications through studio tasks
+
+## DE 645: Animation Theory-1
+- Credits: 4
+- Type: Theory
+- Description: To gain an understanding of the evolution of animation   Delving into animation history - both of India and the World   Precursors to animation : Cave paintings,   animation toys   Animation before Disney   Studio animation   Feature animation   Personal Films and expression   Adult Animation   Animation Today
+
+## DE 646: CAID Modeling for Automotive Design
+- Credits: 4
+- Type: Laboratory
+- Description: - Modelling and Rendering with Primitives. Create Primitive shapes, transform geometry. Modify CVs to transform geometry. Create a final rendering. Setting Render Globals. - Modelling with Curves and Surfaces. Introduction to curves, Degrees of Curves, Extrude curves, duplicate curves, Curvature evaluation, joining curves. Skin between curves, Birail, Squares, Revolve. - Modelling with Trims and Fillets. Sketch on the canvas plane. Curve on surface. Intersect geometry to create curves on surfaces. Trim and Untrim, Trim Divide, Multiple Trim. Round surface Edge. Use Surface Fillet. Curves Continuity, Blend Curves. Tangent and Curvature Continuous Surfaces.
+
+## DE 647: Animation Principles-1
+- Credits: 6
+- Type: Theory
+- Description: - Understanding principles that translate sequential images into action to make animation believable - Understanding properties of matter - Making use of the wave principle, delayed secondary action, slow and fast action impact , speed, weight, tendency of weight to move in a certain way, recoil effects, squash and stretch related to weight, overlapping action, follow through - Animating force acting on objects , object weight, construction, flexibility, object behavior when force acts on them - Principles of Timing - Gaining an insight into the invisible concept of time in nature - Understanding the basic unit of time in animation - Emphasizing the difference between caricature, drama, humor - Timing governing acting and movement - The use of anticipation, action, reaction - Methods of do...
+
+## DE 648: Historyof Transportation and Automobile Design
+- Credits: 2
+- Type: Theory
+- Description: - Brief history of evolution of the present day vehicles personal and public mobility. - Great cars and Great designers who had deep influence in today`s car industry. - Innovation in energy sources and its impact on design. - Presentations based on the above topic.
+
+## DE 649: Animation Design-1
+- Credits: 6
+- Type: Theory
+- Description: Covers the entire process from script to screen in process for an animation film (short or feature) - Overview of the Process - Preproduction, Production, Post Production - A comparison between live action filmmaking& animation The primary difference being that an animation film tends to be pegged down pretty accurately by the end of the preproduction process itself whereas for a live action film it is close to completion only at the end of editing which is a post production process. Preproduction - Story to Script - Whether adapted or original, taking the story from a verbal or spatial medium like a book or graphic novel to a form suitable for making a film. What makes a good story? - Plot & Character: Action Plots & Mind Plots. Analysis of different types of plots - Archetypes v/s Stereo...
+
+## DE 650: Studies in 3D Form
+- Credits: 6
+- Type: Laboratory
+- Description: - Theory of colours and perception - Form language for vehicles. - Form abstraction, form expression, Form transition-use of metaphors. - Treatment of large surfaces and volumes. - Interpolation and blending of forms. - Advanced radii manipulation: Filleting, Chamfers, varying fillets and radii. - Tangential and non tangential curves. Interior / Space experience.
+
+## DE 651: Sketching and Anatomy-1
+- Credits: 4
+- Type: Theory
+- Description: To become fluent with capturing the human and animal formProportions, structure, volume and shading techniques
+
+## DE 652: Mobility Design-2
+- Credits: 6
+- Type: Theory
+- Description: - Understanding mobility issues at system level - Sustainable mobility - ecology/environment, culture, technology, legislation, safety, Mass transportation, Urban, Semi-urban, rural transport systems & mobility needs, - Rapid and intelligent transport systems. - Future technologies for mobility Tasks: - Technology watch, Scenario creation for integrated systems, Strategic approach to mobility design
+
+## DE 653: Material and Manufacturing
+- Credits: 2
+- Type: Theory
+- Description: - Properties and usage of thermoplastics, thermosetting plastics. Process of selection and applications of plastics for Mobility Products. Design limitations in application of Plastics in Mobility. - Assembly Processes and Decorative techniques for Automotive Trims. Design, Limitations and Selection of materials, Manufacturing processes and assembly techniques for Ferrous and non - ferrous metals in mobility applications.
+
+## DE 654: Sketching-2
+- Credits: 4
+- Type: Laboratory
+- Description: - Perspectives and Object drawing - Light and shadow - Renderings - Live sketching of people, object, animals - Exercises in studio lighting
+
+## DE 655: Automobile Engineering and Technology
+- Credits: 4
+- Type: Theory
+- Description: - Exposures to systems in a vehicle - power system: Gasoline, diesel, bio-diesel, electrical, hybrids, etc. - Transmission system: clutch, gear trains, differential. Suspension, steering, breaks etc. - Controls: Clutch, gear, accelerator. Dash board displays. HVAC - Vehicle structure-Body On Frames, mononcoque. - Modern assembly (robotic) and finishing technologies - Packaging & Integrating Methodology, aerodynamics, ergonomics, Seating Systems, Trim Systems, Trim Systems, Safety &Homologatin, - Reading and seminars. Visit to auto plants and use of interactive soft wares.
+
+## DE 656: Model Making-2
+- Credits: 4
+- Type: Laboratory
+- Description: - Introduction to Tools and equipments for clay modelling. Armature making for clay modelling. - Clay application and carving. Making templates. Un-filleted model, Fillet making. Finishing the clay model. - Clay Film application - Modelling with Fiber reinforced plastic. Mould making. Finishing the models. Painting - Workshop / Studio Safety - Exercises and tasks to gain competency in model making that they can apply in future courses and projects.
+
+## DE 657: Vehicle Ergonomics
+- Credits: 4
+- Type: Theory
+- Description: - Introduction to Ergonomics / human factors - The concept of System Design. How to look at the design issues - Use of Anthropometry in vehicle design - Biomechanics and vehicle design - Principle of automobile Chair Design - Neural Systems. - Communication in Automobile system - Vehicle for the special people - Final design Assignment
+
+## DE 658: Advanced Typography
+- Credits: 4
+- Type: Theory
+- Description: - Development of typography as a discipline: an overview of historical, technical and aesthetics issues. Typography for the print and the digital media. Effect of technology on changing practice of typography and the role of typographers. - Typography as communication. Experimental typography and the need for experiments. - Digital Typography: emerging directions and new possibilities. - Typography for Indian Languages and scripts. Issues of bi-lingual and multi-lingual typography. - The course will be conducted through discussions, seminars and individuals assignments in selected areas.
+
+## DE 659: Forms Space and Order
+- Credits: 6
+- Type: Laboratory
+- Description: - Rectilinear and Curvilinear Volumes - Two dimensional and Three dimensional Planes - Lines in space - 2 and 3D Form transition. Exploration of form to develop imagination and insight. - Use of metaphors to generate new forms. Concept of family of forms. - Use of combinatrics as a method of 3D form generation. - Exploration of surface textures in different materials. - Form, material and process relationship.
+
+## DE 660: Graphic Narratives
+- Credits: 4
+- Type: Theory
+- Description: - Indian - Ajanta, Mughal Paintings (Hamzanaama, etc), Patta Chitra, Phad, Kavad, Yam pat, Groda, Chitrakathi, tec - Use of Graphic Narrative for expressing a social or personal themes - Elements of Graphic Narrative Design - Framing, thought bubbles, color & contrast, visual allusion, style and meaning, cultural context, text and image, etc.
+
+## DE 661: Mobility Design-1
+- Credits: 6
+- Type: Theory
+- Description: - Understanding context related problems, User research-customer-s explicit needs and latent needs. - Aesthetics, trends, style Analysis - Product planning, development of product brief. Concept generation, creativity and innovation. - Evaluation techniques. Peer reviews. - Understanding of the packaging concept and the problems connected with travelling space, technology, ergonomics and aesthetics / styling. - Reading and exercises in mobility related topics. - Tasks/small projects related to this topic
+
+## DE 662: Handmade Books and Book Structures
+- Credits: 4
+- Type: Laboratory
+- Description: - Altered books:- Altering the form of a used or discarded book from its original form to a different form using multiple methods. - Cut and Fold:- Introduction to principles of folding and cutting to create pop-up paper construction. Exploring applications for books, brochures, sets - Shaped and Themed Books:- Exploring relationship between content and form of books. Introduction to various means of paper folding to construct hand made books that do not require binding. Examples: Tunnel books, Accordion books, Flag book etc. - Book Binding:- Introduction to ways of binding that include Japanese binding, Perfect binding, Coptic binding.
+
+## DE 663: Sketching-1
+- Credits: 4
+- Type: Laboratory
+- Description: Exercises on lines, curves to improve the hand mind coordination. 1, 2 and 3 point perspectives. Theory and examples form nature. Drawing of objects from outdoor. Exercises for improving observation and visual memory.
+
+## DE 664: Information Graphics
+- Credits: 4
+- Type: Theory
+- Description: - Study of visual display of quantitative information, syntactic and semantic aspects of information graphics. - Practical problem solving by conversion of abstract, Quantitative concepts into visual images. - Study of charts maps, diagrams, reconstruction graphics. Information graphics for new media and dynamic data. - Exposure to information theory and its applications. - Symbolization of concepts for information purposes. - Application of information graphics in different contexts: Statistical information, procedural diagrams, reconstruction of events, timeline etc.
+
+## DE 665: Model Making-1
+- Credits: 4
+- Type: Laboratory
+- Description: - -Quick and dirty prototypes- depicting the idea. Use of papers, wire, wood, POP. - Exploratory and form mock-ups. Use of Polystyrene foam, Polyurethane foam, woood, metal. - Finished model: Vacuum Forming, Polystyrene sheet, acrylic sheets. - Workshop / Studio Safety - Fabrication : Cutting, Welding - Painting the models. - Exercises and tasks to gain competency n model making that they can apply in future courses and projects.
+
+## DE 666: Craft Creativity and Post Modernism
+- Credits: 4
+- Type: Theory
+- Description: - Creative process in Craft. Craft as a means to explore material, process and Form. Study of Form in Bamboo and Other Craft. Cultural roots in Craft. - Craft as an expression of Indian Tradition, - Significance of craft as a creative base for current Design practices. Post modern interpretation of craft. - Creative exploration in Craft. Design to suit urban and export markets
+
+## DE 667: Design and Social Entrepreneurship
+- Credits: 4
+- Type: Theory
+- Description: Role of Design in Social Entrepreneurship  Social Impact and Commercial return   Gender and Social Entrepreneurship Design  for Change  Ideation & business model  for  Entrepreneurial Venture Design plays a major role in social change. Designing a physical product or preparing a communication material can be applications for a proposition for a social change. Example: An easy adoptable and low cost hand washing station can substantially decrease the child mortality and maternity mortality caused due to unhygienic environments.  A new kind of ploughing machine can be user-friendly to women farmers of Rajasthan, and, hence, encourage women to take up farming. These examples can only see the day of light if these are converted into ventures through social entrepreneurship. The course will dea...
+
+## DE 668: Instructional Design
+- Credits: 4
+- Type: Theory
+- Description: 302225 Elements of learning, learning theories and behaviourism, cognitivism and constructivism, Piaget302222s development theory302225 Elaboration theory, Posner and Strike method, Bloom302222s taxonomy, Merrill302222s content classification, Gagne302222s categories, conditions and events of learning, Shank302222s theory of instructional design302225 Instructional design development process302225 Computers as teaching and learning tools302225 Apply evidence-based learning science to online course development through instructional design systems such as ADDIE, outcomes-based backwards course design, and more contemporary models, such as SAM (Successive Approximation Model).302225 Apply learning analytics and how they can be deployed in various contexts in the online instructional design an...
+
+## DE 669: Packaging and Label Design
+- Credits: 4
+- Type: Laboratory
+- Description: Introductory course to explore package design and label design through hands on assignments engaging students into multiple mini-design projects; functional aspects of package design related to its structure, form, strength, material, safety, transportation, production, usage and environmental concerns. Label design will investigate the purpose of branding a product, trade dress, need for aesthetic considerations; such as visual identity, image, typography, color and challenges in communicating product information unambiguously.
+
+## DE 670: Field Study and Design
+- Credits: 4
+- Type: Laboratory
+- Description: Working and Living in the rural India for the duration of the course. Problem identification in the context. Developing system level understanding. Developing approached for Design Intervention. Participatory Design with users. Accessing deeper and tacit needs of the users. Co  developing concepts in the field. Using local know-how and craft. Documentation.10.Texts / References (The total number
+
+## DE 671: Experiential  Learning
+- Credits: 4
+- Type: Theory
+- Description:  Material aspects of the crafts such as Pottery & Weaving  Critical discourse in craft design, Arts & Technology Understanding Craft communities & product innovation.
+
+## DE 672: Design Detailing
+- Credits: 4
+- Type: Theory
+- Description: - Importance of good detailing in Product Design. - Case studies in Good and Poorly Detailed Products and their respective Impacts on Consumers & Brands. - In depth understanding of Moulding Processes for Plastics, as applied to Consumer (including Mobility Products). - Detailing Practices/Methodology for Plastics at individual Parts level - Injection Moulding, Compression Moulding, Blow Moulding, Rotary Moulding, etc. - In depth understanding of Manufacturing Processes for Metals, as applied to Consumer Products (including Mobility Products). - Detailing Practices/methodology for Metal Parts, as applied to Consumer Products. - Factory visit. - Classroom Projects on Product Detailing.
+
+## DE 673: Sketching for Interaction Design
+- Credits: 4
+- Type: Theory
+- Description: - Fundamentals of sketching and representation techniques, lines, shapes and forms - Simple and complex object drawing, shading techniques - 3D visualization techniques and perspectives (one-point, two-point and three-point perspective) - Exercises for improving observation, imagination and visual memory - Introduction to user scenarios and storyboarding.
+
+## DE 674: Introduction to World Cinema:Filmmaker Perspectives
+- Credits: 4
+- Type: Theory
+- Description: An overview of Film HostorySocial Context of Filmamking :relationships of Filmmakers to their milieuAnalysis of Selected Classics of Cinema:Common themes and individuals styles, similiarities and contrasts in stylesAsian Cinema:Film directors Akira Kurosawa,Mizoguchi and KiarostamiEuropean Cinema:Film Directors Godard,Truffaut,Bergman and FelliniRussian Cinema:film directos Anderi TarkovskyAmeriacn Cinema:Film directors Sidney Lumet and Stanely KubrickWriting of a film diary of required film viewingA long form esssay on any filmmaker would be a final requirement for completion of the course
+
+## DE 675: Sketchning for Mobilty and Vehicle Design
+- Credits: 4
+- Type: Theory
+- Description:  Free hand vehicle sketching from different viewing angles emphasizing Perspective, Scale and proportion  Free flowing vehicle form sketching  Marker rendering techniques for automotive products.  Detailing of complex surfaces through contour lines  Sketching practice of two wheeled vehicles (cycle, motorcycle, scooter), three wheeled vehicles (cycle rickshaw, auto rickshaw, tonga), four wheeled vehicle (car: hatchback, sedan, SUV, MUV), Commercial vehicles (buses, trucks)
+
+## DE 676: Rendering for Mobility Design
+- Credits: 4
+- Type: Theory
+- Description: Course Content (List of the topics/subtopicsto be covered in the lectures/practicals/assignments) : Photorealistic representation of materials used in vehicle form Advanced sketching techniques using Stylus. Digital medium and rendering techniques Rendering practice of two wheeled vehicles (cycle, motorcycle, scooter), three wheeled vehicles (cycle rickshaw, auto rickshaw, Tonga), four wheeled vehicle (car: hatchback, sedan, SUV, MUC), Commercial vehicles (buses, trucks)
+
+## DE 677: Design for Virtual Reality - Basic
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Virtual Reality, History and Evolution of VR, VR as Technology vs Experience, Presence in VR, Current Research and Future of VR. The students would as well be guided towards designing applications/experiences for contemporary VR platforms.
+
+## DE 678: Structures and Spaces Furniture
+- Credits: 4
+- Type: Theory
+- Description: CourseContent (Listofthetopics/sub302255topicstobecoveredinthelectures/practicals/assignments):Introduction to Design of Spaces:To develop understanding of the basic principles of space and mass, circulation and architectural composition. Exploration of the basic principles of design such as Proportion, scale, balance, rhythm, symmetry, hierarchy, axis with building examples. Design and the contextIntroduction to Design of Structures:- To enable students to understand the concepts of structures in architecture. -To enable the students to understand the different structural materials used for various buildings. Introduction to Furniture Design:-History of Furniture design-Elements of Furniture design- Furniture in the contemporary context- Human Factors and furniture designDefinition of hum...
+
+## DE 679: Experimental Animation
+- Credits: 4
+- Type: Laboratory
+- Description: Explore Process Time lapse, pixilation, rotoscopy Explore Materials Sand animation, objects, materials like beads, claymation etc  Explore Narrative Structure Story structures, editing, non linearity in storytelling
+
+## DE 680: Product Detailing
+- Credits: 4
+- Type: Theory
+- Description: 0 Study of details for Mass-produced product, batch-produced product and limited-edition products 0 Dissection of products. 0 Study of components of products and their connections through details. o Understanding the Influences of material and processes on the details. 9. o Component designs for gadgets and its fitting 0 Detail for soft and hard assembly, knock-down systems, fold-ability and flexibility 0 Lateral thinking, logical thinking and analogical reasoning to solve detail problem 0 Visualisation of details in the form of orthographic views, sectional view and exploded views of products 0 Representation and communication techniques for evaluation and presentation of options for detail o Classroom Projects on Product Detailing
+
+## DE 681: Design for Immersive Media -Advanced
+- Credits: 4
+- Type: Theory
+- Description: Design for advanced immersive systems in XR (Extended Reality- An umbrella term that encompassesVirtual Reality, Augmented Reality and Mixed Reality). Development for lmmersive Media. Exploringfuture possibilities and applications in XR. The students would be encouraged to work on advancedpractical applications that leverage XR, and create experiences on contemporary and high-end XRplatforms.
+
+## DE 682: Advanced Service Design
+- Credits: 4
+- Type: Theory
+- Description: a. Designing Product Service Systems b. Service Design for Social Impact (including for sustainability) c. Systems Thinking (Basics) d. Service Design for Behavioural Change e. Pattern Language for Service Design f. Value Proposition and Business Model Generation g. Introduction to service domains such as healthcare, education and financial services (all with emphasis on socially relevant services)
+
+## DE 683: Sustainable Design
+- Credits: 4
+- Type: Theory
+- Description: Understanding the domain of needs and values. Examine the history and development of sustainability as a social goal through 3P diagram and explore its implications for the design of built environments. Study concepts such as life-cycle analysis both in manmade systems and in nature, biomimicry, natural capitalism, cradle-to-cradle production, unfolding wholeness, and ecological design. In addition to the latest tools, techniques, and materials, you explore government programs, legislation, industry regulations and codes, green certifications, LEED, and nonprofit organizations involved with sustainability.  Solve design problem in sustainability context and experience how a new window on innovation opens up.  Translate your knowledge of sustainable design concepts into practical, deployabl...
+
+## DE 685: Human Factors in Technological Systems
+- Credits: 6
+- Type: Theory
+- Description: Advanced issues in Human Factors  The sensory basis of Human Factors The cognitive basis of Human Factors The physical basis of Human Factors Human Factors and the Environment Research Methods in Human Factors Work Analysis Methods in Human Factors Design Methods in Human Factors Display and Control Design I Display and Control Design II Organizational Human Factors Human Factors and risk management in large-scale systems Human Factors in Accident Investigation Human Systems Integration
+
+## DE 686: Handmade Character Design
+- Credits: 4
+- Type: Theory
+- Description: This course will introduce the basics of character development. In order to understand the fundamentals of effective character design, students will research and evaluate iconic characters from the world of narratives. The course covers the history and development of puppets and mascots, using important case studies, research undertaken and current best practices in this domain. How individuals and organizations use the language of design to develop conceptual attributes of successful identity design would be studied. While developing your own characters you consider factors such as intended audience, visual impact, exaggeration of features, scale, material and purpose       The practical component focuses on the use of hand and power tools to explore various materials and techniques. The ...
+
+## DE 687: Design Exploration Seminar I
+- Credits: 12
+- Type: Seminar
+- Description: The seminar involves student exploring in an area related to design and is expected to build an artefact/prototype of the same on the topic over a period of three months (December to February). In this period, students are expected to dedicate a period equivalent to about 8 weeks. Students need to choose a topic suggested by a faculty member and work under their guidance. The work may be single or in groups. The size of the group determines the expectations of the outcome. The work may involve literature review, defining a research question, designing experiments or studies to answer a research question and articulation of the findings. The work is expected to result in a physical exhibit. The outcome will be evaluated through a single blind peer review process chaired by two faculty membe...
+
+## DE 688: Sketching for Communication Design
+- Credits: 4
+- Type: Theory
+- Description: Sketching/Drawing tools and techniques x Observation and sketching of animal/human anatomy, botanical details x Visual representations of objects, spaces, and environment through light and shadow and perspective x Visualization of characters, situations, abstract concepts and Ideas x Composition of visual elements
+
+## DE 689: Theoretical Perspectives in Design
+- Credits: 6
+- Type: Theory
+- Description: This course will introduce students to theoretical perspectives and methods used in the critical design process. The course would introduce various theoretical perspectives in design in relation to the socio-cultural issues of the present, structured around thematic areas of investigation. Students will learn to use theoretical lenses to define, analyse, and explain design artefacts. Through these lenses, students will explore questions such as, How does design and the designer interact with specific social phenomena? How do they influence each other? and, How are existing social structures mediated and propagated through design? Specific theories that the course will cover include: Semiotics and Communication, Labour and Work, Language and Power, Gender and Gendering, Universalism and Reg...
+
+## DE 697: Seminar
+- Credits: 4
+- Type: Theory
+- Description: for M.Des. By Research students
+
+## DE 699: Basics of Entrepreneurship for Designers
+- Credits: 4
+- Type: Theory
+- Prerequisite: 0.0
+- Description: What is Design Entrepreneurship/Intrapreneurship (E/I), why important now, what is E/I mindset, resilience, creativity/problem solving, agility, and risk taking.  Opportunity canvas - Product/Service/Social enterprise using Design as a core differentiator - identifying specific needs and drivers for each.  Fundamental building blocks: o Understanding Value creation/capture through Design o Customer centricity and their understanding - Target Group, Motivations, decision making, and value systems o Futuring - Design and consumer megatrends, forecasting, PESTLE, scenario building, use of technology  Introduction to Design Thinking as an approach to navigate complex emerging problems which could form the foundation of a new enterprise/project.  Design case studies and real world applicati...
+
+## DE 701: Visual Ergonomics & Human Perception
+- Credits: 4
+- Type: Theory
+- Description: 302225 Investigation of human physical characteristics and limitations with respect to the environment as related to visual communications of text and graphics.302225 Ergonomics as applied to visual-legibility studies. Use of eye movement recorder in visual analysis.302225 Environmental conditions of illumination- study of figure and ground relationships.302225 Ergonomics of readability issues with respect to static and dynamic text at short and long viewing distance. Ergonomics related to readability issues on display devices.302225 Research methods in ergonomic data generation.302225 Human Perception related to Visual Design applications.
+
+## DE 702: Arts Design and Society-1
+- Credits: 4
+- Type: Theory
+- Description: 302225 Analysis of history of Art. Traditional Art. Modernity and Post-Modernity.302225 Analysis of history of Design, Bauhaus, Ulm.302225 Analysis of history of Design in India. Analysis of design in the context of India.302225 Cultural studies. Discourse analysis.302225 An Introduction to Theatre.302225 An introduction to Documentary Films.302225 Critical writing in Art, Design, Theatre and Film.302225 An Introduction to Humanities and Social Sciences.302225 Qualitative methods 302226 ethnographic, historical, philosophical, case study, and interview.
+
+## DE 704: Interaction Design for Development
+- Credits: 4
+- Type: Theory
+- Description: The course aims to motivate people (designers, engineers and managers) to work on problems of people in developing countries, and particularly on problems that can be solved with the help of interactive products. In the first half, the course will provide an overview of the past and current trends in interaction design for development through lectures. Some of these lectures will be based on research done in IDC, while some lectures will be by HCI4D researchers from different universities around the world. (Some of these lectures will be given by people based in a different time zone, and may be held in the evenings based on the convenience.) Topics:  An overview of technology adoption in India and other developing countries  User-usage model of technology adoption by emergent users  Hi...
+
+## DE 705: Interactive Data Visualization
+- Credits: 4
+- Type: Theory
+- Description: - Information visualization overview, historical perspective - Vision, perception and cognition principles of information visualisation - Data principles, models, dimensions and analysis - Information taxonomy - Visual encoding of data - Mapping, cartography, geo-visualization - Visualization tools and strategis - Data stories and presentation
+
+## DE 706: Story and Narrative
+- Credits: 4
+- Type: Theory
+- Description: The intent of this course is to introduce students to broad categories of narratives, Indian and others, their structure and models, working with both verbal and visual storytelling. Students will be encouraged to explore large questions such as how did evolution shape our minds to see the world in narrative terms? Does fiction have meaning beyond indulgence or pleasure? They will be pressed to pursue more specific ones that elucidate the relationship between narrative and narrative devices. They will learn craft through group and individual projects, hone writing skills, study space and time in literature, and bring to bear analytic instruments from a variety of disciplines including culture studies, literary criticism, anthropology, folklore, history, among others, to negotiate the decep...
+
+## DE 707: Design Research Methodologies
+- Credits: 4
+- Type: Theory
+- Description: Introduction to qualitative research methods used in design, Introduction to quantitative methods, exploratory, inferential and casual research, Research Design and Introduction to Reading research and Reporting research.
+
+## DE 708: Introduction to Interface Design
+- Credits: 6
+- Type: Theory
+- Description: ● Elements of User Interface Design viz. Colour, Typography, Images, Composition, Icons etc. ● Methods and approaches to User Interface Design ● Interaction Principles ● Interface Evaluation ● Designing for multiple media ● Microinteractions ● Ethical issues around new and emerging technologies
+
+## DE 709: Sound and Camera
+- Credits: 4
+- Type: Theory
+- Description: - Understanding the dynamics of sound design and use of sound as a key - Designing a sound track for animation including music, dialogue, voice overs, lip synch and FX - Recording and mixing multiple tracks - Post processing sound - Understanding the dynamics of camera moves and magnification - Experimenting with camera techniques and working directly under camera - Using registration fields, table moves and peg movements.
+
+## DE 710: Design Evaluation
+- Credits: 6
+- Type: Theory
+- Description: Elements of user experience Principles, heuristics, patterns, guidelines and standards of human-computer interaction, Setting user experience goals for a product, Heuristic evaluation Usability evaluation, think aloud protocol, card sorts and user performance tests Recruitment and design of usability tests Introduction to quantitative evaluation techniques. Introduction to Predictive models, such as KLM-GOMS. Hick-s law and Fitts-s law. Design evaluation in different contexts and different sectors connected to Interaction Design
+
+## DE 711: Animation Production
+- Credits: 4
+- Type: Theory
+- Description: - The workflow in animation studios - Project effort estimation and costs - Project pitch - -Bible- for proposed production - Types of production - short format, long format, episodic, mini-series, etc. - An exposure to marketing and distribution - Intellectual property rights, co-productions, etc.
+
+## DE 712: Immersive Media Design
+- Credits: 6
+- Type: Theory
+- Description: Content: The theory part of the course will cover the following:     1. History of Immersive Media (XR)         a. Evolution of Communication Media         b. Evolution of XR     2. Present Scenario         a. XR & Technology         b. How & Why XR Experiences Work?         c. Applications of XR         d. Design Processes:             i. Interactive Experiences (VR/AR/MR)             ii. 360 Narratives     3. Future of Immersive Media         a. Emerging Technologies connected to XR         b. Potential applications of XR The students would be guided towards designing applications/experiences for Virtual Reality, Augmented Reality and VR Films. There will be a strong emphasis on hands-on work, and students will be expected to create working prototypes.  Evaluation:     - Participation in...
+
+## DE 713: Seminar and Critical Writing
+- Credits: 4
+- Type: Theory
+- Description: - Encouraging students to prepare a seminar presentation and write an academic report on vehicle design related or any topic from wide variety of areas like technology, design, architecture, humanities, arts etc. - Demands and conventions of academic reading and writing. - Analyzing tests, using evidence and secondary source material - Citations and referencing. - From prewriting exercises through rough drafts and revisions.
+
+## DE 714: Design Fiction
+- Credits: 6
+- Type: Theory
+- Description: Objective: This course, through the integration of findings from critical readings, ethnographic research, mediated storytelling and hybrid prototyping, will speculate, imagine and prototype plausible futures. The course seeks to produce a diversity of -what will?- and -what if?- cultural provocations that deeply examine possible, desirable and undesirable futures. By the end of the course, students will be able to:       - Gain knowledge of prior and related future-focused work and speculative/critical/fiction design.     - Gain the ability to read and discuss research papers from the design fiction literature.     - Gain an understanding of the key techniques of inversion, defamiliarization, uncertainty scenarios, and everyday practice to create objects, systems and experiences that crea...
+
+## DE 715: Pattern Language for Interaction Design
+- Credits: 4
+- Type: Theory
+- Description: - The theoretical aspects of patterns and pattern language to be covered: concept of patterns, ways of writing patterns, organising principles, distinction between a pattern collection and a pattern language, creation of pattern languages, uses of pattern languages, application of pattern languages. Critiques of the concept. Introduction to pattern languages in the domain of interaction design and interface design. Studio work will comprise several (Likely number: 3) assignments pertaining to the topics covered. One assignment would center on successful application of the chosen interaction design pattern language to a complex interactive system (software/hardware/combination)
+
+## DE 717: Service Design
+- Credits: 4
+- Type: Theory
+- Description: - Importance of Services in today-s world, Product-services continuum, nature of services, relevance of design thinking in conceptualising and developing services, unique service design context that influence design, interaction and experience as source of value, overlaps of service design with user experience design - applicability of methodologies and methods, service experience design methods and techniques (e.g. service ecosystems maps, service blueprinting...), designing for technology based services and self service, designing service recovery encounters, service design outcomes (touch points, service encounters, service systems...), service prototyping and testing, aspects of service experience that influence the service quality, brief overview of service system deployment, operatio...
+
+## DE 719: Computer Game Design
+- Credits: 4
+- Type: Theory
+- Description: This is an elective course that gives exposure to students about game design and game art. It is an introduction to Game Design, Detailed Design Docs, Storytelling, Visual Storytelling, Critical Game Analysis. It includes - Various Genres of Games - Various platforms in games and their differences - Game Art and a comparison with Art asset creation for animation - Game Art production techniques and technologies involved - Technology for game development (a study on various game engines) - A detailed look at a 3D game engine - Game design Documents and Technical Design Document - Level Design - Sound, UI Design - Production pipelines in game production - The gaming industry, Producing and Distribution - Making a playable level 10.
+
+## DE 721: Representation Techniques for Animation
+- Credits: 4
+- Type: Theory
+- Description: This course gives an opportunity for students to experiment with different representation Techniques for their project films - Different techniques of representations for animation. - Experiment with different methods of representation - Exploring different skills, tools and medias to represent for animation
+
+## DE 723: Design Management and Professional Practice
+- Credits: 4
+- Type: Theory
+- Description: - Designer attributes. Setting up a design office. Finding clients. - Business correspondence. Brief and briefing. Letter of contract. - Professionalism and Ethics. Costing design and fee estimation. - Management of Design Process, Human factor in managing design / team work. - Design as a Management Tool. Design Evaluation. - Patent and Design Registration laws / procedure. - Seminar on a topic related to above topics.
+
+## DE 725: Designing Games for Children
+- Credits: 4
+- Type: Theory
+- Description: 302225 Definition of games. Differences between toys, puzzles and games. Classification of games. Learning through games. Educational games with focus on fun vs/ and education. Use of luck vs development of strategic thinking and problem solving in game design. Concepts of play value and game play.302225 Game design process. Iterative cycles in game design process. Player302222s involvement in design process. Feedback as a source of creativity in game design. Differences between game design and other design areas.302225 Designing conventional game hardware and board games. Paper prototyping and testing. Play testing of games for feedback. Market for board games in India.302225 The elective expects developing and play-testing an original game.
+
+## DE 727: Prodcut Semantics
+- Credits: 4
+- Type: Theory
+- Description: The course discusses semantic and structural aspects of visual input, through series of project assignments. Using human information processing capabilities, the course looks back towards formal concepts such as visual complexity, visual interest and recall of forms. The first part covers topics such as spatio - temporal relationships in visual elements and its role in visual structure, forms of visual relationships, and its role in controlling visual complexity, interest and identity. Assignments are also based on application of Information theory to visual information. The second part discusses the role of characteristic features in object/form recognition and natural categorization process
+
+## DE 731: On Ways of Seeing
+- Credits: 4
+- Type: Theory
+- Description: - This course explores the inter-relationship between epistemology and ontology, between the things that we are aware of and how that shapes the way in which we conceive our world. - We will look at a series of iconic objects, including paintings, sculptures, music and films, to unravel the skeins of cultural assumptions that accompany the reception of well-known objects from the moment of their creation and through the history of their lives. - We will observe through formal analysis, examine through multiple narratives that form the discourse around such objects, especially through changing times and contexts, and analyze the themes of representation and intention that journey alongside, for a more nuanced way of looking.
+
+## DE 733: Mobility Systems and Technology
+- Credits: 6
+- Type: Theory
+- Description: Objective :* To understand the working of automobiles from a system-level approach through hands-on/field experience.    * To observe common technical issues in the selected category of vehicle.    * To get familiar with the engineering and technology side of automobiles and develop a broader system level understanding of mobility and vehicle technology    * To learn about the developments in various aspects of technology that led to the evolution of mobility and vehicle design       ** Course Contents :Some aspects that will be covered in the course include:    * Exposures to systems in a vehicle-power system: Gasoline, diesel, bio-diesel, electrical, hybrids, etc    * Transmission system clutch, gear trains, differential Suspension, steering, breaks, etc.    * Controls: Clutch, gear, acc...
+
+## DE 801: Mini Project-I
+- Credits: 4
+- Type: Project
+- Description: xx
+
+## DE 802: Mini Project-II
+- Credits: 4
+- Type: Project
+- Description: xx
+
+## DE 803: Quantitative Design Research Methods
+- Credits: 6
+- Type: Theory
+- Description: Why do researchWhat is theorySampling, distributions, categorical andcontinuous variablesConfidence intervalsResearch strategiesResearch designsDesign of experiments, independent,dependant and control variablesNull hypothesis significance testing,goodness of fit, benchmarking, comparingtwo variablesComparing more than two variables, anova,correlation, regressionPower and sample size calculationType and type errorsAn introduction to statistical toolsApplying quantitative methods in designprojects
+
+## DE 804: Qualitative Design Research Methods
+- Credits: 6
+- Type: Theory
+- Description: Philosophy and historical perspectives in researchRole of objectivity and validation in research,Epistemology,Positivism, post-positivism, and scepticism,Deduction and induction,The crisis of representation,Postmodern and post-experimental inquiry,Postcolonial concerns and interpretation,Design researchWhat is design research,How is design research different from design,How is design research different from other forms of research,Why design research,Research processReviewing prior work, referencing and contextualising,Formulating a research question,Framing the hypothesis,Review of literature,Research design,Methodological framework,Data collection,Analysis,Model building,Validation / triangulation,Articulation and argument,Qualitative design research methods and toolsProtocol analysis,Se...
+
+## DE 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## DEP102: Self-Initiated Summer Project
+- Credits: 0
+- Description: The scope of this summer project is to identify and locate, document and analyse a design resource chosen by the student.  The documentation needs to be done methodically with appropriate analysis so as to bring the essence of the chosen resource. The resource could be examples of artifacts, arts,  crafts, architecture, design, etc.  The student is required to make both a presentation of the resource as well as do a write-up about the resource in form of a report.
+
+## DEP204: Summer Project
+- Credits: 6
+- Type: Project
+- Description: The student takes up a summer project in order to explore an area of social concern.  The student could choose a subject based on problems on any of these issues - global problems like water, food, warming; health related issues of HIV, Malaria, TB; Urban-Rural Problems, Migration, Craft and tradition, to those concerning the marginalized and people with special needs. The student should work on this problem as a design project in a design firm or with an NGO or in a research Institution.
+
+## DEP301: Collaborative Design Project
+- Credits: 6
+- Type: Project
+- Description: .  Inter-disciplinary team effort - The learning is on working collaboratively in groups to solve design problems.  .  Group enquiry, ideation and brainstorming .  Creating project spaces and environments to facilitate innovation .  User participatory design process - Iterative designing with user feedback .  The project will encourage collaboration with students from other specializations, disciplines or institutes or with professionals from the industry.
+
+## DEP302: System Design Project
+- Credits: 6
+- Type: Project
+- Description: .  Design of system level solutions so that design can be thought of modularly as suited for different combinations and applications. .  Understanding, strategizing, conceptualising and designing for complex systems.  .  Designing complex artifacts .  Design solutions that are suitable for transportation, education, publishing, retailing, etc.
+
+## DEP304: Summer Project (Focus on Industry Experience)
+- Credits: 6
+- Type: Project
+- Description: The student takes up a summer project suitable to pursue his own area of interest.  This project is to help him get a hands on experience in working on a live project.  The student should work on this problem as a live design project in a industry / in a design firm / with an NGO / in an innovation lab / in a research Institution.
+
+## DEP401: Re-Design Project
+- Credits: 24
+- Description: .  An independent student project based on student inclination and interest.  .  This project allows students to identify a problem to solve and then address different issues pertaining to various segments of society under different contexts and environments. .  The project also encourages students to adopt appropriate design process and methods to solve the chosen problem.
+
+## DEP403: Design Research Seminar I
+- Credits: 6
+- Type: Seminar
+- Description: .  The research seminar involves student researching in an area related to design and is expected to produce new insights on the topic.  .  This will involve in-depth analysis of an area that is of interest to design. . The work may involve primary and secondary research, framing research questions, creative exploration of alternatives, choosing a suitable methodology for analysis, experimental set-ups and methodical documentation. The students are encouraged to make use of research methods for documentation, analysis and experimentation. .  Use of photography, sketching, audio, video for research documentation purposes. The documented material is analyzed for inferences and insights. .  Students are expected to explore new fields, materi-als and media, with a focus on analy-sis.  .  Stude...
+
+## DEP404: BDes Design Project - 2
+- Credits: 36
+- Description: .  The project could be any of the following:   a. Design project of student interest and / or faculty interest and / or industry project   b. Re-design project that re-looks at an existing problem or situation   c. Research project, delving into methodological or pedagogic issues   d. Exploration project, exploring application possibilities in a new technology or medium or variations.  This project would involve all aspects of the design process starting from problem identification to complete solution. The student is expected to make use of the knowledge and skills gained during the previous years to independently handle a design project. .  The project can be multi-disciplinary in nature involving many of these disciplines 302226 Product Design, Interaction Design, Communication Design,...
+
+## DEP405: BDes Design Project - 1
+- Credits: 24
+- Type: Project
+- Description: An independent student project based on student inclination and interest. .  This project allows students to identify a problem to solve and then address different issues pertaining to various segments of society under different contexts and environments..  The project also encourages students to adopt appropriate design process and methods to solve the chosen problem.
+
+## DEP406: BDes Design Project - 2
+- Credits: 36
+- Type: Project
+- Description: The project could be any of the following:   a. Design project of student interest and / or faculty interest and / or industry project   b. Re-design project that re-looks at an existing problem or situation   c. Research project, delving into methodological or pedagogic issues   d. Exploration project, exploring application possibilities in a new technology or medium or variations.  This project would involve all aspects of the design process starting from problem identification to complete solution. The student is expected to make use of the knowledge and skills gained during the previous years to independently handle a design project. .  The project can be multi-disciplinary in nature involving many of these disciplines 302226 Product Design, Interaction Design, Communication Design, An...
+
+## DEP408: Design Research Project
+- Credits: 12
+- Type: Project
+- Prerequisite: NIL
+- Description: The Design Research Project involves student researching in an area related to design and is expected to produce new insightson the topic. This will involve in-depth analysis of an area that is of interest to Design. The work may involve primary and secondary research, framing research questions, creative exploration of alternatives,choosing a suitable methodology for analysis, experimental set-ups and methodical documentation. The students areencouraged to make use of research methods for documentation analysis and experimentation. Use of photography, sketching, audio, video for research documentation purposes. The documented material is analyzed forinferences and insights. Students are expected to explore new fields, materials and media, with a focus on analysis. Students need to choose ...
+
+## DEP410: B. Des. Design Project II
+- Credits: 24
+- Type: Project
+- Prerequisite: NIL
+- Description: The project could be any of the following: a. Design project of student interest and/ or faculty interest and/ or industry project  b. Re-design project that relooks at an existing problem or situation c. Research project, delving into methodological or pedagogic issues d. Exploration project, exploring application possibilities in a new    technology or medium or variations    . This project would involve all aspects of the design process starting from problem identification to complete solution. The student is expected to make use of the knowledge and skills gained during the previous years to independently handle a design project.  . The project can be multi-disciplinary in nature inovolving many of these diciplines - Product Design, Interaction Design, Communication Design, Animation, ...
+
+## DEP501: Design Research Project-Part I
+- Credits: 18
+- Type: Project
+
+## DEP502: Design Research Seminar II
+- Credits: 6
+- Type: Seminar
+
+## DEP504: Design Research Project-Part II
+- Credits: 36
+- Type: Project
+
+## DEP602: Communication Design Project
+- Credits: 18
+- Type: Project
+- Description: The communication design projects are chosen in areas that include film and video, typography, information design, graphic design, illustrated books design, animation and interaction design.
+
+## DEP701: M.Des. Project-1
+- Credits: 6
+- Type: Project
+- Description: The summer internship provides an opportunity for you to work in rural or urban scenarios, based on your preferences and it hopes let you explore the impact design can have on our society, given the backdrop of socio-economic and cultural context of our country. The duration of the project is four weeks. All the students will have to make a presentation after they have completed their internships.
+
+## DEP702: M.Des. Project- 2
+- Credits: 18
+- Type: Project
+- Description: - Duration: 4 months from July- Nov. - This project will be an extension of the project III and should include development of the final design concept. The defence presentations will be held during the month of April and time given till the end of June to complete the jury feedback, final drawings and finer detailing of the project. - The evaluation of the Stage 2 of Project III is done by a panel of examiners appointed by DPGC. The panel will consist of external jury member along with an internal examiner, the guide and the chairman
+
+## DEP703: M.Des. Project- 3
+- Credits: 30
+- Type: Project
+- Description: 302225 Duration: 5 months from December 302226 May.302225 This project could be an extension of the previous project (if the scope of the project justifies the extension) or it could be an independent project with one of the following focus:302225 Design project of student interest and / or faculty interest and / or industry project302225 Re-design project that relooks at an existing problem or situation302225 Research project, delving into methodological or pedagogic issues302225 Exploration project, exploring application possibilities in a new technology or medium or variations302225 The evaluation of the Stage 1 of Project III is done internally with a panel appointed by the DPGC in consultation with the guide. The panel will consist of the guide and two other faculty members.
+
+## DEP704: Design Research Project - I
+- Credits: 12
+- Type: Project
+- Description: For M.Des. By Research Students
+
+## DEP705: Design Research Project - II
+- Credits: 18
+- Type: Project
+- Description: For M.Des. By Research Students
+
+## DEP706: Design Research Seminar
+- Credits: 12
+- Type: Seminar
+- Description: x

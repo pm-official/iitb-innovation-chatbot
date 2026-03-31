@@ -1,0 +1,1254 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Shailesh J. Mehta School of Management - Course Catalog for IIT Bombay Students
+
+
+## IWE701: Strategic Management
+- Credits: 5
+- Type: Theory
+- Description: Competitive positions, industry conditions, firm performance, analysis, diagnosis and strategy development.
+
+## IWE702: Organizational Behavior and Design
+- Credits: 5
+- Type: Theory
+- Description: Understanding what motivates people and rewarding them accordingly, making effective decisions, cultivating networks to promote opportunity, designing organizations for growth, leading by leveraging organizational culture, building a culture of innovation, managing groups & teams, leading in a values-based manner
+
+## IWE703: Data Modeling and Decisions
+- Credits: 5
+- Type: Theory
+- Description: Probability distributions, descriptive statistics, testing of hypotheses, correlation and regression,
+
+## IWE704: Introduction to Financial Accounting
+- Credits: 5
+- Type: Theory
+- Description: Reports and balance sheets, income statements, generally accepted accounting principles (GAAP), book keeping and statement of cash flows, statement of stockholders- equity and ratio analysis, enforcement of accounting standards.
+
+## IWE705: Marketing Management
+- Credits: 5
+- Type: Theory
+- Description: Marketing concept, consumer behavior, segmentation and targeting, positioning, new product sales forecasting, branding, pricing, integrated marketing communications, customer relationship management
+
+## IWE706: Managerial Economics
+- Credits: 5
+- Type: Theory
+- Description: Demand and elasticity, profit maximization, supply and demand, consumer surplus, price controls, taxes, and other market interventions, production functions and the law of diminishing returns, cost functions, perfect competition, monopoly, oligopoly, monopolistic competition.
+
+## IWE707: Communication and Negotiation Skills
+- Credits: 5
+- Type: Theory
+- Description: A. Persuasion and Communication Communication and Self: Introduction to Communication, Functions, Types, Levels, Barriers, Process, Positive Body Language and Voice Modulation, Intrapersonal Communications, Communication and Identity: The Self and Messages (Johari Window), Group Communications and team talk: Interpersonal Communication and Listening Skills, Presentation Skills (Oral and Written Presentations), Organizing, outlining, and delivering the speech, Body language, tonality, and words, Communication Styles Multimedia Presentations, Business Writing Principles and Grammar Essentials, Essentials of Email Writing and Netiquette, Writing Formal Letters and Memos, Writing Business Reports and Business Proposals, Non-verbal communication, Cross-cultural communication  B. Negotiation Ski...
+
+## IWE708: Operations and Manufacturing Management
+- Credits: 5
+- Type: Theory
+- Description: Operations management defined, competitive priorities, linking operations to corporate strategy, operational complexity, emerging themes in operations management, quality management: importance and challenges, cost of quality, fundamental views on quality management, the Toyota production system philosophy, productivity, capacity utilization, throughput analysis, bottlenecks, reasons for delays in processes, lessons from theory and practice, capacity pooling and workload balancing, reasons for holding inventory, the economic order quantity model, managing inventory in an uncertain world - lessons from theory and practice, the bullwhip phenomenon in supply chains, risk‐pooling, aggregate planning: characteristics & considerations, strategies for meeting demand, cost of uncertainty in capaci...
+
+## IWE709: Strategic Cost Analysis
+- Credits: 5
+- Type: Theory
+- Description: The limitations of traditional costing systems, activitybased costing, revenue-cost behavior and cost-volumeprofit analysis, relevant costs and relevant revenues in business decisions, performance and growth evaluation, decentralization, management control systems, business unit performance measurement, analysis, and evaluation
+
+## IWE710: Corporate Finance
+- Credits: 5
+- Type: Theory
+- Description: Introduction to finance, overview of the capital markets, introduction to corporate decision making, time value of money, capital budgeting: net present value and other investment criteria, resource allocation in practice, estimating free cash flows, project analysis, bond valuation, stock valuation, dividend discount model, 2-stage method of valuation and FCF approach, risk and return, portfolio theory, asset pricing models, capital structure and the effect on firm value, cost of capital.
+
+## IWE711: Leadership
+- Credits: 5
+- Type: Theory
+- Description: Leadership challenges, task leadership, people leadership, balancing task and people leadership, relationship quality, differentiation and performance management, the -set up to fail- syndrome (and setting people up to succeed), motivation, leadership development, leading change.
+
+## IWE712: Growth, Valuations, and Sustainability
+- Credits: 5
+- Type: Theory
+- Description: Competing values framework (CVF), the CVF and growth strategy, higher purpose, growth and sustainability, mergers and acquisitions: free cash flow, cost of capital, and valuation, culture of extraordinary performance, development of a creative competence
+
+## IWE713: Managing Power and Influence in Organizations
+- Credits: 5
+- Type: Theory
+- Description: The importance of diagnosing and understanding organizational politics, analysis of power dynamics, analysis of influence tactics, navigating politics in a career, critical importance of managing bosses and mentors in the development of organizational power and influence.
+
+## IWE714: Global Supply Chain Management
+- Credits: 5
+- Type: Theory
+- Description: Integrated supply chain management, the -bullwhip- phenomenon, building a strategic framework to analyze supply chains, efficient supply chains for functional products, planning and managing inventory in a supply chain, risk pooling concepts, product design for supply chain management, postponement and mass customization practices in global supply chains, agile supply chains, lean retailing, e-business strategies, world-class supply chains, active demand management, supply chain execution, stakeholder management in supply chains, state-of-the-art supply chains, risk management, current issues: best practices in supply chain risk management
+
+## IWE715: Competitive Strategy & Industry Analysis
+- Credits: 5
+- Type: Theory
+- Description: What is strategy? economic concepts for strategy, structure of the market and non-market environments, game theory, sustainable competitive advantage, product differentiation and segmentation, network externalities, learning and complementarities, entry conditions, limit pricing, strategic commitment, boundaries of the firm, shape of the value chain, size and distribution of captured value.
+
+## IWE716: Macroeconomics
+- Credits: 5
+- Type: Theory
+- Description: National Income, Goods Market and Assets Market, Monetary and Fiscal Policy, Demand for Money and Money Supply, Business Cycles, Balance of Payments and Exchange Rates, Issues in Capital Account Convertibility, International Linkages, Purchasing Power Parity and Interest Parity, Exchange Rate Forecasting, Foreign Exchange Risk Management, Indian Financial System - Institutions, Instruments, and Markets.
+
+## IWE719: Strategic Management of Innovation
+- Credits: 5
+- Type: Theory
+- Description: Framework to evaluate how best to capture value from an innovation, analytic techniques to estimate value that can be captured from an innovation, explore how mangers create value through the organization of research and development, explore challenges that make it difficult for established organizations to innovate, explore which problems managers choose to solve.
+
+## IWE720: Business Start-up Consulting Project
+- Credits: 5
+- Type: Project
+- Description: Propject
+
+## IWE721: Washington D C Residency
+- Credits: 5
+- Type: Theory
+- Description: ---
+
+## IWE722: Data-Driven Decision Making: Analysis to Action
+- Credits: 2
+- Type: Theory
+- Description: earning Objectives: - Define -data science/analytics- and how it applies to businesses; - Identify the fundamental building blocks of data science. - Understand -causal inference- and how it could help an organization make data-driven decisions. - Understand -machine learning- and how it could help an organization make data-driven decisions. - Societal issues of Dat
+
+## IWE723: Customer Analytics
+- Credits: 2
+- Type: Theory
+- Description: This course focuses on developing the ability to predict. While the course`s foundation lies in the tools of probability, statistics and quantitative methods, we will strive to help understand the strengths (and weaknesses) of using quantitative information (data), as well as develop frameworks and mindset to both utilize and question the kinds of analytics they may encounter from the executive vantage point. It will also guide them in what kinds of analytics they should be asking for, given the current state of modern data science and methodology. This course uses case studies when appropriate. We will employ situational examples in which critical decisions are made in the face of uncertainty and analytics are deployed to shed light on key issues and relationships. We will examine situati...
+
+## IWE725: The Entrepreneurial Mindset
+- Credits: 5
+- Type: Theory
+- Description: The course is designed for students who are interested in understanding entrepreneurship, forming companies, affecting social impact through entrepreneurship, corporate innovation, or investing in startup ventures.  Even if the student is not interested in starting a venture of their own, understanding the entrepreneurial process will enhance productivity even in large organizations.          a) Students will learn an entrepreneurial framework by which to workshop an original idea, culminating in a 2-minute video elevator pitch competition. Student also will be given to understand the existing entrepreneurial ecosystem available in IITB-SINE.           b) Students will practice evaluating other ideas by rating/judging peer 2-minute video pitches, and then teams will be formed around the be...
+
+## IWE726: Business Start-up Consulting Project-Experiential Learning
+- Credits: 2
+- Type: Project
+- Description: * Mckinsey hypothesis model/Value lab model of Consulting      * Working with founders of actual start-ups (from SINE) applying the above model to solve the real issues of these start-ups       * Give final recommendation of the problem statements received from founders Infront of external panel of start-ups worlds(VCs/Start-ups founders/ecosystem leaders)
+
+## MG 621: Strategic Management of Technology
+- Credits: 4
+- Type: Theory
+- Description: Technology as A Strategic Organizational Resource. Technology Strategy and Its Linkage with Corporate Strategy, Elements of Modern Technology strategy. Technology Audit. Approaches to Technology Strategy Formulation. Evaluation of Technology Plan, Some Tools for Strategic Analysis: STA/Business Matrix, Technology Generation Matrix, and Technology Delivery Matrix. Strategies of Product Design and Process Technology Development and Linkage with Business Strategy. Emerging Mechanisms for Strategic Technology Management: Strategic Alliances, Joint Ventures, Strategic Partnering, Technology Networking, in-house R & D.
+
+## MG 625: Legal Aspects of Business
+- Credits: 4
+- Type: Theory
+- Description: Contract   Act.  Company  Law,Sales  of   Goods   Act.PartnershipAct,Negotiable instrument Act.Arbitration Act,Limitation Act  andProvisions  regarding Instruction of court. Patent and  TrademarkAct.Income   Tax,Wealth  Tax,Central  Sales  Act.   Local   SalesTax.Transfer  of Property Act, Stamp Act.  Constitutional  Provisionsregarding control and Regulation of Industries and  Foreign ExchangeRegulation  Act. Employees Provident  Fund  and  Family Pension Act1951.Employees State Insurance Act and Workmen"s Compensation Act  andcentral  Excise  and Sea Custom Acts and  Import/Export  Act  andRegulations.
+
+## MG 634: Project Management
+- Credits: 4
+- Type: Theory
+- Description: Characteristics of projects,Definition and objective of project management, Stages of project management.Role of project manager.  Project Definition, Financing the projects,Cost estimating and cost control,Planning and Scheduling, Resource Scheduling, Managing Progress,Motivating the participant,Integrated systems for planning and control.
+
+## MG 635: Manufacturing Strategy
+- Credits: 4
+- Type: Theory
+- Description: Manufacturing-s Role in Corporate Strategy, Defining Product Markets, Competitive Priorities and Manufacturing Tasks. New Emerging Paradigms of Manufacturing, Value Creation and Flexibility. Manufacturing Policy Formulation and Implementation, Structural and Infrastructural. Capacity and Facilities Strategy, Manufacturing Technology Strategy, Vertical Integration, Sourcing and Outsourcing, Organisational Focus and Manufacturing Strategy. Linkages between Manufacturing & Marketing, R & D, Technology and Business Strategies. Strategy Audit and Evaluation, Manufacturing Performance Analysis.  Pre-requisite: MG611 and MG612
+
+## MG 641: Purchasing and Supply Management
+- Credits: 4
+- Type: Theory
+- Description: Pre-Requisites:  An introductory course in Operations Management /Industrial Engineering.Purchasing and Supply Management (PSM) Concepts, Staging Policies and PSM.Strategic sourcing: Make or buy decisions, Purchasing process, Purchase negotiations, Ethics in purchasing, Legal aspects in purchasing, EDI and e-sourcing, Vendor development and evaluation, Vendor managed inventory (VMI), Buyer supplier relationships, Vendor performance measurement, Procurement of capital equipment, Purchasing services Supplier certification, Spare parts management, Performance measures, Purchasing functionality in ERP.Material storage, Safety and security aspects, Obsolescence, Scrape disposal, Material handling.New Product Development, Standardization, Value analysis, Lean / JIT principles in PSM.
+
+## MG 648: Marketing Research
+- Credits: 4
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to MR. Decision problems in marketing that require use of research. Research design. Preparing research briefs; Formulating research objectives; Research Planning. Preparation of Proposals. Role and sources of secondary data in the specific context of Indian marketing environment. Identifying the different designs applicable to field research projects, Qualitative and quantitative techniques of data collection. Development and validation of measures and research Instrument. Questionnaire construction, framing of a questionnaire keeping in view the research objectives. Sampling. Techniques of data collection. Editing and Tabulation of data; Analysis of data with the help of Statistical Packages; interpretation of data and Testing the hypothesis(es). Preparation of research repo...
+
+## MG 651: Communication and Presentation Skills
+- Credits: 4
+- Type: Theory
+- Description: The communication process.Verbal communication. Non-verbal communication. Barriers to communication.The Role of feedback.How to develop good listening skills.Seven communication habits of highly effective people. Effective communication techniques for motivating others, Generating team work,Reprimanding,Negotiating,Understanding others in the organization, Selling your ideas to others. Assertive communication versus aggressive communication. Oral and written presentations. Communicating in public. Organizing,Outlining and delivering the speech. The Informative speech and the persuasive speech. Conducting Effective meetings. Written communications in business.
+
+## MG 652: Maintenance Management
+- Credits: 4
+- Type: Theory
+- Description: Introduction : General objectives,Functions;Organization and administration of maintenance systems; Requirements, Concepts and structure of suitable organisations for maintenance systems. Failure Analysis : Analysis for source identification,Classification land selectivity of failure ;Statistical and reliability concepts and models for failure analysis; Classification of Maintenance Systems:Basis and models for various maintenance systems; Decision Models For Maintenance Planning : Operation and Control, Optimum level of maintenance;Replacement aspects of break down and preventice types, Group and individual types, Obsolete facility, Deteriorating and completely failing facilities, Replacement vs.
+
+## MG 654: Logistics and Supply Chain Management
+- Credits: 4
+- Type: Theory
+- Description: Role of Supply Chain Management, Scope and Importance. Customer Driver Strategies, Logistics and Competitive Strategy: Systems View, Co-ordination and Management of Transportation, Inventory, Order Processing, Purchasing, Warehousing, Materials Handling, Packaging. Customer Service Management. Marketing and Supply Chain Interface, Finance and Supply Chain Interface. Distribution Requirement Planning. Distribution Network Planning and Warehouse Location. Integrated Supply, Production, Distribution Policies and Plans. International Logistics, Ocean Carrier Management. Import-Export Logistic Management Decision Support Models of Supply Chain Management: Transportation Systems, Warehouse Design, Distribution Inventory Policies, Transshipment, Information Systems.
+
+## MG 655: Corporate Strategy
+- Credits: 4
+- Type: Theory
+- Description: Concept of Corporate Strategy and Group Corporate Strategy, Concepts of Competitive Strategy. Industry Analysis and Corporate Strategy. Some Techniques of Strategic Analysis. BCG Matrix, Porter"s framework of Competitive Forces, SPACE Analysis, Business Classification Matrix. GE Multifactor Portfolio Matrix, Strategic and Long Range Planning, Corporate Restructuring. Implementing Strategy in the New Environment. Linking Corporate Strategy to Structure. The 7S Model for Strategy Implementation. Corporate Social Responsibility and Corporate  Governance  Pre-requisite: Foundation courses in marketing, finance, organizational behavior and operations.
+
+## MG 659: Management of World Class Manufacturing System
+- Credits: 4
+- Type: Theory
+- Description: The Imperative of WCM, Evolution of WCM. Basis Building Blocks of WCM. Benchmarking for WCM. Advanced Manufacturing Technology (AMT) for WCM - Definition, Evaluation and their Competitive Potential. AMTs in Use - CAD/CAM, Computer Aided Process Planning (CAPP). Flexible Manufacturing Systems (FMS), Computer Integrated Manufacturing (CIM). Enabling Systems for World Class Manufacturing (WCM), Just in Time (JIT) Systems. Group Technology (GT), Design Manufacturing Integration (DMI), Learning Organisation, Integrative Planning Systems (MRPII/ERP), Accounting Systems (ABC), Benefits and Economic Justification of WCMs. Implementations of WCMs. Barriers to Implementation. Strategic Implications of WCM. Role of WCM in Competitive Strategy. Choice and Supplier Selection.
+
+## MG 689: Large-Scale Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Pre-requisite: MG 615 or equivalent.   The objective of this course is to give an introduction to the theory and solution methods for these large-scale optimization problems using mathematical programming decomposition or metaheuristics. The course consists of a decomposition part and a metaheuristic part. Decomposition-Review of the mathematical theory behind the decomposition algorithms; Description of Benders Decomposition, Dantzig-Wolfe decomposition and Lagrangean Decompostion. Metaheuristics-Review of Simulated Annealing, Tabu Search, Genetic Algorithms and some other contemporary metaheuristics. The students implement one or more decomposition techniques and/or metaheuristics in an efficient programming language to solve one or more optimization problems.
+
+## MGP601: Project Work
+- Credits: 12
+- Type: Project
+
+## MGS601: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Seminar
+
+## MGS801: Credit Seminar
+- Credits: 4
+- Type: Seminar
+
+## MGS802: Seminar
+- Credits: 4
+- Type: Seminar
+
+## MGT601: Self Awareness and Interpersonal Skills Lab
+- Credits: 1
+- Type: Theory
+- Prerequisite: 0.0
+- Description: This is a laboratory style course. This includes components for self reflection and assessment, interpersonal interactions and group activities. Indicative key contents are:Dynamics of values, belief and attitude and behaviour, Emotional intelligence, Listening skills, Assertiveness, Conflict management, Negotiation skills, Team and group dynamics
+
+## MGT602: Management of Human Resources
+- Credits: 3
+- Type: Theory
+- Description: Introduction to HRM, HR Metrics, Job Analysis, Human resource planning and recruiting, Employee Testing and Selection ,Training and Developing Employees, Talent management, Performance Appraisal and Management , Managing Career, Establishing Strategic Pay Plans, Pay for Performance and Financial Incentives, Emerging themes in HRM
+
+## MGT603: Statistical Methods
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Probability, Random Variables, Probability Distributions, Sampling Distributions, Estimation, Tests of Hypotheses,  Chi Square Tests, Regression, Analysis of Variance.
+
+## MGT604: Financial Management -I
+- Credits: 3
+- Type: Theory
+- Prerequisite: MGT607
+- Description: Funds flow and cash flow analysis, analysis of operating and financial performance, Cash forecasting and management, inventory, receivables, and working capital management, Lending Norms & Credit Monitoring, Credit Needs vs. Credit Worthiness, Trade Credit Policy, Factoring, Integrated Working Capital Management
+
+## MGT605: Introduction to Marketing
+- Credits: 3
+- Type: Theory
+- Description: Broad overview of marketing as a discipline, Evolution of Marketing, Marketing Framework: 5C-s (Customer needs, Company skills, Competition, Collaborators, and Context in marketing) and decision variables: Product, Price, Place and Promotion, Delivering Customer Value and Satisfaction, Strategic Market Planning :Growth Opportunity Analysis, Analyzing Industries and Competitors, Developing New Market Offerings, Market Research (basic), Consumer and business markets and Buyer Behavior,Managing Product Lines and Brands, Product (Overview),Product Life Cycle (PLC), Pricing (Overview), Managing Integrated Marketing Communications (IMC) (Overview): Advertising, Sales Promotions, Direct marketing, Personal selling and sales management, Public Relations,Segmentation-Targeting- Positioning(STP),dif...
+
+## MGT606: Operations Management-II
+- Credits: 3
+- Type: Theory
+- Description: Operations Planning and Control Systems for Discrete and Continuous Manufacturing. Demand Forecasting; Inventory Management of Independent Demand Items; Manufacturing Resources Planning (MRP II): Sales and Operations Planning. Master Production Scheduling, Materials Requirement Planning (MRP), Production Activity Control Systems, Personnel Scheduling Systems; Just-in-Time and Theory of Constraints
+
+## MGT607: Managerial Accounting & Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction - Scope of Financial, Cost and Management Accounting. Accounting Principles - GAAP, AS, IFRS. Basic Entries, Accounting Mechanics. Accounting for Depreciation and Inventory.  Balance Sheet, and Income Statement. Cash flow Statement. Cost terms and Concepts, Absorption Costing, Accounting for Direct and Indirect Costs, Activity Based Costing, Methods of Costing, Marginal Costing, Budgeting, Standard Costing.
+
+## MGT608: Management of Technology
+- Credits: 6
+- Type: Theory
+- Description: Module IDefinitions of technology and management oftechnology (MOT); Technological environment,actors; Technological change: innovationdynamics; Technology evolution and S-curves;Technology and market and industry structure;new product development (NPD), processinnovation, value chains, networks andorganization. Macro-view on technology,including multi-level perspectives on technologychange, role of standards and regulations inshaping innovation and the broader context ofnational innovation systems, the measurement oftechnology and innovation outputs and science,technology & innovation policy.Module IIorganization structures and issues related totechnology mgmt and business models; Strategyand technology linkages for competitiveness:technological capabilities; Technologyintelligence, audit...
+
+## MGT609: Managerial Economics
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Module 1: The Fundamentals of Managerial Economics: Goals and Constraints ,The Nature and Importance of Profits ,Understanding Incentives Understanding Markets, Time and Value of Money Marginal Analysis ,Basic Calculus: The Calculus of Optimization Module 2: Demand and Supply: Demand ,Supply ,Market Equilibrium, Price Ceilings and Price Floors ,Comparative Statics: Changes in Demand and Supply ,Price Elasticity of Demand ,Price Elasticity, Total Revenue, and Marginal Revenue ,Factors Affecting Price Elasticity ,Cross Price Elasticity, Income Elasticity of Demand ,Other Elasticities,  Module 3: Theory of Consumer Behaviour: Choice and Utility Theory, Law of Diminishing marginal utility, Consumer Equilibrium, Indifference curve Analysis, Consumer Surplus, Price effect, Substitution Effect an...
+
+## MGT610: Information Systems
+- Credits: 6
+- Type: Theory
+- Description: Introduction and foundations of information systems : Business organizations, Core functional areas, Role of management, Business processes and work-flows, Types and roles of information systems, Why information systems?, How organizations use information systems?, Role and use of productivity and sharing tools , IT Infrastructures and emerging technologies, Database management systems, e-Businesses and eCommerce, Enterprise systems, Decision support, business intelligence and analytics, Knowledge management, Security, social and ethical issues in information systems, Building and managing information systems
+
+## MGT611: Organizational Behaviour
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Perceptions and attribution, Attitude, values, Motivation, Understanding personality, Groups and Teams, Leadership, Organization culture and climate
+
+## MGT612: Business Research Methods
+- Credits: 6
+- Type: Theory
+- Description: Business decision problems and research. Different research approaches. Research process: Preparing research briefs; Formulating research objectives; Research Design, Identifying the different designs applicable to field research projects, Role and sources of secondary data. Qualitative and quantitative techniques of data collection. Development and validation of measures and research Instrument. Questionnaire construction. Sampling. Techniques of data collection. Editing and Tabulation of data; Testing the hypothesis(es). Overview of univariate and bivariate techniques. Analysis of data with the help of Statistical Packages; Interpretation of data. Brief introduction to Multivariate techniques. Preparation of research reports and making presentations. Role of models in decision- making.
+
+## MGT613: Communication Skills Lab
+- Credits: 1
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Communications: An Introduction; Meaning, nature and characteristics of communications (art, science and process); The communication process, the role of feedback; Objectives and functions of communication; Levels and types of communication; Essentials of good communication- Seven C302222s of communication; Barriers in communication; Difference between effective and ineffective communication; Noise in communications; How to develop good listening skills?Verbal, Non-verbal communications and Written Communications (from the perspective of business communications); Oral and written presentations; Public Communications: Organizing, outlining and delivering the speech; The informative speech and the persuasive speech; Conducting effective meetings; Written communications in business (Emails, l...
+
+## MGT614: International Business
+- Credits: 3
+- Type: Theory
+- Description: The International Business Imperative: Economies in Transition, Economic Integration; National Trade and Investment Policies; International Business Entry; Multinational     Corporations.    Strategies      for Globalization. The Global Strategic Frameworks, Management of International Business. Global Strategic Planning. Prospects and Problems for Globalization of Indian Firms.
+
+## MGT615: Marketing Management
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Marketing Strategy Issues. Influence of the marketplace and the marketing environment on marketing decision-making. Marketing Information system, Marketing research and strategic marketing decisions, Sales and Demand Forecasting.  Analysis of practical marketing problems related to products, prices, channels and communication strategies. Relationship Marketing Issues, Service Marketing Issues. Organization of marketing effort, Implementation Issues, Marketing Metrics.
+
+## MGT616: Financial Management -II
+- Credits: 3
+- Type: Theory
+- Prerequisite: MGT607
+- Description: Time value of money, capital budgeting, valuation of stocks and bonds, portfolio theory, asset pricing models, cost of capital, market efficiency, options and futures, capital structure, dividend policy, leasing, mergers and acquisitions.
+
+## MGT617: Decision Models in Management
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to Linear Programming, Duality and Sensitivity Analysis, Transportation and Assignment Problems, Constrained Optimization, Goal Programming, Integer Programming, Dynamic Programming. Decision Making under Risk and Uncertainty, Analytic Hierarchy Process, Game Theory, Simulation, Multi-objective Optimization for Industrial Applications.
+
+## MGT618: Advanced Planning and Scheduling
+- Credits: 3
+- Type: Theory
+- Description: economic lot sizing models, sequence dependent set up cost optimization, KANBAN systems, integer programs for single machine scheduling, sequencing of product families,  job shop scheduling: disjunctive and constraint programming models, active and non delay schedules, paced assembly line scheduling, flexible flow shop scheduling, stochastic scheduling.
+
+## MGT619: Economic Environment and Policy
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Measuring economic activity, National income, money and inflation, saving and investment, exchange rate, unemployment, business cycles, IS-LM model, Mundell-Fleming model, policy debates - stabilization, government debt.
+
+## MGT620: Business and Sustainable Development
+- Credits: 3
+- Type: Theory
+- Description: The Science and Economics of Sustainability: Overview of the origins of sustainability, key concepts and drivers, development of triple bottom line approaches A brief history of corporate response to environmental issues Internalizing Sustainability into Corporate Strategy Carbon 101: A review of global warming, environmental attributes, carbon trading, footprinting and reporting. Summary of the evolving regulatory framework internationally and locally and a review of best practice in   sustainability reporting and accounting; and, Corporate Sustainability Strategy: Cases, concepts and tools: Description of the sustainable enterprise today and how to imbed sustainability as part of the companies regular processes.
+
+## MGT621: Operations Management 1
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Strategic Role and Objectives of Operations in the Enterprise, Operations Strategy, Process Design, Facilities Planning: Capacity Planning, Location and Layout Planning. Management of Productivity: Work Analysis and Measurement, Work System Design and Improvement, Quality Management.
+
+## MGT622: Corporate Strategy
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Corporate StrategyMODULE 1: Porter302222s 5-forces approach:The firm, itsenvironment and Industry structure Competitive advantage MODULE 2: Looking inside the firm:T ypes of Strategies: Market oriented strategic planning versus Emerging strategiesThe Resource-Based-View MODULE 3: Growing the firm:Growth strategies, Global versus local: Internationalisation Mergers and Acquisitions,Strategic Alliances MODULE 4: Implementation and Governance (optional)
+
+## MGT623: Quantitative Skills Lab
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: This course is devoted to the development and application of quantitative methods to diverse topics in Management. This course will largely involve applications of concepts that are learnt in the courses 302221Statistical Methods302222 and 302221Decision Models in Management302222. The sessions will involve problem solving sessions for data analysis and exposure to the use of optimization tools and simulation techniques for decision making using relevant software packages.
+
+## MGT624: Business Ethics
+- Credits: 3
+- Type: Theory
+- Description: Role of corporation in society, The Foundation of Ethical Thought, Contemporary Issues in Business Ethics, Stakeholders and Corporate Social Responsibility, Ethical Dilemmas, Sources and Their Resolutions, Ethical Decision Making in Business, Globalization and Business Ethics, Establishing a Code of Ethics and Ethical Guidelines
+
+## MGT625: Legal Aspects of Business
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 1. Introduction to Law: (a) bodies of law; (b) sources of Indian law; (c) structure of courts in India; (d) business torts; and (e) product liability. 2. Overview of Contract Law: (a) formation of contracts; (b) performance of contracts; (c) discharge of contracts; and (d) breach of contracts.  3. Overview of Sale of Goods Law 4. Overview of Company Law: (a) characteristics of company; (b) types of companies; (c) formation of companies; (d) board of directors; and (e) shareholders and members. 5. Overview of Negotiable Instruments Law 6. Overview of Intellectual Property Law: (a) rationale for protection of intellectual property; (b) copyrights; (c) patents; (d) trademarks; (e) domain name; (f) geographical indications; and (g) trade secrets. 7. Alternate Dispute Resolution (ADR): (a) need...
+
+## MGT627: Patterns of Enterprenuership
+- Credits: 3
+- Type: Theory
+- Prerequisite: -
+- Description: India is witnessing a surge in entrepreneurial activity over the last two decades, especially in knowledge-intensive and technology sectors. This course will bring out various aspects of this phenomenon through case studies of several entrepreneurs who have successfully created new ventures.
+
+## MGT628: Leadership and Vision
+- Credits: 3
+- Type: Theory
+- Description: Leadership and wholesome view of life and business, Different approaches of leadership, Appreciative self inquiry of leadership strengths, Role of Emotional intelligence in leadership. (This course is offered with Leadership Lecture Series)
+
+## MGT630: Introduction to ERP
+- Credits: 3
+- Type: Theory
+- Description: Introduction to ERP systems, Individual business processes its financial impacts and ERP; Basic  requirements for an ERP system, ERP software, ERP implementation methodologies; Testing, Data  conversion, Configuration and customizing; Master data Management: Entities and organization structure, Material masters, Production planning masters, Purchasing masters; Processes: Forecasting, MPS,  RCCP, Finite scheduling; MRP Inventory management, warehouse management; Procurement cycle; Production  activity control, QA processes, Distribution; Business planning process, reports, business warehouse, Optimizers in ERP, and Future of ERP systems
+
+## MGT631: Logistics and Supply Chain Management
+- Credits: 3
+- Type: Theory
+- Description: Supply chain performance measures, advance inventory management models, multi echelon inventory system,  transport mode selection, vehicle routing and scheduling, lean, green and agile supply chains, supply chain  contracts, network design, revenue management
+
+## MGT632: Lean Management
+- Credits: 3
+- Type: Theory
+- Description: x
+
+## MGT633: Quality Management
+- Credits: 3
+- Type: Theory
+- Description: vii  Evolution of Quality Management; Concepts of Product and Service Quality; Dimensions of Quality; PDCA Cycle. Deming, Juran-s, Crosby, TQM Philosophy ; 7  QC tools; Statistical Control charts- for attributes and  variables characteristics; Process capability analysis; Acceptance sampling and inspection plan; Measurement  System Analysis; ANOVA; Multiple Linear Regression; Basic concept on Design of Experiment (DOE) ; Factorial Design; Six Sigma Quality; QS 9000 and ISO   9000-2008; Taguchi-s Method; QFD; Reliability Cases and Project Component.
+
+## MGT634: Purchasing and Supply Management
+- Credits: 3
+- Type: Theory
+- Description: vii Purchasing and Supply Management (PSM) Concepts, Staging Policies and PSM. Strategic sourcing: Make or buy decisions, Purchasing process, Purchase negotiations, Ethics in purchasing,Legal aspects in purchasing, EDI and e-sourcing,Vendor development and evaluation, Vendor managed inventory (VMI), Buyer supplier relationships, Vendor  perforance measurement, Procurement of capitalequipment, Purchasing services Supplier certification, Spare parts  Management, Performance measures,     Purchasing functionality in ERP.   Material storage, Safety and security aspects, Obsolescence, Scrape disposal, Material handling. New Product Development, Standardization, Value analysis, Lean / JIT principles in PSM.
+
+## MGT640: Service Operations Management
+- Credits: 3
+- Type: Theory
+- Description: Introduction, Service Concept, Customer & Relationships, Expectations & satisfactions. Managing supply relationships. Service Processes, Capacity and People. Performance Measurement. Service Strategy & Culture
+
+## MGT647: Innovation and Entreprenurship
+- Credits: 6
+- Type: Theory
+- Description: The phenomenon of innovation; Role of innovation in business and society; Sources of innovation; National Innovation System; Creativity; Development of creative solutions; Evolution of entrepreneurship; Impact of entrepreneurship; Concept of creative destruction; Generation of new business ideas; Converting an idea into a business opportunity; Transforming an opportunity into a new enterprise; Entrepreneurship as a nexus of valuable opportunity and enterprising individuals; Formulating a business based on an innovative product/process; Assessing the feasibility of an entrepreneurial venture.
+
+## MGT650: Mergers,Acquisitions and Business Valuation
+- Credits: 3
+- Type: Theory
+- Description: Mergers-concepts and strategic perspectives ; Theories of Mergers and Acquisitions; Timing of Merger Activity; Evaluation of M&As; Process of M & A; Valuation of M & A deal including Enterprise Value, Statutory regulations, taxation aspects, LBOs, Due diligence,Capital restructuring, strategies and value creation , analysis of real life cases
+
+## MGT651: International Finance
+- Credits: 3
+- Type: Theory
+- Description: International Balance of Payments & Exchange Rates. Exchange Rate Determination. Structure of the Foreign Exchange Market. Purchasing Power & Interest Parity. Exchange Rate Forecasting. Foreign Exchange Risk Management.       International     Cash    Management. Understanding Swaps. Investing in Foreign Operations. International     Capital      Budgeting.       Managing Country/Political Risk. Tapping International Equity and     Bond      Markets.      International    Portfolio Diversification.     Foreign       Direct     Investment, International Financial System.
+
+## MGT652: Indian Financial and Business Model
+- Credits: 3
+- Type: Laboratory
+- Description: Strategic role of financial instruments and their impact on savings and consumption, the consumption and savings model, risk capital formation, family finances, privatised social security, contrasting and comparing budget-led, market-led and bank-led models, the role of housing sector in national economic model, social capital in the Global and Indian context.
+
+## MGT653: Security Analysis and Portfolio Management
+- Credits: 3
+- Type: Theory
+- Description: Financial system, Securities markets, valuation of equity and debt securities, efficient market hypothesis,fundamental analysis, technical analysis, portfolio theory,asset pricing models, trading strategies, portfolioperformance evaluation, issues in regulation of securities markets.
+
+## MGT654: Fixed Income Securities
+- Credits: 3
+- Type: Theory
+- Description: Corporate bonds, floating rate bonds, credit rating, Securitisation, MBS and CMOs, Bond Portfolio Management, Interest Rate Futures, Interest Rate swaps and options, CDS, CDO, Fixed income markets in India.
+
+## MGT655: Derivatives and Risk Management
+- Credits: 3
+- Type: Theory
+- Description: Options and futures, hedging with futures and basis risk, stock index futures, interest rate futures, swaps, binomial option pricing, Black - Scholes option pricing, trading strategies, synthetic options and portfolio insurance, interest rate options, risk management, market risk measurement and applications, measuring credit risk, and issues in regulation of derivatives.
+
+## MGT656: Management Control Systems
+- Credits: 3
+- Type: Theory
+- Description: Strategic Planning and Management Control, Operational Control. Responsibility Centres and Profit Centres, Identification of Profit Centres, Creation of Profit Centres, Profit Centres as Control Systems, Decentralisation and Profit Centres, Mechanics of Determining Profit Objectives of Profit Centres. Problems and Perspectives of Transfer Pricing. Determining Divisional Goals in a Multi - Divisional Company. Problems of Growth and Corporate Control. Financial Goal Setting, Responsibility Budgeting, MBO, Human Problems with Budgets, Zero Based Budgeting. Manufacturing Control, Marketing Control, R&D Control, Project Control, Administrative Control Etc. Management Audit.
+
+## MGT661: Advertising and Media Management
+- Credits: 3
+- Type: Theory
+- Description: The Communication Process - Theory and Concepts, Models, Mass Media - Theory and Models Visual Communications, Integrated Marketing Communications - Introduction, The Marketing Communications Environment and PEST Framework (Macro and Micro), Marketing Communications as a Strategic Function-STRATEGIC Brand Contacts Attitudes Formation and Change: Power, Patronage and Persuasion, Advertising Management. Analyze, design, and evaluate various advertising decisions. Importance of customer insight as a basis for creating coherence between target and position. Research for advertising strategy development. Selecting target for advertising and developing an effective brand position. Determining the advertising budget. Role of the advertising agency. Creative strategy. Media Strategy. Media Managem...
+
+## MGT662: Customer Relationship Management
+- Credits: 3
+- Type: Theory
+- Description: Emerging business environment and the CRM context Overview of Consumer Behaviour Models (B2C and B2B) Customer Satisfaction and CRM Setting goals for a CRM program (Customer life- cycle management, customer life-cycle value) Customer acquisition and retention Identifying target customers for a CRM program  ifferentiating customers Interact and customize (role of social media, call centers, online tools) CRM and Integrated Marketing Communications (Churn Management) The role of Technology in CRM Why CRM initiatives fail? CRM in India - career opportunities for marketers and IT professionals Overview of CRM Softwares
+
+## MGT663: Brand Management
+- Credits: 3
+- Type: Theory
+- Description: Branding Concepts, Principles, and Strategies to Manage Brands. The Brand Architecture. Brand Audit. Core Brand Values, Segmentation Issues in Branding. Developing a Brand, Strong and Weak Brands. Consumer Encoding and Retrieval of Brand Information. Managing a brand over time. Creating and Managing Brand Personality. Brand and Line Extensions, Impact of Extensions on Parent Brand. Sub-Branding. Brand Positioning, Repositioning. Revitalizing Brands. Brand portfolio strategies. Leveraging the brand. Corporate branding. High-Tech Branding. Brand Equity and different models like Consumer Based Brand Equity [CBBE] Measuring brand equity, Payoffs from Brand Equity. Brand Loyalty. Retro-Branding, Capitalizing on a Brand Heritage. Brand Leadership, Brand Essence, Creating a Brand Wheel. Issues in...
+
+## MGT664: Business to Business Marketing
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Business Markets. Characteristics of Business markets. Nature of Business buyer. Industrial buying behavior. Understanding Firms as Customers. Need identification for industrial and other institutional buyers. Forces affecting Business demand. Market Sensing, Identifying and  valuating industrial marketing opportunities. Crafting Market Strategy. Managing Market Offerings. Integrative Marketing Decisions. New Offering Realization. Forecasting Demand for New Products. Business Channel Management. Gaining Customers. Sustaining Reseller Partnerships. Sustaining Customer Relationships, Managing Customer Satisfaction and Customer Loyalty. Analytical tools in business marketing to measure and manage the productivity of marketing efforts.
+
+## MGT665: Consumer Behavior
+- Credits: 3
+- Type: Theory
+- Prerequisite: -
+- Description: Consumer Behavior & Marketing Strategy, Understanding concepts of Consumption , Model of Consumer Decision Making; Understanding & Application of concepts:-Consumer Motivation & Goals; Consumer Perception, Learning & Memory, Personality, Self-Concept & Lifestyle, Brand Personality, Consumer Attitude formation and change, Consumer Behaviour & Communication, Involvement theory and persuasive communication. Impact of Reference Group, family influences & social class on consumption behavior, Innovation Diffusion and Adoption and opinion leadership. Impact of Culture, Sub culture & Cross culture: Values on consumption. Enculturation and acculturation, Measurement tools- Value Measurement Survey Instruments. Contemporary issues in consumer behavior - neuromarketing
+
+## MGT668: Services Marketing
+- Credits: 3
+- Type: Theory
+- Description: Selling and Salesmanship - Selling perspective and techniques. Account penetration. Lead generation. Objection identification and handling. Handling retailers and key customers. Strategic and tactical aspects of sales force management. Determining Sales related policies. Setting objectives for personal selling. Formulating strategy. Role and Characteristics of Effective Sales Executives. Managing Sales Department Relations. Structuring a sales force. Managing people - recruitment, selection, training of sales personnel. Leading, motivating, controlling the sales force. Sales budget, quota, territories. Control and Cost Analysis. Designing a compensation plan. International Sales Management. Distribution channels - structure, functions and relationships. Construction of Effective and effici...
+
+## MGT670: Management of New Ventures
+- Credits: 6
+- Type: Theory
+- Description: Course Content  Concept of New Ventures: New Venture Management; Environmental Framework for New Ventures; Issues in Managing on Different Fronts Simultaneously: Project Execution and Cost Control; New Product Development: Product and Process Technologies; Assessment of Project Feasibility; Launching the New Venture: Organizing Resources and Raising Capital; Marketing of High Technology Products and Services: Constraints and Successful Strategies in Practice; Role of Networking and Social Capital in Setting Up New Ventures; Business Plan: Preparation and Assessment; Harvesting and Exiting the New Venture; Social Entrepreneurship; Formulation of a New Venture.
+
+## MGT671: International Competitiveness
+- Credits: 6
+- Type: Theory
+- Description: Competitiveness concept: need, views, definitions;Competitiveness across levels: product/service, firm, industry; Frameworks/models of competitiveness,Competitiveness Assets-Processes-Performance (APP) framework; Industry analysis, Diamond model and extensions; Industry value system analysis ; Evaluating competitiveness: factors, criteria, Benchmarking; Sources ofcompetitiveness;Business excellence concept, models & practices; Enhancing competitiveness, identifying drivers, country competitiveness
+
+## MGT673: Managerial Effectiveness Skills
+- Credits: 3
+- Type: Theory
+- Description: Dimensions of Managerial Effectiveness, Skills for Professional Manager - Technical and Managerial, Tasks and Roles of Effective Manager, Interpersonal Relationship, Competence, Managerial Styles, Team Building, Developing Subordinates, Communication Skills, Problem Solving And Conflict Management, Management of Time. Negotiation Skills.
+
+## MGT677: Management of Change
+- Credits: 3
+- Type: Theory
+- Description: Integrative view of Organizations and change ,Change readiness of organization, Diagnosing organization, Different approaches of managing/leading change ,Human process intervention, Team based change interventions, Organizational nuances of bringing major technological changes such as ERP, new technology platform etc, Managing change in operations, Change in Technology, Technostructural interventions of change, (Restructuring organizations), Changing culture, Managing business growth, Organization wide OD initiatives
+
+## MGT678: Policy Responses to Climate Change
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Overview of climate changeWhat is Climate Change, Causes and consequences of climate change, Key economic issues related to drivers and impacts Mitigation: Concepts and ApproachesIntroduction to mitigation of GHGs and stabilization scenarios; Characteristics of mitigation in regional and national context; Long term and short term mitigation options; Technical, economic and market potentials; Top-down and bottom-up modeling of mitigation costs; Economic policies and their effects on the costs and benefits of mitigation; Sector-specific options in end-use and supply-side; Policy design and mechanisms 302226 market-based approaches, regulatory approaches, other mechanisms (including information measures and voluntary approaches); National policies and actions (NAPCC and mitigation-related mis...
+
+## MGT679: Competitiveness for Sustainable Enterprise
+- Credits: 6
+- Type: Theory
+- Description: Context and concept of Competitiveness and sustainability: Introduction: Context, concepts, business sustainability, need, dimensions, views; Competitiveness levels and definitions;  Frameworks / models: Diamond, Extensions, Competitiveness Assets-Processes-Performance (APP); Defining and Evaluating competitiveness: factors, criteria, benchmarking; Sources of competitiveness: Manufacturing competitiveness; Enhancing competitiveness: identifying drivers and enablers, strategy; Strategy deployment; Microeconomics of competitiveness   Sustainability enterprises  Tripple Bottom Line, Visionary companies, BHAGs; Business/organizational excellence (BE/OE), BE models; Execution and organizational excellence; Technological and Eco-innovation; emerging perspectives: dynamic capabilities, flexibilit...
+
+## MGT680: Managing Intellectual Property
+- Credits: 3
+- Type: Theory
+- Prerequisite: MGT622
+- Description: ntellectual Property in the Global Economy; Overview of Intellectual Property in India: Legislation, Policies and Enforcement; Managing Patents: Patent Invention, Patent     Protection     and    Patent    Exploitation, Understanding Utility, Novelty and Originality. Managing Copyrights: Importance of Authorship, Fair Use, Public Domain, Piracy and the Digital Challenge;Patents and Indian Industries: Pharmaceutical, Seeds, Chemicals, Software and Engineering; Copyrights and Indian Industries: Music, Entertainment, Software and Publishing. Intellectual Property and Technology Transfer Management of Trademarks, GeographicalIndicators and Traditional Knowledge.
+
+## MGT681: Historical and Contemporary Perspectives in International Business.
+- Credits: 3
+- Type: Theory
+- Prerequisite: -
+- Description: Managing International Business; Current Trends in Globalisation and Trade: Approaching Global Markets, Aspects of protection and the WTO; Going Global From India and The Global Indian; Entrepreneurship in Developing Countries; Pitfalls in International Business; Navigating the International Financial System for Global Growth: International Financial System and The Role of Information and Judgment in Capital Flows.
+
+## MGT682: Applied Industrial Organization
+- Credits: 6
+- Type: Theory
+- Description: Different market structures, cartels, multi-plant monopoly, locational choice, mergers, entry deterrent behavior, R&D, Advertising, standards, principal-agent problem, regulating a firm.
+
+## MGT683: Managing with New Business Models in a Knowledge Economy
+- Credits: 3
+- Type: Theory
+- Description: Emergence of a new global knowledge economy; Policy implications of global trade in digital services and products; Importance of digital oriented capitalism; Managing copyright in the global economy; Impact of new digital legislation; Use of digital rights management in business models; Proprietary, open and new business models for knowledge based industries.
+
+## MGT686: Strategic Transformation
+- Credits: 3
+- Type: Theory
+- Description: Corporate Success and Transformation Imperative Corporate performance           parameters, aspects and perspectives. Characteristics of high performing organisations. Concepts of fit and configuration. Incremental     change      and     strategy   adaptation. Transformation and change in strategy. External and internal imperatives for strategy change. Proactive and reactive stances to strategy change. Conceptualisation of New Strategy and Organisational Design Assessment of the need for strategic transformation. Development of strategy options. Types of organisation designs. Evaluation of options in terms of market, financial and organisational risks. Design of organisation that aligns with the new strategy. Path, in terms of the sequence and schedule of business and organisational initi...
+
+## MGT689: International Trade
+- Credits: 3
+- Type: Theory
+- Description: Concepts of Competitive Advantage and Comparative Advantage, Gains from Trade, Terms of Trade, Leontiff Paradox, Intra-industry trade, instruments of trade policy - quota, tariff, voluntary export restraint, Free trade areas, customs union, political economy of Trade policy, controversies in trade policy, trade policy for developing countries.
+
+## MGT690: Software Project Management
+- Credits: 3
+- Type: Theory
+- Description: Technical development of software; Principles of Software Project Management (SPM), Software Project Planning, Software Project Estimation. Function Point Analysis; COCOMO; Quality management; quality assurance, quality control; reviews, Risk Management; Configuration Management, Human Aspects of SPM. Project Monitoring and Control; Role of users in software project management; Applications and Cases in SPM.
+
+## MGT691: Intelligent Systems
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to BI and analyticsData mining and data warehousingWeb 2.0, semantic web and knowledge-managementIntelligent systems: expert systems, case-based reasoning, neural networks, genetic algorithms and model-based reasoningFiltering techniques and recommender systemsIntelligent agentsEmerging trends
+
+## MGT693: Information Technology Infrastructure Management
+- Credits: 3
+- Type: Theory
+- Prerequisite: -
+- Description: Role of IT in Organization, demand/supply relationship between IT and business; optimum IT service levels for the business, Customer service, IT Investment Opportunities, Information Resource Management, IT/IS Facilities and Operations, Acquiring expert support, Organizing for systems management, Staffing for Systems management, Historical perspective of systems management, Availability, Performance and tuning, Production acceptance, Change management, Problem management, Storage management, Network management, Configuration management, Capacity planning, Strategic security, Disaster recovery, Facilities management, Integrating systems management processes, Audit, Security and Control; Ethical challenges in IT/IS.
+
+## MGT696: Strategies for Growth
+- Credits: 3
+- Type: Theory
+- Prerequisite: MGT622
+- Description: The course will discuss 1.on several different 302223avenues302224 to achieve sustainable growth, such as (a) growth in their existing business through innovation, consolidation, etc. or (b) growth by expanding the 302223scope of their activities302224 along the business value chain, or by expanding the 302223scope of the products, markets or businesses302224 they are engaged in, (c).growth organically through 302223internal development302224 or grow inorganically through either 302223alliances302224 or 302223acquisitions302224.2.Growth strategy involving choices along all dimensions of growth 302226 the 302223avenues of growth302224 and the 302223mode of growth or expansion302224
+
+## MGT697: Electronic Business Strategies and Implementation
+- Credits: 3
+- Type: Theory
+- Description: E-Business Introduction, Technology And Business Perspectives, E-Business Fundamentals, Advances In E- Business Security, Privacy And Personnel Issues, Decision Support Systems: Technology, Business Applications And Implementation. Mobile Computing. E-Business At Enterprise Level: CRM Perspectives, Supply Chain Management Perspectives, Enterprise Application And Integration. External Service Providers - ASP, EBPP Etc. Knowledge Management And Groupware. End Customer Perspective: Product Selection, Make-Vs-Buy, Integration And Implementation. Instruction via Concepts Presentation, Assigned Projects, Case Narration
+
+## MGT701: Online Marketing
+- Credits: 3
+- Type: Theory
+- Prerequisite: MGT605
+- Description: Part A: Introduction    1. Digital Marketing Overview    2. Inbound Marketing vs. Traditional Outbound Marketing Part B: Get Found-Blogging    3. Search Engine Optimization    4. Social Media    5. Search Engine Marketing Part C: Lead Conversion    6. Lead Nurturing & Email Marketing Part D: Analyse -Web Analytics    7. Social Media & Blog Analytics
+
+## MGT703: Sales and Distribution Management
+- Credits: 3
+- Type: Theory
+- Description: Selling and Salesmanship - Selling perspective and techniques. Account penetration. Lead generation. Objection identification and handling. Handling retailers and key customers. Strategic and tactical aspects of sales force management. Determining Sales related policies. Setting objectives for personal selling. Formulating strategy. Role and Characteristics of Effective Sales Executives. Managing Sales Department Relations. Structuring a sales force. Managing people - recruitment, selection, training of sales personnel. Leading, motivating, controlling the sales force. Sales budget, quota, territories. Control and Cost Analysis. Designing a compensation plan. International Sales Management. Distribution channels - structure, functions and relationships. Construction of Effective and effici...
+
+## MGT742: Large-Scale Optimization
+- Credits: 6
+- Type: Theory
+- Description: The objective of this course is to give an introduction to the theory and solution methods for large-scale optimization problems using mathematical programming decomposition or metaheuristics. The course consists of a decomposition part and a metaheuristic part. Decomposition-Review of the mathematical theory behind the decomposition algorithms; Description of Benders Decomposition, Dantzig-Wolfe decomposition, Lagrangean Decompostion and Introduction to stochastic programming formulation amenable to Decomposition. Metaheuristics- Introduction to Simulated Annealing, Genetic Algorithms and some other contemporary metaheuristics.
+
+## MGT783: Experimental Design for Productivity and Quality Improvement
+- Credits: 3
+- Type: Theory
+- Description: Introduction and review of basic statistical concepts, ttest and confidence interval; Review on the concept ofanalysis of variance (ANOVA), residuals and modeladequacy checking; Choice of sample size in designedexperiments; The randomized complete block design(RCBD), Latin square design; Introduction to 2k factorialdesigns, blocking and confounding in two-level factorialdesigns; 2k-p fractional factorial designs; Responsesurface designs (an overview); Taguchi302222s Loss Functionand linear graph; Six Sigma Philosophy
+
+## MGT801: Introduction to Research Methods
+- Credits: 3
+- Type: Theory
+- Description: 1. The theory of knowledge: Scientific and other approaches of          knowledge (authority, tenacity, logical approach, and          scientific method),2. Research paradigms: Kuhn and Popper,3. Research in management: Types of research (basic/applied),          nature of data, and types of variables,4. Reviewing literature, identifying research problem, and          hypotheses formulation,5. Research Design (experimental and quasi-experimental),6. Developing tests/instruments (schedules),7. Sampling, Field of data collection (laboratory/field studies),8. Data collection methods: surveys, interviews, and case studies,9. Action research Analyzing data and interpreting results,10. Reflection on preparing a research report,11. Following a professional reference style.
+
+## MGT802: Statistics for Management Research
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction and Descriptive StatisticsProbabilityRandom Variables and Probability DistributionsSampling DistributionsPoint and Interval EstimationTesting of HypothesesGoodness of fit Tests and Categorical data analysisCorrelation and Simple linear RegressionMultiple Regression and Logistic RegressionAnalysis of Variance
+
+## MGT803: Economics
+- Credits: 6
+- Type: Theory
+- Description: Microeconomics Module 1: Microeconomics - Demand and Supply Module 2: Theory of Consumer Behaviour Module 3: Costs of Production and the Organization of the Firm Module 4: Market Structure: Pricing and Output Decisions Module 5: The Economics of Information and the Role of  Government in the Marketplace Macroeconomics Module 1: Macroeconomics - why and what? Module 2: Classical Theory: Economy in the Long Run Module 3: Growth Theory: Economy in the Very Long Run Module 4: Business Cycle Theory: Economy in the Short Run Module 5: Macroeconomic Policy Debates and Events
+
+## MGT804: Qualitative Research Methodologies
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: vii Part I    The course will introduce students to the whole gamut of    qualitative research methodologies and techniques including:        i. Case research        ii. Critical incident technique        iii. Observation and interview techniques        iv. Content analysis        v. Grounded theory        vi. Ethnography        vii. Phenomenology        viii.Feminist research        ix. Socio technical systems and activity system view of             organizations    Part II    Case research will be dealt with in greater depth and will include:        i. Understanding when case research is appropriate        ii. Inductive vs. deductive case design        iii. Case selection rationale        iv. Case design        v. Case data analysis
+
+## MGT805: Survey Research & Experimentation
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description: - Nature of Quantitative research. Broad frameworks of Descriptive & Causal   research designs - Survey Research: Introduction and applications - Measurement & Scaling - Questionnaire Design - Sampling Design and Procedures - Survey - Data Collection, Preparation, and introduction to analysis techniques   and reporting. - Experimentation: Introduction to causality, Applications - Validity in Experimentation - Extraneous variables & control - Classification of Experimental designs - Limitations of Experimentation - Experimentation - Data Collection, Preparation, and introduction to analysis   techniques and reporting.
+
+## MGTP01: Collaborative Practicum Stage -I
+- Credits: 12
+- Type: Project
+
+## MGTP02: Collaborative Practicum Stage -II
+- Credits: 9
+- Type: Project
+- Description: x
+
+## MNG601: Communication and Inter-Personal Skills
+- Credits: 4
+- Type: Theory
+- Description: This course includes components for self reflection and assessment, interpersonal interactions and group activities. Indicative key contents are: Dynamics of values, belief and attitude and behaviour, Emotional intelligence, Listening skills, Assertiveness, Conflict management, Negotiation skills, Team and group dynamics Communications: An Introduction; Meaning, nature and characteristics of communications (art, science and process); The communication process, the role of feedback; Objectives and functions of communication; Levels and types of communication; Essentials of good communication- Seven C-s of communication; Barriers in communication; Difference between effective and ineffective communication; Noise in communications; How to develop good listening skills? Verbal, Non-verbal comm...
+
+## MNG602: Management of Human Resources
+- Credits: 4
+- Type: Theory
+- Description: Introduction to HRM, HR Metrics, Job Analysis, Human resource planning and recruiting, Employee Testing and Selection ,Training and Developing Employees, Talent management, Performance Appraisal and  Management , Managing Career, Establishing Strategic Pay Plans, Pay for Performance and Financial Incentives, Emerging themes in HRM
+
+## MNG603: Statistical Methods
+- Credits: 4
+- Type: Theory
+- Description: Probability, Random Variables, Probability Distributions, Sampling Distributions, Estimation, Testing of Hypotheses,  Chi Square Tests, Regression, Analysis of Variance.
+
+## MNG604: Corporate Finance - I
+- Credits: 4
+- Type: Theory
+- Prerequisite: MGT607
+- Description: Introduction to Financial Management & Financial System,-Financial Performance Analysis-Funds Flow and Cash Flow Statements-Leverages: financial, operating and total-Financial Planning and Forecasting-Working Capital Management: working capital policy-cash management-credit management-inventory management-working capital financing policy
+
+## MNG605: Marketing Management - I
+- Credits: 4
+- Type: Theory
+- Description: 1.Market Orientation, Marketing Framework (5C302222s and 4P302222s), Delivering Customer Value and Satisfaction, Developing New Market OfferingsConsumer Markets & Business Markets, Segmentation, Targeting & Positioning2.Product Levels, Product Life Cycle (PLC) and Product Mix, Branding, Pricing, Promotions (Advertising, Sales Promotions, Direct Marketing, Personal Selling, Public Relations), Online Marketing & Social Media, Market Research1.Market Orientation, Marketing Framework (5C302222s and 4P302222s), Delivering Customer Value and Satisfaction, Developing New Market OfferingsConsumer Markets & Business Markets, Segmentation, Targeting & Positioning2.Product Levels, Product Life Cycle (PLC) and Product Mix, Branding, Pricing, Promotions (Advertising, Sales Promotions, Direct Marketing,...
+
+## MNG606: Operations Management II
+- Credits: 4
+- Type: Theory
+- Description: Operations Planning and Control Systems for Discrete and Continuous Manufacturing. Demand Forecasting; Inventory Management of Independent Demand Items; Manufacturing Resources Planning (MRP II): Sales and Operations Planning. Master Production Scheduling, Materials Requirement Planning (MRP), Production Activity Control Systems, Personnel Scheduling Systems; Just-in-Time and Theory of Constraints
+
+## MNG607: Financial Reporting and Analysis
+- Credits: 3
+- Type: Theory
+- Description: Introduction - Scope of Financial and Management Accounting. Accounting Principles - GAAP, AS, IFRS. Ethical Issues in Accounting. Basic Entries, Accounting Mechanics. Accounting for Depreciation and Inventory. Balance Sheet and Income Statement. Cash Flow Statement. Human Resources Accounting.
+
+## MNG608: Strategic Management of Technnology
+- Credits: 4
+- Type: Theory
+- Description: Foundations Need, definitions of technology, innovation and management of technology (MOT) for competitiveness;  Key MOT sub-processes for value creation; Integrating technology and business strategy, Strategy concept, views, process; Strategy and technology linkages for competitiveness: technological capabilities, gaps, capability building through alternate routes; Technology intelligence, audit; Formulating and implementing technology strategy Reviewing and evolving organizations strategic direction; Acquisition and exploitation of technology; Cooperative strategies: strategic alliances; Organizing for innovation: new technology / product development process, idea management system, managing teams;
+
+## MNG609: Microeconomics
+- Credits: 4
+- Type: Theory
+- Description: Module 1: The Fundamentals of Microeconomics: Goals and Constraints ,The Nature and Importance of Profits, Understanding Incentives, Understanding Markets, Time and Value of Money, Marginal Analysis, Basic Calculus: The Calculus of Optimization. Module 2: Demand and Supply: Demand ,Supply ,Market Equilibrium, Price Ceilings and Price Floors, Comparative Statics: Changes in Demand and Supply, Price Elasticity of Demand, Price Elasticity, Total Revenue, and Marginal Revenue, Factors Affecting Price Elasticity, Cross Price Elasticity, Income Elasticity of Demand, Other Elasticities,  Module 3: Theory of Consumer Behaviour: Choice and Utility Theory, Law of Diminishing marginal utility, Consumer Equilibrium, Indifference curve Analysis, Consumer Surplus, Substitution and Income Effects.  Modul...
+
+## MNG610: Information Systems
+- Credits: 6
+- Type: Theory
+- Description: Introduction and foundations of information systems : Business organizations, Core functional areas, Role of management, Businessprocesses and work-flows, Types and roles of information systems, Why information systems?, How organizations use informationsystems?, Role and use of productivity and sharing tools , IT Infrastructures and emerging technologies, Database management systems, e-Businesses and eCommerce, Enterprise systems, Decision support, business intelligence and analytics, Knowledge management, Security, social and ethical issues in information systems, Building and managing information systems
+
+## MNG611: Organization Behavior
+- Credits: 4
+- Type: Theory
+- Description: Perceptions and attribution, Attitude, values, Motivation, Understanding personality, Groups and Teams, Leadership, Organization culture and climate
+
+## MNG614: International Business
+- Credits: 3
+- Type: Theory
+- Description: The International Business Imperative: Economies in Transition, Economic Integration; National Trade and Investment Policies; International Business Entry; Multinational     Corporations.    Strategies      for Globalization. The Global Strategic Frameworks, Management of International Business. Global Strategic Planning. Prospects and Problems for Globalization ofIndian Firms.
+
+## MNG615: Marketing Management -II
+- Credits: 4
+- Type: Theory
+- Description: Marketing Strategy, Environment & marketing decision-making, Strategies for Markets in different phases (Entry, growth, and maturity), Marketing Information System, Sales and Demand Forecasting, Introduction to Marketing Models and analytics. Analysis of practical marketing problems related to products, prices, channels and communication strategies. Relationship Marketing Issues, Services Marketing. Organization of marketing, Implementation Issues, Marketing Metrics.
+
+## MNG616: Corporate Finance - II
+- Credits: 4
+- Type: Theory
+- Description: Valuation of stocks and bonds, portfolio theory, asset pricing models, cost of capital, market efficiency, options and futures, capital structure, dividend policy, leasing, mergers and acquis
+
+## MNG617: Decision Models in Management
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Linear Programming, Duality and Sensitivity Analysis, Transportation and Assignment Problems, Constrained Optimization, Goal Programming, Integer Programming, Dynamic Programming. Decision Making under Risk and Uncertainty, Analytic Hierarchy Process, Game Theory, Simulation, Multi-objective Optimization for Industrial Applications.
+
+## MNG619: Macroeconomics
+- Credits: 4
+- Type: Theory
+- Description: Measuring economic activity, National income, money and inflation, saving and investment, exchange rate, unemployment, business cycles, IS-LM model, Mundell-Fleming model, policy debates - stabilization, government debt.
+
+## MNG621: Operations Management - I
+- Credits: 4
+- Type: Theory
+- Description: Strategic Role and Objectives of Operations in the Enterprise, Operations Strategy, Process Design, Facilities Planning: Capacity Planning, Location and Layout Planning. Management of Productivity: Work Analysis and Measurement, Work System Design and Improvement, Quality Management.
+
+## MNG622: Corporate Strategy
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Corporate Strategy MODULE 1: Porter-s 5-forces approach:The firm, its environment and Industry structure Competitive advantage MODULE 2: Looking inside the firm:T ypes of Strategies: Market oriented strategic planning versus Emerging strategies The Resource-Based-View MODULE 3: Growing the firm:Growth strategies, Global versus local: Internationalisation Mergers and Acquisitions, Strategic Alliances MODULE 4: Implementation and Governance (optional)
+
+## MNG623: Legal Aspects of Business
+- Credits: 3
+- Type: Theory
+- Description: 1. Introduction to Law: (a) bodies of law; (b) sources of Indian law; (c) structure of courts in India; (d) business torts; and (e) product liability.2. Overview of Contract Law: (a) formation of contracts; (b) performance of contracts; (c) discharge of contracts; and (d) breach of contracts. 3. Overview of Sale of Goods Law4. Overview of Company Law: (a) characteristics of company; (b) types of companies; (c) formation of companies; (d) board of directors; and (e) shareholders and members.5. Overview of Negotiable Instruments Law6. Overview of Intellectual Property Law: (a) rationale for protection of intellectual property; (b) copyrights; (c) patents; (d) trademarks; (e) domain name; (f) geographical indications; and (g) trade secrets.7. Alternate Dispute Resolution (ADR): (a) need for A...
+
+## MNG624: Business Ethics
+- Credits: 3
+- Type: Theory
+
+## MNG625: Cost Accounting and Control
+- Credits: 3
+- Type: Theory
+- Description: Introduction - Scope of Cost Accounting. Cost terms and Concepts, Absorption Costing, Accounting for Direct and Indirect Costs, Activity Based Costing, Methods of Costing, Marginal Costing, BEP and CVP
+
+## MNG629: Technology Design and End To End Innovation -I
+- Credits: 6
+- Type: Theory
+- Description: MGT6xx [No prerequisites] Instructor Approval Required 1.Frameworks on Development  2.Constraints of Emerging Economies 3.Problem Identification 4.Quantitative Research Methods 5.Qualitative Research Methods 6.  Analytical Tools for Problem Solving 7. Innovation and Reverse Innovation
+
+## MNG630: Technology Design and End To End Innovation -II
+- Credits: 6
+- Type: Theory
+- Description: 1.Stakeholder and Constraint-driven Design 2.The Interconnected Nature of Systems 3.Decision--‐making   -at   -the   -BOP    4.  Investment & Institutions in Development 5.Policy Implications For Specific Sectors [Water, Housing, Health, Education, Agriculture, Craft Development, Transportation & Mobility and Energy] 6.Challenges faced by Indian Entrepreneurs 7.Scalability and Commercialisation
+
+## MNG637: Project Management
+- Credits: 6
+- Type: Theory
+- Description: Overview of Project Management; Project Management Concepts and Techniques; Project Cost estimating, Project Planning and Scheduling; Risk Management; Project Implementation and Control; Project Monitoring and Control, Managing Human Resource; Project Leadership; Project Quality, Project Audit and Closure
+
+## MNG639: Technology Strategy Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Practical understanding of key concepts of technological change and formulation of technology strategy through experiments and projects using various technology/IP/Strategy management software tools. Application of decision models / economics of innovation; Technology SWOT; Industry analysis frameworks and Patinformatics
+
+## MNG744: Multivariate Data Analysis
+- Credits: 6
+- Type: Theory
+- Description: Aspects of multivariate analysis, Matrix algebra andrandom vectors, Multivariate normal distribution,Inferences about mean vectors, Multivariate analysis of variance, Multivariate regression, Principal component analysis, Factor analysis, Canonical correlation, Discriminant analysis, Cluster analysis and Graphical procedures.
+
+## MNG792: Communication Skills -II
+- Credits: 4
+
+## MNG802: Statistics for Management Research
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## MNG803: Economics
+- Credits: 6
+- Type: Theory
+
+## SOM601: Communication and Interpersonal Skill
+- Credits: 4
+- Type: Theory
+- Description: This course includes components for self reflection and assessment, interpersonal interactions and groupactivities. Indicative key contents are: Dynamics of values, belief and attitude and behaviour, Emotionalintelligence, Listening skills, Assertiveness, Conflict management, Negotiation skills, Team and group dynamicsCommunications: An Introduction; Meaning, nature and characteristics of communications (art, science andprocess); The communication process, the role of feedback; Objectives and functions of communication; Levelsand types of communication; Essentials of good communication- Seven C302222s of communication; Barriers incommunication; Difference between effective and ineffective communication; Noise in communications; How todevelop good listening skills?Verbal, Non-verbal communi...
+
+## SOM602: Microeconomics
+- Credits: 4
+- Type: Theory
+- Description: Module 1: The Fundamentals of Microeconomics: Goals and Constraints ,The Nature and Importance of Profits, Understanding Incentives, Understanding Markets, Time and Value of Money, Marginal Analysis, Basic Calculus: The Calculus of Optimization. Module 2: Demand and Supply: Demand ,Supply ,Market Equilibrium, Price Ceilings and Price Floors, Comparative Statics: Changes in Demand and Supply, Price Elasticity of Demand, Price Elasticity, Total Revenue, and Marginal Revenue, Factors Affecting Price Elasticity, Cross Price Elasticity, Income Elasticity of Demand, Other Elasticities, Module 3: Theory of Consumer Behaviour: Choice and Utility Theory, Law of Diminishing marginal utility, Consumer Equilibrium, Indifference curve Analysis, Consumer Surplus, Substitution and Income Effects. Module ...
+
+## SOM603: Fundamentals of Financial and Managerial Accounting
+- Credits: 4
+- Type: Theory
+- Description: Introduction - Scope of Financial, Cost and Managerial Accounting. Accounting Principles - GAAP, AS, IFRS. Accounting Mechanics. Balance Sheet, and Income Statement. Cash flow Statement.Ethical Issues in Accounting. Cost terms and Concepts, Marginal Costing, CVP, BEP Analysis, Budgeting, Standard Costing.
+
+## SOM604: Marketing Management - I
+- Credits: 4
+- Type: Theory
+- Description: Market Orientation, Marketing Framework (5C-s and 4P-s), Delivering Customer Value and Satisfaction, Developing New Market Offerings Consumer Markets & Business Markets, Segmentation, Targeting & Positioning Product Levels, Product Life Cycle (PLC) and Product Mix, Branding, Pricing, Promotions (Advertising, Sales Promotions, Direct Marketing, Personal Selling, Public Relations), Online Marketing & Social Media, Market Research
+
+## SOM605: Statistical Methods
+- Credits: 4
+- Type: Theory
+- Description: Probability, Random Variables, Probability Distributions, Sampling Distributions, Estimation, Testing of Hypotheses, Chi Square Tests, Regression, Analysis of Variance.
+
+## SOM606: Corporate Finance - I
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Financial Management & Financial System,-Financial Performance Analysis-Funds Flow and Cash Flow Statements-Leverages: financial, operating and total-Financial Planning and Forecasting- Working Capital Management: working capital policy-cash management-credit management-inventory management-working capital financing policy
+
+## SOM607: Macroeconomics
+- Credits: 4
+- Type: Theory
+- Description: Measuring economic activity, National income, money and inflation, saving and investment, exchange rate, unemployment, business cycles, IS-LM model, Mundell-Fleming model, policy debates - stabilization, government debt.
+
+## SOM608: Decision Models in Management
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Linear Programming, Duality and Sensitivity Analysis, Transportation and Assignment Problems, Constrained Optimization, Goal Programming, Integer Programming, Dynamic Programming. Decision Making under Risk and Uncertainty, Analytic Hierarchy Process, Game Theory, Simulation, Multi- objective Optimization for Industrial Applications.
+
+## SOM609: Information Systems
+- Credits: 4
+- Type: Theory
+- Description: Introduction and foundations of information systems Why information systems? role they play in the organizations IT Infrastructures Emerging technologies: SMAC (Social, Mobile, Analytics and Cloud), knowledge automation and artificial intelligence Database management systems and contemporary data management technologies Enterprise systems e-Businesses and eCommerce Security, social and ethical issues in information systems
+
+## SOM610: Marketing Management - II
+- Credits: 4
+- Type: Theory
+- Description: Marketing Strategy, Environment & marketing decision-making, Strategies for Markets in different phases (Entry, growth, and maturity), Marketing Information System, Sales and Demand Forecasting, Introduction to Marketing Models and analytics. Analysis of practical marketing problems related to products, prices, channels and communication strategies. Relationship Marketing Issues, Services Marketing. Organization of marketing, Implementation Issues, Marketing Metrics.
+
+## SOM611: Operations Management - I
+- Credits: 4
+- Type: Theory
+- Description: Strategic Role and Objectives of Operations in the Enterprise, Operations Strategy, Process Design, Facilities Planning: Capacity Planning, Location and Layout Planning. Management of Productivity: Work Analysis and Measurement, Work System Design and Improvement, Quality Management.
+
+## SOM612: Business Research Methods
+- Credits: 4
+- Type: Theory
+- Description: Perceptions and attribution, Attitude, values, Motivation, Understanding personality, Groups and Teams, Leadership, Organization culture and climate
+
+## SOM613: Corporate Finance - II
+- Credits: 4
+- Type: Theory
+- Description: Valuation of stocks and bonds, portfolio theory, asset pricing models, cost of capital, market efficiency, options and futures, capital structure, dividend policy, leasing, mergers and acquisitions.
+
+## SOM614: Organization Behavior & Human Resources I
+- Credits: 4
+- Type: Theory
+- Description: Perceptions and attribution, Attitude, values, Motivation, Understanding personality, Groups and Teams, Leadership, Organization culture and climate
+
+## SOM615: Operations Management II
+- Credits: 4
+- Type: Theory
+- Description: Operations Planning and Control Systems for Discrete and Continuous Manufacturing. Demand Forecasting; Inventory Management of Independent Demand Items; Manufacturing Resources Planning (MRP II): Sales and Operations Planning. Master Production Scheduling, Materials Requirement Planning (MRP), Production Activity Control Systems, Personnel Scheduling Systems; Just-in-Time and Theory of Constraints
+
+## SOM616: Technology Management
+- Credits: 4
+- Type: Theory
+- Description: Foundations Need, definitions of technology, innovation and management of technology (MOT) for competitiveness; Key MOT sub-processes for value creation; Integrating technology and business strategy, Strategy concept, views, process; Strategy and technology linkages for competitiveness: technological capabilities, gaps, capability building through alternate routes; Technology intelligence, audit; Formulating and implementing technology strategy Reviewing and evolving organizations strategic direction; Acquisition and exploitation of technology; Cooperative strategies: strategic alliances; Organizing for innovation: new technology / product development process, idea management system, managing teams;
+
+## SOM617: Corporate Strategy
+- Credits: 4
+- Type: Theory
+- Description: Introduction to Corporate Strategy MODULE 1: Porter-s 5-forces approach:The firm, its environment and Industry structure Competitive advantage MODULE 2: Looking inside the firm:T ypes of Strategies: Market oriented strategic planning versus Emerging strategies T HE R ESOURCE -B ASED -V IEW MODULE 3: G ROWING THE FIRM :G ROWTH STRATEGIES , G LOBAL VERSUS LOCAL : I NTERNATIONALISATION M ERGERS AND A CQUISITIONS , S TRATEGIC A LLIANCES MODULE 4: Implementation and Governance (optional)
+
+## SOM618: Organization Behavior & Human Resources II
+- Credits: 4
+- Type: Theory
+- Prerequisite: .0
+- Description: Introduction to HRM, HR Metrics, Job Analysis, Human resource planning and recruiting, EmployeeTesting and Selection ,Training and Developing Employees, Talent management, Performance Appraisaland Management , Managing Career, Establishing Strategic Pay Plans, Pay for Performance and FinancialIncentives, Emerging themes in HRM
+
+## SOM619: Corporate Governance and Business Ethics
+- Credits: 4
+- Type: Theory
+- Description: Corporate Governance: Evolution, Principles and Guidelines, Approaches and school of thoughts in ethics, Ethical issues in marketing, Human resource management, Globalization
+
+## SOM620: Business and Sustainable Development
+- Credits: 3
+- Type: Theory
+- Description: Corporate Governance: Evolution, Principles and Guidelines, Approaches and school of thoughts in ethics, Ethical issues in marketing, Human resource management, Globalization
+
+## SOM621: Legal Aspects of Business
+- Credits: 4
+- Type: Theory
+- Description: x
+
+## SOM625: Summer Project Work
+- Credits: 2
+- Description: Summer Project
+
+## SOM626: Advanced Planning and Scheduling
+- Credits: 3
+- Type: Theory
+- Description: economic lot sizing models, sequence dependent set up cost optimization, KANBAN systems, integer programs for single machine scheduling, sequencing of product families, job shop scheduling: disjunctive and constraint programming models, active and non delay schedules, paced assembly line scheduling, flexible flow shop scheduling, stochastic scheduling.
+
+## SOM627: Patterns of Entrepreneurship
+- Credits: 3
+- Type: Theory
+- Description: India is witnessing a surge in entrepreneurial activity over the last two decades, especially in knowledge- intensive and technology sectors. This course will bring out various aspects of this phenomenon through case studies of several entrepreneurs who have successfully created new ventures.
+
+## SOM628: Leadership and Vision
+- Credits: 3
+- Type: Theory
+- Description: Leadership and wholesome view of life and business, Different approaches of leadership, Appreciative self inquiry of leadership strengths, Role of Emotional intelligence in leadership. (This course is offered with Leadership Lecture Series)
+
+## SOM629: Technology Design and End to End Innovation- I
+- Credits: 6
+- Type: Theory
+- Description: 1. Frameworks on Development2. Constraints of Emerging Economies3. Problem Identification4. Quantitative Research Methods5. Qualitative Research Methods6. Analytical Tools for Problem SolvingInnovation and Reverse Innovation
+
+## SOM630: Technology Design and End to End Innovation- II
+- Credits: 6
+- Type: Theory
+- Description: 1. Stakeholder and Constraint-driven Design2. The Interconnected Nature of Systems3. Decision-- ‐ making at the BOP4. Investment & Institutions in Development5. Policy Implications For Specific Sectors [Water, Housing, Health, Education, Agriculture, CraftDevelopment, Transportation & Mobility and Energy]6. Challenges faced by Indian Entrepreneurs7. Scalability and Commercialisation
+
+## SOM631: Game Theory for Business Decisions
+- Credits: 3
+- Type: Theory
+- Description: Introduction - Strategic Behaviour, Game Theory and Type of Games (Games of Skill, Games of Chance, Games of Strategy) Games of Skill and Games of Chance (involving risk and uncertainty) - Theory and Applications Static Games of Complete Information - Normal-Form Games, Iterated Elimination of Strictly Dominated Strategies, Nash Equilibrium and Applications; Mixed Strategies, Existence of Equilibrium and Applications Dynamic Games of Complete Information - Dynamic Games of Complete and Perfect Information, Theory (Backwards Induction) and Applications; Two-stage Games of Complete but Imperfect Information; Repeated Games; Dynamic Games of Complete but Imperfect Information Games of Incomplete Information - Brief Introduction Zero Sum Games and Mixed Motive Games of Strategy Multi-person Ga...
+
+## SOM632: Lean Management
+- Credits: 3
+- Type: Theory
+- Description: An introduction to lean thinking; Understanding the concept of Muda, Mura, Muri (Waste, Unevenness, Overburden); Value Stream Mapping and Other mapping techniques; The importance of Standard Work; Kaizen and Learning; Quality; Organizing the workplace; Scheduling to Customer Demand; Developing a Lean methodology for the Service sector; The difficult relationship between Lean and IT; Lean Leadership; Accounting for Lean
+
+## SOM633: Quality Management
+- Credits: 3
+- Type: Theory
+- Description: Evolution of Quality Management; Concepts of Product and Service Quality; Dimensions of Quality; PDCA Cycle. Deming, Juran-s, Crosby, TQM Philosophy ; 7 QC tools; Statistical Control charts- for attributes and variables characteristics; Process capability analysis; Acceptance sampling and inspection plan; Measurement System Analysis; ANOVA; Multiple Linear Regression; Basic concept on Design of Experiment (DOE) ; Factorial Design; Six Sigma Quality; QS 9000 and ISO 9000-2008; Taguchi-s Method; QFD; Reliability Cases and Project Component.
+
+## SOM634: Purchasing and Supply Management
+- Credits: 3
+- Type: Theory
+- Description: Purchasing and Supply Management (PSM) Concepts, Staging Policies and PSM. Strategic sourcing: Make or buy decisions, Purchasing process, Purchase negotiations, Ethics in purchasing, Legal aspects in purchasing, EDI and e-sourcing, Vendor development and evaluation, Vendor managed inventory (VMI), Buyer supplier relationships, Vendor performance measurement, Procurement of capital equipment, Purchasing services Supplier certification, Spare parts management, Performance measures, Purchasing functionality in ERP. Material storage, Safety and security aspects, Obsolescence, Scrape disposal, Material handling. New Product Development, Standardization, Value analysis, Lean / JIT principles in PSM.
+
+## SOM635: Operations Strategy
+- Credits: 3
+- Type: Theory
+- Description: Concept and Principles of Operations Strategy Strategic role of operations function, Different perspectives of operations strategy, Linking operations strategy to business strategy, Content and process of operations strategy, Competitive priorities, Trade-offs and foc Key Elements and Decision Categories in an Operations Strategy Capacity, Supply Network, Process Technology, Planning and Materials, Facilities, and Organization & Human Resources. Operations Strategy Formulation and Implementation Models for operations strategy formulation, Introduction to different approaches to competition e.g. competing on costs, competing on quality, competing on features and innovativeness, competing on availability and time-based strategies such as postponement, impacts of flexibility on strategic choi...
+
+## SOM636: Innovation Management
+- Credits: 3
+- Type: Theory
+- Description: Key concepts: The innovation activity, Types of innovations: Product, Process and system innovations, Business model innovation, Organizational / Open / Collaborative / User Innovation, Incremental and Radical innovation, Reverse Innovation, Designing Innovation Strategy, Understanding Innovation Process, Technological infrastructure and systems, Commercialization requisites, Funding Mechanism and venture capital, Innovation and Leadership. Tools for enhancing innovation: Customer Value Proposition, Price-cost-value, hidden costs, trade-offs, free-lunch productivity Innovation and R&D Management in firms, Organizing for innovation: incentives, Networking inside and outside the firm, Assessment of Innovation: measuring Innovativeness of the firm, IP and Innovation.
+
+## SOM637: Project Management
+- Credits: 6
+- Type: Theory
+- Description: Overview of Project Management; Project Management Concepts and Techniques; Project Cost estimating, Project Planning and Scheduling; Risk Management; Project Implementation and Control; Project Monitoring and Control, Managing Human Resource; Project Leadership; Project Quality, Project Audit and Closure
+
+## SOM638: Innovation and Sustainability Lab
+- Credits: 3
+- Type: Theory
+- Description: Practical understanding of key concepts such as strategy, innovation, sustainability, excellence and competitiveness through experiments and projects. Experiments on life cycle analysis, system dynamic models and their applications to organizations. Applications of concepts of footprints (e.g. carbon, ecological) and practices in real life.
+
+## SOM639: Technology Strategy Lab
+- Credits: 3
+- Type: Theory
+- Description: Practical understanding of key concepts of technological change and formulation of technology strategy through experiments and projects using various technology/IP/Strategy management software tools. Application of decision models / economics of innovation; Technology SWOT; Industry analysis frameworks and Patinformatics.
+
+## SOM640: Service Operations Management
+- Credits: 3
+- Type: Theory
+- Description: Introduction, Service Concept, Customer & Relationships, Expectations & satisfactions. Managing supply relationships. Service Processes, Capacity and People. Performance Measurement. Service Strategy & Culture
+
+## SOM641: Technology Forecasting and Assessment
+- Credits: 6
+- Type: Theory
+- Description: Technology Assessment Technology in social context. Components; Problems definition, Description, Social description. Impact identification, Measures, Assessment. Strategies for assessment, Bounding of assessment. Impact analysis, Economic impact analysis. Qualitative and quantitative facets. Assessment of risks and uncertainty. Safety and environment regulations. Critiques. Technology Forecasting and Foresight Forecasting to support technology assessment and planning. Elements of a forecasting process. Forecasting techniques based on time series models, envelope curves and experience curves. Technical assessment, Delphi method, Qualitative techniques based on morphological analysis and technological gap analysis. Organizing for Technology Forecasting. Technology Foresight: concept and pra...
+
+## SOM642: Business Forecasting
+- Credits: 3
+- Type: Theory
+- Description: A review of probability and statistics. Simple and multiple regression. Multicollinearity, heteroscedasticity, autocorrelation, model specification, dummy variables, instrumental variables, causality and feedback, simultaneous equation models. Stationery and non-stationery time series. Linear and non-linear forecasting techniques. Application to business forecasting problem such as: exchange rates, stock prices, interest rates. Macro economic modeling. Estimating industry supply and demand. Use of software packages SPSS/SAS
+
+## SOM644: Managerial Decision Making under Risk and Uncertainty
+- Credits: 6
+- Type: Theory
+- Description: Definition of Risk, Methods of Risk Analysis, Event Trees, Fault Trees, Probabilistic Risk Assessment (PRA), Probability Models, Bayesian Techniques, Probabilistic Representation of Uncertainty, Subjective (Bayesian) and Frequentist Approaches, Reliability. Fuzzy sets in managerial decision-making, Simulation Techniques for Uncertainty Propagation, Monte Carlo, Latin Hypercube and Importance Sampling, Response Surface Methods. Uncertainty in a Decision-Theoretic Context, Value of Perfect and Partial Information. Utility function, Case study and applications. Risk analysis in Financial Planning, Game theoretic approach in Marketing, Uncertainty in Retail Supply Chain.
+
+## SOM645: Logistics and Supply Chain Management
+- Credits: 3
+- Type: Theory
+- Description: Supply chain performance measures, advance inventory management models, multi echelon inventory system, transport mode selection, vehicle routing and scheduling, lean, green and agile supply chains, supply chain contracts, network design, revenue management
+
+## SOM646: Business Dynamics Modeling and Simulation
+- Credits: 3
+- Type: Theory
+- Description: Introduction: Industrial dynamics perspective, Decision process as viewed and modeled in industrial dynamics, System thinking and the building of computer simulation of complex systems. Monte Carlo. Data collection and Analysis. Concepts in model construction: Industrial systems and their counterintuitive behavior, Causal-loop and stock-flow diagrams, Material and information delay. Conducting a complete modeling study: Planning and conceptualizing the study, Gathering data, Model formulations, Software development and simulation, Model validation and policy design, Presentation to management. Case study and Applications: Supply chain design and planning, Corporate life cycle, Scheduling of large scale projects, Strategic Financial Planning, Dynamics of growth from diffusion, Modeling of p...
+
+## SOM647: Innovation and Entrepreneurship
+- Credits: 6
+- Type: Theory
+- Description: The phenomenon of innovation; Role of innovation in business and society; Sources of innovation; National Innovation System; Creativity; Development of creative solutions; Evolution of entrepreneurship; Impact of entrepreneurship; Concept of creative destruction; Generation of new business ideas; Converting an idea into a business opportunity; Transforming an opportunity into a new enterprise; Entrepreneurship as a nexus of valuable opportunity and enterprising individuals; Formulating a business based on an innovative product/process; Assessing the feasibility of an entrepreneurial venture
+
+## SOM648: Simulation of Business Systems
+- Credits: 6
+- Type: Theory
+- Description: Introduction to the application of simulation modeling for the analysis of complex industrial and manufacturing service systems. Simulation Philosophy and Methodologies, Random number Generation, Input and output analysis for simulation, Simulation using Spreadsheets, Simulation Languages, Animation, Design and Execution of Simulation Experiments, What-If Scenarios. Evaluation and Application Case Studies in Manufacturing, Supply Chain, Project Scheduling, Financial Analysis, Marketing, and Capital Budgeting. System Dynamic Models and their Corporate Applications.
+
+## SOM649: Corporate Competitiveness
+- Credits: 3
+- Type: Theory
+- Description: Competitiveness concept: need, views, definitions; Competitiveness across levels: product/service, firm, industry, network, cluster; Frameworks/models of competitiveness, Competitiveness Assets-Processes- Performance (APP) framework; Evaluating competitiveness: factors, criteria, Benchmarking; Sources of competitiveness; Business excellence concept, models & practices; Enhancing competitiveness Corporate competitiveness: Need, issues; Role of business group to enhance competitiveness; role and types of corporate center models; Top management teams and their characterisrtics; Learning from keiretsu and Chaebols
+
+## SOM650: Mergers, Acquisitions and Business Valuation
+- Credits: 3
+- Type: Theory
+- Description: Mergers-concepts and strategic perspectives ; Theories of Mergers and Acquisitions; Timing of Merger Activity; Evaluation of M&As; Process of M & A; Valuation of M & A deal including Enterprise Value, Statutory regulations, taxation aspects, LBOs, Due diligence, Capital restructuring, strategies and value creation , analysis of real life cases
+
+## SOM651: International Finance
+- Credits: 3
+- Type: Theory
+- Description: International Balance of Payments & Exchange Rates. Exchange Rate Determination. Structure of the Foreign Exchange Market. Purchasing Power & Interest Parity. Exchange Rate Forecasting. Foreign Exchange Risk Management. International Cash Management. Understanding Swaps. Investing in Foreign Operations. International Capital Budgeting. Managing Country/Political Risk. Tapping International Equity and Bond Markets. International Portfolio Diversification. Foreign Direct Investment, International Financial System.
+
+## SOM652: Indian Financial and Business Model
+- Credits: 3
+- Type: Theory
+- Description: Strategic role of financial instruments and their impact on savings and consumption, the consumption and savings model, risk capital formation, family finances, privatised social security, contrasting and comparing budget-led, market-led and bank-led models, the role of housing sector in national economic model, social capital in the Global and Indian context.
+
+## SOM653: Security Analysis and Portfolio Management
+- Credits: 3
+- Type: Theory
+- Description: Financial system, Securities markets, valuation of equity and debt securities, efficient market hypothesis, fundamental analysis, technical analysis, portfolio theory, asset pricing models, trading strategies, portfolio performance evaluation, issues in regulation of securities markets.
+
+## SOM654: Fixed Income Securities
+- Credits: 3
+- Type: Theory
+- Description: Corporate bonds, floating rate bonds, credit rating, Securitisation, MBS and CMOs, Bond Portfolio Management, Interest Rate Futures, Interest Rate swaps and options, CDS, CDO, Fixed income markets in India.
+
+## SOM655: Derivatives and Risk Management
+- Credits: 3
+- Type: Theory
+- Description: Options and futures, hedging with futures and basis risk, stock index futures, interest rate futures, swaps, binomial option pricing, Black - Scholes option pricing, trading strategies, synthetic options and portfolio insurance, interest rate options, risk management, market risk measurement and applications, measuring credit risk, and issues in regulation of derivatives.
+
+## SOM656: Management Control Systems
+- Credits: 3
+- Type: Theory
+- Description: Strategic Planning and Management Control, Operational Control. Responsibility Centres and Profit Centres, Identification of Profit Centres, Creation of Profit Centres, Profit Centres as Control Systems, Decentralisation and Profit Centres, Mechanics of Determining Profit Objectives of Profit Centres. Problems and Perspectives of Transfer Pricing. Determining Divisional Goals in a Multi - Divisional Company. Problems of Growth and Corporate Control. Financial Goal Setting, Responsibility Budgeting, MBO, Human Problems with Budgets, Zero Based Budgeting. Manufacturing Control, Marketing Control, R&D Control, Project Control, Administrative Control Etc. Management Audit.
+
+## SOM657: Strategic Financial Management
+- Credits: 3
+- Type: Theory
+- Description: Strategy and financing policy- Role of cost of capital in linking asset liability sides of business - Financing mature companies-Financing high growth companies - Firms in financial difficulty-Managing mismatches in the balance sheet-Raising funds from the markets: Choices and decision variables- Earnings distribution policy-Financial strategy-Corporate strategy and financial policy.
+
+## SOM661: Advertising and Media Management
+- Credits: 3
+- Type: Theory
+- Description: The Communication Process - Theory and Concepts, Models, Mass Media - Theory and Models Visual Communications, Integrated Marketing Communications - Introduction, The Marketing Communications Environment and PEST Framework (Macro and Micro), Marketing Communications as a Strategic Function-STRATEGIC Brand Contacts Attitudes Formation and Change: Power, Patronage and Persuasion, Advertising Management. Analyze, design, and evaluate various advertising decisions. Importance of customer insight as a basis for creating coherence between target and position. Research for advertising strategy development. Selecting target for advertising and developing an effective brand position. Determining the advertising budget. Role of the advertising agency. Creative strategy. Media Strategy. Media Managem...
+
+## SOM662: Customer Relationship Management
+- Credits: 3
+- Type: Theory
+- Description: Emerging business environment and the CRM context Overview of Consumer Behaviour Models (B2C and B2B) Customer Satisfaction and CRM Setting goals for a CRM program (Customer life-cycle management, customer life-cycle value) Customer acquisition and retention Identifying target customers for a CRM program Differentiating customers Interact and customize (role of social media, call centers, online tools) CRM and Integrated Marketing Communications (Churn Management) The role of Technology in CRM Why CRM initiatives fail? CRM in India - career opportunities for marketers and IT professionals Overview of CRM Softwares
+
+## SOM663: Brand Management
+- Credits: 3
+- Type: Theory
+- Description: Branding Concepts, Principles, and Strategies to Manage Brands. The Brand Architecture. Brand Audit. Core Brand Values, Segmentation Issues in Branding. Developing a Brand, Strong and Weak Brands. Consumer Encoding and Retrieval of Brand Information. Managing a brand over time. Creating and Managing Brand Personality. Brand and Line Extensions, Impact of Extensions on Parent Brand. Sub- Branding. Brand Positioning, Repositioning. Revitalizing Brands. Brand portfolio strategies. Leveraging the brand. Corporate branding. High-Tech Branding. Brand Equity and different models like Consumer Based Brand Equity [CBBE] Measuring brand equity, Payoffs from Brand Equity. Brand Loyalty. Retro-Branding, Capitalizing on a Brand Heritage. Brand Leadership, Brand Essence, Creating a Brand Wheel. Issues i...
+
+## SOM664: Business to Business Marketing
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Business Markets. Characteristics of Business markets. Nature of Business buyer. Industrial buying behavior. Understanding Firms as Customers. Need identification for industrial and other institutional buyers. Forces affecting Business demand. Market Sensing, Identifying and evaluating industrial marketing opportunities. Crafting Market Strategy. Managing Market Offerings. Integrative Marketing Decisions. New Offering Realization. Forecasting Demand for New Products. Business Channel Management. Gaining Customers. Sustaining Reseller Partnerships. Sustaining Customer Relationships, Managing Customer Satisfaction and Customer Loyalty. Analytical tools in business marketing to measure and manage the productivity of marketing efforts.
+
+## SOM665: Consumer Behaviour
+- Credits: 3
+- Type: Theory
+- Description: Consumer Behavior & Marketing Strategy, Understanding concepts of Consumption , Model of Consumer Decision Making; Understanding & Application of concepts:-Consumer Motivation & Goals; Consumer Perception, Learning & Memory, Personality, Self-Concept & Lifestyle, Brand Personality, Consumer Attitude formation and change, Consumer Behaviour & Communication, Involvement theory and persuasive communication. Impact of Reference Group, family influences & social class on consumption behavior, Innovation Diffusion and Adoption and opinion leadership. Impact of Culture, Sub culture & Cross culture: Values on consumption. Enculturation and acculturation, Measurement tools- Value Measurement Survey Instruments. Contemporary issues in consumer behavior - neuromarketing
+
+## SOM666: Product Management
+- Credits: 3
+- Type: Theory
+- Description: Product Management: Introduction, Corporate strategy and product planning, Product characteristics- levels, classification, differentiation. Defining competitive set, Category Attractiveness analysis, Competitor Analysis, Customer Analysis. Product hierarchy-product mix, product line decisions. Developing Product Strategy. Product Life Cycle and marketing strategies, Utility & Critique of PLC concept. Marketing approach and developing a strategy to introduce new products New Product Development: Overview, Idea generation, screening, design process, market testing, and commercialization aspects. Developing a product plan and product mix, Pricing strategies.
+
+## SOM667: Marketing Research
+- Credits: 3
+- Type: Theory
+- Description: Introduction to MR; Basic research designs issues Qualitative research techniques in MR Content Analysis, Focus Group Discussions, ZMET and others Quantitative research techniques (Using SPSS) Survey Research; Experimental Research; ANOVA and MANOVA Multivariate Analysis tools and application to marketing research: Multiple Regression, Factor Analysis, Discriminant Analysis, Logistic Regression, Cluster Analysis, Conjoint Analysis, Perceptual Mapping
+
+## SOM668: Services Marketing
+- Credits: 3
+- Type: Theory
+- Description: Selling and Salesmanship - Selling perspective and techniques. Account penetration. Lead generation. Objection identification and handling. Handling retailers and key customers. Strategic and tactical aspects of sales force management. Determining Sales related policies. Setting objectives for personal selling. Formulating strategy. Role and Characteristics of Effective Sales Executives. Managing Sales Department Relations. Structuring a sales force. Managing people - recruitment, selection, training of sales personnel. Leading, motivating, controlling the sales force. Sales budget, quota, territories. Control and Cost Analysis. Designing a compensation plan. International Sales Management. Distribution channels - structure, functions and relationships. Construction of Effective and effici...
+
+## SOM669: International Marketing
+- Credits: 3
+- Type: Theory
+- Description: Identify, analyze, and resolve strategic international marketing problems. Application of marketing principles in foreign markets. Identification and evaluation of opportunities in foreign markets. Formulate, implement, and evaluate international marketing strategies at the level of the business unit for international market entry, expansion, and global rationalization. Decisions regarding international marketing objectives, strategies and policies. Foreign market selection. Adaptation of products. Channels of communications to fit each foreign market. Effect of culture on the psychological and social dimensions of consumer behaviour in International Marketing`. International branding, communication, distribution, and pricing issues. Analyzing organizational structures for international ma...
+
+## SOM670: Management of New Ventures
+- Credits: 6
+- Type: Theory
+- Description: Concept of New Ventures: New Venture Management; Environmental Framework for New Ventures; Issues in Managing on Different Fronts Simultaneously: Project Execution and Cost Control; New Product Development: Product and Process Technologies; Assessment of Project Feasibility; Launching the New Venture: Organizing Resources and Raising Capital; Marketing of High Technology Products and Services: Constraints and Successful Strategies in Practice; Role of Networking and Social Capital in Setting Up New Ventures; Business Plan: Preparation and Assessment; Harvesting and Exiting the New Venture; Social Entrepreneurship; Formulation of a New Venture.
+
+## SOM671: International Competitiveness
+- Credits: 6
+- Type: Theory
+- Description: Competitiveness concept: need, views, definitions; Competitiveness across levels: product/service, firm,industry; Frameworks/models of competitiveness, Competitiveness Assets-Processes-Performance(APP) framework; Industry analysis, Diamond model and extensions; Industry value system analysis ;Evaluating competitiveness: factors, criteria, Benchmarking; Sources of competitiveness;Business excellence concept, models & practices; Enhancing competitiveness, identifying drivers, countrycompetitiveness
+
+## SOM672: Performance Evaluation and Management System
+- Credits: 3
+- Type: Theory
+- Description: Performance management skills-I (Coaching, Mentoring) PMS in the context of role of HR function, Performance Management Process, Creating a Robust Performance Management System, Approaches of measuring performance-I, Developing performance appraisal formats, Balance Scorecard Approach of performance management, Implementing PMS, Training programs for the acquisition of required skills, performance review discussion, Performance appraisal
+
+## SOM673: Managerial Effectiveness Skills
+- Credits: 3
+- Type: Theory
+- Description: Dimensions of Managerial Effectiveness, Skills for Professional Manager - Technical and Managerial, Tasks and Roles of Effective Manager, Interpersonal Relationship, Competence, Managerial Styles, Team Building, Developing Subordinates, Communication Skills, Problem Solving And Conflict Management, Management of Time. Negotiation Skills.
+
+## SOM674: Environmental Management
+- Credits: 3
+- Type: Theory
+- Description: Linkages between human activities and the environment, manner in which business affect and are affected by environmental issues. Techniques for evaluating the impact of business activities on the Environment, including Life-Cycle Analysis (LCA), Economic Input-Output Models and approaches such as Environmental Impact Assessment (EIA) and Environmental Audits. Elements of Environmental Policy and Management: including the Role and Design of Policy Instruments and Regulations, and the Role and Design of Environmental Management Systems within firms. Recent approaches towards Environmental Management and Regulation such as Taxes, Subsidies and Tradable Permits. Implications of International Standards such as ISO 14000. Clean Technology as a source of Competitive Advantage.
+
+## SOM675: Organization Theory and Design
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Organizational Theory, Organizing in a Changing Global Environment, Organizational Design: Designing Organizational Structure: Authority and Control, Organizations Specialization and Coordination, Creating and Managing Organizational Culture, Organizational Design and Strategy in a Changing Global Environment, Organizational Design and Technology
+
+## SOM676: Infrastructure Development and Financing
+- Credits: 3
+- Type: Theory
+- Description: Overview of Current Scenario: Privatization of Infrastructure: Issues and Experiences, The Economics of Infrastructure, Regulation, Network Economics and Technical Change; Issues and challenges in Power, Telecommunications, Transportation sector and port and shipping Financing and Regulation: Project Appraisal, Risk Management, Financial Restructuring and Capital Market Reforms Sector Case Studies (Indian and International Experience): Power, Telecom and Transport - Road, Rail inistration/Political Processes, Regulatory Issues, Pricing/Demand Estimation/Value Added Services and Financial Engineering
+
+## SOM677: Management of Change
+- Credits: 3
+- Type: Theory
+- Description: Integrative view of Organizations and change ,Change readiness of organization, Diagnosing organization, Different approaches of managing/leading change ,Human process intervention, Team based change interventions, Organizational nuances of bringing major technological changes such as ERP, new technology platform etc, Managing change in operations, Change in Technology, Technostructural interventions of change, (Restructuring organizations), Changing culture, Managing business growth, Organization wide OD initiatives
+
+## SOM678: Policy Responses to Climate Change
+- Credits: 6
+- Type: Theory
+- Description: Overview of climate change What is Climate Change, Causes and consequences of climate change, Key economic issues related to drivers and impacts Mitigation: Concepts and Approaches Introduction to mitigation of GHGs and stabilization scenarios; Characteristics of mitigation in regional and national context; Long term and short term mitigation options; Technical, economic and market potentials; Top-down and bottom-up modeling of mitigation costs; Economic policies and their effects on the costs and benefits of mitigation; Sector-specific options in end-use and supply-side; Policy design and mechanisms - market-based approaches, regulatory approaches, other mechanisms (including information measures and voluntary approaches); National policies and actions (NAPCC and mitigation-related missio...
+
+## SOM679: Competitiveness for Sustainable Enterprise
+- Credits: 6
+- Type: Theory
+- Description: Context and concept of Competitiveness and sustainability: Introduction: Context, concepts, business sustainability, need, dimensions, views; Competitiveness levels and definitions; Frameworks / models: Diamond, Extensions, Competitiveness Assets-Processes- Performance (APP); Defining and Evaluating competitiveness: factors, criteria, benchmarking; Sources of competitiveness: Manufacturing competitiveness; Enhancing competitiveness: identifying drivers and enablers, strategy; Strategy deployment; Microeconomics of competitiveness Sustainability enterprises Tripple Bottom Line, Visionary companies, BHAGs; Business/organizational excellence (BE/OE), BE models; Execution and organizational excellence; Technological and Eco-innovation; emerging perspectives: dynamic capabilities, flexibility, ...
+
+## SOM680: Managing Intellectual Property
+- Credits: 3
+- Type: Theory
+- Description: Intellectual Property in the Global Economy; Overview of Intellectual Property in India: Legislation, Policies and Enforcement; Managing Patents: Patent Invention, Patent Protection and Patent Exploitation, Understanding Utility, Novelty and Originality. Managing Copyrights: Importance of Authorship, Fair Use, Public Domain, Piracy and the Digital Challenge; Patents and Indian Industries: Pharmaceutical, Seeds, Chemicals, Software and Engineering; Copyrights and Indian Industries: Music, Entertainment, Software and Publishing. Intellectual Property and Technology Transfer Management of Trademarks, Geographical Indicators and Traditional Knowledge.
+
+## SOM681: Historical and Contemporary Perspectives in International Business
+- Credits: 3
+- Type: Theory
+- Description: Managing International Business; Current Trends in Globalisation and Trade: Approaching Global Markets, Aspects of protection and the WTO; Going Global From India and The Global Indian; Entrepreneurship in Developing Countries; Pitfalls in International Business; Navigating the International Financial System for Global Growth: International Financial System and The Role of Information and Judgment in Capital Flows.
+
+## SOM682: Applied Industrial Organization
+- Credits: 6
+- Type: Theory
+- Description: Different market structures, cartels, multi-plant monopoly, locational choice, mergers, entry deterrent behavior, R&D, Advertising, standards, principal-agent problem, regulating a firm.
+
+## SOM683: Managing with New Business Models in a Knowledge Economy
+- Credits: 3
+- Type: Theory
+- Description: Emergence of a new global knowledge economy; Policy implications of global trade in digital services andproducts; Importance of digital oriented capitalism; Managing copyright in the global economy; Impact ofnew digital legislation; Use of digital rights management in business models; Proprietary, open and newbusiness models for knowledge based industries.
+
+## SOM684: Aviation Business Strategies
+- Credits: 3
+- Type: Theory
+- Description: Strategic management issues regarding competition in air traffic, Understanding the dynamics in the industry of air transport., Models, concepts and frameworks and their theoretical grounding in the domain of industrial organization and/or strategic management, Different airline business models, their respective suitability for given market situations as well as feed-back from actors in the industry, The assessment of competitive dynamics in the increasingly market-driven development of air transport.
+
+## SOM685: Managing International Business and Policy
+- Credits: 3
+- Type: Theory
+- Description: The International Business Imperative: Economies in Transition, Economic Integration; National Trade and Investment Policies; International Business Entry; Multinational Corporations. Strategies for Globalization. The Global Strategic Frameworks, Management of International Business. Global Strategic Planning. Prospects and Problems for Globalization of Indian Firms. GATT and Multilateral trade. India-s Role in GATT. Growth of Neo Liberalism. General Overview of WTO Agreement. Dispute Settlement Process, Quantitative Restrictions, Sanitary and Phyto-sanitary Measures, technical Barriers to Trade in Goods in Relation to India, WTO Trade in Services in Relation to India, Trade Related Intellectual Property Rights and India: product and process Patents, Impact of WTO on Indian Agriculture, Im...
+
+## SOM686: Strategic Transformation
+- Credits: 3
+- Type: Theory
+- Description: Corporate Success and Transformation Imperative Corporate performance parameters, aspects and perspectives. Characteristics of high performing organisations. Concepts of fit and configuration. Incremental change and strategy adaptation. Transformation and change in strategy. External and internal imperatives for strategy change. Proactive and reactive stances to strategy change. Conceptualisation of New Strategy and Organisational Design Assessment of the need for strategic transformation. Development of strategy options. Types of organisation designs. Evaluation of options in terms of market, financial and organisational risks. Design of organisation that aligns with the new strategy. Path, in terms of the sequence and schedule of business and organisational initiatives, for realise strat...
+
+## SOM687: WTO and Indian Business
+- Credits: 3
+- Type: Theory
+- Description: Pre-GATT Bilateral Trade, GATT and Multilateral trade, Evolution of GATT, India-s Role in GATT, Growth of Neo Liberalism, Transformation of GATT into WTO, General Overview of WTO Agreement, Dispute Settlement Process, Quantitative Restrictions, Sanitary and Phyto-sanitary Measures, technical Barriers to Trade in Goods in Relation to India, WTO Trade in Services in Relation to India, Trade Related Intellectual Property Rights and India: product and process Patents, Impact of WTO on Indian Agriculture, Impact on India Textiles, Impact on India Telecommunications, Impact on India Pharmaceutical Industry, Impact on Indian Sees industry, New Issue in WTO Labour, Environment and Competition Policy.
+
+## SOM688: Economics of Regulation
+- Credits: 6
+- Type: Theory
+- Description: Theory and regulation of natural monopoly, Rate of return regulation, optimal regulation under asymmetric information, pricing and competition, politics of regulation, specific discussion of regulation of electricity, transport and telecommunications.
+
+## SOM689: International Trade
+- Credits: 3
+- Type: Theory
+- Description: Concepts of Competitive Advantage and Comparative Advantage, Gains from Trade, Terms of Trade, Leontiff Paradox, Intra-industry trade, instruments of trade policy - quota, tariff, voluntary export restraint, Free trade areas, customs union, political economy of Trade policy, controversies in trade policy, trade policy for developing countries.
+
+## SOM690: Software Project Management
+- Credits: 3
+- Type: Theory
+- Description: Technical development of software; Principles of Software Project Management (SPM), Software Project Planning, Software Project Estimation. Function Point Analysis; COCOMO; Quality management; quality assurance, quality control; reviews, Risk Management; Configuration Management, Human Aspects of SPM. Project Monitoring and Control; Role of users in software project management; Applications and Cases in SPM.
+
+## SOM691: Intelligent Systems
+- Credits: 3
+- Type: Theory
+- Description: Introduction to BI and analytics Data mining and data warehousing Web 2.0, semantic web and knowledge-management Intelligent systems: expert systems, case-based reasoning, neural networks, genetic algorithms and model-based reasoning Filtering techniques and recommender systems Intelligent agents Emerging trends
+
+## SOM692: Hospital Information System
+- Credits: 3
+- Type: Theory
+- Description: Indian healthcare scenario, Economics of health, Hospital as a formal organization, overview of hospital operations, organization of clinical services, organization of support services, pharmacy services, pathology services, radiology services, biomedical engineering, Overview of hospital design and planning, Role of Information Technology in Hospitals, Information systems in hospitals, Managing a Hospital with Information Systems, Quality management and hospitals, Importance of security and confidentially of data, certification of hospitals, Marketing of hospital services, Information resources management in hospital, Setting strategic objectives for information systems, Organizing an information systems department, Contemporary topics: medical tourism, presence of insurance companies, ma...
+
+## SOM693: Information Technology Infrastructure Management
+- Credits: 3
+- Type: Theory
+- Description: Role of IT in Organization, demand/supply relationship between IT and business; optimum IT service levels for the business, Customer service, IT Investment Opportunities, Information Resource Management, IT/IS Facilities and Operations, Acquiring expert support, Organizing for systems management, Staffing for Systems management, Historical perspective of systems management, Availability, Performance and tuning, Production acceptance, Change management, Problem management, Storage management, Network management, Configuration management, Capacity planning, Strategic security, Disaster recovery, Facilities management, Integrating systems management processes, Audit, Security and Control; Ethical challenges in IT/IS.
+
+## SOM695: Systems Analysis and Design
+- Credits: 3
+- Type: Theory
+- Description: Approaches to System Development; Modern System Analyst and Tasks; System Development Life Cycle; System Requirements): Introduction, Analysis, Approaches, Modelling, Tools and Techniques (like Entity Relationship Diagrams, Data-Flow Diagrams, etc.); Evaluating Alternatives after Analysis: Design of the System: Structured System Design, Module Designs, Database Design, Input-output Design, Human- Computer Interaction, Tools and Techniques (Structure Charts etc.,); Testing, Implementation and Support; Introduction to Unified Modelling Language (UML), Overview of OOAD.
+
+## SOM696: Strategies for Growth
+- Credits: 3
+- Type: Theory
+- Description: This course focuses on examining various strategies that organisations can adopt to achieve sustainable and viable growth and understanding the organizational or management challenges that might arise in that context. Broadly speaking, organisations can follow several different -avenues- to achieve sustainable growth: (a) they can grow in their existing business through innovation, consolidation, etc. or (b) they can grow by expanding the -scope of their activities- along the business value chain, or by expanding the -scope of the products, markets or businesses- they are engaged in. Further, in pursuing any of these growth avenues, organisations can decide to grow organically through -internal development- or they can choose to grow inorganically through either -alliances- or -acquisition...
+
+## SOM697: Electronic Business Strategies and Implementation
+- Credits: 3
+- Type: Theory
+- Description: E-Business Introduction, Technology And Business Perspectives, E-Business Fundamentals, Advances In E- Business Security, Privacy And Personnel Issues, Decision Support Systems: Technology, Business Applications And Implementation. Mobile Computing. E-Business At Enterprise Level: CRM Perspectives, Supply Chain Management Perspectives, Enterprise Application And Integration. External Service Providers - ASP, EBPP Etc. Knowledge Management And Groupware. End Customer Perspective: Product Selection, Make-Vs-Buy, Integration And Implementation. Instruction via Concepts Presentation, Assigned Projects, Case Narration
+
+## SOM701: Online Marketing
+- Credits: 3
+- Type: Theory
+- Description: Part A: Introduction 1. Digital Marketing Overview 2. Inbound Marketing vs. Traditional Outbound Marketing Part B: Get Found-Blogging 3. Search Engine Optimization 4. Social Media 5. Search Engine Marketing Part C: Lead Conversion 6. Lead Nurturing & Email Marketing Part D: Analyse -Web Analytics 7. Social Media & Blog Analytics
+
+## SOM702: Design of Manufacturing Systems
+- Credits: 3
+- Type: Theory
+- Description: A science of manufacturing, basic factory dynamics, variability basics, corrupting influence of variability, design and analysis of KANBAN and CONWIP, TOC Systems, design of manufacturing cells and assembly lines, exploring linkages with manufacturing strategy.
+
+## SOM703: Sales and Distribution Management
+- Credits: 3
+- Type: Theory
+- Description: Selling and Salesmanship - Selling perspective and techniques. Account penetration. Lead generation. Objection identification and handling. Handling retailers and key customers. Strategic and tactical aspects of sales force management. Determining Sales related policies. Setting objectives for personal selling. Formulating strategy. Role and Characteristics of Effective Sales Executives. Managing Sales Department Relations. Structuring a sales force. Managing people - recruitment, selection, training of sales personnel. Leading, motivating, controlling the sales force. Sales budget, quota, territories. Control and Cost Analysis. Designing a compensation plan. International Sales Management. Distribution channels - structure, functions and relationships. Construction of Effective and effici...
+
+## SOM705: Supply Chain Optimization
+- Credits: 3
+- Type: Theory
+- Description: Supply chain performance measures, safety stock optimization models under continuous and periodic review, multi echelon inventory models, cycle stock optimization models, mathematical models for vehicle routing, transportation optimization, supply chain contracts, network design, quantitative forecasting models
+
+## SOM706: Business Entrepreneurship Development
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Intra-preneurship, Techno-preneurship, and Entrepreneurship, Achievement Motivation, Innovation, Incubation, and Entrepreneurship, Social psychological aspects of Entrepreneurship: Role of Castes/Communities and Analyses of Some Family managed/Family Controlled Business, Technological Entrepreneurism, Entrepreneurial Management, and Leadership, Basic Principles of Small Business Management (technology/financial/human resource/strategic/marketing), Opportunity Identification and Market Assessment, Developing Strategic Entrepreneurial Orientations: Equipping Skills to Excel, Developing Entrepreneurship and Building Achieving Society.
+
+## SOM707: Behavioral Finance
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Behavioral Finance: challenges to market efficiency- market anomalies-limits to arbitrage-fundamental risk, noise trader risk, implementation cost-Foundations of Behavioral Finance- prospect theory-framing-mental accounting-heuristics and biases-overconfidence. Investor behavior: implications of heuristics, biases and over confidence for financial decision making-individual investors and the force of emotion. Social forces: fairness, reciprocity, and trust-social influences-conformity-social behavior and emotion-social behavior and evolution-social forces and collapse of corporation. Market outcomes: behavioral explanations for anomalies and puzzles. Corporate finance: rational managers and irrational investors-managerial actions taking advantage of mispricing-behavioral co...
+
+## SOM716: Economics of Firm Strategy
+- Credits: 6
+- Type: Theory
+- Description: Basic Game Theory 302226 covers non-cooperative game theory, Nash equilibrium, sub-game perfectequilibrium, normal form and extensive form gamesBasic Micro-economics 302226 cost function, production function, Returns to scale, Minimum Efficient scale,Consumer Surplus, Producer Gain, Dead weight LossDifferent market structures 302226 Perfect Competition, Monopoly for durable and non-durable goods, Duopoly, Oligopoly, Simultaneous vs Sequential decisionDiscriminant Monopoly, Cartels vs. multi-plant monopoly 302226 differences and implicationsMeasure of differentiation, non-address models 302226 Bertrand, Cournot (Simultaneous) andSequential DecisionAddress models and Locational choice 302226 Linear city and Circular CityMergers & Acquisitions 302226 Reasons and implications on Social Welfar...
+
+## SOM730: Technology Acquisition, Transfer and Absorption
+- Credits: 6
+- Type: Theory
+- Description: Technological capabilities assessment, technology gaps, technology options and acquisition: need, make- or-buy issues, searching, Technology valuation, Technology transfer: perspectives, definitions, modes, mechanisms ; TT negotiation, contracts, licensing to transfer and project management, process from evaluation, Technology absorption: concepts, adoption, adaptation, upgradation, mechanisms, organization culture and other issues,
+
+## SOM732: High Tech Ventures: From Concept to Commercialization
+- Credits: 6
+- Type: Theory
+- Description: New Technology-Based Venture: Role and ContributionGenerating Ideas for New VenturesDeveloping Opportunities for High Growth BusinessesNew Products/Services DevelopmentMarketing of High Tech Products and ServicesRaising Resources for New VenturesPreparation of Business PlanFinancing of High Tech VenturesManaging Rapid Growth and Harvesting
+
+## SOM734: Science, Technology and Innovation policy
+- Credits: 6
+- Type: Theory
+- Description: The macroeconomic significance of technology, including the role of technology in economic growth, the rationale for science, technology and innovation (STI) policy. Comparative analysis of STI policies in India and other countries. Specific policies and measures such as incubation, early-stage technology support including venture capital, and public-private consortia. Concept of national innovation systems and methodologies and techniques for measuring science, technology and innovation inputs and outputs.
+
+## SOM742: Large-Scale Optimization
+- Credits: 6
+- Type: Theory
+- Description: The objective of this course is to give an introduction to the theory and solution methods for large-scale optimization problems using mathematical programming decomposition or metaheuristics. The course consists of a decomposition part and a metaheuristic part. Decomposition-Review of the mathematical theory behind the decomposition algorithms; Description of Benders Decomposition, Dantzig-Wolfe decomposition, Lagrangean Decompostion and Introduction to stochastic programming formulation amenable to Decomposition. Metaheuristics- Introduction to Simulated Annealing, Genetic Algorithms and some other contemporary metaheuristics.
+
+## SOM744: Multivariate Data Analysis
+- Credits: 6
+- Type: Theory
+- Description: Aspects of multivariate analysis, Matrix algebra and random vectors, Multivariate normal distribution, Inferences about mean vectors, Multivariate analysis of variance, Multivariate regression, Principal component analysis, Factor analysis, Canonical correlation, Discriminant analysis, Cluster analysis and Graphical procedures.
+
+## SOM807: Economics
+- Credits: 6
+- Type: Theory
+- Description: MicroeconomicsModule 1: Microeconomics 302226 Demand and SupplyModule 2: Theory of Consumer BehaviourModule 3: Costs of Production and the Organization of the FirmModule 4: Market Structure: Pricing and Output DecisionsModule 5: The Economics of Information and the Role of Government in the MarketplaceMacroeconomicsModule 1: Macroeconomics 302226 why and what?Module 2: Classical Theory: Economy in the Long RunModule 3: Growth Theory: Economy in the Very Long RunModule 4: Business Cycle Theory: Economy in the Short RunModule 5: Macroeconomic Policy Debates and Events
+
+## SOM899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...

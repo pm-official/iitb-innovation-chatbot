@@ -1,0 +1,239 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CSRE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## A.B. Inamdar
+- Department: CSRE
+- Designation: Professor
+- Email: abi@iitb.ac.in
+- Primary Research Area: Environmental Remote Sensing
+- Research Interests & Innovation Focus: Environmental pollution studies, GIS and remote sensing for environmental assessment, natural resources engineering
+- Notable Projects: Environmental impact assessment using RS
+- Key Tools & Platforms: GIS, remote sensing, environmental monitoring
+- Industry Collaborations: Environmental agencies
+- Innovation Keywords: environmental RS, pollution, GIS, natural resources, environmental assessment
+- Profile: https://www.csre.iitb.ac.in/faculty.php
+
+## Alok Porwal
+- Department: CSRE
+- Designation: Professor
+- Email: alok@csre.iitb.ac.in
+- Primary Research Area: Mineral Systems & Remote Sensing
+- Research Interests & Innovation Focus: Mineral systems and exploration, deep-seated mineral systems via remote sensing, GIS-based spatial integration, 3D/4D crustal modelling, metallogenesis
+- Notable Projects: Mineral exploration using remote sensing, GIS-based mineral prospectivity
+- Key Tools & Platforms: GIS, remote sensing, 3D modelling software
+- Industry Collaborations: Mining companies
+- Innovation Keywords: mineral exploration, remote sensing, GIS, crustal modelling, metallogenesis
+- Profile: http://www.csre.iitb.ac.in/~alok/index.htm
+
+## Avik Bhattacharya
+- Department: CSRE
+- Designation: Professor
+- Email: avikb@csre.iitb.ac.in
+- Research Group: MRSLab
+- Primary Research Area: SAR Remote Sensing & Polarimetry
+- Research Interests & Innovation Focus: Optical and SAR remote sensing, SAR polarimetry, SAR interferometry, polarimetric SAR interferometry, statistical pattern recognition
+- Notable Projects: PolSAR decomposition methods, SAR-based change detection
+- Key Tools & Platforms: PolSARpro, SNAP, Python, MATLAB
+- Industry Collaborations: ISRO, space agencies
+- Innovation Keywords: SAR, polarimetry, interferometry, PolSAR, remote sensing, pattern recognition
+- Profile: http://mrslab.in/Avik/
+
+## B. Krishna Mohan
+- Department: CSRE
+- Designation: Professor
+- Email: bkmohan@csre.iitb.ac.in
+- Primary Research Area: Digital Image Processing & Pattern Recognition
+- Research Interests & Innovation Focus: Digital image processing, remote sensing image analysis, pattern recognition, hyperspectral image analysis
+- Notable Projects: Hyperspectral image classification, pattern recognition algorithms
+- Key Tools & Platforms: MATLAB, Python, image processing tools
+- Innovation Keywords: image processing, remote sensing, pattern recognition, hyperspectral, classification
+- Profile: https://www.csre.iitb.ac.in/faculty.php
+
+## Biplab Banerjee
+- Department: CSRE
+- Designation: Associate Professor
+- Email: bbanerjee@iitb.ac.in
+- Primary Research Area: ML & Computer Vision for Geospatial
+- Research Interests & Innovation Focus: Machine learning, deep learning, computer vision, geospatial AI applications, domain adaptation, few-shot learning
+- Notable Projects: Deep learning for satellite image analysis, domain adaptation
+- Key Tools & Platforms: PyTorch, TensorFlow, Python, GPU computing
+- Innovation Keywords: machine learning, deep learning, computer vision, geospatial AI, domain adaptation
+- Profile: http://biplab-banerjee.github.io/
+
+## Deepak Singh
+- Department: CSRE
+- Designation: Assistant Professor
+- Email: deepak.singh@iitb.ac.in
+- Primary Research Area: Cryosphere & Planetary Science
+- Research Interests & Innovation Focus: Cryosphere studies, planetary science, SAR/optical remote sensing of ice and snow, lunar surface studies
+- Notable Projects: Planetary surface characterization, ice sheet monitoring
+- Key Tools & Platforms: Remote sensing, GIS, Python, MATLAB
+- Industry Collaborations: ISRO, space agencies
+- Innovation Keywords: cryosphere, planetary science, SAR, ice, snow, lunar science
+- Profile: https://www.csre.iitb.ac.in/~deepak.singh/
+
+## G. Venkataraman
+- Department: CSRE
+- Designation: Professor
+- Email: gv@csre.iitb.ac.in
+- Primary Research Area: Geology & Mineral Exploration RS
+- Research Interests & Innovation Focus: Airphoto, microwave and optical remote sensing for natural resources management, geology and mineral exploration, environmental GIS
+- Notable Projects: Mineral exploration via remote sensing, environmental GIS mapping
+- Key Tools & Platforms: GIS, remote sensing, geological mapping tools
+- Industry Collaborations: Mining and geological survey
+- Innovation Keywords: geology, mineral exploration, remote sensing, environmental GIS, airphoto
+- Profile: http://www.csre.iitb.ac.in/gv/gv/
+
+## Gulab Singh
+- Department: CSRE
+- Designation: Associate Professor
+- Email: gulab.singh@iitb.ac.in
+- Primary Research Area: Cryosphere Remote Sensing
+- Research Interests & Innovation Focus: Remote sensing of cryosphere, snow and glacier parameter retrieval, SAR interferometry and polarimetry, EM wave propagation in snow/ice, 3D/4D SAR tomography
+- Notable Projects: Glacier monitoring via SAR, snow parameter retrieval
+- Key Tools & Platforms: SAR processing, Python, MATLAB, GIS
+- Industry Collaborations: ISRO, glacier research centres
+- Innovation Keywords: cryosphere, SAR, glacier, snow, interferometry, SAR tomography
+- Profile: http://www.csre.iitb.ac.in/gulab/
+
+## J. Adinarayana
+- Department: CSRE
+- Designation: Professor
+- Email: adi@csre.iitb.ac.in
+- Primary Research Area: Agro-informatics & Precision Farming
+- Research Interests & Innovation Focus: Agro-informatics, GIS applications in agriculture, remote sensing for crop monitoring, precision farming
+- Notable Projects: GIS-based crop monitoring, precision agriculture systems
+- Key Tools & Platforms: GIS, remote sensing, GPS, drones
+- Industry Collaborations: Agricultural agencies
+- Innovation Keywords: agro-informatics, precision farming, crop monitoring, GIS, agriculture RS
+- Profile: http://www.csre.iitb.ac.in/adi/
+
+## Karthikeyan Lanka
+- Department: CSRE
+- Designation: Associate Professor
+- Email: karthikl@iitb.ac.in
+- Primary Research Area: Microwave Remote Sensing & Hydrology
+- Research Interests & Innovation Focus: Microwave remote sensing of soil moisture, applied hydrology, land-atmosphere interactions, agricultural droughts, ecohydrology
+- Notable Projects: Soil moisture retrieval from satellites, drought monitoring
+- Key Tools & Platforms: Remote sensing tools, Python, GIS, hydrological models
+- Industry Collaborations: Agricultural agencies
+- Innovation Keywords: soil moisture, microwave remote sensing, hydrology, droughts, ecohydrology
+- Profile: http://homepages.iitb.ac.in/~karthikl/
+
+## M.V. Khire
+- Department: CSRE
+- Designation: Professor
+- Email: mvk@csre.iitb.ac.in
+- Primary Research Area: Land Resource & Terrain RS
+- Research Interests & Innovation Focus: Remote sensing and terrain evaluation, geospatial applications in land resource assessment
+- Notable Projects: Land resource mapping, terrain evaluation studies
+- Key Tools & Platforms: GIS, remote sensing, field tools
+- Innovation Keywords: land resource, terrain evaluation, geospatial, remote sensing
+- Profile: http://www.csre.iitb.ac.in/mvk/
+
+## M.V.R. Murti
+- Department: CSRE
+- Designation: Professor
+- Email: mvr@csre.iitb.ac.in
+- Primary Research Area: Spectroscopic Analysis & Planetary Science
+- Research Interests & Innovation Focus: XRF, AAS and spectroscopic analysis of planetary materials, atmospheric trace gas spectroscopy
+- Notable Projects: Planetary material analysis, atmospheric spectroscopy
+- Key Tools & Platforms: XRF, AAS, spectrometers
+- Industry Collaborations: ISRO
+- Innovation Keywords: spectroscopy, XRF, planetary materials, atmospheric gases, AAS
+- Profile: http://www.csre.iitb.ac.in/~mvr/
+
+## P. Venkatachalam
+- Department: CSRE
+- Designation: Professor
+- Email: pvenk@iitb.ac.in
+- Primary Research Area: GIS & Spatial Decision Support
+- Research Interests & Innovation Focus: GIS, spatial decision support, digital image processing, spatial databases, spatial statistics
+- Notable Projects: Spatial decision support systems, GIS databases
+- Key Tools & Platforms: GIS software, SQL, Python, spatial statistics
+- Innovation Keywords: GIS, spatial decision support, image processing, spatial databases, statistics
+- Profile: http://www.csre.iitb.ac.in/pvenk/
+
+## Pritam Das
+- Department: CSRE
+- Designation: Assistant Professor
+- Email: pritam.das@iitb.ac.in
+- Primary Research Area: Hydrology & Flood Remote Sensing
+- Research Interests & Innovation Focus: Hydrology, remote sensing for reservoir studies, river regulation, flood forecasting, altimetry, multi-sensor remote sensing, hazard mitigation
+- Notable Projects: Satellite-based flood forecasting, reservoir monitoring
+- Key Tools & Platforms: GIS, remote sensing, Python, hydrological models
+- Innovation Keywords: hydrology, flood forecasting, remote sensing, reservoir, altimetry, hazard
+- Profile: https://www.csre.iitb.ac.in/~pritam.das/
+
+## R. Nagarajan
+- Department: CSRE
+- Designation: Professor
+- Email: rn@csre.iitb.ac.in
+- Primary Research Area: Natural Hazard & Resource RS
+- Research Interests & Innovation Focus: Orbital and airborne remote sensing, GIS for physical resources, engineering geology, hydrogeology, natural disaster risk (landslide and drought)
+- Notable Projects: Landslide risk mapping, hydrogeological remote sensing
+- Key Tools & Platforms: GIS, remote sensing, field instruments
+- Industry Collaborations: Disaster management agencies
+- Innovation Keywords: remote sensing, GIS, landslide, drought, hydrogeology, natural hazards
+- Profile: http://www.csre.iitb.ac.in/rn/
+
+## Ritesh Gautam
+- Department: CSRE
+- Designation: Associate Professor
+- Email: rgautam@iitb.ac.in
+- Primary Research Area: Atmospheric Remote Sensing
+- Research Interests & Innovation Focus: Satellite remote sensing of aerosols, atmospheric science, radiative forcing, climatology, mineral dust deposition on snowpack
+- Notable Projects: Aerosol remote sensing, dust-snow interactions
+- Key Tools & Platforms: Satellite data, Python, atmospheric models
+- Industry Collaborations: NASA, environmental agencies
+- Innovation Keywords: aerosol remote sensing, atmospheric science, radiative forcing, dust, climatology
+- Profile: https://sites.google.com/site/riteshgautam/
+
+## S.S. Gedam
+- Department: CSRE
+- Designation: Professor
+- Email: shirish@csre.iitb.ac.in
+- Primary Research Area: Terrain Analysis & Digital Modelling
+- Research Interests & Innovation Focus: Remote sensing and GIS for terrain analysis and hydrology, stereo image analysis, digital terrain modelling
+- Notable Projects: Digital terrain modelling, stereo-based 3D mapping
+- Key Tools & Platforms: GIS, stereo photogrammetry, MATLAB
+- Innovation Keywords: terrain analysis, DEM, stereo imaging, hydrology, GIS, digital terrain
+- Profile: http://www.csre.iitb.ac.in/~shirish/index.htm
+
+## Soumyashree Kar
+- Department: CSRE
+- Designation: Assistant Professor
+- Email: soumyakar@iitb.ac.in
+- Primary Research Area: Plant Phenomics & Hyperspectral RS
+- Research Interests & Innovation Focus: Machine learning for remote sensing, plant phenomics, hyperspectral remote sensing, environmental studies
+- Notable Projects: ML-based crop phenotyping, hyperspectral vegetation analysis
+- Key Tools & Platforms: Python, ML libraries, hyperspectral cameras
+- Industry Collaborations: Agricultural research
+- Innovation Keywords: plant phenomics, hyperspectral, machine learning, vegetation, environmental RS
+- Profile: https://scholar.google.com/citations?user=pYbBMHMAAAAJ
+
+## Surya S. Durbha
+- Department: CSRE
+- Designation: Professor & Head
+- Email: sdurbha@csre.iitb.ac.in
+- Primary Research Area: Geospatial AI & Agentic Systems
+- Research Interests & Innovation Focus: Geospatial AI, geo agentic systems, knowledge representation in AI, image information mining, IoT, cloud computing, semantic web, critical infrastructure protection
+- Notable Projects: Geospatial AI platforms, disaster management using AI
+- Key Tools & Platforms: Python, deep learning frameworks, cloud platforms, GIS
+- Industry Collaborations: Defence and space agencies
+- Innovation Keywords: geospatial AI, agentic systems, IoT, cloud computing, knowledge AI, infrastructure
+- Profile: http://www.csre.iitb.ac.in/~sdurbha/
+
+## Y.S. Rao
+- Department: CSRE
+- Designation: Professor
+- Email: ysrao@csre.iitb.ac.in
+- Primary Research Area: Microwave Remote Sensing Lab
+- Research Interests & Innovation Focus: Passive and active microwave remote sensing, soil moisture and vegetation studies, SAR interferometry for DEM, surface change detection
+- Notable Projects: InSAR DEM generation, soil moisture mapping from SAR
+- Key Tools & Platforms: SAR processing tools, MATLAB, GIS
+- Industry Collaborations: ISRO
+- Innovation Keywords: microwave RS, soil moisture, vegetation, InSAR, DEM, change detection
+- Profile: http://www.csre.iitb.ac.in/ysrao/

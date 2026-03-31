@@ -1,0 +1,59 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Climate Studies - Course Catalog for IIT Bombay Students
+
+
+## CM 602: Atmosphere and Climate Change
+- Credits: 6
+- Type: Theory
+- Description: The atmosphere 302226 scales of motion, large-scale motion, general circulation, troposphere-stratosphere transport, atmospheric composition, global cycles and lifetimes. Atmospheric structure and thermodynamics 302226 pressure, density, composition, temperature structure, water in theatmosphere. Atmospheric transport 302226 Equations of atmospheric fluid mechanics, energy equation, turbulence, mixing lengthmodels, boundary layer processes, variation of wind speed with height. Atmospheric  photochemistry and chemical kinetics 302226 tropospheric gas-phase, aerosol and cloud  chemistry. Aerosol dynamics in the troposphere 302226 transport properties, thermodynamics and  ucleation, dry and wet deposition. Cloud physics 302226 water equilibrium in the atmosphere, cloudand fog formation, cloud...
+
+## CM 605: Public Policy and Governance in Technology and Development
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of Public Policy and Governance: Principles and Processes of Public Policy, Various Stages of Policy Making and Implementation, Policy Analysis and Evaluation, Principles and System of Democratic Governance, Governance Institutions in IndiaPre-Reform Public Policy and Governance in India: Industrial Policy, S & T Policy, Public Sector Organizations, Provision of Public Services, Pre-Reform Crisis in GovernanceEconomic Reforms and Sectoral Restructuring: The Rationale and Mechanisms of the Economic Reform Process, Liberalization, Privatization, and Globalization, Restructuring of Infrastructure Sectors New Discourse on Public Policy and Governance: Discourse on Good Governance, Discourse on Social Development and Social Accountability Post-Reform Policy-Making and Governance in...
+
+## CM 606: Energy Resources, Economics and Environment
+- Credits: 6
+- Type: Theory
+- Description: Overview of World Energy Scenario 226 Dis-aggregation by end-use, by supply Fossil Fuel Reserves - Estimates, Duration Overview of India`s Energy Scenario - Dis-aggregation by end-use, by supply, reserves Country Energy Balance Construction - Examples Trends in energy use patterns, energy and development linkage. Energy Economics - Simple Payback Period, Time Value of Money, IRR, NPV, Life Cycle Costing, Cost of Saved Energy , Cost of Energy generated, Examples from energy generation and conservation, Energy Chain, Primary energy analysis Life Cycle Assessment, Net Energy Analysis Environmental Impacts of energy use - Air Pollution - SOx, NOx, CO, particulates Solid and Water Pollution, Formation of pollutants, measurement and controls; sources of emissions, effect of operating and design ...
+
+## CM 608: Sustainable Engineering Principles
+- Credits: 6
+- Type: Theory
+- Description: Part I: Overview and basics (~4 hours) Basics of sustainability and sustainable development Brundtland commission report, Millennium Ecosystems Assessment, IPCC report Evolution from green engineering to sustainable engineering Motivating examples from chemical as well as other branches of engineeringPart II: Sustainability quantification (~15 hours) Why quantification is important? Different quantification methods:o Brief review of well established economic indicatorso Footprint analysis (carbon footprint, water footprint)o Life cycle inventory and assessmento Ecological/environmental carrying capacityo Information theory based indicators for dynamic systemso Resource use intensityo Exergy, emergy etc.o Social indicatorsPart III: Design of sustainable systems (~15 hours) Importance...
+
+## CM 617: Sustainability Principles and Practices
+- Credits: 6
+- Type: Theory
+- Description: * Introduction to Sustainability and Sustainable development       * The Science and economics of Sustainability, Key concepts and drivers, Drivers for Unsustainability - Externality, Unsustainable Business models, Tragedy of Commons       * Overview and origin of sustainability: Brundtland Commission report, Millennium Ecosystem Assessment, Sustainable Development goals       * Measurement of Sustainability - Sustainability metrics, Tools, Indicators       * Sustainable design methodologies: Circular economy, industrial ecology, green engineering       * Economics and Policies and Regulations for sustainable development       * Sustainability in Practice - Sustainable Production and consumption, Sustainability in Business, Sustainability in Design       * Climate change and sustainability...
+
+## CM 618: Introduction to Climate Science
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Weather and Climate        2. Climate Data and Archives        * Modern Climate Data        * Palaeoclimate data- Faunal, Geochemical and Stable Isotopic proxies        3. Paleoclimate        * Relevance of Past Climate        * Drivers of Past Climate        * The Holocene and the Inception of Anthropogenic Climate Change         4. Energy Balance        * Radiative Forcings from the Sun, Volcanoes and Humans        * Emission of Thermal Energy from Earth        * Greenhouse Effect and its Modulation by Human Activities         * Natural Variability, Anthropogenic Forcings, and Climate Sensitivity        5. Carbon and Climate        * Evolution of Earth`s Climate and the Carbon Cycle        * Natural Carbon Cycle and the Modern Human        * Anthropogenic Carbon Cycle ...
+
+## CM 801: Introduction to Risk Analysis
+- Credits: 6
+- Type: Theory
+- Description: Science of systems and concept of risk - introduction, systems engineering, concepts of risk assessment and management, applications to water resources; Steps of risk characterization - hazard identification, exposure assessment, vulnerability analysis, risk mapping, example of risk characterization to natural hazards, risk assessment as a distributed process: example of Monte-Carlo techniques in human health and ecological risk assessments; Uncertainty analysis - introduction, uncertainty taxonomy, sensitivity analysis, probabilistic uncertainty, fuzzy systems, interval analysis, risk-based decision making; Risk filtering and ranking - introduction, past efforts in risk filtering, methodological framework of filtering and ranking, different ranking methods, case studies; Multiobjective tr...
+
+## CM 802: Atmosphere and Climate Change
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: The atmosphere - scales of motion, large-scale motion, general circulation, troposphere-stratosphere transport, atmospheric composition, global cycles and lifetimes. Atmospheric structure and thermodynamics - pressure, density, composition, temperature structure, water in the atmosphere. Atmospheric transport - Equations of atmospheric fluid mechanics, energy equation, turbulence, mixing length models, boundary layer processes, variation of wind speed with height. Atmospheric  photochemistry and chemical kinetics - tropospheric gas-phase, aerosol and cloud  chemistry. Aerosol dynamics in the troposphere - transport properties, thermodynamics and  ucleation, dry and wet deposition. Cloud physics - water equilibrium in the atmosphere, cloud and fog formation, cloud condensation nuclei, cloud...
+
+## CM 803: Introduction to Climate Change
+- Credits: 6
+- Type: Theory
+- Description: 1.The physical science of climate change  Climate System; Causes of Climate Change, Climate data and trends; Analyses of climate data; Global atmospheric composition: Greenhouse gases and aerosols; Extreme weather events, sea level rise; Climate projections and their uncertainties.  2.Climate impacts, vulnerability and risks  Assessing climate impacts on key sectors and systems (heat stress, water resources, coastal zones, agricultural systems); Concepts of vulnerability and risk; Assessing vulnerability and risk; Concepts of coping, adaptation and risk management, adaptive capacity, indicators and metrics; Adaptation planning and management including mainstreaming and climate resilient development.  3.Climate mitigation and policy  Economics of climate change, Least cost carbon strategies...
+
+## CM 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## CMS801: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: x

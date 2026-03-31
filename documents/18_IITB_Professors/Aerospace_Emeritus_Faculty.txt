@@ -1,0 +1,130 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Aerospace Emeritus Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. G. R. Shevare
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: grs@aero.iitb.ac.in
+- Research Group: Aerodynamics and Design Laboratory
+- Primary Research Area: Aerodynamics — Panel Methods & Engineering Design Optimization
+- Research Interests & Innovation Focus: Research on aerodynamic analysis with emphasis on panel methods for internal flows, conceptual aircraft design using object-oriented approaches, fan design optimization, and integration of aerodynamic principles with design methodology.
+- Notable Projects: Low Order Panel Method for Internal Flows (Journal of Aircraft); Object-oriented design approaches in aeronautics
+- Key Tools & Platforms: Panel methods, FEA, object-oriented design software, aerodynamic analysis tools, optimization algorithms
+- Industry Collaborations: Aircraft design; Fan design optimization
+- Awards: Established researcher in aerodynamics
+- Innovation Keywords: aerodynamics, panel methods, aircraft design, optimization, incompressible flows, internal flows, design methodology
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. J. C. Mandal
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: jcmandal@aero.iitb.ac.in
+- Research Group: Computational Fluid Dynamics Laboratory
+- Primary Research Area: Aerodynamics — CFD Algorithms, Riemann Solvers & Multiphase Flows
+- Research Interests & Innovation Focus: Research on approximate Riemann solvers for high-speed flows, numerical shock instabilities, incompressible Navier-Stokes with artificial compressibility, high-resolution schemes for space vehicles, incompressible turbulent flow, and level set methods for multiphase flows. Over 1930 citations.
+- Notable Projects: Riemann solvers for high-speed flows; Multiphase flow simulations; Level set methods; CFD for space vehicle configurations; 1930+ citations
+- Key Tools & Platforms: C/C++ programming, Riemann solvers, finite volume methods, level set methods, artificial compressibility, high-resolution schemes
+- Industry Collaborations: Aerospace industry for space vehicle flow computations
+- Awards: Alexander von Humboldt Fellowship; 1930+ citations
+- Innovation Keywords: CFD algorithms, Riemann solvers, shock capturing, incompressible flows, multiphase flows, turbulent modeling, space vehicle aerodynamics
+- Profile: https://www.aero.iitb.ac.in/~mandal/
+
+## Prof. K. Sudhakar
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: sudhakar@aero.iitb.ac.in
+- Research Group: Flight Mechanics and Control Laboratory
+- Primary Research Area: Dynamics & Control — Flight Mechanics, Aircraft Dynamics & Bifurcation Analysis
+- Research Interests & Innovation Focus: Research on aircraft lateral dynamics, periodic motion characterization, bifurcation phenomena in flight dynamics, wing rock phenomena, limit cycle oscillations, nonlinear dynamics analysis, and control of various aircraft configurations.
+- Notable Projects: Secondary bifurcations in mechanical systems; Aircraft lateral dynamics; Wing rock analysis; Nonlinear flight dynamics
+- Key Tools & Platforms: Nonlinear dynamics analysis, bifurcation analysis, flight mechanics simulation, control theory, MATLAB
+- Industry Collaborations: Aircraft design and flight control systems
+- Awards: Established faculty in flight mechanics
+- Innovation Keywords: flight mechanics, aircraft dynamics, wing rock, bifurcation analysis, limit cycles, nonlinear dynamics, lateral dynamics
+- Profile: https://www.aero.iitb.ac.in/~sudhakar/
+
+## Prof. Murali Damodaran
+- Department: Aerospace Emeritus
+- Designation: Adjunct/Visiting
+- Email: muralid@aero.iitb.ac.in
+- Research Group: Computational Fluid Dynamics Laboratory
+- Primary Research Area: Aerodynamics — CFD, Finite Volume Methods & GPU Computing
+- Research Interests & Innovation Focus: Research on computational aerodynamics: finite volume methods for transonic flows, inviscid/viscous flow analysis, aerodynamic design optimization, UAV aerodynamics, lattice Boltzmann methods on GPU, and vertical axis wind turbine aerodynamics.
+- Notable Projects: Finite Volume Calculation of Inviscid Transonic Airfoil-Vortex Interaction (AIAA Journal 1988); UAV aerodynamic analysis; Lattice Boltzmann GPU implementation
+- Key Tools & Platforms: MATLAB, GPU computing, finite volume methods, lattice Boltzmann method, parallel computing
+- Industry Collaborations: UAV design; Wind energy; Computational aerodynamics
+- Awards: Associate Fellow AIAA; 35+ years aerospace industry experience
+- Innovation Keywords: CFD, finite volume methods, UAVs, wind turbines, lattice Boltzmann, GPU computing, transonic flows, aerodynamic optimization
+- Profile: https://sites.google.com/site/drmuralidamodaran/home
+
+## Prof. N. K. Naik
+- Department: Aerospace Emeritus
+- Designation: Professor Emeritus
+- Email: nknaik@aero.iitb.ac.in
+- Research Group: High Velocity Impact Laboratory / Aircraft Production Laboratory
+- Primary Research Area: Structures — Ballistic Impact & Composite Failure Analysis
+- Research Interests & Innovation Focus: Leading researcher in ballistic impact, low velocity impact, and fatigue-fracture behavior of composites. 2D/3D textile composites characterization, high strain rate behavior, energy absorption in fiber-reinforced composites, hybrid composite systems, and energy-based models for ballistic impact.
+- Notable Projects: Ballistic impact analysis of ceramic-composite armor; Analytical/experimental studies on 2D woven fabric composites; Energy-based impact models; Textile composite characterization
+- Key Tools & Platforms: High-velocity impact testing, low-velocity impact testing, ballistic testing, analytical impact models, experimental failure characterization
+- Industry Collaborations: Defense and aerospace organizations; Armor development programs
+- Awards: Fellow NASI (2004); Fellow INAE (2005); Prof. H.H. Mathur Award for Excellence in Research (2006)
+- Innovation Keywords: ballistic impact, low velocity impact, textile composites, impact mechanics, failure analysis, hybrid composites, armor development
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/nknaik
+
+## Prof. Prasanna M. Mujumdar
+- Department: Aerospace Emeritus
+- Designation: Professor (Retired)
+- Email: mujumdar@aero.iitb.ac.in
+- Research Group: Structures and Design Optimization Group
+- Primary Research Area: Structures — Multidisciplinary Design Optimization & Smart Composites
+- Research Interests & Innovation Focus: Research on MDO, aeroelasticity, smart composite structures, vibration control, morphing aerospace vehicles, shape memory polymer composite structures, aeroelastic analysis of flexible/flapping wings, and piezoelectric actuator systems.
+- Notable Projects: SMPC morphing structures; Equivalent plate models for corrugated SMPC; Aeroelastic analysis of flapping wings; Piezoelectric vibration control; MDO studies
+- Key Tools & Platforms: MDO, FEA, aeroelastic analysis, structural optimization, composite structure analysis, morphing structure design
+- Industry Collaborations: Aerospace design and manufacturing; Smart materials research
+- Awards: Contributions to aerospace structures and optimization
+- Innovation Keywords: design optimization, MDO, smart composites, morphing structures, aeroelasticity, vibration control, piezoelectric systems
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/mujumdar
+
+## Prof. R. P. Shimpi
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: rpshimpi@aero.iitb.ac.in
+- Research Group: Structural Mechanics and Plate Theory Laboratory
+- Primary Research Area: Structures — Refined Plate Theories & Laminated Composite Analysis
+- Research Interests & Innovation Focus: Substantial contributions to refined plate theories for laminated composites. Shear deformation theories with higher-order displacement models, trigonometric/hyperbolic function-based plate theories, transverse normal strain effects, buckling and vibration of sandwich plates, and theories satisfying shear stress conditions without correction factors.
+- Notable Projects: Trigonometric shear deformation plate theories; Refined hyperbolic plate theories; Higher order displacement models; 2636+ citations
+- Key Tools & Platforms: Plate theory development, variational methods, FEA, analytical solution techniques, composite plate analysis
+- Industry Collaborations: Composite aircraft structures and structural design
+- Awards: Highly cited researcher (2636 citations); Seminal plate theory contributions
+- Innovation Keywords: plate theories, shear deformation, composite structures, higher-order models, structural mechanics, sandwich plates, analytical methods
+- Profile: https://scholar.google.com/citations?user=k5lwA1UAAAAJ
+
+## Prof. S. C. Lakkad
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: sclakkad@aero.iitb.ac.in
+- Research Group: Composite Structures Laboratory
+- Primary Research Area: Structures — Composite Materials & Aircraft Structural Design
+- Research Interests & Innovation Focus: Research on composite material development, structural design optimization, biomechanical applications of composites, and aircraft structural design including composite behavior under various loading conditions.
+- Notable Projects: Composite materials research; Structural analysis for aerospace; Part of established composites group at IITB
+- Key Tools & Platforms: FEA, composite fabrication and testing, structural analysis, design optimization
+- Industry Collaborations: Aircraft structural design; Composite materials for aerospace
+- Awards: Established faculty in composites research
+- Innovation Keywords: composite materials, structural design, biomechanics, aircraft structures, material optimization, composite fabrication
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/scsl
+
+## Prof. S. D. Sharma
+- Department: Aerospace Emeritus
+- Designation: Professor
+- Email: sdsharma@aero.iitb.ac.in
+- Research Group: Experimental Aerodynamics Laboratory
+- Primary Research Area: Aerodynamics — Experimental Aerodynamics, Jet Mixing & Aeroacoustics
+- Research Interests & Innovation Focus: Research on experimental investigations in aerodynamics: optimization of base cavities for drag reduction, turbulent mixing in confined coaxial jets for low bypass turbofan engines, flow visualization, aeroacoustic characterization of high subsonic jets.
+- Notable Projects: Base cavity optimization; Turbulent mixing in turbofan engines; Aeroacoustic characterization; Flow visualization studies
+- Key Tools & Platforms: Wind tunnel testing, flow visualization, acoustic instrumentation, jet mixing studies, base pressure measurements, PIV
+- Industry Collaborations: Turbofan engine mixing processes; Unmanned aircraft aerodynamics
+- Awards: Established researcher in experimental aerodynamics
+- Innovation Keywords: experimental aerodynamics, drag reduction, jet mixing, aeroacoustics, flow visualization, turbofan engines, base cavities
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/sds

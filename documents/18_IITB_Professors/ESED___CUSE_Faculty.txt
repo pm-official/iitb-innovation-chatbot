@@ -1,0 +1,17 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ESED + CUSE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Pradip Kalbar
+- Department: ESED + CUSE
+- Designation: Associate Professor
+- Email: pradip.kalbar@iitb.ac.in
+- Research Group: CUSE Core Faculty
+- Primary Research Area: Life Cycle Assessment & Sustainable Infrastructure
+- Research Interests & Innovation Focus: Life cycle assessment, sustainable infrastructure, water-energy nexus, urban metabolism, circular economy, environmental systems
+- Notable Projects: LCA of urban infrastructure, water-energy nexus modelling
+- Key Tools & Platforms: OpenLCA, GIS, Python, SimaPro
+- Industry Collaborations: Municipal bodies, sustainability organizations
+- Innovation Keywords: LCA, sustainable infrastructure, water-energy nexus, urban metabolism, circular economy
+- Profile: https://www.cuse.iitb.ac.in/

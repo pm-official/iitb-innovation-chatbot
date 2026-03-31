@@ -1,0 +1,60 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IEOR (Visiting) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Ketan Savla
+- Department: IEOR (Visiting)
+- Designation: Visiting Associate Professor (USC, US)
+- Email: ksavla@usc.edu
+- Research Group: Distributed Control & Networked Systems (USC / IEOR)
+- Primary Research Area: Distributed Control, Dynamical Networks & Transportation Systems
+- Research Interests & Innovation Focus: Distributed robust & optimal control; Dynamical networks; State-dependent queueing systems; Incentive design for infrastructure; Applications in civil infrastructure & robotic systems; Traffic flow optimization; Network resilience; Smart transportation; Multi-agent coordination
+- Notable Projects: Associate Professor USC Viterbi School of Engineering; Research on distributed control for transportation; Publications in IEEE Trans. Automatic Control, Automatica; NSF and DOT funded research; Visiting at IEOR IITB
+- Key Tools & Platforms: Control theory, queueing analysis, distributed algorithms, network simulation, transportation modeling
+- Industry Collaborations: USC Viterbi School; US Department of Transportation; NSF; IEOR IITB
+- Awards: Assoc. Prof. USC Viterbi; Published in IEEE TAC, Automatica; NSF/DOT funded; Expert in distributed control
+- Innovation Keywords: distributed control, dynamical networks, queueing systems, incentive design, transportation, robotic systems, network resilience, smart infrastructure, multi-agent
+- Profile: https://viterbi-web.usc.edu/~ksavla/
+
+## Asst. Prof. Pietro Belotti
+- Department: IEOR (Visiting)
+- Designation: Visiting Assistant Professor (Politecnico di Milano, Italy)
+- Email: pietro.belotti@polimi.it
+- Research Group: Discrete Nonlinear Optimization (Polimi / IEOR)
+- Primary Research Area: Discrete Nonlinear Optimization & Open-Source OR Software
+- Research Interests & Innovation Focus: Discrete nonlinear (global) optimization; Exact methods for discrete multiobjective optimization; Robust optimization; Open-source optimization software development (Couenne solver); Branch-and-bound for nonconvex MINLPs; Convex relaxation methods; Spatial branch-and-bound; Feasibility pump heuristics
+- Notable Projects: Developer of Couenne (open-source MINLP solver, part of COIN-OR); Assistant Professor Politecnico di Milano; Publications in Mathematical Programming, INFORMS J. Computing; Former IBM Research & Clemson University
+- Key Tools & Platforms: Couenne solver, COIN-OR, C++, branch-and-bound algorithms, convex relaxation, open-source optimization
+- Industry Collaborations: COIN-OR Foundation; IBM Research (former); Politecnico di Milano; Open-source optimization community
+- Awards: Developer of Couenne solver (COIN-OR); Polimi; Former IBM Research; Expert in nonconvex MINLP
+- Innovation Keywords: MINLP, global optimization, Couenne solver, multiobjective optimization, robust optimization, open-source OR, branch-and-bound, convex relaxation, COIN-OR
+- Profile: https://www.deib.polimi.it/eng/people/details/85850
+
+## Asst. Prof. Reinoud Joosten
+- Department: IEOR (Visiting)
+- Designation: Visiting Faculty (University of Twente, Netherlands)
+- Email: r.a.m.g.joosten@utwente.nl
+- Research Group: Game Theory & Environmental Economics (Twente / IEOR)
+- Primary Research Area: Game Theory, Environmental Economics & Real Options
+- Research Interests & Innovation Focus: Stochastic games & repeated games; Cooperative & evolutionary game theory; Resource & environmental economics; Industrial organization; Real options in energy & environment; Internet security game theory; Mathematical biology connections; Mechanism design; Auction theory
+- Notable Projects: Assistant Professor University of Twente; Research on stochastic games and environmental economics; Publications in game theory and economics journals; Visiting faculty at IEOR IITB
+- Key Tools & Platforms: Game-theoretic modeling, real options analysis, evolutionary dynamics, mechanism design, economic modeling
+- Industry Collaborations: University of Twente; Environmental economics organizations; Game theory research community
+- Awards: Asst. Prof. University of Twente; Expert in stochastic games and environmental economics; Visiting IEOR IITB
+- Innovation Keywords: stochastic games, cooperative games, evolutionary games, environmental economics, real options, industrial organization, internet security, mechanism design, auction theory
+- Profile: https://people.utwente.nl/r.a.m.g.joosten
+
+## Prof. Kavita Ramanan
+- Department: IEOR (Visiting)
+- Designation: Distinguished Visiting Professor (Brown University, US)
+- Email: kavita_ramanan@brown.edu
+- Research Group: Probability Theory Group (Brown / IEOR)
+- Primary Research Area: Probability Theory, Reflected Processes & High-Dimensional Probability
+- Research Interests & Innovation Focus: Reflected diffusion processes; Large deviations theory; High-dimensional probability; Asymptotic convex geometry; Stochastic networks; Measure-valued processes; Interacting particle systems; Concentration inequalities; Random matrices connections; Stochastic analysis on manifolds
+- Notable Projects: Professor of Applied Mathematics at Brown University; Fellow of the Institute of Mathematical Statistics (IMS); Erlang Prize (2006, INFORMS Applied Probability Society); Distinguished Visiting Professor IITB IEOR; Publications in Annals of Probability, Annals of Applied Probability, Probability Theory & Related Fields
+- Key Tools & Platforms: Probability theory, stochastic analysis, reflected process theory, high-dimensional analysis, measure theory
+- Industry Collaborations: Brown University (primary); INFORMS; IMS; International probability community
+- Awards: Erlang Prize 2006; Fellow IMS; Professor Brown University; Distinguished publications in Annals of Probability
+- Innovation Keywords: reflected processes, large deviations, high-dimensional probability, stochastic networks, convex geometry, measure-valued processes, concentration inequalities
+- Profile: https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home

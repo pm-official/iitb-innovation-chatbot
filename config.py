@@ -15,7 +15,7 @@ CHUNK_OVERLAP = 200
 MIN_CHUNK_SIZE = 100
 
 # Retrieval
-TOP_K = 10
+TOP_K = 15
 
 # Groq LLM
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
@@ -44,4 +44,5 @@ CATEGORY_NAMES = {
     "16_IITB_Main_Site": "IIT Bombay Official",
     "17_Additional_Govt_Schemes": "Additional Govt Schemes",
     "18_IITB_Professors": "IIT Bombay Faculty & Professors",
+    "19_IITB_Courses": "IIT Bombay Course Catalog",
 }

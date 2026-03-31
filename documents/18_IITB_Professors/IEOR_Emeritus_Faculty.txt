@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IEOR (Emeritus) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. P.G. Awate
+- Department: IEOR (Emeritus)
+- Designation: Professor Emeritus
+- Email: prakash.awate@gmail.com
+- Research Group: Scheduling & Knowledge-Based Systems Group
+- Primary Research Area: Scheduling, Inventory Management & Knowledge-Based Systems
+- Research Interests & Innovation Focus: Scheduling theory & algorithms; Inventory management & control; Neural networks for scheduling; Knowledge-based systems & expert systems; Production planning; Operations management; AI applications in manufacturing; Heuristic optimization
+- Notable Projects: Professor Emeritus IEOR IITB; Decades of teaching and research in scheduling and inventory; Pioneer of OR education at IITB; Published textbooks and monographs; Supervised numerous PhD students
+- Key Tools & Platforms: Scheduling algorithms, inventory models, neural networks, expert systems, heuristic methods
+- Industry Collaborations: Manufacturing companies; Inventory management consulting
+- Awards: Professor Emeritus IEOR; Pioneer of OR education at IITB; Expert in scheduling and inventory management
+- Innovation Keywords: scheduling, inventory management, neural networks, knowledge-based systems, production planning, operations management, AI in manufacturing, heuristic optimization
+- Profile: https://www.ieor.iitb.ac.in/~awatepg

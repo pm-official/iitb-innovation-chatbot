@@ -1,0 +1,818 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Computer Science and Engineering - Course Catalog for IIT Bombay Students
+
+
+## CS 101: Computer Programming and Utilization
+- Credits: 6
+- Type: Theory
+- Description: This course provides an introduction to problem solving with computers using a modern language such as Java or C/C++. Topics covered will include :* Utilization : Developer fundamentals such as editor, integrated programming environment, Unix shell, modules, libraries.* Programming features : Machine representation, primitive types,arrays and records, objects, expressions, control statements, iteration,procedures, functions, and basic i/o.* Applications : Sample problems in engineering, science, text processing, and numerical methods.
+
+## CS 103: Computing and Science
+- Credits: 6
+- Type: Theory
+- Description: History of Science: History of modern science and technology, from the scientific revolution to the industrial revolution to the present day; Impact of social, economic, and political factors on the development of Science and Technology Philosophy of Science: Scientific Method, Scientific Reasoning, Poor/PseudoScience and Fallacies in Reasoning Quantification in Science, Technology, and Daily Life : Meaning of Chance, Probability, Conditional Probability and its Pitfalls, Bayesian vs Significance Testing, Data Science in Real Life, Mathematical modeling of problems outside of physical sciences Past, Present, and Future of Computing  (EXAMPLE LIST OF TOPICS):  Stored Program Computer, Boolean Logic, Turing Machines, Computability Theory.  Evolution of: Computer Circuitry from vacuum tubes t...
+
+## CS 104: Software Systems Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Shell programming: Shell commands and operators, programming with shell scripts.Debugging and profiling: Code sanitization with lint. Debugging with gdb : The debugging workflow. Controlling execution through breakpoints and watchpoints and inspecting the state during execution. Generating profiling data and examining using gprof.Version control and build tools: Using git for creation and management of repositories. Branching and  collaborative software development. Modules, separate compilation and linking. Automating the build process through make and cmake.Python: Basic Python: Essential data structures, file handling, regular expressions. Numpy: ndarrays and their usage.Matplotlib: Creating graphs and charts.Web creation: Designing, formatting, and programming  web pages with HTML, CSS...
+
+## CS 105: Discrete Structures
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Propositions and predicates, proofs and proof techniques. Sets, relations and functions, cardinality, basic counting. Posets and lattices: Dilworth`s theorem, inversion and distributive lattices. Graph theory : paths, cycles, trees, connectivity. Group theory : Lagrange`s theorem, homomorphisms, applications.
+
+## CS 108: Software Systems Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Shell programming: Shell commands and operators, programming with shell scripts.Debugging and profiling: Code sanitization with lint. Debugging with gdb : The debugging workflow. Controlling execution through breakpoints and watchpoints and inspecting the state during execution. Generating profiling data and examining using gprof.Version control and build tools: Using git for creation and management of repositories. Branching and  collaborative software development. Modules, separate compilation and linking. Automating the build process through make and cmake.Python: Basic Python: Essential data structures, file handling, regular expressions. Numpy: ndarrays and their usage.Matplotlib: Creating graphs and charts.Web creation: Designing, formatting, and programming  web pages with HTML, CSS...
+
+## CS 152: Abstractions and Paradigms for Programming
+- Credits: 6
+- Type: Theory
+- Description: Review of the program development process, Issues in program design, Structured programming, Data and control abstractions, Programming with assertions.  Reasoning about programs and proving  correctness of programs.    Ideas behind imperative, applicative, object oriented and logic   programming paradigms such as typing, expressions, pure functions,   recursion, higher order functions, encapsulation, inheritance, goal satisfaction, backtracking, unification.  Some of the ideas behind the implementation of the paradigms.  Course to be centered around problems and applications that demonstrate the main themes.
+
+## CS 154: Programming Paradigms Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Programming assignments that illustrate concepts from the  course CS 152.
+
+## CS 207: Discrete Structures
+- Credits: 6
+- Type: Theory
+- Description: Propositions and predicates, proofs and proof techniques. Sets, relations and functions, cardinality, basic counting.  Posets and lattices: Dilworth`s theorem, inversion and distributive lattices.  Graph theory :  paths, cycles, trees, connectivity.   Group theory : Lagrange`s theorem, homomorphisms, applications.
+
+## CS 208: Automata Theory and Logic
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 207
+- Description: Propositional logic: Review and SAT solving, some puzzle solving  Predicate Logic: Syntax, semantics, quantifier equivalences, notion of undecidability of predicate logic.  Rudiments of formal languages. Finite state machines (DFA/NFA/epsilon  NFAs), regular expressions. Properties of regular languages.    My hill-Nerode Theorem.  Non-regularity. Push down automata. Properties of context-free languages. Turing machines:Turing hypothesis, Turing computability,  Nondeterministic, multi tape and other versions of Turing machines. Church`s thesis, recursively enumerable sets and  Turing computability. Universal Turing machines. Unsolvability, The halting problem, partial solvability, Turing  enumerability, acceptability and decidability, unsolvable problems about Turing Machines. Post`s corres...
+
+## CS 210: Logic Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 203
+- Description: Introduction : The nature of  logic,  Boolean   Algebra  and  switching functions,     Number Systems, binary, hexadecimal and other systems.     Switching functions: Representation  and properties of switching functions  and  their  logic realizations  using GATES and Switches. simplification of switching  functions.  Introduction to VHDL:   Introduction to CAD for logic design, concepts of behavioral and structural  description, Introduction to CAD tools, VHDL language concepts and  statements. CAD of logic circuits through VHDL and FPGAs, CPLDs.   Digital Systems Building blocks:  Combinational logic elements, Decoders/Encoder, Multiplexors,De-multiplexors, Sequential logic elements, Flip-Flops, Registers, Shift Registers and Counters. Examples of applications.       Optimal Design : Mi...
+
+## CS 213: Data Structures and Algorithms
+- Credits: 6
+- Type: Theory
+- Description: Introduction to data structures, abstract data types, analysis of algorithms.   Creation and manipulation of data structures: arrays, lists, stacks, queues, trees, heaps, hash tables, balanced trees, tries, graphs. Algorithms for sorting and searching, order statistics, depth-first and breadth-first search, shortest paths  and minimum spanning tree.
+
+## CS 215: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+- Description: The role of statisitcs. Graphical and numerical methods for describing and summarising data. Probability. Population distributions. Sampling variability and sampling distributions. Estimation using a single sample. Hypothesis testing a single sample. Comparing two populations or treatments. Simple linear regression and correlation. Case studies.
+
+## CS 217: Artificial Intelligence and Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1) Search: Uninformed search, A* search, adversarial search, local search.(2) Planning: Markov Decision Problems, Value Iteration and Policy lteration.(3) Probabilistic reasoning: Bayes nets, conditional independence, exact and approximate inference.(4) Supervised learning: Linear methods for classification and regression, regularisation, cross-validation, decision trees, neural networks, ensemble methods.(5) Unsupervised leaming: k-means clustering.(6) Selected topics from natural language processing, robotics, computer vision, multi-agent systems
+
+## CS 218: Design and Analysis of Algorithms
+- Credits: 6
+- Type: Theory
+- Description: Models  of computation, algorithm  analysis,  time  and  space complexity, average and worst  case  analysis,  lower bounds. Algorithm  design  techniques:  divide and  conquer, greedy, dynamic programming, amortization, randomization. Problem  classes P, NP, PSPACE; reducibility, NP-hard and NP-complete problems. Approximation  algorithms  for  some  NP-hard  problems.
+
+## CS 219: Operating Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to operating systems: Application requirements, the systems stack and role of OS, abstractions, interfaces, resource management, hardware architecture basics. Processes and process management: The system call interface, the process abstraction, user and kernel modes of execution, inter-process communication, fundamentals of CPU scheduling. Memory management: Memory view of a process,address space abstraction using virtual memory, demand paging, memory management policies. Concurrency and synchronization: Use cases of concurrent execution, introduction to synchronization, user space vs. kernel space concurrency, design and usage of synchronization primitives. Filesystems: Persistence and the file abstraction, device interface and device management, principles of designing files...
+
+## CS 224: Computer Networks
+- Credits: 6
+- Type: Theory
+- Description: Internet architecture and the layering abstraction. Application layer: network application architectures and examples. Socket programming.  Transport layer: transport protocol design,  analysis of TCP.  Network layer: addressing, routing, forwarding, interdomain routing. Router design and scheduling.  QoS and resource allocation.  Traffic engineering,  network address translation and other practical topics.  Link layer: channel access, switching, VLANs, MPLS. PHY layer basics: framing, encoding, modulation.
+
+## CS 228: Logic for Computer Science
+- Credits: 6
+- Type: Theory
+- Description: 1 Propositional logic: 1.1 Declarative sentences 1.2 Natural deduction 1.2. 1 Rules for natural deduction 1.2.2 Derived rules 1.2.3 Provable equivalence 1.3 Propositional logic as a formal language 1.4 Semantics of propositional logic 1.4.1 The meaning of logical connectives 1.4.2 Soundness of propositional logic 1.4 .3 Completeness of propositional logic 1.5 Normal forms 1.5.1 Semantic equivalence, satisfiability, and validity 1.5.2 Conjunctive normal forms and validity 1.5.3 Horn clauses and satisfiability 1.6 SAT solvers 2 Predicate logic 2.1 Predicate log ic as a formal language 2.1.1 Terms 2.1.2 Formulas 2.1.3 Free and bound variables 2.1.4 Substitution 2.2 Proof theory of predicate logic 2.2.1 Natural deduction rules 2.2.2 Quantifier equivalences 2.3 Semantics of predicate logic 2.3....
+
+## CS 230: Digital Logic Design and Computer Architecture
+- Credits: 6
+- Type: Theory
+- Description: 1 Logic gates, SOP, POS, KMAPs, Number system: fixed point, floating-point, combinational circuits 2 Combinational circuits, sequential circuits 3 Sequential circuits, FSMs 4 FSM, FSM Minimization 5 Intro to processors, CPU. Von Neumann architecture, ISA vs microarchitecture, computer organization 6 Instruction pipelining 7 Mid-sem Week 8 Superscalar processors 9 Superscalar processors, SMTs 10 Memory hierarchy including virtual memory 11 More on Caches, DRAM 12 Storage and I/O 13 GPUs, TPUs, and accelerators, Case study: Recent Processors and GPUs
+
+## CS 231: Digital Logic and Computer Architecture Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Labs on (a) Verilog/VHDL, (b) combinational and sequential circuits, (c) assembly language programming, (d) Instruction pipelining and superscalar processors, and (e) Memory hierarchy optimizations involving tools like Pin and architecture simulators,
+
+## CS 232: Digital Logic Design and Computer Architecture Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Lab Intro to Verilog Lab warm-up Graded lab 1: combinational circuit Graded lab 2: Sequential circuit Graded lab 3: Implementing an FSM Graded Lab 4: assembly language programming Graded Lab 5: Instruction Pipelining Introduction to Intel PIN, Perf, VTune, and architectural simulators Graded Lab 6: Superscalar processors Graded Lab 7: Memory hierarchy, related optimizations Graded Lab 8: DRAM optimizations Graded lab 9: Simple GPU Programming assignments
+
+## CS 236: Operating Systems Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Exercises for use and appreciation of operating system concepts such as process management, process synchronization, memory management, file systems etc. Design and implementation of operating system functionalities using xv6, a teaching OS. Lab assignments will be of two types:  (i) writing simple programs (e.g., shell) using the Linux system call APIs, and  (ii) exploring the internals of, and adding functionality to, a simple teaching OS (xv6)
+
+## CS 240: Artificial Intelligence and Machine Learning (Lab)
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: (1) Search: Uninformed search, A* search, (2) Planning: Markov Decision Problems, Value Iteration and Policy lteration. (3) Probabilistic reasoning: Bayes nets,  conditional independence, exact and approximate inference. (4) Supervised learning: Linear methods for classification and regression,  regularisation, cross-validation, decision trees, neural networks,  ensemble methods. (5) Unsupervised leaming: k-means clustering.
+
+## CS 251: Software Systems Lab
+- Credits: 8
+- Type: Theory
+- Description: 1. Vim/emacs HTML, CSS 2. Report and presentation software: latex, beamer, drawing software (e.g. inkscape, xfig, open-office) 3. IDE (e.g. eclipse, netbeans), code reading, debugging Basic Java Java collections, interfaces4. Java threads Java GUI Introduction to documentation: e.g. doxygen/javadocs 5. Version management: SVN/Git 6. Unix basics: shell, file system, permissions, process hierarchy, process monitoring, ssh, rsync 7. Unix tools: e.g. awk, sed, grep, find, head, tail, tar, cut, sort 8. Bash scripting: I/O redirection, pipes 9. Python programming10. Makefile, libraries and linking 11. Graph plotting software (e.g., gnuplot) 12. Profiling tools (e.g., gprof, prof) 13. Optional topics (may be specific to individual students302222 projects): intro to sockets, basic SQL for data sto...
+
+## CS 252: Computer Networks Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments to support study of the Internet protocol stack: (a) Understand the use of various command line tools like ping, arp, route, ifconfig, host, traceroute, dig etc. (b) Use packet sniffing tools like tcpdump, wireshark to understand various concepts: encapsulation/decapsulation; multiplexing demultiplexing, dhcp operation, IP fragmentation, ARP operation, ICMP operation, TCP operation, application protocols such as HTTP, FTP, SMTP.
+
+## CS 288: Logic Design Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments with Logic Building Blocks using SSI/MSI, Experiments on  Design  and/or  use  Minimization tools.   Use  of  VHDL  and simulation in Logic Design.    A  small project on design with the use of tools and  MSI  and/or  PLDs.
+
+## CS 293: Data Structures and Algorithms Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: CS 101
+- Description: Experiments based on creating and manipulating various data structures.
+
+## CS 296: Software Systems Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Introduction  to  the  UNIX operating system  (file   system  and directory   structure,  and  processes).    Unix   tools   (shell  programming,   grep,  tar,  compress,  sed,  find,   sort   etc).   Programming  in  AWK.  Introduction to World   Wide   Web  (html,   cgi). Programming  Using  Java, Graphical  User  Interface  Programming  using Java.  Socket programming in Java. Programming   tools  (make, source code control  using  sccs/rcs,  debuggers).  Document processing  using  Latex.
+
+## CS 302: Implementation of Programming Languages
+- Credits: 8
+- Type: Theory
+- Description: The compiled and interpreted execution models.   Lexical analysis and  parsing  using  lex  and  yacc.  Scope   and  visibility  analysis.  The role of  types.  Type analysis of a  language with basic types,derived types, parametric polymorphism and subtypes. Binding times.   Data layout  and lifetime management  of data.  Stack and  heap as storage structures.  Implementation of function calls. Activation records  structures.    Dynamic  memory  allocation and Garbage collection.  Implementation of higher order functions - closures. Implementation of control structures, exception handling. Implementation of object oriented concepts -- objects, inheritance and dynamic dispatch. Implementation   of  a   naive  code   generator  for   a  virtual machine. Security checking of virtual machine ...
+
+## CS 305: Computer Architecture
+- Credits: 6
+- Type: Theory
+- Description: Computer organization, von Neumann arch. Instruction set design Measuring performance, Amdahl`s law, CPI Datapath and control path Pipelining, hazards Memory hierarchy, cache design, cache performance Some queuing theory (if time permits) Disk storage RAID Error correction codes, Hamming codes I/O Buses Multiprocessors (if time permits)
+
+## CS 306: Implementation of Programming Languages Laboratory
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Design and implementation of a compiler for a sufficiently rich subset of a real programming language. The compiler will be automatically generated through use of tools such as LEX and YACC. The assignments should cover Parsing, AST construction, 3-address code generation, and code generation.
+
+## CS 308: Embedded Systems Lab
+- Credits: 4
+- Type: Laboratory
+
+## CS 310: Automata Theory
+- Credits: 6
+- Type: Theory
+- Description: Finite state machines (DFA/NFA/epsilon NFAs), regular expressions. Properties of regular languages. My hill-Nerode Theorem. Non-regularity. Push down automata. Properties of context-free languages. Turing machines:Turing hypothesis, Turing computability, Nondeterministic, multi tape and other versions of Turing machines. Church`s thesis, recursively enumerable sets and Turing computability. Universal Turing machines. Unsolvability, The halting problem, partial solvability, Turing enumerability, acceptability and decidability, unsolvable problems about Turing Machines. Post`s correspondence problem.
+
+## CS 316: Implementation of Programming Languages Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Design and implementation of a compiler for a sufficiently rich subset of a real programming language. The compiler will be automatically generated through use of tools such as LEX and YACC.
+
+## CS 317: Database and Information Systems
+- Credits: 6
+- Type: Theory
+- Description: Overview of data management systems. Relational model, relational algebra and SQL. Database design using the ER Model, ER Diagrams. Relational database design and normalization. Overview of storage structures and indexing, query processing and optimization, and transaction processing. Introduction to Big Data management concepts such as: distributed and scalable data storage, including distributed file systems, key value stores, replication and consistency. Parallel data processing using the Map Reduce and algebraic frameworks.
+
+## CS 320: Implementation of Programming Languages
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: The compiled and interpreted execution models. Lexical analysis and parsing using lex and yacc. Scope and visibility analysis. The role of types. Type analysis of a language with basic types, derived types. Binding times. Data layout and lifetime management of data. Stack and heap as storage structures. Implementation of function calls. Activation records structures. Implementation of control structures, exception handling. Implementation of object oriented concepts -- objects, inheritance and dynamic dispatch. Implementation of a naive code generator for a virtual machine.
+
+## CS 333: Operating Systems Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Experiments for use and appreciation of operating system functions such as process management, inter-process communication, process synchronization, memory management and file systems etc. Exposure to usage of tools towards measuring and monitoring of operating systems related parameters and services. Design and implementation of operating system functionalities.
+
+## CS 335: Artificial Intelligence and Machine Learning (Lab)
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: (1) Search: Uninformed search, A* search, dversarial search, local search.(2) Planning: Markov Decision Problems, Value Iteration and Policy Iteration.(3) Probabilistic reasoning: Bayes nets, conditional independence, exact and approximate inference.(4) Supervised leaming: Linear methods for classification and regression, regularisation, cross-validation,decision trees, neural networks, ensemble methods.(5) Unsupervised learning: k-means clustering.(6) Selected topics from natural language processing, robotics, computer vision, multi-agent systems.
+
+## CS 337: Artificial Intelligence and Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: (1) Search: Uninformed search, A* search, adversarial search, local search.(2) Planning: Markov Decision Problems, Value Iteration and Policy lteration.(3) Probabilistic reasoning: Bayes nets, conditional independence, exact and approximate inference.(4) Supervised learning: Linear methods for classification and regression, regularisation, cross-validation, decision trees, neural networks, ensemble methods.(5) Unsupervised leaming: k-means clustering.(6) Selected topics from natural language processing, robotics, computer vision, multi-agent systems
+
+## CS 339: Abstractions and Paradigms for Programming
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Review of the program development process, Issues in program design, Structured programming, Data and control abstractions, Programming with assertions. Reasoning about programs and proving correctness of programs. Ideas behind imperative, applicative, object oriented and logic programming paradigms such as typing, expressions, pure functions, recursion, higher order functions, encapsulation, inheritance, goal satisfaction, backtracking, unification. Some of the ideas behind the implementation of the paradigms. Course to be centered around problems and applications that demonstrate the main themes.
+
+## CS 341: Computer Architecture Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Computer organization, von Neumann arch. Instruction set design Measuring performance, Amdahl`s law, CPI Datapath and control path Pipelining, hazards Memory hierarchy, cache design, cache performance Some queuing theory (if time permits) Disk storage RAID Error correction codes, Hamming codes I/O Buses Multiprocessors (if time permits)
+
+## CS 344: Artificial Intelligence
+- Credits: 6
+- Type: Theory
+- Description: Search: Problem representation; State Space Search; A* Algorithm and its Properties; AO* search, Minimax and alpha-beta pruning, AI in games.  Logic: Formal Systems; Notion of Proof, Decidability, Soundness, Consistency and Completeness; Predicate Calculus (PC), Resolution Refutation, Herbrand Interpretation, Prolog.   Knowledge Representation: PC based Knowledge Representation, Intelligent Question Answering, Semantic Net, Frames, Script, Conceptual Dependency, Ontologies, Basics of Semantic Web.  Leaning: Learning from Examples, Decision Trees, Neural Nets, Hidden Markov Models, Reinforcement Learning, Learnability Theory.  Uncertainty: Formal and Empirical approaches including Bayesian Theory, Fuzzy Logic, Non-monotonic Logic, Default Reasoning.   Planning: Blocks World, STRIPS, Constra...
+
+## CS 347: Operating Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Overview of operating systems: batch processing, multiprogramming, time-sharing and real time systems.  Concurrent processes: communication and synchronisation. Process management, deadlocks.  Main memory management: paging, segmentation, sharing of programs and data. Device management. Information management: file system, security. A case study of UNIX.
+
+## CS 348: Computer Networks
+- Credits: 6
+- Type: Theory
+- Description: Design of Computer Networking protocols at all layers: transmission media, data link protocols, media access control, routing and congestion control, admission control, traffic shaping and policing, Internet working (IP) and transport layer protocols (TCP). Performance analysis of networks.
+
+## CS 349: Database and Information Systems Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Basic and advanced/analytical SQL queries.    Database access from programming languages.    Design and development of database-backed information systems. Security issues related to database access and web application development.  Parallel data processing using Spark or similar platforms.  Graph and streaming/time-series databases.  Team project on database applications or internals.
+
+## CS 355: Programming Paradigms Laboratory
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: - Programming abstractions     - Functional programming     - Object-oriented programming     - Reasoning about programs with assertions     - Implementation models for paradigms
+
+## CS 377: Operating Systems Lab
+- Credits: 3
+- Type: Laboratory
+- Description: x
+
+## CS 378: Computer Networks Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments to support study of the Internet protocol stack: (a) Understand the use of various command line tools like ping, arp, route, ifconfig, host, traceroute, dig etc. (b) Use packet sniffing tools like tcpdump, wireshark to understand various concepts: encapsulation/decapsulation; multiplexing demultiplexing, dhcp operation, IP fragmentation, ARP operation, ICMP operation, TCP operation, application protocols such as HTTP, FTP, SMTP.
+
+## CS 386: Artificial Intelligence Lab
+- Credits: 3
+- Type: Laboratory
+- Description: The lab will closely follow and aim to elucidate the lessons covered in the theory course CS344. Implementation and study of A*, Usage of Prolog Inferencing, Expert System Shells, Neural Net Platforms, Prediction and Sequence Labeling using HMMs, Simulation of Robot Navigation and such exercises are strongly recommended.
+
+## CS 387: Database and Information Systems Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Use of database systems supporting interactive SQL.  Two-tier client-server applications using JDBC or ODBC, Three-tier web applications using Java servlets/JDBC or equivalent. Design of applications and user interfaces using these systems.  Data analysis tools. Laboratory project involving building data backed applications with Web or mobile app frontends.
+
+## CS 408: Graph Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 207
+- Description: Matchings: Hall-s matching   condition,   Tutte-s  1-factor theorem, Petersen-s theorem, f-Factors of graphs,  Weighted bipartite matching algorithm, Stable matching algorithm, Edmond-s Blossom algorithm. Connectivity: Vertex and edge connectivity, Ear decomposition, Menger-s theorem, Mader-s disjoint paths theorem. Coloring of Graphs: Vertex coloring, Brook-s theorem, Edge coloring, Vizing-s theorem, List coloring. Planar Graphs: Euler-s formula, Characterization of planar graphs, Coloring of planar Graphs, Dual graphs, Crossing  number Extremal Graph Theory: Turan-s theorem, Graph Ramsey theory,  Dirac-s theorem.  Selected Advanced Concepts: Perfect graphs,  Partitioning graphs   into paths and cycles, Random graphs.
+
+## CS 419: Introducing to Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 213
+- Description: This course will provide a broad overview of Machine Learning with a stress on applications.  Supervised learning: Decision trees, Nearest neighbor classifiers, Generative classifiers like naive Bayes, Support vector Machines  Unsupervised learning: K-Means clustering, Hierarchical clustering, EM, Itemset mining  Applications: image recognition, speech recognition, text and web data retrieval, bio-informatics, commercial data mining.
+
+## CS 449: Topics in Artificial Intelligence Programming
+- Credits: 6
+- Type: Theory
+- Description: Pattern  recognition and analysis, supervised  and  unsupervised  learning, learning in neural nets, associative memories.  Natural  Language  Processing:  Stages  of  processing,  parsing  Techniques. GPSG, LFG and such other Chomskian approaches.  Case  Grammar based methods, Morphological processing, Lexicon building  and Organization, knowledge representation for NLP.  Intelligent   Systems   in   Management:    strategic-operational  problems,  effectiveness  measures, heuristics  in  planning  and  scheduling  problems, learning and process redesign.  Information Management:  intelligent retrieval on the web, semantic  distance measures.     Intelligent  Systems  in  Medicine:  diagnostic   and  prognostic approaches, case based learning and system evolution.   Rewrite Systems, Autom...
+
+## CS 593: Dual Degree Project I
+- Credits: 36
+
+## CS 594: Dual Degree Project II
+- Credits: 36
+
+## CS 601: Algorithms and Complexity
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Techniques for the Design and Analysis of Algorithms. Formal models of computation, time and space complexity, Theory of NP-Completeness, Approximability of NP-Hard problems. Introduction to parallel, randomized and on-line algorithms.
+
+## CS 602: Applied Algorithms
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Selected algorithms from areas such as graph and combinatorial algorithms, computational geometry, string processing algorithms, algebraic and number theoretic algorithms, linear programming and combinatorial optimization.
+
+## CS 603: Geometric Algorithms
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Basic topics in computational geometry: Combinatorial geometry of arrangements, Voronoi diagrams, Convex polytopes, algorithms to construct them, geometric search structures, the use of randomization in computational geometry, basic applications to computer graphics etc.
+
+## CS 604: Combinatorics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Min-max results. Dilworth"s theorem, Hall"s theorem.   Menger"s theorem.   Topics on tournaments. Perfect graphs. The weak perfect graph theorem.   Ramsey theory.   Set Systems. Sperner, Erdos-Rado and the Erdos-Ko-Rado theorems.   Colex orders and the Kruskal-Katona theorem.   The probabilistic method. Some sample applications of the probabilistic method. Second moment method and applications.   Matroid theory. The theory of designs.   Combinatorics and Algorithm design. The Lovasz-theta function and its use in designing algorithms.
+
+## CS 605: Probability and Statistics for Computer Science
+- Credits: 6
+- Type: Theory
+- Description: Review of probability basics. Discrete and continuous distributions, common distributions (Poisson, exponential, Gaussian, etc.), functions of random variables. Multivariate Distributions, joint and marginal distributions, covariance and correlation, sums of random variables, sampling theory.  Estimators, confidence intervals, hypothesis testing and P-values, design of experiments. Miscellaneous topics - Markov Chains, Queueing Theory.
+
+## CS 606: Foundations of Parallel Computation
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 301
+- Description: Fundamental theoretical issues in designing parallel algorithms and architectures.   Parallel computers based on interconnection networks such as hypercubes, shuffle-exchanges, trees, meshes and butterfly networks. Parallel algorithms for arithmetic, linear algebra, sorting, Fourier Transform, recurrence evaluation, and dense graph problems. Use of graph embedding techniques to compare different networks.   Shared memory based parallel computers. Algorithms for list ranking, maximal independent set, arithmetic expression evaluation, convex hull problems and others.   Message routing on multidimensional meshes, Butterfly networks, Hypercubes, Shuffle Exchange networks, Fat-trees and others. Simulation of shared memory on networks. Routing on expander-based networks.   Limits to parallelizab...
+
+## CS 608: Approximation Algorithms
+- Credits: 6
+- Type: Theory
+- Description: Notion of approximation algorithms for NP-Hard Problems. Approximation ratios, approximation schemes. Introduction to Linear Programming and the primal dual method.  Examples from Scheduling, Bin Packing, Set Cover, Network Design, Graph Algorithms, Flows and Cuts.  Introduction to Hardness of Approximation.
+
+## CS 613: Design & Implementation of Functional Programming Languages
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Illustration of Basic concepts in FP using Haskell: Functions as first class objects, Laziness, Datatypes and pattern matching, Types, Classes and overloading, Side-effect free IO. Introduction to Lambda Calculus: Syntax of Lambda terms, Alpha, beta and delta conversions, Normal forms, applicative order and normal order reductions, Church-Rosser theorems, Y combinator and recursion.   Type Inference: Hindley-Milner type checking algorithm and its extension to handle type classes.   Implementation of FP Languages: Supercombinators and Lambda Lifting, Graph reduction, Three instruction machine (TIM). Selected topics in Functional Programming: Bird-Meertens Formalism, Abstract Interpretation, Functional Programming using Monads.    Selected topics in Functional Programming: Bird-Meertens Form...
+
+## CS 614: Advanced Compilers
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 324
+- Description: Prerequisites:  Exposure to a UG course on compilers  Introduction    to  code optimisation.  Classical   theory  of    data    flow  analysis.    Bi-directional  data  flows.    Unified  algorithms   for   data  flow  analysis.   A  generalised  theory  of   data   flow   analysis. Program representation for optimisation  -  SSA form, etc.  Efficient      code     generation     for     expressions.       Code    generator generators    (CGGs).    Code   generation   for   pipelined    machines.  Register allocation techniques.  Concurrentisation and vectorisation of programs.
+
+## CS 615: Formal Specification and Verification of  Programs
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Reasoning about sequential programs: Programs as (possibly infinite) state transition systems; specifying program correctness using pre- and post-conditions; partial and total correctness semantics; Hoare logic and its rules for a simple imperative sequential language; weakest pre-condition and strongest post-condition semantics; central importance of invariants in program verification.  Brief introduction to lattices and the theory of abstract interpretation; some numerical abstract domains: intervals, difference bound matrices, octagons, polyhedra; computing abstract post-conditions and abstract loop invariants;  refining abstractions and counterexample-guided abstraction refinement  Predicate abstraction and boolean programs; converting assertion to a location reachability problem; loca...
+
+## CS 616: Parallelizing Compilers
+- Credits: 6
+- Type: Theory
+- Prerequisite: UG com
+- Description: Parallelizing Compilers - motivation and overview, structure of a parallelizing compiler; review of code optimization techniques in compilers for sequential machines.   Parallelism detection - data dependence, direction vectors, loop carried and loop independent dependences; tests for data dependence and their applicability, construction of data dependence graph.   Control dependence and control dependence graph.   Restructuring transformations and automatic extraction of parallelism; representation of iteration spaces of multiply nested loops; loop based transformations such as loop distribution, loop coalescing, loop inter-change and cycle shrinking transformation.   Introduction to machine models and associated algorithms for parallel code generation and task graph construction.   Inter...
+
+## CS 618: Program Analysis
+- Credits: 6
+- Type: Theory
+- Description: Prerequisites. First course in compiler construction.    Mathematical Foundations of Program Analysis Lattices: partial orders and approximations, bounded lattices, complete lattices. Function spaces monotonicity, distributivity, separability, boundedness. Fixed Point Computations: least fixed point and induction, greatest fixed point and co-induction.  Abstract interpretation: concretisation and abstraction functions, Galois connection. Alias analysis of heap data Type of alias information: Context sentitive/insensitive, flow sensitive.insensitive, may/must aliases.  Representations of heap properties: shape graphs, alias graphs, storage shape graphs, k-limiting, compact representations, access graphs.  Data flow analysis for aliases.   Liveness analysis of heap data Shape graphs and heap...
+
+## CS 620: New Trend in Information Technology
+- Credits: 6
+- Type: Theory
+- Description: Formal methods and machine learning: Machine learning (ML) is increasingly being used in applications where formal guarantees are desirable. For example, self-driven vehicles use ML components, wrong decisions by which can lead to fatal accidents. The ACAS Xu system for collision avoidance of autonomous drones is another such example, where a neural network is required to satisfy properties rigorously specified in logic. Formal robustness guarantees of image classification networks require the class label to not change until the image is perturbed beyond an acceptable threshold. For various historical reasons, mainstream ML research has focused on development of an extremely rich set of tools, techiniques and models that can be used to perform extremely well in most scenarios, without form...
+
+## CS 621: Artificial Intelligence
+- Credits: 6
+- Type: Theory
+- Description: Prerequisites: Undergraduate Course on Artificial Intelligence  Knowledge Representation: The First Order Predicate Logic, Production Systems, Semantic Nets, Frames and Scripts Formalisms.   Resolution in Predicate Logic, Unification, Strategies for Resolution by Refutation.   Knowledge Acquisition and learning: Learning from examples and analogy, Rote learning, Neural Learning, Integrated Approach.   Planning and Robotics: STRIPS, ABSTRIPS, NOAH and MOLGEN planners, preliminary ideas of distributed and real time planning, Subsumption architecture based planning.  Expert Systems: fundamental blocks, case studies in various domains, concept of shells, connectionist expert systems.  Introduction to Natural Language Understanding: problems of ambiguity, ellipsis  and  polysemy,  lexicalizatio...
+
+## CS 626: Speech and Natural Language Processing and the Web
+- Credits: 6
+- Type: Theory
+- Description: Sound     : Biology of Speech Processing; Place and Manner                     of Articulation; Peculiarities of Vowels and                    Consonants; Word Boundary Detection; Argmax                   based computations; HMM and Speech                   Recognition  Words and Word Forms: Morphology fundamentals; Isolating,                  Inflectional, Agglutinative morphology; Infix, Prefix                   and Postfix Morphemes, Morphological Diversity of                   Indian Languages; Morphology Paradigms; Rule                   Based Morphological Analysis: Finite State                   Machine Based Morphology; Automatic Morphology                   Learning; Shallow Parsing; Named Entities;                   Maximum Entropy Models; Random Fields  Structures: Theories of P...
+
+## CS 631: Implementation Techniques for Relational Database Systems
+- Credits: 6
+- Type: Theory
+- Description: Physical storage and indexing structures, Query processing algorithms, Query optimization, Transaction processing and serializability, Concurrency Control, Recovery.   Big data management: transaction and query processing on parallel and distributed databases including issues of availability, replication, consistency, concurrency control, and recovery.   Emerging database trends.
+
+## CS 632: Advanced Database Management Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 631
+- Description: The course will be based primarily on research papers covering the following topics:        Top-k query processing including skylines, Fagin"s algorithm and quality of top-k. Materialized views and its implications in ranking. Advanced query optimization, including database tuning. Adaptive query processing and optimization; Transaction and query processing on main-memory and columnar databases; Data streams and stream management systems; Handling uncertain data; Applications of declarative querying/optimization outside of database applications. While this area has seen many traditional methods, recently ML based techniques have shown empirical superiority to the traditional statistical methods.
+
+## CS 635: Information Retrieval & Mining for Hypertext & the Web
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Prerequisites: MA 212 or equivalent, CS 301 or equivalent, CS 317         or equivalent   Traditional information retrieval, inverted indices, vector space model. Recall and precision. The Internet, Web, HTTP and HTML. Need for further  research.  Models for hypertext and semistructured data. Distinctions between data-centric and document-centric views.  Supervised learning for text. Kinds of classifiers, strengths and weeknesses. Feature selection, motivations, models, and algorithms. Bayesian learners.  Modelling feature dependence. Exploiting topic hierarchies. Parameter estima- tion, smoothing and shrinkage. Maximum entropy and support-vector classifiers.  Unsupervised learning for text. Definitions of clustering problems. Distance measures and their weaknesses. Top-down and bottom-up ...
+
+## CS 641: Computer Networks
+- Credits: 6
+- Type: Theory
+- Description: Internet Architecture and the Layering Abstraction.  Application Layer: Network Appliction architecture and examples. Advanced Socket Programming.  High Performance web serve Design. Transport Layer: transport protocol design,congestion control mechanism,analysis of TCP. TCP variants. Network layer: Addressing, routine, forwarding, interdomain routing.Linux network programming. Router design,scheduling policies for QoS and resource allocation. Traffic Engineering. Network address translation and other practical topics.. Link Layer: Channel Access,switiching VLANs,MPLS. Understanding network performance:basics of queueing theory. Introduction to wireless networking and network security . Advanced Topics: software defined networking.  Data Centre networking,network virtualization, Network Fu...
+
+## CS 646: Optical and Access Network
+- Credits: 6
+- Type: Theory
+- Description: The course is aimed at introducing the student to the vast field of optical networking and other related access technologies. The course begins with a primer on optical communication that enables the student to understand optical transmission. The course then delves into the networking aspects of optical networks, in particular focusing on paradigms of lightpaths and eventually leading to emerging paradigms of RPR and light-trails. Effort will be focused on contemporary optical network architectures, technologies, node architecture and protocols. In particular, focus will be on analysis and design of emerging optical platforms and networks. Recent developments like RPR would be understood and open problems discussed. In the last few weeks of the course, the focus shifts from optical networ...
+
+## CS 647: Advanced Wireless Networks
+- Credits: 6
+- Type: Theory
+- Description: Prerequisite:IT 601 (Mobile computing) desirable but not mandatory.  Medium access control in wireless LANs. Case studies of 802.11, Hiperlan, Bluetooth. Performance analysis and quality of service. Single and multi-hop adhoc networks: Routing issues. Case studies of Mobile IP, IPv6, DSR, AODV and other protocols. Transport issues: TCP adaptations for wireless and mobility. Flat and hierarchical architectures, personal/session/user mobility and supporting architectures.
+
+## CS 648: Special topics in Network Algorithms
+- Credits: 6
+- Type: Theory
+
+## CS 649: Network Security
+- Credits: 6
+- Type: Theory
+- Description: Prerequisites: IT 605 or equivalent.  Data security: Review of cryptography. Examples – RSA, DES, ECC, etc. Authentication, non–repudiation and message integrity. Digital signatures and certificates. Protocols using cryptography (example – Kerberos). Attacks on protocols. Network security: Firewalls, Proxy-Servers, Network intrusion detection. Transport security: Mechanisms of TLS, SSL, IPSec. Other topics: Biometric authentication, Secure E–Commerce (ex. SET), Smart Cards, Security in Wireless Communication.
+
+## CS 651: Advanced Microprocessor Systems
+- Credits: 8
+- Type: Theory
+
+## CS 653: Mobile Computing
+- Credits: 6
+- Type: Theory
+- Description: Mobile computing: introduction, challenges, history. Examples of mobile systems. Application layer frameworks for mobile systems (case study of Android). Other mobile ecosystems (e.g., RFID, vehicular networks). Design guidelines for mobile applications: energy efficiency, code offloading, concurrency, handling disconnected operations, efficient network communication, crowd sourcing. Localization, location based services, context-aware applications, location privacy. Mobile security. Mobile web and video performance optimizations. Interfacing mobile systems with other networks and clouds.  The course will consist of a big project component where students build a networked mobile application using all the design guidelines learnt during the course.
+
+## CS 654: Current Topics in VLSI and System Design
+- Credits: 6
+- Type: Theory
+- Description: VLSI System design flow, VLSI architectures, Hardware design verification, Formal verification of high level designs (verification of C with HDL), Sequential equivalence checking of RTL and system level designs, Patchable hardware design, Post silicon validation and debug techniques, Design for validation. Advanced VLSI testing techniques: Power and temperature aware test, test data volume reduction, cell aware test development, 3D chip testing etc.Robust system design: Dependability analysis across the design abstraction levels, better than worst-case design.Approximate computing, Reversible logic and Quantum computing.
+
+## CS 663: Fundamentals of Digital Image Processing
+- Credits: 6
+- Type: Theory
+- Description: The topics covered will include the following:       (1) Image acquisition and representation:       * camera model and image formation;       * sensing, sampling, quantization;       * color representation and color spaces, human visual system;       * image file formats.       (2) Basic operations and intensity transformations:       * image interpolation;       * image thresholding;       * contrast modification, histogram equalization and specification.       (3) Spatial filtering:       * image noise and artifacts;       * linear systems and filters, convolution, correlation;       * image smoothing, sharpening, template matching, other applications;       * detecting edges and corners;       * filtering color images.       (4) Image segmentation:       * region-based methods;       *...
+
+## CS 671: ICT for Socio-economic Development
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CS 674: Computer Vision Understanding
+- Credits: 8
+- Type: Theory
+
+## CS 675: Computer Graphics
+- Credits: 6
+- Type: Theory
+- Description: 1.Rasterization of lines and circles, Clipping algorithms 2.Synthetic Camera and Image formation models 3.2D and 3D transformations 4.The Modelling-Viewing Pipeline 5.Visibility 6.Ray Tracing 7.Shading and Illumination models 8.Texture Mapping 9.Curves and Surfaces 10.Hierarchical Modelling, Animation.
+
+## CS 678: Current Topics in Intelligent Systems
+- Credits: 8
+- Type: Theory
+
+## CS 681: Performance Analysis of Computer Systems and Network
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 212
+- Description: Performance measures of computing and networking systems; open and closed loop load testing and performance measurement; performance modeling using Markovian queuing systems (M/M/c/k), asymptotic analysis of queues, basic queuing system laws: Utilization Law, Little-s Law; non-Markovian queues (M/G/1), open and closed queueing networks; design, implementation and statistical analysis of discrete event simulation models; application of data driven models for performance prediction: (machine learning models- e.g. support vector regression, clustering based models, Bayesian optimization, neural network models). Case studies and applications of these methods through paper-readings and projects in a spectrum of distributed and networked systems --- e.g., web systems, virtualization platforms, c...
+
+## CS 682: Software Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: Exposu
+- Description: Overview of Basic Introductory Concepts, Software Development and Life Cycle, Project effort estimation, LOC and Function Point based estimates. Software System Analysis, ER model, Data Flow Diagrams. Requirement Specification Document. Software design methodologies, Software architecture design, module design. User Interface Considerations Software Product Development, Coding and Testing, Implementation. Computer Aided Software Engineering.
+
+## CS 683: Advanced Computer Architecture
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to High Performance Computing:  Overview, Pipeline vs Parallel Processing  Parallel Architectures :  Classification and Performance.  Pipeline Processing :  Pipeline Performance, design of arithmetic pipelines, multifiction pipes,  concept of reservation table, collision vector and hazards.  Instruction Processing Pipes:  Instruction and data hazard, hazard detection  and resolution, delayed jumps, delayed execution. RISC Philosophy.  Pipeline scheduling Theory:  Greedy pipeline scheduling algorithm,  state diagram, modified  state diagram, Latency cycles, Optimal cycles, scheduling of static &  dynamic Pipelines. Implementation of pipeline schedulers  Interconnection Networks :  Interconnection network classification, Single stage/ Multistage Networks, crossbars, clos Network...
+
+## CS 684: Embedded Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Pre-requisites:EE-712 (Embedded Systems) esp. for those wanting to do MTP in the area - else this may be seen as standalone course also).  Introduction to Embedded systems, hardware/software codesign, Embedded micro controller cores, embedded memories, Examples of embedded systems, sensors and interfacing techniques, Real-time concepts, real-time operating systems, Required RTOS services/capabilities (in contrast with traditional OS)   Resource Management/scheduling paradigms: static priorities, static schedules, dynamic scheduling, best effort current best practice in scheduling (e.g. Rate Monotonic vs. static schedules), Real-world issues:  blocking, unpredictability, interrupts, caching, Examples of OSs for embedded systems - RT Linux, VRTX  Programming languages for embedded systems, s...
+
+## CS 686: Object Oriented Systems
+- Credits: 6
+- Type: Theory
+- Description: Principles of Object Orientation motivations for OOP, objects and classes, abstraction and encapsulation, messages  inheritance, overriding, multiple inheritance dynamic binding, virtual methods, inclusion polymorphism abstract classes, virtual classes dynamic binding mechanisms in Smalltalk and C++ OO notations CRC method for designing classes, interclass relationships   A  Comparative  Study  of some  typical  Object  Oriented  Programming  Languages  such as C++, JAVA, Eiffel and Smalltalk. Purity  in  Object  orientation : the Smalltalk paradigm.  Object Oriented Analysis and Design Intoduction to object oriented software engineering. Use case analysis, object diagrams Dynamic Models - object interaction diagrams and state diagrams  Functional model From analysis to design Relevant top...
+
+## CS 691: R & D Project
+- Credits: 6
+- Type: Project
+- Prerequisite: 0
+- Description: x
+
+## CS 692: R & D Project II
+- Credits: 6
+- Type: Project
+
+## CS 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0
+
+## CS 695: Topics in Virtualization and Cloud Computing
+- Credits: 6
+- Type: Theory
+- Description: - Overview of virtualization/cloud computing - Virtualization technologies and architectures - Internals of virtual machine monitors/hypervisors - Measurement and profiling of virtualizedapplications - Server consolidation and placement policies - Dynamic provisioning and resource management - Migration mechanisms - Power management in virtualized environments - Implications of resource affinity and interference - Implementation examples of Cloud services
+
+## CS 699: Software Lab.
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1.Vim/emacs, HTML, CSS2.Preparing reports and presentations using latex, beamer, drawing software (e.g. inkscape, xfig, open-office), and graph plotting software (e.g., pyplot, gnuplot)3.Programming support: IDE (e.g. eclipse, netbeans), Makefile, debugging tools, profiling tools (e.g. gprof, prof), version management (SVN/Git),  code review, 4.Basic Java, Java collections, interfaces5.Unix basics: shell, file system, permissions, process hierarchy, process monitoring, ssh, rsync6.Unix tools: e.g. awk, sed, grep, find, head, tail, tar, cut, sort, Bash scripting: I/O redirection, pipes7.Programming using scripting language (e.g. python)8.Lexical analysis and parsing tools (e.g. lex/yacc, flex/bison)9.Optional topics (may be specific to individual students302222 projects): intro to sockets, ...
+
+## CS 709: Convex Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: This is primarily an introductory course on convex optimization. The focus however is on topics which might be useful for machine learning and    computer vision researchers. Accordingly, some advanced/specialized   topics are included: 1. Theory  - Convex Analysis: Convex Sets, Convex Functions, Calculus of convex functions  - Optimality of Convex Programs: 1st order nec. and suff. conditions, KKT conditions  - Duality: Lagrange and Conic duality  2. Standard Convex Programs and Applications  - Linear and Quadratic Programs - Conic Programs: QCQPs, SOCPs, SDPs. 3. Optimization Techniques - Smooth Problems: (proj.) Gradient descent, Nesterov`s accelerated method, Newton`s methods - Non-smooth Problems: (proj.) Sub-gradient descent - Special topics: Active set and cutting planes methods
+
+## CS 711: Topics in Computational Ring Theory and Algebras
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A choice of topics from the following list:Commutative ring theory: homomorphisms, ideals and modules; Examples of finite and infinitely generated rings and ideals; Rings of functions; Integral domains, fields, prime and maximal ideals; Subrings and restrictions; Over-rings and extensions.Euclidean domains and PIDs; finitely generated modules over PIDs; the single linear transformation; the Smith Normal Form for modules over PIDs and its computation; Applications in lattices and in signal processing.Algebras: The Hilbert basis theorem and finite generations of ideals; polynomial algebras and solution of sets of equations; The Hilbert Nullstellensatz; Varieties and ideals.The Buchberger algorithm; Computation with Macaulay and Grobner bases.
+
+## CS 713: Special Topics in Automata and Logics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: The course aims at giving an introduction to the theory of automata working on infinite words and infinite trees and connections thereof to logics. These automata and related logics are of fundamental importance in the areas of formal specification and verification of reactive systems. If time permits, we will also discuss some basic results in finite model theory.  Below is a list of topics, which will be discussed in this course.  Automata on finite words - equivalence of MSO and automata; Automata on infinite words – different acceptance conditions; Closure properties and equivalence of different acceptance conditions and related translations  Determinization and complementation results; Equivalence of automata and MSO and decidability of MSO; Automata on infinite trees - different acce...
+
+## CS 715: Design and Implementation of Gnu Compiler Generation Framework
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CS 718: Software Architecture
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Design and architectural considerations. Model driven approach. Large scale Reuse, Frameworks and Product lines. Architectural viewpoints and approaches to architectural modeling. Architectural abstractions such as components, connectors, processes and coordination. Software architecture description languages. Meta-modeling. Process-oriented modeling. Architectural patterns and their implementations. Topics related to issues such as concurrency, sharing, distribution and interoperability. Architectural paradigms such as agent-oriented, service-oriented, work-flow and event driven architectures.
+
+## CS 719: Topics in Mathematical Foundations of Formal Verifications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Order and lattice theory:Ordered sets: definitions, diagrammatic representations,down-sets, up-sets, maps between ordered setsLattices: definitions, sublattices, products, homomorphisms,ideals and filters, complete lattices, chain conditions andcompleteness, join-irreducible elements,Distributive and Boolean lattices: definitions, M3−N5theorem, Boolean lattices and Boolean algebras, results forfinite distributive and finite Boolean latticesComplete lattices, closure operators, Galois connections andcompletions, CPOs and fixpoint theoremsWell-quasi orders and better-quasi orders, Higman302222s Lemmaand applicationsFirst-order Logic:Quick recap of syntax, semantics, normal forms, decidabilityissues, completeness.Compactness of first-order logic and its applications, Craig302222sinterpolation...
+
+## CS 720: Spatial Databases
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: 1. Introduction, Motivation Application Domains of Geographical Information Systems (GIS), Common GIS data types and analysis, OGC standards and reference geometry model. 2. Models of Spatial Data Conceptual Data Models for spatial databases (e.g. pictogram enhanced ERDs). Logical data models for spatial databases: raster model (map algebra), vector model (OGIS/SQL1999).  3. Spatial query languages Need for spatial operators and relations, SQL3 and ADT. Spatial operators, OGIS queries. 4. Spatial storage Methods Clustering methods (space filling curves), Storage methods (R-tree, Grid files), Concurrency control (R-link trees), Compression methods for raster and vector data Spatial indexing.  5. Spatio-temporal and moving object databases Spatio Bitemporal objects and operations. Querying, ...
+
+## CS 721: Introduction to Computational Complexity
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Good undergraduate background in Theory of Computation (CS331) (or Automata and Logic (CS 208)), Design and Analysis of Algorithms (CS 301) (or New design and analysis of Algorithms (CS218)) or equivalent.(a) A quick overview of computabilityThe Church-Turing thesis, decidability, reducibility, The recursion theorem, self-reference, decidability of logical theories(b) Time and space complexityMeasuring complexity, the classes P, NP, the P versus NP question, NP-completeness, The Cook-Levin TheoremSavitch302222s Theorem, separation results, Immerman-Szelepcsenyi Theorem, PSPACE completeness, Logspace computability, the classes L, NLAlternation, alternating complexity classesThe polynomial time hierarchy(c) IntractabilityHierarchy theorems, exponential space completeness, relativization, cir...
+
+## CS 724: Network Security and Cryptography II
+- Credits: 6
+- Type: Theory
+- Description: Prerequisites: IT 605 or equivalent.Data security: Review of cryptography. Examples 303242302200302223 RSA, DES, ECC, etc. Authentication, non303242302200302223repudiation and message integrity. Digital signatures and certificates. Protocols using cryptography (example 303242302200302223 Kerberos). Attacks on protocols.Network security: Firewalls, Proxy-Servers, Network intrusion detection.Transport security: Mechanisms of TLS, SSL, IPSec.Other topics: Biometric authentication, Secure E303242302200302223Commerce (ex. SET), Smart Cards, Security in Wireless Communication.
+
+## CS 725: Foundations of Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Remedial co-requisite: Mathematical foundations (Separately proposed by Prof. Saketh Nath) Recommended parallel courses: CS709 (Convex optimization) Course Content : Supervised learning: decision trees, nearest neighbor classifiers, generative classifiers like naive Bayes, linear discriminate analysis, loss regularization framework for classification, Support vector Machines Regression methods: least-square regression, kernel regression, regression trees Unsupervised learning: k-means, hierarchical, EM, non-negative matrix factorization, rate distortion theory.
+
+## CS 726: Advanced Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CS 728: Organization of Web Information
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CS 729: Topics in Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 725
+- Description: (a)Introduction to SVMs: Structural Risk Minimization, Gap-tolerant classifiers, Kernels (b)Kernel Learning (c)Multi-task Learning (d)Transfer Learning (e)Robust Learning (f)Deep Learning
+
+## CS 733: Advanced Distributed Computing - Engineering a Cloud
+- Credits: 6
+- Type: Theory
+- Description: Metrics for availability & performance. SLAs  A brief review of the two important theorems related to distributed systems - FLP and CAP Theorem and what they mean to real systems.   Linearizability, Consistency, Serializability - Types of consistency: Weak/Eventual/Strong/Causal/FIFO consistency. Locks Protocols vs Leases. Problems of transactional systems. Highly available transactions between data centers.   Time Uses of real and logical time for conflict resolution and maintaining causal histories. Time: real and vector clocks, version vectors. Facebook-s Cassandra database. Flexible consistency. Google TrueTime. Real clock time using atomic clocks & interval arithmetic.  Fault Tolerance Patterns - A taxonomy of patterns (Architectural, Failure Detection, Error Recovery Error Mitigation...
+
+## CS 735: Formal Models for Concurrent and Asynchronous Systems
+- Credits: 6
+- Type: Theory
+- Description: 1.Petri nets - Modeling and analyzing asynchronous systems using Petri nets. Decision problems related to reachability, coverability, etc. for different variants of Petri nets.  Other verification related issues. Tools, implementations and case-studies. 2. Asynchronous automata and Zielonka`s theorem. - partial orders, traces, diamond closure, optimal constructions.  3. Message passing automata and message sequence charts - Models for scenario based modeling of concurrent and message passing systems.  4. Lossy channel systems and generalization to the theory of well-structured transition systems. Properties of well-quasi orders, well-structured transition systems and decidability issues. Relation to Petri nets and other examples.
+
+## CS 736: Medical Image Computing
+- Credits: 6
+- Type: Theory
+- Description: The topics covered will include the following:      1) Medical imaging modalities      * Mathematical imaging models for physical quantities, sampling, noise models, artifact models.     * X-ray, computed tomography (CT), magnetic resonance imaging (MRI), diffusion MRI, functional MRI, positron-emission tomography (PET), microscopy, ultrasound, 2D imaging, 3D/volume imaging, dynamic imaging.       2) Data visualization      * Sectioning, multimodal images, overlays, rendering surfaces and volumes, glyphs, tools, applications in medical image computing.       3) Image models      * Statistical models of image intensities, geometric models for images, implicit representations, geometric deformable models, Markov random fields, statistical models of texture, learning models from image data, a...
+
+## CS 738: Concepts, Algorithms and Tools for Model Checking
+- Credits: 6
+- Type: Theory
+- Description: Course Content:  a) System Validation - A high level over view of the purpose of system validation, simulation, testing, formal verification, model checking, automated theorem proving. Modelling Concurrent reactive systems in NuSMV.        (b) Overview of Propositional and Predicate Logic, SAT/SMT Solving and  ROBDDs. MSO over words. Automata Theoretic Model checking of MSO properties. Tool MONA.         (c) Overview of  Temporal Logics PLTL and CTL. Automata over infinite words. Algorithms for Model checking PLTL and complexity. Checking PLTL properties using NuSMV.         (d) Model checking branching Logics:  Explicite state model checking algorithm for CTL. Logic Mu-Calculus. Symbolic Model checking of Mu-Calculus and CTL.  Fair CTL Model checking. Checking CTL properties using NuSMV. ...
+
+## CS 740: Mathematics for Visual Computing
+- Credits: 6
+- Type: Theory
+- Description: Multivariate Calculus: Functions (multi-variable, vector-valued) and their derivatives, Taylor series, matrix calculus, basic vector calculus 2. Optimization: unconstrained (gradient descent, Newton`s method, Levenberg-Marquardt algorithm, quasi-Newton methods), constrained (equality constraints, Lagrange multipliers) 3. Interpolation and regression: linear, polynomial, Barycentric coordinates 4. Numerical linear algebra: special matrices, matrix decompositions 5. Probability and statistics: distributions, mean, variance, covariance, bounds, likelihood function, Bayes rule, entropy, divergence, mutual information 6. Introductory projective geometry 7. Introductory differential geometry: tangent, normal, curvature 8. Numerical integration of functions and introductory numerical differential...
+
+## CS 741: Advanced Network Security and Cryptography
+- Credits: 6
+- Type: Theory
+- Description: Math background for cryptography, Elliptic Curve Cryptography (ECC), optimization techniques for ECC. Side channel attacks on AES and DSA. Attacks on factorization and the discrete logarithm. SSL vs. IPSec. WLAN and cellphone security protocols. FMS attack on WEP. Web security - advanced attacks and defences. Botnets - design and detection. Cloud security issues - data auditing, homomorphic encryption, etc. Electronic payment and currencies (ex. Bitcoins).
+
+## CS 742: Foundations of Network Security and Cryptography
+- Credits: 6
+- Type: Theory
+- Description: Vulnerabilities, risks, attacks, defences, forensics. Examples and applications of Public Key Cryptography and Secret Key Cryptography. Crypto hash, digital signatures, digital certificates and PKI. Basic Authentication and Key Agreement protocols, SSL/TLS and Kerberos. Vulnerabilities and attacks on TCP, DNS, ARP, etc. and DDoS attacks. Network/host intelligence gathering and reconnaissance methods. Web security - SQL injection, XSS, etc. Software security and buffer overflow. Malware types and case studies. Access Control, firewalls and host/network intrusion detection.
+
+## CS 743: Wireless Networks
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Motivation, History, Challenges Physical Layer: Modulation Techniques, Antenna, Channel Models, Fading Mitigation techniques; Case-study of 802.11a PHY Link Layer: Single-hop MAC protocols (CSMA, TDMA, FDMA, OFDMA etc); Case-study of WiFi and Cellular networks; multi-hop MAC protocols Network Layer: Mobile IP; distributed wireless routing algorithms (AODV, DSDV, DSR, OLSR), Routing metrics Transport Layer: TCP over wireless, Transport level mobility management, multihop transport protocols Application Layer: Mobile computing platforms (android); energy efficiency of apps Future trends in wireless networks.
+
+## CS 744: Design and Engineering of Computing Systems
+- Credits: 6
+- Type: Theory
+- Description: CPU scheduling, process management and inter-process communication, memory management, thread-safe programming, synchronization and concurrency control, synchronous and asynchronous I/O access mechanisms, design and implementation of scalable distributed systems, metrics for evaluation, tools and techniques for measurement, profiling and analysis of systems. These concepts will be taught through a series of exercises and assignments involving the design, implementation and evaluation of applications such web server, file server, game engine etc.
+
+## CS 745: Principles of Data and System Security
+- Credits: 6
+- Type: Theory
+- Description: ● Access Control: Mandatory Access Control, Discrete Access Control, Principles of Least Privilege, Distributed Access Control , Role based Access, Attribute Based Access, Key Management, SPKI/SDSI ● Concepts of Security: Confidentiality, Containment, isolation, Privacy, Anonymity, pseudo-anonymity etc., Policy specification, User authentication, Session management, multi-level security, multi-lateral security ● Security Mechanisms: Protection, Confinement, Isolation, Virtual machines, Non-interference Dealing with legacy code, Sandboxes, Separability, Data caging ● OS Security: Principles, Case studies of Operating Systems, secure OS like SELINUX ● Run-Time Monitoring: Security Automata, Edit Automata, Shallow Automata, ● Malware analysis and Counter measures: difficulties, approaches, de...
+
+## CS 746: Kernel Programming
+- Credits: 6
+- Type: Theory
+- Description: Kernel compilation and configuration, kernel modules, system calls and in-line assembly, memory management, process management and scheduling, interrupts and interrupt handlers, timers and time management, and synchronization, the virtual file system interface, kernel tracing, probing and profiling tools. A project that involves non-trivial code changes to the kernel.
+
+## CS 747: Foundations of Intelligent  and Learning Agents
+- Credits: 6
+- Type: Theory
+- Description: (1) Agency, intelligence, and learning(2) Exploration and multi-armed bandits(3) Markov Decision Problems and planning(4) Reinforcement learning(5) Search(6) Multi-agent systems and multi-agent learning(7) Case studies
+
+## CS 748: Advances in Intelligent and Learning Agents
+- Credits: 6
+- Type: Theory
+- Description: Advanced topics and research projects building on topics covered in ``Foundations of Intelligent and Learning Agents``. Specific topics covered could include, for example, the following.  (1) Contextual bandits (2) Partially Observable Markov Decision Problems (3) Function approximation for reinforcement learning (4) Sample complexity of reinforcement learning (5) Monte Carlo tree search (6) Evolutionary algorithms
+
+## CS 749: Digital Geometry Processing
+- Credits: 6
+- Type: Theory
+- Description: 3D shape representations: meshes, implicit surfaces, volumetric representations Basic geometric analysis: dimensions, geodesics, curvature, moments etc Advanced geometric analysis: discrete differential geometry, medial axis transform, spectral decomposition Geometric features (local and global): distance histograms, spherical harmonics, light field descriptors, heat kernel signatures Shape search and classification: nearest-neighbor lookup, statistical classifiers Shape segmentation: unsupervised (single and multi-shape), supervised Shape correspondences: sparse and dense Shape parametrizations (local and global): minimizing various metric distortions Surface reconstruction Statistical models of shape structure: templates, grammars, part-based graphical models Shape manipulation: editing ...
+
+## CS 750: Linear Optimization
+- Credits: 6
+- Type: Theory
+- Description: Vector Spaces: bases, echelon forms, rank and determinants. Gauss elimination and its complexity, Inner products, Gram- Schmidt orthogonalization. Linear transformations. Optimization: Modeling and formulation of optimization problems. Linear costs and convex domains. Mean-square (distance) minimizations. Linear programming and the Simplex algorithm. Duality and the primal dual method. Examples from combinatorial optimization. Shortest paths, network flows and matchings. Approximation and randomized algorithms. Matrix Games.
+
+## CS 751: Principles of  Concurrent and Parallel Programming
+- Credits: 6
+- Type: Theory
+- Description: 1. Concurrency Fundamentals: Critical Section, locks, mutual exclusion, mutex primitives, deadlock freedom, starvation freedom, progress requirements, atomicity, concurrent objects, nondeterminism, monitors, sequential consistency, linearizability, lock free concurrency, communicating sequential processes, rendezvous, java concurrency, data races, thread programming, memory consistency, software transaction Memory 2. Fundamentals of Parallelism (What is the purpose of Parallelism): power and potential of parallelism, paradigm shift, scalable performance and portability, parallel computer models, candidate type architectures (CTA), measuring performance and performance loss, scalable algorithmic techniques, parallelism with multiple instruction streams 3. Realizing Parallelism: Creation and...
+
+## CS 752: System Dynamics: Modeling & Simulation for Development
+- Credits: 6
+- Type: Theory
+- Description: ∙ Systems Principles as the structure of knowledge: Open and feedback systems Linear chain causality vs. feedback systems ∙  Feedback Systems Thinking/Causal Loop Diagrams: Causality, Causal Chains, Causal Loop Diagrams, link polarities, loop polarities,  Positive and Negative feedback loops 1st order and 2nd order loops ∙ Stock and Flow: notion of stock, rate of change, conservation of stock, system boundary - sources and sinks for flows Computer Simulation: Introduction to Vensim Discrete Time simulations. Acyclic models Fundamental modes of dynamic behavior: Exponential growth, Goal seeking, S-shaped Model Testing, Calibration and Behavior Analysis Multiple case studies: (will vary with offerings)  Advanced topics: (optional coverage) Parameter Estimation through Maximum Likelihood and ...
+
+## CS 753: Automatic Speech Recognition
+- Credits: 6
+- Type: Theory
+- Description: - Introduction to the statistical approach for automatic speech recognition (ASR) - Weighted Finite State Transducers and their Application to ASR - Acoustic Signal Processing for ASR - Acoustic models: Hidden Markov Models, Gaussian Mixture Models, Baum-Welch Maximum Likelihood Estimation - Discriminative Training of Acoustic Models: Maximum Mutual Information, Minimum Word/Phone Error Criteria - Acoustic models continued: Neural network models (Deep feed-forward neural networks, convolutional neural networks and recurrent neural networks) - Pronunciation models: Pronunciation dictionaries, grapheme-to-phoneme models, feature-based models - N-gram language models: estimation, smoothing - ASR decoding problem: search algorithms, Viterbi estimation, finite-state transducer optimizations
+
+## CS 754: Advanced Image Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: (1) Image transforms and statistics of natural images ● survey of statistical properties of image transform coefficients ● implications of these statistics for important image processing applications such as denoising, compression, source separation, deblurring and image forensics ● non-local self-similarity in images (2) Dictionary learning and sparse representations in image processing ● Overview of Principal Components Analysis (PCA), Singular Value Decomposition (SVD) and Independent Components Analysis (ICA); PCA, SVD and ICA in the context of image processing ● Sparse PCA ● Concept of overcomplete dictionaries ● Greedy pursuit algorithms: matching pursuit (MP), orthogonal matching pursuit (OMP) and basis pursuit (BP) ● Popular dictionary learning techniques: Method of Optimal Directi...
+
+## CS 756: Software Defined Networking and Network Function Virtualization
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: The course timeline is as follows (week-wise): - Switch designs - Controller platforms and NFV design - Resilience and Scalability - Performance evaluation of SDN and NFV - Dependability of NFV - Migration to SDN and NFV - SDN for telecommunications - Transport SDN - Northbound interfaces - Management: routing protocols, load balancers, Security ACLs, net-virt, netmon - ForCES - Carrier-grade SDN/NFV - Implementations-1 (SDN) - Implementations-2 (NFV) Project: An NFV project that can be implemented as : (a) NFV interaction with an SDN controller. (b) NFV module in a standalone setup (c) NFV module interacting with an SDN whitebox Mini Project: instantiate an SDN controller and compute quality of service readings.
+
+## CS 757: Design and Re-engineering of Object Oriented Programs
+- Credits: 6
+- Type: Theory
+- Description: Non-functional properties of design such as Modularity, Reuse, Adaptability, Evolvability, Separation of concerns, Robustness, Fixity, Flexibility and Openness; their implications to object oriented design. Design primitives such as Abstraction, Interclass relations, Inheritance and part-whole hierarchies, Recursive structures, Generic types and Templates, Concurrency, Threads and Synchronization, Objects as state machines, Exceptions. Use of design knowledge via Design patterns, Refactoring patterns; Topics in Reverse Engineering and Re-engineering. Empirical and qualitative analysis of design quality: Coupling and cohesion, Design metrics, Access graphs and Concept lattices.
+
+## CS 758: Advanced Tools from Modern Cryptography
+- Credits: 6
+- Type: Theory
+- Description: Secure Multi-Party Computation  Security Definitions Basic concepts and techniques Advanced results Practical implementations Advanced notions of Encryption & Signature Identity/Attribute-Based Encryption and Signatures Pairing-based constructions Functional Encryption Fully Homomorphic Encryption Lattice-based constructions Secure Cloud Storage and Computation Private Information Retrieval Searchable Encryption Verifiable ComputationAdditional Topics (as time permits) Obfuscation Digital Cash Voting Leakage-Resilient Cryptography10
+
+## CS 759: Perfect Matchings: Algorithms and Complexity
+- Credits: 6
+- Type: Theory
+- Description: Characterizing the existence of a perfect matching: Hall302222s theorem, Konig302222s theorem, Tutte302222s theorem. Polynomial time algorithms, Randomized parallel algorithms, Weighted and Exact Matchings,Next 3 weeks:Linear Programming formulations, Primal-dual algorithms, Matrix Scaling algorithm for Bipartite matchingNext 3 weeks:Hardness of Counting perfect matchings, Efficient Counting in Planar graphs (and minor-free graphs),Deterministic parallel algorithms for bipartite planar graphs,Next 1 week:Extended formulations for linear programs (the case of planar matching)Next 3 weeks:Derandomizing the parallel algorithm for bipartite, general and planar graphsIntroducing various generalizations of matching: f-factors, matroid intersection, matroid matching.
+
+## CS 760: Topics in Computational Complexity
+- Credits: 6
+- Type: Theory
+- Description: Boolean and Algebraic circuit complexity lower bounds Hardness vs randomness tradeoffs in the Boolean and Algebraic computation Computing GCD of Polynomials, Polynomial factorization, Elimination theory, Solving system of Polynomial Equations Topics in the theory of Error Correcting codes Locally decodable/correctable codes and applications Lower bounds in communication complexity and connections to Boolean circuit complexity PCP theorem and applications to hardness of approximation
+
+## CS 761: Derandomization and Pseudorandomness
+- Credits: 6
+- Type: Theory
+- Description: Randomized Complexity classes -- BPP, RP, RL, and motivation for derandomization. BPP subseteq Exp. Pairwise Independence and error-reduction for BPP.  Polynomial Identity Testing (PIT) and some applications. Miller-Rabin primality test and AKS derandomization.  Expander graphs, random walks, and expander Chernoff bound.  Randomized and deterministic logspace algorithms for s-t connectivity.  Pseudorandom generators. Hardness vs Randomness.  Depth-2 PIT. Small-bias spaces and almost k-wise independence. PRG for RL (Nisan, INW). PIT for ROABPs. PIT for rank-1-determinant.
+
+## CS 762: Advanced Blockchain Technology
+- Credits: 6
+- Type: Theory
+- Prerequisite: CS 620
+- Description: Overview of blockchains, Systematic treatment of Consensus for blockchains, Formal security guarantees of proof-of-work blockchain, Scalability of transaction throughput in permissionless chains and solutions, Computational Scalability in permissionless blockchains and solutions, Transactions scalability in permissioned blockchains. Privacy and anonymity in blockchains: case study of ZCash.
+
+## CS 763: Computer Vision
+- Credits: 6
+- Type: Theory
+- Description: 1. Camera geometry, multi-view geometry and stereovision2. Image registration: feature-point based registration foraffine transformations/homography; optical flow (nonrigidregistration); robust registration3. Segmentation and region growing4. Knowledge representation and inference5. Object recognition, detection, tracking6. Texture classification and recognition7. Pyramid paradigms8. Shape from Shading and Photometric Stereo9. Structure from Motion10. Activity recognition11. Computational Photography and super-resolution.
+
+## CS 764: Computer Vision Lab
+- Credits: 3
+- Type: Laboratory
+- Description: The lab will closely follow and aim to elucidate the lessons covered in the theory course titled "Computer Vision`-. Programming assignments will be provided to illustrate practical concepts in a subset of the following topics:  (1) Camera matrix and calibration  (2) Stereo vision  (3) Panoramic Mosaicing  (4) Segmentation  (5) Object Recognition  (6) Shape from X  (7) Activity Recognition  (8) Computational Photography and other modern computer vision topics  (9) Deep Learning based solutions
+
+## CS 765: Introduction to Blockchains, Cryptocurrencies and Smart Contracts
+- Credits: 6
+- Type: Theory
+- Description: The proposed course differs from EE465, in that it (i) studies blockchains from a distributed systems and related security point of view (topics such as safety, liveness, impossibility results) without going into the very fine details of several individual deployed blockchain systems, and (ii) has systems-heavy assignments which involve building blockchain systems in a peer-to-peer system. In contrast, EE465 discusses fine details of a suite of deployed blockchain systems such as Monero, Ethereum, Bitcoin, Stellar, Hyperledger etc. In addition the assignments are not systems heavy.
+
+## CS 766: Analysis of Concurrent Programs​
+- Credits: 6
+- Type: Theory
+- Description: Module 1 :​ Practice of concurrency (12 hours)302225 Mutual exclusion protocols: Properties of the protocols and their correctness proofs. We willcover Bakery, Szymanski, Dijkstra, Dekker, and Burns. (5 hours)302225 Concurrency in programming languages and their modelling: C++, Java, Android(2 hours)302225 Concurrent objects and linearizability: Concurrent sets, stack, queues, etc. (5 hours)Module 2 :​ Principles of verification of concurrent programs (9 hours)302225 Proof systems for concurrent programs: Rely guarantee and Owicki-Gries (1.5 hours) 302225Automating proof systems: Abstraction, model checking and Refinement (3 hours)302225 Proving linearizability of concurrent objects (4.5 hours)302226 linearizability, examples of linearizable concurrent objects302226 proving via linearizati...
+
+## CS 767: Theoretical Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Given the ever-evolving nature of the field and recent enthusiasm of theoreticians in ML, we have picked a large collection of topics. The plan would be to cover a subset of the modules listed below (not more than 2-3 in an offering).  Module I: Introduction to PAC learning Framework of Statistical learning Theory of VC dimension   Module II: Online algorithms Bandit algorithms Dimensionality reduction Sketching and Streaming algorithms Boosting  Module III: Theoretical aspects of deep learning Module IV: Support vector machines Convex optimization Non-negative matrix factorization Tensors in machine learning and applications Stochastic Block models Module V: Learning constant depth Boolean circuits (Linial-Mansour-Nisan) Learning from Natural proofs (Carmosino-Impagliazzo-Kabanets-Kolokol...
+
+## CS 768: Learning with Graphs
+- Credits: 6
+- Type: Theory
+- Description: In the first half of the semester, I plan to introduce dynamics of the complex networks. This will mainly deal with (i) various graph generative models, (ii) simple link prediction methods and (iii) diffusion processes on networks. More specifically,  1. Overview of network science in the context of real life networks, and limitations of classical graph theory to address them.   2. Generative models on graphs:--- Classical (physics based) random graph generative models--- Price model, Barabasi Albert model and Erdos-Renyl model, with their statistical properties and generating functions.  --- Modern graph generative models- Kronecker and Forest Fire models. Inference of Kronecker graphs. Difference between Forest Fire and Price models  3. Link prediction heuristics:  Adamic adar, jaccard c...
+
+## CS 769: Optimization in Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Intention is to cover a reasonable subset of the following topics.   Continuous and Discrete Optimization are two important pillars of machine learning. Continuous optimization typically occurs in learning model parameters while discrete optimization problems appear in inference and auxiliary tasks such as feature selection, data subset selection, model compression etc.  In the first part of this course, we will cover continuous optimization with applications in machine learning. Topics to discuss will include Convexity, Gradient Methods, Proximal algorithms, Stochastic and Online Variants of mentioned methods, Coordinate Descent Methods, Subgradient Methods, Non-Convex Optimization, FrankWolfe, Accelerated Methods, Lagrange and Fenchel Duality, Second-Order Methods, Quasi-Newton Methods, ...
+
+## CS 770: Process Engineering
+- Credits: 6
+- Type: Theory
+- Description: (1) Business process Models in OMG-s BPMN business processes, tasks, gateways, pools, lanes, collaborations, public and private processes, choreographies, markers, conversations, ad-hoc models, activities, events, start/end/intermediate events, boundary events, event-driven models, exception paths,subprocesses.  2) Formal Modeling and analytics Places and transitions, tokens and markings, classical Petri Nets, Extended petri nets, Colored petri nets, state spaces, reachability graphs, traces, properties of nets.  (3) Process Mining Traces and logs, process conformance, algorithms for process recovery  (4) Process Migration Business changes, long processes, migration of instances, change region, consistency, migration policies and algorithms.  (5) Process Patterns and Workflows Commonly fou...
+
+## CS 771: Foundations of verification and automated reasoning
+- Credits: 6
+- Type: Theory
+- Description: Module 1 : Logic (21 hours) - Propositional logic: syntax and semantics, truth table, satisfiability proof systems, equivalences, normal forms, tseitin encoding, (3 hours) - FOL(First order logic) syntax and semantics, SAT problem in FOL, proof systems (without completeness), FOL Theories, (6 hours) 2 - Simple programming language, small and big step semantics, strongest post, weakest pre, Hoare logic, invariants, tools for invariant checking (6 hours) - Satisfiability(SAT) solvers for propositional logic, CDCL, optimizations in CDCL, encoding problems into SAT problems, satisfiability modulo theory(SMT) solvers (6 hours) Module 2 : Automata (21 hours) - Linear temporal logic (LTL) and Computation tree logic(CTL) syntax and semantics, normal forms, satisfiability problems ( 6 hours ) - Aut...
+
+## CS 772: Deep Learning for Natural Language Processing
+- Credits: 6
+- Type: Theory
+- Description: Background: History of Neural Nets; History of NLP; Basic Mathematical Machinery- Linear Algebra, Probability, Information Theory etc.; Basic Linguistic Machinery- Phonology, morphology, syntax, semantics  Introducing Neural Computation: Perceptrons, Feedforward Neural Network and Backpropagation, Recurrent Neural Nets 9. Difference between Classical Machine Learning and Deep Learning: Representation- Symbolic Representation, Distributed Representation, Compositionality; Parametric and non-parametric learning  Word Embeddings: Word2Vec (CBOW and Skip Gram), Glove, FastText  Application of Word Embedding to Shallow Parsing- Morphological Processing, Part of Speech Tagging and Chunking  Sequence to Sequence (seq2seq) Transformation using Deep Learning: LSTMs and Variants, Attention, Tra...
+
+## CS 773: Computer Architecture for Performance and Security
+- Credits: 6
+- Type: Theory
+- Description: The course comprises of two modules (performance and security) that will run concurrently. Performance module------------------------ Microarchitectural bottleneck (front-end and back-end) analysis with desktop, mobile, and servers. Microarchitectural front-end and back-end optimizations: caching, prefetching, TLBs, MMU cachesMemory hierarchy for multi/many-core systems including cache coherence and memory consistency mechanisms.   Emerging memory systems: Embedded DRAM, HBMs, NVMs like persistent memory (Intel Optane) Security module------------------------ Transient execution attacks: Spectre, Meltdown, etc.  Timing and conflict-based channels through caches, TLBs, prefetcher, BTBs, branch predictors, and DRAM controllers: attacks and mitigationsMicroarchitecture of Trusted Execution Env...
+
+## CS 775: Advanced Computer Graphics
+- Credits: 6
+- Type: Theory
+
+## CS 776: Principles of Mathematical Modeling
+- Credits: 6
+- Type: Theory
+- Description: Construction of Reals. Topology of real space. Review of Linear Algebra. Domains and Functions. The Optimization framework. The combinatorics of tight sets. Karush-Kuhn-Tucker Theorem and the conditions of optimality. MuWalter Rudin, Principles of Mathematical Analysis, McGraw-Hill, 1976.  S.Boyd and L.Vandenberghe. Convex Optimization. Cambridge University Press, 2004.Available at   http://www.stanford.edu/~boyd/cvxbook/  Roger Myerson, Game Theory-Analysis of Conflict, Harvard University Press, 1997. ltiple and competing objectives. Elements of Games. Nash Equilibrium. Various examples from everyday situations such as competitive exams, markets, employment and rents, maps and surveying and logistics.
+
+## CS 777: M.S. R&D 1
+- Credits: 8
+- Type: Project
+- Description: R & D project for M.S. By Research. As prescribed by guide
+
+## CS 778: M.S. R&D 2
+- Credits: 8
+- Type: Project
+- Description: M.S. R & D 2 for M.S. By Research As prescribed by guide
+
+## CS 779: Extremal Combinatorics
+- Credits: 6
+- Type: Theory
+- Description: Linear Algebra methods. A subset of the following topics will be covered. Rank arguments.Oddtown, Eventown, theorems. The Graham-Pollak theorem. Polynomial space methods.TheRaychaudhuri-Wilson and Frankl-Wilson theorems. Modular versions.Real Symmetric Matrices. The Courant-Fischer equalities. Interlacing of eigenvalues. ThePerron-Frobenius theorem. Spectrum of the adjacency matrix and the Laplacian, withapplications to graph theory.A subset of the following topics will be covered. Extremal Set Theory, Designs and Codes.Extremal Graph Theory. Basic Ramsey theory. The polynomial method with selectedapplications.
+
+## CS 792: Communication Skills -II
+- Credits: 4
+- Description: 1) Discussion on the basis of scientific method - why we do what we do? Also note taking techniques and proof reading. 2) Specific Aspects of Reading/Writing Technical papers 3) Discussion and debate after suggested reading, listening to podcasts, webcasts, TED talks, etc. (offline). 4) Communication as storytelling: The Art of storytelling. Including a discussion on the structure of a -good- story. 5) Visual communication skills: the language of aesthetics, fonts, colour. The art of illustration and choosing presentation templates. Introduction to tools for creating slides. 6) The roots of good communication: Ethics and earnestness. Discussion. Also discussion on plagiarism. 7) Writing and talking about workplace relationships, gender issues, stereotypes, biases, labeling 8) Discussion on...
+
+## CS 797: I Stage Project
+- Credits: 50
+- Prerequisite: 0
+
+## CS 798: II Stage Project
+- Credits: 40
+- Prerequisite: 0
+
+## CS 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## CSP609: M S Project (Stage II)
+- Credits: 26
+- Type: Project
+
+## CSP611: M S Project (Stage IV)
+- Credits: 40
+- Type: Project
+
+## CSS601: Seminar
+- Credits: 4
+- Type: Seminar

@@ -1,0 +1,868 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Mathematics - Course Catalog for IIT Bombay Students
+
+
+## MA 001: Preparatory Mathematics I
+- Credits: 8
+- Type: Theory
+- Description: Complex numbers as ordered paris. Argand"s diagram. Triangle inequaility. De Moivre"s Theorem.Algebra: Quadratic equations and expressions.  Permutations and combinations. Binomial theorem for a positive integral index.Coordinate Geometry: Locus, Straight lines. Equations of circle, parabola, ellipse and hyerbola in standard forms. Parametric representation.Vectors: Addition of vectors. Multiplication by a scalar. Scalar product, cross product and scalar triple product with geometrical applications.Matrices and Determinants: Algebra of matrices. Determinants and their properties. Inverse of a matrix. Cramer"s rule.
+
+## MA 002: Preparatory Mathematics II
+- Credits: 8
+- Type: Theory
+- Description: Function, Inverse function, Elementary functions and their graphs, Limit, Continuity, Derivative and its geometrical significance. Differentiability. Derivatives of sum, difference, product and quotient of functions. Derivatives of polynomial, rational, trigonometric, logarithmic, exponential, hyperbolic, inverse trigonometric and inverse hyperbolic functions. Differentiation of composite and implicit functions.Tangents and Normals, Increasing and decreasing functions.  Maxima and Minima.Integrations as the inverse process of differentiation, Integration by parts and by substitution. Definite integrals and its application to the determination fo areas.
+
+## MA 101: Introductory Mathematics
+- Credits: 8
+- Type: Theory
+- Description: Evaluation of limits of functions.  Continuous functions.  Differentiation of sum, difference, product and quotient of funtions. Chain rule. Maxima and Minima.  Partial differentiation. Integration by substitution and by parts, application to evaluation of areas and volumes.  Differential equations of first order. Linear differential equations with constant co-efficients.
+
+## MA 103: Mathematics I
+- Credits: 6
+- Type: Theory
+- Description: Review  of the prerequisities such as limits  of   sequences  and functions,continuity,  uniform continuity and  differentiability. Rolle`s theorem,  mean  value  theorems  and  Taylor`s   theorem. Newton`s  method for approximate solution. Riemann  integral  and the  fundamental theorem of integral and the fundamental  theorem of  integral calculus. Approximate integration.  Applications  to length,  area,  volume,  surface  area  of  revolution.  Moments, centres of mass and gravity.Review   of  vectors.  Cylinders  and  quadric  surfaces. Vector functions of one variable and their derivatives.Partial derivatives. Chain rule. Gradient, directional derivative.  Tangent  planes and normals.  Maxima,minima,  saddle points. Lagrange multipliers. Exact differentials. Repeated  and  multiple i...
+
+## MA 104: Mathematics II
+- Credits: 8
+- Type: Theory
+- Description: Vector fields, surface integrals, line integrals, independence of path, conservative fields, divergence, curl. Green"s theorem. Divergence theorem of Gauss, Stokes"theorem and applications of these theorems. Transformations of coordinate systems and vector components. Invariance of divergence and curl. Curvilinear coordinates. Vector spaces. Inner products. Matrices and determinants, linear transformations. Systems of linear equations. Gauss elimination, rank of a matrix. Inverse of a matrix. Bilinear and quadratic forms. Eigenvalues and eigenvectors. Similarity transformations. Diagonalization of Hermitian matrices. Numerical methods for solving systems of linear equations. Ill-conditioning. Methods of Gauss and least squares. Inclusion of matrix eigenvalues. Finding eigenvalues by iterat...
+
+## MA 105: Calculus
+- Credits: 8
+- Type: Theory
+- Description: Review of limits, continuity, diﬀerentiability. Mean value theorem, Taylors Theorem, Maxima and Minima. Riemann integrals, Fundamental theorem of Calculus, Improper integrals, applications to area, volume. Convergence of sequences and series, power series. Partial Derivatives, gradient and directional derivatives, chain rule, maxima and minima, Lagrange multipliers. Double and Triple integration, Jacobians and change of variables formula. Parametrization of curves and surfaces, vector Fields, line and surface  integrals. Divergence and curl, Theorems of Green, Gauss, and Stokes.
+
+## MA 106: Linear Algebra
+- Credits: 4
+- Type: Theory
+- Description: Vectors in R^n, linear independence and dependence, linear span of a set of vectors, vector subspaces of R^n , basis of a vector subspace. Systems of linear equations, matrices and Gauss elimination, row space, null space, and column space, rank of a matrix. Determinants and rank of a matrix in terms of determinants. Abstract vector spaces, linear transformations, matrix of a linear transformation, change of basis and similarity, rank-nullity theorem. Inner pro duct spaces, Gram-Schmidt process, orthonormal bases, projections and least squares approximation. Eigenvalues and eigenvectors, characteristic polynomials, eigenvalues of special matrices (orthogonal, unitary, hermitian, symmetric, skew-symmetric, normal), algebraic and geometric multiplicity, diagonalization by similarity transfor...
+
+## MA 107: An Introduction to Mathematical Concepts
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Elementary Concepts: Statements and Quantifiers, Sets, Functions and Methods of proofs(Goldberg, Ch 1) (Burton, Ch 1) (Jones and Jones Appendix A). Basic Real Analysis: Least upper bound and applications, Archimedean property, Densityof Q, R_Q, Greatest integer function, Nested Interval Theorem, Uncountability of R (Goldberg, Ch 1). Sequence of Real numbers:(Goldberg, Ch 2).Operations, Monotone sequences, Cauchy sequences, ConvergenceSeries: Convergence and divergence, Test for absolute convergence (Goldberg, Ch 3).Basic Algebra: Divisibility, Bezout302222s Identity, Prime Factorisation, Fundamental Theorem ofArithmetic, Division Algorithms, GCD and LCM (Burton, Ch. 2) (Jones and Jones Ch. 1 and 2).Relations, Equivalence, Partitions, Modular Arithmetic, Euler and Mobius functions and inver...
+
+## MA 108: Differential Equations
+- Credits: 4
+- Type: Theory
+- Description: Exact equations, integrating factors and Bernoulli equations. Orthogonal trajectories. Lipschitz condition, Picard`s theorem, examples of non-uniqueness. Linear differential equations generalities. Linear dependence and Wronskians. Dimensionality of space of solutions, Abel-Liouville formula. Linear ODE with constant coefficients, characteristic equations. Cauchy-Euler equations. Method of undetermined coefficients. Method of variation of parameters. Laplace transform generalities. Shifting theorems.
+
+## MA 109: Calculus I
+- Credits: 4
+- Type: Theory
+- Description: Review of limits, continuity, differentiation. Mean value theorem, Taylor-s theorem, maxima and minima. Riemann integrals, fundamental theorem of  calculus. Improper integrals, applications to area and volume. Convergence of sequences and series; power series. Partial derivatives, gradient and directional derivatives, chain rule, maxima and minima, Lagrange multipliers.
+
+## MA 110: Linear Algebra and Differential Equations
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Vectors in S mathbb R nS, linear independence and dependence, linear span of a set of vectors, vector subspaces of S mathbb R n S, basis of a vector subspace. Systems of linear equations, matrices and Gauss elimination, row space, null space, and column space, rank of a matrix. Determinants and rank of a matrix in terms of determinants. Abstract vector spaces, linear transformations, matrix of a linear transformation, change of basis and similarity, rank-nullity theorem. Inner product spaces, Gram-Schmidt process, orthonormal bases, projections and least squares approximation. Eigenvalues and eigenvectors, characteristic polynomials, eigenvalues of special matrices (orthogonal, unitary, hermitian, symmetric, skew-symmetric, normal), algebraic and geometric multiplicity, diagonalization by ...
+
+## MA 111: Calculus II
+- Credits: 4
+- Type: Theory
+- Description: Double and triple integration, Jacobians and change of variables formula. Parametrization of curves and surfaces, vector fields, line and surface integrals. Divergence and curl. Theorems of Green, Gauss, and Stokes.
+
+## MA 113: Mathematics and Its History
+- Credits: 6
+- Type: Theory
+- Description: Part I 1. Copernican revolution, Galileo versus Church, Kepler and Newton (JB - Chapter 6 and 7). 2. Enlightenment movement and Romantic movement and further professionalisation (BS - Chapter 6, 7 and 11). 3. Industrial revolution and engines (JB - Chapter 8) 4. Electromagnetism (BS - Chapter 8) 5. Darwin and Mendel (JB - Chapter 9 and 12; BS - Chapter 23). Part II 1. History of Algebra: Quadratic equations, solutions to cubics and quartics, higher degree equations and insolvability. algebra and geometry of complex numbers, fundamental theorem of algebra (Stillwell - Chapters 6 and 14). 2. History of Calculus and Geometry: The regular polyhedra, conic sections, coordinate geometry (Stillwell - Chapter 2 and 7). Early results on areas and volumes, maxima, minima and tangents, infinite serie...
+
+## MA 114: An Introduction to Mathematical Concepts
+- Credits: 6
+- Type: Theory
+- Description: Basic Real Analysis: Least upper bound and applications, Archimedean property, density of Q, greatest integer function, nested interval theorem, uncountability of R. (Goldberg, Chapter 1). Sequence of real numbers, monotone sequences, Cauchy sequences, convergence. (Goldberg, Chapters 2 and 3). Series, convergence and divergence of series, test for absolute convergence. (Goldberg, Chapter 3). Basic Algebra: Equivalence relations and partitions (Gallian, Chapter 0). Permutations, sign of a permutation, inversions, cycles and transpositions. (Gallian, Chapter 5). Definition and basic examples of groups: cyclic groups, symmetric groups, matrix groups. (Gallian, Chapters 2-5). Cosets and Lagrange`s Theorem (Gallian, Chapter 7). Homomorphisms, normal subgroups, quotients of groups. (Gallian, Ch...
+
+## MA 203: Mathematics III
+- Credits: 8
+- Type: Theory
+- Description: Ordinary differential equations of the 1st order, exactness and integrating factors, variation of parameters, Picard"s iteration method.   Ordinary linear differential equations of nth order, solution of homogeneous and nonhomogeneous equations. Operator method. Methods of undetermined coefficients and variation of parameters.   Systems of differential equtions. Phase plane. Critical points. Stability.   Infinite sequences and series of real and complex numbers. Improper integrals. Cauchy criterion, tests of convergence, absolute and conditional convergence. Series of functions. Improper integrals depending on a parameter. Uniform convergence. Power series, radius of convergence.   Power series methods for solutions of ordinary differential equations.   Legendre equation and Legendre polyn...
+
+## MA 204: Complex Analysis and Partial Differential Equation
+- Credits: 6
+- Type: Theory
+- Description: Analytic functions. Cauchy-Riemann equations, Laplace equation.  Elementary functions. Cauchy"s integal theorem (proof by using Green"s theorem), Cauchy"s integral formula. Taylor series and Laurent series.   Residues and applications to evaluating real improper integrals and inverse Laplace transforms. Conformal mapping. Linear fractional transformations.   Boundary value problems involving partial differential equations such as the wave equation, the heat equation, the Laplace equation.   Solutions by the method of separation of variables and by Fourier and Laplace transforms.
+
+## MA 205: Complex Analysis
+- Credits: 4
+- Type: Theory
+- Description: Deﬁnition and properties of analytic functions.Cauchy-Riemann equations, harmonic functions.Power series and their properties.Elementary functions.Cauchy302222s theorem and its applications.Taylor series ans Laurent expansions.Residues and the Cauchy residue formula.Evaluation of improper integrals.Conformal mappings.Inversion of Laplace transforms.
+
+## MA 207: Differential Equations II
+- Credits: 4
+- Type: Theory
+- Description: Review of power series and series solutions of ODE302222s.Legendre302222s equation and Legendre polynomials.Regular and irregular singular points, metho d of Frobenius.Bessel302222s equation and Bessel302222s functions.Strum-Liouville problems.Fourier series.D302222Alembert solution to the Wave equation.Classiﬁcation of linear second order PDE in two variables.Laplace, Wave, and Heat equations using separetion of variables.Vibration of a circular membrane.Heat equation in the half space.
+
+## MA 210: Introduction to Numerical Methods
+- Credits: 6
+- Type: Theory
+- Description: Interpolation by polynomials. Divided differences. Error of the interpolating polynomial. Piecewise linear and cubic spline interpolation.  Numerical integration. Composite rules. Error formulae.   Solution of a system of linear equations. Implementation of Gaussian elimination and Gauss-Seidel methods.   Solution of a nonlinear equation. Bisection and secant methods.   Newton"s method. Rate of convergence. Solution of a system of nonlinear equations.   Numerical solution of ordinary differential equations. Euler and Runge-Kutta methods. Multi-step methods. Predictor-corrector methods.   Order of convergence. Finite difference methods. Numerical solution of elliptic, parabolic and hyperbolic partial differential equations.   Exposure to software packages like IMSL Subroutines, MATLAB.
+
+## MA 212: Probability, Random Process and Statistical Inference
+- Credits: 6
+- Type: Theory
+- Description: Basic  definition of probability, random  variables,  probability density  function,  probability distribution  function,  standard univariate    and   multivariate    distributions,    conditional distributions   and  densities,  moment   generating   functions, characteristic functions, limit theorems.  Point  estimation,  interval  estimation.   Hypothesis   testing.  Simple linear regression, correlation.  Random  Processes  :  Markov  processes,  stationary   processes.  Ergodicity, autocorrelation, cross-correlation, power spectral density.  Exposure to statistical packages like SAS and SPSS.
+
+## MA 214: Introduction to Numerical Analysis
+- Credits: 8
+- Type: Theory
+- Description: Interpolation by polynomials, divided diﬀerences, error of the interpo-lating polynomial, piecewise linear and cubic spline interpolation.Numerical integration, composite rules, error formulae.Solution of a system of linear equations, implementation of Gaussianelimination and Gauss-seidel metho ds, partial pivoting, row echelonform, LU factorization Cholesky302222s metho d, ill-conditioning, norms.solution of a nonlinear equation, bisection and secant metho ds.Newton302222s metho d, rate of convergence, solution of a system of nonlin-ear equations, numerical solution of ordinary diﬀerential equations, Eu-ler and Runge-Kutta metho ds, multi-step metho ds, predictor-correctormetho ds, order of convergence, ﬁnite diﬀerence metho ds, numericalsolutions of elliptic, parabolic, and hyperbolic pa...
+
+## MA 401: Linear Algebra
+- Credits: 8
+- Type: Theory
+- Description: Vector spaces over fields, subspaces, bases and dimension.Systems of linear equations, matrices, rank, Gaussian elimination. Linear transformations, representation of linear transformations by matrices, rank-nullity theorem, duality and transpose. Determinants, Laplace expansions, cofactors, adjoint, Cramer`s Rule.Eigenvalues and eigenvectors, characteristic polynomials, minimal polynomials, Cayley-Hamilton Theorem, triangulation, diagonalization, rational canonical form, Jordan canonical form.Inner product spaces, Gram-Schmidt ortho-normalization, orthogonal projections, linear functionals and adjoints, Hermitian, self-adjoint, unitary and normal operators, Spectral Theorem for normal operators. Bilinear forms, symmetric and skew-symmetric bilinear forms, real quadratic forms, Sylvester`s...
+
+## MA 402: Algebra -I
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 401
+- Description: Review of groups, subgroups, homomorphisms, finite and discrete groups of motions, group actions, class equation, Sylow theorems, groups of order 12, generators and relations, SL(R), SU(2), simplicity of alternating groups and PSL(2). Rings, ideals, quotient rings, Euclidean domains, principal ideal domains, unique factorization domains, primes in Z[i] and Fermat"s 2-square theorem, ideal classes in imaginary quadratic fields. Modules, matrices, free modules and bases, diagonalization of integer matrices, generators and relations for modules, structure theorem for abelian groups, applications to Jordan canonical forms and linear operators. Extension fields, splitting fields, fundamental theorem of Galois Theory, constructibility by ruler and compass, finite fields.
+
+## MA 403: Real Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Review of basic concepts of real numbers: Archimedean property, Completeness.Metric spaces, compactness, connectedness, (with emphasis on Rn).Continuity and uniform continuity.Monotonic functions, Functions of bounded variation; Absolutely continuous functions. Derivatives of functions and Taylor`s theorem. Riemann integral and its properties, characterization of Riemann integrable functions. Improper integrals, Gamma functions.Sequences and series of functions, uniform convergence and its relation to continuity, differentiation and integration. Fourier series, pointwise convergence, Fejer`s theorem, Weierstrass approximation theorem.
+
+## MA 404: Real Analysis II
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Functions of several variables: differentiation, the inverse function theorem, the implicit function theorem, the rank theorem, derivatives of higher order and differentiation of integrals, integration, change of variables, Divergence and Stokes"theorem in Euclidean spaces. Hilbert spaces, orthonormal basis, projection and Riesz representation theorems. Approximation and optimization in Hilbert spaces. Variational problems, Lax-Milgram lemma and its applications.
+
+## MA 405: Basic Algebra
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Complex numbers and the point at infinity. Analytic functions.   Cauchy-Riemann conditions, harmonic functions. Mappings by elementary functions. Riemann surfaces. Conformal mapping. Transformations of harmonic functions. Applications to physical problems involving Laplace"s equation. Contour integrals, Cauchy-Goursat theorem, simply and multiply connected domains.   Uniform convegence of sequences and series. Taylor and Laurent series. Isolated singularaities and residues. Evaluation of real integrals. Calculation of inverse Laplace transforms.   Zeros and poles. The argument principle. Rouche"s theorem.
+
+## MA 406: General Topology
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Prerequisites: MA 403 (Real Analysis) Topological Spaces: open sets, closed sets, neighbourhoods, bases, sub bases, limit points, closures, interiors, continuous functions, homeomorphisms. Examples of topological spaces: subspace topology, product topology, metric topology, order topology. Quotient Topology: Construction of cylinder, cone, Moebius band, torus, etc. Connectedness and Compactness: Connected spaces, Connected subspaces of the real line, Components and local connectedness, Compact spaces, Heine-Borel Theorem, Local -compactness. Separation Axioms: Hausdorff spaces, Regularity, Complete Regularity, Normality, Urysohn Lemma, Tychonoff embedding and Urysohn Metrization Theorem, Tietze Extension Theorem. Tychnoff Theorem, One-point Compactification.Complete metric spaces and funct...
+
+## MA 408: Measure Theory
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Prerequisites: MA 403 (Real Analysis)Semi-algebra, Algebra, Monotone class, Sigma-algebra, Monotone class theorem. Measure spaces.Outline of extension of measures from algebras to the generated sigma-algebras: Measurable sets; Lebesgue Measure and its properties.Measurable functions and their properties; Integration and Convergence theorems.Introduction to Lp-spaces, Riesz-Fischer theorem; Riesz Representation theorem for L2-spaces. Absolute continuity of measures, Radon-Nikodym theorem. Dual of Lp-spaces.Product measure spaces, Fubini`s theorem.Fundamental Theorem of Calculus for Lebesgue Integrals (an outline).
+
+## MA 410: Multivariable Calculus
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 403
+- Description: (List of the topics/subtopics to be covered in the lectures/practicals/assignments): Functions on Euclidean spaces, continuity, dfferentiability; partial and directional derivatives, Chain Rule, Taylor`s Theorem, Inverse Function Theorem, Implicit Function Theorem, Regular and critical values, Applications. Riemann Integral of  real-valued functions on Euclidean spaces, measure zero sets, Fubini`s Theorem, Partition of unity, change of variables, Integration by parts. Partition of unity, change of variables, Integration by parts. Integration on chains, tensors, differential forms, Poincare Lemma, singular chains, Stokes` Theorem for integrals of dfferential forms on chains (general version), Fundamental theorem of calculus.
+
+## MA 411: Introduction to Probability
+- Credits: 6
+- Type: Theory
+- Description: Events, sigma-fields, specifying probabilities on sigma-fields, extension theorem(without proof), independence of classes of events, random variables. Distribution functions, discrete, continuous and mixed. Moments - moment generating functions, Characteristic functions. Random vectors and joint distributions, conditional distribution, conditional expectation. Convergence of random variables  - the four modes of convergence and their relationships.  Laws of large numbers and Central Limits Theorm.
+
+## MA 412: Complex Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Complex numbers and the point at infinity. Analytic functions. Cauchy-Riemann conditions. Mappings by elementary functions. Riemann surfaces. Conformal mappings.Contour integrals, Cauchy-Goursat Theorem. Uniform convergence of sequences and series. Taylor and Laurent series. Isolated singularities and residues. Evaluation of real integrals. Zeroes and poles, Maximum Modulus Principle, Argument Principle, Rouche`s theorem.
+
+## MA 414: Algebra I
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 401
+- Description: Prerequisite: MA 401 Linear Algebra, MA 419  Basic AlgebraFields, Characteristic and prime subfields, Field extensions, Finite, algebraic and finitely generated field extensions, Classical ruler and compass constructions, Splitting fields and normal extensions, algebraic closures. Finite fields, Cyclotomic fields, Separable and inseparable extensions.Galois groups, Fundamental Theorem of Galois Theory, Composite extensions, Examples (including cyclotomic extensions and extensions of finite fields).Norm, trace and discriminant.  Solvability by radicals, Galois` Theorem on solvability.Cyclic extensions, Abelian extensions, Polynomials with Galois groups Sn. Transcendental extensions.
+
+## MA 415: Mathematical Methods
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 436
+- Description: Asymptotic Methods: asymptotic expansions, methods of strained co-ordinates and matched asymptotic expansions. Fourier Methods with Applications: Generalised functions, eigenfunctioon expansion and Green"s functions, Fourier transform, Convolution, Parseval"s Theorm, fundamental solutions, and applications to heat, Laplace and wave equations. Variational Methods: minimum of quadratic functional, Lax-milgram theorm and applications to boundary value theorms. Linear Integral Equations: Fredholm and Volterra Integral Equations, Hilbert-Schmidt theory,  iterative methods and Neumann series.
+
+## MA 416: Mathematical Methods I
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 409
+- Description: Introduction to perturbation theory : Asymptotic expansions. Method of steepest descent. Regular and singular perturbation methods. Methods of strained coordinates, multiple scales, matched asymptotic expansions.   Singular perturbation methods. Variational techniques : Ritz method, Galerkin method, Least square method.
+
+## MA 417: Ordinary Differential Equations
+- Credits: 8
+- Type: Theory
+- Description: Review of solution methods for first order as well as second order equations, Power Series methods with properties of Bessel functions and Legendre polynomials.Existence and Uniqueness of Initial Value Problems: Picard`s and Peano`s Theorems, Gronwall`s inequality, continuation of solutions and maximal interval of existence, continuous dependence.Higher Order Linear Equations and linear Systems: fundamental solutions, Wronskian, variation of constants, matrix exponential solution, behaviour of solutions.Two Dimensional Autonomous Systems and Phase Space Analysis: critical points, proper and improper nodes, spiral points and saddle points.Asymptotic Behavior: stability (linearized stability and Lyapunov methods).Boundary Value Problems for Second Order Equations: Green`s function, Sturm com...
+
+## MA 419: Basic Algebra
+- Credits: 8
+- Type: Theory
+- Description: Review of basics: Equivalence relations and partitions, Division algorithm for integers, primes, unique factorization, congruences, Chinese Remainder Theorem, Euler ϕ-function.Permutations, sign of a permutation, inversions, cycles and transpositions. Rudiments of rings and fields, elementary properties, polynomials in one and several variables, divisibility, irreducible polynomials, Division algorithm, Remainder Theorem, Factor Theorem, Rational Zeros Theorem, Relation between the roots and coefficients, Newton`s Theorem on symmetric functions, Newton`s identities, Fundamental Theorem of AlgebraRational functions, partial fraction decomposition, unique factorization of polynomials in several variables, Resultants and discriminants. Groups, subgroups and factor groups, Lagrange`s Theorem, ...
+
+## MA 420: Principles of Optimization
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Mathematical foundations. Linear Optimization. Simplex method. Revised simplex method. Duality and sensitivity. Unconstrained optimization of functions of several variables. Classical techniques. Numerical methods for unconstrained optimization.   Constrained optimization of functions of several variables. Lagrange multipliers. Kuhn-Tucker theory. Numerical methods for constrained optimization. Convex optimization. Quadratic optimization. Dynamic programming.
+
+## MA 422: Probability Theory
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Probability space, conditional probability, independence of events, Borel-Cantelli lemmas, zero-one laws.   Random variables, distribution functions, sequences of random variables, expected value, convergence theorems, various modes of convergence. Fubini"s theorem (statement only). Joint distributions, independence of random variables.   Moment generating function, characteristic function, central limit theorems, laws of large numbers.   Radon-Nikodym Theorem (statement only), conditional expectation, conditional distribution.
+
+## MA 424: Theory of Sampling
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Simple random sampling. Sampling for proportions and percentages.   Estimation of sample size. Stratified random sampling, ratio estimators. Regression estimators. Systematic sampling. Type of sampling unit, Subsampling with units of equal and unequal size. Double sampling. Sources of errors in surveys.
+
+## MA 436: Partial Differential Equations
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 417
+- Description: Cauchy Problems for first Order Hyperbolic Equations: Method of characteristics, Monge cone.Classification of Second Order Partial Differential Equations: Normal forma and Characteristics.Initial and Boundary Value Problems: Lagrange Green"s identity and uniqueness by energy methods.Stability theory, energy conservation and dispersion.Laplace equations: mean value property, maximum principle, Poission"s formula, Dirichlet"s principle, existence of solution using Perron"s method(without proof).
+
+## MA 438: Introduction to Mathematical Statistics
+- Credits: 6
+- Type: Theory
+- Description: Distribution of functions of random variables, order statistics. Estimation - Loss function, risk,minimum risk unbiased estimators, maximum likelihood estimation, methods of moments, Bayes estimation, Sufficient statistics, completeness, Basu"s theorm, exponential families, invariance and maximal invariant statistics.Testing of Hypotheses - parametric and non-parametric problems, examples with data analytic applications.Confidence Intervals.
+
+## MA 444: Numerical Analysis
+- Credits: 8
+- Type: Theory
+- Description: Principles of floating point computationa and rounding errors. System of linear Equations: Factorization methods, pivoting and scaling, residual erroe correction method.Iteractive methods: Jacobi, Gauss-Seidel methods with convergence analysis, conjugate gradient methods. Eigenvalue problems: Only implementation issues. Nonlinear Systems: Newton and Newton like methods and unconstrained optimization.Interpolation: review of Legrange interpolation techniques, piecewise linear and cubic splines, error estimates.Approximation: Uniform approximation by polynomials, data fitting and least squares approximation.Numerical Integration: integration by interpolation, adaptive quadratures and Gauss methods.
+
+## MA 446: Complex Analysis
+- Credits: 8
+- Type: Theory
+- Description: Complex numbers and the point at infinity. Analytic functions.Cauchy-Teimann conditions, harmonicity, Mappings by elementary functions. Reimann surfaces. Conformal mappings.Contour integrals, Cauchy-goursat theorem, simply and multiply connected domains.Uniform convergence of sequence and series. Taylor and Laurent series. Isolated singularities and residues. Evaluation of real integrals. Calculation of inverse Laplace transforms.Zeros and Poles, Argument principles, Rouche"s theorm.Winding numbers.
+
+## MA 448: Multivariable Calculus
+- Credits: 6
+- Type: Theory
+- Description: Functions on Euclidean spaces, continuity, differentiability; partial and directional derivatives, Chain Rule, Inverse Function Theorem, Implicit Function Theorem. Riemann Integral of real-valued functions on Euclidean spaces, measure zero sets, Fubini`s Theorem. Partition of unity, change of variables.  Integration on chains, tensors, differential forms, Poincare Lemma, singular chains, integration on chains, Stokes` Theorem for integrals of differential forms on chains. (general version). Fundamental theorem of calculus. Differentiable manifolds (as subspaces of Euclidean spaces), differentiable functions on manifolds, tangent spaces, vector fields, differential forms on manifolds, orientations, integration on manifolds, Stokes` Theorem on manifolds.
+
+## MA 450: Independent Study
+- Credits: 6
+- Type: Seminar
+- Description: Independent Study: The student should pursue a topic of his or her choice for one semester under the supervision of a faculty member. The course is the analogue of the Seminar" courses that undergraduate students were required to take in previous years. The Independent Study should end with a presentation to the supervising faculty member and the preparation  of a brief report of about ten pages.
+
+## MA 501: Algebra II
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 402
+- Description: Solution by radicals of equations of degree at most 4, solvable groups, solvability by radicals, Abel-Ruffini theorem, symmetric functions, Newton"s identities for symmetric functions, Galois groups of equations of degree at most 4. Equations with symmetric and alternating groups as Galois groups. Reduction mod p technique. Cyclotomic extensions, norm and trace, cyclic extensions and Hilbert"s theorem 90, Artin-Schreier theorem, transcendental extensions.   Zero divisors, nilpotent elements, nilradical and Jacobson radical, operations on ideals, extension and contraction, examples of rings arising in Geometry, Combinatorics, Number Theory and Topology.
+
+## MA 502: Algebraic Number Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 501
+- Description: Binary quadratic forms, Legendre-Gauss theory of genera. Algebraic numbers and their basic properties, Kummer"s work on Fermat"s last theorem. Unique factorization of ideals in algebraic number fields, Class group and class number, Ramification of primes. Discriminant, Norms of ideals, Reciprocity laws, Cyclotomic fields and Kronecker-Weber theorem (statement only). Introduction to class field theory.
+
+## MA 503: Functional Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 401
+- Description: Prerequisites: MA 401 (Linear Algebra), MA 408 (Measure Theory)Normed spaces. Continuity of linear maps. Hahn-Banach Extension and Separation Theorems. Banach spaces. Dual spaces and transposes.Uniform Boundedness Principle and its applications. Closed Graph Theorem, Open Mapping Theorem and their applications. Spectrum of a bounded operator. Examples of compact operators on normed spaces.Inner product spaces, Hilbert spaces. Orthonormal basis. Projection theorem and Riesz Representation Theorem.
+
+## MA 504: Operators on Hilbert Spaces
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 503
+- Description: Prerequisites: MA 503 (Functional Analysis)Adjoints of bounded operators on a Hilbert space, Normal, self-adjoint and unitary operators, their spectra and numerical ranges.Compact operators on Hilbert spaces. Spectral theorem for compact self-adjoint operators. Application to Sturm-Liouville Problems.
+
+## MA 505: Algebra II
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Positive operators and Korovkin"s theorem, Bernstein polynomials, Fejer"s theorem, Stone-Weierstrass theorem. Classical Chebyshev theory, discretization and discrete best approximation, the algorithms of Remes. Degree of approximation, moduli of continuity and K-functionals, direct and converse theorems. Hermite-Birkhoff interpolation, piecewise polynomial interpolation. Best approximation in normed linear spaces.
+
+## MA 506: Commutative Algebra
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 501
+- Description: Rings and modules, localization, Noetherian rings, primary decomposition, Artinian rings, integral extensions, Hilbert"s Nullstellensatz, Noether"s normalization, valuation rings, Dedekind domains, Dimensions Theorem, Completions.
+
+## MA 507: Convex Analysis and Optimization
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 404
+- Description: Convex sets, convex cones and convex functions. Continuity and growth properties of convex functions. Conjugate convex functions in paired spaces. Subgradients, normal cones and subdifferential formulae.   Convex optimization. Constraint qualifications and Kuhn-Tucker theory. Lagrangian duality. Applications to nonlinear programming.   Chebyshev approximation. Calculus of variation and partial differential equations. Dubovitski-Milyutin theory.
+
+## MA 508: Mathematical Methods
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 515
+- Description: Category theory : Categories and functors, natural transformations, adjoints, universal objects. Review of homotopy and fundamental groups. Covering spaces : path lifting, homotopy lifting property, universal covering spaces; relation with fundamental group. Computation of fundamental group : Van-Kampen"s theorem. Simplicial complexes : Homology of chain complexes, Simplicial approximation theorem; edge path groupoid. Homology: Simplicial and singular homology, Brouwer"s fixed point theorem and invariance of domain. Cohomology ring : Structure of mod 2 cohomology of projective spaces. Statement of the de Rham theorem.
+
+## MA 509: Elementary Number Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Divisibility, Primes, Unique factorization of integers, Arithmetical functions, Mobius inversion, congruences, Chinese remainder theorem, primitive roots, Quadratic reciprocity, binary quadratic forms, Fermat222s two square theorem, Lagrange222s four square theorem, discussion of Waring222s problem, Diophantine approximations: continued fractions, rational approximations, transcendence of Liouville numbers.
+
+## MA 510: Introduction to Algebraic Geometry
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 414
+- Description: Prerequisites: MA 414 (Algebra 1)Varieties: Affine and projective varieties, coordinate rings, morphisms and rational maps, local ring of a point, function fields, dimension of a variety.Curves: Singular points and tangent lines, multiplicities and local rings, intersection multiplicities, Bezout`s theorem for plane curves, Max Noether`s theorem and some of its applications, group law on a nonsingular cubic, rational parametrization, branches and valuations.
+
+## MA5109: Graph Theory
+- Credits: 6
+- Type: Theory
+- Description: Basic Concepts: various kinds of graphs, simple graphs, complete graph, walk, tour, path and cycle, Eulerian graph, bipartite graph (characterization), Havel-Hakimi theorem and Erdos-Gallai theorem (statement only), hypercube graph, Petersen graph, trees, forests and spanning subgraphs, distances, radius, diameter, center of a graph, the number of distinct spanning trees in a complete graph.  Trees: Kruskal and Prim algorithms with proofs of correctness, Dijkstra-s a algorithm, Breadth first and Depth first search trees, rooted and binary trees, Huffman-s algorithm   Matchings: augmenting path, Hall-s matching theorem, vertex and edge cover, independence number and their connections, Tutte-s theorem for the existence of a 1-factor in a graph   Connectivity k-vertex and edge connectivity, b...
+
+## MA 511: Enumerative Combinatorics I
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: MA 401
+- Description: Basic Combinatorial Objects : Sets, multisets, partitions of sets, partitions of numbers, finite vector spaces, permutations, graphs etc.   Basic Counting Coefficients: The twelve fold way, binomial, q-binomial and the Stirling coefficients, permutation statistics, etc.   Sieve Methods : Principle of inclusion-exclusion, permutations with restricted positions, Sign-reversing involutions, determinants etc.   Introduction to combinatorial reciprocity. Introduction to symmetric functions.
+
+## MA 512: Enumerative Cimbinatiorics II
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 511
+- Description: Partially ordered sets, Mobius inversion.   Rational generating functions: P-partitions and linear Diophantine equations.   Polya theory and representation theory of the symmetric group: Combinatorial algorithms, and symmetric functions.   Generating functions : Single and multivariable Lagrange inversion.
+
+## MA 513: Fourier Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 404
+- Description: Revision of Fourier series. Tests for pointwise convergence of Fourier series. Summability of Fourier series for integrable functions.   Fourier-transforms of integrable functions. Basic properties of Fourier transforms. Inversion theorem, Plancheral theorem, Paley-Weiner theorem.
+
+## MA 514: Locally Convex Spaces and Distribution Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 406
+- Description: Locally convex spaces and their metrizability. Frechet spaces. Weak topologies. Test function spaces. Calculus with distributions.   Localization. Distributions as derivatives. Convolutions. Fourier transforms. Tempered distributions.Paley-Wiener theorems. Sobolev"s lemma. Fundamental solutions of partial differential equations.   Elliptic equations.
+
+## MA 515: Partial Differential Equations
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Prerequisites: MA 417 (Ordinary Differential Equations),   MA 410 (Multivariable Calculus)Cauchy Problems for First Order Hyperbolic Equations: method of characteristics, Monge cone.Classification of Second Order Partial Differential Equations: normal forms and characteristics.Initial and Boundary Value Problems: Lagrange-Green`s identity and uniqueness by energy methods.Stability theory, energy conservation and dispersion.Laplace equation: mean value property, weak and strong maximum principle, Green`s function, Poisson`s formula, Dirichlet`s principle, existence of solution using Perron`s method (without proof).Heat equation: initial value problem, fundamental solution, weak and strong maximum principle and uniqueness results.Wave equation: uniqueness, D`Alembert`s method, method of sphe...
+
+## MA 516: Algebraic Topology
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 406
+- Description: Symmetric and self-adjoint operators. Unitary operators and Cayley transforms. Banach algebras. Gelfand-Naimark theory for commutative B-star algebras. Spectral representation of bounded/unbounded self-adjoint oprators and the associated functional calculus. One parameter group of operators and Stone"s theorem. Semigroups of self-adjoint operators. Collectively compact sets of operators, their properties and application to spectral theory in Banach spaces. Totally bounded sets of compact operators.
+
+## MA 517: Operators on Hilbert Spaces
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: MA 404
+- Description: Bounded operators on Hilbert spaces : adjoint operators, normal, unitary and self-adjoint operators and their spectra, numerical ranges. Spectral theorem for compact self-adjoint operators and its application to Sturm-Liouville problems. Unbounded operators.
+
+## MA 518: Spectral Approximation
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 559
+- Description: Prerequisite: MA 503 Functional Analysis Spectral decomposition. Spectral sets of finite type. Adjoint and product spaces.Convergence of operators: norm, collectively compact and ν convergence. Error estimates.Finite rank approximations based on projections and approximations for integral operators. A posteriori error estimates.Matrix formulations for finite rank operators. Iterative refinement of a simple eigenvalue.Numerical examples.
+
+## MA 519: Representation Theory of Finite Groups
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 402
+- Description: Representations, Subrepresentations, Tensor products, Symmetric and Alternating Squares.   Characters, Schur"s lemma, Orthogonality relations, Decomposition of regular representation, Number of irreducible representations, canonical decomposition and explicit decompositions. Subgroups, Product groups, Abelian groups. Induced representations.   Examples : Cyclic groups, alternating and symmetric groups.   Integrality properties of characters, Burnside p q theorem. The character of induced reporesentation, Frobenius Reciprocity Theory, Meckey"s irreducibility criterion, Examples of induced representations, Representations of supersolvable groups.
+
+## MA 520: Spline Theory and Variational Methods
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Piecewise linear approximation. Piecewise cubic interpolation. Cubic spline interpolation and its errors. Representation of piecewise polynomial diminishing splines. Interpolating and smoothing splines.   Approximate representation of linear functions. Optimal quadratures.   Variational formulation of generalized splines. Surface approximation by tensor product splines. The Rayleigh-Ritz-Galerkin procedures of elliptic problems, Semi-discrete Galerkin procedure for parabolic problems.
+
+## MA 521: Theory of Analytic Functions
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Prerequisites: MA 403 (Real Analysis), MA 412 (Complex Analysis)Maximum Modulus Theorem. Schwarz Lemma. Phragmen-Lindelof Theorem.Riemann Mapping Theorem. Weierstrass Factorization Theorem.Runge`s Theorem. Simple connectedness. Mittag-Leffler Theorem.Schwarz Reflection Principle.Basic properties of harmonic functions.Picard Theorems.
+
+## MA 522: Fourier Analysis and Applications
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Basic Properties of Fourier Series: Uniqueness of Fourier Series, Convolutions, Cesaro and Abel Summability, Fejer`s theorem, Poisson Kernel and Dirichlet problem in the unit disc. Mean square Convergence, Example of Continuous functions with divergent Fourier series.Distributions and Fourier Transforms: Calculus of Distributions, Schwartz class of rapidly decreasing functions, Fourier transforms of rapidly decreasing functions, Riemann Lebesgue lemma, Fourier Inversion Theorem, Fourier transforms of Gaussians.Tempered Distributions: Fourier transforms of tempered distributions, Convolutions, Applications to PDEs (Laplace, Heat and Wave Equations), Schrodinger-Equation and Uncertainty principle.Paley-Wienner Theorems, Poisson Summ-ation Formula: Radial Fourier transforms and Bessel`s funct...
+
+## MA 523: Basic Number Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 419
+- Description: Prerequisites: MA 419 (Basic Algebra)Infinitude of primes, discussion of the Prime Number Theorem, infinitude of primes in specific arithmetic progressions, Dirichlet`s theorem (without proof).Arithmetic functions, Mobius inversion formula. Structure of units modulo n, Euler`s phi functionCongruences, theorems of Fermat and Euler, Wilson`s theorem, linear congruences, quadratic residues, law of quadratic reciprocity.Binary quadratics forms, equivalence, reduction, Fermat`s two square theorem, Lagrange`s four square theorem. Continued fractions, rational approximations, Liouville`s theorem, discussion of Roth`s theorem, transcendental numbers, transcendence of e and π.Diophantine equations: Brahmagupta`s equation (also known as Pell`s equation),  The equation, Fermat`s method of descent, di...
+
+## MA 524: Algebraic Number Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 505
+- Description: Prerequisites: MA 414 Algebra I (Exposure)Algebraic number fields. Localisation, discrete valuation rings.Integral ring extensions, Dedekind domains, unique factorisation of ideals. Action of the Galois group on prime ideals.Valuations and completions of number fields, discussion of Ostrowski`s theorem, Hensel`s lemma, unramified, totally ramified and tamely ramified extensions of p-adic fields.Discriminants and Ramification. Cyclotomic fields, Gauss sums, quadratic reciprocity revisited.The ideal class group, finiteness of the ideal class group, Dirichlet units theorem.
+
+## MA 525: Dynamical Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 417
+- Description: Prerequisites: MA 417 (Ordinary Differential Equations)Linear Systems: Review of stability for linear systems of two equations. Local Theory for Nonlinear Planar Systems:  Flow defined by a differential equation, Linearization and stable manifold theorem, Hartman-Grobman theorem, Stability and Lyapunov functions, Saddles, nodes, foci, centers and nonhyperbolic critical points.  Gradient and Hamiltonian systems. Global Theory for Nonlinear Planar Systems: Limit sets and attractors, Poincar map, Poincar Benedixson theory and Poincare index theorem.Bifurcation Theory for Nonlinear Systems: Structural stability and Peixoto`s theorem, Bifurcations at nonhyperbolic equilibrium points.
+
+## MA 526: Commutative Algebra
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 505
+- Description: Prerequisites: MA 505 (Algebra II)Dimension theory of affine algebras: Principal ideal theorem, Noether normalization lemma, dimension and transcendence degree, catenary property of affine rings, dimension and degree of the Hilbert polynomial of a graded ring, Nagata`s altitude formula, Hilbert`s Nullstellensatz, finiteness of integral closure.Associated primes of modules, degree of the Hilbert polynomial of a graded module, Hilbert series and dimension, Dimension theorem, Hilbert-Samuel multiplicity, associativity formula for multiplicity,Complete local rings: Basics of completions, Artin-Rees lemma, associated graded rings of filtrations, completions of modules, regular local rings Basic Homological algebra:  Categories and functors, derived functors, Hom and tensor products, long exact ...
+
+## MA 527: Topics in Approximation Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Review of density theorms: the theorms of Korovkin, fejer and Stone-Weierstrass. The classical Chebyshev theory, discretization and dirscrete best approximation, the second algorithm of REmes.  Degree of approximation, moduli of continuity and K-functionals, direct and converse theorms. Interpolation, Legrange form, extended Haar subspaces and Hermite interpolation, Hermite Fejer interpolation, Hermite-Birkhoff interpolation. Piecewise polynomial interpolation.
+
+## MA 529: Numerical Methods for Partial Differential Equatio
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 436
+- Description: Finite difference: grids, derivation of difference equations. Elliptic equations: Discrete maximum principle and stability, residual correction methods(Jacobi, Gauss-Seidel and SOR methods), LOD and ADI methods.  Finite difference Schemes for initial and boundary value problems: Stability(matrix method, von-Neumann and energy methods), LAx-Richtmyer equivalence theorm.  Parabolic equatioons: explicit and implicit methods (Backward Euler and Crank-Nicolson schemes) with stability and convergence, ADI methods.  Linear scalar conservation law: upwind, Lax-Wendroff and Lax-Friedrich schems and CFL condition. Lab component: Exposure to MATLAB and computational experimeents based on the algorithms discussed in the course.
+
+## MA 530: Nonlinear Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 503
+- Description: Prerequisites: MA 503 (Functional Analysis)  Fixed Point Theorems with Applications: Banach contraction mapping theorem, Brouwer fixed point theorem, Leray-Schauder fixed point theorem.  Calculus in Banach spaces: Gateaux as well as Frechet derivatives, chain rule, Taylor`s expansions, Implicit function theorem with applications, subdifferential.  Monotone Operators: maximal monotone operators with properties, surjectivity theorem with applications.  Degree theory and condensing operators with applications.
+
+## MA 532: Analytic Number Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 414
+- Description: Prerequisites: MA 414 (Algebra  I), MA 412 (Complex Analysis)The Wiener-Ikehara Tauberian theorem, the Prime Number Theorem.Dirichlet`s theorem for primes in an Arithmetic Progression.Zero free regions for the Riemann-zeta function and other L-functions. Euler products and the functional equations for the Riemann zeta function and Dirichlet L-functions.Modular forms for the full modular group, Eisenstein series, cusp forms, structure of the ring of modular forms.Hecke operators and Euler product for modular forms.The L-function of a modular form, functional equations.  Modular forms and the sums of four squares.Optional topics:  Discussion of L-functions of number fields and the Chebotarev Density Theorem. Phragmen-Lindelof Principle, Mellin inversion formula, Hamburger`s theorem.  Discuss...
+
+## MA 533: Advanced Probability Theory
+- Credits: 6
+- Type: Theory
+- Description: Probability measure, probability space, construction of Lebesgue measure, extension theorems, limit of events, Borel-Cantelli lemma.Random variables, Random vectors, distributions, multidimensional distributions, independence.Expectation, change of variable theorem, convergence theorems.Sequence of random variables, modes of convergence. Moment generating function and characteristics functions, inversion and uniqueness theorems, continuity theorems, Weak and strong laws of large number, central limit theorem.Radon Nikodym theorem, definition and properties of conditional expectation, conditional distributions and expectations.
+
+## MA 534: Modern Theory of PDE
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 436
+- Description: Prerequisites: MA 503 (Functional Analysis), MA 515 (Partial Differential  Equations)Theory of distributions: supports, test functions, regular and singular distributions, generalised derivatives. Sobolev Spaces: definition and basic properties, approximation by smooth functions, dual spaces, trace and imbedding results (without proof).Elliptic Boundary Value Problems: abstract variational problems, Lax-Milgram Lemma, weak solutions and wellposedness with examples, regularity result, maximum principles, eigenvalue problems.Semigroup Theory and Applications: exponential map, C0-semigroups, Hille-Yosida and Lummer-Phillips theorems, applications to heat and wave equations.
+
+## MA 538: Representation Theory of Finite Groups
+- Credits: 6
+- Type: Theory
+- Description: Prerequisite : MA 414 (Algebra I)Representations, Subrepresentations, Tensor products, Symmetric and Alternating Squares.Characters, Schur`s lemma, Orthogonality relations, Decomposition of regular representation, Number of irreducible representations, canonical decomposition and explicit decompositions. Subgroups, Product groups, Abelian groups. Induced representations.Examples: Cyclic groups, alternating and symmetric groups.Integrality properties of characters, Burnside`s paqb theorem. The character of induced representation, Frobenius Reciprocity Theorem, Meckey`s irreducibility criterion, Examples of induced representations, Representations of supersolvable groups.
+
+## MA 539: Spline Theory and Variational Methods
+- Credits: 6
+- Type: Theory
+- Description: Even Degree and Odd Degree Spline Interpolation, end conditions, error analysis and order of convergence. Hermite interpolation, periodic spline interpolation. B-Splines, recurrence relation for B-splines, curve fitting using splines, optimal quadrature.Tensor product splines, surface fitting, orthogonal spline collocation methods.
+
+## MA 540: Numerical Methods for Partial Differential Equations
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 515
+- Description: Prerequisites: MA 515 (Partial Differential Equations), SI 517 (Numerical Analysis)Finite differences: Grids, Finite-difference approximations to derivatives. Linear Transport Equation: Upwind, Lax-Wendroff and Lax-Friedrich schemes, von-Neumann stability analysis, CFL condition, Lax-Richtmyer equivalence theorem, Modified equations, Dissipation and dispersion.Heat Equation: Initial and boundary value problems (Dirichlet and Neumann), Explicit and implicit methods (Backward Euler and Crank-Nicolson schemes) with consistency and stability, Discrete maximum principle, ADI methods for two dimensional heat equation (including LOD algorithm). Poisson`s Equation: Finite difference scheme for initial and boundary value problems, Discrete maximum principle, Iterative methods for linear systems (Ja...
+
+## MA 543: Finite Element Methods and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: The fundamentals of finite element method. The shape functions, Ritz and Galerkin finite element formulations. Finite element formulation for Laplace, wave and diffusion equations.
+
+## MA 548: Non-Newtonian Fluid Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 412
+- Description: Introduction to non-Newtonian Fluids. Constitutive equations.   Classification of fluids. Flow of different non-Newtonian fluids (Casson, Power Law, Bingham, Viscoelastic, Herschel Bulkley) through various geometries (uniform circular tubes, elliptic tubes, non-uniform tubes, viscometric flows, etc.). Unsteady flows, Boundary Layer flow.   Stability, Application (lubrication, blood flow etc.).
+
+## MA 551: Numerical Analysis II
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 407
+- Description: Boundary value problems for ordinary differential equations: finite difference and shooting methods.   Elliptic equations: discrete maximum principle and stability, ADI and LOD methods. Finite difference schemes for initial and boundary value problems: Lax-Ritchmyer equivalence theorem. Stability: matrix, Von Neumann and energy methods.   Explicit, implicit (Euler Backward and Crank-Nicolson) methods for parabolic equations: Lax-Wendroff Scheme, Leapfrog method, CFL conditions
+
+## MA 556: Differential Geometry
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 404
+- Description: Prerequiste: MA 410 Multivariable Calculus Graphs and level sets of functions on Euclidean spaces, vector fields, integral curves of vector fields, tangent spaces. Surfaces in Euclidean spaces, vector fields on surfaces, orientation, Gauss map. Geodesics, parallel transport, Weingarten map. Curvature of plane curves, arc length and line integrals, Curvature of surfaces. Parametrized surfaces, local equivalence of surfaces.Gauss-Bonnet Theorem, Poincare-Hopf Index Theorem.
+
+## MA 559: Functional Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Normed linear spaces. Continuity of linear maps.  Hahn-Banach theorm in extension.  Banach spaces. Dual spaces.  Reflexivity(definiton and simple examples). The uniform boundedness principle and its applicatioons. The closed graph theorm, the open mapping theorm and their applications. Spectrum of a bounded operator.  Compact operators and their spectra. Fredholm alternatives. Inner product spaces, hilbert spaces, Orthonormal basis. Projection theorm and the Riesz representation theorm.  Reflexivity of Hilbert spaces.
+
+## MA 561: Abstract Measure and Integration
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 403
+- Description: Semi-algebra, Algebra, Sigma-algebra, Monotone class, Monotone class theorm, Measure spaces. Outline of extension of measures from algebras to the generated sigma-algebras, Measurable sets. MEasurable functions and their properties, outline of integration and convergence theorms. Introduction to L-spaces, Riesz-fischer theorm. Product measure spaces, Fubini"s theorm. Absolute continuity to measures,Random Nikodym theorm.
+
+## MA 562: Mathematical Theory of Finite Elements
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 436
+- Description: Prerequisites: MA 515 (Partial Differential Equations), MA 503 (Functional Analysis)Sobolev Spaces: basic elements, Poincare inequality. Abstract variational formulation and elliptic boundary value problem. Galerkin formulation and Cea`s Lemma. Construction of finite element spaces. Polynomial approximations and interpolation errors. Convergence analysis: Aubin-Nitsche duality argument; non-conforming elements and numerical integration; computation of finite element solutions.Parabolic initial and boundary value problems: semidiscrete and completely discrete schemes with convergence analysis.Lab component: Implementation of algorithms and computational experiments using MATLAB.
+
+## MA 567: Compressible Fluid Flow
+- Credits: 6
+- Type: Theory
+
+## MA 568: Functional Analysis II
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 559
+
+## MA 569: Computational Commutative Algebra and Algebraic Ge
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 402
+- Description: Affine varieties, parametrization, ideals, orderings on monomials, Dickson"s Lemma, Groebner bases, hilbert Basis Theorm, Buchberger"s algorithm, ideal membership, geometry of elimination, singular points, resultants and extension theorm, hilbert"s Nullstellensatz, ideal variety correspondance, basic computation among ideals via Groebner bases, Coordinate ring of an affine variety and algorithmic computations in it, solving equations via eigenvalues, projective varieties, projective nullstellensatz, computation of projective nullstellensatz, computation of projective closure, hilbert function and fimension of a variety and their computation. Applications to graph colouring and integer programming. Lab. Component: Implementation of algorithms developed in this course using Macaylay programm...
+
+## MA 570: Design and Analysis of Experiments
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 401
+- Description: Theory of linear estimation. Standard designs : CRD, RBD, LSD, BIBD and PBIBD. Factorial designs. Confounding. Missing plot technique. Analysis of covariance. Construction and nonexistence theory. Special designs : Split-plots, strip-plots, cross-over designs.
+
+## MA 572: Non-paramatic Statistical Inference
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 577
+- Description: The empirical distribution and its basic properties. Location and scale parameters. Estimation and Testing in one sample problem.   Asymptotic Relative Efficiency.   Testing, many sample problems (Tests for Independence, Equality of distribution function, etc.).
+
+## MA 573: Mathematical Theory of Reliability
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 411
+- Description: Coherent Structures, Reliability of systems of independent components, Bounds of system reliability, shape of the system reliability function,notion of ageing, parametric families of life distributions with monotone failure rate, classes of life distributions based on notions of ageing, classes of distributions in replacement policies, limit distributions for series and parallel systems. Statistical estimation and testing for popular reliability models and classes (parametric and nonparametric).
+
+## MA 574: Generalized Linear Models
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 438
+- Description: Multiple linear regression-estimation, tests and confidence regions.   Logistic Probit, Log-linear models for nominal and ordinal variables. Fitting of logit and log-linear models.
+
+## MA 575: Multivariate Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 411
+- Description: K-variate normal distribution. Estimation of the mean vector and dispersion matrix. Random sampling from multivariate normal distribution. Multivariate distribution theory. Discriminant and canonical analysis. Factor analysis. Principal components.   Distribution theory associated with the analysis.
+
+## MA 576: Statistical Decision Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 577
+- Description: Decision functions, Risk functions, utility and subjective probability, Randomization, Optimal decision rules. Admissibility and completeness, Existence of Bayes Decision Rules, Existence of a Minimal complete class, Essential completeness of the class of nonrandomized rules. The minimax theorem.   Invariant statistical decision problems. Multiple decision problems.   Sequential decision problems.
+
+## MA 577: Statistical Inference I
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 411
+- Description: Point estimation. Cramer-Rao inequality, Bhattacharya bounds.   Sufficient estimators, Rao-Blackwell theorem. Maximum likelihood and other methods of estimation. Tests and statistical hypothesis.   Critical region. Power, Neyman-Pearson lemmas. Likelihood ratio principle. MP, UMP, LMPU tests, similar tests.   Statistical decision theory. Loss function. Risk functions.   Admissibility. Bayes and minimax solutions. Randomized decision functions. Sequential decision rules. Sequential analysis.
+
+## MA 579: Stochastic Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 411
+- Description: Recurrent events. Renewal theory. Random walk. Markov chains and Markov processes. Stationary processes. Spectral Analysis. Stochastic calculus. Branching phenomena. Semi-Markov processes. Systems with random inputs.
+
+## MA 580: Time Series Analysis
+- Credits: 6
+- Type: Theory
+- Description: Introduction to autocorrelation function, linear stationary models like autoregressive, integrated moving average processes. Forecasting model identification including initial estimates of the parameters, model multiplicity etc. Model estimation, model diagnostic checking. Case studies. Computational experiments.
+
+## MA 581: Elements of Differential Topology
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 404
+- Description: (List of the topics/subtopics to be covered in the lectures/practicals/assignments):Differentiable Manifolds in Rn: Review of inverse and implicit function theorems; tangent spaces and  tangent  maps; immersions; submersions and embeddings. Regular Values: Regular and critical values; regular inverse image theorem; Sard`s theorem.Differentiable manifolds (as subspaces of Euclidean spaces), differentiable functions on manifolds, tan-gent spaces, vector  fields, differential forms on manifolds, orientations, integration on manifolds, Stokes` Theorem on manifolds.Transversality: Orientations of manifolds; oriented and mod 2 intersection numbers; degree of maps. Application to the Fundamental Theorem of Algebra*Lefschetz theory of vector _elds and ows: Poincare-Hopf index theorem; Gauss-Bonnet...
+
+## MA 582: Basic Algebraic Topology
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 406
+
+## MA 583: Introduction to Continuum Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Description of continuous and kinematics. Forces, deformations, constitutive equations. Theory of motions-steady and unsteady motions. Spin vectors and tensors. Conservation laws- physical models and applications.
+
+## MA 585: Seminar
+- Credits: 4
+- Type: Seminar
+
+## MA 587: Lie Groups and Lie Algebras
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: MA 503
+
+## MA 588: Computational Finance
+- Credits: 6
+- Type: Theory
+
+## MA 589: M.Sc. Project Stage I
+- Credits: 12
+- Type: Project
+
+## MA 590: Fluid Dynamics
+- Credits: 6
+- Type: Theory
+
+## MA 591: Algebraic Geometery II
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: MA 524
+- Description: Sheaf cohomology, Grothendieck vanishing theorem, cohomology of Noetherian affine schemes, Cech cohomology, cohomology of projective space, Serre duality theorem, Higher direct images, flat morphisms, smooth morphisms, formal functin theorem, semi-continuity theorem.
+
+## MA 592: Non-linear Wave Phenomena
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 436
+
+## MA 593: Optional Project I
+- Credits: 4
+- Type: Project
+
+## MA 594: Stochastic Calculus with Applications to Finance
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 579
+
+## MA 597: Project Stage I
+- Credits: 5
+- Type: Project
+
+## MA 598: Optional Project  II
+- Credits: 6
+- Type: Project
+
+## MA 599: M.Sc. Project Stage II
+- Credits: 18
+- Type: Project
+
+## MA 603: Statistical Methods of Analysis and Design
+- Credits: 6
+- Type: Theory
+- Description: Probability. Random variables. Standard distributions and their applications. Point and interval estimation. Testing of hypothesis. Regression and correlation analysis. ANOVA and ANACOVA. Design of experiments. Sequential analysis
+
+## MA 811: Algebra I
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of field and Galois theory: solvable and radical extensions, Kummer theory, Galois cohomology and Hilbert`s Theorem 90, Normal Basis theorem. Infinite Galois extensions: Krull topology, projective limits, profinite groups, Fundamental Theorem of Galois theory for infinite extensions. Review of integral ring extensions: integral Galois extensions, prime ideals in integral ring extensions, decomposition and inertia groups, ramification index and residue class degree, Frobenius map, Dedekind domains, unique factorisation of ideals.302225 Categories and functors: definitions and examples. Functors and natural transformations, equivalence of categories,. Products and coproducts, the hom functor, representable functors, universals and adjoints. Direct and inverse limits. Free objects.3022...
+
+## MA 812: Algebra II
+- Credits: 6
+- Type: Theory
+- Description: Valuations and completions: definitions, polynomials in complete fields (Hensel`s Lemma, Krasner`s Lemma), finite dimensional extensions of complete fields, local fields, discrete valuations rings.      Transcendental extensions: transcendence bases, separating transcendence bases, Luroth`s theorem. Derivations.      Artinian and Noetherian modules, Krull-Schmidt theorem, completely reducible modules, projective modules, Wedderburn-Artin Theorem for simple rings.      Representations of finite groups: complete reducibility, characters, orthogonal relations, induced modules, Frobenius reciprocity, representations of the symmetric group.
+
+## MA 813: Measure Theory
+- Credits: 6
+- Type: Theory
+- Description: Review of measure theory: monotone convergence theorem, dominated convergence theorem, complete measures. Borel measures: Riesz representation theorem, Lebesgue measure on Rk, Lp spaces302225 Complex measures: total variation, absolute continuity, Radon-Nikodym theorem, polar and Hahn decompositions, bounded linear functionals on Lp, generalised Riesz representation theorem.302225 Differentiation: Maximal function, Lebesgue points, absolute continuity of functions, fundamental theorem of calculus, Jacobian of a differentiable transformation, change of variable formula.302225 Product measures: Fubini`s theorem, completion of product measures, convolutions, Fourier transform, Riemann-Lebesgue lemma, inversion theorem, Plancherel theorem, L1 as a Banach algebra.302225 Content on a locally com...
+
+## MA 814: Complex Analysis
+- Credits: 6
+- Type: Theory
+- Description: Review of basic complex analysis: Cauchy-s theorem, Liouville`s theorem, power series representation, open mapping theorem, calculus of residues. - Harmonic functions, Poisson integral, Harnack-s theorem, Schwarz reflection principle. - Maximum modulus principle, Schwarz lemma, Phragmen-Lindelof method,. - Runge-s theorem, Mittag-Leffler theorem, Weierstrass theorem, conformal equivalence, Riemann mapping theorem, characterisation of simply connected regions, Jensen`s formula. - Analytic continuation, monodromy theorem, little Picard theorem.
+
+## MA 815: Differential Topology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of differentiable manifolds, tangent and cotangent bundles, tensors. - DeRham complex, Poincare-s Lemma, Mayer-Vietoris sequences, cohomology with compact supports, degree of a map, Poincare duality. - Vector bundles, cohomology with vertical compact supports, Thom isomorphism, twisted DeRham complex, Poincare duality for non-orientable manifolds.
+
+## MA 816: Algebraic Topology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Paths and homotopy, homotopy equivalence, contractibility, deformation retracts. - Basic constructions: cones, mapping cones, mapping cylinders, suspension. - Cell complexes, subcomplexes, CW pairs. - Fundamental groups. Examples (including the fundamental group of the circle) and applications (including Fundamental Theorem of Algebra, Brouwer Fixed Point Theorem and Borsuk-Ulam Theorem, both in dimension two). Van Kampen`s Theorem. Covering spaces, lifting properties, deck transformations, universal coverings. - Simplicial complexes, barycentric subdivision, stars and links, simplicial approximation. Simplicial Homology. Singular Homology. Mayer-Vietoris sequences. Long exact sequence of pairs and triples. Homotopy invariance and excision. - Degree. Cellular Homology. - Applications of ho...
+
+## MA 817: Partial Differential Equations I
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: 1.1. Theory of distributions: (1) supports, test functions, regular and singular distributions, (2) distributional derivatives, weak solutions of PDEs, (3) Fourier transform, Schwartz space and tempered distributions, (4) existence of fundamental solutions to linear pdes (Malgrange-Ehrenpreis).       1.2. Function spaces and embedding theorems: (1) Sobolev Spaces: definition and basic properties, approximation by smooth functions, dual spaces. (2) Traces, continuous Sobolev embedding, Rellich-Kondrachov compactness theorem.       1.3. Elliptic Boundary value problems: (1) Abstract variational problems, (2) Second Order Linear Elliptic Equations: Weak Solutions, Lax-Milgram Theorem and its applications, Existence and Regularity Results, (3) Dirichlet Principle, (4) Maximum Principle, (5) Ei...
+
+## MA 818: Partial Differential Equations II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: 1.1. Function spaces and Distributions.(1) Distributions and other preliminaries, Banach space valued functions, time dependent Sobolev Spaces, Trace theory and compactness theorems for time dependent Sobolev spaces.(2) Basics of one parameter semigroups and groups, Hille-Yosida theorem, Stone`s theorem and their applications.     1.2. Parabolic equations:(1) heat kernel, uniqueness of solution of heat equation under growth conditions, Tychonoff`s counterexample.(2) Existence of weak solutions, Galerkin approximation.(3) L 2 regularity.(4) Maximum principle, parabolic Harnack inequality.     1.3. Hyperbolic equations:(1) Existence of weak solutions to the wave equation and the inhomogeneous equation, short time approximate series expansion methods.(2) L 2 -Regularity.(3) Energy methods and...
+
+## MA 819: Weak Convergence and Martingale Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of conditional expectation : Conditional expectation and conditional probability, regular conditional distributions, disintegration, conditional independence. - Martingales and Stopping times : Stopping times, random time change, martingale property, optional sampling theorem, maximum and upcrossing inequalities, martingale convergence theorem. - Gaussian processes and Brownian motion: Symmetries of Gaussian distribution, existence and path properties of Brownian motion, law of iterated logarithm. - Weak convergence in metric spaces with special reference to C[0, 1], Martingale central limit theorem.
+
+## MA 820: Stochastic Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Discrete time Markov Chains: Definition and basic properties, class structure, hitting time and absorption probabilities, strong Markov property, recurrence and transience, invariant distributions, convergence to equilibrium, time reversal, ergodic theorem. Markov chain mixing: Coupling and total variation distance,Mixing time, upper bound and lower bound on mixing time. Continuous time Markov chains- definition and examples, embedded Markov chain, Kolmogorov forward and backward equations, classification of states, limit theorems. Random walk - in dimension one, two and three, The Reflection Principle, hitting probabilities of a finite sets, Last visits and Long leads, Maxima and first passages, Duality, position of maxima. Poisson Process - definition and properties, inter arrival and wa...
+
+## MA 821: Theory of Estimation
+- Credits: 6
+- Type: Theory
+- Description: Elements of decision theory such as complete class theorem, admissibility of Bayes rule, Minmax Theorem - Review of sufficiency, consistency and efficiency. UMVU estimators and their properties. Application to normal and exponential one and two sample problems. Information inequality(multiple parameter case) Equivariance, Invariance. Application to location and scale families. - MRE estimation. - Bayes and minimax estimation for exponential families. Admissibility of estimators, Blyth-s ratio method, Karlin-s sufficient conditions. - Pitman-s estimator and its properties, Simultaneous estimation. Stein-s phenomenon, Shrinkage estimation.
+
+## MA 822: Testing of Hypothesis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: UMP tests, Neymann-Pearson fundamental lemma, Distributions with ML ratio, Confidence bounds, Generalization of the fundamental lemma. - Least favourable distributions, applications to normal distribution. - Similarity and completeness, UMP unbiased two-sided tests, Applications to exponential families, Fisher-Beherns problem, Unbiased confidence sets. Most powerful permutation and invariant tests, Admissibility of tests, Chi-tests and invariance, The Hunt-Stein theorem and its applications.
+
+## MA 824: Functional Analysis
+- Credits: 6
+- Type: Theory
+- Description: Review of normed linear spaces, Hahn-Banach theorems, uniform boundedness principle, open mapping theorem, closed graph theorem, Riesz representation theorem on Hilbert spaces. - Weak and weak* convergence, reflexivity in the setting of normed linear spaces. - Compact operators, Sturm-Liouville problems. - Spectral projections, spectral decomposition theorem, spectral theorem for a bounded normal operator, unbounded operators, spectral theorem for an unbounded normal operator.
+
+## MA 825: Algebra
+- Credits: 6
+- Type: Theory
+- Description: Modules over PID with applications to the structure of finitely generated abelian groups and canonical forms of matrices. Basic theory of commulative rings: Localization, integral dependence, Noetherian and Artinian rings, Hilbert"s Nullstellensatz, Hilbert series of graded algebras with applications to simplicial complexes, lattice points of convex polytopes and counting magic squares.
+
+## MA 826: Topology
+- Credits: 6
+- Type: Theory
+- Description: Review of differentiable manifolds, tangent spaces and derivative of a map. Morse functions, local surfaces, passing critical points and attaching cells. CW complexes and CW homology. Cobordism. Isotopies, extending isotopies, gluing manifolds, isotopies of discs. Surfaces, model surfaces, characterizations of disc, classification of compact surfaces.
+
+## MA 827: Analysis I
+- Credits: 6
+- Type: Theory
+- Description: Review of measure theory, Vitali covering theorem and its applications (Fundamental Theorem of Calculus for Lebesgue Integral). Complex measures, total variation, absolute continuity, Radon-Nikodym theorem with applications, positive Borel measures, Riesz representation theorem. Change of variables formula for Lebesgue integrals in Euclidean spaces.
+
+## MA 828: Functional Analysis
+- Credits: 6
+- Type: Theory
+- Description: Topological vector spaces, separation properties, linear maps, boundedness and continuity, seminorms and local convexity, Baire category, Banach-Steinhaus theorm, open mapping and closed graph theorems, Hahn Banach theorems. Weak topologies. Distributions.  Calculus with distributions, convolutions, Fourier transforms, tempered distributions, Payley-Wiener theorems, Sobolev"s lemma.
+
+## MA 829: Mathematical Methods
+- Credits: 6
+- Type: Theory
+- Description: Review of ordinary differential equations. Sturm-Liouville problems.  Green"s functions. Phase plane analysis and stability. Review of first and second order partial differential equations, classification of equations. Asymptotic series and perturbation methods.   Survey of the integral transforms such as Fourier transforms, Laplace transforms, Hankel transforms. Application of integral transforms to the reduction of various boundary value problems. Fredholm and Voltera integral equations. Iterative solutions. Singular integral equations.
+
+## MA 830: Numerical Analysis
+- Credits: 6
+- Type: Theory
+- Description: Review of some requisities. Iterative methods for the solution of linear and non-linear algebraic systems of equations including Gauss-Seidel, SOR and conjugate gradient Newton methods. Derivations of the conditions of their convergence and stability with illustrations.  Discussion of finite difference methods (including ADI and LOD) and their convergence for the solution of elliptic, parabolic and hyperbolic partial differential equations.   Development of finite element methods with applications to various types of initial and boundary value problems.
+
+## MA 831: Fluid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Basic equations of fluid flow. Constitutive equations and classification of fluids. Incompressible (Ideal, Newtonian, Non-Newtonian, Viscoelastic) fluid flows. Basic thermodynamics, compressible fluid flows. Supersonic, transonic and subsonic flows.  Nonlinear wave propagation including shock waves of arbitrary strength
+
+## MA 832: Elasticity
+- Credits: 6
+- Type: Theory
+- Description: Derivation of the basic equations of elasticity. Use of curvilinear coordinates. Solution for isotropic bodies in terms of potential functions. Problems depending on one harmonic function. Theories of plane strain and plane stress. Solutions of some plane problems using complex variable techniques. Axisymmetric problems in the theory of elasticity.
+
+## MA 833: Weak Convergance and Martingale Theory
+- Credits: 6
+- Type: Theory
+- Description: Review of conditional expectations. Martingales in discrete and continuous time. Square integrable Martingales. Weak convergence in metric spaces with special reference to C([0,1]) space. Dependent variables. Diffusion processes and mixing. Martingale Central Limit Theorem.
+
+## MA 834: Theory of Testing of Hypotheses
+- Credits: 6
+- Type: Theory
+- Description: UMP tests. Neymann-Pearson fundamental lemma. Distributions with ML ratio. Confidence bounds. Generalization of the fundamental lemma.  Least favourable distributions. Applications to normal distribution.   Similarity and completeness. UMP unbiased two-sided tests. Applications to exponential families. Fisher-Beherns problem. Unbaised confidence sets. Most powerful permutation and invariant tests. Admissibility of tests. Chi-square and likelihood ratio tests. Minimax tests and invariance. The Hunt-Stein theorem and its applications.
+
+## MA 835: Theory of Estimation
+- Credits: 6
+- Type: Theory
+- Description: Elements of decision theory such as complete class theorem, admissibility of Bayes rule, minimax theorem.  Review of sufficiency, consistency, and efficiency. UMVU estimators and their properties. Application to normal and exponential one and two sample problems. Information inequality (multiparameter case). Equivariance. Invariance. Application to location and scale families.   MRE estimation.   Bayes and minimax estimation for exponential families. Admissibility of estimators. Blyth"s ratio method. Karlin"s sufficient conditions.   Pitman"s estimator and its properties. Simultaneous estimation.   Stein"s phenomenon. Shrinkage estimation.
+
+## MA 836: Asymptotic Theory of Statistical Inference
+- Credits: 6
+- Type: Theory
+- Description: Best asymptotically normal estimation. First and second order efficiency of estimators. Large deviations and measures of efficency.  Locally asymptotically normal models. Locally asymptotically best decision rules. Contiguity of measures and applications.
+
+## MA 837: Special Topics in Mathematics I
+- Credits: 6
+- Type: Theory
+- Description: This course will consist of lectures by faculty members on specialised areas in Mathematics. There will be three weekly meetings of one hour each. More than one special topic can be covered in parallel under the same course. The course will be coordinated by a single faculty member.
+
+## MA 838: Special Topics in Mathematics II
+- Credits: 6
+- Type: Theory
+- Description: This course will consist of lectures by faculty members on specialised areas in Mathematics. There will be three weekly meetings of one hour each. More than one special topic can be covered in parallel under the same course. The course will be coordinated by a single faculty member.
+
+## MA 842: Topics in Algebra II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Cohen-Macaulay rings and modules, Canonical Module, Gorenstein rings.     Hilbert functions and multiplicities, Macaulay`s Theorem     Stanley-Reisner rings, shellability.     Semigroup rings and rings of invariants     Determinantal rings, Straightening law.     Big Cohen-Macaulay modules, Hochster`s finiteness theorem.
+
+## MA 843: Topics in Analysis I
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Singular Integrals (Calderon-Zygmund theory), the Kakeya problem, the Uncertainty Principle, the almost everywhere convergence of Fourier series, multilinear operators between Lp spaces.     Pseudodifferential operators, Index theorems.     Advanced complex analysis in one variable: Nevanlina theory, the existence of quasi-conformal maps, iterated polynomial maps, complex dynamics, compact Riemann surfaces, the Corona theorem.     Holomorphic functions in several complex variables: elementary properties of functions of several complex variables, analytic continuation, subharmonic functions, Hartog`s theorem, automorphisms of bounded domains.
+
+## MA 844: Topics in Analysis II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Fourier Series and Fourier Transforms: Orthonormal Sequences in Inner Product Spaces, Fourier Series, Riemann-Lebesgue Lemma, Convergence/Divergence of Fourier Series, Fejer Theory, Fourier Transform, Inversion Theorem, Approximate Identities, Plancherel Theorem  Hp spaces: Harmonic and Subharmonic Functions, Hp spaces, Nevanlinna Class of Functions, Boundary Values, Non-tangential Limits, F. and M. Riesz Theorem, Inner Functions, Outer Functions, Factorization Theorems, Beurling`s Theorem  Banach Algebras: Examples of Banach Algebras, Spectrum, Gelfand Representation, C*-Algebras, Positive Linear Functionals, Gelfand-Naimark Representation Elements of Operator Theory: Hilbert Space Operators, Parts of Spectrum, Orthogonal Projections, Invarian...
+
+## MA 846: Topics in Combinatories II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Partially ordered sets, Mobius inversion.     Rational generating functions: P-partitions and linear Diophantine equations.     Polya theory and representation theory of the symmetric group:     Combinatorial algorithms, and symmetric functions.     Generating functions: Single and multivariable Lagrange inversion.     Young tableaux and plane partitions
+
+## MA 848: Topics in Geometry II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Affine and projective varieties, rational maps, nonsingularity.     Algebraic Curves, Riemann Roch Theorem.     Sheaves and Schemes. Basic properties. Divisors and Differentials.     Cohomology of sheaves, Serre Duality Theorem.
+
+## MA 850: Topics in Topology II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 00
+- Description: Basics of Topological groups, Lie group.     Group actions, homogeneous spaces examples.     G-spaces, existence of slice and tubes     Covering homotopy theorem, Classification of G-Spaces.     Finite group actions, homology spheres     G-coverings, Cech theory     Locally smooth actions, orbit types,  principal orbits     Actions of tori.     Cohomology structure of fixed point sets, Z_p-actions projective spaces and product of spheres.
+
+## MA 852: Topics in Number Theory II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Harmonic analysis on Lie groups, L-functions, l-adic representations and motives.     Diophantine equations and the applications of K-theory to number theory.     Analytic number theory and transcendental methods.     Applications of ergodic theory to number theory.
+
+## MA 854: Topics in Differential Equations II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Diffeomorphisms and flows: Elementary dynamics of diffeomorphisms, flows and differential equations, conjugacy, equivalence of flows, Sternberg`s theorem on smooth conjugacy (statement only), Hamiltonian flows  and Poincare maps.  Local properties of flows and diffeomorphisms: Hyperbolic fixed points, Hartman-Grobman theorems for maps and flows, Normal forms for vector fields, Centre manifolds.  Structural stability and hyperbolicity: Structural stability for linear systems, Flows on 2-dimensional manifolds, Peixoto`s characterisation of structural stability on unit disc, Anosov and  Horseshoe diffeomorphisms, Homoclinic points, Melnikov function.  Bifurcations and Perturbations: Saddle-node and Hopf  bifurcations, Andronov-Hopf bifurcation, Th...
+
+## MA 856: Topics in Numerical Analysis II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Mixed Finite Element Methods: Examples of mixed variational formulations- primal, dual formulations; abstract mixed formulations, discrete mixed formulations, existence-uniqueness of solutions, convergence analysis, implementation procedures.     Adaptive FEM: A study of -Explicit A posteriori error estimators, Implicit A posteriori estimators, Recovery based error estimators, Goal Oriented adaptive mesh refinement for second order elliptic boundary value problems.     Discontinuous Galerkin Methods for second order elliptic boundary value problems:  Global element methods, Symmetric Interior Penalty Method, Discontinuous hp- Galerkin Method, Non-symmetric interior penalty method: Consistency, approximation properties, existence and uniqueness ...
+
+## MA 858: Topics in Probability II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Stochastic optimal control:  compactness of laws, dynamic programming principle.     Malliavin calculus and applications to finance:  Wiener-Ito chaos expansion, Shorohod integral, Integration by parts formula, Clark- Ocone formula and application to finance.
+
+## MA 860: Topics in Statistics II
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: A selection of topics from the following:     Inference in Semi-parametric models:  Models with infinite imensional parameters, Efficient estimation and the delta method, Score and information operators, Estimating equations, Maximum Likelihood estimation, Testing.     Generalized linear models: Components of a GLM, estimation techniques, diagnostics, continuous response models, Binomial response models, Poisson response models, overdispersion, multivariate GLMs, quasi likelihoods, generalized estimating equations, generalized linear mixed models, programming in R and SAS.
+
+## MA 861: Combinatorics I
+- Credits: 6
+- Type: Theory
+- Description: Extremal Set Theory : Sperner`s Theorem, Theorems of Erdos-Ko-Rado, Kruskal-Katona, Dilworth`s theorem, Kleitman`s lemma for ideals and correlation inequalities.Graph theory : Matching theory, Hamiltonicity, Extremal graph theory, Graph colorings,  Ramsey theory.Basic Enumerative Combinatorics : Generating Functions, Quasi-polynomials and applications to Ehrhart theory, Transfer Matrix Method, Stanley`s Reciprocity Theorem, Exponential Structures, Trees, Lagrange inversion Theorem.
+
+## MA 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## MAS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## MAS802: Seminar
+- Credits: 4
+- Type: Seminar

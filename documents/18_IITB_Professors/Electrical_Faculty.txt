@@ -1,0 +1,1054 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Electrical Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Abhay Karandikar
+- Department: Electrical
+- Designation: Professor (Director IIT Kanpur)
+- Email: karandi@ee.iitb.ac.in
+- Research Group: Wireless Networks Lab
+- Primary Research Area: Communication Networks, 5G/6G & Telecom Policy
+- Research Interests & Innovation Focus: Communication networks; QoS in Internet; Telecommunication switching; Digital communication; 5G technology; Telecom policy; Rural connectivity; Cognitive radio
+- Notable Projects: Director IIT Kanpur; Chairman TRAI (2023-); 5G testbed at IIT Bombay; Rural broadband connectivity; Telecom policy advisor
+- Key Tools & Platforms: Network simulation, 5G testbed equipment, protocol analysis
+- Industry Collaborations: TRAI; Telecom operators; DoT; Rural broadband initiatives
+- Awards: Director IIT Kanpur; Chairman TRAI; Fellow IEEE, INAE; Shanti Swarup Bhatnagar Prize nominee
+- Innovation Keywords: 5G, telecom policy, communication networks, rural connectivity, cognitive radio, QoS, Internet, TRAI
+- Profile: https://www.ee.iitb.ac.in/web/people/abhay-karandikar/
+
+## Prof. Anil Kottantharayil
+- Department: Electrical
+- Designation: Professor (HAL R&D Chair)
+- Email: anil.k@ee.iitb.ac.in
+- Research Group: Silicon Photovoltaics Lab / NCPRE
+- Primary Research Area: Silicon Solar Cells, PV Module Reliability & Advanced CMOS
+- Research Interests & Innovation Focus: High-efficiency crystalline silicon solar cells; PV module reliability & durability; CMOS device physics; Gate oxide reliability; Hot-carrier effects; Radiation effects on MOS; Solar cell manufacturing optimization
+- Notable Projects: Si solar cell fabrication lab; Industry-scale process optimization; Patent 'Solar Cell & Structure Thereof' (502029); Patent on Si nitride post-treatment (404618); Low-cost module monitoring
+- Key Tools & Platforms: Device fabrication, solar cell testing, modeling software
+- Industry Collaborations: Indian solar manufacturing industry
+- Awards: Fellow INAE; Distinguished Lecturer IEEE EDS; HAL R&D Chair
+- Innovation Keywords: silicon solar cells, photovoltaic reliability, CMOS devices, hot-carrier effects, solar manufacturing, module durability
+- Profile: https://www.ee.iitb.ac.in/web/people/anil-kottantharayil/
+
+## Prof. Anil Kulkarni
+- Department: Electrical
+- Designation: Professor
+- Email: anil@ee.iitb.ac.in
+- Research Group: Power Systems Lab
+- Primary Research Area: HVDC, FACTS & Power System Dynamics
+- Research Interests & Innovation Focus: Power system dynamics & control; FACTS devices; HVDC transmission; Frequency scanning for network-FACTS interactions; Wide-area measurement & damping; Dynamic phasor modeling; Power flow modulation; Inter-area oscillation damping
+- Notable Projects: FACTS & HVDC converter systems; Wide-area damping controllers; Power system frequency monitoring; Line-commutated converter designs
+- Key Tools & Platforms: FACTS control systems, HVDC algorithms, dynamic phasor modeling
+- Industry Collaborations: Power transmission utilities; FACTS manufacturers
+- Awards: PhD IISc Bangalore (1997); Real-time frequency monitoring system
+- Innovation Keywords: HVDC, FACTS, power system dynamics, wide-area damping, oscillation damping, frequency stability, power flow control
+- Profile: https://www.ee.iitb.ac.in/web/people/anil-kulkarni/
+
+## Prof. Animesh Kumar
+- Department: Electrical
+- Designation: Associate Professor
+- Email: animesh@ee.iitb.ac.in
+- Research Group: Signal Processing & Sampling Theory Lab
+- Primary Research Area: Sampling Theory, Applied Statistics & Signal Processing
+- Research Interests & Innovation Focus: Applied statistics; Signal processing; Sampling theory; Integrated circuits; Quantization; A/D conversion; Oversampled signals; Frame theory
+- Notable Projects: Sampling theory for bandlimited signals; Quantization error analysis; Frame-based signal processing
+- Key Tools & Platforms: MATLAB, signal processing tools, statistical analysis
+- Industry Collaborations: Signal processing industry
+- Awards: Publications in IEEE Signal Processing Letters, Trans SP
+- Innovation Keywords: sampling theory, quantization, signal processing, statistics, frame theory, A/D conversion, oversampling
+- Profile: https://www.ee.iitb.ac.in/web/people/animesh-kumar/
+
+## Prof. Anshuman Shukla
+- Department: Electrical
+- Designation: Professor
+- Email: anshumanshukla@ee.iitb.ac.in
+- Research Group: Power Electronics & Drives Group
+- Primary Research Area: Power Electronics, Multilevel Converters & SiC-Based Systems
+- Research Interests & Innovation Focus: Multilevel converters; Power electronic converter control; FACTS & HVDC applications; Renewable energy & storage; Hybrid & solid-state circuit breakers; SiC device-based converters; Medium voltage drives; Solid-state transformers; Nonlinear system identification
+- Notable Projects: Advanced converter topologies; Renewable energy integration; Medium voltage power electronic drives; SiC-based power systems
+- Key Tools & Platforms: Power converter design, control tools, simulation platforms
+- Industry Collaborations: Renewable energy; EV charging infrastructure
+- Awards: PhD IIT Kanpur (2008); Workshop facilitator on nonlinear system identification
+- Innovation Keywords: multilevel converters, FACTS, HVDC, SiC devices, solid-state transformers, renewable integration, power electronics
+- Profile: https://www.ee.iitb.ac.in/web/people/anshuman-shukla/
+
+## Prof. Anupama Kowli
+- Department: Electrical
+- Designation: Associate Professor
+- Email: anupama@ee.iitb.ac.in
+- Research Group: Smart Grid & Building Energy Lab
+- Primary Research Area: Smart Grid, Demand Response & Building Energy Management
+- Research Interests & Innovation Focus: Power system planning & operations; Electricity markets; Grid integration of renewables & storage; Demand-side management; Flexible loads; Smart grids; Building energy management; Energy efficiency
+- Notable Projects: Live testbeds on IITB campus; Solar house experiments; Smart building analytics (MuRata Engineering); Smart meter analytics (SustLabs & India Power Corp); Enphase Energy collab
+- Key Tools & Platforms: Power system simulation, MATLAB, building energy modeling, smart meter analytics
+- Industry Collaborations: MuRata Engineering; SustLabs; India Power Corporation; Enphase Energy
+- Awards: Awards in demand response & smart buildings
+- Innovation Keywords: demand response, smart grid, building energy, energy efficiency, renewable integration, smart meters, electricity markets
+- Profile: https://www.ee.iitb.ac.in/web/people/anupama-kowli/
+
+## Prof. Apurba Laha
+- Department: Electrical
+- Designation: Professor
+- Email: apurba@ee.iitb.ac.in
+- Research Group: III-Nitride Semiconductor Devices Lab
+- Primary Research Area: GaN Nanowires, III-Nitride Epitaxy & UV/Green LEDs
+- Research Interests & Innovation Focus: III-Nitride semiconductors (GaN, InGaN, AlGaN) growth; PA-MBE on sapphire/SiC/GaN/silicon; III-Nitride nanowires; Green laser diodes (500-530nm); UV LEDs; GaN HEMTs; GaN junctionless FinFET; Oxide-based electronics; MOSHEMT
+- Notable Projects: GaN nanowires on Si(111); High-quality AlGaN nanowires (50% Al); Stress-engineered GaN nanowires with AlN capping; Green laser diode development; UV LED research
+- Key Tools & Platforms: PA-MBE systems, optical & structural characterization
+- Industry Collaborations: Global semiconductor industry
+- Awards: PhD Indian Institute of Science Bangalore (2004)
+- Innovation Keywords: GaN nanowires, III-Nitride epitaxy, PA-MBE, green lasers, UV LEDs, power electronics, HEMT, FinFET
+- Profile: https://www.ee.iitb.ac.in/web/people/apurba-laha/
+
+## Prof. Arun S.
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: sarun@ee.iitb.ac.in
+- Research Group: Nonlinear Photonics & Fiber Lasers Lab
+- Primary Research Area: High-Power Fiber Lasers, Supercontinuum Generation & Nonlinear Optics
+- Research Interests & Innovation Focus: High-power fiber lasers; Raman fiber lasers & amplifiers; Supercontinuum lasers; Wavelength tunable systems; Nonlinear optics in fibers; Cascaded Raman scattering; Mid-infrared laser development; Ultrafast photonics; Random fiber lasers
+- Notable Projects: High-power tunable Raman fiber lasers; Stability analysis of octave-spanning CW supercontinuum; Cascaded Raman supercontinuum; Mid-IR fiber laser development
+- Key Tools & Platforms: Fiber laser systems, optical characterization, nonlinear optics simulation
+- Industry Collaborations: Photonics & laser industry
+- Awards: Postdoc Tampere University Finland (2021-22); Postdoc IISc (2019-21)
+- Innovation Keywords: fiber lasers, nonlinear optics, supercontinuum, Raman amplification, mid-infrared, wavelength conversion, high-power lasers
+- Profile: https://www.ee.iitb.ac.in/web/people/arun-s/
+
+## Prof. Ashwin A. Seshia
+- Department: Electrical
+- Designation: Visiting (Cambridge)
+- Email: seshia@ee.iitb.ac.in
+- Research Group: Microsystems Technology Lab
+- Primary Research Area: MEMS Design, Resonant Sensing & Vibration Energy Harvesting
+- Research Interests & Innovation Focus: MEMS design; Resonant & mode-localized sensing; Frequency-modulated gyroscopes; Micromachined vibrating beam gravimeters; Vibration energy harvesting; Inertial sensing; Gravity sensing; Parametric resonance
+- Notable Projects: Vibrating beam MEMS accelerometers for gravity; FM gyroscope design; Parametric resonance energy harvesting; Co-founded 8power & Silicon Microgravity
+- Key Tools & Platforms: MEMS simulation, FEA, frequency control analysis
+- Industry Collaborations: 8power (co-founder); Silicon Microgravity (co-founder); Sensor companies
+- Awards: IEEE Sensors Technical Achievement Award (2018); Cambridge faculty
+- Innovation Keywords: MEMS, resonant sensing, energy harvesting, gyroscopes, gravimeters, vibration, microfabrication
+- Profile: https://www.ee.iitb.ac.in/web/people/ashwin-a-seshia/
+
+## Prof. Ashwin A. Tulapurkar
+- Department: Electrical
+- Designation: Professor
+- Email: ashwin@ee.iitb.ac.in
+- Research Group: Spintronics Lab
+- Primary Research Area: Spintronics, Magnetic Tunnel Junctions & Spin-Torque Devices
+- Research Interests & Innovation Focus: Spintronics & spin-based devices; Magnetic tunnel junctions (MTJs); Spin-transfer torque (STT); Spin-based oscillators; Thermoelectric effects in spintronics; Neuromorphic spintronic devices; Nanoscale RF oscillators
+- Notable Projects: Scaling effects on STT-MTJs (IEEE TED 2018); Thermally driven field-like spin torque in MTJs (APL 2016); Nanoscale RF oscillators; Neuromorphic spin devices
+- Key Tools & Platforms: Device fabrication, magnetic characterization, transport measurement
+- Industry Collaborations: International spintronics collaborations
+- Awards: PM's Excellence in PhD Research Award (2 students); 3,549+ citations; 135+ publications
+- Innovation Keywords: spintronics, magnetic tunnel junctions, spin-transfer torque, spin oscillators, neuromorphic devices, nanoscale magnetism
+- Profile: https://www.ee.iitb.ac.in/web/people/ashwin-a-tulapurkar/
+
+## Prof. Baylon G. Fernandes
+- Department: Electrical
+- Designation: Professor (Former HOD EE)
+- Email: bgf@ee.iitb.ac.in
+- Research Group: Power Electronics & Electric Machines Group
+- Primary Research Area: Electric Machines, Renewable Energy & Motor Design
+- Research Interests & Innovation Focus: Inverter topologies for VAr compensation; Non-conventional energy interfaces; Medium/high-frequency transformers; Permanent magnet machines for wind; Switched reluctance machines for EVs; Synchronous reluctance motors for fans; Marine & offshore applications
+- Notable Projects: Wind power generation systems; EV motor design; Grid-connected renewable systems; High-frequency transformer development
+- Key Tools & Platforms: Electric machine design, power electronics simulation, renewable modeling
+- Industry Collaborations: Wind energy; EV manufacturers; Irrigation equipment
+- Awards: 8,518 citing scholars; Former HOD EE; IEEE Trans publications
+- Innovation Keywords: electric machines, wind generation, switched reluctance motors, permanent magnet, inverter topologies, renewable integration
+- Profile: https://www.ee.iitb.ac.in/web/people/baylon-g-fernandes/
+
+## Prof. Bhaskaran Muralidharan
+- Department: Electrical
+- Designation: Inani Chair Professor
+- Email: bhaskaran@ee.iitb.ac.in
+- Research Group: CNQT Group (Computational Nanoelectronics & Quantum Transport)
+- Primary Research Area: Quantum Transport, Spin-Valley Qubits & Thermoelectric Devices
+- Research Interests & Innovation Focus: Computational quantum transport; Quantum materials & device design; Spin-valley qubits & quantum dots; Pauli blockades; Antimonide-based IR avalanche photodiodes; 2D topological materials; Thermoelectric devices; Quantum metrology; Graphene transport; Majorana zero modes
+- Notable Projects: Transport spectroscopy of 2D quantum-dot platforms; Spin-valley qubit development; Antimonide IR photodiodes; Topological quantum materials; Quantum dot thermal machines
+- Key Tools & Platforms: TCAD, quantum transport modeling, computational physics packages
+- Industry Collaborations: International quantum computing & advanced semiconductor industry
+- Awards: MIT Postdoc (2008-12); Inani Chair Professorship; U. Regensburg researcher
+- Innovation Keywords: quantum transport, spin-valley qubits, topological materials, thermoelectric, quantum computing, antimonide, Majorana fermions
+- Profile: https://www.ee.iitb.ac.in/web/people/bhaskaran-muralidharan/
+
+## Prof. Bikash Kumar Dey
+- Department: Electrical
+- Designation: Professor
+- Email: bikash@ee.iitb.ac.in
+- Research Group: Coding & Information Theory Lab
+- Primary Research Area: Error Correcting Codes, Information Theory & Wireless Communication
+- Research Interests & Innovation Focus: Error correcting codes; Wireless communication; Signal processing; Information theory; Network coding; Index coding; Distributed source coding
+- Notable Projects: Network coding research; Index coding theory; Distributed source coding; Multiple IEEE journal publications
+- Key Tools & Platforms: MATLAB, coding theory tools, information theory simulators
+- Industry Collaborations: Telecom & communication systems
+- Awards: Fellow INAE; Publications in IEEE Trans IT; Recognized coding theorist
+- Innovation Keywords: error correcting codes, information theory, network coding, index coding, distributed source coding, wireless
+- Profile: https://www.ee.iitb.ac.in/web/people/bikash-kumar-dey/
+
+## Prof. D. K. Sharma
+- Department: Electrical
+- Designation: Professor
+- Email: dks@ee.iitb.ac.in
+- Research Group: Electronic Systems & VLSI Lab
+- Primary Research Area: MOS Device Modeling, VLSI Design & High Performance Computing
+- Research Interests & Innovation Focus: MOS device modeling; Mixed-signal VLSI; VLSI methodology; Process & device simulation; Electro-thermal modeling; High performance computing; Parallel computing; IC design & testing
+- Notable Projects: MOS device characterization for industry; IC design; VLSI automation; HPC system design; Industry training courses on VLSI
+- Key Tools & Platforms: VLSI design tools, SPICE, process simulation, HPC design
+- Industry Collaborations: Semiconductor companies; VLSI training
+- Awards: Fellow IETE; Senior member IEEE; Editorial board 'Pramana'
+- Innovation Keywords: VLSI, MOS devices, mixed-signal, IC design, electro-thermal, HPC, design automation
+- Profile: https://www.ee.iitb.ac.in/wiki/faculty/dinesh
+
+## Prof. D. Manjunath
+- Department: Electrical
+- Designation: Professor (Head C-MInDS)
+- Email: dmanju@ee.iitb.ac.in
+- Research Group: Communication Networks Lab
+- Primary Research Area: Communication Network Protocols, Queueing Theory & Stochastic Systems
+- Research Interests & Innovation Focus: Communication network protocols; Performance modeling; Queueing theory; Stochastic systems; Internet pricing & QoS; Distributed sensor networks; Network economics
+- Notable Projects: Head C-MInDS; ACM Sigmetrics Best Paper; 2 textbooks on networking; Internet pricing models
+- Key Tools & Platforms: Network simulation, queueing analysis, stochastic modeling
+- Industry Collaborations: Telecom; Internet service providers
+- Awards: ACM Sigmetrics Best Paper; Head C-MInDS; Fellow INAE; 2 textbook author
+- Innovation Keywords: queueing theory, network protocols, stochastic systems, performance modeling, Internet pricing, sensor networks
+- Profile: https://www.ee.iitb.ac.in/web/people/d-manjunath/
+
+## Prof. Debanjan Bhowmik
+- Department: Electrical
+- Designation: Associate Professor
+- Email: debanjan@ee.iitb.ac.in
+- Research Group: Spintronics & Neuromorphic Computing Lab
+- Primary Research Area: Spintronic Devices, Neuromorphic Computing & AI Hardware
+- Research Interests & Innovation Focus: Spintronics-based neuromorphic computing; Magnetic material neuromorphic hardware; AI for edge devices; Ising machines; Nanomagnetism; Quantum machine learning; Non-volatile memory; Spin-orbit torque devices
+- Notable Projects: Spintronic neuromorphic hardware; SOT-driven non-volatile memory synapses; Bilayer ferromagnet-heavy metal systems; Book 'Spintronics-Based Neuromorphic Computing' (2024)
+- Key Tools & Platforms: Electromagnetic simulation, device modeling, computational neuroscience
+- Industry Collaborations: Semiconductor & AI hardware companies
+- Awards: Published book on spintronic neuromorphic computing (2024); IIT Delhi collaboration
+- Innovation Keywords: spintronics, neuromorphic computing, AI hardware, Ising machines, quantum ML, non-volatile memory, edge computing
+- Profile: https://www.ee.iitb.ac.in/web/people/debanjan-bhowmik/
+
+## Prof. Debasattam Pal
+- Department: Electrical
+- Designation: Professor
+- Email: debasattam@ee.iitb.ac.in
+- Research Group: Control & Computing Group
+- Primary Research Area: Behavioral Systems Theory, Algebraic Analysis & Switched Systems
+- Research Interests & Innovation Focus: Systems & control theory; Multidimensional systems; Algebraic analysis; Dissipative systems; Optimal control; Computational algebra; Data-driven control; Switched differential algebraic equations; Stability analysis
+- Notable Projects: Behavioral theory for data-driven control; Switched DAE research; Stability analysis of complex systems
+- Key Tools & Platforms: Behavioral systems tools, algebraic computation, stability analysis
+- Industry Collaborations: Control systems industry
+- Awards: 70+ publications; Teaches behavioral systems (EE714)
+- Innovation Keywords: behavioral systems, multidimensional systems, algebraic analysis, switched systems, data-driven control, stability
+- Profile: https://www.ee.iitb.ac.in/~debasattam/
+
+## Prof. Debraj Chakraborty
+- Department: Electrical
+- Designation: Associate Professor
+- Email: debraj@ee.iitb.ac.in
+- Research Group: DAMPE Group (Damping & Control Engineering)
+- Primary Research Area: Optimal Control, Linear Systems & Differential Games
+- Research Interests & Innovation Focus: Optimal control; Linear systems; Optimization; Differential games; Time-optimal feedback control; Constrained control; Damping control in power systems; Consensus tracking
+- Notable Projects: Damping control in power systems with constrained communication; Time-optimal consensus tracking with multiple leaders
+- Key Tools & Platforms: Control design tools, optimization solvers, MATLAB
+- Industry Collaborations: Power systems applications
+- Awards: Publications in IEEE journals; Teaches EE302 & EE638
+- Innovation Keywords: optimal control, differential games, time-optimal, damping control, consensus tracking, constrained control
+- Profile: https://www.ee.iitb.ac.in/~dc/
+
+## Prof. Dipankar Saha
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: dipankar@ee.iitb.ac.in
+- Research Group: Semiconductor Optoelectronics Lab
+- Primary Research Area: GaN-Based Optoelectronics, VCSELs & Semiconductor Spintronics
+- Research Interests & Innovation Focus: Semiconductor spintronics & spin injection in III-V; GaN optoelectronic devices (lasers, LEDs, VCSELs); Photon dynamics in semiconductor lasers; III-V heterostructures; Device reliability; Near-IR to visible optoelectronics
+- Notable Projects: Photon dynamics in GaN-based VCSELs; GaN optical devices (LEDs, lasers); Semiconductor spintronics on III-V systems
+- Key Tools & Platforms: Optoelectronic characterization, device simulation, optical measurement
+- Industry Collaborations: Semiconductor & photonics industry; Intel (former); IBM (former)
+- Awards: PhD University of Michigan; Postdoc Intel Portland & IBM Kolkata
+- Innovation Keywords: GaN optoelectronics, VCSELs, laser diodes, semiconductor spintronics, photon dynamics, III-V devices
+- Profile: https://www.ee.iitb.ac.in/web/people/dipankar-saha-2/
+
+## Prof. Dwaipayan Mukherjee
+- Department: Electrical
+- Designation: Associate Professor
+- Email: dwaipayan@ee.iitb.ac.in
+- Research Group: Multi-Agent Control & UAV Systems Group
+- Primary Research Area: Multi-Agent Systems, Formation Control & Cooperative Drones
+- Research Interests & Innovation Focus: Multi-agent systems; Cooperative control; Formation control; Bearing-only formation control; VTOL UAV dynamics; Autonomous swarms; GPS-free control schemes; Camera-based measurements; Distributed control
+- Notable Projects: Bearing-only formation control for VTOL drones without GPS; Drone swarm technology for stealth operations; GPS-free coordination systems
+- Key Tools & Platforms: Control algorithms, camera-based vision, formation tracking tools
+- Industry Collaborations: Defense (drone swarms); UAV manufacturers
+- Awards: Breakthrough in GPS-free drone swarm control; International recognition
+- Innovation Keywords: multi-agent systems, drone swarms, formation control, GPS-free, VTOL UAVs, cooperative control, autonomous systems
+- Profile: https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/
+
+## Prof. Gaurav S. Kasbekar
+- Department: Electrical
+- Designation: Associate Professor
+- Email: gkasbekar@ee.iitb.ac.in
+- Research Group: Wireless Networks & Game Theory Lab
+- Primary Research Area: Resource Allocation in Wireless Networks & Game Theory
+- Research Interests & Innovation Focus: Resource allocation & scheduling in wireless networks; Game theory; Spectrum auction; Dynamic spectrum access; Cognitive radio networks; Wireless network optimization
+- Notable Projects: Dynamic spectrum access algorithms; Game-theoretic wireless resource allocation; Cognitive radio optimization
+- Key Tools & Platforms: MATLAB, optimization tools, game theory simulators
+- Industry Collaborations: Telecom operators; Spectrum management
+- Awards: Publications in IEEE Trans Wireless, IEEE JSAC; Game theory expert
+- Innovation Keywords: wireless resource allocation, game theory, spectrum auction, cognitive radio, dynamic spectrum, network optimization
+- Profile: https://www.ee.iitb.ac.in/web/people/gaurav-s-kasbekar/
+
+## Prof. Girish Kumar
+- Department: Electrical
+- Designation: Professor
+- Email: gkumar@ee.iitb.ac.in
+- Research Group: Antenna Lab
+- Primary Research Area: Microstrip Antennas, Broadband Antennas & EMI/EMC
+- Research Interests & Innovation Focus: Microstrip antennas & arrays; Broadband antennas; Microwave integrated circuits; EMI/EMC; RF communication; Cell tower radiation studies; 5G antenna design
+- Notable Projects: Cell tower radiation health impact studies; Broadband microstrip antenna patents; 5G antenna array design; Multiple antenna patents
+- Key Tools & Platforms: Antenna simulation (HFSS, CST), microwave measurement equipment
+- Industry Collaborations: Telecom operators; Antenna manufacturers; EMI/EMC testing
+- Awards: Multiple patents on broadband antennas; Recognized expert on cell tower radiation; 300+ publications
+- Innovation Keywords: microstrip antennas, broadband antennas, EMI/EMC, cell tower radiation, 5G antennas, microwave circuits, RF
+- Profile: https://www.ee.iitb.ac.in/web/people/girish-kumar/
+
+## Prof. Girish P. Saraph
+- Department: Electrical
+- Designation: Professor
+- Email: girishs@ee.iitb.ac.in
+- Research Group: RF & Microwave Lab
+- Primary Research Area: RF Electronics, High Power Microwave Sources & Radar
+- Research Interests & Innovation Focus: RF electronics & wireless communications; High power microwave sources & radar; Fiber optics; Microwave vacuum devices; Radar systems; RF circuit design
+- Notable Projects: High power microwave source development; Radar system design; Microwave vacuum device research
+- Key Tools & Platforms: RF test equipment, microwave simulation, radar analysis tools
+- Industry Collaborations: Defense; Radar manufacturers; RF equipment companies
+- Awards: Publications in microwave & radar; Senior faculty member
+- Innovation Keywords: RF electronics, radar, high power microwaves, vacuum devices, fiber optics, wireless communications
+- Profile: https://www.ee.iitb.ac.in/web/people/girish-p-saraph/
+
+## Prof. Harihar Narayanan
+- Department: Electrical
+- Designation: Professor
+- Email: hn@ee.iitb.ac.in
+- Research Group: Combinatorial Optimization Lab
+- Primary Research Area: Combinatorial Optimization, Submodular Functions & Circuit Simulation
+- Research Interests & Innovation Focus: Combinatorial optimization; Submodular function theory; Large-scale circuit simulators; Graph algorithms; Matroid theory; Network flow
+- Notable Projects: Large-scale circuit simulation algorithms; Submodular optimization research; Graph theory applications
+- Key Tools & Platforms: Circuit simulation tools, optimization algorithms, graph libraries
+- Industry Collaborations: EDA companies; Circuit simulation
+- Awards: Foundational work in combinatorial optimization; Multiple journal publications
+- Innovation Keywords: combinatorial optimization, submodular functions, circuit simulation, graph algorithms, matroid theory, network flow
+- Profile: https://www.ee.iitb.ac.in/web/people/harihar-narayanan/
+
+## Prof. Harish K. Pillai
+- Department: Electrical
+- Designation: Professor
+- Email: hp@ee.iitb.ac.in
+- Research Group: Systems & Control Lab
+- Primary Research Area: Control Theory, Behavioral Systems & Multidimensional Systems
+- Research Interests & Innovation Focus: Control theory; Behavioural theory of systems; Multidimensional systems; Coding theory; Linear algebra for systems; Algebraic approaches to control
+- Notable Projects: Behavioral systems theory research; Coding theory applications; nD systems theory contributions
+- Key Tools & Platforms: MATLAB, control system toolboxes, algebraic computation tools
+- Industry Collaborations: Control systems industry
+- Awards: Publications in Automatica, Systems & Control Letters; Fellow recognition
+- Innovation Keywords: control theory, behavioral systems, multidimensional systems, coding theory, linear algebra, algebraic control
+- Profile: https://www.ee.iitb.ac.in/web/people/harish-k-pillai/
+
+## Prof. Himanshu J. Bahirat
+- Department: Electrical
+- Designation: Associate Professor
+- Email: himanshu@ee.iitb.ac.in
+- Research Group: HVDC & Power Systems Lab
+- Primary Research Area: HVDC Systems, Offshore Wind & Power System Transients
+- Research Interests & Innovation Focus: HVDC transmission & control; DC power systems; Power system transients; Offshore wind energy; Wind farm DC networks; Multi-terminal HVDC; Grid integration of renewables; Cable modeling; Grid stability
+- Notable Projects: ±800kV 6000MW NER-Agra Multi-Terminal HVDC control strategies; HVDC grids; Offshore wind integration; Advanced cable models
+- Key Tools & Platforms: EMT simulation, MATLAB/Simulink, HVDC modeling
+- Industry Collaborations: HVDC operators; Renewable energy organizations
+- Awards: 743+ citations; Significant HVDC research impact
+- Innovation Keywords: HVDC, offshore wind, DC networks, power transients, grid integration, multi-terminal HVDC, cable modeling
+- Profile: https://www.ee.iitb.ac.in/web/people/himanshu-j-bahirat/
+
+## Prof. Jayanta Mukherjee
+- Department: Electrical
+- Designation: Professor
+- Email: jayanta@ee.iitb.ac.in
+- Research Group: RF & Analog VLSI Lab
+- Primary Research Area: RF VLSI Design, Noise Modeling & Analog Circuits
+- Research Interests & Innovation Focus: RF VLSI design; Testing & noise modeling; Analog VLSI; Mixed-signal circuits; Device noise characterization; RF front-end design
+- Notable Projects: RF VLSI noise modeling; Analog circuit testing; Device characterization research
+- Key Tools & Platforms: Cadence, HSPICE, RF test equipment, noise measurement systems
+- Industry Collaborations: Semiconductor companies; RF IC design
+- Awards: Publications in IEEE TCAS, TMTT; Senior faculty in EE
+- Innovation Keywords: RF VLSI, noise modeling, analog circuits, mixed-signal, device characterization, RF front-end
+- Profile: https://www.ee.iitb.ac.in/web/people/jayanta-mukherjee/
+
+## Prof. Joseph John
+- Department: Electrical
+- Designation: Professor
+- Email: jjohn@ee.iitb.ac.in
+- Research Group: Fiber Optics Communication Lab
+- Primary Research Area: Optical Fiber Communications & Electronic Instrumentation
+- Research Interests & Innovation Focus: Optical fiber communications; Electronic circuits; Electronic systems & instrumentation; Fiber amplifiers; WDM systems; Optical network design
+- Notable Projects: Fiber optic communication systems; WDM network design; Electronic instrumentation projects
+- Key Tools & Platforms: Optical fiber test equipment, electronic instrumentation, simulation tools
+- Industry Collaborations: Telecom companies; Fiber optic equipment manufacturers
+- Awards: Extensive teaching & research in fiber optics; Senior faculty member
+- Innovation Keywords: fiber optics, optical communication, WDM, electronic instrumentation, optical networks, fiber amplifiers
+- Profile: https://www.ee.iitb.ac.in/web/people/joseph-john/
+
+## Prof. Kasturi Saha
+- Department: Electrical
+- Designation: Associate Professor
+- Email: kasturi@ee.iitb.ac.in
+- Research Group: P-Quest Lab (Photonics & Quantum Sensing)
+- Primary Research Area: Quantum Sensing, Nanophotonics & Diamond NV-Center Magnetometry
+- Research Interests & Innovation Focus: Nanophotonics; Quantum sensing & metrology; Optical sensors; MEMS sensors; Biosensors; NV centers in diamond; Magnetic field sensing; Quantum diamond microscope; Precision magnetometry; Nanoscale magnetic imaging
+- Notable Projects: Quantum diamond microscope; NV-center magnetometer; Portable magnetometer systems; Non-destructive semiconductor testing; Quantum Sensing Hub under National Quantum Mission
+- Key Tools & Platforms: Photonic simulation, quantum measurement, laser systems, magnetic field equipment
+- Industry Collaborations: National Quantum Mission; Quantum sensing companies
+- Awards: Project Director Quantum Sensing & Metrology Hub (Qmet); Emerging quantum researcher
+- Innovation Keywords: quantum sensing, NV centers, diamond photonics, nanophotonics, magnetometry, biosensors, MEMS, quantum metrology
+- Profile: https://www.ee.iitb.ac.in/web/people/kasturi-saha/
+
+## Prof. Kishore Chatterjee
+- Department: Electrical
+- Designation: Professor (Former HOD EE)
+- Email: kishore@ee.iitb.ac.in
+- Research Group: Power Electronics & Electric Drives Group
+- Primary Research Area: Power Electronics, Electric Drives & Power Quality
+- Research Interests & Innovation Focus: Utility-friendly converter topologies; Power factor correction; STATCOM design; Switched-mode rectifiers; Electronic ballast; Electric drives control; EV chargers; Solar PV micro-inverters; Grid-connected systems
+- Notable Projects: EV charger development; Solar PV micro-inverters; STATCOM implementations; Power quality improvement systems
+- Key Tools & Platforms: Power electronics design, drive control systems, power quality analysis
+- Industry Collaborations: EV manufacturers; Power utilities; Renewable energy companies
+- Awards: Former HOD EE (2021-24); Chairman GATE 2017; Vice-Chairman IIT JEE (2007); 3,000+ citing researchers
+- Innovation Keywords: power electronics, electric drives, STATCOM, power factor, EV chargers, solar micro-inverters, power quality
+- Profile: https://www.ee.iitb.ac.in/web/people/kishore-chatterjee/
+
+## Prof. Kumar Appaiah
+- Department: Electrical
+- Designation: Associate Professor
+- Email: akumar@ee.iitb.ac.in
+- Research Group: Fiber Optics Lab
+- Primary Research Area: Optical Fiber Communication & Signal Processing for High-Speed Links
+- Research Interests & Innovation Focus: Optical fiber communication; Signal processing for communications; High speed links; DSP for optical systems; Nonlinearity compensation in fiber; Machine learning for optical comms
+- Notable Projects: DSP algorithms for optical fiber channels; Nonlinearity compensation; ML-based optical signal processing
+- Key Tools & Platforms: MATLAB, Python, optical simulation tools, ML frameworks
+- Industry Collaborations: Optical communication companies; Telecom equipment manufacturers
+- Awards: Publications in IEEE/OSA journals; Active researcher in optical communications
+- Innovation Keywords: optical fiber, high-speed links, DSP for optics, nonlinearity compensation, machine learning, signal processing
+- Profile: https://www.ee.iitb.ac.in/web/people/kumar-appaiah/
+
+## Prof. Laxmeesha Somappa
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: laxmeesha@ee.iitb.ac.in
+- Research Group: BioNICS Group (Biomedical & Neural Integrated Circuits)
+- Primary Research Area: Brain-Computer Interfaces, Neuromodulation & Biomedical IC Design
+- Research Interests & Innovation Focus: Analog/digital/mixed-signal IC design; Biomedical circuits & systems; Neuromodulation SoCs; Oversampled data converters; Delta-sigma ADCs; MEMS interface circuits; Brain-computer interfaces; Neural signal processing; Ultra-low power design
+- Notable Projects: 256-Channel 0.227µJ/class brain activity classification SoC; Closed-loop neuromodulation; Seizure classification circuits; Sub-nano Watt delta-sigma ADCs
+- Key Tools & Platforms: Cadence, MATLAB/Simulink, IC design tools, signal processing
+- Industry Collaborations: Biomedical device & neurotechnology companies
+- Awards: PhD IIT Bombay; Postdoc EPFL & Centre for Neuroprosthetics Geneva
+- Innovation Keywords: brain-computer interface, neuromodulation, biomedical ICs, neural signals, low-power design, BCI, mixed-signal, seizure detection
+- Profile: https://www.ee.iitb.ac.in/web/people/laxmeesha-somappa/
+
+## Prof. Madhav P. Desai
+- Department: Electrical
+- Designation: Professor
+- Email: madhav@ee.iitb.ac.in
+- Research Group: VLSI Design & Automation Lab
+- Primary Research Area: VLSI Design, Formal Verification & Electronic Design Automation
+- Research Interests & Innovation Focus: VLSI circuit & system design; Design automation (EDA); Formal verification; Equivalence checking; Model checking; BDD & SAT solvers; Circuit testing; Clock distribution; Timing verification; Hardware emulation; Microprocessor verification
+- Notable Projects: Hardware emulation systems; Clock distribution for high-performance CPUs; Microprocessor design verification; VLSI automation tools
+- Key Tools & Platforms: Formal verification tools, EDA tools, circuit simulators
+- Industry Collaborations: Semiconductor companies; EDA tool vendors
+- Awards: EDA contributions for IC design, verification & testing
+- Innovation Keywords: VLSI design, formal verification, EDA, equivalence checking, circuit testing, clock distribution, microprocessor verification
+- Profile: https://www.ee.iitb.ac.in/web/people/madhav-p-desai/
+
+## Prof. Mahesh B. Patil
+- Department: Electrical
+- Designation: Professor
+- Email: mbpatil@ee.iitb.ac.in
+- Research Group: SEQUEL Lab (Circuit Simulation)
+- Primary Research Area: Circuit Simulation, Power Electronics & Device Modeling
+- Research Interests & Innovation Focus: Semiconductor device modeling; Circuit simulation; Real-time simulation of power electronics; Stochastic optimization; VLSI simulation; Device physics & circuit behavior
+- Notable Projects: SEQUEL — public domain circuit simulation package with GUI; Steady-state waveform computation; Co-authored 'Simulation of Power Electronic Circuits'
+- Key Tools & Platforms: SEQUEL simulator, MATLAB, Simulink, device simulation
+- Industry Collaborations: Electronics & power electronics companies
+- Awards: Excellence in Teaching Award IIT Bombay (2012); 55+ papers; Textbook co-author
+- Innovation Keywords: circuit simulation, SEQUEL, power electronics, semiconductor devices, steady-state analysis, device modeling, VLSI
+- Profile: https://www.ee.iitb.ac.in/web/people/mahesh-b-patil/
+
+## Prof. Manoj Gopalkrishnan
+- Department: Electrical
+- Designation: Associate Professor
+- Email: manoj@ee.iitb.ac.in
+- Research Group: Algorithms in Nature Lab
+- Primary Research Area: Algorithms in Nature, Information Processing & Game Theory
+- Research Interests & Innovation Focus: Algorithms in nature; Information processing in networks; Deep learning theory; Game theory; Chemical reaction networks; DNA computing; Molecular programming; Thermodynamics of computation
+- Notable Projects: Chemical reaction network theory; DNA computing algorithms; Molecular programming; Thermodynamics-computation connections
+- Key Tools & Platforms: Mathematical modeling, simulation tools, Python
+- Industry Collaborations: Biotech (DNA computing); Computational biology
+- Awards: Publications in Nature Computing, PNAS; Interdisciplinary research pioneer
+- Innovation Keywords: algorithms in nature, DNA computing, chemical reaction networks, molecular programming, game theory, deep learning theory
+- Profile: https://www.ee.iitb.ac.in/web/people/manoj-gopalkrishnan/
+
+## Prof. Maryam Shojaei Baghini
+- Department: Electrical
+- Designation: Professor
+- Email: mshojaei@ee.iitb.ac.in
+- Research Group: Biomedical & Sensor Circuits Lab
+- Primary Research Area: Biomedical IC Design, Sensor Interfaces & Energy Harvesting
+- Research Interests & Innovation Focus: Analog/mixed-signal/RF VLSI; Biomedical circuits; Biosensor interfaces; Electrochemical sensor interfaces; Signal acquisition; Device-circuit co-design; Energy harvesting; Low voltage/power designs; Bio-inspired circuits; EMI-immune wearable designs
+- Notable Projects: RF energy harvesting (74.27% efficiency); CMOS instrumentation amplifiers for biomedical; Neuromorphic hardware with Udayan Ganguly; Sensor interface systems
+- Key Tools & Platforms: Cadence, MATLAB, IC design tools, sensor characterization
+- Industry Collaborations: Biomedical device & healthcare companies
+- Awards: Fellow INAE; 300+ publications; 20 granted + 21 filed patents
+- Innovation Keywords: biomedical ICs, mixed-signal, biosensors, energy harvesting, wearable electronics, neuromorphic circuits, sensor interfaces
+- Profile: https://www.ee.iitb.ac.in/web/people/maryam-shojaei-baghini/
+
+## Prof. Mukul C. Chandorkar
+- Department: Electrical
+- Designation: Professor
+- Email: mukul@ee.iitb.ac.in
+- Research Group: Power Electronics & Microgrids Group
+- Primary Research Area: Microgrids, Inverter Control & Distributed Generation
+- Research Interests & Innovation Focus: Microgrids design & control; Inverter control strategies; Stand-alone power systems; Unbalanced load handling; Power sharing in parallel inverters; Islanding detection; Inertia design; AC & DC microgrids
+- Notable Projects: Stand-alone 4-wire, 4-leg inverter microgrid; Inertia design for islanded microgrids; Parallel inverter control; Seamless grid-islanded transition
+- Key Tools & Platforms: Power system simulation, MATLAB/Simulink, real-time simulation
+- Industry Collaborations: Power systems & renewable energy organizations
+- Awards: Foundational work in inverter control for microgrids; Extensive publications
+- Innovation Keywords: microgrids, inverter control, islanding, distributed generation, power sharing, inertia design, grid integration
+- Profile: https://www.ee.iitb.ac.in/web/people/mukul-c-chandorkar/
+
+## Prof. Narendra S. Shiradkar
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: narendra@ee.iitb.ac.in
+- Research Group: PV Reliability Group / NCPRE
+- Primary Research Area: Solar PV Module Reliability, Accelerated Testing & Lifetime Prediction
+- Research Interests & Innovation Focus: PV module & system reliability; Accelerated testing & lifetime models; Physics of failure analysis; PV performance modeling; Power plant inspection; Module-level monitoring; In-line metrology; Cell crack analysis; Bypass diode reliability; India-specific PV standards
+- Notable Projects: Accelerated tests & lifetime models for PV; Low-cost module monitoring instruments; India-specific PV standards (IEC 62979, IEC 63126); Root cause failure analysis
+- Key Tools & Platforms: PV testing equipment, accelerated testing chambers, data analytics
+- Industry Collaborations: Indian solar PV manufacturers; International standards committees
+- Awards: Leadership in IEC 62979 & IEC 63126 standards development
+- Innovation Keywords: PV reliability, accelerated testing, lifetime prediction, module degradation, performance monitoring, India standards, failure analysis
+- Profile: https://www.ee.iitb.ac.in/web/people/narendra-s-shiradkar/
+
+## Prof. Nikhil Karamchandani
+- Department: Electrical
+- Designation: Associate Professor
+- Email: nikhilk@ee.iitb.ac.in
+- Research Group: Networks & Learning Lab
+- Primary Research Area: Information Theory, Networks & Distributed Systems
+- Research Interests & Innovation Focus: Information theory; Networks; Communications; Distributed systems; Online learning; Multi-armed bandits; Content delivery; Crowdsourcing; Recommendation systems
+- Notable Projects: Content delivery network optimization; Crowdsourcing algorithm design; Multi-armed bandit problems; Recommendation systems
+- Key Tools & Platforms: Python, optimization tools, ML frameworks
+- Industry Collaborations: Content delivery; E-commerce; Tech companies
+- Awards: IEEE Fellow (2023); Publications in IEEE Trans IT, NeurIPS, ICML
+- Innovation Keywords: information theory, networks, online learning, multi-armed bandits, content delivery, crowdsourcing, recommendation systems
+- Profile: https://www.ee.iitb.ac.in/web/people/nikhil-karamchandani/
+
+## Prof. Parthib Khound
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: parthib@ee.iitb.ac.in
+- Research Group: Automotive Control & Intelligent Transportation Group
+- Primary Research Area: Automotive Control, Vehicle Dynamics & Intelligent Transportation
+- Research Interests & Innovation Focus: Automotive control; Vehicle dynamics & control; ADAS; Intelligent transportation systems; Adaptive cruise control; String stability; Platooning; Autonomous vehicles
+- Notable Projects: Adaptive cruise control research; String stability for autonomous vehicles; Platoon control systems
+- Key Tools & Platforms: Control theory tools, ADAS development, vehicle dynamics simulation
+- Industry Collaborations: Automotive industry; Autonomous vehicle companies
+- Awards: PhD University of Siegen (2023); MSc Mechatronics
+- Innovation Keywords: automotive control, ADAS, autonomous vehicles, platooning, string stability, intelligent transportation, vehicle dynamics
+- Profile: https://www.ee.iitb.ac.in/web/people/parthib-khound/
+
+## Prof. Pradeep R. Nair
+- Department: Electrical
+- Designation: Professor
+- Email: pradeep@ee.iitb.ac.in
+- Research Group: Nanoscale Devices & Biosensors Lab
+- Primary Research Area: Nanoscale FET-Based Biosensors & Computational Nanoelectronics
+- Research Interests & Innovation Focus: Nanoscale FET biosensors for pH sensing; Double-gated nanoscale pH sensors; High-k dielectric nanowire/nanoplate sensors; Flexure-FET ultrasensitive biosensor; FET sensitivity limits; Perovskite solar cells; Nanoscale device scaling
+- Notable Projects: Screening-Limited NanoBiosensors (Nano Letters 2008); Giant Nernst response >10V/pH (ACS Nano 2012); Flexure-FET nonlinear electromechanical coupling (PNAS 2012)
+- Key Tools & Platforms: Device simulation, nanofabrication, biosensor characterization
+- Industry Collaborations: Healthcare & diagnostic industry
+- Awards: Publications in Nano Letters, ACS Nano, PNAS; High-impact biosensor research
+- Innovation Keywords: nanoscale biosensors, FET sensors, pH sensing, flexure-FET, ultrasensitive detection, nanoelectronics, perovskite solar
+- Profile: https://www.ee.iitb.ac.in/web/people/pradeep-r-nair/
+
+## Prof. Prasanna Chaporkar
+- Department: Electrical
+- Designation: Professor
+- Email: chaporkar@ee.iitb.ac.in
+- Research Group: InfoNet Lab (Information Networks Laboratory)
+- Primary Research Area: Network Optimization, Resource Allocation & Scheduling in Wireless Systems
+- Research Interests & Innovation Focus: Resource allocation & scheduling in wired/wireless networks; Optimization & control of stochastic systems; Distributed algorithms; Information theory for networks; Throughput & fairness in network systems
+- Notable Projects: Best Paper ACM MobiHoc 2009; Throughput & fairness guarantees through maximal scheduling (IEEE Trans IT 2008)
+- Key Tools & Platforms: Network optimization algorithms, scheduling protocols, stochastic analysis
+- Industry Collaborations: Telecommunications sector
+- Awards: Best Paper Award ACM MobiHoc 2009; 1,700+ citations
+- Innovation Keywords: network scheduling, wireless optimization, resource allocation, stochastic systems, distributed algorithms, throughput, fairness
+- Profile: https://www.ee.iitb.ac.in/web/people/prasanna-chaporkar/
+
+## Prof. Preeti Rao
+- Department: Electrical
+- Designation: Professor
+- Email: prao@ee.iitb.ac.in
+- Research Group: Digital Audio Processing Lab (DAP Lab)
+- Primary Research Area: Speech & Audio Processing, Music Information Retrieval
+- Research Interests & Innovation Focus: Speech & audio signal processing; Digital signal processing; Music information retrieval; Indian music analysis; Melody extraction; Rhythm analysis; Speaker recognition; Audio content analysis
+- Notable Projects: Indian music melody & rhythm analysis; Music information retrieval for Indian classical music; Speech processing systems
+- Key Tools & Platforms: MATLAB, Python, Librosa, deep learning for audio, Praat
+- Industry Collaborations: Music technology; Audio processing companies
+- Awards: Leading researcher in Indian music computation; NPTEL instructor; DAP Lab founder
+- Innovation Keywords: audio processing, music information retrieval, Indian music, speech processing, melody extraction, rhythm analysis, speaker recognition
+- Profile: https://www.ee.iitb.ac.in/web/people/preeti-rao/
+
+## Prof. Prem C. Pandey
+- Department: Electrical
+- Designation: Professor
+- Email: pcpandey@ee.iitb.ac.in
+- Research Group: Biomedical Signal Processing Lab
+- Primary Research Area: Speech Processing, Biomedical Signal Processing & Instrumentation
+- Research Interests & Innovation Focus: Speech & signal processing; Biomedical signal processing; Electronic instrumentation; Embedded systems; Hearing aid signal processing; Cochlear implant signal processing; Formant estimation
+- Notable Projects: Speech processing for hearing aids & cochlear implants; Biomedical instrumentation; Embedded system design
+- Key Tools & Platforms: MATLAB, DSP processors, embedded systems, biomedical instrumentation
+- Industry Collaborations: Hearing aid manufacturers; Biomedical device companies
+- Awards: Extensive research in assistive hearing technology; Senior faculty member
+- Innovation Keywords: speech processing, biomedical signals, hearing aids, cochlear implants, instrumentation, embedded systems, assistive technology
+- Profile: https://www.ee.iitb.ac.in/web/people/prem-c-pandey/
+
+## Prof. R. K. Shevgaonkar
+- Department: Electrical
+- Designation: Professor (Former Director IIT Delhi)
+- Email: rks@ee.iitb.ac.in
+- Research Group: Photonics & RF Lab
+- Primary Research Area: Fibre Optic Communication, Photonics & Electromagnetic Waves
+- Research Interests & Innovation Focus: Fibre optic communication; Photonics; Antennas; Image processing; Wireless communication; Electromagnetic wave propagation
+- Notable Projects: Former Director IIT Delhi (2014-19); NPTEL electromagnetic waves course; Textbook 'Electromagnetic Waves'; Fiber optic systems
+- Key Tools & Platforms: Optical fiber test equipment, electromagnetic simulation, antenna measurement
+- Industry Collaborations: Telecom; Fiber optic manufacturers
+- Awards: Former Director IIT Delhi; Fellow IEEE, INAE; Textbook author 'Electromagnetic Waves'
+- Innovation Keywords: fiber optics, photonics, electromagnetic waves, antennas, wireless communication, image processing
+- Profile: https://www.ee.iitb.ac.in/web/people/r-k-shevgaonkar/
+
+## Prof. Rahul Singh
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: rahulsingh@ee.iitb.ac.in
+- Research Group: High-Frequency Circuits Lab (HFC Lab)
+- Primary Research Area: RF/mm-Wave IC Design for 5G/6G Communications
+- Research Interests & Innovation Focus: Analog/RF/mm-wave integrated circuits; IC design for 5G/6G; Multi-mode transceivers (sub-6GHz & mm-wave); Multi-element beamforming transceivers; Digital/mixed-signal calibration for RF; Resilience to analog imperfections
+- Notable Projects: Hybrid-beamforming MIMO receiver with inter-band carrier aggregation (ISSCC 2018); mm-Wave receiver with coupled resonator loads (IEEE TMTT 2020)
+- Key Tools & Platforms: RF simulation, circuit design CAD, TCAD software
+- Industry Collaborations: Qualcomm Inc. (2018-24, RF transceiver development); Samsung Electronics (2011-13)
+- Awards: Senior Member IEEE; ISSCC & TMTT publications
+- Innovation Keywords: mm-wave IC, RF transceivers, beamforming, 5G/6G, MIMO, analog imperfection, multi-mode transceivers
+- Profile: https://www.ee.iitb.ac.in/web/people/rahul-singh/
+
+## Prof. Rajbabu Velmurugan
+- Department: Electrical
+- Designation: Associate Professor
+- Email: rajbabu@ee.iitb.ac.in
+- Research Group: Statistical Signal Processing Lab
+- Primary Research Area: Statistical Signal Processing, Particle Filters & Target Tracking
+- Research Interests & Innovation Focus: Statistical & digital signal processing; Particle filter applications; Target tracking; Bayesian estimation; Monte Carlo methods; Object tracking in video
+- Notable Projects: Particle filter algorithms for tracking; Bayesian signal processing; Video object tracking systems
+- Key Tools & Platforms: MATLAB, Python, particle filter libraries, video processing
+- Industry Collaborations: Defense (tracking systems); Surveillance companies
+- Awards: Publications in IEEE Trans SP; Research in Bayesian methods
+- Innovation Keywords: statistical signal processing, particle filters, target tracking, Bayesian estimation, Monte Carlo, video tracking
+- Profile: https://www.ee.iitb.ac.in/web/people/rajbabu-velmurugan/
+
+## Prof. Rajesh H. Zele
+- Department: Electrical
+- Designation: Professor
+- Email: zele@ee.iitb.ac.in
+- Research Group: RF/Mixed-Signal IC Design Lab
+- Primary Research Area: Analog/RF IC Design, High-Speed Data Converters & mm-Wave Circuits
+- Research Interests & Innovation Focus: RF/analog/mixed-signal IC design; High-speed DACs & ADCs; Ultra-wideband systems; mm-wave circuits; Wireless transceivers; Navigation receiver design; Low-noise amplifiers; Mixers; Variable gain amplifiers
+- Notable Projects: Super high-speed DAC for communications; UWB transmitter IC; Complete receiver RF front-end; Navigation receiver IC with integrated ADCs
+- Key Tools & Platforms: Cadence, MATLAB/Simulink, RF design tools, measurement equipment
+- Industry Collaborations: Motorola (former IC Design Manager for Talk-About radio)
+- Awards: 8 US patents; 25+ articles & book chapters; Motorola Talk-About platform lead
+- Innovation Keywords: RF IC, data converters, mixed-signal, UWB, wireless transceivers, mm-wave, navigation receiver
+- Profile: https://www.ee.iitb.ac.in/web/people/rajesh-h-zele/
+
+## Prof. S. D. Agashe
+- Department: Electrical
+- Designation: Professor
+- Email: agashe@ee.iitb.ac.in
+- Research Group: Control Engineering Group
+- Primary Research Area: Feedback Control Systems, Stability Analysis & Classical Control
+- Research Interests & Innovation Focus: Control systems fundamentals; Feedback control design; Stability analysis; PID control modes; Frequency-response analysis; Bode & Nyquist methods; State variable formulation; Controllability & observability; Optimal & nonlinear control
+- Notable Projects: Comprehensive control engineering curriculum; 40+ topic video lecture series; Classical & modern control theory teaching
+- Key Tools & Platforms: Control system analysis, frequency response, root-locus tools
+- Industry Collaborations: Industrial control systems
+- Awards: Extensive teaching credentials; Comprehensive video lecture series
+- Innovation Keywords: feedback control, stability analysis, Bode plots, Nyquist criterion, PID control, state-space, optimal control
+- Profile: https://www.ee.iitb.ac.in/web/people/s-d-agashe/
+
+## Prof. Sachin Patkar
+- Department: Electrical
+- Designation: Professor
+- Email: patkar@ee.iitb.ac.in
+- Research Group: HPC Lab (High-Performance Computing)
+- Primary Research Area: Combinatorial Optimization, FPGA Design & VLSI CAD
+- Research Interests & Innovation Focus: Combinatorial optimization; Matroid theory; Submodular functions; Linear/integer programming; Network flows; FPGA-based acceleration; GPU acceleration; High-performance circuit simulation; VLSI CAD; Hardware-software co-design
+- Notable Projects: FPGA-based HIL simulation of power electronics; Scalable VLSI decoder for LDPC codes (620 Mbps on Xilinx); Cryptographic hardware-software co-implementation for IoT
+- Key Tools & Platforms: FPGA tools (Xilinx), VLSI CAD, GPU frameworks, circuit simulators
+- Industry Collaborations: IoT device developers; Power electronics; EDA companies
+- Awards: Handbook of Graph Theory contributor (Matroids chapter); HPC research pioneer
+- Innovation Keywords: FPGA, combinatorial optimization, VLSI CAD, high performance computing, GPU acceleration, LDPC, circuit simulation
+- Profile: https://www.ee.iitb.ac.in/~hpc/
+
+## Prof. Sandeep Anand
+- Department: Electrical
+- Designation: Professor
+- Email: sandeep.anand@ee.iitb.ac.in
+- Research Group: Power Electronics & Renewable Energy Lab
+- Primary Research Area: Wide Bandgap Devices, DC Microgrids & EV Power Electronics
+- Research Interests & Innovation Focus: Power electronics; Electric vehicles; Wide bandgap (GaN & SiC) power converters; Solar PV, battery & fuel cell interfaces; Reliability of power electronics; DC microgrids; Renewable integration
+- Notable Projects: GaN & SiC power converter development; EV charging systems; Renewable energy circuits; Distributed generation
+- Key Tools & Platforms: Power electronics simulation, MATLAB/Simulink, GaN/SiC device models
+- Industry Collaborations: Power electronics & renewable energy companies
+- Awards: C1973 Research Excellence Award IIT Bombay (2024); INSA Associate Fellow (2023); Best Paper ICPS-2021
+- Innovation Keywords: GaN devices, SiC devices, wide bandgap, DC microgrids, EV charging, power converters, renewable integration
+- Profile: https://www.ee.iitb.ac.in/web/people/sandeep-anand/
+
+## Prof. Sandip Mondal
+- Department: Electrical
+- Designation: Assistant Professor
+- Email: sandip@ee.iitb.ac.in
+- Research Group: Quantum Technologies Lab / CoE-QuICST
+- Primary Research Area: Quantum Dots, Flash Memory & Low-Temperature Electronics
+- Research Interests & Innovation Focus: Quantum dots & nanoparticles based devices; Flash memory technology; Integrated circuits with emerging CMOS; Low-temperature electronics; AI in quantum materials; Neuromorphic response with Mott insulators; Voltage measurement systems
+- Notable Projects: QD-based device research; Flash memory development; CoE-QuICST (IIT Bombay hub under National Quantum Mission); Low-temperature transport measurements
+- Key Tools & Platforms: Low-temperature measurement, quantum device characterization, computational tools
+- Industry Collaborations: Quantum technology & semiconductor industry
+- Awards: Part of National Mission on Quantum Technologies; CoE-QuICST IITB
+- Innovation Keywords: quantum dots, quantum devices, low-temperature electronics, flash memory, Mott insulators, quantum technologies
+- Profile: https://www.ee.iitb.ac.in/web/people/sandip-mondal/
+
+## Prof. Saravanan Vijayakumaran
+- Department: Electrical
+- Designation: Associate Professor
+- Email: sarva@ee.iitb.ac.in
+- Research Group: Communication Systems Lab
+- Primary Research Area: Digital Communications, Computer Networks & Parallel Simulation
+- Research Interests & Innovation Focus: Digital communications; Computer networks; Parallel simulation algorithms; Error correction coding; Network protocols; Bitcoin & blockchain
+- Notable Projects: Bitcoin & blockchain research; Parallel network simulation; Error correction coding; NPTEL digital communications course
+- Key Tools & Platforms: MATLAB, NS-3, parallel computing tools, blockchain frameworks
+- Industry Collaborations: Telecom; Blockchain technology
+- Awards: NPTEL digital communications instructor; Blockchain research contributions
+- Innovation Keywords: digital communications, computer networks, parallel simulation, error correction, blockchain, Bitcoin, network protocols
+- Profile: https://www.ee.iitb.ac.in/web/people/saravanan-vijayakumaran/
+
+## Prof. Saurabh Lodha
+- Department: Electrical
+- Designation: P. K. Kelkar Chair Professor
+- Email: saurabh@ee.iitb.ac.in
+- Research Group: SLODHA Group (Semiconductor Lab)
+- Primary Research Area: 2D Materials, Gallium Oxide Power Electronics & Neuromorphic Computing
+- Research Interests & Innovation Focus: Advanced CMOS process integration; 2D materials (MoS2, TMDs); Reconfigurable low-power 2D electronics; Spiking neurons using 2D materials; Gallium oxide (Ga2O3) power electronics; SiC power MOSFETs with stress engineering; Wide bandgap devices; CMOS-based neuromorphic computing
+- Notable Projects: Biomimetic spiking neurons using 2D materials (~500 pJ/spike); Strain-modulated MoS2 FETs; Stress engineering for SiC MOSFETs; High-k dielectric Ga2O3 MIS diodes
+- Key Tools & Platforms: Advanced CMOS fabrication, 2D material characterization, wide bandgap testing
+- Industry Collaborations: IITB-OSU Frontier Research Center (PI); Intel Corporation (former, 45/32/22nm)
+- Awards: P. K. Kelkar Chair (highest honor); Former Intel senior researcher (45/32/22nm tech)
+- Innovation Keywords: 2D materials, MoS2, gallium oxide, SiC MOSFETs, neuromorphic computing, wide bandgap, strain engineering
+- Profile: https://www.ee.iitb.ac.in/web/people/saurabh-lodha/
+
+## Prof. Shabbir N. Merchant
+- Department: Electrical
+- Designation: Professor
+- Email: merchant@ee.iitb.ac.in
+- Research Group: Signal Processing & Sensor Networks Lab
+- Primary Research Area: Signal Processing, Wireless Communications & Sensor Networks
+- Research Interests & Innovation Focus: Adaptive signal processing; Wireless communications; Sensor networks; Underwater acoustic communications; Image processing; Compressed sensing
+- Notable Projects: Underwater acoustic communication systems; Sensor network deployments; Compressed sensing research
+- Key Tools & Platforms: MATLAB, signal processing tools, sensor network platforms
+- Industry Collaborations: Defense (underwater comms); Telecom; IoT sensor companies
+- Awards: Dean R&D IIT Bombay (former); Fellow IETE; Extensive publications
+- Innovation Keywords: signal processing, wireless communications, sensor networks, underwater acoustics, compressed sensing, adaptive filtering
+- Profile: https://www.ee.iitb.ac.in/web/people/shabbir-merchant/
+
+## Prof. Shalabh Gupta
+- Department: Electrical
+- Designation: Professor
+- Email: shalabh@ee.iitb.ac.in
+- Research Group: Photonic Systems & Networks Lab
+- Primary Research Area: Photonic Systems, Optical Communications & Biophotonics
+- Research Interests & Innovation Focus: High-speed analog/RF IC design; Optical fiber communications; Smart antenna systems; Biophotonics; Silicon photonics; Optical interconnects; Photonic integrated circuits
+- Notable Projects: Silicon photonics research; High-speed optical transceivers; Biophotonics diagnostics; SERB & DST funded projects
+- Key Tools & Platforms: Photonic simulation tools, optical test equipment, MATLAB
+- Industry Collaborations: Optical communication companies; Biophotonics startups
+- Awards: Publications in Optics Express, IEEE Photonics; DST/SERB funded researcher
+- Innovation Keywords: silicon photonics, optical communications, biophotonics, RF design, smart antennas, photonic circuits, fiber optics
+- Profile: https://www.ee.iitb.ac.in/web/people/shalabh-gupta/
+
+## Prof. Sharayu Moharir
+- Department: Electrical
+- Designation: Associate Professor
+- Email: sharayu@ee.iitb.ac.in
+- Research Group: Networks & Learning Lab
+- Primary Research Area: Content Delivery Networks, Communication Networks & Online Learning
+- Research Interests & Innovation Focus: Content delivery networks; Communication networks; Distributed systems; Online learning algorithms; Caching strategies; Multi-armed bandits; Recommendation systems
+- Notable Projects: Caching algorithm optimization; Content recommendation; Online learning for networks; Multi-armed bandit applications
+- Key Tools & Platforms: Python, optimization tools, network simulation
+- Industry Collaborations: CDN providers; Content platforms
+- Awards: Publications in IEEE INFOCOM, WiOpt; Young researcher awards
+- Innovation Keywords: content delivery, caching, online learning, multi-armed bandits, recommendation systems, communication networks
+- Profile: https://www.ee.iitb.ac.in/web/people/sharayu-moharir/
+
+## Prof. Shreevardhan A. Soman
+- Department: Electrical
+- Designation: Professor
+- Email: soman@ee.iitb.ac.in
+- Research Group: Power Systems Analysis & Protection Group
+- Primary Research Area: Power System Analysis, State Estimation & Protection
+- Research Interests & Innovation Focus: Power system analysis & computation; Power system protection; Current & voltage transformer applications; Numerical relaying; Relay coordination; State estimation algorithms; Sparse matrix methods; Large-scale power system computation
+- Notable Projects: Numerically stable state estimation; Givens rotations-based state estimators; Textbook 'Computational Methods for Large Sparse Power Systems Analysis'
+- Key Tools & Platforms: State estimation algorithms, sparse computation, relay coordination tools
+- Industry Collaborations: Power utilities; Transmission & distribution operators
+- Awards: Textbook author on power system computation; IEEE Transactions publications
+- Innovation Keywords: power system analysis, state estimation, protection, relay coordination, sparse computation, numerical stability
+- Profile: https://www.ee.iitb.ac.in/web/people/shreevardhan-a-soman/
+
+## Prof. Shrikrishna A. Khaparde
+- Department: Electrical
+- Designation: Professor
+- Email: khaparde@ee.iitb.ac.in
+- Research Group: Power Systems & Smart Grid Group
+- Primary Research Area: Smart Grid, Electricity Markets & Renewable Integration
+- Research Interests & Innovation Focus: Power system operations & planning; Smart grid & demand response; Renewable energy integration; Transmission loss allocation; Power tracing; Battery storage sizing; Variable renewable dispatch; Wide-area monitoring; Electricity markets & economics
+- Notable Projects: Smart grid demand response; Battery storage integration; Transmission expansion planning; Wide-area monitoring
+- Key Tools & Platforms: Power system simulation, smart grid analysis, optimization algorithms
+- Industry Collaborations: India Smart Grid Forum (Board); Power utilities; Transmission operators
+- Awards: India Smart Grid Forum Board; IEEE Trans Smart Grid publications
+- Innovation Keywords: smart grid, demand response, renewable integration, battery storage, electricity markets, transmission planning, wide-area monitoring
+- Profile: https://www.ee.iitb.ac.in/web/people/shrikrishna-a-khaparde/
+
+## Prof. Shrikrishna V. Kulkarni
+- Department: Electrical
+- Designation: Institute Chair Professor
+- Email: svk@ee.iitb.ac.in
+- Research Group: Power Transformers & High Voltage Engineering Group
+- Primary Research Area: Transformer Design, Diagnostics & Electromagnetic Computation
+- Research Interests & Innovation Focus: Transformer design, analysis & diagnostics; Electromagnetic & coupled field computations; Distributed generation; High voltage engineering; Insulation design; Hysteresis modeling; Transformer health assessment
+- Notable Projects: Transformer modeling & analysis; Health assessment tracking systems; Crompton Greaves (up to 400kV class); Textbook 'Transformer Engineering' (2nd ed)
+- Key Tools & Platforms: Electromagnetic field analysis, coupled field software, transformer design tools
+- Industry Collaborations: Crompton Greaves; Power transformer manufacturers
+- Awards: Young Engineer Award INAE; Fellow IEEE & INAE; Textbook author
+- Innovation Keywords: transformer design, electromagnetic computation, high voltage, insulation, diagnostics, hysteresis, distributed generation
+- Profile: https://www.ee.iitb.ac.in/web/people/shrikrishna-v-kulkarni/
+
+## Prof. Sibi Raj B. Pillai
+- Department: Electrical
+- Designation: Associate Professor
+- Email: bsraj@ee.iitb.ac.in
+- Research Group: Information Theory & Communications Lab
+- Primary Research Area: Information Theory, Compressed Sensing & Communication Limits
+- Research Interests & Innovation Focus: Fundamental limits of communication; Information theory; Compressed sensing; Resource allocation; Capacity of wireless channels; Network information theory
+- Notable Projects: Fundamental limits of communication systems; Compressed sensing algorithms; Resource allocation in wireless
+- Key Tools & Platforms: MATLAB, information theory tools, optimization solvers
+- Industry Collaborations: Telecom operators; Communication systems
+- Awards: Publications in IEEE Trans IT; Recognized information theorist
+- Innovation Keywords: information theory, compressed sensing, communication limits, resource allocation, wireless capacity, coding theory
+- Profile: https://www.ee.iitb.ac.in/web/people/sibi-raj-b-pillai/
+
+## Prof. Siddharth Tallur
+- Department: Electrical
+- Designation: Associate Professor
+- Email: stallur@ee.iitb.ac.in
+- Research Group: AIMS Lab (Applied Integrated Micro-Systems)
+- Primary Research Area: MEMS/NEMS, Optomechanics & Sensor Systems
+- Research Interests & Innovation Focus: MEMS & NEMS design; Optomechanical oscillators; Low phase noise RF oscillators; Resonator design; Photonics integration with MEMS; Structural health monitoring; Biosensors; Embedded sensor systems; Silicon nitride resonators
+- Notable Projects: Optomechanical oscillators with low phase noise; Radiation-pressure opto-mechanical oscillators; Silicon nitride ring resonators; Co-founded Nirixense Technologies
+- Key Tools & Platforms: MEMS simulation, optical design, fabrication tools, characterization equipment
+- Industry Collaborations: Nirixense Technologies (Co-Founder & Director); Sensor companies
+- Awards: Nirixense Technologies co-founder; Innovative optomechanical systems research
+- Innovation Keywords: MEMS, optomechanics, RF oscillators, photonic sensors, structural health monitoring, NEMS, microfabrication
+- Profile: https://www.ee.iitb.ac.in/web/people/siddharth-tallur/
+
+## Prof. Siddhartha P. Duttagupta
+- Department: Electrical
+- Designation: Professor
+- Email: sdg@ee.iitb.ac.in
+- Research Group: Nanoelectronics & Sensor Systems Lab
+- Primary Research Area: Nanoelectronics, Sensor Systems & Mixed-Signal IC Design
+- Research Interests & Innovation Focus: Signal processing; Communication systems; Mixed-signal IC design; Nanoelectronics; MEMS-based sensors; Gas sensors; Environmental monitoring; Smart city technologies
+- Notable Projects: Gas sensor development; Environmental monitoring systems; Smart city IoT deployments; MEMS sensor integration
+- Key Tools & Platforms: IC design tools, sensor characterization, IoT platforms
+- Industry Collaborations: Smart city initiatives; Environmental monitoring; Sensor manufacturers
+- Awards: Dean International Relations IIT Bombay; MEMS & sensor research contributions
+- Innovation Keywords: nanoelectronics, sensors, mixed-signal IC, gas sensors, environmental monitoring, smart city, IoT, MEMS
+- Profile: https://www.ee.iitb.ac.in/web/people/siddhartha-p-duttagupta/
+
+## Prof. Souvik Mahapatra
+- Department: Electrical
+- Designation: Professor
+- Email: souvik@ee.iitb.ac.in
+- Research Group: Device Reliability & Modeling Group
+- Primary Research Area: MOSFET Reliability, Transistor Aging & TCAD Modeling
+- Research Interests & Innovation Focus: Bias Temperature Instability (BTI/NBTI); Hot Carrier Injection (HCI); Channel Hot Carrier degradation; MOS gate insulator scaling; Flash memory reliability; Interface trap generation & recovery; Device characterization & simulation
+- Notable Projects: Mahapatra Reliability Model embedded in Synopsys Sentaurus Device TCAD; MOSFET reliability for nodes down to 7nm; Flash memory reliability research
+- Key Tools & Platforms: Synopsys Sentaurus Device TCAD, reliability characterization
+- Industry Collaborations: Synopsys Inc.; Intel; IBM; Applied Materials; Micron Technology
+- Awards: Fellow IEEE (CMOS gate stack reliability); Synopsys Award IEDM 2024 for Mahapatra Model
+- Innovation Keywords: MOSFET reliability, NBTI, HCI, TCAD, transistor aging, gate oxide scaling, Flash memory reliability
+- Profile: https://www.ee.iitb.ac.in/web/people/souvik-mahapatra/
+
+## Prof. Subhananda Chakrabarti
+- Department: Electrical
+- Designation: Professor
+- Email: subhananda@ee.iitb.ac.in
+- Research Group: Infrared Photonic Devices Group (IRPDev)
+- Primary Research Area: III-V Semiconductors, Quantum Dot Photodetectors & Thermal Imaging
+- Research Interests & Innovation Focus: III-V compound semiconductor growth (GaAs, GaSb); Quantum Dot IR Photodetectors (QDIPs); Dot-in-a-Well (DWELL) structures; Infrared detection >8µm; QD solar cells; III-V on germanium; Strain-coupling in QD structures
+- Notable Projects: India's first high-temperature GaAs-based thermal imaging (>8µm); First InGaAs-capped & DWELL QDIPs in India; 320×256 QDIP Focal Plane Arrays; Quaternary-capped QDIPs surpassing world records
+- Key Tools & Platforms: Molecular Beam Epitaxy (MBE), optical & electrical characterization
+- Industry Collaborations: Indian defense & thermal imaging industry
+- Awards: NASI-Reliance Platinum Jubilee Award (2016); MRSI Medal (2016); 4,500+ citations; h-index 29
+- Innovation Keywords: quantum dots, infrared photodetectors, thermal imaging, QDIP focal plane arrays, MBE, III-V semiconductors, DWELL
+- Profile: https://www.ee.iitb.ac.in/web/people/subhananda-chakrabarti/
+
+## Prof. Subhasis Chaudhuri
+- Department: Electrical
+- Designation: Professor (Director IIT Bombay)
+- Email: sc@ee.iitb.ac.in
+- Research Group: Vision & Image Processing Lab (VIP Lab)
+- Primary Research Area: Computer Vision, Image Processing & Biomedical Signal Processing
+- Research Interests & Innovation Focus: Image restoration & super-resolution; 3D depth recovery; Face recognition & biometrics; Medical image analysis; Pattern recognition; Multimedia systems; Biomedical signal processing
+- Notable Projects: Director IIT Bombay; Image super-resolution algorithms; Depth from defocus; 3D face modeling; Multiple IEEE/ACM publications
+- Key Tools & Platforms: MATLAB, OpenCV, deep learning frameworks, image processing toolboxes
+- Industry Collaborations: Biomedical imaging; Multimedia companies
+- Awards: Director IIT Bombay; Fellow IEEE, INAE, INSA, NASI; Shanti Swarup Bhatnagar Prize (2004)
+- Innovation Keywords: computer vision, image processing, super-resolution, face recognition, biomedical imaging, pattern recognition, depth estimation
+- Profile: https://www.ee.iitb.ac.in/web/people/subhasis-chaudhuri/
+
+## Prof. Swaroop Ganguly
+- Department: Electrical
+- Designation: Associate Professor
+- Email: swaroop@ee.iitb.ac.in
+- Research Group: SLODHA Group (Semiconductor Devices Lab)
+- Primary Research Area: FinFETs, GaN Power HEMTs & Beyond-CMOS Devices
+- Research Interests & Innovation Focus: FinFET technology; Beyond-CMOS devices; Nanowire FETs; Germanium FinFETs; GaN HEMTs; AlGaN/GaN heterojunctions; Wide-bandgap devices; Power electronics interfaces; Quantum confinement; Low-power IC design; Multi-physics simulation
+- Notable Projects: AlGaN/GaN power transistor platform for smart-grid; GaN HEMT power interfaces; High breakdown AlGaN-GaN Power-HEMT; PA-MBE growth & characterization
+- Key Tools & Platforms: TCAD simulation, MATLAB, fabrication tools, PA-MBE
+- Industry Collaborations: Power electronics; Smart-grid technology; Nanoelectronics
+- Awards: Chief Investigator TRANG (2024-28); Prof-in-Charge IIT Bombay Research Park; 2,600+ citations
+- Innovation Keywords: FinFETs, GaN devices, power HEMTs, wide-bandgap, quantum confinement, nanoelectronics, smart-grid, PA-MBE
+- Profile: https://www.ee.iitb.ac.in/web/people/swaroop-ganguly/
+
+## Prof. U. B. Desai
+- Department: Electrical
+- Designation: Professor (Founder Director IIT Hyderabad)
+- Email: ubdesai@ee.iitb.ac.in
+- Research Group: Signal Processing & Communications Lab
+- Primary Research Area: Signal Processing, Wireless Communication & Sensor Networks
+- Research Interests & Innovation Focus: Adaptive signal processing; Image & video processing; Wavelets; Wireless communication systems; Sensor networks; Statistical signal processing
+- Notable Projects: Founder Director IIT Hyderabad (2008-2019); Wireless sensor network deployments; Signal processing for communications
+- Key Tools & Platforms: MATLAB, signal processing toolboxes, wireless simulation tools
+- Industry Collaborations: Telecom sector; IoT & sensor companies
+- Awards: Founder Director IIT Hyderabad; Padma Shri (2020); Fellow IEEE, INAE
+- Innovation Keywords: signal processing, wireless communication, sensor networks, wavelets, adaptive filtering, image processing
+- Profile: https://www.ee.iitb.ac.in/web/people/u-b-desai/
+
+## Prof. Udayan Ganguly
+- Department: Electrical
+- Designation: Professor
+- Email: udayan@ee.iitb.ac.in
+- Research Group: MeLoDe Labs (Memory Logic Devices & Systems)
+- Primary Research Area: Neuromorphic Computing, Memory Devices & Semiconductor Device Physics
+- Research Interests & Innovation Focus: Non-volatile memory (RRAM, Charge Trap Flash, FeRAM); Neuromorphic algorithms & circuits; Memristive devices; Synaptic devices; SOI-MOSFETs; Analog memristive systems; Spiking neural networks; Neuro-synaptic cores; Memory-logic integration
+- Notable Projects: Global first spiking neuro-synaptic core on 45nm SOI; PCMO-based RRAM; Ferroelectric memory; Neuromorphic chip design; Analog memristive synapses
+- Key Tools & Platforms: Device simulation, circuit design, MATLAB, memory characterization, TCAD
+- Industry Collaborations: Semiconductor companies; Neuromorphic computing
+- Awards: Abdul Kalam Technology Innovation National Fellowship; 50+ journal articles; 25+ patents
+- Innovation Keywords: neuromorphic computing, RRAM, non-volatile memory, synaptic circuits, spiking neurons, memory-logic, memristive devices
+- Profile: https://www.ee.iitb.ac.in/web/people/udayan-ganguly/
+
+## Prof. Veeresh Deshpande
+- Department: Electrical
+- Designation: Associate Professor
+- Email: veeresh@ee.iitb.ac.in
+- Research Group: DESH Group (Device & System Integration with 3D-IC)
+- Primary Research Area: 3D Monolithic ICs, In-Memory Computing & Neuromorphic Devices
+- Research Interests & Innovation Focus: 3D integration & monolithic 3D-IC for BEOL in-memory computing; Neuromorphic computing & artificial synapses; Ferroelectric & resistive memory (FeRAM, ReRAM); ITO transistors on Si CMOS BEOL; Hetero-integration of novel materials with CMOS
+- Notable Projects: ITO transistors with ~1e-17 A/um off-current; 3D monolithic IC for BEOL in-memory computing; Memristive synaptic devices for ANNs
+- Key Tools & Platforms: Device simulation, circuit design, fabrication integration
+- Industry Collaborations: Global semiconductor industry
+- Awards: Abdul Kalam Technology Innovation National Fellowship
+- Innovation Keywords: 3D monolithic ICs, in-memory computing, neuromorphic devices, ITO transistors, ferroelectric memory, hetero-integration
+- Profile: https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/
+
+## Prof. Vikram M. Gadre
+- Department: Electrical
+- Designation: Professor
+- Email: vmgadre@ee.iitb.ac.in
+- Research Group: Wavelet & Signal Processing Lab
+- Primary Research Area: Communications & Signal Processing with Wavelet-Based Methods
+- Research Interests & Innovation Focus: Multiresolution analysis; Wavelet-based signal processing; Filter bank design; Time-frequency analysis; Communication systems; NPTEL courses on wavelets
+- Notable Projects: NPTEL courses on wavelets & multirate systems; Wavelet filter bank design; Time-frequency analysis research
+- Key Tools & Platforms: MATLAB, wavelet toolboxes, signal processing tools
+- Industry Collaborations: Telecom & signal processing industry
+- Awards: NPTEL Star Educator; Fellow IETE; Multiple teaching excellence awards
+- Innovation Keywords: wavelets, multiresolution analysis, signal processing, filter banks, time-frequency, communications
+- Profile: https://www.ee.iitb.ac.in/web/people/vikram-m-gadre/
+
+## Prof. Virendra R. Sule
+- Department: Electrical
+- Designation: Professor
+- Email: vrs@ee.iitb.ac.in
+- Research Group: Algebraic Cryptanalysis Lab
+- Primary Research Area: Cryptography, Algebraic Cryptanalysis & Feedback System Design
+- Research Interests & Innovation Focus: Cryptography; Algebraic cryptanalysis of AES; Feedback system design; Algebraic geometry; Algebraic coding theory; System theory
+- Notable Projects: Algebraic Cryptanalysis of AES (published monograph); Feedback system design using algebra; Coding theory research
+- Key Tools & Platforms: Mathematical computation tools, algebraic analysis software
+- Industry Collaborations: Cybersecurity organizations
+- Awards: Published monograph on AES cryptanalysis; Algebraic approach pioneer
+- Innovation Keywords: cryptography, AES cryptanalysis, algebraic methods, feedback design, coding theory, cybersecurity
+- Profile: https://www.ee.iitb.ac.in/web/people/virendra-r-sule/
+
+## Prof. Virendra Singh
+- Department: Electrical
+- Designation: Associate Professor
+- Email: vsingh@ee.iitb.ac.in
+- Research Group: Computer Architecture & Dependable Systems Lab (CADSL)
+- Primary Research Area: Computer Architecture, VLSI Testing & Dependable Systems
+- Research Interests & Innovation Focus: Processor architecture & microarchitecture; VLSI testing; Fault-tolerant computing; Self-healing system design; SoC & NoC design/test; Post-silicon debug; Formal verification; Cyber-physical systems
+- Notable Projects: Indo-Japanese Joint Lab for Intelligent Dependable Cyber-Physical Systems (INR 12.5 Cr); Information security; Blockchain research
+- Key Tools & Platforms: Architecture design tools, VLSI test frameworks, formal verification tools
+- Industry Collaborations: Semiconductor companies; IoT device developers
+- Awards: Publications in IEEE; Recognized dependable systems expert
+- Innovation Keywords: computer architecture, VLSI testing, fault-tolerant, SoC/NoC, post-silicon debug, cyber-physical systems, self-healing
+- Profile: https://www.ee.iitb.ac.in/~viren/
+
+## Prof. Vivek Agarwal
+- Department: Electrical
+- Designation: Professor (Kinetic Chair in Mobility & Electronics)
+- Email: agarwal@ee.iitb.ac.in
+- Research Group: Applied Power Electronics Lab (APEL)
+- Primary Research Area: Power Electronics, Renewable Energy & Microgrid Systems
+- Research Interests & Innovation Focus: Power conversion technologies; New converter topologies; ZCS/ZVS configurations; Solar PV systems; Wind & fuel cell integration; MPPT; Stand-alone & grid-connected systems; AC/DC microgrids; Energy storage (battery, supercapacitor, flywheel); Solar PV inverters
+- Notable Projects: Solar PV microinverter; Grid-connected renewable systems; Microgrid implementations; Energy storage integration
+- Key Tools & Platforms: Power converter design, MPPT algorithms, microgrid control systems
+- Industry Collaborations: Renewable energy; EV infrastructure; Microgrid developers
+- Awards: 10,934+ citations; 302+ publications; Kinetic Chair Professor
+- Innovation Keywords: power conversion, MPPT, solar PV, microgrids, energy storage, fuel cells, renewable integration, ZVS/ZCS converters
+- Profile: https://www.ee.iitb.ac.in/~agarwal/
+
+## Prof. Vivek S. Borkar
+- Department: Electrical
+- Designation: Emeritus Fellow (Institute Chair Prof.)
+- Email: borkar@ee.iitb.ac.in
+- Research Group: Stochastic Control & Learning Theory Group
+- Primary Research Area: Stochastic Optimization, Control Theory & Markov Decision Processes
+- Research Interests & Innovation Focus: Stochastic optimization & control; Learning control theory; Random processes & stochastic approximation; Markov decision processes; Identification & adaptive control; Reinforcement learning theory
+- Notable Projects: National Science Chair; Foundational work on stochastic approximation algorithms; Reinforcement learning theory contributions
+- Key Tools & Platforms: Stochastic approximation theory, dynamical systems analysis
+- Industry Collaborations: Not prominently documented
+- Awards: Shanti Swarup Bhatnagar Prize (1992); Fellow IEEE, INAE, INSA, NASI, TWAS, AMS; J.C. Bose Fellowship
+- Innovation Keywords: stochastic control, reinforcement learning, Markov decision, optimization, adaptive control, random processes
+- Profile: https://www.ee.iitb.ac.in/web/people/vivek-shripad-borkar/

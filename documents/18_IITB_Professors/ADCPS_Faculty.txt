@@ -1,0 +1,216 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ADCPS Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Ajay Deshpande
+- Department: ADCPS
+- Designation: Adjunct Professor
+- Email: aadeshpande@iitb.ac.in
+- Primary Research Area: Environmental Regulation & Compliance
+- Research Interests & Innovation Focus: Environmental regulation, compliance, green tribunal, environmental governance, regulatory literacy for startups
+- Notable Projects: Environmental compliance studies
+- Key Tools & Platforms: Regulatory analysis tools
+- Industry Collaborations: Environmental agencies
+- Innovation Keywords: environmental regulation, compliance, green tribunal, governance, regulatory
+- Profile: https://www.cps.iitb.ac.in/faculty/ajay-deshpande/
+
+## Anupam Guha
+- Department: ADCPS
+- Designation: Assistant Professor
+- Email: anupam_guha@iitb.ac.in
+- Primary Research Area: AI Policy & Political Economy of AI
+- Research Interests & Innovation Focus: AI policy, AI and labour, political economy of AI, digital platforms, public AI, judiciary AI, AI impact on Indian labour markets
+- Notable Projects: Public AI governance, AI impact on judiciary, labour market AI studies
+- Key Tools & Platforms: Python, NLP tools, policy analysis frameworks
+- Industry Collaborations: Government policy bodies
+- Innovation Keywords: AI policy, political economy, digital platforms, labour, public AI, judiciary
+- Profile: https://www.cps.iitb.ac.in/faculty/anupam-guha/
+
+## Ashish Desai
+- Department: ADCPS
+- Designation: Guest Faculty
+- Email: ashishdesai@hotmail.com
+- Primary Research Area: Fintech, Digital Payments & M&E
+- Research Interests & Innovation Focus: Technology and financial services, monitoring and evaluation, digital payments, digital lending, fintech innovation
+- Notable Projects: Fintech policy studies, digital payment ecosystem research
+- Key Tools & Platforms: Financial analysis tools, data analytics
+- Industry Collaborations: Financial and fintech companies
+- Innovation Keywords: fintech, digital payments, digital lending, M&E, financial technology
+- Profile: https://www.cps.iitb.ac.in/faculty/ashish-desai/
+
+## Himanshu Kulkarni
+- Department: ADCPS
+- Designation: Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Groundwater Management & Water Governance
+- Research Interests & Innovation Focus: Groundwater, aquifers, participatory groundwater management, springshed management, commons governance
+- Notable Projects: Springshed management projects, participatory water governance
+- Key Tools & Platforms: Hydrogeological tools, GIS, field methods
+- Industry Collaborations: ACWADAM, water governance NGOs
+- Innovation Keywords: groundwater, aquifers, springshed, participatory management, water governance
+- Profile: https://www.cps.iitb.ac.in/faculty/himanshu-kulkarni/
+
+## Ishani Mukherjee
+- Department: ADCPS
+- Designation: Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Policy Design & Environmental Policy
+- Research Interests & Innovation Focus: Policy formulation and design, environmental policy, renewable energy policy, energy efficiency, policy design thinking
+- Notable Projects: Policy design studies, renewable energy policy analysis
+- Key Tools & Platforms: Policy analysis frameworks
+- Industry Collaborations: Government and international policy organizations
+- Innovation Keywords: policy design, environmental policy, renewable energy, energy efficiency
+- Profile: https://www.cps.iitb.ac.in/faculty/ishani-mukherjee/
+
+## Justice Uday Umesh Lalit
+- Department: ADCPS
+- Designation: Distinguished Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Law, Judiciary & Public Institutions
+- Research Interests & Innovation Focus: Law, judiciary, public institutions, constitutional governance, legal reform, access to justice
+- Notable Projects: Judicial reform studies
+- Awards: Former Chief Justice of India
+- Innovation Keywords: law, judiciary, public institutions, constitutional governance, legal reform
+- Profile: https://www.cps.iitb.ac.in/faculty/uday-umesh-lalit/
+
+## Malini Krishnankutty
+- Department: ADCPS
+- Designation: Adjunct Professor
+- Email: malini.kutty@iitb.ac.in
+- Primary Research Area: Urban Planning & Development
+- Research Interests & Innovation Focus: Urban planning, regional plans, development planning, metropolitan governance, civic innovation
+- Notable Projects: Urban planning projects, regional development studies
+- Key Tools & Platforms: GIS, urban planning software
+- Industry Collaborations: Urban planning agencies
+- Innovation Keywords: urban planning, regional development, metropolitan governance, civic innovation
+- Profile: https://www.cps.iitb.ac.in/faculty/malini-krishnankutty/
+
+## Malish C. M.
+- Department: ADCPS
+- Designation: Assistant Professor
+- Email: malishcm@iitb.ac.in
+- Primary Research Area: Education Policy & Higher Education
+- Research Interests & Innovation Focus: Education policy, higher education equity, student success, governance, EdTech in higher education, institutional innovation
+- Notable Projects: Higher education equity studies, EdTech policy research
+- Key Tools & Platforms: Statistical analysis tools, survey methods
+- Industry Collaborations: Education policy organizations
+- Innovation Keywords: education policy, higher education, equity, student success, EdTech, governance
+- Profile: https://www.cps.iitb.ac.in/faculty/malish-c-m/
+
+## N. C. Narayanan
+- Department: ADCPS
+- Designation: Professor
+- Email: ncn@iitb.ac.in
+- Primary Research Area: Water Policy, Sanitation & Climate Change
+- Research Interests & Innovation Focus: Water policy, sanitation, local governance, energy policy, climate change adaptation, environmental services, field-facing innovation
+- Notable Projects: Water governance frameworks, climate adaptation policy studies
+- Key Tools & Platforms: GIS, policy analysis tools, field research methods
+- Industry Collaborations: Government water and sanitation agencies
+- Innovation Keywords: water policy, sanitation, climate change, environmental governance, energy policy
+- Profile: https://www.cps.iitb.ac.in/faculty/n-c-narayanan/
+
+## N. V. Varghese
+- Department: ADCPS
+- Designation: Distinguished Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Educational Planning & Administration
+- Research Interests & Innovation Focus: Educational planning, higher-education policy, institutional design, global education systems
+- Notable Projects: Higher education policy frameworks
+- Key Tools & Platforms: Policy analysis methods
+- Industry Collaborations: NUEPA, UNESCO
+- Innovation Keywords: educational planning, higher education policy, institutional design, governance
+- Profile: https://www.cps.iitb.ac.in/faculty/n-v-varghese/
+
+## Naveen Bharathi
+- Department: ADCPS
+- Designation: Assistant Professor
+- Email: naveenbharathi@iitb.ac.in
+- Primary Research Area: Political Sociology & Identity
+- Research Interests & Innovation Focus: Political sociology, political economy of identity, ethnic diversity, development, urban segregation, inclusion in innovation ecosystems
+- Notable Projects: Identity and development studies, urban segregation research
+- Key Tools & Platforms: Econometric tools, survey analysis
+- Innovation Keywords: political sociology, identity, ethnic diversity, development, urban segregation
+- Profile: https://www.cps.iitb.ac.in/faculty/naveen-bharathi/
+
+## Nitin Kareer
+- Department: ADCPS
+- Designation: Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Public Administration & State Governance
+- Research Interests & Innovation Focus: Public administration, state governance, implementation, higher and technical education, policy implementation
+- Notable Projects: Governance implementation studies
+- Key Tools & Platforms: Administrative analysis tools
+- Industry Collaborations: Government agencies
+- Innovation Keywords: public administration, state governance, implementation, education policy
+- Profile: https://www.cps.iitb.ac.in/faculty/nitin-kareer/
+
+## Prabhir Vishnu Poruthiyil
+- Department: ADCPS
+- Designation: Associate Professor
+- Email: vishnup@iitb.ac.in
+- Primary Research Area: Policy Ethics, Ageing & Urban Policy
+- Research Interests & Innovation Focus: Private actors in policymaking, ageing policy, urban policy, ethics, storytelling methods, social innovation
+- Notable Projects: Social innovation policy, age-friendly design studies
+- Key Tools & Platforms: Qualitative research methods, policy tools
+- Innovation Keywords: policy ethics, ageing, urban policy, storytelling, social innovation
+- Profile: https://www.cps.iitb.ac.in/faculty/prabhir-vishnu-poruthiyil/
+
+## Rahul Suresh Sapkal
+- Department: ADCPS
+- Designation: Associate Professor
+- Email: rahuls@iitb.ac.in
+- Primary Research Area: Applied Econometrics & Labour Economics
+- Research Interests & Innovation Focus: Applied econometrics, welfare and social policy, labour economics, law and economics, platform economy, gig economy regulation
+- Notable Projects: Labour market analysis, platform economy studies, legal design research
+- Key Tools & Platforms: Stata, R, econometric modelling tools
+- Innovation Keywords: econometrics, labour economics, platform economy, gig economy, law and economics
+- Profile: https://www.cps.iitb.ac.in/faculty/rahul-suresh-sapkal/
+
+## Sekhar Bonu
+- Department: ADCPS
+- Designation: Visiting Professor
+- Email: office.cps@iitb.ac.in
+- Primary Research Area: Evidence-based Policy & Evaluation
+- Research Interests & Innovation Focus: Evidence-based policymaking, monitoring and evaluation, state capacity, service delivery, impact assessment
+- Notable Projects: M&E framework development, service delivery evaluation
+- Key Tools & Platforms: Statistical tools, evaluation frameworks
+- Industry Collaborations: World Bank, development organizations
+- Innovation Keywords: evidence-based policy, M&E, state capacity, service delivery, impact assessment
+- Profile: https://www.cps.iitb.ac.in/faculty/sekhar-bonu/
+
+## Shishir K. Jha
+- Department: ADCPS
+- Designation: Associate Professor
+- Email: skjha@iitb.ac.in
+- Primary Research Area: Digital Governance & Data Policy
+- Research Interests & Innovation Focus: Digital public infrastructure, digital governance, data centres, platforms, data monetisation, circular economy, innovation governance
+- Notable Projects: DPI research, data governance frameworks, innovation policy studies
+- Key Tools & Platforms: Data analysis tools, policy frameworks
+- Industry Collaborations: Government digital agencies
+- Innovation Keywords: digital governance, DPI, data policy, platforms, data monetisation, circular economy
+- Profile: https://www.cps.iitb.ac.in/faculty/shishir-k-jha/
+
+## Sundeep Oberoi
+- Department: ADCPS
+- Designation: Adjunct Professor
+- Email: sundeep.oberoi@iitb.ac.in
+- Primary Research Area: ICT, Product Development & Entrepreneurship
+- Research Interests & Innovation Focus: ICT, product development, system integration, industry R&D, entrepreneurship, R&D-to-market pathways
+- Notable Projects: Product development consulting, industry R&D projects
+- Key Tools & Platforms: Software development tools, system integration platforms
+- Industry Collaborations: IT and tech companies
+- Innovation Keywords: ICT, product development, entrepreneurship, system integration, R&D
+- Profile: https://www.cps.iitb.ac.in/faculty/sundeep-oberoi/
+
+## Vinish Kumar Kathuria
+- Department: ADCPS
+- Designation: Professor & Head
+- Email: vinish@iitb.ac.in
+- Primary Research Area: Industrial Economics & Environmental Economics
+- Research Interests & Innovation Focus: Economics, macroeconomics, industrial economics, environment and energy economics, innovation policy, centre leadership
+- Notable Projects: Industrial economics research, environmental policy studies
+- Key Tools & Platforms: Econometric tools, economic modelling
+- Industry Collaborations: Industry and policy bodies
+- Innovation Keywords: industrial economics, environmental economics, energy economics, macroeconomics, policy
+- Profile: https://www.cps.iitb.ac.in/faculty/vinish-kumar-kathuria/

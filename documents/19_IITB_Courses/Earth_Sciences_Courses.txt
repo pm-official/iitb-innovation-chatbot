@@ -1,0 +1,650 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Earth Sciences - Course Catalog for IIT Bombay Students
+
+
+## GP 101: Solid-Earth Geophysics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: The Solar System and others terrestrial planets. Propagation of Elastic waves inside the Earth, Composition and Internal structure of the Earth. Spherical harmonics. Role of satellites for Geopotential fields. Gravity: shape, rotation, tidal deformation, isostasy of the Earth. Heat flow: continental and ocean heat flow, thermal structure of the Earth. Radiometric dating methods. Convection in the Mantle and Outer Core. Geomagnetism: origin of the Earth-s magnetic field, geomagnetic secular variation, Geodynamo. Plate Tectonics: Paleomagnetism, Continental Drift, Sea-floor spreading and polar wander paths.
+
+## GP 401: Global Geophysics
+- Credits: 4
+- Type: Theory
+- Description: The Solar system and evolution of the Earth; Structure and composition of the earth   Geodynamics. Theory and fundamental concepts of Plate Tectonics: Rotation vectors, rotation poles, present day plate motions and triple junctions. Geophysical framework of the earth: Spherical harmonic representation of potential functions. Gravity: figure of the earth, shape, rotation, tidal friction, gravity field of earth and Isostasy. Geomagnetism: internal, external field & their causes, geodynamo theory. Paleomagnetism: Polar wander paths, Seafloor spreading and Continental drift. Heat flow: heat transfer mechanism, thermal regime, thermal structure of the earth, volcanism, Hot spots and mantle plumes. Elastic waves: internal structure and variation physical properties in the interior of the earth.
+
+## GP 402: Gravity and Magnetic Methods
+- Credits: 6
+- Type: Theory
+- Description: Gravitational field of the Earth; Potential field equations and derivation; Densities of rocks and their determination; Gravity instruments for Geophysical exploration; Gravity effect over different types of geological structures; Anomalies of gravity field - Free-Air, Bouguer and Isostatic anomaly; Processing of Gravity data; Geophysical interpretation of gravity anomalies; Delineation of gravity anomaly parameters using signal processing tools; Shape of Earth; Moments of inertia, Geoid, Isostasy, Earth rotation, Earth structure; Exploration for resources; Geodetic measurements of crustal motion. Principles of magnetic methods; Instruments for magnetic measurements for geophysical Exploration; Principles of various magnetic instruments; Relation between gravity and magnetic methods; Magne...
+
+## GP 403: Earthquake and Engineering Seismology
+- Credits: 6
+- Type: Theory
+- Description: Introduction to seismology, Elasticity, Stress-strain relationships, Equations of motion, seismic wave equations, Body waves and ray theory, Partitioning of energy, Attenuation, anisotropy and anelasticity, Travel times in layered media, Surface waves dispersion and free oscillations, Seismometry and Principles of Digital seismographs, Seismic observatory practices, Seismogram interpretation - Nomenclature of seismic phases, Body wave travel times in earth, Internal structure and composition of the earth, Earthquakes - Seismic sources, Directivity, Scaling laws, Magnitude scales, Location, Focal mechanisms, Moment tensors, Stress drop, Earthquake characteristics, effects and distribution, Seismotectonics, Earthquake prediction, Seismic hazard and risk, Waveform modeling and Inverse problem...
+
+## GP 404: Electrical Methods and Potential Field Theory
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 405: Earth Processes
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 406: Earth Resources
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 407: Seismology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Practical training in seismological data acquisition, processing and interpretation, Seismogram analysis and interpretation, Identification of seismic phases, Determination of earthquake parameters - location, magnitude, stress drop, focal mechanism, Seismological data analysis using standard seismological software-s.
+
+## GP 408: Gravity and Magnetic Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Determination of average density of surface rocks from gravity data; Exercises on reduction to pole of magnetic data, diurnal correction, Preparation of gravity and magnetic anomaly contour maps from field data; Regional - residual separation methods in gravity and magnetic methods; Construction of gravity and magnetic profiles on some simple geometrical models; Interpretation of gravity and magnetic anomalies obtained over different geological structures
+
+## GP 409: Earth Processes Lab
+- Credits: 3
+- Type: Laboratory
+- Description: x
+
+## GP 410: Earth Resources Lab
+- Credits: 3
+- Type: Laboratory
+- Description: x
+
+## GP 412: Geological Field Work
+- Credits: 5
+- Type: Project
+- Description: x
+
+## GP 413: Mineralogy & Petrology
+- Credits: 6
+- Type: Theory
+- Description: Chemistry of minerals; atomic bonding; crystal structure & crystal systems; rock-forming and economic minerals; major silicate mineral groups (quartz, feldspar, pyroxene, amphibole, mica, olivine and garnet) & their diagnostic physical properties; common oxide, sulphide, sulphate and carbonate minerals; phase transformations in the Earth-s interior; basic optical mineralogy. Partial melting & generation of magmas; crystallization of magma; Bowen-s reaction series; forms of intrusive & extrusive igneous bodies; mineralogy, textures and structures of common felsic, mafic & ultramafic igneous rocks; magmatism in relation to tectonic settings; radioactivity & dating of rocks. Metamorphism and metamorphic facies; mineralogy, textures and structures of common metamorphic rocks; low grade and hig...
+
+## GP 414: Electrical Methods
+- Credits: 4
+- Type: Theory
+- Description: Electrical properties of rocks; Introduction to Electrical methods of geophysical prospecting, Principles of Resistivity methods, Instruments for Resistivity methods; Resistivity field surveys in different array configurations (Wenner, Schlumberger, dipole-dipole, pole-pole, pole-dipole), Profiling and Sounding techniques, Resistivity imaging, Resistivity Data analysis and Interpretation; Induced Polarization and Self-potential methods,  Concepts of groundwater accumulation, geology of groundwater occurrence, types of aquifers and their characteristics, resistivity methods for groundwater exploration and some case histories.
+
+## GP 415: Mineralogy & Petrology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Identification of rock forming minerals, megascopic and microscopic study. X-ray diffraction, Identification and classification of rocks, textures and mineral compositions of igneous, sedimentary and metamorphic rocks.
+
+## GP 416: Structural Geology & Stratigraphy
+- Credits: 6
+- Type: Theory
+- Description: Planes and lines in structural geology, dip, strike, pitch, plunge; principles and applications of stereo-net; folds, faults, joints, foliations, lineations. Introduction to stress and strain, ductile and brittle deformations; modeling rocks as a laminar fluid, Couette- and Poiseuille flow along and across gravity-geoscientific applications. Structure and major tectonic features of the Indian subcontinent.  Principles of stratigraphy; stratigraphic classification and correlation. Facies concepts and facies analysis. Stratigraphy, tectonics and geochronology of the Precambrians of India; Palaeozoic and Mesozoic formations of Himalaya and Peninsular India, Gondwana sequence; subsurface geology of Bengal, Assam, Cauvery, Krishna-Godavari, Cambay, Kutch, Rajasthan basins.
+
+## GP 418: Exploration Seismology I
+- Credits: 6
+- Type: Theory
+- Description: Theory and geometry of seismic waves, seismic velocity of rocks, characteristics of seismic events, seismic sources and equipment. seismic reflection and refraction field methods, CDP technique, seismic noise, velocity measurements, marine seismic surveys, data processing - convolution, correlation, filtering, velocity analysis, stacking and migration, synthetic seismograms, seismic interpretation.
+
+## GP 420: Structural Geology & Stratigraphy Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Identification and interpretation of geological features in topographic maps, Identification and interpretation of structural elements in geological maps: Faults, folds, unconformities, Construction of geological cross-sections, stratum contours, isopach maps, Stereographic plotting of planes and lines. Computer aid to analysis of structural data. Study of geological map of India. Stratigraphic correlation.
+
+## GP 422: Geological Field Work
+- Credits: 3
+- Type: Project
+
+## GP 501: Exploration Seismology I
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 502: Well Logging
+- Credits: 6
+- Type: Theory
+- Description: Well logging and geology, Formation evaluation, Archie-s formulae, Well drilling technology, Drilling fluids, Borehole environment, Invasion profiles, Principles, methods and application of logging tools including Spontaneous polarization, Resistivity, Microresistivity, Induction, Sonic, Density, Litho-density, Neutron, Pulsed neutron, Natural Gamma ray, Gamma ray spectrometry, Cement bond, Variable density, Caliper, Dipmeter, Formation microscanner and imager. Well log interpretation - quick look techniques, Hingle, Pickett, MID, M-N cross plots, saturation estimation, lithology, porosity and permeability determination, Log interpretation case studies
+
+## GP 503: Geophysical Signal Processing
+- Credits: 6
+- Type: Theory
+- Description: Introduction to signal processing in Geophysics; Auto correlation and cross correlation, Linear time invariant systems, Z- Transform; Laplace Transform, Transfer function, Impulse response and convolution; Fourier Transform and its properties. Bit-reversal algorithm, Fast Fourier Transform (FFT) and Discrete Fourier Transform (DFT); Power spectral estimation, Hilbert Transform, Mellin Transform; Applications in Geophysics; Introduction to digital filtering, Sampling theorem; Introduction to statistical signal processing; Introduction to Wavelet analysis in geophysics; Introduction to System modeling: auto regressive (AR), moving average (MA), Auto regressive moving average (ARMA), Maximum Entropy Method (MEM) of spectral analysis. Applications of signal processing in Geophysics.
+
+## GP 504: Exoploration Seismology  II
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 505: Electromagnetic Methods
+- Credits: 6
+- Type: Theory
+- Description: Differential and Integral forms of Maxwell-s Equations and Boundary conditions, Wave and Diffusion Equation, Introduction to Electromagnetic profiling and sounding methods; TURAM, SLINGRAM, VLF-EM techniques; Instrumentation for Electromagnetic field surveys; Telluric, Magnetotelluric (MT) and Transient Electromagnetic (TEM) methods of geophysical exploration; MT theory; Origin of the MT and telluric fields; Field instruments and operation for telluric, MT and TEM surveys; Data Processing and Interpretation of telluric, MT and TEM data and their uses in various geophysical studies; Introduction to Ground Penetrating Radar (GPR) technique for very shallow geophysical investigations.
+
+## GP 506: Geophysical Inverse Theory
+- Credits: 4
+- Type: Theory
+- Description: Fundamental concepts of inverse theory with application to Geophysics, Probability, Inverses with discrete and continuous models, inverse methods based on length, generalized matrix inverses and maximum likelihood methods, nonuniqueness, applications of vector spaces, resolving kernels, use of prior information, singular value decomposition, non-linear inverse problems, continuous inverse theory and tomography, Backus-Gilbert inverse problem, Applications of inverse theory to geophysics
+
+## GP 507: Geophysical Signal Processing Lab
+- Credits: 3
+- Type: Laboratory
+- Description: x
+
+## GP 508: Integrated Geophysical Field Work
+- Credits: 5
+- Type: Project
+- Description: x
+
+## GP 509: Electrical and Electromagnetic Methods Lab
+- Credits: 3
+- Type: Laboratory
+- Description: x
+
+## GP 510: Project Work
+- Credits: 15
+- Type: Project
+- Description: x
+
+## GP 511: Nuclear Geophysics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Radioactivity and Radiation: Stable and unstable nuclei, Interaction of radiation with matter: Types of radioactivity; X-rays and Gamma rays; Detection and measurement of Radioactivity; Distribution of Potassium, Uranium and Thorium in various rock types; Application of radioactive methods of geology - Geochronology and isotope geochemistry, Introduction to Nuclear Geophysics: Principles of Gamma and neutron methods and their utility in geophysical exploration, Nuclear methods generally used for geophysical investigations - Gamma-gamma method, X-ray fluorescence method, gamma-neutron method and neutron-neutron method and Interpretation of these survey results.
+
+## GP 512: Rock Physics
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals and Principles of Rock Physics, their Scope and Utility, Concepts of Elasticity, Plasticity and Viscosity, Rock Permeability, Porosity, Elastic Properties of the Fluids, Seismic Wave Propagation, Rock Composition and AVO, Rock Structures Evaluation, Rock Properties Model. In-Situ Stress Measurement, Role of Fractures in Seismic behaviour, Pore pressure, Fluid Migration, Permeability model for fracture Rock, Scaling properties of fluid flow in fracture rock, Constitutive model, Seismic signature, Logging of Fracture reservoir, Role of stresses in modulating fractures, Correlation between Static and Dynamic Model, Rock Anisotropy and its Causes, Influence of Stress on Seismic Anisotropy, Detection and Quantification of Seismic Anisotropy, Triaxial Deformation or Rock, Damage Mec...
+
+## GP 513: Natural Hazards and Environmental Geophysics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Natural hazards - earthquakes, tsunamis, volcanoes, landslides, avalanches, floods, cyclones, mine fire and blow out; Causes, risk and mitigation of natural hazards; Mechanics of recent and historical earthquakes, seismic risk and hazard, earthquake prediction, types of volcanism, styles of eruption, forecasting and mitigation of volcano hazard, Tsunami - causes and prediction, prediction and prevention of landslides, landslide zonation and risk assessment, Flood hazard and mitigation, geological hazards - vulnerability and risk assessment using GIS, Environmental hazards - Nuclear waste, ground water pollution, Important case studies of natural hazards.
+
+## GP 514: Geomagnetism
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GP 516: Petroleum Geology and Petrophysics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Petroleum geology, Physical and chemical properties of petroleum, subsurface environment, generation and migration of petroleum, traps and seals, sedimentary basins, assessment of basin reserves and global reserves, Introduction to Petrophysics, rock fluid system and interaction, reservoir characteristics, relationship between porosity, permeability and texture, forward modeling and prediction of effects of porosity, lithology and fluids on seismic attributes, Correlation of well log parameters with seismic properties, bulk properties and pore fluid conditions.
+
+## GP 517: Exploration Seismology II
+- Credits: 6
+- Type: Theory
+- Description: 3-D marine and land seismic data acquisition, processing and interactive 3-D interpretation, Modeling, Synthetic seismograms, Seismic stratigraphy - seismic sequences, Time significance of reflections, Depositional models, Seismic Facies Analysis, Reflection Character Analysis, Hydrocarbon indicators, Amplitude variation with Offset, Vertical Seismic Profiling, Geological interpretation of seismic sections using 3-D seismic data, Reservoir Geophysics.
+
+## GP 518: Process Geomorphology, Remote Sensing and GIS
+- Credits: 6
+- Type: Theory
+- Description: Geomorphic principles and processes, pedogenesis and morphogenetic regions. Concept of cycle of erosion; fluvial, aeolian, coastal, karst and glacial landscapes, methods of analysis of landforms, slopes and drainage. Aplications of geomorphology. Fundamental concepts of remote sensing; electromagnetic energy and its interactions in the atmosphere and with terrain features; elements of photographic systems, aerial photointerpretation and geological applications, Fundamentals of photogrammetry, satellite remote sensing, multi-spectral scanners, thermal scanners, microwave remote sensing, fundamentals of image interpretation and geological applications, Introduction to digital image processing. Introduction to Geographic Information System, spatial data models and data structures, visualizati...
+
+## GP 519: Engineering & Ground Water Geology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Study of rocks for their mineralogical, textural, weathering and discontinuity aspects. Engineering properties of rocks, soils, clays and construction aggregates. Maps and numerical exercises. Instrumentation in engineering geology and hydrogeology. Geophysical Surveys resistivity, gravity and magnetic methods.
+
+## GP 520: Project Work
+- Credits: 8
+- Type: Project
+
+## GP 521: Electromagnetic Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Calculation of Electric field due to a point and dipole sources; Computations on Coulomb Forces and Electric field intensity; Analysis and interpretation of VLF EM, Transient Electromagnetic (TEM), Magnetotelluric (MT) data sets; Computer programming for data processing of geomagnetic deep sounding data.
+
+## GP 523: Industrial Training
+- Credits: 0
+- Description: 3 weeks in summer vacation after 2nd semester, P/NP on basis of certificate from training centre / lab.
+
+## GP 525: Computational Geophysics
+- Credits: 6
+- Type: Theory
+
+## GP 591: Seminar
+- Credits: 4
+- Type: Seminar
+
+## GP 593: M.Sc.-Ph.D. Geophysical Project
+- Credits: 10
+- Type: Project
+
+## GS 318: Applied Geology for Civil Engineers
+- Credits: 6
+- Type: Theory
+- Description: Classification of rock forming minerals and rocks; Igneous rocks, types, characters and properties; Metamorphism and its types, structures, textures and effect on practical properties; Sedimentary environment, structure, textural classification of silici-clastic and carbonate rocks; Weathering process, transportation and sedimentation process; Geological action - wind, water, ocean, glaciers ( landforms); Seismic zones of India; Earth structure- Fold, Fault, Joints and Shear zones; Geological and Geophysical investigations for site classification; Concept of stresses and strain in rocks; Different failure criteria in rocks and rock masses; Engineering properties and strength of rocks; Rock mass classification (RQD, RMR, GSI,RMi); Rock breakage mechanism and safety of civil structures; Geol...
+
+## GS 407: Structural Geology
+- Credits: 6
+- Type: Theory
+- Description: Dynamic and kinematic analyses of rocks in two dimensions, stress and strain. Folds 302226 classification, mechanism of folding, Biot302222s law - strain within buckled layer, similar fold and shear fold, kink bands, chevron folds and conjugate fold; cleavage, lineation, boudinage; deformation of linear structures by flexural slip folding and shear folding; deformation of planar structures by flexural slip folding and shear folding; superimposed folding, type 1, 2 and 3 interference pattern; faults and ductile shear zone
+
+## GS 413: Structural Geology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Stereographic plotting and contouring of planes and lines. Analysis of folds, faults and ductile shear zone. Strain measurements from deformed fossils and other markers. Interpretation of geological maps. Computer aids to analysis of structural data.
+
+## GS 415: Applied Mineralogy and X-Ray Crystallography
+- Credits: 6
+- Type: Theory
+- Description: Crystallography: crystal growth, external and internal symmetry, space group. XRD: powder and single crystal diffraction, reciprocal lattice and mathematical crystallography. Crystal defects and chemistry: colour, cause and enhancement techniques, crystal field, molecular orbital and band theories. Electronic and vibrational spectroscopy methods. Electron microscopy and its mineralogical applications. Thermal analytical techniques (DTA, DSC, TG). Biological-mineralogical interactions. Medical mineralogy, Clays and Zeolites, Gemology.
+
+## GS 416: Petrology Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Study of textures and mineral compositions of igneous, sedimentary and metamorphic rocks, their identification and classification. Modal analysis of rocks, study of size, shape, roundness, packing and orientation of grains. CIPW norms, Niggli values, variation diagrams. ACF, AKF and AFM diagrams.
+
+## GS 421: Palaeontology
+- Credits: 6
+- Type: Theory
+- Description: Nature of the fossil record, taphonomy; growth, allometry and heterochrony; species concepts and systematics - nomenclature, classification and phylogenetics; adaptation and functional morphologic analysis; evolutionary rates and trends; global diversity and extinction, mass extinctions. Palaeoecology and palaeobiogeography; palaeoenvironmental and palaeoclimatic reconstruction; isotopic palaeobiology. Applications of fossils in biostratigraphy, correlation and sequence stratigraphy. Sampling and sample preparation techniques for microfossils, morphology and classification of foraminifera, study of some common benthic and planktonic foraminifera.  Stratigraphic palaeontology of India.
+
+## GS 422: Geomorphology, Remote Sensing & GIS
+- Credits: 6
+- Type: Theory
+- Description: Concepts in process geomorphology, chemical weathering and soil formation, slope processes, drainage basin morphometry, major processes and associated landforms: tectonic, fluvial, aeolian, coastal, karst and glacial. Electro magnetic radiation and remote sensing: interaction of EMR with atmosphere and terrain features, platforms and sensors, resolution and calibration aspects of remotely sensed data, photogrammetry, aerial photo interpretation, satellite remote sensing, fundamentals of digital image processing and classification, introduction to Geographic Information System, spatial data models and data structures, visualization and query of spatial data, overlay analyses, geological applications of  remotely sensed data and GIS.
+
+## GS 430: Metamorphic Petrology
+- Credits: 4
+- Type: Theory
+- Description: Factors controlling metamorphism; types of metamorphism; transient geotherm pressure-temperature regimes; protolith types and characteristic metamorphic minerals; metamorphic textures; projection in positive and negative space; ACF, AKF and AFM diagrams; metamorphic facies and facies series; metamorphic zones; thermodynamic principles of metamorphic reactions; regional metamorphism of pelitic, carbonate and mafic rocks; contact metamorphism; granulite, eclogite and migmatite; metamorphic differentiation, experimental studies on metamorphic reactions; metamorphic terranes in relation to plate tectonics.
+
+## GS 433: Palaeontology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Morphological descriptions, systematics and illustrations of representative fossils belonging to Bivalvia, Cephalopoda, Brachiopoda, Echinodermata and Arthropoda; Cladistic analysis using PAST; Computation of evolutionary metrics of selected groups of fossils using Paleobase; Processing of samples for micropalaeontological studies; study of selected foraminiferal genera; preparation technique for scanning electron microscopic studies and observation of some microfossils under SEM; preparation of stratigraphic range charts and biostratigraphic zonation
+
+## GS 434: Igneous Petrology and Volcanology
+- Credits: 4
+- Type: Theory
+- Description: Magmas and volcanoes; volcanism on Earth, Moon, and the terrestrial planets; mechanisms of partial melting and magma generation in the Earth; chemical compositions and physical properties of magmas; role of volatiles in magmas and volcanic eruptions; volcanic hazards; magma evolution by  differentiation; Mg Number and other geochemical parameters; fractional crystallization and liquid lines of descent; lever rule; the AFM and TAS diagrams; mineral-liquid equilibrium; fractional and batch melting; nomenclature and classification of igneous rocks; magma series; major volcanoes, volcanic eruptions and magmatic provinces of the Earth; related numericals.
+
+## GS 435: Mineralogy, Crystallography and Optics Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Crystal growth experiments, 32 point groups, powder XRD, reciprocal lattice, chemical analysis and mineral formulas, UV-VIS, IR and Raman spectroscopy, DTA-TGA, crystal optics, colour enhancement and gem testing
+
+## GS 436: Sedimentology
+- Credits: 4
+- Type: Theory
+- Description: Modern and ancient sedimentary environments- rivers, lakes, eolian, glaciers, shallow seas, delta, estuaries and deep marine, interpreting ancient depositional environments- concept of facies, paleocurrents and provenance. Processes of sediment transport and sedimentary structures. Post-depositional sedimentary processes- clastic and carbonate diagenesis, Stratigraphy- concepts and lithostratigraphy, sequence stratigraphy and sea level changes. Sedimentary basins- classifications, introduction to basin analysis.
+
+## GS 438: Economic and Mining Geology
+- Credits: 8
+- Type: Theory
+- Description: Classification of ore deposits. Orthomagmatic, pegmatitic and pneumatolitic deposits. Hydrothermal processes, deposit forms and classification. Weathering, supergene enrichment and residual deposits. Sedimentary, metamorphic and metamorphosed ore deposits. Important examples. Geological mapping, guides for ore search, delineation of ores, drilling, core-sampling, reserve estimation. Introduction to underground and surface mining methods. Underground exploration and sampling of ore deposits. Methods of computation of developed ore reserves. Introduction to geostatistical ore reserve estimation. Mineral resources and their classification.
+
+## GS 440: Geomorphology, Remote Sensing and GIS lab
+- Credits: 3
+- Type: Laboratory
+- Description: Topographical map interpretation for different landforms, analysis of weathering trends, exercises on slopes and slope stability, drainage basin morphometry, airphoto interpretation for geological and geomorphological applications, parallax measurements for height determination, generation of  DEM and DTM, interpretation of satellite images, exposure to image processing and GIS software
+
+## GS 450: Geological field work
+- Credits: 3
+- Type: Project
+- Description: Field work in Metamorphic Terrain, Toposheet reading, Use of GPS, Recconnaitory traverse, Structural Mapping (1:1000) scale, Oriented Sampling, Shear zone studies, Visit to mines.
+
+## GS 507: Engineering & Ground Water Geology
+- Credits: 6
+- Type: Theory
+- Description: Engineering geological and hydrogeological explorations. Concepts of stress, strain, Mohr circle and failure theories. Engineering properties of rocks, and soils and their classifications. Weathering. Discontinuities in rock masses. Engineering behaviour of rock materials and rock masses. Rock slope stability, landslides and stability of structures, construction materials, dams and reservoirs, tunnels and excavations, foundations and structures in earthquake prone regions. Engineering geological aspects of weaker materials. Reinforcements of rock masses. Site investigations and important case studies.  Hydrologic cycle, runoff estimation, vertical distribution of soil moisture, groundwater, aquifer systems, springs, groundwater flow, coastal aquifers and seawater intrusion, well hydraulics...
+
+## GS 517: Solid Earth and Exploration Geophysics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to geophysical methods of exploration and their applications, physical properties of rocks, minerals and ores, types and scales of survey. Principles of gravity and magnetic methods, Working principle of gravimeters, fluxgate and proton precession magnetometers, gravity and magnetic surveys, data reduction, anomalies, geological interpretation and modeling for simple geometrical shapes. Fundamentals of electrical and electromagnetic methods of prospecting, origin of self potential and induced polarization, surveys, instruments, application and interpretation. Theory and geometry of seismic wave propagation, Reflection and refraction methods, CMP technique, seismic sources and arrays, Data processing  sequence, velocity analysis, stacking and migration, Seismic interpretation. ...
+
+## GS 519: Ore Petrography Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Study of optical properties of ore minerals under incident light microscope. Preparation of samples. Determination of VHN and reflectivity. Systematic study of ore minerals. Study of ore textures. Fluid inclusion petrography, heating and freezing studies.
+
+## GS 527: Ore Petrology
+- Credits: 4
+- Type: Theory
+- Description: Incident light microscope, sample preparation, reflected light optics. Optical properties of ore minerals. Reflectance and microhardness. Ore textures and paragenesis. Application of ore microscopy in mineral technology. Study of phase diagrams related to ore assemblages and construction of stability diagrams. Geothermometry and geobarometry of ore assemblages. Fluid inclusion studies. Introduction to stable isotopic studies of ores.
+
+## GS 534: Tectonics and Crustal Evolution
+- Credits: 6
+- Type: Theory
+- Description: Composition of crust, mantle and core; plate tectonics; tectonic setting; deformation pattern and magma association, Precambrian   tectonics. Phanerozoic plate tectonics. Evolution of the Himalayas and Indian Ocean. Evolution of Indian subcontinent, Ur to Rodinia to Gondwanaland.
+
+## GS 535: Statistical Methods in Geosciences
+- Credits: 6
+- Type: Theory
+- Description: Introduction to probability: random experiments, events, sample space, definitions of probability. Conditional probability and independence of events, Bayes theorm. Random variables, discrete and continuous probability distributions, joint probability distributions, conditional probability distributions. Mathematical expectation, moment generating and characteristic functions. Binomial, Poisson, Normal, Gamma, Exponential, Hypergeometric, Multinomial, Chi-square, t, and F distributions. Introduction to statistical inference, sampling distributions, point and interval estimation, hypothesis testing involving one and two univariate populations. Linear models ANOVA. Linear and multiple regression. Introduction to multivariate techniques PCA, factor analysis, linear discriminant analysis, clas...
+
+## GS 536: Nuclear Geology and Geochemical Prospecting
+- Credits: 4
+- Type: Theory
+- Description: Nuclear fuel cycle, mineralogy and geochemistry of radioactive minerals. classification of uranium deposits, metallogenic epochs and provinces of uranium mineralisation. uranium exploration. nuclear waste disposal.  Principles and methods of geochemical prospecting, pathfinders and trace elements in rocks and soils. Primary and secondary dispersion patterns, geochemical anomalies and their interpretation
+
+## GS 537: Geochemistry and Geochemical Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Chemical composition of the Earth and its constituent reservoirs; meteorite evidence; elementary statistics for geochemistry; major, minor and trace elements including rare earth elements; element partitioning between minerals and melts; oxide-element conversions; radioactivity and geochronology; chemical and isotopic fractionation; application of Rb-Sr and Sm-Nd isotope geochemistry to rock dating, petrogenesis, and crust-mantle evolution; mixing phenomena in elements and isotopes; related numericals.  Introduction to equilibrium thermodynamics; laws of thermodynamics; internal energy, heat capacity, enthalpy and entropy; Gibbs free energy and chemical potential; fugacity and activity; Raoult`s law and Henry`s law; ideal and non-ideal solutions; equilibrium constant; principles of geother...
+
+## GS 538: Petroleum and Coal Geology
+- Credits: 6
+- Type: Theory
+- Description: Origin of petroleum, source rock and maturation of kerogen, palaeothermometers; primary and secondary migration; reservoirs 302226 porosity, permeability and capillary pressure, porosity types in clastic and carbonate reservoirs, reservoir heterogeneity, drive mechanisms; traps and seals 302226 classification of traps; compositin of petroleum, physical and chemical properties of oil; brief idea about the hydrocarbon resources of India, the classification and stratigraphy of petroliferous basins of India. Origin of coal, classification of coal, morphology, composition of peat, lignite, anthracite. Coal series, terminology, structure and petrography of coals; physical and chemical properties of coal; coal reserve in India; brief idea about the world coal resources; exploration of coal; utili...
+
+## GS 539: Engineering Geology and Groundwater Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Study of rocks for their mineralogical, textural, weathering and discontinuity aspects. Engineering properties of rocks, soils, clays and construction aggregates. Maps and numerical exercises. Instrumentation in engineering geology and hydrogeology. Geophysical Surveys resistivity, gravity and magnetic methods. Runoff estimation, borehole data analysis, groundwater exploration, pump test and estimation of aquifer hydraulics.
+
+## GS 541: Analytical Geochemistry Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Chemical analysis of rocks and minerals, digestion techniques, preparation of standards, estimation of major oxide percentages using spectrophotometric / flame photometric and titrimetric methods. Preparation of calibration curves. Gravimetric estimation of silica and R2O3. Determination of U and The using nuclear techniques. Introduction to Neutron Activation Analysis, principles of ICP analysis
+
+## GS 542: Isotope Geology
+- Credits: 4
+- Type: Theory
+- Description: Elements of nuclear systematics, introduction to isotopes and their properties, fundamentals of radiogenic isotope geochronometers, isotope geology of Sr, Nd and  Pb and their applications, thermochronology, introduction to stable isotopes, studies of O, H, S, and C isotopes and their applications, cosmogenic nuclides and their applications, extinct radionuclides, analytical techniques and  mass spectrometers
+
+## GS 543: Computer Programming for Geosciences
+- Credits: 6
+- Type: Theory
+- Description: Development of algorithms and flowcharts. Basic elements of FORTRAN: variables, data types, declarations. Expressions: literals, characters and strings. Arithmetic operations, order of operations, intrinsic functions. Simple inputs and outputs, Input/output formats. Conditional expressions. Logical operations. If statements. Loops. Implementation, testing/debugging. File operations: open, read, write, close. Arrays: static and dynamic array declaration, accessing array elements; arrays of strings, multidimensional array declaration. Functions and subroutines. Derived data types: definition, declaration, arrays of derived data. Modules. Programming exercises in simple numerical analysis and in geoscience application areas. Brief overview of C language.
+
+## GS 548: Geodesy, GPS and Surveying
+- Credits: 4
+- Type: Theory
+- Description: Basis of surveying: Definition, principles, types and various applications of surveying. Scale and reference frame of a map or plan. Geodetic reference frames and coordinate transformations - various reference systems and map projections. Leveling, distance measurement, angles and directions, theodolites, total stations, traverse surveys. Topographic surveying and mapping, Great Triangulation Survey. Satellite positioning, time systems, satellite orbit and signals, Atmospheric effects, GPS observables and data processing, Precision analysis and high precision GPS, Applications of GPS.
+
+## GS 551: Industrial Training
+- Credits: 0
+- Description: 3 weeks in summer vacation after 2nd semester, P/NP on basis of certificate from training centre / lab.
+
+## GS 552: Geological Project
+- Credits: 8
+- Type: Project
+
+## GS 553: M.Sc.-Ph.D. Geological Project
+- Credits: 10
+- Type: Project
+
+## GS 591: Seminar
+- Credits: 4
+- Type: Seminar
+
+## GS 647: Principles and Applications in Isotope Geology
+- Credits: 6
+- Type: Theory
+- Description: Introduction to isotopes and nuclear systematics, analytical techniques and mass spectrometry, equations of radioactive decay and radiogenic growth, geochronology, isotope geology of Sr, Nd, Pb and Ar, and their applications, fundamentals of stable isotope geochemistry, O and H isotopes in the hydrosphere, atmosphere and lithosphere, C isotopes in the Earth’s reservoirs, S isotopes and their applications in ore geology, Cosmogenic nuclides and their applications.
+
+## GS 649: Tectonics and Mechanism of Mobile Belts
+- Credits: 6
+- Type: Theory
+- Description: Definition and mechanism of the Mobile Belt. Distinction between Precambrian & Phanerozoic Mobile Belts. Different tectonic settings of the mobile belts and its relation to mineralis, Contraction tectonics (Thrust)- Thrust tectonics associated with  shortening and thickening of the crust or lithosphere;  fold belts, fold thrust belts, transpression zones, foreland basins, thin skinned tectonics and thick skinned tectonics. Extension tectonics- Extension tectonics associated with the stretching and thinning of the crust or lithosphere as in rift, basin and transtensional sites. Strike slip Tectonics- Strike-slip tectonics associated with the relative lateral movement as a parts of the crust or lithosphere. Tectonic indicator for Transform faults, transfer faults. Mechanism of brittle and du...
+
+## GS 650: Mantle Petrology and Diamonds
+- Credits: 6
+- Type: Theory
+- Description: Internal structure of the Earth. Mineralogy and composition of the upper mantle, transition zone and lowermantle. Polymorphic transformations between olivine, wadsleyite and ringwoodite. Core-mantle boundaryregion and 0" layer. Mineral physics and phase relations of perovskite and post-perovskite in the MgO-FeOAb03-Si02 system. Mantle xenoliths and xenocrysts in volcanic rocks. Majoritic garnet microstructures.Supersilicic  omphacite. Diamond inclusions and superdeep diamonds. Indicator minerals for diamondexploration. Classification schemes of mantle-derived garnets in kimberlite. Geothermometry andgeobarometry of mantle xenoliths. Oxygen barometers and mantle oxidation states. Thermodynamics ofphase transition and mantle convection. Mantle adiabat. Mantle metasomatism. Chemical compositi...
+
+## GS 654: Mining Geostatistics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to the problem of estimation of spatial variables, block grade estimation: effect of support, regionalized variables, random functions and the probablistic formulation of the problem. Spatial law of the random function and hypothesis of stationarity, strict, second order and intrinsic stationarity. Linear estimators, unbiasedness, bariance of estimation and dispersion variance. Experimental variograms and modelling, anisotropy. Regulation. Auxilliary functions. Ordinary kriging. Estimation of global mean and variance.   Coregionalisation, cokriging,non-stationary random funtions and universal kriging.  Introducion to non- conditional and conditional simulation of mineral deposits.  Concept of recoverable reserves, global gradetonnage curves. Introductionto non-linear geostatis...
+
+## GS 656: Geothermics
+- Credits: 6
+- Type: Theory
+- Description: Heat transfer - conduction, convention, radiation, heat flow measurements, structural influence on the heat flow distribution, effect of radioactivity, role of groundwater circulation and changes of state of groundwater.  Natural hydrothermal systems: chemicalnature of hydrothermal systems, hydrothermal solutions, chemical and isotopic geothermometers, origin and age of geothermal resources, rock alteration related to water geochemistry, data collection and processing.  Utilization  of geothermal energy. Economics and managament of geothermal energy. Case histories - Indian and world examples.
+
+## GS 662: Petroliferous basins of India
+- Credits: 6
+- Type: Theory
+- Description: Types of petroliferous basins, relations between basin type and hydrocarbon richness; classification of petroliferous basins of India; Detailed study of stratigraphy, structure and petroleum geology of Assam shelf, Cambay and Bombay offshore basins; Potential source rocks, reservoir rocks and exploration targets of Krishna-Godavari, Mahanadi, Cauvery, Bengal, Kutch, Saurashtra and Rajasthan Basins; Curent status of exploration and prospects in Indo-Gangetic plains, Kashmir valley and Vindhyan Basins.
+
+## GS 663: Exploration Geophysics
+- Credits: 6
+- Type: Theory
+- Description: Seismic Exploration: Theory and geometry of seismic waves, seismic velocity, characteristics of seismic events, seismic sources and equipment. Reflection and refraction field method. Data processing - fourier analysis, convolution, correlation, filtering, velocity analysis, stacking and migration, seismic stratigraphy - seismic sequences, facies and reflection character analysis, hydrocarbon indicators, seismic interpretation.  Gravity and Magnetic methods: Principles and methods of gravity and magnetic prospecting,instrumentation, data processing, interpretation with case studies.
+
+## GS 666: Applied Ichnology
+- Credits: 6
+- Type: Theory
+- Description: Characteristics of trace fossils, preservation, ethology, trophic behaviour. Ichnotaxonomy: classification, ichnotaxobases, composite and compound ichnotaxa, hierarchies. Palaeobiology of trace fossils: modes of life, locomotion and burrowing mechanisms, movement ecology. Ichnofacies models and limitations. Ichnofabric methods: bioturbation, tiering, ichnoguilds, constraints. Palaeoecology: environmental parameters, taphonomy, ichnodiversity, ichnodisparity, ecosystem engineering. Sedimentary environments and their influences on trace makers and vice versa. Reservoir depositional modelling. Ichnology in sequence stratigraphy. Applications of trace fossils in biostratigraphy, anthropology, and geoarchaeology. Ichnological evolution through geologic time: Cruziana ichnostratigraphy, arthroph...
+
+## GS 669: Principles of Photogrammetry
+- Credits: 6
+- Type: Theory
+- Description: Introduction to photogrammetry optics, principles of photography, photographic films, filters, aerial cameras. Vertical photographs - scale, ground coordinates, relief displacement, flying height, stereoscopic viewing, stereoscopic parallax, principles of floating point and stereoscopic methods of parallax measurement, elevations by paralax differences, vertical exageration. Radial line triangulation, planimetric map revosopm, ground control for aerial photography, aerial mosaics. Tilted photographs, stereoscopic plotting instruments. Ortho-photography. Ortho-photography. Air photo interpretation for earth scientists.
+
+## GS 671: Groundwater Exploration
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## GS 672: Reservoir Sedimentology
+- Credits: 6
+- Type: Theory
+- Description: Facies diagnosis and facies models of carbonates, classification of carbonate rocks; standard microfacies types; carbonate diagenesis; porosity evolution and diagenesis in sequence stratigraphic framework; pore geometry and performance of reservoir rocks; relationship of depositional environments with the development of reservoirs. Properties of sandstone, environment of deposition of sandstone; sandstone classification, porosity evolution in course of sandstone diagenesis; characteristic reservoir morphology and criteria for recognition of eolian, fluvial, coastal, deltaic, shelf and basin sandstone bodies; reservoir heterogeneity; petrophysical analysis using logs; reservoir sedimentology of Indian petroliferous basins.
+
+## GS 673: Mineral Exploration
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## GS 674: Applied Rock Mechanics for River Valley Projects
+- Credits: 6
+- Type: Theory
+- Description: Rock Mechanics, its applications, rock rheology, basic concepts of rock excavation and its utility. Open excavations: dams, reservoirs, canals, outfalls, trenching, cutting, ripping, highways. Underground excavation: Tunnels, Caverns, Bunkers. Engineering rock properties and its applications and determination, in-situ stress measurement techniques, flat jack, hydrofracturing, drilling and blasting practices, water-rock interaction – effect on physical properties, stress-distribution in and around openings, stabilization and strengthening of structures.  Soil/rock transportation and erosion, fluid migration through porous media and its effects on time dependent behaviour of rock, rock dynamics, rock mechanics aspects of reservoir performance, fracture mechanics, damage mechanics and natural...
+
+## GS 675: Petroleum Exploration
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Origin and composition of petroleum and natural gas, source rocks, reservoir rocks and traps. Migration and accumulation of oil and gas. Types of petroliferous basins and their relation to hydrocarbon potential. Geographic and stratigraphic distributions of oil and gas. Methods and techniques for petroleum exploration, Surface indications and direct detection of hydrocarbons. Sub-surface geological methods and brief idea about geologic interpretations of seismic data. Drilling methods, drilling equipments, drilling fluids, well-logs. Estimation of reserves and resources. Petroleum economics, production and development geology.
+
+## GS 676: Well Logging
+- Credits: 6
+- Type: Theory
+- Description: Well logging and geology, Formation evaluation, Archie’s formulae, Well drilling technology, Drilling fluids, Borehole environment, Invasion profiles, Principles, methods and application of logging tools including Spontaneous polarization, Resistivity, Microresistivity, Induction, Sonic, Density, Litho-density, Neutron, Pulsed neutron, Natural Gamma ray, Gamma ray spectrometry, Cement bond, Variable density, Caliper, Dipmeter, Formation microscanner and imager. Well log interpretation - quick look techniques, Hingle, Pickett, MID, M-N cross plots, saturation estimation, lithology, porosity and permeability determination, Log interpretation case studies.
+
+## GS 677: Remote Sensing, GIS and GPS
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Fundamentals of remote sensing, digital image data formats, image rectification and restoration techniques – geometric correction, radiometric correction and noise suppression, image histograms, density slicing, image enhancement techniques – contrast manipulation, spatial filtering and edge enhancement, multi-image manipulations – spectral ratioing, vegetation indices, principal components analysis, multi-spectral image classification involving supervised and unsupervised algorithms, Recent developments and applications. Fundamentals of GIS, vector, raster and attribute data models, vector and raster data structure, spatial data input and editing, visualization and query of spatial data, spatial data transformations, spatial analysis, case studies of geological applications, current issue...
+
+## GS 678: Advanced Geomorphology
+- Credits: 6
+- Type: Theory
+- Description: Geomorphology and applied geomorphology: an introduction, techniques of geomorphic analysis of landforms, slopes, drainage and processes, morphometry, terrain classification, Remote sensing and GIS as tools in geomorphic applications. Applied fluvial geomorphology, applied geomorphology in coastal zone studies, mineral prospecting, surface and sub-surface hydrology, river-valley projects, land use planning, hazard and risk studies, environmental studies and military intelligence.
+
+## GS 679: Basin Analysis and Applied Micropalaeontology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Basin classification and their characteristics; tectonic framework of basins and their architecture; economic significance of basin analysis; facies concept, process-response models and interpretation of sedimentary environments; carbonate and clastic facies models; seismic facies and stratigraphy; well-log facies application in sequence stratigraphy; sequence stratigraphy; stratigraphic correlation; basin mapping – structure and isopach contouring, lithofacies and biofacies maps, preparation of stratigraphic cross- sections and palaeogeographic synthesis; regional and global stratigraphic cycles. Surface and subsurface sampling methods for micropalaeontological studies; brief description of major microfossil groups used in hydrocarbon exploration; palaeoenvironmental interpretation using ...
+
+## GS 680: Rock Slope Analysis
+- Credits: 6
+- Type: Theory
+- Description: Slope stability, basic concepts and definition, stability as applied to Soils and rock, role of Slope Stability in Economic design and operation, classification and mechanics of slope failure, fall, slides, flows, plane, wedge, circular, toppling, buckling, Prandtle type, block and key block failures. Factors affecting slope stability: geological, structural, geometry, geotechnical, blasting and dynamic loading, time and rock types. Slope stability analysis, deterministic and probabilistic approaches, method of slope stability analysis, factor of safety, stability charts and its applications, physical, analytical and mechanical methods in slope analysis. Landslides – causes, prediction, prevention and monitoring for stability. Field instrumentation, monitoring and  design of stable slopes,...
+
+## GS 681: Underground Excavation Technology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## GS 682: Industrial Mineralogy
+- Credits: 6
+- Type: Theory
+- Description: Industrial minerals: Introduction to Mineral Economics, Mineral Processing and mineral engineering, Basic Analytical techniques used in industrial mineralogy. Crystal growth – high purity and Laser crystals. Artificial Colour enhancement techniques on gemstones, Formation, distribution and evaluation of industrial minerals. Detail studies on individual industrial minerals: Asbestos, Barite, Al silicates, oxides, Borates, Fluorites, REE minerals, Sulphates, Carbonates, Clay minerals, Phosphates, Iron oxides, pigments, Industrial Diamond, Zeolites and Gemstones.
+
+## GS 683: Advanced Structural Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Shear Zone: faults, definition, mechanism of formation, fault and earthquake, P-wave fast motion analysis, rock types in a faulted zone, cataclasites and pseudotachylites, formation and analysis, shape and size analysis of clasts, ductile shear zone, definition, simple shear and pure shear deformation, two dimensional and three dimensional strain, transpression and transtension, strain pattern in transpression and transtension, kinematics of the ductile shear zone, riedel shears, volume strain, computation of strain, extensional veins and progressive deformation, examples of crustal scale shear zone and their implication in plate dynamics.Structural analysis of Petroleum reservoirs: methods, source, entrapment, seal; 3D subsurface mapping: Seismic, petrophysics, mudlog, geochemistry; Drive...
+
+## GS 684: Applied Multivariate Statistical Analysis in Geology
+- Credits: 6
+- Type: Theory
+- Prerequisite: GS 509
+- Description: Introduction to multivariate data, organization of data, descriptive statistics, matrix algebra and random vectors, mean vectors and covariance matrices. Cauchy-Schwarz inequality, extended Cauchy-Schwarz inequality and maximization of quadratic forms. Sample geometry and random sampling. Multivariate Normal Distribution. Multivariate Sampling Distributions, MANOVA. Multivariate Linear Regression. Principal Components, factor analysis, Canonical Correlation, Discrimination and Classification, Cluster Analysis.
+
+## GS 685: Aqueous Environmental Geochemistry
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## GS 687: Methods in Structural Geology
+- Credits: 5
+- Type: Laboratory
+- Prerequisite: 0
+
+## GS 688: Petroleum Geochemistry
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Composition and structure of organic matter, Organic matter accumulation, maturation process, Characterization of hydrocarbon source rocks, Modelling petroleum maturation and migration, Introduction to different biomarkers used in oil exploration, biomarkers and source rock-oil correlation, oil-oil correlation using biomarkers, thermal degradation and biodegradation of crude oil. Introduction to different techniques used in petroleum geochemistry including optical methods applied to source rock study, vitrinite reflectance, elemental composition of kerogen. LECO, Rock Eval Pyrolysis, Gas Chromatography-Mass Spectrometry (GC-MS), Fourier Transformed Infrared Spectroscopy (FTIR). Identification of petroleum systems, application of basin modelling to petroleum exploration, identification and ...
+
+## GS 689: Modern Analytical Methods in Geosciences
+- Credits: 5
+- Type: Laboratory
+- Prerequisite: 0
+
+## GS 691: R & D Project
+- Credits: 6
+- Type: Project
+
+## GS 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## GS 697: II Stage Project
+- Credits: 32
+- Type: Project
+- Prerequisite: 0
+
+## GS 698: III Stage Project
+- Credits: 42
+- Type: Project
+
+## GS 701: Seismic Data Processing and Seismic Stratigraphy
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Theory and geometry of seismic wave propagation, Seismic wave velocities in rocks, Review of marine and land seismic data acquisition techniques; Fundamentals of time series analysis, auto and cross correlation, convolution, sampling theorem and aliasing, filtering, deconvolution; Data enhancement techniques – Noise reduction, traveltime correction, stacking, wavelet processing, frequency filtering, velocity analysis, amplitude correction, migration techniques, Seismic interpretation – typical trap types and their seismic definition, velocity, structural and timing effects; Basic concepts, definitions and objectives of seismic stratigraphy, Stratigraphic patterns in seismic data, Seismic attribute analysis, Seismic sequence analysis - interpretation of depositional environment and litholog...
+
+## GS 702: Well-site Geology and Formation Evaluation
+- Credits: 6
+- Type: Theory
+- Description: Duties of a well-site geologist. Geotechnical order. Coring and core analysis. Examination of well cuttings. Preparation of lithologs. Drill time logging, mud logging. Detection of oil and well logging. Preparation of composite logs. Principles of formation testing. Well completion, well acidisation, velocity shooting and fracturing. Concept of formation evaluation and log interpretation. Response of logging tools and borehole effect on log measurements. Logging practices, log quality control and environmental correction on well log measurements. Lithology plots. Saturation, irreducible saturation and permeability studies from well logs. Shaly sand analysis. Cementing quality monitoring. Constant bottomhole pressure tests. Practical aspects of design and performance of field tests. Analysi...
+
+## GS 703: Structural Geology and Subsurface Geological Mapping
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Brittle and ductile deformation of rocks. Mechanisms of deformation. Folds, faults and fault-fold association. Balanced cross section. Fractured reservoirs. Effects of faulting on reservoirs. Mapping faults and faulted surfaces, Structural style in different tectonic settings. Structures in compressional, extensional and strike-slip terranes, Gravity induced structures. Diapirism. Stratum contour and isopach maps for structural and stratigraphic interpretation of reservoir units.
+
+## GS 704: Sequence Stratigraphy
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Historical developments of sequence stratigraphy, key concepts, transgressions and regressions. Sequence stratigraphic surfaces, types of stratal terminations, Systems tract: Lowstand systems tract, Highstand systems tract, Falling stage systems tract, Regressive systems tract. Hierarchy of sequences and sequence boundaries; Sequence stratigraphy of hydrocarbon reservoirs; Applications to source rocks exploration. Application of sequence stratigraphy in clastic and carbonate depositional systems. Case studies showing applicability of sequence stratigraphic concepts for understanding petroleum plays.
+
+## GS 705: Oilwell Drilling Technology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to drilling methods, types of drilling operations, Designing an oil well, Downhole equipment, The drilling rig - its components and functions,  rig sizing and selection, Drilling fluids, Wellheads, Casing and cementing operations,  Principles of kick control, fishing jobs, The drill stem test (DST). Drilling a well- from top to bottom, Drilling methods and equipment for directional, horizontal and multilateral wells. Prediction of formation pore pressure and stress gradients. Determination of safety mud weight bounds for different in-situ conditions. Types of offshore drilling rigs- bottom founded vs. floating, Special issues for offshore drilling operations- motion compensation, station keeping. Stresses around a borehole, hole stability. Drilling in overpressured regimes, Dr...
+
+## GS 706: Petrophysics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Fundamentals of petrophysics. Porosity, permeability, capillary action in porous media, relative permeability, Interaction between petrophysical parameters. Borehole environment. Invasion profiles and invasion characteristics. Hydrocarbon mobility. Acquisition of petrophysical data. Data quality assurance. Presentation of petrophysical data. Measurement of natural gamma rays. Formation waters, Importance of formation water characteristics. The SP curve. Well-site log evaluation. Formation resistivities. Shallow and deep resistively measuring devices. Fluid zones and capillary pressure, capillary pressure saturation. Case studies with well log, core analysis and well pressure data.
+
+## GS 708: Petroleum Geostatistics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to applications of geostatistics in petroleum geoscience; Introduction to basic statistics: random variables, univariate and joint probability distributions, expectation, variance, covariance, conditional distribution. Introduction to random functions, stationarity, second-order stationarity, quasi-stationarity, intrinsic random functions, non-stationary random functions coregionalization; covariance and variogram, properties and modeling, concepts of regularization and change of support; estimation: ordinary and simple kriging, cokriging; transfer functions: indicator kriging. Simulation of random functions: non-conditional and conditional simulation, sequential simulation, LU-based simulation, simulated annealing, co-simulation; truncated Gaussian and indicator simulation; i...
+
+## GS 709: Reservoir Geomechanics
+- Credits: 6
+- Type: Theory
+- Description: Course description and objectives:  This course is being proposed for the M.Tech. students of the Department of Earth Sciences who specialize in the field of petroleum geosciences.  The eligible students require to have some knowledge in rock-mechanics and/or structural geology and the course introduces an integration of the two subjects with petroleum science and engineering from the geomechanical perspective. The key objectives of the course are: 1. Introduce the principles of geomechanics that are relevant to oil and gas reservoirs 2. Detailed poromechanics of reservoir rocks 3. Introduce various tools and techniques for stress-strain estimation in reservoirs 4. Mechanics of well bore stability, hydro-fracturing and compaction and subsidence 5. Detail evaluation of the geomechanics of u...
+
+## GS 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Science, scientific knowledge, and scientific publishing. Scientific publications of various types (books, journals, reports, etc.) 2.Key aspects of English writing. Scientific English, correct use of grammar and punctuation, use and misuse of English, avoiding jargon and common errors, British, American and Indian English.  3.Presenting analytical data: designing effective tables and illustrations (line drawings, graphs and charts, photographs) and captions for these.    4.Writing research papers. The structure and components of research papers (title, abstract, introduction, materials and methods, results, discussion, conclusions, references). 5.Preparing, submitting, revising and publishing scientific manuscripts. The peer-review process. Dealing with editors and reviewers. 6.Writing ...
+
+## GS 795: I Stage Project
+- Credits: 36
+- Description: I-Stage Project -for Petroleum Geoscience (30 Credits) from the Academic Year 2013-14.
+
+## GS 796: II Stage Project
+- Credits: 50
+- Prerequisite: 0
+- Description: II Stage Project - for Petroleum Geoscience (50 Credits) from Academic Year 2013-14
+
+## GS 797: I Stage Project
+- Credits: 35
+- Prerequisite: 0
+
+## GS 798: II Stage Project
+- Credits: 55
+- Prerequisite: 0
+
+## GS 818: Metamorphic Phase Equilibria
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: x
+
+## GS 820: Continental Deformation and GPS Geodesy
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: x
+
+## GS 822: Organic Geochemistry
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GS 824: Pegmatology
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GS 826: Topics in Isotope Geology
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## GS 827: Seismology and Earth Structure
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: x
+
+## GS 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## GSP602: II stage project
+- Credits: 16
+- Type: Project
+
+## GSP603: III stage project
+- Credits: 20
+- Type: Project
+
+## GSS801: Seminar
+- Credits: 4
+- Type: Seminar

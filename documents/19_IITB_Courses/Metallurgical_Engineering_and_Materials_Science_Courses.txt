@@ -1,0 +1,888 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Metallurgical Engineering and Materials Science - Course Catalog for IIT Bombay Students
+
+
+## MM 103: It`s a materials world !
+- Credits: 6
+- Type: Theory
+- Description: History of materials: The Ages of Stone and Clay, Metals: Copper and Bronze, Gold, Silver, and the Rise of Empires, Iron, History of Glass, Steel: Master of Them All, The Age of Silicon  Indian perspective - Iron, Bronze and Zinc smelting  * The 19th century - industrial revolution. Evolutionary perspectives in geology, biology and society. The professionalization of Science and development of its secular and elite character. * The 20th century - the birth of new physics and chemistry of the atomic and subatomic world, and related technologies. The growing knowledge of cellular and molecular biology, and human diseases.  The present - examples of interesting materials from around us, and their technical significance.  Synthesis of processing-structure-property-performance and how character...
+
+## MM 104: Materials Tetrahedron
+- Credits: 6
+- Type: Theory
+- Description: Extraction and Manufacturing and its impact on economy; Challenges and excitement of manufacturing; Recent developments in manufacturing Understanding Technology in Manufacturing Extraction of materials - examples such as Silicon, Iron, Lithium, Aluminum, Rare earths, Bauxite, Zircon, Crude oil  ●  Techniques for materials processing / manufacturing (metals, ceramics, polymers, glasses) illustrated with examples of manufacturing of various components / parts -   Bulk materials (casting, mechanical working, molding, extrusion, growth of single crystals etc) Particulate materials - Ceramics, Metals (Shape forming, sintering, additive manufacturing) Thin films and coatings (PVD, CVD, thermal spray) Processing of fibers and composites Joining of materials (welding, brazing, soldering, adhesive...
+
+## MM 105: It-s a materials world!
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: ●Extraction of materials - examples from Silicon, Iron, Lithium, Aluminum, Rare earths, Bauxite, Zircon, Crude oil Manufacturing and its impact on economy; Challenges and excitement of manufacturing; Recent developments in manufacturing Bulk materials (casting, mechanical working, molding, extrusion, growth of single crystals etc) Particulate materials - Ceramics, Metals (Shape forming, sintering, additive manufacturing) Thin films and coatings (PVD, CVD, thermal spray) Processing of fibers and composites Joining of materials (welding, brazing, soldering, adhesives) ● Synthesis of processing-structure-property-performance (heat-treatment and phase diagram) and how characterization is used. Reinforce the idea that performance is limited by failure, and properties of materials - using specif...
+
+## MM 152: Materials & Technology
+- Credits: 6
+- Type: Theory
+- Description: Classes of materials, their properties and applications. Metals, alloys, intermetallics, oxide and non-oxide ceramics, polymers, composites, semiconductors. Atomic, molecular, crystal structures and microstructure of materials. Crystalline (single, polycrystalline) and amorphous materials. Thin films, coatings. Structure-property correlations in materials. Processing of materials. Environmental degradation of materials. Status of metallurgical and materials industry in India. Overview of frontier areas in metallurgy and materials science.
+
+## MM 201: Structure of Materials
+- Credits: 6
+- Type: Theory
+- Description: Classification of materials. Geometry of crystals, symmetry and point groups, Bravais lattice, unit cells. Atomic packing factor and theoretical density. Fractional coordinates, Crystallographic directions and planes. Interplanar spacings and angles, zone axis. Diffraction of X-Rays, Bragg302222s Law, structure factor and intensity calculations. Applications of XRD: Identification of phases, lattice parameter determination, solvus line, crystallite size, superlattice lines.Amorphous materials and glasses. Polymeric structures.Defects in crystals. Point defects, dislocations, Burgers vector and its representation. Planar defects: stacking faults, twins, grain boundaries.Equilibrium phase diagrams, cooling curves, phase rule, lever rule and invariant reactions. Introduction to important bina...
+
+## MM 202: Thermodynamics of Materials
+- Credits: 8
+- Type: Theory
+- Description: Laws of thermodynamics, concepts of reversibility, internal energy, enthalpy, entropy, maximum work, free energy, fugacity, activity and chemical potential, homogeneous and heterogeneous equilibria, phase rule, properties of solutions and concepts of partial molal properties, alternative standard states and interaction parameters, statistical concepts of entropy. Basic kinetic laws, order of reactions, rate constant, elementary and complex reactions, rate limiting steps and Arrhenius equations, theories of reaction rates - simple collison theory, activated complex theory.
+
+## MM 203: Mechanics of Materials
+- Credits: 6
+- Type: Theory
+- Description: Ceramic classification based on structure and properties - electrical, magnetic and optical ceramics, mechanical behaviour, ceramics for high strength, high temperature and structural applications, glass ceramics, ceramic coatings and composites.  Preparation and characterization of ceramic powders, shape forming, sintering and hot pressing techniques, Joining of ceramics to metals/ceramics.
+
+## MM 204: Transport Phenomena
+- Credits: 8
+- Type: Theory
+- Description: Space lattice, crystal structure of ionic, covalent and metallic materials. Crystallographic directions and planes. Points defects, dislocations and twin, grain-boundaries, Structure of silicates and polymers. Solid solution and intermetallic compounds. Binary phase diagrams of important ferrous and non-ferrous alloys and related microstructures. Elements of ternary diagrams.
+
+## MM 206: Experimental Techniques in Materials Science
+- Credits: 6
+- Type: Theory
+
+## MM 207: Engineering Metallurgy
+- Credits: 6
+- Type: Theory
+
+## MM 209: Thermodynamics of Materials
+- Credits: 8
+- Type: Theory
+
+## MM 210: Numerical Methods for Materials Engineers
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Preliminaries: Errors, precision, accuracy, evaluating efficiency of algorithms Solution of non-linear equations: bisection,  Newton-s method, fixed point iteration Examples / case studies: defect concentration in stoichiometric and non-stoichiometric compounds, moving boundary problem in diffusion Linear algebra: Elimination methods, inverse of a matrix, ill-conditioned systems, iterative methods, eigenvalues and eigendirections Examples / case studies: principal directions and principal values, Hall-Petch coefficient evaluation, longitudinal and transverse wave velocities using determinantal approach Interpolation and curve fitting: Interpolating polynomials, spline, B-spline, least squares approximation: Examples / case studies: specific heat as a function of temperature, lattice parame...
+
+## MM 212: Metallography and Structural Characterisation Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Techniques of specimen preparation for metallography: grinding, mechanical polishing, electropolishing, etching.  Etchants for various alloys.  Metallographic sample preparation of ferrous and nonferrous specimens for optical microscopy.  Microstructural examination and identification of phases in various ferrous and nonferrous alloys.  Quantitative metallography.  Indexing of powder X-Ray diffraction patterns.  Demonstrations of thermal analysis and SEM & EDAX. Experiments in Metallography Lab: Preparation of metallographic samples; Quantitative metallography; Observation of microstructures of standard ferrous and nonferrous samples; Powder XRD - indexing of diffraction peaks; Thermal Analysis; SEM & EDAX
+
+## MM 215: Experimental and Measurement Laboratory
+- Credits: 4
+- Type: Laboratory
+
+## MM 217: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+
+## MM 218: Process Kinetics and Transport
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Overall balances of mass and energy, Bernoulli equation  Chemical reaction kinetics: homogeneous vs heterogeneous reactions. Reactions in series/parallel.  Rate equations. Order and molecularity of reactions.  Langmuir isotherm (intro). Rate theories. Arrhenius equation.  Fluid flow: Newton`s law of viscosity, flow through a tube, Buckingham Pi theorem, friction factor, flow over flat plate and curved surfaces, boundary layer theory Heat and mass transfer fundamentals: heat and mass diffusion equations, Radiation heat transfer coefficient, convection heat and mass transfer   Rates at different scales; reaction between porous solid and fluids. Packed bed involving reactions.
+
+## MM 219: Structure of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Crystalline, amorphous and other materials (liquid crystals, quasicrystals, 2D materials); Concept of symmetry and crystals (lattice + motif) and translational periodicity; Bravais lattices, unit cells and primitive cells. Introduction to point groups and space groups. Fractional coordinates, crystallographic directions and planes in cubic and non-cubic systems. Interplanar spacings and angles, zone axes.  Review of common crystal structures in metals (fcc, bcc, hcp) and ceramics (rock salt, zinc blende, wurtzite, spinel, perovskite, etc), ordered structures and notations, network solids (silica, silicates, etc);  Pauling-s rules;  Stereographic projection; reciprocal lattice; crystal defects - point defects in metallic and ionic crystals (Kroger-Vink notation), dislocations, Burgers vecto...
+
+## MM 220: Computation Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to MATLAB/Octave. Plotting and script writing Or, recall of Python and scientific computing using Python. 2. Finding roots of a system of linear/non-linear equations (bisection, Newton-s method, fixed point iteration) 3. Elimination methods, inverse of a matrix, ill-conditioned systems, iterative methods, eigenvalue problems 4. Interpolation and curve fitting: Interpolating polynomials, spline, B-spline, least squares approximation 5. Numerical differentiation and integration: Numerical differentiation, Trapezoidal rule, Simpson-s rule, Fourier series and Fourier transform, Adaptive integration, Quadrature 6. Numerical solution of ODEs: Taylor series, Euler and associated methods, Runge-Kutta methods, Multistep methods, Higher order equations  7. Optimization: Finding minimum ...
+
+## MM 221: Sensors and Measurements Lab
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Op-amps revision and introduction to LTspice simulation package for circuit design Active components including diodes, transistors and optically active components Passive components such as resistors and capacitors Sensors such as temperature sensors, pressure sensors, photodiodes Closed-loop control and simulation using Scilab Xcos  Experiments:  Concepts of measurement, calibration and errors Passive components: fabrication and electrical characterization Active optoelectronic components: electrical characterization and correlation with material properties. Utilizing these components in simple circuits for various applications. Sensors: fabrication and calibration of sensors, for example, for temperature and pressure measurement Closed-loop control and data acquisition.  Lab project comp...
+
+## MM 222: Electrochemistry of Materials and its Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Fundamentals: The scope of electrochemistry, Electrochemical cell, Electrochemical potential, Standard electrode potential, Basic understanding of electrochemical cell voltage Thermodynamics of electrochemical reaction, Reference electrode, Nernst equation, Electrode-solution interface - double layer Electrochemical kinetics: Polarization, Butler - Volmer equation, Tafel equation, Linear polarization, Mass transport effect.  Applications: Electrochemical energy storage: Electrochemical capacitor - principle and operations, capacitance, energy density, power density, materials aspects; Advanced battery systems - principle, operations, materials aspects  Electrochemical sensors: detection principles, sensitivity, factors affecting sensitivity, examples, and electrochemical biosensors.  Corro...
+
+## MM 223: Thermodynamics of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Basic terminologies. Simple thermodynamic systems (Hydrostatic system, Electrochemical Cell, Dielectric Slab, Paramagnetic Rod).  Zeroth Law and Thermal Equilibrium. Thermometers and measurement of temperature.  Concept of work for simple systems (P-V work, stretched wire, polarization, magnetisation, moving charge). Differential Form of the First Law. Heat Capacity and its measurement. Adiabatic Flame Temperature. Concept of reversible and irreversible processes. Kelvin-Planck and Clausius statements of the Second Law. Statistical interpretation of temperature and entropy. Thermodynamic potentials. Mathematical methods: Reciprocal Theorem, Triple Product Rule, Maxwell-s relations. Third Law and its experimental verification. Open systems and the concept of chemical potential. Properties o...
+
+## MM 224: Electrochemistry and Corrosion Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Assemble an electrochemical cell with a working electrode, reference electrode and demonstration of Nernst equation that illustrates equilibrium potential measurement. 2. Electrochemical potentiodynamic polarization where kinetics of metal corrosion will be illustrated, along with differences in passivation behaviour contrasting stainless steel with mild steel as an example  3. Weight loss experiments to illustrate measurement of corrosion rate and correlation with corrosion current measured using polarization  4. Electrochemical impedance spectroscopy to illustrate the effect of corrosion inhibitors on film resistance. Compare with and without corrosion inhibitors in the corrosive medium.  5. Cyclic Voltammetry and deriving parameters (can show reversible vs non-reversible) 6. Measurem...
+
+## MM 225: AI and Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Programming Basics (Python programming, basic data structures in Python, Data handling, Introduction to data file i/o, Introduction to n-d arrays (numpy), Introduction to plotting (25%) 2. Introduction to Probability (25%). Sample Spaces and events Probability axioms. Properties of Probability, Counting Techniques. Random Variables. Expectations and Variances. Visualizing PDF: Point plot, PDF, CDF, histogram, binning issues in histogram. Conditional probabilities and conditional expectation. Independence. Important discrete and continuous distributions. Bivariate distributions. Visualization of relationship between two variables: bi-variate histogram, conditional PDFs. Joint Probability distributions. Multivariate Normal Distributions with the corresponding mean vectors, variance-covari...
+
+## MM 301: Phase Transformations
+- Credits: 8
+- Type: Theory
+- Prerequisite: MM 202
+- Description: Free energy - composition diagrams for binary systems. Diffusion in interstial and substitutional solid solutions. Atomic mobility and vacancy diffusion. High diffusivity paths. Kirkendall effect. Diffusion in ceramics, Applications of diffusion equations. Homogeneous and heterogeneous nucleation in a single component system. Interface and diffusion controlled growth. Coherent, semicoherent and incoherent interfaces. Transformations controlled by heat flow. Solidification of a single phase alloy. Dendritic and cellular growth. Kinetics of eutectic and eutectoid transformations, precipitation and dispersion hardening. Cold work, recovery and recrystallization. Grain growth. Order-disorder changes. Elements of martensitic transformation. Hardening and tempering phenomena.
+
+## MM 305: Kinetics of Processes
+- Credits: 6
+- Type: Theory
+- Prerequisite: MM 204
+- Description: Thermodynamics vs kinetics; Homogeneous vs heterogeneous   reactions.   Chemical reaction kinetics: order of reactions, Arrhenius equation. Rate   theories. Homogenous reactions. Ideal batch reactors, continuous stirred   tank reactors, plug flow reactors. Residence time & RTD. Mixing. Design   of    reactors for homogenous reactions.   Heterogeneous Reactions - Elements of mass transfer, diffusion in   fluids,   mass transport equation, mass transfer coeff. Mass transfer in porous materials, ordinary & Knudsen diffusion, pore size distribution.   Adsorption : Physical vs chemical, Adsorption isotherms, BET method.   Surface reactions & their kinetics.   Fluid-fluid reactors with homogeneous& heterogeneous reactions.   Fluid-solid contactors / reactors: packed bed, fluidized bed. Heat   tr...
+
+## MM 312: Heat Treatment Laboratory
+- Credits: 5
+- Type: Laboratory
+- Description: Determination of critical temperatures, hardenability, effect of cooling rates quenching media. Studies of tempering phenomena, carburising, heat treatment of special steels. Group discussions on heat treatment processes like annealing, normalising, hardening and tempering, special heat treatment processes like austempering, martempering surface hardening, carburising, carbonitriding, nitriding, cyaniding etc.
+
+## MM 318: Electronic Properties of Materials
+- Credits: 8
+- Type: Theory
+- Description: Geometry of crystals. Reciprocal lattice, reflection condition and Bragg302222s law. Free electron theory of metals. Kronig-Penney model. Brillouin zones, Energy bands, energy-wavevector diagrams. Conductivity in metals and Hall effect.Semiconductors: intrinsic and extrinsic. Carrier concentration, effective mass, Fermi energy determination. Dielectric and Optical properties- polarization, types and mechanisms, macroscopic and local fields, polarizability. Dispersion and complex dielectric constant. Complex refractive index, Transmission, Reflection, Absorption and Plasma resonance. Magnetic Properties 302226 Paramagnetism, Curie-Weiss law, Pauli paramagnetism, molecular field theory, exchange interactions, ferro-, anti-ferro and ferri-magnetism. Soft and hard magnetic materials. Magnetiza...
+
+## MM 319: Mechanical Behaviour of Materials
+- Credits: 8
+- Type: Theory
+
+## MM 320: Principles of Process Metallurgy
+- Credits: 6
+- Type: Theory
+- Description: Part-A: Mineral processing Metallurgical accounting and control, characterization of particles, sizing, fluid dynamics, comminution, liberation,  gravity separation, surfaces and interfaces, froth flotation, Solid-liquid separation.  Part-B: Extraction metallurgy  Thermodynamic principles, reaction kinetics, fuel preparation, copper and zinc smelting. Hydrometallurgy principles and unit operations, hydrometallurgical flow-sheets (Bayers process). Electrometallurgy principles. Aluminium production by fused salt electrolysis (Hall-Heroult cell). General methods of refining.
+
+## MM 322: Casting and Joining Lab
+- Credits: 1
+- Type: Laboratory
+- Description: Tungsten inert gas welding of mild steel and stainless steel plates. Determination of weld thermal cycle, cooling rate and macrostructure. Microstructural characterization of welds Induction melting + Centrifugal casting + ESR. Aluminum casting + Metal matrix composite by stir casting. Determination of casting macrostructure.
+
+## MM 323: Manufacturing Processes Laboratory
+- Credits: 1
+- Type: Laboratory
+
+## MM 324: Polymer Science and Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: History and introduction, classification of polymers, examples of natural, biological and synthetic polymers, commodity vs speciality polymers  Different definitions of molecular weight, polydispersity index  Chemical nature and polymer synthesis (addition, free radical, anionic, synthesis of stereo polymers). Introduction to recent synthesis methods, e.g., click chemistry. Polymer statics: chain conformation and statistical descriptions, random walks, molecular structure and size, description of different characteristic length scales Separation of polymers by molecular weight: Size-exclusion and gel permeation chromatography, applications: DNA finger printing Polymer thermodynamics: Flory-Huggins theory, chain entropy, solution and melt thermodynamics of polymers, phase separation in poly...
+
+## MM 325: Phase Transformations
+- Credits: 8
+- Type: Theory
+- Description: Free energy - composition diagrams for binary systems. Diffusion in interstial and substitutional solid solutions. Atomic mobility and vacancy diffusion. High diffusivity paths. Kirkendall effect. Diffusion in ceramics, Applications of diffusion equations. Homogeneous and heterogeneous nucleation in a single component system. Interface and diffusion controlled growth. Coherent, semicoherent and incoherent interfaces. Transformations controlled by heat flow. Solidification of a single phase alloy. Dendritic and cellular growth. Kinetics of eutectic and eutectoid transformations, precipitation and dispersion hardening. Cold work, recovery and recrystallization. Grain growth. Order-disorder changes. Elements of martensitic transformation. Hardening and tempering phenomena.
+
+## MM 327: Mechanical Behaviour of Materials
+- Credits: 8
+- Type: Theory
+
+## MM 329: Diffusion and Phase Transformations
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Basics of Phase diagrams: Gibbs free energy 302226 composition diagrams; introduction to ternary phase diagrams. Diffusion: steady vs non-steady states, driving force and mechanisms, Fick302222s first and second laws. Interstitial and substitutional diffusion, high diffusivity paths. Introduction to interfaces: solid-vapour interface, grain and phase boundaries, coherent and incoherent interfaces, ledge growth, rate controlling steps, Gibbs-Thompson effect. Phase Transformations: Basics of nucleation and growth in diffusional transformations; devitrification in glass-ceramics; Johnson-Mehl-Avrami-Kolmogorov analysis; precipitation in Al-alloys and alumina-magnesia ceramics; pearlite and bainite transformations in steels; martensitic transformation in steels and zirconia ceramics; order-dis...
+
+## MM 331: Mechanical Behaviour of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Mechanics Concepts: Axially loaded members: axial force, Bending and shearing stresses in beams: types of beams, loads and reactions, shear and bending moment diagrams of beams; Torsional deformation Stress tensor Strain tensor Plane stress and strain, principal stresses and strains, Stress transformation (Mohr`s circle) Hooke-s Law and anisotropic elasticity,  Isostress and isostrain (composites). Cohesive strength and theoretical shear strength of materials; Types of dislocations (edge, screw and mixed), stress fields, properties and motion of dislocations, dislocation interactions; partials and twinning Plastic deformation in single crystals - slip systems, resolved shear stress Strengthening of materials: work hardening, grain boundary strengthening, solid solution strengthening, preci...
+
+## MM 333: Electronic, Magnetic and Optical Properties of Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Review of periodicity and symmetry of crystals, Reciprocal lattice.   Brillouin zones, reflection condition and Bragg-s law, Laue-s condition for diffraction.-  Kronig-Penney model, Band theory of solids, Energy bands, energy-wavevector diagrams, Density of states, Fermi-Dirac distribution function. Free electron theory of metals-  Semiconductors: Carrier concentration, effective mass, band gap measurement, intrinsic and extrinsic semiconductors. Doping and carrier concentration.-  Dielectric and Optical properties- polarization, types and mechanisms, macroscopic and local fields, polarizability. Dispersion and complex dielectric constant. Complex refractive index, Transmission, Reflection, Absorption and Plasma resonance.-  Magnetic Properties - Paramagnetism, Curie-Weiss law, Pauli param...
+
+## MM 335: Alloy Processing and Characterization Lab
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: XRay diffraction theory - X Ray source, Bragg`s law, Phase identification, determining lattice parameter, significance of peak broadening (FWHM) and peak shift Basics of microscopy - optical, electron microscopy, etching, resolution. Tutorial to teach quantitative metallography principles: Grain size and volume fraction, statistics and error on micrographs of different standard samples (steels, cast iron, brasses-bronzes, Al alloys).  Hardness and tensile test measurement principles, compliance correction and data plotting and extraction Impact test, fatigue test and creep test measurement principles  Experiments: 1. Casting - Induction melting OR Centrifugal casting OR ESR OR Sand casting of steels. Microstructure characterization for defects and inclusions. Density through Archimedes pri...
+
+## MM 337: Processing and Characterization of Non-metallic Materials (Lab)
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Powder characterisation by laser particle size analyser, surface area measurement by BET technique, particle shape by SEM.  Ceramic powder compaction: Effect of additives like binders and lubricants, and compaction pressure on green density, defects in green compacts. Indentation fracture test. Sintering with borosilicate glass powder compacts OR ZnO powder. Sintered density measurements, sintering kinetics, distortion during sintering.  Glass-making and characterization of glass (DSC for Tg or dilatometry for CTE) Plastic injection moulding - anisotropy from tensile test OR Compression moulding - isotropic properties from compression test. 3D printing of polymers - fracture test. Epoxy-fiber composite with different amounts of filler loading. TG-DTA/DSC. Impact test as a function of tempe...
+
+## MM 341: Processing and Characterization Lab: Thin Films
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Lecture:    302225 Theory of film deposition 302226 introduction to gauges, importance of vacuum in thin film deposition, principle of evaporation and sputtering and their variations.    302225 Sol-gel and oxidation processes    302225 Sheet resistance measurement and thickness effect, Hall effect, UV-Vis spectroscopy    302225 Aspects of XRD and SEM/XPS which are specific to thin films Experiments:    302225 1. Thermal evaporation of metal films (Al/Cu):Measure thickness, sheet resistance as a function of thickness for resistivity, Hall measurement for carrier concentration, XRD for phase and reflectance    302225 2. Reactive DC sputtering for TiN coating:Measure thickness, sheet resistance as a function of thickness for resistivity, Optical response-reflectance, nanoindentation for hardn...
+
+## MM 357: Ceramics and Powder Metallurgy
+- Credits: 6
+- Type: Theory
+- Description: Applications of ceramics, Applications of powder metallurgy, Chemical bonding in ceramics, Ceramic crystal structures, structure of glasses, Point defects, Kr-ger-Vink notation, defect reaction equilibria, Dislocations, grain boundaries, stacking faults, space charge in ceramics, Ceramic phase diagrams, Mechanical properties of ceramics, toughening mechanisms, Thermal properties of ceramics, Magnetic, electrical and dielectric properties of ceramics, Production of ceramic and metallic powders, Powder characterization, Processing additives, spray drying, and milling, Dry and cold iso-static pressing, slip casting, tape casting, extrusion, injection molding, Green body characterization methods, Drying, binder removal, Sintering fundamentals, sintering technology, industrial processes, sinter...
+
+## MM 359: Metal Casting and Joining
+- Credits: 6
+- Type: Theory
+- Description: Casting: Introduction to moulding and casting process.  Casting properties of liquid metals.  Casting defects.  Patterns.  Gating and risering systems.  Solidification: Homogeneous and heterogeneous nucleation.  Rate of nucleation.  Solidification of single phase metals and alloys.  Constitutional supercooling.  Solidification of multiphase alloys.  The structure of ingot.  Control of grain structure.  Joining: Principles of fusion and non-fusion methods of joining metallic, ceramic and composite materials.  Arc, plasma, electron-beam and laser welding processes.  Adhesive bonding of metal/polymer and composite systems.  Corrosion characteristics of welds.  Automation in welding.
+
+## MM 362: Mech. Testing Lab.
+- Credits: 2
+- Type: Laboratory
+- Description: Tensile testing. Hardness measurement. Formability testing. Impact testing at room and subzero temperatures. Transverse rupture strength of brittle materials. KIC testing. CTOD testing. Fatigue and fatigue crack growth studies. Fractography.
+
+## MM 396: Seminar
+- Credits: 3
+- Type: Seminar
+
+## MM 406: Semiconductor Devices and Processing
+- Credits: 6
+- Type: Theory
+
+## MM 408: Mechanical Working of Metals
+- Credits: 6
+- Type: Theory
+- Description: Review of stress-strain description and constitutive relationships in elasticity and plasticity. Yield criteria, normality conditions and the associated flow rules. Ideal plastic work, friction work and redundant work. Classification of metal working processes. Metal forming equipment: Hammers, Mechanical and Hydraulic Presses. Open-die and close die forging operations. Classification of rolling mills. Exxtrusion and Wire drawing processes. Stretching, drawing and bending of sheet metal. Slab analysis of plane strain and axisymmetric upsetting, rolling, extrusion and wire drawing processes. Novel forming processes like explosive forming and superplastic forming.
+
+## MM 409: Colloidal & Interfacial Science
+- Credits: 6
+- Type: Theory
+- Description: Natures of interfaces, Thermodynamics of interfaces, Adsorption and deposition at surfaces and interfaces, Surface tension, Capillarity and wetting, Surfactants, Micelles, Critical micelle concentration, Emulsions, Surface activity in emulsions, Stability of emulsions, Demulsification, Foams, Foam structures, Foam drainage and stability, Foam inhibition and antifoams. Measurement of surface and interfacial tension, Measurement of contact angle, Fine particles, Colloid materials, and colloid stability, Clusters, Nanomaterials, Light scattering by small particles, Self-organization, Interfacial forces and fields, Electrical double layer, Hamaker constant, DLVO theory, vander-waals forces, Electrostatic, steric and electrosteric stabilization, Zeta potential, Flocculation, Coagulation, Electr...
+
+## MM 417: Entrepreneurship in Materials Engineering
+- Credits: 6
+- Type: Theory
+- Description: Selection criteria for materials/related businesses.  Review of the state of art and future prospects of the selected material/businesses.  Fundamentals of materials processing and necessary technologies to create a unique enterprise/businesses.  Estimating alternative processes in terms of manufacturing/businesses at a location.  Basics of conducting market survey in terms of product/service/business viability/customer interviews to validate the business proposition.  Working out manufacturing/ business (service, consulting) plans, detailed engineering/implementation aspects and commercial terms leading to costing of the project and undertaking risk analysis of such an enterprise. Finance fundamentals, internal rate of return and working out returns for the proposed business model  Elemen...
+
+## MM 426: Equipment and Processes Design Lab.
+- Credits: 6
+- Type: Laboratory
+
+## MM 433: Manufacturing Process Seminar
+- Credits: 3
+- Type: Seminar
+
+## MM 435: Instrumentation and controls laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Controls : Process Simulator 302226 for a real heating process. Introduction to the principle of controls. Position control system. Analog computer 302226 solve differential equations. Level control experiment 302226 controlling the level of a liquid. RPM control.Computation : Computations using MATLAB or OCTAVE. Finding roots of a system of linear/non-linear equations - Case study: Equilibrium of a gas reaction - given thermodynamic data. Solving ordinary differential equations. Linear programming 302226 constrained minimization. Introduction to plotting tools 302226 Case study: Generate phase diagrams using free energy vs. composition data. Solving PDE. Analytical and numerical modeling of weld bead geometry.
+
+## MM 439: Iron and Steelmaking
+- Credits: 8
+- Type: Theory
+
+## MM 445: Continuum Plasticity of Metals
+- Credits: 6
+- Type: Theory
+- Description: This course is divided into four parts. The first and second parts will provide an introduction to continuum mechanics and constitutive models for plastic deformation. The third and fourth parts will delve into the materials aspects, physical interpretation and relevance of these constitutive models along with an introduction to crystal plasticity constitutive models. Part 1: Preliminaries 1. Tensor algebra primer 2. Fundamentals of continuum mechanics, concepts of deformation gradient, and spatial velocity gradient 3. Continuum measure of stress, strain, and work potential Part 2: Introduction to plasticity theories 4. Mathematical representation and physical meaning of yield surfaces 5. Incremental theory of plasticity, concepts of flow potential, normality rule, associativity, irreversi...
+
+## MM 448: Thin Films Lab
+- Credits: 1
+- Type: Laboratory
+
+## MM 451: Instrumentation and Process Control Theory
+- Credits: 6
+- Type: Theory
+- Description: Modelling in mechanical translation, rotary and simple hydraulic and pneumatic systems, one tank and two tank process, Block diagrams, transfer functions and steady state behaviour of systems.  Dynamic behaviour, transient response and analysis, stability criterion.  Types of controllers on-off, P, PI, PID controllers.  Analog computers and their use in simulation and analysis of control systems.  Characteristics of measurements, temperature measurement, flow measurement, pressure measurement and level measurement.  Measurement of force and torque.  Measurement of acceleration.  P & ID of typical process case examples in instrumentation from metallurgical processes.
+
+## MM 452: Plant Engineering
+- Credits: 6
+- Type: Theory
+- Description: Flow charting, auxiliary and process equipments layout, pneumatic and hydraulic  lines, P&D diagrams, related standards and specifications. Estimation of overall power requirements and its distribution among different sources. Process steam, treated water and liquid/gaseous fuel consumption estimates. Specifying, selecting, operating and maintenance of pumps blowers and compressors. Problems peculiar to high temperature metallurgical equipments. Material handling equipments. Foundations, buildings and structures. Production scheduling for continuous/batch process. Inventory control. Material and energy flow. Energy audit. Measurement to conserve energy and to recycle wastes. Storage of raw materials and product packaging. Generation and control of process variables. Measures to control los...
+
+## MM 453: Engineering Polymers & Composites
+- Credits: 6
+- Type: Theory
+- Description: Classification of polymers, Polymerization reactions.  Polymer characterization, thermal, mechanical and electrical properties, polymer crystallinity, structure property correlations in polymers.Polymer Engineering: Raw materials for production, Polymer processing techniques; fabrication of special polymer products. Introduction and classification of composite materials, strengthening mechanisms in composites, Reinforcing materials: fibres, whiskers and particles.  Manufacture of glass fibres, fabrication of fibre reinforced plastics and metal matrix composites.  Properties and application of composites.
+
+## MM 454: Corrosion & Protection of Materials
+- Credits: 6
+- Type: Theory
+- Description: Electrochemical mechanisms: Electrode potentials and corrosion tendency, polarisation, mixed potential theory, Evan?s corrosion diagrams, potential-pH diagrams.  Different forms of corrosion including microscopic and macroscopic forms.  Corrosion protection methods - cathodic and anodic protection, protecting coating, coatings for prevention of high temperature oxidation.  High Temperature corrosion : Oxidation laws, selecting oxidation, internal oxidation and catastrophic oxidation.  Corrosion Testing : Basic Principles in selection and design of corrosion evaluation of materials, accelerated corrosion tests, common experimental techniques for corrosion rate measurements including electrochemical methods.
+
+## MM 462: Corrosion & Protection Lab
+- Credits: 1
+- Type: Laboratory
+- Description: Anodic behaviour of active and passive metals.  Studies on aqueous corrosion inhibitors, Hull cell studies on electroplating.  Anodizing.  Coating thickness measurements.  Anodic and cathodic protection.  High temperature oxidation studies.
+
+## MM 477: Ceramic Processing Techniques
+- Credits: 6
+- Type: Theory
+
+## MM 593: Dual Degree Project I
+- Credits: 30
+
+## MM6004: Machine Learning for Materials Engineering
+- Credits: 6
+- Type: Theory
+- Description: Basics of probability and statistics, random variables, probability distributions, parameter estimation, bootstrapping,  Monte Carlo simulations, hypothesis testing Features and models (geometric, probabilistic, logical), Data visualization, Unsupervised learning and pre-processing (Singular Value Decomposition, Principal Component Analysis), Binary classification, multi-class classification,   Tree models, decision trees, regression trees, clustering trees, rule models  Linear models: least squares method, multivariate linear regression, ANOVA, regularized regression, support vector machines  Distance based models: nearest neighbour classification, K means algorithm, Hierarchical clustering  Probabilistic models, naive Bayes model, training a naive Bayes model, probabilistic models with h...
+
+## MM6102: Computational Thermodynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: * Basics of Materials Thermodynamics: Laws of Thermodynamics, Gibbs energy and its relation to other thermodynamic quantities, Phase equilibria and phase diagrams, Unary, binary, and ternary phase diagrams, Solution thermodynamics       * Introduction to Calphad (Calculation of Phase Diagrams)       * Introduction to Thermo-Calc and FactSage thermodynamic software packages       * Computational Methods to compute phase equilibria and phase diagrams       * Thermodynamic Models for solution and compound phases       * Experimental determination and ab initio calculations of thermodynamic quantities       * Construction of Thermodynamic Databases based on experimental data       * Application of Calphad method to materials design in different alloy systems like steels, Ni-based, Al, etc.    ...
+
+## MM6103: Differential Equations for Modeling Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Part 1: Preliminaries Vector and tensor spaces, derivatives of tensor fields, integral theorems, continuum transport equation, conservation equations for mass and momentum. Error analysis, numerical differentiation, trapezoidal rule, Simpson-s rules, matrix and linear algebra (Gauss elimination, LU decomposition, Gauss-Seidel method, Eigen value and Eigen vector analysis), Lagrange polynomial interpolation. Part 2: Numerical Solutions of Ordinary and Partial Differential Equations Euler-s and Heun-s methods, Runge-Kutta methods, stiffness (implicit/explicit Euler), boundary value problem (finite difference and Eigen value problem), finite difference (explicit, implicit, Crank-Nicolson methods), finite element method. Part 3: Modeling Transport Phenomena Finite difference modeling of heat c...
+
+## MM6104: Computational Tools for Analyzing Steel Production
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: 1. Mass balance (Linear simultaneous equation, Data Reconciliation): Examples from iron ore processing, ironmaking, steelmaking2. Heat Balance (Non-linear simultaneous equations): Wet vs Dry Quenching of Coke, Blast Furnace RAFT calculation and effect of PCI, natural gas and hydrogen on RAFT, BOF end point prediction, ferroalloy production, reheating furnaces3. Chemical Equilibrium (Non-linear Optimization Techniques): Hydrogen removal in liquid steel degassing, Fe-C-O melt equilibrium with slag, BOF refractory-slag interaction towards dolomite optimization  4. Rolling (Numerical solution of ODEs)5. Heat Transfer (Numerical Solution of PDEs): Centre and Surface Temperature in a reheating furnace, Metallurgical Length in a slab caster, Coiling temperature on a run out table6. Data Science: ...
+
+## MM 611: Processing and Characterization of Steel (Lab.)
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: 0
+- Description: Experiments involving processing, structural characterization and property evaluation of steel.  The topics that would be covered are : Processing: melting and casting, heat treatment, thermo-mechanical processing, sheet metal forming and welding. Structural characterization: phase transformation, electron microscopy, crystallography by using modern techniques. Properties: mechanical properties (like fatigue, fracture toughness, integrity assessment) relating to structure and processing, corrosion evaluation.
+
+## MM 612: Computational Laboratory
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: 0
+- Description: The lab involves the development and code implementation of numerical methods for solving different metallurgical and materials engineering problems. Topics covered include : i) Preliminaries of programming: Operations with arrays, conditional statements, reading data from files and manipulation, plotting data in 2D and 3D ii) Root finding: Newton-Raphson, bisection, secant methods.      iii) Matrix algebra: Solution of system of equations, Gauss-Jordan and Gauss-Siedel methods.       iv) Eigen value analysis: Eigen value and vectors of matrices.       v) Least squares regression: Linear and multi-variate regression.       vi) Interpolation: Polynomial interpolation, Lagrange interpolating polynomials.      vii) Numerical differentiation: First order and second order derivatives using forw...
+
+## MM 617: Topics in Phase Transformations
+- Credits: 6
+- Type: Theory
+- Description: Gibbs free energy composition diagrams, Analysis and synthesis of phase diagrams. Solid-solid nucleation theory. Interface and diffusion controlled growth. Thermodynamics and Kinetics of phase separation. Order-disorder transformations. Crystallography of martensitic transformation. Transformations in rapidly solidified alloys and glasses. Phase stability in advanced ceramics. High pressure phase transformations. Phase Transforations in Steels.
+
+## MM 621: Advanced Physical and Mechanical Metallurgy
+- Credits: 6
+- Type: Theory
+- Description: Microstructure & Properties: solidification and solidification structures, interfaces, crystallographic texture, residual stress, structure-property relations. Plasticity and work hardening: fundamentals, stress-strain behavior, fracture, creep & deformation mechanisms. Recovery, recrystallization, grain growth.  Phase transformation: thermodynamic basics, nucleation and growth, spinodal decomposition, martensitic transformations
+
+## MM 622: Advanced Concepts in Iron Making
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Thermodynamics of C-O, Fe-O, C-O-Fe and C-O-Fe-H2 systems. Models for gas-solid reaction kinetics.  Blast furnace reactions and process dynamics;  models for the blast furnace; agglomeration: sintering and pelletization 302226mechanisms; blast furnace aerodynamics; irregularities.Direct reduction : gas-based and coal based; reactions in Midrex/Hyl processes, rotary kiln processes and operational difficulties. Smelting reduction-COREX process.Advances in processes through term papers.
+
+## MM 624: Advanced Concepts in Steel Making
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of thermo : solutions, change of standard states, activity interaction parameters. Reactor models : CSTR and plug flow reactors, residence time distributions; Structure and thermodynamics of slags.C-O, Si-O, Mn-O reactions, reactions of S and P, sulphide and phosphate capacities. Oxygen steelmaking : design parameters for vessel and lance, material and heat balances. Process dynamics, static dynamic and process models, process control. Electric arc furnace : reaction mechanisms, material and heat balances, equipment design principles.Ladle metallurgy; Deoxidation : thermodynamic and kinetic analysis, inclusion shape control. Secondary and alloy steel making: thermo- and kinetic analysis, model building.Continuous casting: solidification mechanisms and structure, fluid flow and heat ...
+
+## MM 626: Thermomechanical Processing and Forming of Steel
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Forming techniques: rolling, extrusion, wire drawing, forging, pilgering, sheet metal forming, hydroforming, superplastic forming, Defects in TMP: form defects, surface defects, fracture related defects, strain localizations.  Physical simulation of properties: tensile and compression testing, hot torsion tests, mixed strain path tests, typical formability tests.  Case studies: steel for car body, dual phase and TRIP steel, controlled rolling of HSLA, electrical steel, patented steel wire.
+
+## MM 630: Mineral Process Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Material (ore) handling, sampling, sizing, communution, screening, liberation, classification, separation based on gravity, magnetic, electrical and surface properties, interfacial phenomena in mineral systems, dewatering, tailings disposal, process integration and flow sheet analysis, pollution control.
+
+## MM 632: Surface Engineering
+- Credits: 6
+- Type: Theory
+- Description: Importance of surface engineering for materials development.  Rationale in selection of surface engineering methods.  Surface preparation techniques for various coating methods.  Various coating techniques: painting, electro and electroless plating, hot-dip coating and thermal spray, CVD, PVD and coatings and laser and electron beam assisted coatings and processes.  Surface modification through conversion, anodizing, carburizing, nitriding, ion implantation etc. Continuous coating processes for sheets and coils.  Case studies, surface and coating characterization.
+
+## MM 638: Polymer Blends and Composites
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## MM 640: Modelling of Microstructural evalution
+- Credits: 6
+- Type: Theory
+- Description: Introduction to microstructures, need for multi-scale modelling for microstructural evolution (2 lectures)     Atomistic modelling - introduction to Molecular Dynamics and Monte Carlo simulations, statistical mechanical basis of atomistic simulations, interatomic potentials, evaluation of interatomic potentials (including machine learned interatomic potentials); evaluation of thermodynamic and kinetic parameters - interfacial energy by thermodynamic integration and nudged elastic band method to evaluate barrier energies (10 lectures)     First-principles to CALPHAD approach, special quasi-random structures, software framework for special quasirandom structures to thermodynamic databases, mechanically unstable phases and their free energies, short range order correction compatibility with S...
+
+## MM 641: Numerical Methods in Materials Processing
+- Credits: 6
+- Type: Theory
+- Description: Review of basic numerical methods like root finding, numerical integration, solving systems of equations, multiple linear regression etc. with special emphasis on computer implementation and applications in material processing. Initial and boundary value problems, partial differential equations. Introduction to finite difference (FDM) and finite element (FEM) methods.  Applications in materials processing : heat transfer and solidification; metal forming processes : analysis of sheet necking, formability tests, forming limit diagrams (FLD) etc.
+
+## MM 642: Modelling of Metallurgical Processes
+- Credits: 6
+- Type: Theory
+- Description: Introduction to physcial and mathematical modeling - simple models based on mass and heat  balance for metallurgical processes - numerical methods for solving conduction and fluid flow  equations - some case studies on mathematical modelling from iron and steel making will be discussed  such as modelling of blast furnace, basic oxygen furnace, electric arc furnace, ladle furnace, ingot  casting, continuous casting, forging, electroslag refining, sheet metal forming etc. some  case studies on physical modelling such as ladle furnace, tundish, continous casting etc.
+
+## MM 644: Mathematical Methods of Materials Engineering.
+- Credits: 6
+- Type: Theory
+- Description: Crystal lattice, symmetry operations of a crystal lattice - rotations, reflections and translations (group operations), matrix representation of symmetry properties Reciprocal lattice, diffraction and reciprocal lattice, invariant plane strain Ordered structures, static concentration wave representation of ordered structures, diffraction and concentration waves Physical properties and their tensorial and matrix representations, number of independent variables in property tensors Free energy, its constrained optimization, stability criterion, free energy of heterogeneous alloys, phase diagram construction Description of microstructures, five degrees of freedom for 3D grain boundaries, grain orientations and their represenation by Euler angles and quaternions Curvature driven growth, grain g...
+
+## MM 650: Protective Coatings
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Requirement of protective coatings, classification of organic, polymeric and inorganic coatings, conversion coatings, metallic coatings, electrodeposition and electroless coatings. Paint coatings for corrosion protection, role of resins, pigment, additives and solvents. Application techniques: Surface preparation and its importance in coating, role of coating selection & design of coating, failure mechanism, maintenance coatings, industrial paint systems, modern paint coating systems and specific examples. Coatings for underground pipelines, storage tanks, overhead pipelines, offshore structures, ship hulls, risers, reinforced bars and concrete structures. Testing and evaluation.            Galvanization: Zn and Zn alloy coatings, Electrodeposition; Alloy and multi-layer plating; Nucleatio...
+
+## MM 651: Thermodynamics of Materials
+- Credits: 6
+- Type: Theory
+- Description: Simple and composite systems, stable equilibrium states.  Adiabatic work interaction, heat interaction, internal energy, First law.  Reversible processes, heat engines, Second law, Theorem of Clausius, entropy, combined first and second law.  Legendre transforms, representations of the fundamental equation.  Equilibrium: extremum principles, membrane, phase and reaction equilibria.  Single phase systems: Thermodynamic relations among variables.  Solutions, partial molal properties, solution models.  Phase rule, unary, binary and ternary phase diagrams.  Thermodynamics of phase diagrams.  Reacting systems, gas phase reactions, Ellingham diagrams, Pourbaix diagrams.
+
+## MM 652: Advanced Ceramics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Ceramics structures.  Point defect equilibria in ceramics.  Space charge layers.  Novel techniques in ceramic powder processing ? spray pyrolysis, solgel process etc.  Deformation behaviour and toughening of ceramics.  Structural ceramics, wear components, high strength and high temperature strength components, ceramic substrates, ceramic cutting tools, glasses and ceramics.  Ceramic coatings.  Ionic conductors, solid electrolytes, fuel cells.  Ceramics for sensors, relaxors and electro-optic applications.  High Tc superconductors.
+
+## MM 654: Advanced Composites
+- Credits: 6
+- Type: Theory
+- Description: Principles of composites, micromechanics of composites.  Various types of reinforcements and their properties.  Role of interfaces.  Fabrication of metal matrix composites : insitu, dispersion hardened, particle, whisker and fibre reinforced; composite coatings by electrodeposition and spray forming.  Fabrication of polymeric and ceramic matrix composites.  Mechanical physical properties of composites.  Mechanisms of fracture in composites.  Property evaluation and NDT of composites.  Wear and environmental effects in composites.
+
+## MM 655: Modelling and Analysis
+- Credits: 6
+- Type: Theory
+- Description: Role of models in process engineering.  Model classification. Modeling procedure.  Conservative  and constitutive equations.  Dynamic models, lumped parameter and distributed parameter models.  Solution strategies.  Sensitivity analysis.  Data acquisition, analysis and model validation.  Examples  from materials processing.
+
+## MM 656: Simulation and Optimisation
+- Credits: 6
+- Type: Theory
+- Description: Linear programming models and applications, simplex algorithm for linear programming.  Geometry of simplex algorithm, Duality and sensitivity analysis.  One dimensional minimization, Febonacci, Golden section and Quadratic interpolation methods, Unconstrained optimization, Univariate, Conjugate direction, gradient projection methods.  Experimental design-Orthogonal Matrix, Factorial Design, Taguchi Techniques.  Error Analysis.  Next event simulation, satistical analysis of results, monte-carlo simulations, logical and statistical validity.  Simulation of heat and mass flow problems, application to metal forming.  Simulation of tensile testing of materials.
+
+## MM 657: Design and Application of Engineering Materials
+- Credits: 6
+- Type: Theory
+- Description: General principles of materials selection and design based on requirements of functrion, property, processability and cost.  Quantitative methods of materials selection, normalization of properties weighting factors, materials performace index. Introduction to design codes, criteria for material qualification and acceptance for important applications.  Introduction and use of materials data bases, hand books etc.  Illustrative examples of materials selection for aircraft wings, cutting tools, gas turbine blades, liquid nitrogen containers, artificial hip replacements, automobile value spring etc.
+
+## MM 658: Fracture Mechanics and Failure Analysis
+- Credits: 6
+- Type: Theory
+- Description: Theory: Thermodynamics of fracture-Griffith theory Stability of cracks, Crack resistance curves Linear elastic fracture mechanics, Irwin and Dugdale plastic zone correction  Standards and testing methods to measure stress intensity factor Ductile failure, J-integral and CTOD Fracture mechanisms in metals Toughening mechanisms in brittle materials and composites Fracture mechanics of layered/graded structures, and thin films and coatings Fail-safe design and damage tolerance concepts Failure Analysis in terms of fatigue, embrittlement, SCC, creep Reliability Evaluation and Life Extension Design Practicals:  1. Measure fracture toughness of a metallic bulk sample using LEFM, EPFM and COD (using DIC). 2. Demonstrate difference between notch (root radius) and pre-crack 3. Demonstrate size (thi...
+
+## MM 659: Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Description: Review of fundamentals in fluid flow, heat transfer and mass transfer.  Introduction of turbulent flow phenomena.  Heat transfer with phase change.  A few detailed examples of transport phenomena applications to materials processing.
+
+## MM 665: Process Engineering
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## MM 668: Computational Methods for Metal Forming Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Description of generalized stress / strain behaviour.  Principal quantities; Mohrs circle; Elastic vs. plastic deformation.  011Theories of yielding; Analysis of metal forming processes by ideal work, upper bound and slab methods.  Analytical modeling approach for simulating axi-symmetric deep drawing process.  Concept of formability and forming limit strains.  Applications of computational methods for metal forming analysis.  Application of FE based programs for metal forming analysis.Experimental measurements of loads and strains during tensile and formability testing of variety of materials (low carbon steel, aluminum and stainless steel).  Development of a computation model for tensile test simulation and its validation.  Simulation of tensile and metal forming tests using computationa...
+
+## MM 669: Mechanical Behavior of Thin Films
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Elasticity basics: Stress and strain tensors, tensor transformations, Mohr’s circle representation of stress and strain, constitutive equations.    Origin of stresses in thin films: thermoelastic mismatch between film and substrate, lattice mismatch in heteroepitaxial films, recrystallization, phase transformation, incorporation of atoms and chemical reactions. Application of the above for designing structures with low stresses.  Experimental techniques for measuring stresses/strains in thin films: Substrate curvature; Stoney’s equation, methods for curvature measurement, X-ray diffraction, nanoindentation, bulge test, 4-point bend test, and microtensile test.   Models for high stresses, strain-hardening rates and Bauschinger effect in thin films, influence of grain size, film thickness an...
+
+## MM 670: Powders and Sintered Products
+- Credits: 6
+- Type: Theory
+- Description: Preparation of metallic, ceramic and composite powders.  Mechanical, solid state and solution, methods. Powder Characterization:-Particle size, shape. Distribution, surface area, structure, morphology and composition.  Shape Forming: Uniaxial and isostatic compaction, xtrusion, injection moulding, tape forming, slip casting and sol-gel casting etc.  Powder coating on substrates.  Flame and plasma spraying, electrophoresis, electrodeposition, sol-gel coating etc.  Sintering: Solid state sintering, liquid phase sintering, reaction sintering, hot pressing, hot isostatic pressing and self propagating combustion sintering.
+
+## MM 672: Solidification Processing
+- Credits: 6
+- Type: Theory
+- Description: Introduction to solidification, rapid solidification, Methods of rapid solidification, rapid quenching, bulk undercooling, Structure and properties of liquid, kinetics of liquid state, Nucleation-basic concept, steady state nucleation, Undercooled liquid properties, thermodynamics, kinetic parameters.  Crystal Growth, growth equation, growth under rapid solidification, pure elements and dilute alloys (collision limited growth), microstructural modification, absolute stability, microstructural modification, absolute stability, solute trapping, eutectic solidification, peritectic solidification, Metastable phase diagrams, construction of principles, Metallic glasses or amorphous materials, criteria for glass formation, TTT and CCT curves for glass formation, overview applications.
+
+## MM 674: Materials & Processes for Semiconductor Devices
+- Credits: 6
+- Type: Theory
+- Description: Pre-requisite:  MM 474 and MM 372Elemental and compound semiconductor materials, structural, electronic and optical properties.  Theory of basic processing techniques: crystal growth, diffusion, oxidation, ion implantation, rapid thermal processing, epitaxy, chemical vapour deposition, and physical vapour deposition, metallization, the physics and chemistry of nonequilibrium plasmas.  Emphasizes plasma etching.The interrelationship between material properties, fabrication techniques and device performance.
+
+## MM 676: Superconductivity, Materials and Applications
+- Credits: 6
+- Type: Theory
+- Description: Introduction to superconductivity, Meissner effect, Type-I and type-II superconductors, Correlation between Tc Jc and Hc, Basic concepts, Coherence length and penetation depth.  Alloy and high Tc oxide superconductors, mono- and multilayered ? cuprates.  Structure, processing, properties and applications, organic superconductors.  Superconducting magnets, Josephson junctions, SQUID, Magnetic levitation.
+
+## MM 677: Diffusion and Kinetics
+- Credits: 6
+- Type: Theory
+- Description: Introduction. Ficks laws of diffusion. Analytical and numerical solutions. Diffusion in semi-infinite, finite and composite media. Chemical Kinetics. Order of reactions. Homogeneous reactions. Heterogeneous reactions  Adsorption, gas-solid reactions. Examples : Carburisation, Diffusion in semiconductors, Diffusion through a stagnant gas film, Diffusion in thin films and multilayers, reactions in CVD processes, oxidation, reduction, decomposition etc.        Atomistic models of diffusion. Random walk model. Diffusion mechanisms. Kirkendall effect. Homogeneous and heterogeneous nucleation. Grain growth and coarsening. TTT diagrams. Precipitation. Spinoidal decomposition. Diffusion in ionic solids. Diffusion along surfaces and interfaces. Sintering of particles.
+
+## MM 678: Magnetism, Magnetic Materials and their applications
+- Credits: 6
+- Type: Theory
+- Description: Magnetic order, Weiss molecular field, magnetism in metals and insulators, exchange and superexchange, magnetic anisotropy and magnetostriction magnetoresistance, galvano magnetism, domain and domain walls, magnetic hysteresis and superparamagnetism. Soft and hard magnetic oxides (spinel, garnet, hexaferrite and perovskite), structure properties relations, soft and hard magnetic alloys and their properties, dc, low frequency, RF, microwave and recording applications of oxides and alloys, Colossal magnetoresistance, GMR, spin valves and introduction to spintronics. Synthesis of single crystal, polycrystalline, thin film, nano size and amorphous magnetic materials, Specific characterisation techniques for magnetic materials (some aspects).
+
+## MM 680: Welding Science and Technology
+- Credits: 6
+- Type: Theory
+- Description: Overview of welding processes, study of welding arc characteristics, metal transfer during arc welding, heat flow during welding, gas-metal and slag-metal reactions. Fluid flow and metal evaporation in welding. Solid state joining processes and Brazing. Weld thermal cycles and residual stresses. Basic concepts of  solidification and weld metal solidification.   Phase transformations in the fusion zone, heat affected zone ( HAZ) and partially melted zone (PMZ).  Phenomena of hot-cracking and cold cracking. Application of above principles to welding of carbon steels, alloy steels, stainless steels and aluminum  alloys.  Weld assessment and testing.
+
+## MM 681: Plastic Deformation and Microstructure Evolution
+- Credits: 6
+- Type: Theory
+- Description: Molecular theory of deformation kinetics. Rate theory of plastic deformation.  Micormechanistic approach for deformation behaviour of single crystals and polycrystals.  Low temperature deformation of metals and other crystalline colids. Dynamic strain aging, creep, internal stress. Deformation of intermetallic compounds. Substructural evolution at large strains.  Recovery, recrystallization and grain growth during high temperature deformation. Formation cells boundaries, slip in a cell structure and composite model of time dependent flow.
+
+## MM 682: Grain Boundaries and Interfaces
+- Credits: 6
+- Type: Theory
+- Description: Phenomenology of solid interfaces and solid interfacial energies.  Structural models for grain- and interphase-boundaries.  Determination of interfacial energies.  Interfacial characterization.  Grain boundary segregation.  Role of interfacial phenomena in deformation and failure of materials.  Interfacial phenomena in thin films and composite materials.
+
+## MM 684: X-Ray Diffraction and Electron Microscopy
+- Credits: 6
+- Type: Theory
+- Description: Introduction to X-rays.  Atomic Scattering factor and Structure factor.  Intensity Calculations.  Reciprocal Lattice.  Ewald sphere construction.  Intensity distribution in reciprocal space. Particle size determination for polycrystalline samples. Techniques for structure determination.  Point groups. Brave Lattices.  Space groups.  Systematic absences due to glide planes and screw axes.  Wyckoff Notation. Understanding Space group details in the International Tables for X-ray Crystallography.    Introduction to Electron Microscopy. Basic Concepts of diffraction limited versus aberration limited resolution, depth of field and depth of focus. Electron Atom interaction, elastic-inelastic scattering. Electron diffraction in Scanning Electron Microscopy and Transmission Electron Microscopy. In...
+
+## MM 685: Electrical Materials: fundamentals and applications
+- Credits: 6
+- Type: Theory
+- Description: 1. Postulates of quantum mechanics, Bra Ket notation, Particles in box, Simple harmonic oscillator, Quantum free electron theory, Fermi Dirac statistics, Density of States, Fermi gas, Boltzmann Transport Equation, Electrical properties in metal.     2. Concepts of Reciprocal space and symetry, Laue Condition of diffraction, Brillouin zone, Band Theory of Solid, electron in periodic potentiaols, Bloch`s theorem, Kronig Penny model and solutions, E-k diagrams, effective mass.     3. Introduction to phenon, Phenon modes in monoatomic and diatomic 1D chain.     4. Direct and indirect semiconductors, Intrinsic and Extrinsic semiconductors, Fermi level, Carrier conentration, Hall effect in semiconductors, Generation and recombination from Boltzmann Transport equation.     5. Dielectric and optic...
+
+## MM 687: Surface Science and Engineering
+- Credits: 6
+- Type: Theory
+- Description: Theory of surface reconstructions, electronic properties of surfaces, interfaces and overlayers.,  Characterisation of surfaces by photons, electrons, ions as probes.  The effect of substarte surface structure on the overlayer properties.  Theoretical and experimental evaluation of surfaces energies, solid-liquid and solid gas interfaces-surface potentials, colloids, sedimentation, adsorption and reaction on surfaces. Damage of the surfaces by corrosion and wear.  Wear mechanisms, and cartegories of wear.  Surface modifications by diffusion, heat treatment and by coatings, surface Processing by laser, electrons and ions.
+
+## MM 688: Non-Crystalline Materials
+- Credits: 6
+- Type: Theory
+- Description: Network structure of various oxide glasses, Stevel?s parameters and kinetic criterion of glass formation.  Role of oxides in glass composition.  Melting, refining and forming of oxide glasses.  Viscoelastic behaviour and mechanical properties.  Thermal, dielectric and optical properties of glasses.  Coloured and photosensitive glasses; glass fibre technology.  Glass-ceramics, glasses for electronic applications.  Preparation of metallic glasses by rapid solidification.  Synthesis of amorphous alloys by mechanical alloying.  Properties and applications of amorphous alloys.  Microcrystalline and nanocrystalline materials.
+
+## MM 691: Topics in Phase Transformations
+- Credits: 6
+- Type: Theory
+- Description: Gibbs free energy composition diagrams, Analysis and synthesis of phase diagrams.  Solid-solid mucleation theory.  Interface and diffusion and kinetics of phase separation.  Order-disorder transformations.  Crystallography  of martensitic transformation.  Transformations of rapidly solidified alloys and glasses. Phase stability in advanced ceramics.  High pressure phase transformations.  Phase  transformations in Steels.
+
+## MM 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## MM 695: High Temperature Corrosion
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Low temperature vs high temperature corrosion. Introduction to oxidation, thermodynamics of gas/metal reaction, stability of oxides/sulphides. Ellingham diagrams; oxidation kinetics 302226 linear, parabolic, cubic, logarithmic rate laws, Wagner302222s theory of oxidation. Types of oxidation: general oxidation, selective oxidation, internal oxidation, breakaway and catastrophic oxidation; defects in oxides (p&n type), Wagner Hauffe Rules, Kroger Vink notations; oxidation vs sulphidation, hot-corrosion, oxidation of important metals and alloys; Use of electron-optical techniques in assessing oxidation damage and understanding oxidation mechanism. Practical examples of high temperature oxidation 302226 power plants, gas turbines, petrochemical plants etc.
+
+## MM 699: Corrosion Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: Metallographic sample preparation method, Equilibrium potential measurement of Cu, galvanic potential measurement of Fe and Zn, corrosion rate by weight loss method, determination of electrochemical kinetic parameters (Tafel extrapolation) and demonstration of passivity by potentiodynamic polarization, intergranular corrosion tests: by ASTM A 262 A and EPR techniques; Electrochemical impedance technique and study of corrosion inhibitors, Coating preparation by spray method and coating characterization (DFT, Impact), Surface energy measurement of coating using contact angle measurement. High temperature corrosion, and demonstration of stress corrosion cracking.
+
+## MM 700: Electrochemical and Materials Perspective in Energy Storage
+- Credits: 6
+- Type: Theory
+- Description: 1. Aspects of basic and advanced electrochemistry- Electrochemical potential, as one of the manifestations of chemical potential- Basic understanding of electrochemical cell voltage.- Basics concerning three electrode cells (primalrily, the concept of reference electrode)- Electrochemical thermodynamics : including  equilibrium potential and Gibbs free energy, and nemst equation.- Electrochemical kinetics: starting with basic concepts of polarization (over-potential) to Buffer Colmer and Tafel equations.- Electroanalytical techniques ( including the basic principles) like cyclic voltammetry, chrono-potentiometry, chrono-amperometry, Galvanostatic intermittent titration (GITT) and potentiostatic intermittent titration (PITT)2. Aspects of solid state physics and chemistry influencing the ele...
+
+## MM 706: Control of Erosion and Wear in Corrosive Environment
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Principles of friction and wear. Mechanism of adhesive and abrasive, corrosion and erosive wear. Rebinder effect Fretting and fatigue, fundamentals of erosion and erosion-corrosion and corrosion resistance, requirements for high temperature coatings, principles of CVD, PVD, plasma spraying, carburizing, and nitriding, ion implantation, laser surface alloying, life prediction of coated surface, economic consideration and future coatings requirements.
+
+## MM 708: Cathodic Protection Engineering
+- Credits: 2
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Fundamentals of cathodic protection, types of cathodic protection systems and anodes. Surveys, design of anode ground beds. Life time calculations, rectifier selection. Stray current corrosion problems and its prevention. Coating for various cathodic protection system and their assessment.
+
+## MM 709: Surface Engineering of Engineering Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Significance, design of surface layers based on mathematical modeling, rational application of surface layers, significance of the surface, the surface ? physico-chemical concepts, interphase surface ? a physical surface, surface energy, surface phenomenon, the superficial surface structure, potential properties, stereometric-physico-chemical parameters, residual stresses, adsorption, tribological properties, types of friction, the role of surface in the friction process, electrochemical nature of surface layers ? electrical structure of surface layer, corrosion resistance, anti corrosion properties, structure of metallic coatings, adhesion, hardness, ductility (elasticity), service properties, anti corrosion properties, porosity, bulging, permeability, prevention ? coatings and formation ...
+
+## MM 711: Materials for Corrosion Prevention at High Temperatures
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Choice of materials based on their mechanical strength, creep, fatigue and toughness. Microstructural stability and corrosion resistance. General properties and application of various steels, ODS alloys, rapidly solidified materials, single crystals, intermetallics, refractories and composite materials. Need for protective coatings at high temperature, Diffusion coatings, PVD and CVD coatings, ion-plating ion sputtering, electron beam coatings, laser glazing and laser alloying.
+
+## MM 712: Advances in Design and Control of Corrosion
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Overview of strategies for mitigating industrial corrosion.  Life-cycle cost analysis for materials selection and corrosion mitigation management.  Advances in monitoring industrial corrosion. Role of standards and codes. Advanced techniques such as electron spectroscopy for chemical analysis for corrosion characterization  Materials selection and component design against corrosion.  Role of fabrication such as welding on corrosion.  Hydrogen damage and mitigation in industries such as oil and gas and hydrogen transportation. Corrosion mitigation in utilities such as cooling water systems and boilers.  Failure analysis and case studies. Corrosion mitigation towards sustainable technologies. Concepts in risk-based assessment.  Pipeline corrosion - internal and external. Pipeline coatings.  ...
+
+## MM 713: Aqueous Corrosion and its Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Importance of corrosion, Corrosion loss, beneficial use of corrosion, Aqueous corrosion, Electrochemical cell, EMF, Galvanic series, Anatomy of a corrosion cell, Electrochemical thermodynamics, Equilibrium potential, Nernst equation and its application, Pourbaix diagram. Electrochemical kinetics, Corrosion rate expression, weight loss method, corrosion allowance, corrosion potential, OCP, exchange current density, electrochemical polarization and its types, Activation polarization: derivation of the Butler-Volmer equation, Tafel slopes, High and low field approximations, Linear polarization, Polarization resistance, Mixed potential theory, Butler-Volmer equation for multielectrode system, Evans diagram Diffusion effect in corrosion, Mass transport polarization; Resistance polarization; Pas...
+
+## MM 716: Nanomaterials for Advanced Electrochemical Energy Storage and Conversion
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: vii List of topics to be covered (list is not exhaustive):    302225   Brief introduction to nanomaterials    302225   Overview of the basic characteristic differences between        nanomaterials and more conventional materials    302225   Brief overview of the electrochemical interfaces at the        nano-level (in more general terms)    302225   Overview of the various types and architectures of        nanomaterials with relevance to applications in energy        storage/conversion        devices        (including  carbon        nanostructures,      oxide         nanostructures,  metallic        nanostructures, polymer nanostructures, nanocomposites,        various 0D, 1D, 2D, 3D nano-architectures)    302225   Introduction to the working principles and importance        of advanced ele...
+
+## MM 717: Electrochemical Materials Science
+- Credits: 6
+- Type: Theory
+- Description: Importance of electrochemical science in conventional and advanced technologies. Electrochemical interfaces: analysis of various models of electrochemical interfaces.            Thermodynamics of electrochemical reactions: Origin of Nernst equation, definition of equilibrium potential, determination of tendency of electrochemical reactions based on equilibrium potentials, measurements of electrochemical potentials, Pourbaix diagram. Electrochemical kinetics: concept of polarization and overvoltage under charge transfer and diffusion limited conditions, governing equations of kinetics, Butler-Volmer, Tafel and Stern Geary and calculation of diffusion limiting current density from the basic parameters.            Treatment of electrochemical concepts to the following applications: (a) Corros...
+
+## MM 718: Laser Processing and Nanostructures
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of Laser, Continuous and pulsed Laser concept, Laser safety and best practices, Fundamentals of Laser Material Interactions,  Introduction to Nanotechnology, Nanomaterials, Semiconducting and metallic nanoparticles, Synthesis/fabrication techniques of Nanomaterials, Laser induced synthesis of nanoparticles, Laser fabrication of Nanostructures for energy and bio applications
+
+## MM 719: Inttroduction to Ab-initio Methods in Materials Modelling
+- Credits: 6
+- Type: Theory
+- Description: Pair potentials, Variational principles,  Born - Oppenheimer Approximation,  Hartree Approximation, Hartree - Fock Approximation, , Introduction to Molecular Dynamics, Introduction to Density Functional Theory,  Case studies
+
+## MM 720: Organic Semiconductors and Devices
+- Credits: 6
+- Type: Theory
+- Description: Introduction; Fundamental of organic semiconductors (Bonding, Conjugation, Hybridization, Electronic structure); Charge injection and transportOptical phenomenon (light emission/absorption) and their processingFilm deposition techniquesStructure-property relationshipsPatterning, Printing, EncapsulationElectro-optical devices (Organic Light emitting diodes, thin film transistors, photovoltiacs, memory, sensors)
+
+## MM 721: Fatigue, Creep and Superplasticity
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Materials response to cyclic loading, Types of fluctuating cycles, Fatigue parameters, Fatigue testing, S-N curve, Low cycle and high cycle fatigue, Manson-Coffin law, Basquin model, Fatigue crack nucleation and crack growth, Fatigue damage accumulation theory, Effect of metallurgical variables. Case studies on fatigue of structural materials and some medical implants. Thermal activation processes, Creep, Creep testing, Creep curves, Factors affecting creep deformation, Creep mechanisms, Deformation mechanism maps, Stress rupture, Case studies on creep of superalloys and other high temperature materials, Superplasticity, Grain boundary sliding, Cavity nucleation and growth, High strain rate superplasticity, Superplastic forming.
+
+## MM 722: Molecular Simulations for Mateirals Engineering
+- Credits: 6
+- Type: Theory
+- Description: Lecture and Tutorials: (Numbers are an indication of important topics, not of the number of lectures.) 1.Brief overview of statistical mechanics: Equilibrium and ergodicity, Time- and ensemble-averages, Partition function 2.Statistical ensembles 3.Molecular dynamics simulations: Basic algorithm, Initialization, Integration of equations of motion, Verlet algorithm, Neighbour-lists, Boundary conditions, Force-fields, Long-range interactions - Ewald sums, Particle mesh approach, Thermostats and barostats 4.Free energy calculation methods: Umbrella sampling, Thermodynamic perturbation 5.Brief introduction to coarse-grained simulation methods: Langevin equation, Langevin and Brownian dynamics method 6.Demonstration of ergodic hypothesis:  7.Calculation of radial density distribution function an...
+
+## MM 723: Thermoelectric Materials
+- Credits: 6
+- Type: Theory
+- Description: Thermoelectric Effects, Semiconductor Physics: conduction processes, energy spectrum, transport equations, charge carrier and phonon scattering, Measurement of thermoelectric properties, Thermoelectric materials and manufacturing processes, Thermoelectric Systems and Applications, Modeling of thermoelectric transport.
+
+## MM 724: Plasma Processing of Materials
+- Credits: 6
+- Type: Theory
+- Description: Science of processing plasmas Introduction to plasmas, plasma parameters, Debye length, plasma frequence, electron temperature and related physical phenomenon (shielding, plasma oscillations and interaction with wall), equilibrium and non equilibrium plasmas, Saha equation and LTE Model, elementary processes in plasmas. Vacuum technology basics Basic terms and concepts in vacuum technology, vacuum pumps: Rotary pump, roots pump, diffusion pump, pump fluid backstreaming and its suppression (vapor barriers, baffles), sorption, pumps, adsorption pumps, sputter-ion pumps, cryopumps, turbo molecular pump, evacuation of a vacuum chamber and determination of pump sizes, vacuum measurement, monitoring, control and regulation, vacuum leak detection. Production and characteristics of low temperature...
+
+## MM 725: Tribology of Materials
+- Credits: 6
+- Type: Theory
+- Description: This course will start with analytical solutions of contact stresses and deformations at surfaces and delve on various wear mechanisms: adhesive, abrasive, fatigue, impact, chemical and fretting wear. Macromechanical vs micromechanical tribology processes will be contrasted and ways of quantifying wear will be discussed. Use of coatings as a way to reduce wear will be discussed in detail with respect to deposition processes and coating structures, characterization of coatings and selection. Engineering design for wear, effect of microstructure and wear induced microstructural change will be discussed in detail for metals, polymers, ceramics and composites. Case studies will be used to highlight critical design criteria for wear
+
+## MM 726: Corrosion Management and Modeling
+- Credits: 6
+- Type: Theory
+- Description: General management approach for effective and economical corrosion control: Basis of corrosion management, tools of corrosion management, organizational policies and their implementation. Importance of design, application and implementation of effective corrosion control methodologies, corrosion monitoring, maintenance and inspection and their importance in corrosion management. Risk based design and inspection for industrial components. Role of failure analysis and its importance in corrosion management by using its input in better design and control policies. Modeling tools, mathematics for modeling, finite element approach. Illustrations in modeling corrosion life prediction. Corrosion modeling to predict the effectiveness of corrosion control measures. Prediction of current and potenti...
+
+## MM 727: Cossosion in Oil & Gas, Refineries & Petrochemical Industry
+- Credits: 6
+- Type: Theory
+- Description: Definition of highly aggressive environment, sour and sweet environments, materials requirements for offshore structures, refineries, petrochemical plants, X-40 to X120 steels for pipelines, high corrosion resistant materials such as superaustenitic, superferritic, Duplex stainless steels and special superalloys, design of corrosion resistant storage tanks, tank linings and cathodic protection, transportation of crude and gas, underground cross country pipelines, phenomena of corrosion in crude gas pipelines, complex combination of pH, water cut, oil, carbon dioxide and H2S, external corrosion prevention by coatings and cathodic protection, methods of corrosion monitoring of pipelines, PSP surveys, Pearson surveys, intelligent pigging, ultrasonic and other NDT methods, SCADA system. Corros...
+
+## MM 728: Topics in Corrosion Research
+- Credits: 6
+- Type: Theory
+- Description: Passivity and localized corrosion Experimental techniques for Corrosion research Mechanisms of SCC and hydrogen embrittlement and concepts in materials development against such failures and life prediction Presentation of recent papers in corrosion research by students Advanced concepts in coatings development and evaluation Advanced materials for high temperature applications, selection criteria based upon mechanical properties. Materials for gas turbines, supercritical power plants Advanced concepts in coating failure, practical approaches to determine life of coatings, failure mechanisms and remedial measures
+
+## MM 729: Characterization of Materials for Corrosion Control
+- Credits: 3
+- Type: Theory
+- Description: Introduction to statistical methods for large corrosion data analysis Corrosion fundamentals and characterization techniques, Electrochemical techniques for corrosion monitoring, Electrochemical polarization techniques, Electrochemical noise, Electrochemical Impedance spectroscopy, Gravimetric techniques, Electrical resistance techniques, Sensors for corrosion monitoring, Cathodic protection monitoring, Localized corrosion monitoring methods - SECM, SVET, drop cell, SCC measurement techniques, Surface analytical techniques. Introduction to non-destructive techniques.
+
+## MM 730: Topics in Mechanical Behaviour of Materials
+- Credits: 6
+- Type: Theory
+- Description: 1. Concepts of stress and strain - Force equilibrium, stress tensor, Deformation gradient, strain tensor.2. Elasticity - Anisotropic crystalline elasticity, Anistropic elasticity of composites (iso-stress and iso-strain), Viscoelasticity of polymers3. Plasticity of crystalline materials - Slip and twining in cubic and hexagonal close packed crystals, Dislocation mechanics, Strengthening mechanisms and work hardening in single crystals and polyscystalline materials, creep, fatigue, constitutive relations, yield criteria and surfaces.4. Plasticity of non-crystalline materials - Shear tranformation zones and shear banding in glassy materials.5. Fracture - Linear elastic fracture mechanics in brittle materials: concepts of energy relearse rate and stress intensity factor, Standard fracture tou...
+
+## MM 731: Experiments in Advanced Materials Processing (Lab)
+- Credits: 5
+- Type: Laboratory
+- Description: Induction melting and electroslag remelting, Formability tests, Rolling of metals, Powder processing, Solgelprocessing, Thin film deposition, Evaluation of castings and moulding sand.
+
+## MM 732: Structural Characterization of Materials
+- Credits: 3
+- Type: Theory
+- Description: Optical microscopy - different modes of microscopy, image analysis Scanning electron microscopy - secondary electron and backscattered electron imaging, EDS/EPMA X-ray diffraction - indexing of XRD patterns, Intensity calculations, particle size effects, lattice parameter determination
+
+## MM 733: Mechanical Characterization of Materials
+- Credits: 3
+- Type: Theory
+- Description: Axial (tension and compression) testing of materials. Torsion test. Bend test (bulk and thin films). Hardness (Macro, Micro and Nano - Indentation). Scratch and wear test. Fracture (Impact test). Fatigue test. Creep and superplasticity.
+
+## MM 734: Electrical Characterization of Materials
+- Credits: 3
+- Type: Theory
+- Description: Conductivity measurements (bulk and thin films) - 2 and 4 probe measurements in metals, semiconductors and insulators. Hall effect, mobility, carrier concentration measurements. AC measurements - impedance and dielectric. Various sources - grain, grain boundary, space charge, electron. Activation energy. Optical measurements - band gap in semiconductors. Absorption measurements, photoconductivity, photoluminescence for defects. Ellipsometry. Work function measurement - UPS, metal-semiconductor contacts, Kelvin probe. IR and Raman spectroscopy. Ferro-electric and ferro-magnetic measurements
+
+## MM 735: Material Chracterization at High Temperatures
+- Credits: 3
+- Type: Theory
+- Description: Importance of High temperature measurements-relevance to Materials Processing, Basic principles of measurements at high temperature: Temperature measurement (thermocouples, optical pyrometers), gas flow and composition, importance of gas cleaning, detection of trace constituents (e.g. oxygen sensing), means to attain high temperature, requirement of special atmosphere, choice of crucible/sample container, Thermal analysis: DTA, DSC, TGA, dilatometry, Measurement of Thermodynamic parameters:EMF measurement, equilibration with gas mixtures, iso-piestic method, special methods, Concept of -capacity- of a slag: e.g. sulphide, phosphate, carbonate, alkali, etc., Thermophysical measurements:density, viscosity, interfacial tension, thermal conductivity, Particle characterisation: pycnometry, BET ...
+
+## MM 737: Physical Metallurgy
+- Credits: 4
+- Type: Theory
+- Description: Crystal structures of metals and alloys, Defects - vacancies, dislocations, stacking faults, twins, grain boundaries, Interstitial and substitutional solid solutions, Solidification - Homogenous and heterogeneous nucleation, Precipitation - JMA growth kinetics, Recovery, recrystallization and grain growth, Case studies - Age hardenable Al-Cu alloys, Phase transformations in Fe-C etc.
+
+## MM 738: Physics of Materials
+- Credits: 4
+- Type: Theory
+- Description: Crystal Structures and Reciprocal Lattice, Free-electron model - electron gas, Fermi-Dirac distribution, Fermi surface, Band theory of solids - Bloch Theorem , Brillouin zone, Kronig Penney model, Band gap and Bragg reflection, effective mass, holes, Conductivity of metals Semiconductors - Intrinsic and extrinsic semiconductors, carrier concentration, electrical conductivity and mobility, Hall effect, direct and indirect band gap. Dielectric and optical properties - absorption and optical properties of semiconductors, Dielectric constant, polarizability, sources of polarizaility- dipolar, ionic, electronic. Complex dielectric constant, dielectric losses,
+
+## MM 739: Semiconductor Photoelectrochemistry and Photocatalysis
+- Credits: 6
+- Type: Theory
+- Description: Semiconductor Surfaces and Solid-Solid Junctions, Solid-Liquid Interface, Theory of Electron and Hole Transfer, Charge Transfer Processes at Semiconductor-Liquid Interfaces, Photoreactions at Semiconductor Particles, Electron Transfer Processes Between Excited Molecules and Semiconductor Electrodes, Semiconductor electrodes and their interaction with light, Kinetic aspects in photoelectrochemical solar cells, Materials engineering: General considerations, Choosing a photoelectrode, Photostorage of solar energy in colloidal semiconductor systems, Redox catalysis in photochemical and photoelectrochemical solar energy conversion systems, Effect of organized assemblies on electron transfer reactions and charge separation processes, Photocatalytic reactions of organic compounds. Hydrogen genera...
+
+## MM 740: Silicon Manufacturing Technology Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: . Four probe resistivity of silicon, edge effects and possible errors.  . Hall measurement:  determine dopant concentration of various silicon samples.  . Minoritycharge carrier life time measurement of bulk carriers.  - Photo Luminiscent (PL) mapping of charge carrier life times in wafers and ingots. - Optical defect visualisation using etching techniques. - Crystal growth from melt - I (effect of pull rate) - Crystal growth from melt - II (effect of temperature profile).  -. Crystal growth from melt - III (impurity effects). -. Zone refining. - Cleavage of single crystal and determination of cleavage surface morphology, orientation.  - Measurement of average size of the grains and their SDF for the polycrystalline Silicon sample   - Safety and precautions standards measurements of th...
+
+## MM 741: Introduction to Silicon Manufacturing Technology
+- Credits: 6
+- Type: Theory
+- Description:  Thermodynamics essentials- (2-3L) Gibb-s phase rule, chemical potential of a gas, chemical potential of saturated vapor pressure of liquids and solids, dilute solutions, many component solutions, activity and activity coefficients, law of mass action, phase diagrams, general equation for solidus and liquidus lines.  Precursor Manufacturing- ( 5-7L) production methodologies of MG-Si, trichloro silane (TCS), dichlorosilane, silicon tetra chloride, and silane. Thermodynamic properties, surface tension, viscosity and thermal conductivity of these precursors. Corrosion rates of materials of constructions. Health hazards and safety precautions for gases: handling, storage, distribution, uses, exhaust and effluent control, monitoring and safety systems.    Polysilicon preparation (se...
+
+## MM 742: Science & Technology of Electric Furnace Steel Making
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction to Steel Making & Continuous Casting  2. Melting Process in the EAF  3. EAF Equipment  4. Electric Power in the EAF  5. Heat Balance in the EAF  6. Mass Balance in the EAF 7. DRI & Scrap Melting Profiles  8. Ideal Slag Compositions  9. Slag basicity & ideal volume  10. De-oxidation of steels  11. Inclusions in Steel & Clean Steel practices  12. Cooling Water Calculations & Treatment  13. Level 2 automation in the EAF  14. Costing calculations  15. Health, Safety & Environment
+
+## MM 743: Multiferroic Materials : Fundamentals and Devices
+- Credits: 6
+- Type: Theory
+- Description: Multiferroics: Brief introduction and defintions,Historical and present development Thermodynamics of Multiferroicmaterials, Multiferroic/magneto dielectricmaterials : Type I and Type II (Single-Phase Multiferroic Materials Magnetodielectric Composites),Fabrication of bulk, thick and layered (Tape cast and thin structures)multiferroics,Characterisation techniques for Magnetodielectrics,  Device structures and applications to sensors, microwave devices, energy harvesting, photo-voltaic technologies, solid-state refrigeration, data storage recording technologies, and random access multi-state memories and spintronics.
+
+## MM 745: Strengthening Mechanisms in Crystalline Solids
+- Credits: 6
+- Type: Theory
+- Description: - Overview of mechanisms of plastic deformation - slip, twinning, and phase transformation. Introduction to dislocations - theory of straight and curved dislocations, dislocation 9. - interactions and self-energies, dislocation sources, influence of lattice periodicity, slip systems, partials in FCC, dislocations in anisotropic media, Strengthening mechanisms - Interactions of dislocations with point defects (solid solution strengthening), precipitates, - and boundaries such as twin boundaries, phase and grain boundaries. Examples of systems in which these strengthening mechanisms are active.
+
+## MM 746: Concepts of Advanced Polymer Science & Engineering
+- Credits: 6
+- Type: Theory
+- Description: Polymer chain conformations and molecular structure  Structure of glassy, crystalline, and rubbery states of polymers  Dynamic properties of polymers: relaxation phenomena, role of time and temperature)  Advanced experimental techniques to characterize polymers (including scattering, microscopy and rheology)  Solution and melt thermodynamics of polymers  Phase separation in polymer solution and melt  Microphase separation in block copolymers and self-assembly  Nanostructured polymers at surface and interfaces   Fundamentals behind contemporary applications of polymers (nanocomposites and semiconductors)
+
+## MM 747: First Principles Approach to Materials Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Course Content (List of the topics/sub302255topics to be covered in the lectures/practicals/assignments):Introduction to wave function based methods: Wave function, many body problem, Variational principles, Hartree and Hartree Fock methods, Introduction to density functional theory: Kohn Sham Equations, self consistency cycles, Exchange and Correlations, Basis set, and Pseudopotential, Application of Density functional theory based methods in materials science: Simulation, visualization, and optimization, Crystal structure, Cohesive energy and formation energy of solid, Electronic properties of solid, Vibrational properties of solid, Elastic properties of solid, Thermodynamic properties of solid, Defect formation energies in solid, Magnetic structure of solid, Molecular Dynamics.
+
+## MM 748: Fatigue of Materials
+- Credits: 6
+- Type: Theory
+- Description: Cyclic Deformation leading to fatigue crack initiation. Stress and Strain life approaches Damage tolerant approach Rolling Contact Fatigue Retardation and transients in fatigue crack growth Small fatigue cracks Corrosion fatigue Case studies Design of fatigue experiments
+
+## MM 749: Statistics and Probability for Materials Engineers
+- Credits: 6
+- Type: Theory
+- Description:  Probability and Random Variables Events, Counting and definition of Probability Random Variables: Discrete and Continuous random variables Special random variables Configurational entropy in solution models, site occupancy in ordered al- loys, jump frequencies of atoms in lattices, attachment kinetics Probability Distribution and Joint Probability Distribution: grain size distribu- tion, Weibull distribution of brittle failure samples, Jonhson-Mehl-Avrami-Kol- mogorov kinetics, uniform distribution and Monte Carlo simulations, coarsen- ing kinetics, velocity distributions in molecular dynamics simulations, fluctua- tions about equilibrium Descriptive Statistics: material properties such as strength, conductivity, spe- cific heat, and microstructural features such as precipitate size, gra...
+
+## MM 750: Vibrational Spectroscopy for Materials Scientists
+- Credits: 6
+- Type: Theory
+- Description: The following contents are expected to be covered in this course1. Introduction to Vibrational Spectroscopy and interface in Materials Science2.  Fundamental theory and concepts Electronic, Vibrational, rotational energies, Quantization, Boltzmann distribution, selection rules of absorption and scattering, transition intensities, fluorescence and scattering, Rayleigh scattering, Raman scattering, Stokes and Anti-Stokes scattering, group vibrations, trends in vibrational wavenumber values.3. Instrumental considerations, macro and microspectroscopyFTIR, FT-Raman, Laser based systems, Dispersive Micro-Raman systems, Attenuated total reflectance, reflection-absorption. 4. Microspectroscopy and imaging011hyperspectral imaging,  chemometric solutions, 3D imaging, limitations5.  Synchrotron molec...
+
+## MM 753: Micro-mechanics of Thin Films and Small Structures
+- Credits: 6
+- Type: Theory
+- Description:     9.   Basics of elasticity, plasticity and fracture: will be included based on the background of students. Overview of the origins of stresses in thick and thin films: Discussion of the effect of processing conditions, thermo-elastic mismatch between film and substrate, lattice mismatch in heteroepitaxial multilayered structures, grain growth, and phase transformation during annealing or thermal exposure. The effect of stresses on thin films and small-scale structures: This section will primarily focus on mechanisms of elastic and plastic deformation at small length scales, and fracture and decohesion processes that occur as a result of stresses in them, focusing on intrinsic and extrinsic size effects. Experimental techniques: Techniques used for measuring stresses and mechanical...
+
+## MM 755: Kinetics of High Temperature processes
+- Credits: 6
+- Type: Theory
+- Description: (List of the topics/sub-topics to be covered in the /ectures,/pract;rrtr/assiennents):. Kinetics fundamental  (2 weeks). Reaction kinetics Rate of interfacial reactions between fluidsD iffusion fundamentaIs" li,lass transfer-control led reactions Interfacial phenomena and its role in process metallurgy (l week). Surface tension models. Interfacial convection" Appl ications in process metal lurgyHeterogeneous reactions with examples (2 weeks):" Solid-liquid, sol id-gas, I iquid_l iquid, I iquid_gasDissolution of additives in the mert, Reduction reactions,and Degassing or gas pick-up in Iiquid metalsMultistep reactions (2 weeks)" Mass transfer and interfacial" Identifying rate control I ing. lvlixed control reactionsSlagrnetal reactions,reaction-control led reactionsstepsStirring of morten m...
+
+## MM 756: Physical Metallurgy and Mechanical Properties of Steels
+- Credits: 6
+- Type: Theory
+- Description: - Various kinds of commercial steels     - Thermodynamics     - Kinetics     - Ferrite and pearlite     - Martensite     - Bainite     - TWIP and TRIP steels     - Lightweight steels     - Stainless steels.
+
+## MM 759: Structure and Defects
+- Credits: 6
+- Type: Theory
+- Description: Part I: Structure (Pre-midsem)          1) Lattice Geometry - Unit cell, lattice planes and directions, Weiss zone law, symmetry elements (translational, rotational, reflection), restrictions on symmetry elements, crystal systems and Bravais lattices.          2) Point Groups and Space Groups - Macroscopic symmetry elements, Orthorhombic, tetragonal, cubic, hexagonal, trigonal, monoclinic and triclinic systems.          3) Crystal Structures - Common metallic structures: cubic close packed, hexagonal close packed, double hexagonal close packed, body centered cubic Diamond, graphite, hexagonal boron nitride. Simple MX and MX2 compounds. Inorganic compounds: perovskite, spinel, inverse spinel, garnet, calcite, alpha-alumina,Intermetallic compounds and ordered structures.          4) Directio...
+
+## MM 760: Case Studies in Multi-Scale Modelling of Materials
+- Credits: 6
+- Type: Theory
+- Description: The objective of the course is to apply principles of muti-scale modelling to design of materials and materials processes. Materials design often involves understanding properties at disparate length and time-scales. Hence, modelling methods at multiple scales are required to bridge understanding across scales.        The course contents will be delivered primarily through two or three case-studies. The problems could be related to either structural or functional aspects of materials. A case study will focus on either,            1. design of a material with target properties, or     2. design of a materials process              Each case study is expected to span 4 - 6 weeks. It is expected that students will work in a collaborative mode. For a given problem/ case study, students are expe...
+
+## MM 761: Computational Laboratory - II
+- Credits: 3
+- Type: Laboratory
+- Description: The lab involves the development and code implementation of numerical methods and statistical techniques for solving different metallurgical and materials engineering problems. Topics covered include:      Numerical solutions of Ordinary Differential Equations (ODEs): Euler and Heun methods, Runge-Kutta methods      Numerical solutions of Partial Differential Equations (PDEs): Explicit and implicit finite difference methods, sparse solvers, application to heat transfer and diffusion problems      Gradient algorithms: Conjugate gradient and gradient descent methods      Fourier transforms: Fourier series, frequency and time domains, Fast Fourier Transform (FFT)      Statistical methods and analysis: Probability distribution functions, design of experiments
+
+## MM 762: Materials Processing in Semiconductor Technology - I
+- Credits: 6
+- Type: Theory
+- Description: A processing overview highlighting the front-end of the line (FEOL) and back-end of the line (BEOL) processes involved in semiconductor device fabrication. Details of the following processing methods will be covered in this course:    1. Wafer fabrication by melt growth: sand to ingot to wafer, Czochralski and float zone method    2. Thermal oxidation and Si/SiO2 interface: Oxide growth kinetics, dependence of growth kinetics on processing parameters like temperature and pressure    3. Dopant diffusion: Ficks laws of diffusion. Analytical and numerical solutions. Diffusion in semi-infinite, finite and composite media, Atomistic models of diffusion. Diffusion mechanisms. Diffusion profile calculations    4. Thin film deposition:        * Thermodynamics of nucleation and growth. Growth modes...
+
+## MM 763: Semiconductor Processing Laboratory I
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to vacuum technology, gauge and pump Experiments:     * Thermal oxidation of silicon - effect of temperature, pressure and time on oxidation thickness and quality. Thickness and optical constant determination using spectroscopic ellipsometry. MOSCap analysis     * Metal deposition by puttering and e-beam evaporation - thickness and microstructure correlation with pressure and power. Thickness and sheet resistance measurement     * Oxide film deposition by reactive sputtering-property correlation with power and oxygen partial pressure, thickness, optical property determination and electrical characterization of MOScap using a shadow mask.
+
+## MM 764: Materials Processing in Semiconductor Technology - II
+- Credits: 6
+- Type: Theory
+- Description: 1. Chemical Mechanical Planarization: materials and processes     2. Lithography         * Substrate preparation, photoresist coating, post-apply baking, exposure, post-exposure baking, development         * Photoresist chemistry: Types of photoresists, exposure kinetics, dissolution,          * Image formation in optical lithography: diffraction, image formation, partial coherence, aberrations and defocus, immersion lithography         * Linewidth control, overlay control, resolution enhancement technologies: optical proximity correction, off-axis illumination, phase shifting modes; limits of optical lithography         * Deep UV, EUV, X-ray and E-beam lithography techniques, nano-imprint lithography     3. Etching: Wet and Dry         * Isotropic and anisotropic etching and related probl...
+
+## MM 765: Semiconductor Devices and Their Working Principles
+- Credits: 6
+- Type: Theory
+- Description: 1. Basic semiconductor physics    * Types of charge carriers; the concepts of intrinsic and extrinsic semiconductor; electroneutrality equation    * Energy band model, E-k diagrams of Si, Ge, Fermi-Dirac distribution, Maxwell-Boltzmann approximation, Fermi potential and its relevance, non-equilibrium carrier concentration and Quasi-Fermi levels    * Drift: Drift and thermal velocities, energy bands under an electric field, conductivity, mobility, scattering time and scattering cross-section, Mathieson`s rule, Hall effect    * Diffusion current, Haynes-Shockley experiment to determine drift and diffusion currents, Arrhenius equation, continuity equation    * Generation and Recombination: mechanisms, optical transitions in semiconductors, continuity equation in generation and recombination, ...
+
+## MM 766: Optical Characterization of Materials
+- Credits: 3
+- Type: Theory
+- Description: 1. Interaction of electromagnetic waves with matter     2. Optical properties of materials: reflectance, transmittance and absorbance     3. Optical physics of semiconductors: band structures, interband transitions, intraband transitions, excitonic effects and modulation of optical properties     4. Characterization methods: principles and applications     a) UV-Visible-IR absorption/reflection spectroscopy      b) Spectroscopic ellipsometry     c) Photoluminescence spectroscopy      d) Infrared spectroscopy      e) Raman spectroscopy
+
+## MM 767: Semiconductor Processing Laboratory II
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to clean room, etching, lithography and fabrication of semiconductor devices Experiments:     1. Fabrication of various devices such as p-n junctions MOScap, metal-semiconductor diodes (Schottky diodes), perovskite solar cells and LEDs         * Learning about photoresists, pre- and post-bake, developing processes         * Etching modelling         * TLM measurements to determine contact resistance of devices         * Photoresponse measurements (dark current/light current, etc.)     2. Planar MOSFET fabrication and their electrical characterisation - IV, CV measurements
+
+## MM 768: Materials Processing & Characterization Laboratory I (Thin Film Techniques)
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: -
+- Description: 1. Thermal evaporation of metal films (Al/Cu):Measure thickness, sheet resistance as a function of thickness for resistivity, Hall measurement for carrier concentration, XRD for phase and reflectance.       2. Reactive DC sputtering for TiN coating: Measure thickness, sheet resistance as a function of thickness for resistivity, Optical response-reflectance, nanoindentation for hardness.       3. RF sputtering of Al203:Measure thickness, optical reflectance, dielectric breakdown as a function of thickness.       4. Sol-gel and spin coating of TiO 2 Morphology-optical and/or SEM, UV-Vis spectroscopy-Tauc plot, Construct a dye sensitized solar cell with mesoporous TiO 2 and check power output       5. Hot Injection method of synthesis of quantum dots, measure the UV-Vis spectroscoрy, band gap...
+
+## MM 769: Materials Processing & Characterization Laboratory II (Bulk Techniques)
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: -
+- Description: 1. Solid State Synthesis of inorganic compounds and phase identification by XRD      2. Powder characterisation by laser particle size analyser, surface area measurement by BET technique, particle shape by SEM.      3. Ceramic powder compaction: Effect of additives like binders and lubricants, and compaction pressure on green density, defects in green compacts. Indentation fracture test.      4. Sintering with borosilicate glass powder compacts OR ZnO powder. Sintered density measurements, sintering kinetics, distortion during sintering.      5. Glass-making and characterization of glass (DSC for Tg or dilatometry for CTE) Plastic injection moulding - anisotropy from tensile test OR Compression moulding -isotropic properties from compression test      6. Melt synthesis of intermetallic com...
+
+## MM 770: Principles of Sustainable Ironmaking
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: A broad process design for an iron making unit with carbon and/or hydrogen. Blast furnace reactions and process dynamics; RIST model for the blast furnace; Injection of alternate fuel such as natural gas, coke oven gas, hydrogen, plastic injection in to the blast furnace. blast furnace aerodynamics; Models for gas-solid reaction kinetics irregularities. Direct reduction: gas-based and coal based; reactions in Midrex/Hyl, H-DRI, fluidized bed processes, rotary kiln processes and operational difficulties. Smelting reduction-COREX process. Agglomeration: sintering and palletization-mechanisms; Decarbonization strategies for the iron making processes. Advances in processes through term papers.
+
+## MM 771: Principles of Steelmaking, Refining and Casting
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Liquid steel solution and behavior of dissolved elements (C, O, Al, Si, Mn, O, P and S). Structure of slag. Sulphide, and phosphate capacities. Oxygen steelmaking: design parameters for vessel and lance, material and heat balances. Process dynamics, static dynamic and process models, process control. Electric Arc Furnace: reaction mechanisms, material and heat balances, equipment design principles. Induction furnace steelmaking: operation and challenges. Electrical Smelting Furnaces. Ladle metallurgy: Deoxidation: thermodynamic and kinetic analysis, inclusion shape control. Stainless Steel and alloy steel making: AOD process, thermo- and kinetic analysis, model building. Vacuum and RH Degassing. Continuous casting: solidification mechanisms and structure, fluid flow and heat transfer in tu...
+
+## MM 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Basic English Comprehension 2.Technical Report Writing  3.Summarizing and paraphrasing with emphasis on avoiding plagiarism  4.Making presentations - short and long, and evaluating them to identify what makes a good presentation  5.Discussion and Debates  6.Listening and comprehension of audio and video recording
+
+## MM 797: I Stage Project
+- Credits: 50
+- Prerequisite: 0
+
+## MM 798: II Stage Project
+- Credits: 40
+- Prerequisite: 0
+
+## MM 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## MMM694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0
+
+## MMM797: I Stage Project
+- Credits: 50
+- Prerequisite: 0
+
+## MMM798: II Stage Project
+- Credits: 40
+- Prerequisite: 0.0
+
+## MMS601: Seminar
+- Credits: 4
+- Type: Seminar
+
+## MMS801: Seminar
+- Credits: 4
+- Type: Seminar

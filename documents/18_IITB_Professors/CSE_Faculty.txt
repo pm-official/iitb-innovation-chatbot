@@ -1,0 +1,509 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CSE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Ashutosh Gupta
+- Department: CSE
+- Designation: Associate Professor
+- Email: akg@cse.iitb.ac.in
+- Research Group: Formal Verification / PL (CFDVS)
+- Primary Research Area: Model Checking / Biological Systems
+- Research Interests & Innovation Focus: Formal verification (model checking); Biological systems modelling; Constraint solving & theorem proving; Neural network verification; Concurrent program verification; Gene regulatory networks; Fairness & robustness monitoring
+- Notable Projects: Gene regulatory network verification (TACAS 2015 Best Paper); Neural network robustness checking; Fairness monitoring (KDD 2025 Best Paper); VAJRA; Suraq (controller synthesis)
+- Key Tools & Platforms: VAJRA, HSF (Horn Clause Solver), InvGen, Suraq, VeriAbs (co-developer)
+- Industry Collaborations: Postdocs at EPFL, IST Austria; PhD from TUM/MPI-SWS
+- Awards: TACAS 2015 Best Paper; KDD 2025 Best Paper Award (Fairness Monitoring)
+- Innovation Keywords: model checking, formal verification, biological systems, neural network verification, fairness monitoring, constraint solving, gene networks, robustness, synthesis
+- Profile: https://www.cse.iitb.ac.in/~akg/
+
+## Assoc. Prof. Kameswari Chebrolu
+- Department: CSE
+- Designation: Associate Professor
+- Email: chebrolu@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG)
+- Primary Research Area: Wireless/Mobile Networks
+- Research Interests & Innovation Focus: Wireless & wired sensor networks; Mobile computing; MAC protocols; Network design for developing regions; Real-time wireless apps; Bulk data transfer
+- Notable Projects: Long-distance 802.11b rural links; TDMA MAC protocols; BodhiTree (education platform)
+- Key Tools & Platforms: BodhiTree platform; MAC protocol implementations
+- Innovation Keywords: wireless networks, sensor networks, mobile computing, MAC protocols, rural networking, IoT, developing regions
+- Profile: https://www.cse.iitb.ac.in/~chebrolu/
+
+## Assoc. Prof. Kavi Arya
+- Department: CSE
+- Designation: Associate Professor
+- Email: kavi@cse.iitb.ac.in
+- Research Group: Embedded & RT Systems (ERTS)
+- Primary Research Area: Embedded Systems / Robotics
+- Research Interests & Innovation Focus: Embedded systems; Real-time operating systems; Robotics; Functional programming DSLs; Parallel programming; Distance learning
+- Notable Projects: e-Yantra (robotics education initiative, PI); Chetana Pvt Ltd (educational tech, Director)
+- Key Tools & Platforms: e-Yantra robotics platform
+- Industry Collaborations: IBM TJ Watson Research Center (former); Mahindra & Mahindra CTO office (Tech Advisor on sabbatical); D.Phil Oxford
+- Awards: e-Yantra recognized as major national robotics education initiative
+- Innovation Keywords: embedded systems, robotics, RTOS, e-Yantra, robotics education, DSL, real-time systems, IoT, Mahindra
+- Profile: https://www.cse.iitb.ac.in/~kavi/
+
+## Assoc. Prof. Mythili Vutukuru
+- Department: CSE
+- Designation: Associate Professor
+- Email: mythili@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG)
+- Primary Research Area: 5G Networks / NFV / Fast Packet Processing
+- Research Interests & Innovation Focus: Computer networking; 5G/4G mobile packet core; NFV & SDN; eBPF/XDP/AF_XDP packet processing; Microarchitecture-aware systems; Network function virtualization
+- Notable Projects: 5G testbed development; Mobile packet core (NFV-based LTE EPC); libVNF; FLASH (AF_XDP sockets); Toasty; Fastlane; Pyramis (DSL for multi-tier systems); DDIOSim
+- Key Tools & Platforms: libVNF, FLASH, Toasty, Fastlane, Pyramis, DDIOSim
+- Industry Collaborations: Movik Networks (telecom startup, 2010-13); Karur Vysya Bank (Additional Director, 2025)
+- Awards: Ph.D. from MIT (advisor: Prof. Hari Balakrishnan); Publications at ASPLOS, SoCC, COMSNETS
+- Innovation Keywords: 5G, NFV, SDN, packet processing, eBPF, XDP, mobile networks, network functions, fast networking, telecom, LTE, virtualization
+- Profile: https://www.cse.iitb.ac.in/~mythili/
+
+## Assoc. Prof. Purushottam Kulkarni
+- Department: CSE
+- Designation: Associate Professor
+- Email: puru@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG); TDSC
+- Primary Research Area: OS / Virtualization / Cloud-Edge
+- Research Interests & Innovation Focus: Operating systems & kernel programming; Virtualization & cloud computing; SDN; Container technologies; eBPF & kernel bypass; Edge computing; VM migration
+- Notable Projects: xv6 OS modifications; eBPF experimentation; Linux kernel exploration; TDSC (Technology and Development Solutions Cell); Birds@IITB
+- Key Tools & Platforms: xv6 inside-out; eBPF inside-out; linux-kaleidoscope; sysllm-workshop
+- Innovation Keywords: operating systems, virtualization, cloud computing, containers, eBPF, edge computing, SDN, kernel programming, VM migration, Linux
+- Profile: https://www.cse.iitb.ac.in/~puru/
+
+## Assoc. Prof. S Akshay
+- Department: CSE
+- Designation: Associate Professor; Shridhar Shukla Chair in Digital Trust
+- Email: akshayss@cse.iitb.ac.in
+- Research Group: Theoretical CS; CFDVS; Trust Lab; ADCPS
+- Primary Research Area: Formal Methods / Verification
+- Research Interests & Innovation Focus: Formal methods & verification; Timed, recursive & distributed systems; Automated functional synthesis; Probabilistic & dynamical systems; Trust & certification in AI; Systems biology; Cyber-physical systems
+- Notable Projects: Timed systems model checking; MITL (Metric Interval Temporal Logic); Distributed timed automata; AI model certification
+- Key Tools & Platforms: Verification and model checking tools
+- Awards: Ph.D. from ENS-Cachan & CMI; Postdoc at NUS & IRISA
+- Innovation Keywords: formal methods, verification, timed systems, automata, logic, AI certification, cyber-physical systems, model checking, synthesis, trust
+- Profile: https://www.cse.iitb.ac.in/~akshayss/
+
+## Assoc. Prof. Saketha Nath J
+- Department: CSE
+- Designation: Associate Professor (now at IIT Hyderabad)
+- Email: saketh@cse.iitb.ac.in
+- Research Group: Databases / InfoLab
+- Primary Research Area: ML Optimization / Large-scale Learning
+- Research Interests & Innovation Focus: ML optimization; Large-scale classification; Kernel learning; Submodular optimization; Constrained sampling & Wasserstein flows; Causality; Distributed learning
+- Notable Projects: Variable Sparsity Kernel Learning; Clustering-based large margin classification; Wasserstein Gradient Flows (Fujitsu-sponsored)
+- Key Tools & Platforms: Kernel learning and optimization tools
+- Industry Collaborations: Microsoft; Fujitsu
+- Awards: Publications in JMLR, SIGKDD, ICML
+- Innovation Keywords: ML optimization, kernel methods, large-scale learning, submodular optimization, Wasserstein, causality, distributed optimization, classification
+- Profile: https://www.cse.iitb.ac.in/~saketh/
+
+## Assoc. Prof. Siddhartha Chaudhuri
+- Department: CSE
+- Designation: Associate Professor (also at Adobe Research)
+- Email: sidch@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: 3D Shape Analysis / Generative 3D
+- Research Interests & Innovation Focus: 3D shape analysis & understanding; Generative models for 3D content; Computational design tools; Shape recognition & reconstruction; Large-scale rendering; Neural 3D generation
+- Notable Projects: Generative 3D design tools; Shape understanding systems; Computational design research
+- Key Tools & Platforms: 3D shape analysis tools; Generative design platforms
+- Industry Collaborations: Adobe Research (Senior Research Scientist)
+- Innovation Keywords: 3D modeling, shape analysis, generative AI for 3D, computational design, shape recognition, neural rendering, 3D reconstruction, Adobe, design tools
+- Profile: https://www.cse.iitb.ac.in/~sidch/
+
+## Assoc. Prof. Sujoy Bhore
+- Department: CSE
+- Designation: Associate Professor; Visiting Fellow LSE
+- Email: sujoy@cse.iitb.ac.in
+- Research Group: Theoretical CS; C-MInDS; Trust Lab
+- Primary Research Area: Computational Geometry / Algorithms
+- Research Interests & Innovation Focus: Algorithms; Discrete & computational geometry; Combinatorial optimization; Theoretical ML; Geometric optimization; Dynamic data structures; Spanners
+- Notable Projects: Geometric algorithms research; Spanners & dynamic structures; Machine learning theory applications
+- Awards: Krithi Ramamritham Award for Creative Research 2024; 378+ citations
+- Innovation Keywords: computational geometry, algorithms, optimization, spanners, geometric algorithms, dynamic data structures, theoretical ML, combinatorial optimization
+- Profile: https://www.cse.iitb.ac.in/~sujoy/
+
+## Assoc. Prof. Suyash P. Awate
+- Department: CSE
+- Designation: Associate Professor
+- Email: suyash@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: Medical Image Computing
+- Research Interests & Innovation Focus: Medical image computing; Bayesian ML; Computer vision; Brain MRI analysis; Uncertainty quantification; Image segmentation & registration
+- Notable Projects: Brain imaging analysis tools; Bayesian deep learning for medical imaging; Uncertainty-aware medical diagnosis
+- Key Tools & Platforms: Medical image analysis frameworks
+- Innovation Keywords: medical imaging, brain MRI, Bayesian ML, image segmentation, uncertainty quantification, healthcare AI, registration, deep learning for medicine
+- Profile: https://www.cse.iitb.ac.in/~suyash/
+
+## Assoc. Prof. Swaprava Nath
+- Department: CSE
+- Designation: Associate Professor
+- Email: swaprava@cse.iitb.ac.in
+- Research Group: AI/ML Group
+- Primary Research Area: Game Theory / Mechanism Design
+- Research Interests & Innovation Focus: Game theory; Algorithmic mechanism design; Computational social choice; Internet economics; Auction design; Voting theory; Fair division
+- Notable Projects: Mechanism design for internet platforms; Fair allocation algorithms; Social choice systems
+- Innovation Keywords: game theory, mechanism design, social choice, auctions, voting, fair division, internet economics, incentive design, market design
+- Profile: https://www.cse.iitb.ac.in/~swaprava/
+
+## Asst. Prof. Arpit Agarwal
+- Department: CSE
+- Designation: Assistant Professor
+- Email: aarpit@cse.iitb.ac.in
+- Research Group: AI/ML Group
+- Primary Research Area: Responsible AI / Human-AI Interaction
+- Research Interests & Innovation Focus: Machine learning; Human-AI interaction; Responsible AI; Learning from human feedback; Fairness & interpretability in ML
+- Notable Projects: Responsible AI frameworks; Human-feedback learning systems
+- Industry Collaborations: Ex-Meta; Columbia University postdoc
+- Innovation Keywords: responsible AI, human-AI interaction, fairness, interpretability, human feedback, machine learning, ethical AI
+- Profile: https://www.cse.iitb.ac.in/~aarpit/
+
+## Asst. Prof. Biswabandan Panda
+- Department: CSE
+- Designation: Assistant Professor; Shridhar Shukla Chair Prof in Digital Trust
+- Email: biswa@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG); CASPER; Trust Lab
+- Primary Research Area: Computer Architecture / Hardware Security
+- Research Interests & Innovation Focus: Microarchitecture for performance; Computer architecture security; CPU/GPU design; Cache hierarchies & prefetching; Branch prediction; Secure processor design; OS-architecture interface
+- Notable Projects: CLIP (data prefetching); Maya cache (secure caches); Drishti (microarch analysis); Micro BTB; Randomized caches for security; ATC caching
+- Key Tools & Platforms: CLIP, Maya, Drishti, Micro BTB
+- Industry Collaborations: Qualcomm India Faculty Award 2022 & 2024; Google India Research Award 2022
+- Awards: Qualcomm Faculty Award (2022, 2024); Google India Research Award 2022; USENIX SECURITY 2025 Distinguished Artifact Award; Class of 1973 Faculty Award 2025
+- Innovation Keywords: computer architecture, hardware security, cache design, prefetching, branch prediction, microarchitecture, CPU security, GPU, side-channel attacks, secure processors
+- Profile: https://www.cse.iitb.ac.in/~biswa/
+
+## Asst. Prof. Suraj Shetiya
+- Department: CSE
+- Designation: Assistant Professor
+- Email: surajs@cse.iitb.ac.in
+- Research Group: Databases / InfoLab
+- Primary Research Area: Fairness in Databases / Computational Geometry
+- Research Interests & Innovation Focus: Fairness-aware data management; Computational geometry; Graph & metric space algorithms; Cardinality estimation; String predicate selectivity; Grammar inference
+- Notable Projects: Fairness-Aware Range Queries (ICDE 2026); Orca-SR (traffic engineering, VLDB 2026); Astrid (selectivity estimation, VLDB 2026); Shapley Values for matching
+- Key Tools & Platforms: Orca-SR, Astrid
+- Awards: Prolific 2026 publications: KDD, ICSE, ICDE, SIGMOD, VLDB
+- Innovation Keywords: database fairness, computational geometry, cardinality estimation, data management, algorithms, traffic engineering, string predicates, grammar inference
+- Profile: https://www.cse.iitb.ac.in/~surajs/
+
+## Prof. Abhiram Ranade
+- Department: CSE
+- Designation: Professor (HAG) (Retired)
+- Email: ranade@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Algorithms / Parallel Computing
+- Research Interests & Innovation Focus: Algorithms; Combinatorial optimization; Train scheduling & vehicle routing; Aircraft ground movement optimization; Parallel computing
+- Notable Projects: Train scheduling on unidirectional tracks; Vehicle scheduling heuristics; Aircraft ground movement optimization; Shikav Project (electronic lessons)
+- Key Tools & Platforms: Shikav (e-learning platform)
+- Innovation Keywords: algorithms, parallel computing, train scheduling, vehicle routing, combinatorial optimization, aircraft operations, CS education
+- Profile: https://www.cse.iitb.ac.in/~ranade/
+
+## Prof. Ajit Diwan
+- Department: CSE
+- Designation: Professor (Deceased Jan 2025)
+- Email: aad@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Graph Theory / Combinatorics
+- Research Interests & Innovation Focus: Graph theory; Combinatorics; Graph decomposition; Vertex-disjoint paths; Edge-coloured graphs; Planar graph coloring
+- Notable Projects: Extensive work on graph decomposition and partition problems; Balanced graph labeling
+- Awards: B.Tech from IIT Bombay (1983); Ph.D. from TIFR (1989); Faculty since 1988
+- Innovation Keywords: graph theory, combinatorics, graph decomposition, planar graphs, coloring, algorithms, discrete math
+- Profile: https://www.cse.iitb.ac.in/~aad/
+
+## Prof. Amitabha Sanyal
+- Department: CSE
+- Designation: Professor (HAG)
+- Email: as@cse.iitb.ac.in
+- Research Group: Formal Verification / PL (CFDVS)
+- Primary Research Area: Programming Languages / Functional PL
+- Research Interests & Innovation Focus: Programming languages (functional & logic); Program analysis; Translation validation; Liveness-based garbage collection; Static analysis & slicing for functional programs
+- Notable Projects: Static slicing for functional programs; Liveness-based garbage collection; GCC optimization validation; Loop shrinking for array programs
+- Key Tools & Platforms: Program slicing and analysis tools; GCC validation tools
+- Awards: Co-author of "Data Flow Analysis" textbook
+- Innovation Keywords: functional programming, program analysis, garbage collection, slicing, static analysis, compilers, programming languages, logic programming
+- Profile: https://www.cse.iitb.ac.in/~as/
+
+## Prof. Bernard Menezes
+- Department: CSE
+- Designation: Professor
+- Email: bernard@cse.iitb.ac.in
+- Research Group: Security & Cryptography
+- Primary Research Area: Network Security / Cryptography
+- Research Interests & Innovation Focus: Network security; Cryptography & applied cryptography; Computer security; Parallel computing; Smart e-business; Forecasting
+- Notable Projects: Cryptography and network security systems; Smart e-business platforms
+- Industry Collaborations: Former: Univ of Maryland, Univ of New Mexico; 22+ years faculty experience; Supervised 50+ graduate students
+- Awards: Author: "Network Security and Cryptography" & "Cryptography, Network Security, and Cyber Laws" textbooks
+- Innovation Keywords: network security, cryptography, cyber security, cyber laws, parallel computing, e-business, encryption, protocols
+- Profile: https://www.cse.iitb.ac.in/~bernard/
+
+## Prof. Bharat Adsul
+- Department: CSE
+- Designation: Professor
+- Email: adsul@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Algorithms / Game Theory / Complexity
+- Research Interests & Innovation Focus: Algorithms; Computational complexity; Combinatorial optimization; Game theory (Nash equilibrium computation); Formal methods in concurrency; Logics and games; Geometric complexity theory
+- Notable Projects: First polynomial time algorithm for Nash equilibrium in rank-1 bimatrix games (STOC 2011); Constant rank bimatrix games complexity (STOC 2013)
+- Awards: STOC 2011 & 2013 publications
+- Innovation Keywords: algorithms, game theory, Nash equilibrium, complexity theory, combinatorial optimization, formal methods, concurrency
+- Profile: https://www.cse.iitb.ac.in/~adsul/
+
+## Prof. Bhaskaran Raman
+- Department: CSE
+- Designation: Professor
+- Email: br@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG)
+- Primary Research Area: Wireless Networks / ICT for Development
+- Research Interests & Innovation Focus: Wireless networking (802.11); Long-distance rural wireless; Computing for Development (C4D); Road traffic systems; Smart transportation; WiFi mesh networking
+- Notable Projects: RuralNet (Digital Gangetic Plains); CARTS (traffic system); CityProbe; SAFE (smart exams); APRICOT (contact tracing); SMALL-BAG (shopping app); BodhiTree learning platform
+- Key Tools & Platforms: RuralNet, CARTS, CityProbe, SAFE, BodhiTree
+- Industry Collaborations: Focus on practical deployment in Indian context
+- Awards: P.K. Patwardhan Technology Development Award 2022 (SAFE)
+- Innovation Keywords: wireless networks, rural connectivity, ICT4D, smart transportation, traffic sensing, WiFi mesh, contact tracing, e-learning, developing regions
+- Profile: https://www.cse.iitb.ac.in/~br/
+
+## Prof. G. Sivakumar
+- Department: CSE
+- Designation: Professor
+- Email: siva@cse.iitb.ac.in
+- Research Group: Theoretical CS; CFDVS
+- Primary Research Area: Logic / Formal Methods / Network Security
+- Research Interests & Innovation Focus: Logic & formal methods; Formal verification & model checking; Automata theory; Cryptographic protocols; Internet security; Networks; Free/open-source software
+- Notable Projects: Formal verification systems; OSSRC (Open Source Software Resource Centre with IBM & CDAC); Campus network design
+- Key Tools & Platforms: OSSRC tools and infrastructure
+- Industry Collaborations: IBM; CDAC (OSSRC collaboration)
+- Awards: Ph.D. from RPI; B.Tech IIT Madras
+- Innovation Keywords: logic, formal methods, automata, cryptographic protocols, network security, open source, FOSS, verification, model checking
+- Profile: https://www.cse.iitb.ac.in/~siva/
+
+## Prof. Krithi Ramamritham
+- Department: CSE
+- Designation: Vijay and Sita Vashee Chair Professor
+- Email: krithi@cse.iitb.ac.in
+- Research Group: Databases / InfoLab; Head of KReSIT
+- Primary Research Area: Real-time Systems / IoT
+- Research Interests & Innovation Focus: Real-time database systems; IoT & sensor networks; Embedded systems; Smart energy systems; Mobile & ubiquitous computing; Timeliness & consistency in distributed systems
+- Notable Projects: Real-time database frameworks; Smart energy grid systems; IoT sensor network platforms; Mobile computing applications
+- Key Tools & Platforms: Real-time database systems; Sensor network platforms
+- Industry Collaborations: University of Massachusetts Amherst (former faculty)
+- Awards: Fellow of IEEE, ACM, Indian Academy of Sciences, NASI, INAE
+- Innovation Keywords: real-time systems, IoT, sensor networks, embedded systems, smart energy, databases, mobile computing, ubiquitous computing, smart grids
+- Profile: https://www.cse.iitb.ac.in/~krithi/
+
+## Prof. Manoj Prabhakaran
+- Department: CSE
+- Designation: Vashee Chair Professor; Adjunct Prof UIUC
+- Email: mp@cse.iitb.ac.in
+- Research Group: Theoretical CS; Trust Lab (PI)
+- Primary Research Area: Cryptography / Information Theory
+- Research Interests & Innovation Focus: Cryptography; Information theory; Theoretical CS; Information security; Applied cryptography; Digital trust
+- Notable Projects: Trust Lab initiatives; Cryptographic protocol design; Secure computation
+- Key Tools & Platforms: Cryptographic tools and protocols
+- Industry Collaborations: IIT Bombay Institute Gold Medal; Princeton Ph.D.; IBM Ph.D. Fellowship; NSF CAREER Award; Beckman Fellowship; ACM India Cybersecurity Task Force
+- Awards: IBM PhD Fellowship; NSF CAREER Award; Beckman Faculty Fellowship; Ramanujan Fellowship; Associate Editor Journal of Cryptology
+- Innovation Keywords: cryptography, information theory, secure computation, digital trust, information security, privacy, protocols, Aadhaar, cybersecurity
+- Profile: https://www.cse.iitb.ac.in/~mp/
+
+## Prof. Milind Sohoni
+- Department: CSE
+- Designation: Professor
+- Email: sohoni@cse.iitb.ac.in
+- Research Group: Theoretical CS / Development Engineering
+- Primary Research Area: Algorithms / GCT / Development Engineering
+- Research Interests & Innovation Focus: Geometric complexity theory (GCT); Development engineering; Water resource management; Game theory; Public policy & tech impact; Rural development
+- Notable Projects: GCT I & II (with Ketan Mulmuley, SIAM); Unnat Maharashtra Abhiyan; GISE Hub; HP-IDP; Village water budgets; Land records modernization (Govt of Maharashtra)
+- Industry Collaborations: Government of Maharashtra advisor; MSRTC data sharing; Land records modernization
+- Awards: SIAM Journal publications on GCT
+- Innovation Keywords: geometric complexity theory, development engineering, rural development, water management, public policy, algorithms, game theory, government advisor
+- Profile: https://www.cse.iitb.ac.in/~sohoni/
+
+## Prof. Nutan Limaye
+- Department: CSE
+- Designation: Professor (now at IT University of Copenhagen)
+- Email: nutan@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Circuit Complexity / Algebraic Complexity
+- Research Interests & Innovation Focus: Circuit complexity (Boolean & arithmetic); Algebraic complexity theory; Graph algorithms; Lower bounds
+- Notable Projects: Superpolynomial lower bounds against low-depth algebraic circuits (FOCS 2021 Best Paper)
+- Awards: FOCS 2021 Best Paper Award; ACM India OCCW Award 2023; Published in Journal of the ACM
+- Innovation Keywords: circuit complexity, algebraic complexity, lower bounds, Boolean circuits, arithmetic circuits, theoretical CS
+- Profile: https://www.cse.iitb.ac.in/~nutan/
+
+## Prof. Parag Chaudhuri
+- Department: CSE
+- Designation: Professor
+- Email: paragc@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: Computer Graphics / AR-VR
+- Research Interests & Innovation Focus: Computer graphics & animation; Virtual and augmented reality; Character animation & motion synthesis; Geometric modeling; Rendering; Interactive applications
+- Notable Projects: Animation systems; AR/VR applications; Character motion synthesis
+- Key Tools & Platforms: Graphics and animation frameworks
+- Innovation Keywords: computer graphics, animation, AR, VR, augmented reality, virtual reality, motion synthesis, rendering, 3D modeling, interactive media
+- Profile: https://www.cse.iitb.ac.in/~paragc/
+
+## Prof. Rushikesh K. Joshi
+- Department: CSE
+- Designation: Professor
+- Email: rkj@cse.iitb.ac.in
+- Research Group: Software Engineering
+- Primary Research Area: Software Architecture / Design
+- Research Interests & Innovation Focus: Computational models for programs; Software architecture & component systems; Conceptual models & meta-models; Software design & re-engineering; Object-oriented programming; Concurrent & distributed systems; Process engineering; Program refactoring
+- Notable Projects: ARC (Anonymous Remote Computing, parallel platform); ArcSharp (.NET parallel computing); PICS (component system); Constore (graph database); Filter Objects; Ox (object identification)
+- Key Tools & Platforms: ARC, ArcSharp, PICS, Constore, Filter Objects, Ox
+- Industry Collaborations: Advised ~100 M.Tech/B.Tech projects; 8+ PhD graduates
+- Awards: Faculty since 1997; Multiple PhD graduates in industry
+- Innovation Keywords: software architecture, component systems, software design, OOP, refactoring, process engineering, parallel computing, graph databases, distributed systems, design patterns
+- Profile: https://www.cse.iitb.ac.in/~rkj/
+
+## Prof. S. Sudarshan
+- Department: CSE
+- Designation: Subrao M. Nilekani Chair Professor (Former HoD)
+- Email: sudarsha@cse.iitb.ac.in
+- Research Group: Databases / InfoLab
+- Primary Research Area: Database Systems / Query Optimization
+- Research Interests & Innovation Focus: Query processing & optimization; Database application testing; Keyword search on databases & RDF; Holistic optimization; Main memory databases; Data generation for testing
+- Notable Projects: Pyro/PyroJ (query optimization framework); XData (data generation & testing); BANKS (keyword queries on RDF); DBridge (holistic optimization)
+- Key Tools & Platforms: Pyro/PyroJ, XData, BANKS, DBridge
+- Industry Collaborations: AT&T Bell Laboratories (3 years); Co-author of Database System Concepts (7th Ed., globally used textbook)
+- Awards: ACM SIGMOD PC Chair 2024; VLDB Foundation Trustee (2010-15); Associate Editor ACM TODS, IEEE TKDE
+- Innovation Keywords: databases, query optimization, SQL, database testing, keyword search, RDF, data generation, main memory databases, textbook author
+- Profile: https://www.cse.iitb.ac.in/~sudarsha/
+
+## Prof. Sharat Chandran
+- Department: CSE
+- Designation: Professor
+- Email: sharat@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: Medical Imaging / Computer Vision
+- Research Interests & Innovation Focus: Medical imaging & health informatics; Computer vision; Computer graphics; Parallel algorithms; Visualization; GPU computing
+- Notable Projects: Medical image analysis systems; GPU-accelerated vision algorithms; Health informatics tools
+- Key Tools & Platforms: Medical imaging analysis tools; GPU computing frameworks
+- Innovation Keywords: medical imaging, computer vision, GPU computing, health informatics, visualization, parallel algorithms, graphics, image analysis
+- Profile: https://www.cse.iitb.ac.in/~sharat/
+
+## Prof. Shivaram Kalyanakrishnan
+- Department: CSE
+- Designation: Professor
+- Email: shivaram@cse.iitb.ac.in
+- Research Group: AI/ML Group
+- Primary Research Area: Reinforcement Learning / Robotics
+- Research Interests & Innovation Focus: Reinforcement learning; Multi-armed bandits; Humanoid robotics & robot soccer; Policy iteration & evaluation; Planning under uncertainty
+- Notable Projects: Humanoid robot control systems; RL algorithms for real-world applications; 2 patents on RL methods
+- Key Tools & Platforms: RL frameworks and robot control systems
+- Awards: 2 patents
+- Innovation Keywords: reinforcement learning, robotics, bandits, humanoid robots, planning, policy optimization, autonomous agents, robot control
+- Profile: https://www.cse.iitb.ac.in/~shivaram/
+
+## Prof. Soumen Chakrabarti
+- Department: CSE
+- Designation: Halepete Chair Professor
+- Email: soumen@cse.iitb.ac.in
+- Research Group: Vision / Graphics Group
+- Primary Research Area: Knowledge Graphs / Web Mining
+- Research Interests & Innovation Focus: Graph mining & knowledge graphs; Hypertext databases; Web search & information retrieval; Entity embedding; Neural graph search; Link prediction
+- Notable Projects: Knowledge graph completion systems; Web mining frameworks; Entity-aware search systems
+- Key Tools & Platforms: Web mining and graph search tools
+- Industry Collaborations: 20+ patents (web search, IR); IBM; Yahoo Labs collaborations
+- Awards: Multiple patents in web search and information retrieval
+- Innovation Keywords: knowledge graphs, web mining, information retrieval, graph search, entity embedding, link prediction, web search, hypertext, neural search
+- Profile: https://www.cse.iitb.ac.in/~soumen/
+
+## Prof. Sridhar Iyer
+- Department: CSE
+- Designation: Professor, Center for Educational Technology
+- Email: sri@iitb.ac.in
+- Research Group: Education Technology
+- Primary Research Area: EdTech / CS Education Research
+- Research Interests & Innovation Focus: Technology-enhanced learning; CS education research; Educational technology & digital pedagogy; Research methods in EdTech; MOOC design; School-level CS education
+- Notable Projects: TELoTS; TUET; Computer Masti (CS eBooks for schools K-8); Project OSCAR; WiFiRe (rural broadband); LCM (Learner-Centric MOOC) model; OTeach
+- Key Tools & Platforms: Computer Masti eBooks, LCM model, Project OSCAR, OTeach, ET Handbooks
+- Industry Collaborations: Founder/President EdTech Society; IEEE TLT Associate Editor
+- Awards: ACM India OCCE Award 2020; AECT International Award 2019; IIT Bombay Teaching Excellence (2013, 2016)
+- Innovation Keywords: educational technology, CS education, MOOCs, e-learning, school education, learning analytics, pedagogy, digital learning, teacher training
+- Profile: https://www.cse.iitb.ac.in/~sri/
+
+## Prof. Srikanth Srinivasan
+- Department: CSE
+- Designation: Professor
+- Email: srikanth@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Computational Complexity / Boolean Functions
+- Research Interests & Innovation Focus: Computational complexity; Boolean function complexity measures; Circuit complexity; Pseudorandomness; Probabilistic degrees
+- Notable Projects: Block sensitivity & certificate complexity separations; Probabilistic degrees of Boolean functions
+- Industry Collaborations: Postdoc at IAS & DIMACS Rutgers
+- Awards: FOCS 2021 Best Paper (with Nutan Limaye)
+- Innovation Keywords: complexity theory, Boolean functions, circuit complexity, pseudorandomness, block sensitivity, probabilistic degrees
+- Profile: https://www.cse.iitb.ac.in/~srikanth/
+
+## Prof. Sundar Vishwanathan
+- Department: CSE
+- Designation: Professor
+- Email: sundar@cse.iitb.ac.in
+- Research Group: Theoretical CS
+- Primary Research Area: Algorithms / Graph Algorithms
+- Research Interests & Innovation Focus: Algorithms; Combinatorics; Complexity theory; Graph algorithms; Randomized algorithms; Approximation algorithms; Sandpile diffusion
+- Notable Projects: Randomized algorithms for matching; Electric networks & sandpile transience; Graph parameter analysis
+- Innovation Keywords: algorithms, graph algorithms, randomized algorithms, approximation algorithms, combinatorics, complexity, matching, sandpile
+- Profile: https://www.cse.iitb.ac.in/~sundar/
+
+## Prof. Supratik Chakraborty
+- Department: CSE
+- Designation: Bajaj Group Chair Professor
+- Email: supratik@cse.iitb.ac.in
+- Research Group: Formal Verification / PL (CFDVS)
+- Primary Research Area: Formal Verification / Constrained Sampling
+- Research Interests & Innovation Focus: Formal verification of software & hardware; Automated synthesis; Constrained counting & sampling; Automated reasoning; Automata, logic & finite model theory; Boolean functional synthesis; Knowledge compilation; ML model interpretability
+- Notable Projects: VeriAbs (verification tool suite); Verification of intelligent systems; Pareto-optimal ML model interpretations; Constrained sampling algorithms
+- Key Tools & Platforms: VeriAbs verification suite; Knowledge compilation tools; Synthesis and reasoning systems
+- Industry Collaborations: PhD graduates at Intel, Synopsys, TCS Research, BARC
+- Awards: Bajaj Group Chair; Kuldeep Meel (notable PhD student, now at Georgia Tech)
+- Innovation Keywords: formal verification, constrained sampling, model checking, synthesis, automated reasoning, ML interpretability, Boolean synthesis, knowledge compilation, software verification
+- Profile: https://www.cse.iitb.ac.in/~supratik/
+
+## Prof. Supratim Biswas
+- Department: CSE
+- Designation: Professor
+- Email: sb@cse.iitb.ac.in
+- Research Group: Formal Verification / PL (CFDVS)
+- Primary Research Area: Compilers / Parallel Computing
+- Research Interests & Innovation Focus: Programming languages & compiler optimization; Parallelizing compilers; Parallel computing; Functional programming; Compiler design
+- Notable Projects: Parallelizing compiler research; Functional programming systems
+- Industry Collaborations: Visiting Fellow at CSRD, University of Illinois
+- Awards: Board of Governors IIT Bombay (2014-); Former Dean of Academic Programs; Former HoD CSE
+- Innovation Keywords: compilers, parallel computing, parallelizing compilers, functional programming, compiler optimization
+- Profile: https://www.cse.iitb.ac.in/~sb/
+
+## Prof. Uday Khedker
+- Department: CSE
+- Designation: Professor (Head of Department)
+- Email: uday@cse.iitb.ac.in
+- Research Group: Formal Verification / PL (CFDVS); PLATO Lab
+- Primary Research Area: Compilers / Program Analysis
+- Research Interests & Innovation Focus: Programming languages & compilers; Data flow analysis theory & practice; Points-to analysis & heap reference analysis; Liveness analysis; Compiler optimization
+- Notable Projects: GCC Resource Center; Data flow analysis frameworks; VASCO (interprocedural analysis for Java)
+- Key Tools & Platforms: GCC Resource Center; VASCO; Points-to analysis tools; Online lecture series
+- Industry Collaborations: GCC development community
+- Awards: Author of "Data Flow Analysis: Theory and Practice" textbook; Current HoD of CSE
+- Innovation Keywords: compilers, program analysis, data flow analysis, GCC, points-to analysis, heap analysis, compiler optimization, programming languages
+- Profile: https://www.cse.iitb.ac.in/~uday/
+
+## Prof. Umesh Bellur
+- Department: CSE
+- Designation: Professor
+- Email: umesh.bellur@iitb.ac.in
+- Research Group: Systems / Networks (SYNERG)
+- Primary Research Area: Cloud Computing / Distributed Systems
+- Research Interests & Innovation Focus: Cloud computing; Distributed systems; Virtualization; Service-oriented architectures; Adaptive systems; Server consolidation
+- Notable Projects: Cloud resource management systems; Virtualization optimization; Adaptive QoS routing
+- Key Tools & Platforms: Cloud management and virtualization tools
+- Innovation Keywords: cloud computing, virtualization, distributed systems, microservices, server consolidation, QoS, adaptive systems, containerization
+- Profile: https://www.cse.iitb.ac.in/~umesh/
+
+## Prof. Varsha Apte
+- Department: CSE
+- Designation: Professor
+- Email: varsha@cse.iitb.ac.in
+- Research Group: Systems / Networks (SYNERG)
+- Primary Research Area: Performance Modeling / Distributed Systems
+- Research Interests & Innovation Focus: Performance evaluation of computer systems & networks; Distributed applications; E-learning systems; Performance modeling & simulation; Queueing theory
+- Notable Projects: Performance modeling frameworks; E-learning platforms; Distributed system benchmarking
+- Key Tools & Platforms: Performance evaluation tools
+- Innovation Keywords: performance modeling, distributed systems, queueing theory, e-learning, system evaluation, benchmarking, network performance, simulation
+- Profile: https://www.cse.iitb.ac.in/~varsha/

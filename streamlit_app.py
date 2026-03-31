@@ -171,7 +171,7 @@ st.markdown("""
             <p>Institution's Innovation Council, IIT Bombay</p>
             <div class="hero-badge">
                 <span class="dot"></span>
-                869 Professors &bull; 2400+ Knowledge Sources &bull; Powered by AI
+                818 Professors &bull; 3200+ Courses &bull; 19 Knowledge Categories &bull; Powered by AI
             </div>
         </div>
     </div>
@@ -197,23 +197,23 @@ if not st.session_state.messages and not st.session_state.pending_query:
         <h2>How can I help you innovate?</h2>
         <p>Ask me anything about IIT Bombay's innovation ecosystem — I'll find the right courses, labs, funding, professors, and resources for your idea.</p>
         <div class="welcome-features">
-            <span class="feature-chip">🎓 869+ Professors</span>
+            <span class="feature-chip">🎓 818 Professors</span>
+            <span class="feature-chip">📚 3200+ Courses</span>
             <span class="feature-chip">🔬 Labs & MakerSpaces</span>
             <span class="feature-chip">💰 Funding Schemes</span>
             <span class="feature-chip">🚀 SINE Incubation</span>
             <span class="feature-chip">📜 Patent & IP</span>
-            <span class="feature-chip">📚 20+ Courses</span>
         </div>
     </div>
     """, unsafe_allow_html=True)
 
     starters = [
-        ("💡", "I have a startup idea — where do I start?"),
-        ("🎓", "What entrepreneurship courses does DSSE offer?"),
-        ("🤖", "AI healthcare startup — which professors can help?"),
-        ("🔧", "How can I use Tinkerers' Lab for prototyping?"),
+        ("💡", "I have a startup idea in AI. How do I start? Give me the full process."),
+        ("🎓", "What courses should I take for an EdTech startup?"),
+        ("🤖", "I want to build a healthcare startup — which professors and courses can help?"),
+        ("🔍", "How do I do customer discovery for my startup idea?"),
         ("📜", "How do I file a patent at IIT Bombay?"),
-        ("💰", "What funding is available for early-stage startups?"),
+        ("💰", "What funding and incubation support is available at IIT Bombay?"),
     ]
 
     cols = st.columns(2)

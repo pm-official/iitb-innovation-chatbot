@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# KCDH (Associated) + Mathematics Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Siuli Mukhopadhyay
+- Department: KCDH (Associated) + Mathematics
+- Designation: Professor, Dept. of Mathematics
+- Email: siuli@math.iitb.ac.in
+- Research Group: Biostatistics & Disease Modelling Group (Mathematics)
+- Primary Research Area: Biostatistics, Disease Modelling & Epidemiology
+- Research Interests & Innovation Focus: Statistical methods for clinical trials; Experimental design for healthcare; Disease modeling & epidemiology; Vaccination strategy optimization; Public health data analytics; Population health modelling; Compartmental models for infectious disease; Design of experiments; Bayesian statistics for health data; Spatial epidemiology
+- Notable Projects: Co-leads National Disease Modelling Consortium (NDMC); Bill and Melinda Gates Foundation funded research; COVID-19 epidemiological modeling; Vaccination optimization models; KCDH associated faculty for biostatistics
+- Key Tools & Platforms: R, SAS, MATLAB, Bayesian statistical methods, compartmental disease models, spatial statistics, clinical trial design software
+- Industry Collaborations: Bill and Melinda Gates Foundation; National Disease Modelling Consortium (NDMC); Public health agencies; KCDH healthcare analytics
+- Awards: Co-lead NDMC; Gates Foundation funding; Expert in disease modeling and biostatistics; COVID-19 modeling contributions
+- Innovation Keywords: biostatistics, disease modeling, epidemiology, clinical trials, vaccination strategies, public health, population health, experimental design, Bayesian statistics, digital health
+- Profile: https://www.math.iitb.ac.in/~siuli/

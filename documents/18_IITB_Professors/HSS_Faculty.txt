@@ -1,0 +1,459 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# HSS Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## A. P. Rajaram
+- Department: HSS
+- Designation: Associate Professor
+- Email: rajaram@iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Ritual Dance, Movement Analysis & Performance
+- Research Interests & Innovation Focus: Ritual dance forms, movement analysis, devadasi repertoire, trance and performance traditions, performance studies
+- Notable Projects: Dance performance research, movement analysis studies
+- Innovation Keywords: ritual dance, movement analysis, performance traditions, devadasi, trance
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Ahonaa Roy
+- Department: HSS
+- Designation: Assistant Professor
+- Email: ahonaaroy@hss.iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Gender & Sexuality, Medical Anthropology
+- Research Interests & Innovation Focus: Gender and sexuality, medical anthropology, body and embodiment, community health, feminist ethnography
+- Notable Projects: Gender and health research, embodiment studies
+- Innovation Keywords: gender, sexuality, medical anthropology, community health, embodiment
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Amrita Banerjee
+- Department: HSS
+- Designation: Assistant Professor
+- Email: abanerjee.phi@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Moral, Social & Political Philosophy
+- Research Interests & Innovation Focus: Moral philosophy, social philosophy, political philosophy, ethics, justice theory, normative frameworks
+- Notable Projects: Ethics of innovation, justice and technology studies
+- Innovation Keywords: moral philosophy, political philosophy, ethics, justice, normative theory
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Anush Kapadia
+- Department: HSS
+- Designation: Associate Professor
+- Email: akapadia@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Political Economy & Financial Systems
+- Research Interests & Innovation Focus: Politics of financial systems, system design, political economy, industrial policy, funding ecosystems
+- Notable Projects: Financial architecture of innovation, industrial policy studies
+- Key Tools & Platforms: Econometric tools, historical analysis
+- Innovation Keywords: political economy, financial systems, industrial policy, funding ecosystems
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Azizuddin Khan
+- Department: HSS
+- Designation: Professor
+- Email: aziz@hss.iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Cognitive Psychology & Educational Psychology
+- Research Interests & Innovation Focus: Cognitive psychology, educational psychology, human cognitive processes, learning and memory, attention
+- Notable Projects: Cognitive learning studies, educational design research
+- Key Tools & Platforms: Eye tracking, EEG, cognitive testing tools
+- Innovation Keywords: cognitive psychology, educational psychology, learning, memory, attention
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## C. D. Sebastian
+- Department: HSS
+- Designation: Professor
+- Email: Sebastian@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Classical Indian Philosophy
+- Research Interests & Innovation Focus: Classical Indian philosophy, Buddhist philosophy, Sankhya, Vedanta, Indian knowledge systems
+- Notable Projects: Indian philosophical studies
+- Innovation Keywords: Indian philosophy, Buddhist philosophy, Sankhya, Vedanta, knowledge systems
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## D. Parthasarathy
+- Department: HSS
+- Designation: Professor (on lien)
+- Email: dp@hss.iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Urban Studies & Development Governance
+- Research Interests & Innovation Focus: Urban studies, development studies, law and governance, legal pluralism, vulnerability, disaster management
+- Notable Projects: Urban governance studies, vulnerability assessment research
+- Key Tools & Platforms: GIS, survey tools, qualitative methods
+- Innovation Keywords: urban studies, governance, legal pluralism, development, vulnerability
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Deepak Naorem
+- Department: HSS
+- Designation: Assistant Professor
+- Email: deepak@hss.iitb.ac.in
+- Research Group: History Section
+- Primary Research Area: History of Northeast India & Language Politics
+- Research Interests & Innovation Focus: History of Northeast India, language and script politics, literary cultures, regional history
+- Notable Projects: Northeast India history studies
+- Innovation Keywords: Northeast India, language politics, script, literary cultures, regional history
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Ilito H. Achumi
+- Department: HSS
+- Designation: Assistant Professor
+- Email: ilito.achumi@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Memory Studies & Historical Sociology
+- Research Interests & Innovation Focus: Memory studies, historical sociology, oral history, tribe and class, upland tribes, community knowledge
+- Notable Projects: Oral history documentation, tribal community studies
+- Innovation Keywords: memory studies, oral history, historical sociology, tribal studies, community knowledge
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## K. Ramasubramanian
+- Department: HSS
+- Designation: Professor
+- Email: ram@hss.iitb.ac.in
+- Research Group: CISTS Section
+- Primary Research Area: Indian Science & Technology History
+- Research Interests & Innovation Focus: Indian science and technology, Indian philosophy, non-linear dynamics and chaos, history of mathematics, Indic knowledge traditions
+- Notable Projects: Indian science heritage studies, nonlinear dynamics research
+- Key Tools & Platforms: Mathematical software, archival methods
+- Innovation Keywords: Indian science, technology history, nonlinear dynamics, Indian philosophy, mathematics
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Kushal Deb
+- Department: HSS
+- Designation: Associate Professor
+- Email: kushaldeb@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Ethnicity, Multiculturalism & Urban Studies
+- Research Interests & Innovation Focus: Ethnicity, multiculturalism, urban studies, sociological theory, development, identity politics
+- Notable Projects: Multiculturalism and urban development studies
+- Innovation Keywords: ethnicity, multiculturalism, urban studies, sociological theory, development
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Mahendra Shahare
+- Department: HSS
+- Designation: Assistant Professor
+- Email: mahendra@hss.iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Science & Technology Studies (STS)
+- Research Interests & Innovation Focus: Science and Technology Studies, sociology of science, history of science and technology, science-society interface
+- Notable Projects: STS research, science communication studies
+- Innovation Keywords: STS, sociology of science, science communication, technology studies
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Malhar A. Kulkarni
+- Department: HSS
+- Designation: Professor
+- Email: malhar@hss.iitb.ac.in
+- Research Group: CISTS Section
+- Primary Research Area: Sanskrit & Philosophy of Language
+- Research Interests & Innovation Focus: Sanskrit language, Paninian grammar, philosophy of language, computational linguistics, Indian knowledge systems
+- Notable Projects: Sanskrit computational studies, Paninian grammar analysis
+- Key Tools & Platforms: NLP tools, Sanskrit corpus analysis
+- Innovation Keywords: Sanskrit, Paninian grammar, philosophy of language, computational linguistics
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Mrinal Kaul
+- Department: HSS
+- Designation: Associate Professor
+- Email: mrinal.kaul@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Philosophical Hermeneutics & Indian Philosophy
+- Research Interests & Innovation Focus: Philosophical hermeneutics, non-dual Shaiva philosophy, classical Indian philosophy, Kashmir Shaivism, textual interpretation
+- Notable Projects: Classical Indian philosophy studies, hermeneutic research
+- Innovation Keywords: hermeneutics, Shaiva philosophy, Indian philosophy, Kashmir Shaivism, interpretation
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Mrinmoyi Kulkarni
+- Department: HSS
+- Designation: Associate Professor
+- Email: mrinmoyi@hss.iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Health Behaviour & Gender Studies
+- Research Interests & Innovation Focus: Health behaviour, gender studies, women's health, group processes, developmental psychology
+- Notable Projects: Health behaviour change research, gender studies
+- Key Tools & Platforms: Survey tools, statistical analysis
+- Innovation Keywords: health behaviour, gender, women's health, developmental psychology, group processes
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Naina Manjrekar
+- Department: HSS
+- Designation: Associate Professor
+- Email: naina@hss.iitb.ac.in
+- Research Group: History Section
+- Primary Research Area: 20th Century Political Movements & Migration
+- Research Interests & Innovation Focus: 20th-century political movements, migration, anticolonialism, subaltern histories, South Asian history
+- Notable Projects: Political movement research, migration studies
+- Innovation Keywords: political movements, migration, anticolonialism, subaltern history, South Asian
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Neha Chatterji
+- Department: HSS
+- Designation: Assistant Professor
+- Email: neha.chatterji@iitb.ac.in
+- Research Group: History Section
+- Primary Research Area: Social History of Modern India & Caste
+- Research Interests & Innovation Focus: Social history of modern India, caste in Bengal, subordinate-caste affirmations, colonial history
+- Notable Projects: Caste history research, social affirmation studies
+- Innovation Keywords: social history, caste, Bengal, modern India, colonial history, affirmation
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Paulomi Chakraborty
+- Department: HSS
+- Designation: Associate Professor
+- Email: paulomichakra@iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Partition Studies & Postcolonial Theory
+- Research Interests & Innovation Focus: Partition history, South Asian fiction, postcolonial theory, feminist theory, literary studies
+- Notable Projects: Partition literature research, postcolonial studies
+- Innovation Keywords: partition, South Asian fiction, postcolonial theory, feminist theory, literature
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Pooja Purang
+- Department: HSS
+- Designation: Professor & HOD
+- Email: head.hss@iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Organizational Behavior & I-O Psychology
+- Research Interests & Innovation Focus: Organizational behavior, industrial-organizational psychology, gender at work, cross-cultural management, team dynamics
+- Notable Projects: Organizational behaviour studies, workplace gender research
+- Key Tools & Platforms: Survey tools, psychometric instruments
+- Awards: Head of HSS Department
+- Innovation Keywords: organizational behavior, I-O psychology, gender at work, cross-cultural management
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Pravesh Jung Golay
+- Department: HSS
+- Designation: Assistant Professor
+- Email: pgjung@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Moral Theory & Ethics
+- Research Interests & Innovation Focus: Moral theory, history of concepts, ethics, social-political philosophy, conceptual analysis
+- Notable Projects: Ethics and moral theory research
+- Innovation Keywords: moral theory, ethics, social-political philosophy, conceptual history
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Rachel A. Varghese
+- Department: HSS
+- Designation: Assistant Professor
+- Email: rachelv@iitb.ac.in
+- Research Group: History Section
+- Primary Research Area: Archaeology & Heritage Studies
+- Research Interests & Innovation Focus: Archaeology, politics of archaeology, archaeological heritage, material culture, public archaeology
+- Notable Projects: Archaeological heritage studies, material culture research
+- Key Tools & Platforms: GIS, archaeological field methods
+- Innovation Keywords: archaeology, heritage, material culture, public archaeology, politics
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Raile R. Ziipao
+- Department: HSS
+- Designation: Associate Professor
+- Email: ziipao@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Infrastructure Anthropology & Tribal Studies
+- Research Interests & Innovation Focus: Socio-anthropology of infrastructure, indigenous and tribal studies, Northeast India, border towns, development anthropology
+- Notable Projects: Infrastructure ethnography, tribal development studies
+- Innovation Keywords: infrastructure anthropology, tribal studies, Northeast India, border, indigenous
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Rajakishore Nath
+- Department: HSS
+- Designation: Professor
+- Email: rajakishorenath@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Philosophy of AI & Cognitive Science
+- Research Interests & Innovation Focus: Philosophy of AI, philosophy of mind, philosophy of cognitive science, AI ethics, consciousness studies
+- Notable Projects: AI ethics research, philosophy of mind studies
+- Innovation Keywords: philosophy of AI, AI ethics, philosophy of mind, cognitive science, consciousness
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Ramesh Bairy T S
+- Department: HSS
+- Designation: Associate Professor
+- Email: ramesh@hss.iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Caste, Religion & Social Stratification
+- Research Interests & Innovation Focus: Caste, religious institutions, hierarchy and stratification, sociology of India, social structure
+- Notable Projects: Caste and hierarchy studies
+- Innovation Keywords: caste, religion, hierarchy, stratification, sociology of India, institutions
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Ranjan K. Panda
+- Department: HSS
+- Designation: Associate Professor
+- Email: ranjan.panda@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Philosophy of Mind, Language & Education
+- Research Interests & Innovation Focus: Philosophy of mind, philosophy of language, philosophy of education, conceptual analysis, Wittgenstein
+- Notable Projects: Philosophy of education research
+- Innovation Keywords: philosophy of mind, philosophy of language, education, Wittgenstein
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Rashmi Gupta
+- Department: HSS
+- Designation: Associate Professor
+- Email: r.gupta@iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Behavioural Neuroscience & Cognitive Experiments
+- Research Interests & Innovation Focus: Behavioural and clinical experiments, fMRI, EEG, fNIRS, eye tracking, child development, cognitive neuroscience
+- Notable Projects: Neuroimaging studies, child cognitive development research
+- Key Tools & Platforms: fMRI, EEG, fNIRS, eye tracker, MATLAB
+- Innovation Keywords: fMRI, EEG, eye tracking, cognitive neuroscience, child development, behavioural
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Ratikanta Panda
+- Department: HSS
+- Designation: Associate Professor
+- Email: ratikanta@hss.iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Philosophy of Language & Wittgenstein
+- Research Interests & Innovation Focus: Philosophy of language, Wittgenstein, culture and value, ethics, contemporary Indian philosophy
+- Notable Projects: Wittgenstein studies, language philosophy research
+- Innovation Keywords: philosophy of language, Wittgenstein, culture, ethics, Indian philosophy
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Rowena Robinson
+- Department: HSS
+- Designation: Professor
+- Email: rowena@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Sociology of Religion, Gender & Minorities
+- Research Interests & Innovation Focus: Anthropology of religion, gender, minority and social subject formation, community studies, Christian communities in India
+- Notable Projects: Religion and community studies, minority formation research
+- Innovation Keywords: sociology of religion, gender, minorities, community studies, anthropology
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Sarmistha Pattanaik
+- Department: HSS
+- Designation: Associate Professor
+- Email: spattanaik@iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Environmental Sociology & Sustainability
+- Research Interests & Innovation Focus: Environmental sociology, sustainability, political ecology, coastal vulnerability, environmental governance, climate justice
+- Notable Projects: Coastal vulnerability studies, environmental governance research
+- Key Tools & Platforms: GIS, field methods, survey tools
+- Innovation Keywords: environmental sociology, sustainability, political ecology, coastal, governance
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Sharmila
+- Department: HSS
+- Designation: Associate Professor
+- Email: sharmila@hss.iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Women's Studies & Autobiography
+- Research Interests & Innovation Focus: Women's studies, autobiography studies, crisis in English studies, African American writing, feminist literary criticism
+- Notable Projects: Women's writing research, autobiographical studies
+- Innovation Keywords: women's studies, autobiography, feminist criticism, literary studies
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Sharmistha Saha
+- Department: HSS
+- Designation: Assistant Professor
+- Email: sharmistha@hss.iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Theatre Historiography & Performance Philosophy
+- Research Interests & Innovation Focus: Theatre historiography, political-left performance, performance philosophy, drama studies, cultural performance
+- Notable Projects: Theatre history research, performance studies
+- Innovation Keywords: theatre, performance, historiography, drama, cultural performance, philosophy
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Shweta Chawak
+- Department: HSS
+- Designation: Assistant Professor
+- Email: shweta@hss.iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Psycho-oncology & Health Communication
+- Research Interests & Innovation Focus: Psycho-oncology, health communication, diabetes management, women's health, behaviour change, clinical health psychology
+- Notable Projects: Health communication research, behaviour change interventions
+- Key Tools & Platforms: Survey tools, health assessment instruments
+- Innovation Keywords: psycho-oncology, health communication, behaviour change, diabetes, women's health
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Siby K George
+- Department: HSS
+- Designation: Professor
+- Email: kgsiby@hss.iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Continental Philosophy & Ethics
+- Research Interests & Innovation Focus: Continental philosophy, Heidegger, Merleau-Ponty, Levinas, ethics, phenomenology, critique of technology
+- Notable Projects: Phenomenological ethics research, technology critique
+- Innovation Keywords: continental philosophy, Heidegger, phenomenology, ethics, technology critique
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Smriti Haricharan
+- Department: HSS
+- Designation: Assistant Professor
+- Email: HSmriti@iitb.ac.in
+- Research Group: History Section
+- Primary Research Area: Archaeology & Public Heritage
+- Research Interests & Innovation Focus: Iron Age-Early Historic archaeology, landscapes, public relationships with the past, material culture, heritage management
+- Notable Projects: Archaeological landscape studies, public heritage research
+- Key Tools & Platforms: GIS, field archaeology tools
+- Innovation Keywords: archaeology, Iron Age, landscapes, public heritage, material culture
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Suddhaseel Sen
+- Department: HSS
+- Designation: Associate Professor
+- Email: suddhaseel@iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Adaptation Studies & Shakespeare
+- Research Interests & Innovation Focus: Adaptation studies, Shakespeare, Renaissance drama, European literature, comparative literature
+- Notable Projects: Shakespeare adaptation research, comparative literary studies
+- Innovation Keywords: adaptation, Shakespeare, Renaissance drama, European literature, comparative
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Sudha Shastri
+- Department: HSS
+- Designation: Professor
+- Email: shastri@hss.iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Narratology & Indian Writing in English
+- Research Interests & Innovation Focus: Narratology, intertextuality, Victorian novel, Indian writing in English, film studies, literary theory
+- Notable Projects: Narrative theory research, Indian English literature studies
+- Innovation Keywords: narratology, intertextuality, Victorian novel, Indian writing, film studies
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Suryakant Waghmore
+- Department: HSS
+- Designation: Professor
+- Email: suryakant@hss.iitb.ac.in
+- Research Group: Sociology Section
+- Primary Research Area: Social Exclusion & Caste Inequality
+- Research Interests & Innovation Focus: Social exclusion, politics at margins, caste and inequality, democratic politics, Dalit studies
+- Notable Projects: Social exclusion studies, caste inequality research
+- Innovation Keywords: social exclusion, caste, inequality, Dalit studies, democratic politics
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Tanmay Bhattacharya
+- Department: HSS
+- Designation: Associate Professor
+- Email: office.hss@iitb.ac.in
+- Research Group: Psychology Section
+- Primary Research Area: Health & Neuro-cognitive Psychology
+- Research Interests & Innovation Focus: Health psychology, neuro-cognitive psychology, subjective well-being, ergonomics, cognitive health
+- Notable Projects: Neuro-cognitive health studies, well-being research
+- Key Tools & Platforms: EEG, cognitive testing tools
+- Innovation Keywords: health psychology, neuro-cognitive, well-being, ergonomics, cognitive health
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Vaijayanthi Sarma
+- Department: HSS
+- Designation: Professor
+- Email: vsarma@hss.iitb.ac.in
+- Research Group: English Section
+- Primary Research Area: Syntactic Theory & Language Acquisition
+- Research Interests & Innovation Focus: Syntactic theory, language acquisition, endangered-language fieldwork, Dravidian languages, psycholinguistics
+- Notable Projects: Endangered language documentation, Dravidian syntax research
+- Key Tools & Platforms: NLP tools, linguistic analysis software
+- Innovation Keywords: syntax, language acquisition, endangered languages, Dravidian, psycholinguistics
+- Profile: https://www.hss.iitb.ac.in/people/faculty
+
+## Vikram Singh Sirola
+- Department: HSS
+- Designation: Assistant Professor
+- Email: v.s.sirola@iitb.ac.in
+- Research Group: Philosophy Section
+- Primary Research Area: Social Epistemology & Philosophy of Science
+- Research Interests & Innovation Focus: Social epistemology, philosophy of science, naturalistic ethics, philosophy of education, knowledge formation
+- Notable Projects: Social epistemology research, science and knowledge studies
+- Innovation Keywords: social epistemology, philosophy of science, naturalistic ethics, education
+- Profile: https://www.hss.iitb.ac.in/people/faculty

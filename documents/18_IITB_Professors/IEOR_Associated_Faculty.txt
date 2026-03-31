@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IEOR (Associated) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Om P. Damani
+- Department: IEOR (Associated)
+- Designation: Professor, CSE; Associated Faculty IEOR
+- Email: damani.cse@iitb.ac.in
+- Research Group: Technology for Development Group (CSE/IEOR)
+- Primary Research Area: Technology for Development, System Dynamics & ICT for Social Impact
+- Research Interests & Innovation Focus: ICT for development of the bottom 80%; System dynamics modeling for social development; System architecture & design; Data science for social impact; Agent-based modeling for policy; Urban computing; Crowd simulation; Pedestrian dynamics; Educational technology; Web-based simulation
+- Notable Projects: Creator of SysDea (online system dynamics tool); Research on crowd simulation and pedestrian dynamics; Publications in simulation and systems journals; Projects on ICT for development; Teaching system dynamics and software engineering
+- Key Tools & Platforms: SysDea (system dynamics), Python, agent-based modeling, web-based simulation, data science tools
+- Industry Collaborations: Government development programs; Social development organizations; Urban planning agencies
+- Awards: Professor CSE & Associated IEOR; Creator of SysDea; Expert in ICT for development and system dynamics
+- Innovation Keywords: ICT for development, system dynamics, crowd simulation, pedestrian dynamics, social impact, data science, agent-based modeling, urban computing, educational technology
+- Profile: https://www.cse.iitb.ac.in/~damani/

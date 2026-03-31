@@ -1,0 +1,299 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Earth Sciences Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Anand Singh
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: anandsingh@iitb.ac.in
+- Primary Research Area: Geophysical Inversion & Modelling
+- Research Interests & Innovation Focus: Geophysical inversion, potential field methods, gravity and magnetic inversion, subsurface modelling
+- Notable Projects: Gravity-magnetic inversion for subsurface imaging
+- Key Tools & Platforms: Inversion software, MATLAB, Python
+- Innovation Keywords: geophysical inversion, gravity, magnetics, subsurface modelling, potential field
+- Profile: https://www.geos.iitb.ac.in/?page_id=2230
+
+## Bharath Shekar
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: bshekar@iitb.ac.in
+- Primary Research Area: Seismic Imaging & Wave Propagation
+- Research Interests & Innovation Focus: Seismic imaging, wave propagation, inverse problems, seismic anisotropy, full waveform inversion
+- Notable Projects: Seismic inversion algorithm development
+- Key Tools & Platforms: Seismic processing software, MATLAB, Python, HPC
+- Innovation Keywords: seismic imaging, wave propagation, inversion, anisotropy, FWI
+- Profile: https://www.geos.iitb.ac.in/?page_id=2250
+
+## Bivin Geo George
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: bivin.george@iitb.ac.in
+- Primary Research Area: Isotope Geochemistry & Geochronology
+- Research Interests & Innovation Focus: Radiogenic and stable isotopes, geochronology, crustal evolution, isotope geochemistry
+- Notable Projects: U-Pb geochronology, isotope studies of crustal processes
+- Key Tools & Platforms: MC-ICP-MS, TIMS, clean lab facilities
+- Innovation Keywords: isotope geochemistry, geochronology, U-Pb dating, crustal evolution, radiogenic
+- Profile: https://www.geos.iitb.ac.in/?page_id=13106
+
+## Desikan Ramakrishnan
+- Department: Earth Sciences
+- Designation: Professor
+- Email: desikan@iitb.ac.in
+- Primary Research Area: Remote Sensing & Geomorphology
+- Research Interests & Innovation Focus: Remote sensing and GIS, geomorphology, hydrogeology, lithological mapping, land degradation assessment
+- Notable Projects: Satellite-based geomorphological mapping, hydrogeological studies
+- Key Tools & Platforms: GIS, remote sensing software, MATLAB
+- Industry Collaborations: Space agencies, mining companies
+- Innovation Keywords: remote sensing, GIS, geomorphology, hydrogeology, lithological mapping
+- Profile: https://www.geos.iitb.ac.in/?page_id=2276
+
+## Enamundram Chandrasekhar
+- Department: Earth Sciences
+- Designation: Professor
+- Email: ec@iitb.ac.in
+- Primary Research Area: Geo-electromagnetic Studies
+- Research Interests & Innovation Focus: Geo-electromagnetic induction, magnetotellurics, crustal resistivity studies, deep Earth structure
+- Notable Projects: Magnetotelluric surveys of Indian subcontinent
+- Key Tools & Platforms: MT instruments, data processing tools, MATLAB
+- Innovation Keywords: magnetotellurics, electromagnetic, crustal resistivity, deep Earth, geophysics
+- Profile: https://www.geos.iitb.ac.in/?page_id=2287
+
+## George Mathew
+- Department: Earth Sciences
+- Designation: Professor
+- Email: gmathew@iitb.ac.in
+- Primary Research Area: Mineralogy & Thermochronology
+- Research Interests & Innovation Focus: Mineralogy, thermochronology, fission track dating, uplift and exhumation history
+- Notable Projects: Fission track dating of mountain belt exhumation
+- Key Tools & Platforms: FT lab, electron microprobe, optical microscopy
+- Innovation Keywords: mineralogy, thermochronology, fission track, uplift, exhumation
+- Profile: https://www.geos.iitb.ac.in/?page_id=2305
+
+## Gollapally Mohan
+- Department: Earth Sciences
+- Designation: Professor
+- Email: mohan@iitb.ac.in
+- Primary Research Area: Seismology & Earthquake Studies
+- Research Interests & Innovation Focus: Seismology, earthquake source parameters, attenuation studies, crustal seismicity
+- Notable Projects: Seismicity studies of Indian subcontinent
+- Key Tools & Platforms: Seismometers, seismic analysis tools
+- Innovation Keywords: seismology, earthquakes, attenuation, crustal seismicity, source parameters
+- Profile: https://www.geos.iitb.ac.in/?page_id=2677
+
+## Hetu Sheth
+- Department: Earth Sciences
+- Designation: Professor
+- Email: hsheth@iitb.ac.in
+- Primary Research Area: Volcanology & Igneous Petrology
+- Research Interests & Innovation Focus: Volcanology, flood basalts, Deccan volcanism, igneous petrology, geochemistry of volcanic rocks
+- Notable Projects: Deccan volcanic province studies
+- Key Tools & Platforms: XRF, ICP-MS, thin section microscopy, field mapping
+- Innovation Keywords: volcanology, Deccan basalts, igneous petrology, flood basalts, geochemistry
+- Profile: https://www.geos.iitb.ac.in/?page_id=2684
+
+## Jahnavi Punekar
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: jpunekar@iitb.ac.in
+- Primary Research Area: Micropalaeontology & Mass Extinctions
+- Research Interests & Innovation Focus: Micropalaeontology, foraminifera, mass extinction events, Cretaceous-Paleogene boundary, climate-biota interactions
+- Notable Projects: K-Pg boundary foraminiferal studies
+- Key Tools & Platforms: Microscopy, stable isotope analysis, SEM
+- Innovation Keywords: micropaleontology, foraminifera, mass extinction, K-Pg boundary, paleoclimate
+- Profile: https://www.geos.iitb.ac.in/?page_id=2693
+
+## Kumar Hemant Singh
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: khsingh@iitb.ac.in
+- Primary Research Area: Applied Geophysics & Litho-tectonics
+- Research Interests & Innovation Focus: Applied geophysics, litho-tectonic studies, gravity and magnetic methods, crustal structure interpretation
+- Notable Projects: Litho-tectonic interpretation of Indian crust
+- Key Tools & Platforms: Potential field instruments, processing software
+- Innovation Keywords: applied geophysics, litho-tectonics, gravity, magnetics, crustal structure
+- Profile: https://www.geos.iitb.ac.in/?page_id=2701
+
+## Malay Mukul
+- Department: Earth Sciences
+- Designation: Professor
+- Email: mmukul@iitb.ac.in
+- Primary Research Area: Structural Geology & Geodesy
+- Research Interests & Innovation Focus: Structural geology, geodesy, GPS and InSAR applications, fold-thrust belt tectonics
+- Notable Projects: GPS-based tectonic deformation studies, Himalayan tectonics
+- Key Tools & Platforms: GPS, InSAR, field mapping tools
+- Innovation Keywords: structural geology, geodesy, GPS, InSAR, fold-thrust belt, Himalaya
+- Profile: https://www.geos.iitb.ac.in/?page_id=2751
+
+## Munukutla Radhakrishna
+- Department: Earth Sciences
+- Designation: Professor
+- Email: radhakrishna@iitb.ac.in
+- Primary Research Area: Gravity, Magnetics & Seismotectonics
+- Research Interests & Innovation Focus: Gravity and magnetic methods, seismotectonics, continental margins, lithospheric structure
+- Notable Projects: Gravity-magnetic studies of Indian margins
+- Key Tools & Platforms: Potential field software, GIS, MATLAB
+- Innovation Keywords: gravity, magnetics, seismotectonics, continental margins, lithosphere
+- Profile: https://www.geos.iitb.ac.in/?page_id=2758
+
+## Nibedita Rakshit
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: nibedita@iitb.ac.in
+- Primary Research Area: Vertebrate Palaeontology
+- Research Interests & Innovation Focus: Vertebrate palaeontology, taphonomy, fossil vertebrates of India, Mesozoic and Cenozoic faunas
+- Notable Projects: Indian fossil vertebrate studies
+- Key Tools & Platforms: Fossil preparation, microscopy, CT scanning
+- Innovation Keywords: vertebrate palaeontology, taphonomy, fossils, Mesozoic, Cenozoic
+- Profile: https://www.geos.iitb.ac.in/?page_id=11272
+
+## Prabhakar Naraga
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: pnaraga@iitb.ac.in
+- Primary Research Area: Metamorphic Petrology
+- Research Interests & Innovation Focus: Metamorphic petrology, P-T-t path reconstruction, high-grade metamorphism, granulite studies
+- Notable Projects: P-T path determination of granulite terrains
+- Key Tools & Platforms: Electron microprobe, petrographic microscopy, thermodynamic modelling
+- Innovation Keywords: metamorphic petrology, P-T paths, granulites, high-grade metamorphism
+- Profile: https://www.geos.iitb.ac.in/?page_id=2762
+
+## Rambabu Singh
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: rambabu.singh@iitb.ac.in
+- Primary Research Area: Hydrogeology & Mining
+- Research Interests & Innovation Focus: Groundwater modelling, mining hydrogeology, hydrogeochemistry, ore-water interactions, climate-resilient groundwater management
+- Notable Projects: Mining-influenced groundwater studies, climate-resilient aquifer management
+- Key Tools & Platforms: MODFLOW, GIS, water quality analysis
+- Industry Collaborations: Mining companies
+- Innovation Keywords: groundwater, mining hydrogeology, hydrogeochemistry, aquifer management, climate
+- Profile: https://www.geos.iitb.ac.in/?page_id=15389
+
+## Sakthi Saravanan Chinnasamy
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: ssaravanan@iitb.ac.in
+- Primary Research Area: Economic Geology & Mineral Exploration
+- Research Interests & Innovation Focus: Economic geology, mineral exploration, fluid inclusions, ore deposit studies, geochemistry of ore systems
+- Notable Projects: Mineral exploration studies, fluid inclusion analysis
+- Key Tools & Platforms: Microthermometry, electron microprobe, XRF, ICP
+- Industry Collaborations: Mining companies
+- Innovation Keywords: economic geology, mineral exploration, fluid inclusions, ore deposits, geochemistry
+- Profile: https://www.geos.iitb.ac.in/?page_id=2804
+
+## Sameer Ranjan
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: sameer.ranjan@iitb.ac.in
+- Primary Research Area: Isotope Geology & Geochronology
+- Research Interests & Innovation Focus: Isotope geology, geochronology, U-Pb dating, geochemistry, crustal evolution
+- Notable Projects: U-Pb zircon dating, geochemical evolution studies
+- Key Tools & Platforms: LA-ICP-MS, clean lab, mass spectrometry
+- Innovation Keywords: isotope geology, geochronology, U-Pb, geochemistry, crustal evolution
+- Profile: https://www.geos.iitb.ac.in/?page_id=12287
+
+## Santanu Banerjee
+- Department: Earth Sciences
+- Designation: Professor
+- Email: sbanerjee@iitb.ac.in
+- Primary Research Area: Sedimentology & Basin Analysis
+- Research Interests & Innovation Focus: Sedimentology, sequence stratigraphy, basin analysis, Precambrian sedimentary environments
+- Notable Projects: Basin analysis of Indian sedimentary basins
+- Key Tools & Platforms: Petrographic microscopy, SEM, XRD, field tools
+- Industry Collaborations: Oil & gas companies
+- Innovation Keywords: sedimentology, stratigraphy, basin analysis, Precambrian, petroleum geology
+- Profile: https://www.geos.iitb.ac.in/?page_id=2807
+
+## Satish Maurya
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: maurya@iitb.ac.in
+- Primary Research Area: Seismic Imaging & Full Waveform Inversion
+- Research Interests & Innovation Focus: Seismic tomography, seismic anisotropy, full waveform inversion, subsurface imaging
+- Notable Projects: Full waveform inversion of seismic data
+- Key Tools & Platforms: Seismic processing software, HPC, Python
+- Innovation Keywords: seismic imaging, FWI, seismic anisotropy, tomography, subsurface
+- Profile: https://www.geos.iitb.ac.in/index.php/satish-maurya/
+
+## Soumyajit Mukherjee
+- Department: Earth Sciences
+- Designation: Professor
+- Email: smukherjee@iitb.ac.in
+- Primary Research Area: Structural Geology & Tectonics
+- Research Interests & Innovation Focus: Structural geology, tectonics, ductile shear zones, salt tectonics, kinematics
+- Notable Projects: Shear zone studies, salt tectonic modelling
+- Key Tools & Platforms: Field mapping, thin section analysis, MATLAB
+- Awards: Prolific author (200+ papers)
+- Innovation Keywords: structural geology, tectonics, shear zones, salt tectonics, kinematics
+- Profile: https://www.geos.iitb.ac.in/index.php/s-mukherjee/
+
+## Srinivasa Rao Gangumalla
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: srg@iitb.ac.in
+- Primary Research Area: Potential Field Geophysics
+- Research Interests & Innovation Focus: Gravity and magnetics, potential field methods, crustal structure, geodynamics
+- Notable Projects: Potential field modelling of crustal structure
+- Key Tools & Platforms: Potential field software, MATLAB, GIS
+- Innovation Keywords: gravity, magnetics, potential field, crustal structure, geodynamics
+- Profile: https://www.geos.iitb.ac.in/?page_id=13135
+
+## Sudipta Dasgupta
+- Department: Earth Sciences
+- Designation: Professor
+- Email: sdasgupta@iitb.ac.in
+- Primary Research Area: Process Sedimentology & Petroleum Geoscience
+- Research Interests & Innovation Focus: Process sedimentology, gravity-flow deposits, petroleum geoscience, submarine mass transport deposits
+- Notable Projects: Submarine gravity flow studies, petroleum reservoir characterization
+- Key Tools & Platforms: Core logging, thin section microscopy, field mapping
+- Industry Collaborations: Oil & gas companies
+- Innovation Keywords: sedimentology, gravity flows, petroleum geoscience, submarine mass transport
+- Profile: https://www.geos.iitb.ac.in/?page_id=2819
+
+## Suryendu Dutta
+- Department: Earth Sciences
+- Designation: Professor
+- Email: sdutta@iitb.ac.in
+- Primary Research Area: Organic Geochemistry Lab
+- Research Interests & Innovation Focus: Organic geochemistry, biomarker analysis, fossil fuels, paleoenvironmental reconstruction
+- Notable Projects: Biomarker analysis for paleoenvironment, organic matter characterization
+- Key Tools & Platforms: GC-MS, Py-GC-MS, isotope ratio MS
+- Industry Collaborations: Oil & gas companies
+- Innovation Keywords: organic geochemistry, biomarkers, fossil fuels, paleoenvironment
+- Profile: https://www.geos.iitb.ac.in/?page_id=2825
+
+## Trilok Nath Singh
+- Department: Earth Sciences
+- Designation: Professor
+- Email: tnsingh@iitb.ac.in
+- Primary Research Area: Engineering Geology & Rock Mechanics
+- Research Interests & Innovation Focus: Engineering geology, rock mechanics, tunnelling, slope stability, underground excavations
+- Notable Projects: Tunnelling studies, rock mass classification for Himalayan projects
+- Key Tools & Platforms: Rock testing equipment, numerical modelling, GIS
+- Industry Collaborations: Construction and mining companies
+- Innovation Keywords: engineering geology, rock mechanics, tunnelling, slope stability, excavation
+- Profile: https://www.geos.iitb.ac.in/?page_id=2833
+
+## Vikram Vishal
+- Department: Earth Sciences
+- Designation: Associate Professor
+- Email: vvishal@iitb.ac.in
+- Primary Research Area: Geomechanics & CO2 Sequestration
+- Research Interests & Innovation Focus: Geomechanics, CO2 sequestration in coal seams, coalbed methane, unconventional energy resources, rock physics
+- Notable Projects: CO2 storage in coal, CBM extraction optimization
+- Key Tools & Platforms: Rock mechanics lab, X-ray CT, permeability testing
+- Industry Collaborations: Oil & gas, carbon capture companies
+- Innovation Keywords: geomechanics, CO2 sequestration, coalbed methane, unconventional energy, rock physics
+- Profile: https://www.geos.iitb.ac.in/?page_id=2836
+
+## Vivek Kumar
+- Department: Earth Sciences
+- Designation: Assistant Professor
+- Email: vivek.kumar@iitb.ac.in
+- Primary Research Area: Seismology & Crustal Structure
+- Research Interests & Innovation Focus: Seismology, ambient noise tomography, seismic tomography, Bayesian inversion, crustal and mantle structure
+- Notable Projects: Ambient noise tomography of Indian lithosphere
+- Key Tools & Platforms: Seismometers, seismic analysis software, Python
+- Innovation Keywords: seismology, ambient noise, seismic tomography, Bayesian inversion, lithosphere
+- Profile: https://www.geos.iitb.ac.in/?page_id=13915

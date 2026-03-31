@@ -1,0 +1,74 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# KCDH Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Asst. Prof. Kshitij S. Jadhav
+- Department: KCDH
+- Designation: Assistant Professor, KCDH (MBBS, MD, PhD Neuroscience)
+- Email: kshitij@iitb.ac.in
+- Research Group: AIDE Lab (Artificial Intelligence in Digital Health)
+- Primary Research Area: Healthcare Analytics, AI/ML & LLMs in Healthcare
+- Research Interests & Innovation Focus: Machine learning for healthcare; Multimodal data integration for clinical AI; Medical data-efficient ML; Federated learning for healthcare; Large Language Models for healthcare (KARMA, RadJEPA); Clinical decision support systems; AI for radiology; Medical image analysis; Neuroscience-informed AI; Healthcare NLP; Privacy-preserving healthcare AI
+- Notable Projects: Chief Coordinator — AI Centre of Excellence, Ministry of Education, Government of India; AIDE Lab at KCDH; KARMA (healthcare LLM); RadJEPA (radiology foundation model); Bridge between clinicians and data scientists; MBBS + MD Pharmacology + PhD Neuroscience (Univ. of Lausanne); Postdoc at Cambridge
+- Key Tools & Platforms: PyTorch, TensorFlow, federated learning frameworks, LLM fine-tuning, medical image analysis pipelines, NLP for clinical text, FHIR/HL7 health data standards
+- Industry Collaborations: Ministry of Education AI CoE; Healthcare institutions for clinical AI; Government of India digital health initiatives
+- Awards: Chief Coordinator AI CoE MoE GoI; MBBS + MD + PhD (Lausanne); Postdoc Cambridge; Pioneering healthcare AI at KCDH
+- Innovation Keywords: healthcare AI, medical ML, LLMs in healthcare, federated learning, clinical decision support, radiology AI, medical imaging, healthcare NLP, digital health, KARMA, RadJEPA
+- Profile: https://www.kcdh.iitb.ac.in/kshitij
+
+## Asst. Prof. Nirmal Punjabi
+- Department: KCDH
+- Designation: Assistant Professor, KCDH
+- Email: nirmal.punjabi@iitb.ac.in
+- Research Group: Optical Sensing & Digital Diagnostics Lab (KCDH)
+- Primary Research Area: Wearable Health Technologies, Biosensors & Digital Diagnostics
+- Research Interests & Innovation Focus: Optical fiber-based biosensors; Label-free integrated optical biosensors; Plasmonic sensing (LSPR); Wearable health monitoring devices; Telemedicine & remote healthcare; Consumer health technologies; Digital diagnostics; Gold nanoparticle-based biosensing; Fiber-optic sensors for environmental & biological monitoring; Real-time health monitoring systems
+- Notable Projects: KCDH core faculty; Wearable sensors and Pranayama-based interventions project; Research on optical fiber biosensors published in IEEE Sensors, ACS Sensors; 886+ Google Scholar citations; Multiple fiber-optic sensor innovations
+- Key Tools & Platforms: Optical fiber sensor platforms, LSPR sensor probes, gold nanoparticle functionalization, evanescent wave spectroscopy, wearable sensor design, telemedicine platforms
+- Industry Collaborations: Sensing and Monitoring Foundation; Medical institutions for wearable health trials; Healthcare device companies
+- Awards: 886+ citations; Publications in IEEE Sensors Journal, ACS Sensors; Expert in optical biosensing
+- Innovation Keywords: optical biosensors, fiber-optic sensors, wearable health, telemedicine, digital diagnostics, plasmonic sensing, LSPR, real-time monitoring, consumer health, biosensors
+- Profile: https://www.kcdh.iitb.ac.in/nirmal
+
+## Asst. Prof. Saket Choudhary
+- Department: KCDH
+- Designation: Assistant Professor, KCDH (PhD USC; Postdoc NY Genome Center)
+- Email: saket@iitb.ac.in
+- Research Group: Choudhary Lab (Computational Biology & Genomics)
+- Primary Research Area: Computational Biology, Single-cell Genomics & Bioinformatics
+- Research Interests & Innovation Focus: Gene expression regulation; Single-cell genomics & transcriptomics; Computational pathology; Biostatistics; Computer vision for pathology; RNA biology; Epitranscriptomics; High-throughput sequencing analysis; Population genomics; Spatial transcriptomics
+- Notable Projects: PhD from USC; Postdoc at New York Genome Center (with Rahul Satija); Contributor to Seurat (most widely used single-cell analysis tool); Research on single-cell multi-omics; Computational pathology collaborations
+- Key Tools & Platforms: R/Bioconductor, Python, Seurat, Scanpy, single-cell analysis pipelines, spatial transcriptomics tools, deep learning for pathology
+- Industry Collaborations: NY Genome Center (former); Cancer research institutions; Digital pathology companies
+- Awards: PhD USC; Postdoc NY Genome Center; Contributor to Seurat toolkit; Publications in Nature Methods, Genome Biology
+- Innovation Keywords: single-cell genomics, computational biology, bioinformatics, transcriptomics, computational pathology, gene regulation, spatial transcriptomics, digital health
+- Profile: https://www.kcdh.iitb.ac.in/saket
+
+## Col (Dr) Kalyani Addya (Retd.)
+- Department: KCDH
+- Designation: Professor of Practice, KCDH
+- Email: kalyani.addya@iitb.ac.in
+- Research Group: Healthcare Information Systems Group (KCDH)
+- Primary Research Area: Clinical Data Management, Hospital Information Systems & Digital Transformation
+- Research Interests & Innovation Focus: Hospital Information Systems (HIS) design & implementation; Clinical data management & standardization; Healthcare data analytics; Digital transformation of healthcare institutions; Medical records digitization; Healthcare cybersecurity & data privacy; Healthcare informatics; Data governance in medical systems; Electronic Health Records (EHR) implementation
+- Notable Projects: Professor of Practice at KCDH; Colonel (Retd.) Indian Army with extensive medical administration experience; HMIS Analyzer visualization dashboard project; Healthcare cybersecurity workshops; Digital health platform implementations
+- Key Tools & Platforms: Hospital management information systems (HMIS), EHR platforms, healthcare data visualization tools, cybersecurity protocols, data governance frameworks
+- Industry Collaborations: Indian Army Medical Corps (former); Healthcare institutions; Government healthcare programs; Digital health transformation initiatives
+- Awards: Colonel (Retd.) Indian Army; Extensive military & clinical administration experience; Healthcare IT expertise
+- Innovation Keywords: hospital information systems, clinical data management, healthcare digitization, EHR, medical records, data governance, cybersecurity, HMIS, digital transformation, healthcare informatics
+- Profile: https://www.kcdh.iitb.ac.in/people/faculty
+
+## Prof. Ranjith Padinhateeri
+- Department: KCDH
+- Designation: Professor-in-Charge KCDH; Dr. PV Sukhatme Chair Professor, BSBE
+- Email: ranjithp@iitb.ac.in
+- Research Group: Ranjith Padinhateeri Lab (Computational Biology & Biophysics)
+- Primary Research Area: Computational Biology, Biophysics & Chromatin Organization
+- Research Interests & Innovation Focus: Chromatin organization & nucleosome positioning; Polymer physics of biopolymers; Protein self-assembly & aggregation; Epigenetics & gene regulation; Soft-matter physics; Bioinformatics & systems biology; Statistical mechanics of biological systems; DNA-protein interactions; Chromosome folding & 3D genome organization
+- Notable Projects: Professor-in-Charge KCDH; Fulbright-Nehru Fellow 2022-23; Research on chromatin organization published in Nature Communications, PNAS, PLOS Computational Biology; Computational models for nucleosome positioning; Polymer physics models for chromosome organization
+- Key Tools & Platforms: Molecular dynamics simulations, Monte Carlo methods, polymer physics models, bioinformatics pipelines, Python/MATLAB computational tools
+- Industry Collaborations: International collaborations through Fulbright program; Biosciences research consortia; KCDH healthcare research partnerships
+- Awards: Fellow, Indian Academy of Sciences; Fulbright-Nehru Fellowship 2022-23; Dr. PV Sukhatme Chair Professor; Multiple publications in Nature Communications, PNAS
+- Innovation Keywords: computational biology, biophysics, chromatin, nucleosome, epigenetics, polymer physics, gene regulation, bioinformatics, systems biology, KCDH
+- Profile: https://www.bio.iitb.ac.in/people/faculty/ranjith-p/

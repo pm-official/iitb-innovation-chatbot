@@ -1,0 +1,434 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Chemistry Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Achintya Kumar Dutta
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: achintya@chem.iitb.ac.in
+- Primary Research Area: Theory & Computation, Materials
+- Research Interests & Innovation Focus: Many-body electronic structure theory, coupled-cluster methods, excited state calculations, computational photochemistry
+- Notable Projects: Coupled-cluster code development, excited-state method development
+- Key Tools & Platforms: Custom quantum chemistry codes, Python, HPC
+- Innovation Keywords: electronic structure, coupled-cluster, excited states, computational chemistry
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/achintya-dutta
+
+## Amber Jain
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Theory & Computation, Physical Chemistry
+- Research Interests & Innovation Focus: Non-adiabatic dynamics, quantum-classical methods, energy transfer, surface hopping, photochemistry simulation
+- Notable Projects: Non-adiabatic dynamics method development
+- Key Tools & Platforms: Custom codes, Python, HPC
+- Innovation Keywords: non-adiabatic dynamics, quantum-classical, energy transfer, surface hopping
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Anil Kumar
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Polymer & Organic Materials Chemistry
+- Research Interests & Innovation Focus: Polymer chemistry, conjugated polymers, organic electronics materials, solar cell materials, OLED materials synthesis
+- Notable Projects: Conjugated polymer synthesis for organic electronics
+- Key Tools & Platforms: NMR, GPC, UV-Vis, cyclic voltammetry
+- Industry Collaborations: Electronics and solar companies
+- Innovation Keywords: polymer chemistry, conjugated polymers, organic electronics, solar materials, OLEDs
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/anil-kumar
+
+## Anindya Datta
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Research Group: Ultrafast Spectroscopy Lab
+- Primary Research Area: Materials, Spectroscopy & Physical Chemistry
+- Research Interests & Innovation Focus: Ultrafast spectroscopy, excited state dynamics, photophysics, femtosecond laser spectroscopy, molecular rotors
+- Notable Projects: Ultrafast excited-state dynamics studies
+- Key Tools & Platforms: Femtosecond laser, time-resolved fluorescence, transient absorption
+- Innovation Keywords: ultrafast spectroscopy, photophysics, femtosecond, excited states, molecular rotors
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Arindam Chowdhury
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Research Group: Single Molecule Lab
+- Primary Research Area: Materials, Spectroscopy & Physical Chemistry
+- Research Interests & Innovation Focus: Single-molecule spectroscopy, semiconductor nanocrystals, fluorescence microscopy, quantum dots, photophysics, perovskite nanocrystals
+- Notable Projects: Single quantum dot studies, perovskite nanocrystal photophysics
+- Key Tools & Platforms: Confocal microscopy, single-molecule FRET, AFM, UV-Vis
+- Innovation Keywords: single molecule, spectroscopy, quantum dots, perovskites, fluorescence
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Arnab Dutta
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Inorganic Chemistry & Catalysis
+- Research Interests & Innovation Focus: Bio-inspired catalysis, hydrogen evolution, artificial photosynthesis, metalloenzyme mimics, electrochemistry for energy
+- Notable Projects: Bio-inspired hydrogen evolution catalysts, artificial photosynthesis
+- Key Tools & Platforms: Potentiostat, electrochemical cells, UV-Vis, IR
+- Innovation Keywords: bio-inspired catalysis, hydrogen evolution, artificial photosynthesis, metalloenzymes
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Chandra M. R. Volla
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Methodology & Catalysis
+- Research Interests & Innovation Focus: Multicomponent reactions, cascade catalysis, heterocycle synthesis, transition-metal and organocatalysis
+- Notable Projects: Multicomponent reaction development, cascade catalysis methods
+- Key Tools & Platforms: NMR, HPLC, GC-MS
+- Innovation Keywords: multicomponent reactions, cascade catalysis, heterocycles, organocatalysis
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Chandramouli Subramaniam
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Nanomaterials & Energy
+- Research Interests & Innovation Focus: Carbon nanomaterials, supercapacitors, CNT-based devices, desalination, nanoelectronics, energy storage materials
+- Notable Projects: CNT-based supercapacitors, solar desalination devices
+- Key Tools & Platforms: SEM, TEM, Raman, electrochemical workstation
+- Industry Collaborations: Energy companies
+- Innovation Keywords: carbon nanomaterials, supercapacitors, CNT, desalination, energy storage
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Chidambar Kulkarni
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Supramolecular & Materials Chemistry
+- Research Interests & Innovation Focus: Supramolecular chemistry, helical polymers, chirality, self-assembly, functional organic materials, pi-conjugated systems
+- Notable Projects: Helical polymer self-assembly, chiral materials development
+- Key Tools & Platforms: CD, UV-Vis, NMR, SEM, AFM
+- Innovation Keywords: supramolecular chemistry, chirality, helical polymers, self-assembly, organic materials
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/chidambar-kulkarni
+
+## Debabrata Maiti
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: C-H Activation & Catalysis
+- Research Interests & Innovation Focus: C-H bond functionalization, transition-metal catalysis, late-stage functionalization, drug molecule synthesis, green catalysis
+- Notable Projects: Distal C-H activation methods, drug molecule diversification
+- Key Tools & Platforms: NMR, GC-MS, HPLC
+- Industry Collaborations: Pharma companies
+- Awards: Shanti Swarup Bhatnagar Prize
+- Innovation Keywords: C-H activation, catalysis, drug synthesis, green chemistry, functionalization
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Deepti Kalsi
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Inorganic Chemistry, Catalysis & Materials
+- Research Interests & Innovation Focus: Electrocatalysis, water splitting, CO2 reduction, earth-abundant catalysts, energy materials
+- Notable Projects: Earth-abundant electrocatalysts for water splitting
+- Key Tools & Platforms: Potentiostat, electrochemical cells, XRD, XPS
+- Innovation Keywords: electrocatalysis, water splitting, CO2 reduction, earth-abundant catalysts, energy
+- Profile: https://www.chem.iitb.ac.in/people
+
+## G. Naresh Patwari
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Molecular Spectroscopy & Weak Interactions
+- Research Interests & Innovation Focus: Laser spectroscopy, non-covalent interactions, hydrogen bonding, supersonic jet spectroscopy, intermolecular forces
+- Notable Projects: Supersonic jet spectroscopy of molecular clusters
+- Key Tools & Platforms: Supersonic jet apparatus, laser systems, mass spectrometry
+- Innovation Keywords: molecular spectroscopy, non-covalent interactions, hydrogen bonding, laser spectroscopy
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Gopalan Rajaraman
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Computational Inorganic & Magnetochemistry
+- Research Interests & Innovation Focus: Computational studies of molecular magnets, single-molecule magnets, spin-orbit coupling, magnetic anisotropy, DFT
+- Notable Projects: Single-molecule magnet design, magnetic property prediction
+- Key Tools & Platforms: ORCA, Gaussian, MOLCAS, Python, HPC
+- Innovation Keywords: molecular magnets, computational chemistry, magnetic anisotropy, spin-orbit, DFT
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Irishi N. N. Namboothiri
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Synthesis
+- Research Interests & Innovation Focus: Synthetic organic chemistry, diazo compounds, 1,3-dipolar cycloadditions, heterocyclic synthesis, methodology development
+- Notable Projects: Diazo chemistry methods, heterocyclic library synthesis
+- Key Tools & Platforms: NMR, HPLC, mass spectrometry
+- Innovation Keywords: organic synthesis, diazo compounds, cycloaddition, heterocycles, methodology
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Ishita Sengupta
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: NMR & Structural Biology
+- Research Interests & Innovation Focus: Solid-state NMR, protein structure determination, amyloid aggregation, biomolecular dynamics, DNP-NMR
+- Notable Projects: Amyloid structure studies by solid-state NMR
+- Key Tools & Platforms: Solid-state NMR, DNP-NMR, protein expression
+- Innovation Keywords: NMR, structural biology, amyloids, protein dynamics, DNP
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Kamendra P. Sharma
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Soft Materials & Bioconjugates
+- Research Interests & Innovation Focus: Protein-polymer bioconjugates, soft matter, stimuli-responsive materials, biomaterials, self-assembly
+- Notable Projects: Protein-polymer conjugate materials, stimuli-responsive biomaterials
+- Key Tools & Platforms: Rheometer, DLS, SAXS, SEM, cell culture
+- Innovation Keywords: bioconjugates, soft materials, stimuli-responsive, protein-polymer, biomaterials
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Krishna P. Kaliappan
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Synthesis & Catalysis
+- Research Interests & Innovation Focus: C-H activation, domino reactions, diversity-oriented synthesis, bioactive molecule synthesis, transition-metal catalysis
+- Notable Projects: C-H functionalization methods, bioactive compound libraries
+- Key Tools & Platforms: NMR, HPLC, GC-MS
+- Innovation Keywords: C-H activation, organic synthesis, diversity-oriented, bioactive molecules, catalysis
+- Profile: https://www.chem.iitb.ac.in/people
+
+## M. Ravikanth
+- Department: Chemistry
+- Designation: Professor
+- Email: ravikanth@chem.iitb.ac.in
+- Primary Research Area: Porphyrin & Macrocyclic Chemistry
+- Research Interests & Innovation Focus: Porphyrin chemistry, corroles, expanded porphyrins, macrocyclic synthesis, photodynamic therapy agents, sensors
+- Notable Projects: Modified porphyrin synthesis, PDT agent development
+- Key Tools & Platforms: NMR, UV-Vis, mass spectrometry, single-crystal XRD
+- Innovation Keywords: porphyrins, corroles, macrocycles, photodynamic therapy, molecular sensors
+- Profile: https://www.chem.iitb.ac.in/~ravikanth/homepage/aboutus.html
+
+## Maheswaran S.
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Coordination & Magnetochemistry
+- Research Interests & Innovation Focus: Single-molecule magnets, polynuclear metal clusters, coordination chemistry, lanthanide chemistry, magnetic materials
+- Notable Projects: Lanthanide single-molecule magnet synthesis
+- Key Tools & Platforms: SQUID, single-crystal XRD, TGA
+- Innovation Keywords: coordination chemistry, molecular magnets, lanthanides, clusters, magnetic materials
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Nand Kishore
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Biophysical Chemistry & Thermodynamics
+- Research Interests & Innovation Focus: Biophysical chemistry, calorimetry, protein stability, drug-protein binding, microcalorimetry, solution thermodynamics
+- Notable Projects: Protein-drug binding thermodynamics, microcalorimetry studies
+- Key Tools & Platforms: ITC, DSC, UV-Vis, fluorescence
+- Innovation Keywords: biophysical chemistry, calorimetry, protein stability, drug binding, thermodynamics
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/nand-kishore
+
+## Nandita Madhavan
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Bio-organic & Peptide Chemistry
+- Research Interests & Innovation Focus: Peptide chemistry, synthetic channels, membrane transport, peptidomimetics, bio-organic chemistry, self-assembly
+- Notable Projects: Synthetic ion channels, peptide-based transport systems
+- Key Tools & Platforms: NMR, CD, fluorescence, liposome assays
+- Innovation Keywords: peptide chemistry, synthetic channels, membrane transport, peptidomimetics, bio-organic
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Pradeepkumar P. I.
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Nucleic Acid Chemistry & Chemical Biology
+- Research Interests & Innovation Focus: Chemical biology, nucleic acid chemistry, RNA therapeutics, oligonucleotide modifications, gene silencing, siRNA design
+- Notable Projects: RNA therapeutic development, modified oligonucleotide synthesis
+- Key Tools & Platforms: HPLC, mass spectrometry, cell culture, molecular biology tools
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: nucleic acids, chemical biology, RNA therapeutics, siRNA, oligonucleotides
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Prasenjit Ghosh
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Computational Inorganic Chemistry
+- Research Interests & Innovation Focus: DFT studies of catalysis, CO2 reduction catalysts, nitrogen fixation, molecular magnetism, spin-crossover complexes
+- Notable Projects: Computational catalyst design for CO2 reduction and N2 fixation
+- Key Tools & Platforms: VASP, Gaussian, ORCA, Python
+- Innovation Keywords: DFT, catalysis, CO2 reduction, nitrogen fixation, molecular magnetism
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Raghavan B. Sunoj
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Computational Organic Chemistry
+- Research Interests & Innovation Focus: Computational catalysis, reaction mechanism elucidation, DFT studies of organic reactions, stereoselectivity prediction, machine learning for chemistry
+- Notable Projects: DFT-based mechanism studies, ML for reaction prediction
+- Key Tools & Platforms: Gaussian, ORCA, Python, ML tools, HPC
+- Innovation Keywords: computational organic, DFT, reaction mechanisms, stereoselectivity, ML chemistry
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Rahul Maitra
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Theory & Computation, Materials
+- Research Interests & Innovation Focus: Quantum chemistry, strongly correlated electrons, tensor network methods, multi-reference methods, electronic structure
+- Notable Projects: Tensor network electronic structure methods
+- Key Tools & Platforms: Custom codes, Python, HPC
+- Innovation Keywords: quantum chemistry, strongly correlated, tensor networks, electronic structure
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Rajarshi Chakrabarti
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Research Group: Computational Biophysics Group
+- Primary Research Area: Theory & Computation, Biological Chemistry
+- Research Interests & Innovation Focus: Computational biophysics, polymer dynamics, protein folding simulations, coarse-grained modelling, enhanced sampling methods
+- Notable Projects: Protein folding MD simulations, polymer dynamics modelling
+- Key Tools & Platforms: GROMACS, LAMMPS, Python, HPC
+- Innovation Keywords: computational biophysics, protein folding, polymer dynamics, MD simulation
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Ramaswamy Murugavel
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Inorganic & Materials Chemistry
+- Research Interests & Innovation Focus: Main-group and transition-metal phosphonates, MOFs, catalysis, molecular precursors for materials, cluster chemistry
+- Notable Projects: Phosphonate MOF synthesis, molecular precursor chemistry
+- Key Tools & Platforms: Single-crystal XRD, TGA, SEM, catalysis reactors
+- Innovation Keywords: inorganic chemistry, MOFs, phosphonates, catalysis, cluster chemistry, materials
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/r-murugavel
+
+## Rodney A. Fernandes
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Synthesis & Catalysis
+- Research Interests & Innovation Focus: Total synthesis of natural products, transition-metal catalysis, stereochemistry, asymmetric synthesis, green synthesis
+- Notable Projects: Natural product total synthesis, catalytic methodology development
+- Key Tools & Platforms: NMR, HPLC, mass spectrometry, chiral HPLC
+- Innovation Keywords: organic synthesis, natural products, catalysis, asymmetric synthesis, stereochemistry
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Ruchi Anand
+- Department: Chemistry
+- Designation: Professor & HOD
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Physical Chemistry & Biological Chemistry
+- Research Interests & Innovation Focus: Protein biochemistry, enzyme mechanisms, biophysical chemistry, protein-ligand interactions, structural biology, fluorescence spectroscopy
+- Notable Projects: Enzyme mechanism studies, protein-ligand interaction research
+- Key Tools & Platforms: Fluorescence spectrophotometer, CD, ITC, molecular docking
+- Industry Collaborations: Pharma and biotech companies
+- Innovation Keywords: biological chemistry, enzymes, protein biochemistry, biophysical, fluorescence
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Sandip Kar
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Systems Chemistry & Nonlinear Dynamics
+- Research Interests & Innovation Focus: Nonlinear dynamics in chemical systems, oscillating reactions, pattern formation, systems chemistry, biological oscillators
+- Notable Projects: Chemical oscillator studies, reaction-diffusion pattern formation
+- Key Tools & Platforms: MATLAB, Python, kinetic modelling tools
+- Innovation Keywords: nonlinear dynamics, oscillating reactions, pattern formation, systems chemistry
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Sanjog S. Nagarkar
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: MOF Chemistry & Sensing
+- Research Interests & Innovation Focus: Metal-organic frameworks, luminescent MOFs, chemical sensing, gas storage, water harvesting MOFs
+- Notable Projects: MOF-based sensors, atmospheric water harvesting materials
+- Key Tools & Platforms: XRD, BET, fluorescence, TGA
+- Innovation Keywords: MOFs, chemical sensing, luminescent materials, gas storage, water harvesting
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Santosh J. Gharpure
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Synthesis & Methodology
+- Research Interests & Innovation Focus: Synthetic organic chemistry, new methodology development, heterocyclic chemistry, radical chemistry, domino reactions
+- Notable Projects: New synthetic methodology, heterocyclic compound synthesis
+- Key Tools & Platforms: NMR, mass spectrometry, HPLC
+- Innovation Keywords: organic synthesis, methodology, heterocycles, radical chemistry, domino reactions
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Satyadeep Waiba
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Catalysis & Materials Chemistry
+- Research Interests & Innovation Focus: Sustainable catalysis, biomass conversion, functional materials synthesis, green chemistry approaches
+- Notable Projects: Biomass-derived materials, sustainable catalytic processes
+- Key Tools & Platforms: NMR, GC, XRD, TGA
+- Innovation Keywords: sustainable catalysis, biomass conversion, functional materials, green chemistry
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Shobhna Kapoor
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Chemical Biology & Biophysics
+- Research Interests & Innovation Focus: Membrane biophysics, lipid-protein interactions, antimicrobial peptides, drug-membrane interactions, model membranes
+- Notable Projects: Antimicrobial peptide studies, membrane-drug interaction research
+- Key Tools & Platforms: AFM, DLS, fluorescence, CD spectroscopy
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: membrane biophysics, lipid-protein, antimicrobial peptides, drug-membrane
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Srinivasan Ramakrishnan
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Inorganic & Electrochemistry
+- Research Interests & Innovation Focus: Electrocatalysis, fuel cell catalysts, oxygen reduction, metal-organic catalysts, energy applications of coordination chemistry
+- Notable Projects: Electrocatalyst design for fuel cells
+- Key Tools & Platforms: Potentiostat, RDE, XRD, TEM
+- Innovation Keywords: electrocatalysis, fuel cells, oxygen reduction, coordination chemistry, energy
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/srinivasan-ramakrishnan
+
+## Suvarn S. Kulkarni
+- Department: Chemistry
+- Designation: Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Glycochemistry & Chemical Biology
+- Research Interests & Innovation Focus: Carbohydrate chemistry, glycoconjugate synthesis, vaccine development, chemical glycobiology, oligosaccharide synthesis
+- Notable Projects: Glycoconjugate vaccine development, carbohydrate synthesis
+- Key Tools & Platforms: NMR, HPLC, mass spectrometry
+- Industry Collaborations: Pharma and vaccine companies
+- Innovation Keywords: glycochemistry, carbohydrates, vaccines, glycoconjugates, chemical biology
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Venkatakrishnarao Dasari
+- Department: Chemistry
+- Designation: Assistant Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Inorganic Chemistry & Photonic Materials
+- Research Interests & Innovation Focus: Organic micro/nanostructures, photonic devices, whispering gallery mode lasers, organic crystals, light-matter interactions
+- Notable Projects: Organic microstructure lasers, photonic crystal development
+- Key Tools & Platforms: Micro-PL, SEM, optical characterization
+- Innovation Keywords: inorganic chemistry, photonic materials, organic lasers, whispering gallery modes
+- Profile: https://www.chem.iitb.ac.in/people
+
+## Venkateswarlu Yarlagadda
+- Department: Chemistry
+- Designation: Associate Professor
+- Email: hod@chem.iitb.ac.in
+- Primary Research Area: Organic Synthesis & Biological Chemistry
+- Research Interests & Innovation Focus: Total synthesis, carbohydrate chemistry, glycolipids, natural products, medicinal chemistry, anti-infective agents
+- Notable Projects: Glycolipid synthesis, anti-infective natural product development
+- Key Tools & Platforms: NMR, HPLC, mass spectrometry, cell assays
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: organic synthesis, carbohydrates, glycolipids, natural products, medicinal chemistry
+- Profile: https://www.chem.iitb.ac.in/facultyuserview/venkateswarlu-yarlagadda

@@ -1,0 +1,410 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Aerospace Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Dr. V. Venkateswara Rao
+- Department: Aerospace
+- Designation: Distinguished Faculty & Director CoPT
+- Email: vemana@aero.iitb.ac.in
+- Research Group: Center of Propulsion Technology (CoPT)
+- Primary Research Area: Propulsion — Solid Propellants & Advanced Propulsion Technologies
+- Research Interests & Innovation Focus: Research on solid rocket propellant formulations, propulsion system design and testing, ballistics analysis, combustion diagnostics, thruster design, performance evaluation, and propulsion system integration for space and defense applications.
+- Notable Projects: Solid propellant rocket research; Propulsion testing facilities; Advanced propulsion concepts; Director of CoPT/DIA-COE
+- Key Tools & Platforms: Propellant formulation, ballistics analysis software, combustion diagnostics, test facility instrumentation, thermochemical analysis
+- Industry Collaborations: ISRO; DRDO; Defense research organizations; Space agencies
+- Awards: Director of CoPT/DIA-COE; Distinguished faculty status
+- Innovation Keywords: solid propellants, rocket engines, advanced propulsion, combustion analysis, thruster design, space propulsion, ballistics, ISRO
+- Profile: https://www.aero.iitb.ac.in/content/dr-v-venkateswara-rao
+
+## Prof. A. M. Pradeep
+- Department: Aerospace
+- Designation: Professor
+- Email: ampradeep@aero.iitb.ac.in
+- Research Group: Turbomachinery Research Laboratory
+- Primary Research Area: Aerospace Propulsion — Axial Flow Compressors & Turbomachinery
+- Research Interests & Innovation Focus: Research on flow physics of tip leakage flows in compressors, blade tip de-sensitization strategies, non-axisymmetric endwall contouring, contra-rotating axial flow fan aerodynamics with emphasis on inflow distortion and stall inception control, exhaust turbine diffuser flow aerodynamics, active/passive flow control in serpentine intakes, and machine learning applications for stall prediction.
+- Notable Projects: Surface roughness effects in transonic compressors; Tandem-bladed rotor aerodynamics under circumferential distortion; Transient secondary flow structure evolution during stall; Machine learning for stall prediction in contra-rotating fans; AIAA and IMechE publications
+- Key Tools & Platforms: Low-speed axial flow compressor test facility, cascade wind tunnels, contra-rotating compressor test facility, flow visualization, CFD
+- Industry Collaborations: Propulsion system developers; Turbomachinery manufacturers
+- Awards: Gold medal best paper (Institution of Engineers India 2003-04); SAFRAN-French Embassy 2nd prize best PhD thesis (2002-07); 2021 Donald Julius Groen Prize (IMechE UK); Prof. S P Sukhatme Teaching Award (2023)
+- Innovation Keywords: axial flow compressors, turbomachinery, stall inception, flow control, blade design, endwall contouring, contra-rotating fans, machine learning
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-m-pradeep
+
+## Prof. Abhijit Gogulapati
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: abhijit@aero.iitb.ac.in
+- Research Group: Structures and Dynamics Laboratory
+- Primary Research Area: Structural Dynamics — Aeroelasticity & Aerothermoelasticity
+- Research Interests & Innovation Focus: Research on aeroelasticity — interaction between aerodynamic forces and structural flexibility. Focus on aerothermoelasticity coupling thermal effects with aeroelastic phenomena, reduced order modeling for complex structural systems, optimization methodologies for aerospace structures, and vibrations/structural dynamics analysis.
+- Notable Projects: Aeroelastic analysis of flexible wings; Reduced order modeling techniques; Structural optimization for aerospace; PhD from University of Michigan
+- Key Tools & Platforms: Structural analysis and optimization software, reduced order modeling, aeroelastic simulation, finite element analysis, optimization algorithms
+- Industry Collaborations: Aerospace structural design and component manufacturers
+- Awards: PhD Aerospace Engineering (University of Michigan); MS Aerospace Engineering (Georgia Tech); BTech IIT Bombay
+- Innovation Keywords: aeroelasticity, aerothermoelasticity, structural optimization, reduced order modeling, vibration analysis, finite element methods, flexible structures
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-abhijit-gogulapati
+
+## Prof. Aditya Paranjape
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: paranjape@aero.iitb.ac.in
+- Research Group: Flight Mechanics & Control Laboratory
+- Primary Research Area: Dynamics & Control — Flight Mechanics & Bio-inspired Flight
+- Research Interests & Innovation Focus: Research on flight mechanics including bio-inspired flight, perching maneuvers, morphing wing aircraft, nonlinear flight dynamics, and control of aerial vehicles. Studies novel flight modes and aircraft configurations for enhanced maneuverability.
+- Notable Projects: Bio-inspired flight research; Morphing wing studies; Perching maneuver analysis; Nonlinear flight dynamics publications
+- Key Tools & Platforms: Flight simulation, nonlinear dynamics analysis, wind tunnel testing, control system design, MATLAB/Simulink
+- Industry Collaborations: Aerospace and defense applications
+- Awards: Faculty in Dynamics & Control group
+- Innovation Keywords: bio-inspired flight, flight mechanics, morphing wings, perching, nonlinear dynamics, aerial vehicle control, flight control
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Amuthan Ramabathiran
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: amuthan@aero.iitb.ac.in
+- Research Group: Computational Structures Laboratory
+- Primary Research Area: Structures — Computational Solid Mechanics & Finite Element Methods
+- Research Interests & Innovation Focus: Research on computational solid mechanics, finite element methods, and structural analysis. Focus on novel computational techniques for structural problems, meshfree methods, and isogeometric analysis for aerospace structures.
+- Notable Projects: Computational mechanics research; Finite element method development; Structural analysis publications
+- Key Tools & Platforms: Finite element analysis, meshfree methods, isogeometric analysis, computational mechanics software
+- Industry Collaborations: Aerospace structural analysis applications
+- Awards: Faculty in Structures group
+- Innovation Keywords: computational mechanics, finite elements, solid mechanics, isogeometric analysis, structural analysis, meshfree methods
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Aniruddha Sinha
+- Department: Aerospace
+- Designation: Professor
+- Email: as@aero.iitb.ac.in
+- Research Group: Dynamics and Control Group
+- Primary Research Area: Dynamics & Control — Guidance Systems & Aerospace Control
+- Research Interests & Innovation Focus: Research on guidance and control systems for aerospace vehicles, missile dynamics, flight control, guidance law development, nonlinear guidance strategies, impact angle constrained guidance, cooperative control systems, and integrated guidance and control.
+- Notable Projects: Nonlinear guidance strategies; Impact time guidance; Lead-angle-based 3D guidance; Cooperative target capture; Published in J. Guidance Control Dynamics, IEEE Trans. Aero. Electronic Systems
+- Key Tools & Platforms: Control theory, guidance law synthesis, nonlinear system simulation, MATLAB/Simulink
+- Industry Collaborations: Defense and aerospace guidance system applications
+- Awards: Active researcher in guidance and control
+- Innovation Keywords: guidance and control, missile systems, nonlinear control, flight dynamics, cooperative control, impact angle guidance, aerospace vehicles
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Arnab Roy
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: arnab@aero.iitb.ac.in
+- Research Group: Computational Aerodynamics Laboratory
+- Primary Research Area: Aerodynamics — Computational Fluid Dynamics & Flow Simulation
+- Research Interests & Innovation Focus: Research on computational fluid dynamics for aerospace applications including turbulent flow modeling, high-fidelity CFD simulations, aerodynamic design optimization, and flow physics of complex aerospace configurations.
+- Notable Projects: CFD simulation studies; Aerodynamic design optimization; Turbulent flow modeling publications
+- Key Tools & Platforms: CFD solvers (ANSYS Fluent, OpenFOAM), turbulence modeling, high-performance computing, mesh generation
+- Industry Collaborations: Aerospace industry CFD applications
+- Awards: Faculty in Aerodynamics group
+- Innovation Keywords: computational fluid dynamics, turbulent flows, aerodynamic design, flow simulation, CFD optimization, aerospace aerodynamics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Avijit Chatterjee
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: avijit@aero.iitb.ac.in
+- Research Group: Rarefied Gas Dynamics Laboratory
+- Primary Research Area: Aerodynamics — Rarefied Gas Dynamics & High-Altitude Flows
+- Research Interests & Innovation Focus: Research on rarefied gas dynamics relevant to high-altitude and space flight applications. Focus on DSMC (Direct Simulation Monte Carlo) methods, kinetic theory of gases, non-continuum flow analysis, and atmospheric entry aerodynamics.
+- Notable Projects: DSMC method applications; Kinetic theory research; Non-continuum flow analysis; High-altitude aerodynamic studies
+- Key Tools & Platforms: DSMC simulation codes, kinetic theory solvers, statistical mechanics methods, high-performance computing
+- Industry Collaborations: Space and re-entry vehicle applications
+- Awards: Faculty in Aerodynamics group
+- Innovation Keywords: rarefied gas dynamics, DSMC, kinetic theory, non-continuum flows, atmospheric entry, high-altitude aerodynamics, molecular dynamics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Chandra Sekhar Yerramalli
+- Department: Aerospace
+- Designation: Professor
+- Email: ceyerramalli@aero.iitb.ac.in
+- Research Group: Composite Materials and Structural Mechanics Laboratory
+- Primary Research Area: Structures — Advanced Composites, Failure Modeling & Biomechanics
+- Research Interests & Innovation Focus: Research on advanced composites including ceramic composites, failure/damage modeling, high strain rate analysis, environmental-induced damage modeling, combined loading fatigue failure, micromechanics-based analytical modeling of UD composites, and biomechanical applications.
+- Notable Projects: Micromechanics-based analytical models for composites (2024); Impact response of glass/epoxy composites (2024); Comprehensive composite failure mechanism research
+- Key Tools & Platforms: Micromechanics analysis, FEA, analytical modeling, impact testing, damage characterization, composite fabrication
+- Industry Collaborations: Previously Technology Director at MYWind (USA); Senior Engineer at GE Global Research Centre, NY
+- Awards: Professor rank 2021; Prior industry experience at GE and MYWind
+- Innovation Keywords: composite materials, failure modeling, damage mechanics, micromechanics, biomechanics, combined loading, ceramic composites
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-chandra-sekher-yerramalli
+
+## Prof. Dhwanil Shukla
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: dhwanil@aero.iitb.ac.in
+- Research Group: Aerodynamics and LTA Systems Laboratory
+- Primary Research Area: Aerodynamics — Lighter-Than-Air Systems Design & Optimization
+- Research Interests & Innovation Focus: Research on design, analysis, and optimization of lighter-than-air systems including airships, aerostats, and high-altitude platforms. Also covers aircraft conceptual design, evolutionary optimization techniques, and experimental aerodynamics of non-traditional aerospace vehicles.
+- Notable Projects: Design-build-fly projects for LTA systems; Mooring mast design and testing; High-altitude airship platform sizing and optimization; Transient heat transfer modeling in stratospheric airships
+- Key Tools & Platforms: Aircraft design optimization, computational aerodynamics, evolutionary algorithms, experimental testing, thermal analysis
+- Industry Collaborations: LTA systems industry; High-altitude platform applications
+- Awards: Active researcher in LTA systems
+- Innovation Keywords: lighter-than-air systems, airships, aerodynamic design, high-altitude platforms, optimization, aerostats, aircraft design
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-dhwanil-shukla
+
+## Prof. Hrishikesh Gadgil
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: gadgil@aero.iitb.ac.in
+- Research Group: Propulsion and Atomization Laboratory
+- Primary Research Area: Propulsion — Fuel Atomization, Sprays & Combustion Processes
+- Research Interests & Innovation Focus: Research on multiphase flow phenomena in propulsion systems, liquid atomization in engine combustors, spray-acoustics interactions, atomization of non-Newtonian liquids (gel propellants), pressure swirl sprays, effervescent sprays, secondary breakup of droplets, interfacial instabilities, and computational modeling of high enthalpy flows.
+- Notable Projects: Effect of acoustic forcing on liquid fuel atomizer characteristics; Gas-centered swirl coaxial injector studies; Transverse acoustic forcing effects on impinging jet atomization; Interfacial phenomena in multiphase flows
+- Key Tools & Platforms: Experimental atomization diagnostics, optical measurement techniques, CFD, high-speed imaging, analytical spray modeling
+- Industry Collaborations: Aerospace propulsion industries; Fuel injector development
+- Awards: Canadian Commonwealth Scholarship 2010 (DFAIT)
+- Innovation Keywords: liquid atomization, spray combustion, interfacial instabilities, acoustic excitation, swirl injectors, gel propellants, multiphase flows
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-hrishikesh-gadgil
+
+## Prof. Jadav Chandra Mandal
+- Department: Aerospace
+- Designation: Professor
+- Email: mandal@aero.iitb.ac.in
+- Research Group: Computational Fluid Dynamics Research Group
+- Primary Research Area: Aerodynamics — CFD Algorithms & High-Resolution Numerical Schemes
+- Research Interests & Innovation Focus: Research on novel computational algorithms for solving conservation laws. Unsteady incompressible/compressible turbulent flow computations, shock-capturing schemes, shock instability and carbuncle phenomena, level set methods for propagating interfaces, conservative level set methods for multiphase flows.
+- Notable Projects: High resolution schemes for flow computations; Numerical methods for shock waves; Level set methods for interface tracking; Multiphase flow simulation; 1930+ citations
+- Key Tools & Platforms: CFD, finite volume methods, shock-capturing algorithms, level set methods, turbulent flow modeling, C/C++ programming
+- Industry Collaborations: Aerospace and CFD software organizations
+- Awards: Alexander von Humboldt Fellowship (2002-03); Visiting scientist RWTH Aachen
+- Innovation Keywords: CFD algorithms, shock-capturing, high-resolution schemes, multiphase flows, level set methods, turbulent computation, Riemann solvers
+- Profile: https://www.aero.iitb.ac.in/~mandal/
+
+## Prof. Kowsik Bodi
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: kbodi@aero.iitb.ac.in
+- Research Group: Hypersonic CFD Group
+- Primary Research Area: Aerodynamics — Hypersonic Flows & MHD Simulation
+- Research Interests & Innovation Focus: Research on modeling and numerical simulation of hypersonic and high enthalpy flows with applications to plasma physics and flow control. Develops in-house finite volume solvers for turbulent high enthalpy flows, MHD simulations for flow control, reacting flows in high-temperature environments, and compressible flow analysis.
+- Notable Projects: Hypersonic shock-boundary layer interaction studies; MHD flow simulations using magnetic dipoles; High-order discontinuous Galerkin simulations; Thermochemical nonequilibrium flow research
+- Key Tools & Platforms: RANS-based CFD solvers, finite volume methods, discontinuous Galerkin schemes, turbulence modeling (Spalart-Allmaras), MHD simulation codes
+- Industry Collaborations: Plasma physics and aerospace propulsion research
+- Awards: Active researcher in hypersonic aerodynamics
+- Innovation Keywords: hypersonic flows, shock-boundary layer interaction, MHD control, high-enthalpy flows, plasma dynamics, reacting flows, thermochemical nonequilibrium
+- Profile: https://www.aero.iitb.ac.in/~kbodi/
+
+## Prof. Krishnendu Haldar
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: krishnendu@aero.iitb.ac.in
+- Research Group: Computational Physics and Materials Engineering (CPME) Lab
+- Primary Research Area: Structures — Smart Materials, Shape Memory Alloys & Constitutive Modeling
+- Research Interests & Innovation Focus: Research on smart materials (magnetic shape memory alloys, magneto-active polymers), mechanics of soft materials, brain tissue mechanics, liquid crystal systems, microstructure-informed nonlocal fracture modeling of polymer composites. Develops physics-based computational frameworks for predicting material behavior at multiple scales.
+- Notable Projects: Constitutive modeling of magnetic shape memory alloys; Magneto-active polymer research; Fracture mechanics of polymer composites; Microstructure-informed computational models
+- Key Tools & Platforms: Finite element analysis, constitutive modeling, computational mechanics, nonlocal fracture mechanics, smart material simulation, multiphysics coupling
+- Industry Collaborations: Smart materials and aerospace structures
+- Awards: Active researcher in advanced materials
+- Innovation Keywords: smart materials, shape memory alloys, magneto-active polymers, constitutive modeling, fracture mechanics, composite materials, nonlocal mechanics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/krishnendu
+
+## Prof. Krishnendu Sinha
+- Department: Aerospace
+- Designation: Professor
+- Email: krish@aero.iitb.ac.in
+- Research Group: Hypersonic CFD Group
+- Primary Research Area: Propulsion & Aerodynamics — Hypersonic Aerothermodynamics & Scramjet
+- Research Interests & Innovation Focus: Research on CFD modeling of hypersonic flows: shock-boundary layer interactions (SBLI), turbulence modeling under extreme conditions, scramjet inlet design, shock-strength-dependent turbulence models, shock-unsteadiness modeling, RANS simulations of reentry capsules and scramjet engines. Leads development of in-house parallel CFD codes.
+- Notable Projects: Scramjet inlet simulations (ISRO-sponsored); Shock-unsteadiness model development; Turbulent heat flux modeling for SBLI; Shock-strength dependent turbulence models
+- Key Tools & Platforms: In-house parallel CFD codes, RANS solvers, shock-strength-dependent turbulence models, transport equation-based shock sensors, multidimensional numerical schemes
+- Industry Collaborations: ISRO for scramjet and reentry vehicle research
+- Awards: Active researcher in hypersonic aerothermodynamics
+- Innovation Keywords: hypersonic aerothermodynamics, SBLI, turbulence modeling, scramjet propulsion, shock-unsteadiness, reentry vehicles, CFD, ISRO
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/krish
+
+## Prof. Mira Mitra
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: mira@aero.iitb.ac.in
+- Research Group: Structural Health Monitoring and Wave Propagation Laboratory
+- Primary Research Area: Structures — Guided Wave SHM & Damage Detection
+- Research Interests & Innovation Focus: Research on guided wave-based damage detection in aerospace structures, elastic wave propagation in composite materials, structural health monitoring using advanced signal processing, wavelets for damage identification, spectrally-formulated wavelet finite element methods, carbon nanotube wave characteristics, and machine learning for automatic damage detection.
+- Notable Projects: Wavelet finite element formulation; Carbon nanotube wave characteristics; Automatic damage detection using matching pursuit and ML; Multi-walled CNT studies; In-plane wave propagation in polycrystalline microstructures
+- Key Tools & Platforms: Wavelet analysis, finite element methods, signal processing, machine learning for damage detection, Lamb wave techniques, spectral formulations
+- Industry Collaborations: Aerospace structural monitoring and composite material organizations
+- Awards: Active researcher in SHM
+- Innovation Keywords: wave propagation, structural health monitoring, wavelet analysis, damage detection, composite structures, carbon nanotubes, Lamb waves, machine learning
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/mira
+
+## Prof. Nagendra Kumar
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: nagendra@aero.iitb.ac.in
+- Research Group: Propulsion and Combustion Laboratory
+- Primary Research Area: Propulsion — Solid Rocket Motor Combustion & Propellant Characterization
+- Research Interests & Innovation Focus: Research on solid rocket motor combustion phenomena, propellant burning rate characterization, erosive burning mechanisms, combustion instability in SRMs, two-phase losses, propellant aging effects on composite and double-base propellants, binder melt quantification, and low pressure deflagration limit determination.
+- Notable Projects: Two-phase losses in solid rocket motors; Propellant aging and degradation studies; Erosive burning characterization; IITB Rocket Team advisory
+- Key Tools & Platforms: Combustion diagnostics, image processing for propellant characterization, experimental propellant testing, computational combustion analysis, Fortran
+- Industry Collaborations: Indian space and missile development organizations
+- Awards: Active researcher in solid propulsion
+- Innovation Keywords: solid rocket motors, propellant combustion, erosive burning, combustion instability, two-phase losses, binder melt, propellant aging
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/nagendra
+
+## Prof. P. J. Guruprasad
+- Department: Aerospace
+- Designation: Professor
+- Email: pjguru@aero.iitb.ac.in
+- Research Group: Computational Mechanics Lab
+- Primary Research Area: Structures — Multiscale Modeling & Discrete Dislocation Dynamics
+- Research Interests & Innovation Focus: Develops physics-based computational tools for deformation and failure of metals, alloys, composites across multiple length scales. Research on discrete dislocation dynamics, Structural Genome methodology, variational asymptotic approaches, fatigue and damage mechanics, architected materials (auxetic lattices), shape memory polymer composite morphing structures, piezoelectric composites.
+- Notable Projects: Multiscale modeling of composites; Discrete dislocation dynamics simulations; Structural genome methodology; Morphing airfoil design using SMPCs; Auxetic lattice design
+- Key Tools & Platforms: FEA, discrete dislocation dynamics, variational asymptotic methods, multiscale frameworks, structural optimization, damage mechanics modeling
+- Industry Collaborations: Aerospace structures, automotive, nuclear, MEMS/NEMS
+- Awards: Active researcher in computational mechanics
+- Innovation Keywords: multiscale modeling, dislocation dynamics, composite mechanics, morphing structures, architected materials, fatigue, structural health monitoring, auxetic
+- Profile: https://www.aero.iitb.ac.in/~pjguru/
+
+## Prof. Prabhu Ramachandran
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: prabhu@aero.iitb.ac.in
+- Research Group: Computational Aerodynamics and Visualization Lab
+- Primary Research Area: Aerodynamics — Particle Methods, SPH & Scientific Computing
+- Research Interests & Innovation Focus: Research on particle-based computational methods for fluid dynamics: Smoothed Particle Hydrodynamics (SPH), meshfree methods for compressible/incompressible flows, parallel/high-performance computing, scientific visualization. Developer of open-source PySPH framework and Mayavi visualization tool.
+- Notable Projects: PySPH framework development; Mayavi 3D visualization tool; Particle methods for CFD; FOSSEE project; Scientific computing tools
+- Key Tools & Platforms: Smoothed Particle Hydrodynamics (SPH), meshfree methods, Python, MPI parallel computing, 3D visualization, open-source software development
+- Industry Collaborations: Python Software Foundation; FOSSEE project (Free and Open Source Software for Education)
+- Awards: Nominated member of Python Software Foundation since 2010
+- Innovation Keywords: particle methods, SPH, meshfree methods, scientific computing, visualization, Python, open-source, high-performance computing, PySPH
+- Profile: https://www.aero.iitb.ac.in/~prabhu/
+
+## Prof. Rajkumar S. Pant
+- Department: Aerospace
+- Designation: Professor
+- Email: rkpant@aero.iitb.ac.in
+- Research Group: Lighter-than-Air Systems Laboratory
+- Primary Research Area: Aerodynamics — LTA Systems, Airship Design & Aircraft Conceptual Design
+- Research Interests & Innovation Focus: Research on design, development, optimization of LTA systems including autonomous airships and tethered aerostats. Aircraft conceptual design using evolutionary optimization, high-altitude airship platforms, unmanned aerial vehicle design, payload recovery devices, and air transportation systems.
+- Notable Projects: Autonomous airship design and flight testing (AR&DB India); Payload recovery devices (DRDO); High-altitude airship platform sizing (NAL); Tethered aerostat systems for agriculture (Tata Centre)
+- Key Tools & Platforms: CFD simulations, aircraft design software, evolutionary optimization algorithms, flight testing, CATIA/CAD
+- Industry Collaborations: Tata Centre for Technology & Design; AR&DB India; DRDO; NAL
+- Awards: D. P. Joshi Excellent Teacher Award (2015); Visiting Prof at NTU Singapore, ITA Brazil, Texas A&M, Virginia Tech
+- Innovation Keywords: lighter-than-air systems, airship design, high-altitude platforms, aircraft optimization, evolutionary algorithms, aerostat systems, LTA aerodynamics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-r-k-pant
+
+## Prof. Rohit Gupta
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: rohit@aero.iitb.ac.in
+- Research Group: Dynamics & Control Lab
+- Primary Research Area: Dynamics & Control — Geometric Mechanics & Optimal Control
+- Research Interests & Innovation Focus: Research on dynamical systems theory with emphasis on geometric mechanics and geometric control theory. Optimal control theory, optimization theory, Lie group methods, differential geometry applications to control problems, and optimal trajectory design for aerospace systems.
+- Notable Projects: Geometric mechanics applications; Control theory research; Optimization and trajectory design
+- Key Tools & Platforms: Differential geometry, Lie group theory, geometric control theory, optimal control algorithms, MATLAB
+- Industry Collaborations: Academic research collaborations
+- Awards: Faculty in Dynamics & Control group
+- Innovation Keywords: geometric control, optimal control, dynamical systems, Lie groups, differential geometry, trajectory optimization, space mechanics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-rohit-gupta
+
+## Prof. Rohit V. Nanavati
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: r.nanavati@aero.iitb.ac.in
+- Research Group: Dynamics and Control Laboratory
+- Primary Research Area: Dynamics & Control — Bayesian Inference & Multi-Agent Coordination
+- Research Interests & Innovation Focus: Research on active Bayesian inference for environmental mapping, sensor management, informative path planning, multi-agent coordination, UAV path planning, impact angle constrained guidance, and time-energy optimal control of nonlinear systems.
+- Notable Projects: Distributed multi-robot source term estimation (Information Fusion 2024); Generalized optimal path planning for crop spraying UAVs (Precision Agriculture 2023); 3D nonlinear impact time guidance (J. Guidance Control Dynamics 2023)
+- Key Tools & Platforms: Bayesian inference, Monte Carlo Tree Search, MATLAB, nonlinear control design, optimal control theory, information fusion
+- Industry Collaborations: Loughborough Center of Autonomous Systems (2021-2024)
+- Awards: PhD IIT Bombay (2021); BTech IIT Gandhinagar (2017)
+- Innovation Keywords: nonlinear guidance, multi-agent coordination, informative path planning, autonomous systems, optimal control, UAV swarms, sensor management
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-rohit-v-nanavati
+
+## Prof. Shashi Ranjan Kumar
+- Department: Aerospace
+- Designation: Professor
+- Email: srk@aero.iitb.ac.in
+- Research Group: Dynamics and Control Laboratory
+- Primary Research Area: Dynamics & Control — Nonlinear Guidance & Cooperative UAV Systems
+- Research Interests & Innovation Focus: Research on nonlinear guidance strategies, optimal control of UAVs, impact angle constrained guidance, cooperative UAV systems, nonlinear control law development, target interception, cooperative engagement, and flight control systems.
+- Notable Projects: 3D nonlinear impact time guidance (J. Guidance Control Dynamics 2023); Robust nonlinear guidance for UAV swarms; Impact angle-based engagement classification; Cooperative target capture
+- Key Tools & Platforms: Nonlinear control theory, MATLAB simulations, guidance law design, optimal control algorithms
+- Industry Collaborations: Aeronautics R&D Board; Defense research applications
+- Awards: Active researcher in guidance and control
+- Innovation Keywords: UAV guidance, nonlinear control, impact angle constraints, cooperative systems, autonomous vehicles, target interception, flight control
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-shashi-ranjan-kumar
+
+## Prof. Shripad Mahulikar
+- Department: Aerospace
+- Designation: Professor
+- Email: spm@aero.iitb.ac.in
+- Research Group: Thermal Sciences and Stealth Technology Laboratory
+- Primary Research Area: Propulsion — Heat Transfer, Infrared Stealth & Thermal Management
+- Research Interests & Innovation Focus: Research on advanced propulsion systems, thermal management, infrared signature reduction, and stealth technology. Heat transfer analysis, combustion systems, thermal signatures of aerospace platforms, and methodologies for reducing infrared emissions from military and civilian aircraft.
+- Notable Projects: Infrared stealth technology research; Thermal signature reduction methodologies; Heat transfer optimization in aerospace systems
+- Key Tools & Platforms: Thermal analysis software, infrared imaging, CFD for combustion analysis, heat transfer modeling, ANSYS/FLUENT
+- Industry Collaborations: Defense research organizations; Aerospace manufacturers
+- Awards: Active researcher in stealth and thermal sciences
+- Innovation Keywords: infrared stealth, heat transfer, propulsion efficiency, thermal signatures, combustion analysis, stealth technology, thermal management
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. Sudarshan Kumar
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: sudar@aero.iitb.ac.in
+- Research Group: Propulsion and Flow Physics Laboratory
+- Primary Research Area: Aerodynamics & Propulsion — Compressible Flow Physics & Combustion
+- Research Interests & Innovation Focus: Research on fluid mechanics, compressible flows, aerodynamic phenomena relevant to propulsion systems, high-speed flow analysis, shock-boundary layer interactions, transonic aerodynamics, and flow control techniques for aerospace applications.
+- Notable Projects: Aerodynamics and flow physics research; Compressible flow studies; Propulsion fluid dynamics
+- Key Tools & Platforms: CFD (FLUENT/ANSYS), shock tube experiments, high-speed flow visualization, aerodynamic testing
+- Industry Collaborations: Aerospace R&D centers
+- Awards: Active researcher in aerodynamics and propulsion
+- Innovation Keywords: compressible flows, aerodynamic analysis, propulsion fluid mechanics, shock interactions, high-speed flows, flow control, combustion
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/sudar
+
+## Prof. Susmita Naskar
+- Department: Aerospace
+- Designation: Assistant Professor
+- Email: susmita@aero.iitb.ac.in
+- Research Group: Structural Analysis and Uncertainty Quantification Laboratory
+- Primary Research Area: Structures — Uncertainty Quantification & Probabilistic Composite Analysis
+- Research Interests & Innovation Focus: Research on structural analysis of aerospace components with focus on uncertainty quantification methods, probabilistic design approaches, composite material behavior, reliability analysis, and stochastic structural optimization.
+- Notable Projects: Uncertainty quantification in composites; Probabilistic structural design; Reliability analysis methods; Stochastic analysis
+- Key Tools & Platforms: ABAQUS, ANSYS, uncertainty quantification tools, Monte Carlo methods, probabilistic analysis, composite FEA
+- Industry Collaborations: Aerospace manufacturers and structural analysis centers
+- Awards: Active researcher in structural uncertainty
+- Innovation Keywords: uncertainty quantification, composite structures, probabilistic design, reliability analysis, stochastic methods, structural optimization
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty
+
+## Prof. T. Chandra Sekar
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: tchandra@aero.iitb.ac.in
+- Research Group: Turbomachinery and Propulsion Laboratory
+- Primary Research Area: Propulsion — Turbomachinery Design & Internal Fluid Dynamics
+- Research Interests & Innovation Focus: Research on turbomachinery design, turbine/compressor analysis, flow through turbomachines, aerothermal analysis, optimization of turbomachinery components, CFD for turbomachinery, blade design optimization, and performance prediction of rotating machinery.
+- Notable Projects: Turbomachinery analysis research; Propulsion system optimization; Blade aerodynamics studies
+- Key Tools & Platforms: CFD for turbomachinery (FLUENT, ANSYS), blade design software, 3D modeling, thermodynamic analysis
+- Industry Collaborations: Engine manufacturers; Turbomachinery design centers
+- Awards: Active researcher in turbomachinery
+- Innovation Keywords: turbomachinery design, compressor analysis, turbine optimization, blade aerodynamics, propulsion systems, rotating machinery, aerothermal analysis
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-t-chandra-sekar
+
+## Prof. Vineeth Nair
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: vineeth@aero.iitb.ac.in
+- Research Group: Aerodynamics and Fluid-Structure Interaction Laboratory
+- Primary Research Area: Aerodynamics — Fluid-Structure Interaction & Aeroelastic Analysis
+- Research Interests & Innovation Focus: Research on fluid-structure interaction effects, aerodynamic phenomena, flexible structure responses to flow, coupled aero-elastic analysis, dynamic interactions between flows and structural elements for aircraft wings, control surfaces, and flexible aerospace structures.
+- Notable Projects: Fluid-structure interaction research; Aeroelastic coupling studies; Dynamic response analysis
+- Key Tools & Platforms: CFD (FLUENT/ANSYS), fluid-structure coupling codes, FEA, aerodynamic testing, wind tunnel experiments
+- Industry Collaborations: Aerospace manufacturers and research centers
+- Awards: Active researcher in fluid-structure interaction
+- Innovation Keywords: fluid-structure interaction, aerodynamic coupling, flexible structures, aeroelasticity, flow-induced vibrations, dynamic response
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-vineeth-nair
+
+## Prof. Viren Menezes
+- Department: Aerospace
+- Designation: Associate Professor
+- Email: viren@aero.iitb.ac.in
+- Research Group: Experimental Hypersonics and Shock Dynamics Laboratory
+- Primary Research Area: Aerodynamics — Experimental Hypersonics & Shock Wave Applications
+- Research Interests & Innovation Focus: Research on experimental hypersonic aerothermodynamics, shock wave applications, shock-driven micro-devices, medical/pharmaceutical applications of shock waves, design of ultra-short duration hypersonic facilities, high-enthalpy flow testing, and flow diagnostics.
+- Notable Projects: Miniature shock-wave driven micro-jet injectors for needle-free drug delivery (Biotech Bioeng 2016); Thermal and inertial parameters of scramjet flows; U.S. Patent No. 9289228 for fluid injection devices
+- Key Tools & Platforms: Experimental hypersonic testing, optical diagnostics, shock tube technology, high-speed imaging, flow visualization
+- Industry Collaborations: Seiko Epson Corporation (patent collaboration); International hypersonic research
+- Awards: IROAST Visiting Professor Kumamoto University Japan (2016-18); Hotchand Lala Teaching Award (2016); US Patent holder
+- Innovation Keywords: hypersonic aerothermodynamics, shock waves, high-enthalpy flows, micro-devices, medical applications, shock tubes, flow diagnostics
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-v-menezes

@@ -1,0 +1,352 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Environmental Science and Engineering - Course Catalog for IIT Bombay Students
+
+
+## ES 101: Introduction to Environmental Science & Engineering
+- Credits: 6
+- Type: Theory
+- Description: History of Environmental Science and Engineering; Biography of Renowned Environmental Scientists and Professionals; Natural Resources; Renewable and Non-renewable Energy Sources; Introduction to Environmental Pollution; Evolution of Pollution Control Strategies and Environmental Infrastructure; Major Environmental Episodes; Evolution of Environmental Acts and Policies; Environmental Ethics; Sustainability Concepts; Recent Research and Future Prospects in the field of Environment.
+
+## ES 102: Water Quality Management
+- Credits: 6
+- Type: Theory
+
+## ES 200: Environmental Studies: Science and Engineering
+- Credits: 3
+- Type: Theory
+
+## ES 201: Applied Environmental Microbiology and Ecology
+- Credits: 6
+- Type: Theory
+
+## ES 202: Fundamentals of Environmental Chemistry
+- Credits: 6
+- Type: Theory
+
+## ES 203: Water and Wastewater Engineering
+- Credits: 6
+- Type: Theory
+
+## ES 204: Environmental Chemistry
+- Credits: 6
+- Type: Theory
+
+## ES 206: Water Resources & Open Channel Flow
+- Credits: 6
+- Type: Theory
+
+## ES 208: Mass Transfer Process in Environmental Systems
+- Credits: 6
+- Type: Theory
+
+## ES 209: Data Analysis & Interpretation
+- Credits: 6
+- Type: Theory
+- Description: Sources of data, data representation, measurement of data, gathering of data and design of experiments, errors in measurement bias and random error); multivariate data and regression; posing statistical hypothesis. Elementary probability and statistics (random variables, distribution, central limit theorem), population sampling, confidence intervals; elementary hypothesis testing; exposure to standard models of physical processes, parameter estimation using least squares.
+
+## ES 210: Introduction to Solid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Rigid and deformable solids; Method of sections for evaluating internal forces in bodies - review of free body diagrams; Concept of stress - normal and shear stresses; State of stress; Concept of strain - normal and shear strains; State of strain; Hookes law; Constitutive relations; Axially loaded members, force and deflections; Indeterminate systems and compatibility conditions; Simple indeterminate systems and lack of fit problems; Generalized Hookes law; Stress in cylindrical and spherical shells; Thin-Walled Pressure Vessels; Torsion of circular shafts - determinate and simple indeterminate systems. Elastic theory of bending of beams; Shear force and bending moment diagrams; Bending and shearing stresses in beams of symmetrical cross-section; Concept of shear flow and shear centre; Pri...
+
+## ES 212: Environmental Geodesy
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of Surveying, Levelling and Levelling Instruments, Traversing compass, theodolite and plane table, Tachometry triangulation, Contouring, Errors and adjustments, Area and volumes measurements.
+
+## ES 213: Environmental Microbiology Laboratory
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Microscopy; Staining and detection of microbes; Methods of enumerating microbes; Multiple tube fermentation technique; Membrane filter technique.
+
+## ES 216: GIS Aided Environmental Planning and Management
+- Credits: 6
+- Type: Theory
+- Description: Introduction, definitions and applications of GIS; Spatial data and data management: Spatial data models, architecture of type of data formats, data sources, transformation and manipulation, database structures in GIS, DEMS, DTMS, TINS and Networks; Data exploration: Query and data analysis; Spatial analysis: Cluster detection, point to continuous surface models, spatial autocorrelation; Remote sensing: fundamentals, data input and analysis; Visualization and display using graphical user interface: maps, graphs, reports, and multimedia. GIS case studies for solving typical environmental planning and management problems. Hands on training for using GIS software in GIS lab and demonstration of actual implementation of a GIS in the form of a project.
+
+## ES 225: Artificial Intelligence & Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 1. Introduction to Probability: Expectations and Variances. Visualizing PDF: Point plot, PDF, CDF, histogram, Conditional probabilities and conditional expectation, Independence. Important discrete and continuous distributions, Probability distributions, Normal Distributions 2. Hypothesis testing:. Type 1 and Type 2 errors. Testing for parameters of a normal distribution (single sample and based on two samples analysis). The concept of p-value, Introduction to the chi-squared test 3. Programming Basics (Python programming, basic data structures in Python, Data handling, Introduction to data file i/o, Introduction to plotting 4. Exploratory data analysis and data visualization: Unsupervised data exploration methods: PCA, SVD, T-SNE, etc 5. Introduction to supervised learning and unsupervise...
+
+## ES 250: Environmental Studies : Science and Engineering
+- Credits: 3
+- Prerequisite: 0.0
+
+## ES 252: Environmental Chemistry Lab
+- Credits: 3
+- Type: Laboratory
+
+## ES 253: Environmental Microbiology Laboratory
+- Credits: 4
+- Type: Laboratory
+
+## ES 296: Seminar
+- Credits: 4
+- Type: Seminar
+
+## ES 301: Introduction to Fluid Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Definition and Properties of fluids; Fluid pressure and its measurement; Hydrostatic force on plane, inclined and curved submerged surfaces; Buoyancy and Floatation; Kinematics of fluid flow:; Fluid dynamics: Flow through orifices; weir and notches; Flow through pipes; Flow of compressible Fluids; Continuity, Momentum and Energy Equations; Hydraulic machines.
+
+## ES 302: Environmental Biotechnology
+- Credits: 6
+- Type: Theory
+- Description: Nature of biological processes and their application to industries such as fermentation technology; enzyme technology and their environmental applications:  Bioprocesses for cleaner production, sustainable development and economic benefits: biobleaching in pulp and paper industries; bioleaching (biomining) of ores for recovery of precious metals; cleaner biotechnologies in oil agro industries  Biological fuel generation: Biohydrogen, biomethanation and alcohol production Biotechnology for enhancing agricultural productivity: Bioinsecticides- structure, function and mode of action  Cleaner production activities in Asia: Case studies on demonstration projects, Pollution control biotechnology: Application of microorganisms, enzymes and plants (phytoremediation) for treatment of domestic and i...
+
+## ES 307: Wastewater Engineering
+- Credits: 6
+- Type: Theory
+- Description: Wastewater Generation, Wastewater Collection in Urban Areas: Design of Sanitary Sewer, Design of Storm Water Sewers, Construction of Wastewater Conveyance System, Sewer material and Joints, Sewer Appurtenances, Sewage Pumping Station, Construction of Sewers, Operation and Maintenance of Municipal Sewer System, Municipal Wastewater Treatment Plant: Screening, Grit Chambers, Sedimentation, Activated Sludge Process, Trickling Filters, Sludge Disposal, Disposal of Effluent, Few Typical Examples
+
+## ES 308: Solid and Hazardous Waste Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Characterization and testing of solid wastes. Characterization and testing of hazardous waste
+
+## ES 312: Seminar
+- Credits: 3
+- Type: Seminar
+
+## ES 315: Solid Waste Management - Basic Principles and Technical Aspects
+- Credits: 6
+- Type: Theory
+
+## ES 317: Fundamentals of Air Pollution Science and Engineering
+- Credits: 6
+- Type: Theory
+
+## ES 319: Computational Laboratory for Environmental Engineering
+- Credits: 3
+- Type: Laboratory
+
+## ES 321: Energy and Environmental Sustainability
+- Credits: 6
+- Type: Theory
+
+## ES 351: Air Pollution Monitoring Laboratory
+- Credits: 3
+- Type: Laboratory
+
+## ES 404: Planning and Design of Environmental Engineering Facilities
+- Credits: 5
+- Type: Laboratory
+- Prerequisite: ES 307
+- Description: Planning, design and drawing of water supply systems, water treatment units and sludge treatment units. Planning, design and drawing of wastewater collection system, wastewater treatment units and sludge treatment units.
+
+## ES 407: Simulation & Optimization Techniques in Environmental Systems
+- Credits: 6
+- Type: Theory
+- Description: Constrained and unconstrained optimization; Kuhn-Tucker conditions; Linear programming; Dynamic programming; Review of probability theory-random variables, probability distributions; Stochastic optimization-chance constrained linear programming, stochastic dynamic programming; Applications in environmental and water resources engineering-storage yield analysis, water allocation, multipurpose reservoir operation for hydropower, flood control and irrigation, river water quality management, solid waste management; Use of advanced optimization techniques in Environmental  systems-Fuzzy optimization, Interval optimization, Nonlinear search algorithms-Genetic Algorithms and Probabilistic Global Search Laussane.
+
+## ES 451: Field Studies
+- Credits: 3
+- Type: Theory
+- Description: Field experiments to assess the status of various components of environment in a selected area; Sampling and analysis of environmental parameters; Assessment of sources of pollution. Visits to industrial units or treatment schemes to understand and undertake assessment to relate basic principles; Preparation of field study reports. Air Quality: Sampling of particulates, Size distribution of particles, Sampling of gaseous pollutants SO 2 , NOx, CO, NH 3 and CO 2 ; Measurement of air pollution meteorological parameters wind, turbulence, T, RH, solar radiation and rain. Water Quality: Measurement of parameters to determine the status of water bodies and drinking water quality; pH, turbidity, total hardness, DO, BOD, COD, NH 4+ -N. phenol, oil and grease, standard plate count measurements. Soi...
+
+## ES 493: MSc-PhD Project I
+- Credits: 6
+- Type: Project
+
+## ES 494: MSc-PhD Project II
+- Credits: 18
+- Type: Project
+
+## ES 495: MSc-PhD Project III
+- Credits: 24
+- Type: Project
+
+## ES 505: Health, Safety and Environment
+- Credits: 6
+- Type: Theory
+- Description: Regulations for Environment, Health and Safety: Factories Act and Rules, Environmental Pollution Act, Oil Industry Safety Directorate (OISD), Indian Electricity Acts and Rules, Mines Acts and Rules, Workmen Compensation Act, OSHA Standards, IS & BS Standards Occupational Health and Hygiene: Physical hazards - Noise and vibration, Ionizing and non-ionizing radiations, Health effects, surveying methods, Control measures and protective equipment Chemical Hazards - Hazard identification, TLV for air, gas and chemical contaminants, Assessment of physical and chemical hazards; Occupational Health - Workplace health hazards, Industrial toxicology, and Risk assessment. Safety performance: Indian and International standards; Hazard analysis - Cost effectiveness in hazard elimination, Process hazard...
+
+## ES 593: Dual Degree Project Stage  I
+- Credits: 36
+
+## ES 600: Environmental Science and Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to Environment Science and Engineering  Nature and scope of environment problems; Ecosystem effects through bio-geochemical cycles; Local, regional and global environmental challenges  Water Pollution Fundamentals and Control Strategies  Water quality?physical and chemical characteristics, Drinking water standards; Effluent water quality requirements; Water and wastewater treatment processes?treatment train, physical, chemical and biological unit operations.     Hazardous Chemicals, Hazardous Waste and Pollution Prevention  Industrial sources and regulations; Toxicity measurement and risk assessment; Treatment and disposal methods; Pollution prevention approaches.  Air Pollution Fundamentals and Control Strategies  Air pollution ? sources, classifications and regulations; Moni...
+
+## ES 616: Energy Conversion and Environment
+- Credits: 6
+- Type: Theory
+- Description: Principles and sources of energy conversion methods: Thermal, nuclear, hydro, solar. An introduction to fuels, combustion fundamentals, thermodynamics of combustion rates & properties of combustion products; Formation of pollutants, measurement and controls; Fundamentals of engine processes, sources of emissions from automobiles, effect of operating and design parameters on emission, recent trends in design of non-polluting power units, control methods, exhaust reactor problems and prospects; Exhaust emission test, procedures, standards and legislation; Combustion in Stationary sources, Power Production, Cogeneration.  Alternative energy sources utilisation, economics, environmental impacts, and management.
+
+## ES 624: Hazardous Waste Management
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals  :  Definition;  Landmark episodes;  Classification; ; Generation.  Regulatory process : Hazardous Waste (Management and Handling) Amendment  Rules (2000); Guidelines for HWM from MoEF, New Delhi, Regulatory framework in the USA and EU,  Basal Convention and other international  statutes.  Process  :  Physicochemical properties; Energy and mass balances; Fate and transport of contaminants; Toxicology  Current Management Practices  :  Environmental audit;  Pollution prevention;  Facility development and operations.  Treatment and Disposal Methods : Physicochemical processes; Biological processes;  Stabilization and solidification; Thermal methods;  Land disposal.  Remediation of Contaminated Sites :   Quantitative risk assessment; Site and subsurface characterization;  Containm...
+
+## ES 631: Environmental Chemistry
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Aquatic Chemistry : Chemical equilibria and kinetics fundamentals; Acids and bases; Titrations; Acidity; Alkalinity; Buffers and buffer intensity; Chemical equilibrium calculations;  pC-pH diagram. Precipitation and dissolution; Water softening and water conditioning; Langelier index; Solubility diagram; Coexistence of phases in equilibrium; Complexation of metal ions and organic complexes in natural water. Oxidation and reduction reactions stoichiometry; Redox couples; pE-pH diagrams; Redox control in natural systems; Basic concepts of organic and colloid chemistry. Soil Chemistry :    Weathering reactions; Structure and surface reactions of clays and oxides; Forces at soil-water interfaces.  Atmospheric Chemistry :   Chemical equilibria and kinetics; Photo-dissociation and free radical r...
+
+## ES 633: Environmental Microbiology and Ecology
+- Credits: 6
+- Type: Theory
+- Description: Structure of prokaryotic and eukaryotic cells; Types of microorganisms; Metabolic classification of microorganisms.Microbial metabolism; Respiration and energy generation; Microbial growth; Enzyme kinetics and regulation; Bacterial genetics; Structure of DNA and RNA; Transcription and translation; Gene expression and regulation; Gene transfer and recombinant DNA technology.Ecology; Ecosystem structure; Energy flow and material cycling in an ecosystem; Biogeochemical cycling of carbon, nitrogen, phosphorous and sulphur; Biodiversity and conservation of wild genetic resources. Microbiological aspects of drinking water and water distribution systems.
+
+## ES 635: Air Pollution Science and Engineering
+- Credits: 6
+- Type: Theory
+- Description: Air Pollutants and their Effects : The air pollution system; Gases and particulate; Atmospheric sources, sinks, transport; Effects of health and environment; Criterial pollutants, ambient and source standards.  Aerosols : Characterisation of aerosols, size distributions, measurement methods; Transport behaviour: diffusion, sedimentation, inertial, electrical and thermal; Aerosol Dynamics: nucleation, condensation and coagulation, Radiation properties – visibility, climate effects degradation; principles of particulate control systems. Gaseous Pollutants : Measurement methods; Vapour-liquid and vapour-solid equilibria; Diffusion and Interfacial mass-transfer; Control systems. Air quality management : dispersion modeling, source apportionment methods.
+
+## ES 637: Municipal Water and Wastewater Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to urban and metropolitan regional planning; Water quality and effluent standards; Issues related to water supply and disposal of wastewater; Water demand forecasting and management. Environmental hydraulics : Flow in pipes; Multiport diffuser outfalls; Flow in open channels; Pumps-system-head curve and pump head curve; Hydraulic profile computations of water and wastewater treatment plant.  Water treatment and distribution systems; Network design; Municipal wastewater collection; Computer packages for the design of water distribution and wastewater collection system.
+
+## ES 639: Physico-Chemical Treatment Technologies
+- Credits: 6
+- Type: Theory
+- Description: Overview of mass transfer and reactor concepts; Mass transport mechanisms; Ideal reactors, non-idealities, Mass balance in various reactor configurations.       Particle separation processes; Coagulation and flocculation processes, Particle surface charge, surface potential and stability of colloidal dispersions;  Sedimentation and flotation processes, Gravity thickeners, clarifiers and flotation systems; Filtration and Ultrafiltration Processes, Modeling approaches for rapid sand filters.   Solute separation processes; Gas transfer processes, Diffused and surface Aeration and Air stripping of volatile contaminants in packed tower;  Adsorption and ion exchange processes, sorption isotherm models and rates considerations, Sorption in completely mixed and packed bed reactors; Precipitation p...
+
+## ES 642: Industrial Wastewater Management and Reuse
+- Credits: 6
+- Type: Theory
+- Description: Tertiary treatment of industrial wastewater including removal of nitrate, sulphate, phosphorous, pathogens, color, odor, TDS, COD and residual BOD; Sector specific issues in management of industrial wastewater including petrochemical, textile, food processing, pharmaceutical, fertilizer, pesticides etc.; Policy and legislation including challenges posed by various sectors of industries and legislation framework and regulation in India; Case studies.
+
+## ES 644: Industrial Pollution Prevention and Clean Technologies
+- Credits: 6
+- Type: Theory
+- Description: Principles and techniques for industrial pollution prevention and waste minimization; Nature and characteristics of industrial wastes; Prevention versus control of industrial pollution; Source reduction tools and techniques: raw material substitution, toxic use reduction and elimination, process modification and procedural changes; Recycling and reuse; Opportunities and barriers to cleaner technologies; Pollution prevention economics.  Waste audits, emission inventories and waste management hierarchy for process industries; Material balance approach; Material and process mapping approach; Emission sources; Estimation of fugitive emissions; Environmental impact of VOCs; Energy and resource (material and water) audits for efficient usage and conservation.    Unit operations in separation tec...
+
+## ES 645: Environmental Law and Policy
+- Credits: 6
+- Type: Theory
+- Description: Models of environmental management; Incentives; Context; Theories of corporate strategy and environmental policy; Environmental guidelines and charters; Auditing, Monitoring; Reporting, economics and accounting; Local economic development and environmental management; Role of government; Law and policies beyond environmentalism; Sustainability issues; Role of government and non-government organizations and citizens.
+
+## ES 647: Municipal Solid and Biomedical Waste Management
+- Credits: 6
+- Type: Theory
+- Description: Solid waste management: Sources, Composition and Properties of Municipal Solid Waste,    Engineering principles; Generation of solid waste; Onsite handling, storage and processing including segregation; Collection of solid waste; Transfer and transport; Processing technique and equipment; Recovery of resources; Conversion products and energy; Composting; Recycling;  Incineration and pyrolysis; Disposal of solid waste including sanitary landfill, planning, siting, design, closure and post-closure monitoring; Regional/Integrated solid waste management related issues.Biomedical waste : Regulatory framework, categorization; generation, collection, transport, treatment and disposal.
+
+## ES 651: Environmental Monitoring Laboratory
+- Credits: 6
+- Type: Laboratory
+- Description: Air pollution measurement : Measurement design and methods; Principles and instruments for particulate and gaseous pollutant measurements; Meteorological measurements; Collection efficiency of control devices. Water quality monitoring : Cation/anion analysis; BOD; COD; Residual chlorine analysis; Metal analysis; Instrumental methods of pollutant analysis; Characterisation of sludge sample. Microbiology : Microscopy; Staining and detection of microbes; Methods of enumerating microbes; Multiple tube fermentation technique; Membrane filter technique.
+
+## ES 653: Environmental Impact Assessment
+- Credits: 6
+- Type: Theory
+- Description: Evolution of EIA; EIA at project; Regional and policy levels; Strategic EIA; EIA process;  Screening and scoping criteria; Rapid and comprehensive EIA; Specialised areas like environmental health impact assessment; Environmental risk analysis;  Economic valuation methods; Cost-benefit analysis; Expert  system and GIS applications; Uncertainties. Legislative and environmental clearance procedures in India and other countries, Siting criteria; CRZ; Public participation; Resettlement and rehabilitation. Practical applications of EIA; EIA methodologies; Baseline data collection; Prediction and assessment of impacts on physical, biological and socio-economic environment; Environmental management plan; Post project monitoring, EIA report and EIS; Review process. Case studies on project, regional...
+
+## ES 654: Groundwater Flow & Contaminant Transport through Porous Media
+- Credits: 6
+- Type: Theory
+- Description: Water movement in the subsurface : Groundwater and the hydrologic cycle; The groundwater environment; Types of aquifers; Sources of contamination; Saturated flow: continuity equation; Darcy?s Law; Equation of flow; Analytical solutions and numerical modeling; Unsaturated flow; Ground water sampling methods and analyses.  Transport of contaminants : Transport equation; Dispersion and diffusion in porous media; Reaction terms; Analytical solutions.  Soil Chemistry :  Groundwater quality; Common soil minerals and components; Forces at soil-water interfaces; Adsorption and surface complexation models; Interaction of non-polar compounds with soils; Soil chemical kinetics.  Modelling Groundwater Pollution : Coupling of contaminant-soil interactions with transport; Reaction and transport of trace...
+
+## ES 655: Environmental Management
+- Credits: 6
+- Type: Theory
+- Description: Environmental regulations and policies; Environmental protection laws and acts; Corporate and international charters and protocols; Environment Risk assessment; Industrial ecology, Pollution prevention and Waste minimization; Sustainable development; Life cycle assessment; Environmental auditing; Eco-labelling of products; Performance indicators. Environmental management systems particularly IS 14000 series. Successful Case  Studies.
+
+## ES 656: Bioremediation - Principles and Applications
+- Credits: 6
+- Type: Theory
+- Description: Current bioremediation practice and applications; Microbial systems of bioremediation; Factors influencing bioremediation (environmental factors, physical factors and chemical factors); Genetic responses of microorganisms to the presence of pollutants (plasmid coded inducible degradative enzymes); Application of genetically engineered microorganisms for hazardous waste management; Microbial transformation reactions (aerobic and anaerobic biotransformations); Microbial detoxification of specialty chemicals (insecticides, herbicides, fungicides, polychlorinated biphenyls, heavy metals); Bioremediation systems and processes (solid, liquid and slurry phase bioremediation);  Microbial cleaning of gases (biofiltration and bioscrubbing); In situ bioremediation; Laboratory scale biotreatability st...
+
+## ES 657: Water Resources and Environmental Hydraulics-
+- Credits: 6
+- Type: Theory
+- Description: Global water resources; Precipitation; Streamflow measurement; Runoff; Hydrographs; Floods and flood routing; Design of open channels; Concepts of specific energy, Hydraulic jump; Groundwater hydrology. Definition and properties of fluids; Fluid statistics, fluid pressure and its measurement, hydrostatic force on plane, inclined and curved submerged surfaces, buoyancy and floatation; Kinematics of fluid flow; Fluid dynamics: Continuity, Momentum and energy equations, Flow through orifices, Weir and notches, Flow through pipes.
+
+## ES 658: Environmental Change and Sustainable Development
+- Credits: 6
+- Type: Theory
+- Description: Issues of sustainability : food, materials and energy resources, demands, policies, ethics; Paradigms of agricultural/industrial age, population, limits to growth; Current debates on the issues of sustainability; Relationships of ecological, economic and social systems; Engineering tools for assessment and design for environment and sustainability; Relevance of traditional paradigms for rural India.
+
+## ES 659: Mathematics and Statistics for Environmental Engineering-
+- Credits: 6
+- Type: Theory
+- Description: Differential and Integral calculus; Linear algebra: Eigenvalues and Eigenvectors, Systems of linear equations - Properties of determinants and matrices, Solution of linear simultaneous equations; Systems of nonlinear equations; Ordinary differential equations: First order, Ordinary linear differential equations of nth order, Systems of differential equations; Introduction to partial differential equations. Overview of statistics and probability; Probability concepts and probability distributions; Conditional probability and Bayes- theorem; Fundamentals of data analysis; Experiment design and analysis of variance; Regression analyses.
+
+## ES 664: Environmental Systems Modelling
+- Credits: 6
+- Type: Theory
+- Description: Definition; Classification; Examples of models for environmental systems. Introduction to air quality models; Meteorology; Atmospheric stability and  turbulence; Gaussian plume model and modifications; Numerical models, Urban diffusion models, Calibration and sensitivity analysis; Applications of public domain models and software, Global radiation balance and climatic changes. Transport and fate of pollutant in aquatic systems; Introduction to river, estuarine and lake hydrodynamics; Stratification and eutrophication of  lakes; Dissolved oxygen model for streams; Temperature models.   Transport and fate of pollutants in soils and ground water; Utility of environmental models for forecasting. Computational methods in environmental modelling.  "Strong background in mathematics is essential a...
+
+## ES 666: Biological Treatment Technologies
+- Credits: 6
+- Type: Theory
+- Description: Classification of biochemical operations; Stoichiometry and kinetics of biochemical operations; Modelling of suspended growth systems (basic model for CSTRs; Extensions of the basic model; Methods of biomass recycle and retainment; Techniques for evaluation of kinetic and stoichiometric parameters; Multiple microbial activities in reactors); Design and evaluation of suspended growth processes (guiding principles; Iterative nature of process design and evaluation; Basic decisions during design; Levels of design; Factors to be considered during design); Biological nutrient removal (carbon, nitrogen and phosphorous removal); Anaerobic treatment (process options, components of anaerobic reactions that influence process design); Attached growth reactors (process description and applications); B...
+
+## ES 668: Environmental Computation Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to Computers and Computing, Introduction to a programming language,  Applications of spreadsheet and management of software for solving environmental problem; Hands-on practice on statistical software/tools; hands-on practice on standard software in environmental science and engineering field.
+
+## ES 670: Environmental Statistics
+- Credits: 6
+- Type: Theory
+- Description: Overview of statistics and probability;  Statistics in the context of environmental analysis; Probability concepts and probability distributions; conditional probability and Bayes’ theorem Fundamentals of data analysis;  Measurement uncertainty: Precision and accuracy; Reproducibility/repeatability; Types of Error, Normal error curve; Error propagation; Quality assurance and quality control; Confidence intervals. Hypothesis testing for equality of mean and standard deviation: t-test, chi-square test and F-test; Errors in hypothesis testing.   Experiment design and analysis of variance; ANOVA concepts; Completely randomized design; Randomized block design; Two-way factorial design; Variance component analysis; Factorial and fractional factorial design; Significance of interaction between fa...
+
+## ES 672: Air Pollution Control Technologies
+- Credits: 6
+- Type: Theory
+- Description: Industrial sources of air pollution; Behaviour of pollutants in atmosphere; Emission factors, regulations, control strategies and policies; Choosing appropriate APC technology. Particulate Pollutant Control : Settling chambers – laminar and turbulent flow; Filtration – interception; Impaction; Convective diffusion; Collection of particles by cylindrical fibres and granular beds; Electrostatic precipitation – field and diffusion charging; Electrical migration velocity; Cyclones – laminar and turbulent flow; Wet collectors; Design and drawing of various  particle control devices. Gaseous Pollutant Control :  Gas absorption in tray and packed towers; Stage efficiency; Liquid/gas rates; Equilibrium number of stages/packed height; Absorption with/without chemical reaction; Adsorption in fixed b...
+
+## ES 674: Aerosol Science and Engineering
+- Credits: 6
+- Type: Theory
+- Description: Physics of aerosols: size and size distributions, mechanics of motion, agglomeration, diffusion, electrical effects and light scattering.  Applications to sampling, deposition, and visibility. Particle formation and growth dynamics, aerosol reactor design engineering, and applications to environmental aerosols, catalysis, combustion, instrumentation, pharmaceuticals and powder production.
+
+## ES 676: Membrane Processes
+- Credits: 6
+- Type: Theory
+- Description: Introduction to processes and materials, Phenomena governing process operation; driving forces, concentration polarization, hydrodynamics, sealing, fouling, Module configurations, Applications. Reverse Osmosis fundamentals, process design and operation: municipal and industrial applications.  Desalination of sea water, pure/ultrapure water production. Fouling and pretreatment, CAD for RO design. Electrodialysis, Definition of process operation conditions from first principles. Water and industrial wastewater applications with reference to recent case studies. Nanofiltration and ultrafiltration applications. NF for surface water treatment.  UF in ultrapure and potable water production and in membrane bioreactors. Dead-end cartridge filtration applications in potable and pure water treatment...
+
+## ES 678: Soil Science
+- Credits: 6
+- Type: Theory
+- Description: Definition of soil and soil properties; Nature and arrangement of soil solids; Measurement of physical properties of the solid phase; Liquid phase characteristics and measurements: potential; capillarity; hysteresis; Prediction of soil moisture characteristics; Composition and properties of the air phase.  Fundamentals of unsaturated fluid flow; hydraulic conductivity measurement and prediction; Infiltration of water; Movement of non-aqueous fluids in soils; Two-phase transport properties; Richard’s equation; Immiscible displacement.  Chemical composition of soils; Soil minerals—structure and surface functional groups;  Mineral solubility and weathering; Surface chemistry and electric double layer;  Composition and chemistry of soil organic matter; Inorganic and organic contaminant sorptio...
+
+## ES 680: GIS for Environmental Planning and Management
+- Credits: 6
+- Type: Theory
+- Description: Introduction to GIS, Data input, verification, storage and output, Data structures in GIS, Data analysis and spatial modeling, DEMS, DTMS, Surfaces, TINS and Networks in GIS.Introduction to remote sensing particularly for getting Input data from remote sensing.Introduction to GIS software and hardware. Laboratory sessions with hands on practice on GIS software say ArcGIS.Case studies on various applications of GIS for environmental planning and management.
+
+## ES 682: Numerical Methods for Environmental Systems
+- Credits: 6
+- Type: Theory
+- Description: Numerical differentiation and Integration, Numerical methods and techniques for solving ordinary, partial differential equations, nonlinear equations; Matrices Eigenvalues and Eigenvectors, Finite difference method: schemes 303242302200302223 implicit and explicit types. Accuracy, convergence and stability, method of characteristics, Finite element method- variational and weighted residual formulations; Introduction and hands-on practice on popular / available numerical tools and software; Applications to Environmental systems viz. water, air, wastewater and groundwater systems.  Strong background in mathematics is essential and programming is desirable (with permission of the instructor).
+
+## ES 684: Design of Water and Wastewater Systems
+- Credits: 6
+- Type: Theory
+- Description: General considerations for source of drinking water; Economic sizing of pumping mains; Considerations for layout of treatment plant; Water treatment plant design, Design of water distribution network and wastewater collection system using EPANET AND LOOP program. Design of Screens; Grit chamber; Aerated grit chamber; Communitor; Sizing of flow equalisation tank; Design of primary sedimentation tank. Activated sludge process and its modifications; Trickling filter design along with hydraulic considerations; Rotating biological contactor; Aerated lagoons; Waste stabilisation ponds. Anaerobic treatment Process; Design of upflow anaerobic sludge blanket reactor; Design of anaerobic sludge digester; Design of sludge drying beds.
+
+## ES 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## ES 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates after Listening, Podcasts and Webcasts 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling 7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 8.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## ES 797: I Stage Project
+- Credits: 42
+- Prerequisite: 0
+
+## ES 798: II Stage Project
+- Credits: 38
+- Prerequisite: 0
+
+## ES 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## ESS801: Seminar
+- Credits: 4
+- Type: Seminar

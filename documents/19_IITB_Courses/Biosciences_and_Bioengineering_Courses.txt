@@ -1,0 +1,1040 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Biosciences and Bioengineering - Course Catalog for IIT Bombay Students
+
+
+## BB 101: Biology
+- Credits: 6
+- Type: Theory
+- Description: Quantitative views of modern biology. Importance of illustrations and building quantitative/qualitative models. Role of estimates. Cell size and shape. Temporal scales. Relative time in Biology. Key model systems - a glimpse. Management and transformation of energy in cells. Mathematical view - binding, gene expression and osmotic pressure as examples. Metabolism. Cell communication. Genetics. Eukaryotic genomes. Genetic basis of development. Evolution and diversity. Systems biology and illustrative examples of applications of Engineering in Biology.
+
+## BB 400: Molecular Biophysics
+- Credits: 6
+- Type: Theory
+- Description: Molecular structure; Torsion angles; Steric effect: Contact distances; Homomorphous sugars; Cis & trans peptide bonds; Ramachandran map: for amino acids and as a general conformational analysis tool. Non-covalent interactions; hydrogen bond; stacking; Entropy: Entropy/enthalpy compensation; A=T vs. G-C. Effective conc. Enthalpic and entropic co-operativity. Oligopeptide conformation. Conformationally constrained amino acids; Hydrophobic effect; Affinity and specificity in intermolecular interactions; Stability of protein structure; Folding / unfolding; m values; Models of protein folding; Folding funnel; Contact order; F value analysis; Denatured state; Intrinsically unfolded proteins; Protein and RNA folding; In vivo folding; Kinetically stable proteins; Lipids: Assemblies; Volume, surfac...
+
+## BB 401: Mathematical Methods for Biologists
+- Credits: 6
+- Type: Theory
+- Description: Calculus: Idea of functions using examples from biology (e.g., Concentrations of proteins as a function of space and time. Circadian oscillations) Differentiation. Plotting functions. Integration. Calculus of growth and decay processes. Differential equations. Vectors, Co-ordinate systems: Scalars and vectors. Spherical polar coordinates, Cylindrical coordinates. Use of these coordinate systems  (e.g., 3-dimensional configuration of proteins ) Probability and Statistics:  Relevance of stochasticity in biology. Need of using statistical methods. Mean, variance, standard deviation, Errors, fitting a function to an experimental data set -- linear and non-linear fits. Introduction to probability, Probability distributions, Moments, Binomial distribution , Normal distribution , Poisson distribu...
+
+## BB 402: Cell Biology
+- Credits: 6
+- Type: Theory
+- Description: Prokaryotic and eukaryotic cell organization: Different types of cells and their organization, differences Cell organelles: Organization and functions of eukaryotic cell organelles Vesicular trafficking: Protein transport, protein sorting, vesicular transport, phagocytosis, pinocytosis Cytoskeleton: Organization and functions of microtubules, actins and intermediate filaments. Molecular motors, endocytosis, exocytosis Structure of chromosome and chromatin regulation: Organization of chromosomes, chromatin concept, chromatin regulation Visualizing cells: Different types of microscopes, fluorophores and techniques to visualize cells Cell cycle: Steps of mitosis and meiosis and their regulation
+
+## BB 403: Biomolecular Spectroscopy
+- Credits: 6
+- Type: Theory
+- Description: Electromagnetic and quantum theory of radiation; Wave-particle duality; Photons; Interaction of light with matter, Transition dipole moment; Jablonsky diagram; UV-visible absorption spectroscopy: Beer-Lambert`s law; applications of UV-visible difference Spectroscopy; Circular dichroism in protein analysis: Fluorescence spectroscopy of Biomolecules: quantum yield, static and dynamic quenching of fluorescence, energy transfer, polarization, anisotropy, time-resolved fluorescence; Vibrational Spectroscopy: IR, FT-IR and Raman spectroscopy of biomolecules. Nuclear Magnetic Resonance Spectroscopy: chemical shifts, coupling constants, ring currents, paramagnetic shifts, spin-spin and spin-lattice relaxation times, NOE, chemical exchange, applications application to biomolecular structure and dyn...
+
+## BB 404: Metabolism and Bioenergetics
+- Credits: 6
+- Type: Theory
+- Description: Overview of metabolism; concept of flow of matter and energy; thermodynamics of coupled systems and non-equilibrium reactions;  biological energy currencies: high energy bond, reducing power and inter conversions of energy forms; carbon, nitrogen cycles in biosphere; classification of living system based on carbon and energy requirements; methods to study metabolism; carbohydrate and lipid catabolism; glycolysis; TCA cycle; fatty acid oxidation, other metabolic routes of carbon; oxidative phosphorylation; biosynthesis of carbohydrates and lipids photosynthesis; photosynthetic electron transport; Calvin cycle and other avenues of harvesting light energy; gluconeogenesis; Cori cycle; glycogen metabolism; biogenesis of fatty acids and sterols; nitrogen metabolism: sources of organic nitrogen;...
+
+## BB 405: Molecular Biology
+- Credits: 6
+- Type: Theory
+- Description: Nucleic acids, DNA structure, central dogma; Replication: eukaryotic and prokaryotic replication, mechanism and control, replication of double stranded and single stranded circular DNA, the end-replication problem and telomerase; Nucleosomes: eukaryotic and prokaryotic genome packing, heterochromatin, euchromatin; Transcription: mechanism of RNA transcription in prokaryotes and eukaryotes; model systems of transcriptional control: lac operon, lambda phage; promoters, enhancers, repressors; RNA processing: processing of heterogeneous nuclear RNA: splicing, capping, polyadenylation; Translation: universal genetic code, degeneracy of codons, mechanisms of initiation, elongation and termination of translation, wobble hypothesis, genetic code in mitochondria; Mutations: nonsense, missense, fram...
+
+## BB 406: Genetic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Impact of genetic engineering in modern society; general requirements for performing a genetic engineering experiment; restriction endonucleases and methylases; DNA ligase, Klenow enzyme, T4 DNA polymerase, polynucleotide kinase, alkaline phosphatase; cohesive and blunt end ligation; linkers; adaptors; homopolymeric tailing; labelling of DNA: nick translation, random priming, radioactive and non-radioactive probes, hybridization techniques: northern, southern, south-western and far-western and colony hybridization, fluorescence in situ hybridization. Plasmids; Bacteriophages; M13 mp vectors; PUC19 and Bluescript vectors, hagemids; Lambda vectors; Insertion and Replacement vectors; Cosmids; Artificial chromosome vectors (YACs; BACs); Principles for maximizing gene expression expression vect...
+
+## BB 407: Analytical Biochemistry
+- Credits: 6
+- Type: Theory
+- Description: Separation techniques in biochemistry: Centrifugation, TLC and Paper chromatography, gel permeation, ion exchange, hydrophobic, reverse-phase and affinity chromatography, HPLC and FPLC, Electrophoretic techniques, Criteria of protein purity, equilibrium dialysis, ultrafiltration and various membrane techniques, API-electrospray and MALDI-TOF, Mass spectrometery Radiotracer techniques for enzyme assays, receptor-ligand interactions; radioimmunoassay, ELISA
+
+## BB 408: Immunology
+- Credits: 6
+- Type: Theory
+- Description: Components of innate and acquired immunity; phagocytosis; complement and inflammatory responses; pathogen recognition receptors (PRR) and pathogen associated molecular pattern (PAMP); innate immune response; mucosal immunity; antigens: immunogens, haptens; Major Histocompatibility Complex: MHC genes, MHC and immune responsiveness and disease susceptibility, Organs of immune system, primary and secondary lymphoid organs. Immunoglobulins - basic structure, classes & subclasses of immunoglobulins, antigenic determinants; multigene organization of immunoglobulin genes; B-cell receptor; Immunoglobulin superfamily; principles of cell signaling; basis of self & non-self discrimination; kinetics of immune response, memory; B cell maturation, activation and differentiation; generation of antibody d...
+
+## BB 409: Biological thermodynamics and kinetics
+- Credits: 6
+- Type: Theory
+- Description: Thermodynamic functions - U, A, H, S and G. The First law: work, heat, energy, heat transactions, enthalpy, standard enthalpy changes. The Second law: entropy, entropy changes accompanying specific processes; The Third law and Biology. Chemical equilibrium: Gibb-s energy minimum, description of equilibrium, How equilibria respond to pressure, temperature & pH. Applications of thermodynamic principles to biological systems. Statistical thermodynamics: distribution of molecular states (introduce molecular partition function), the internal & the statistical entropy, Boltzmann distribution. Basic kinetic concepts: Reaction stoichiometry, rates of consumption & formation, extent of reaction, rate of reaction, Analysis of kinetic results, influence of temperature on reaction rates. Theories of r...
+
+## BB 410: Bioinformatics - I Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Bioinformatics basics: Searching PubMed, current content, science citation index and current awareness services, electronic journals, grants and funding information. Computers in biology and medicine; Introduction to Unix and Linux systems and basic commands; Database concepts; Protein and nucleic acid databases; Structural databases; Biological XML DTD-s; pattern matching algorithm basics; databases and search tools: biological background for sequence analysis; Identification of protein sequence from DNA sequence; searching of databases similar sequence; NCBI; publicly available tools; resources at EBI; resources on web; database mining tools.  BLAST: sequence alignment- methods, evaluation, scoring; Use of various primer designing and restriction site prediction tools. Use of miRNA predi...
+
+## BB 411: Molecular Cell Biology
+- Credits: 6
+- Type: Theory
+- Description: Biochemical unity and biological diversity. Relationship between structure and function. Separation techniques: basis and importance. Microbial kingdom. Prokaryotes, eukaryotes, archaea. Microbial growth. Hemoglobin: portrait of an allosteric protein. Enzymes. Catalytic and regulatory strategies. Carbohydrates, lipids, membranes. Signal transduction. Metabolism: basic concepts and design. Oxidative and photo-phosphorylation. Integration of metabolism. Flow of genetic information. Recombinant DNA technology. Genomes. Concept of homology.
+
+## BB 412: Genomics and Proteomics
+- Credits: 3
+- Type: Theory
+- Description: Brief overview of prokaryotic and eukaryotic genome organization; extra-chromosomal DNA: bacterial plasmids, mitochondria and chloroplast. Genetic and physical maps; markers for genetic mapping; methods and techniques used for gene mapping, physical mapping, linkage analysis, cytogenetic techniques, FISH technique in gene mapping, somatic cell hybridization, radiation hybrid maps, in situ hybridization, comparative gene mapping. Human Genome Project, genome sequencing projects for microbes, plants and animals, accessing and retrieving genome project information from the web. Identification and classification of organisms using molecular markers- 16S rRNA typing/sequencing, SNPs; use of genomes to understand evolution of eukaryotes, track emerging diseases and design new drugs; determining ...
+
+## BB 413: Biochemistry
+- Credits: 6
+- Type: Theory
+- Description: Chemical basis of life: Miller-Urey experiment, abiotic formation of amino acid oligomers, composition of living matter; Water - properties of water, essential role of water for life on earth pH, buffer, maintenance of blood pH and pH of gastric juice, pH optima of different enzymes (pepsin, trypsin and alkaline phosphatase), ionization and hydrophobicity, emergent properties of biomolecules in water, biomolecular hierarchy, macromolecules, molecular assemblies. Structure-function relationships: amino acids - structure and functional group properties, peptides and covalent structure of proteins, elucidation of primary and higher order structures, Ramachandran plot, evolution of protein structure, protein degradation and introduction to molecular pathways controlling protein degradation, st...
+
+## BB 414: Molecular Diagnostics
+- Credits: 3
+- Type: Theory
+- Description: DNA, RNA, Protein: An overview; chromosomal structure & mutations; DNA polymorphism: human identity; clinical variability and genetically determined adverse reactions to drugs. PCR: Real-time; ARMS; Multiplex; ISH; FISH; ISA; RFLP; DHPLC; DGGE; CSCE; SSCP; Nucleic acid sequencing: new generations of automated sequencers; Microarray chips; EST; SAGE; microarray data normalization & analysis; molecular markers: 16S rRNA typing; Diagnostic proteomics: SELDI-TOF-MS; Bioinformatics data acquisition & analysis. Metabolite profile for biomarker detection the body fluids/tissues in various metabolic disorders by making using LCMS & NMR technological platforms. Direct detection and identification of pathogenic-organisms that are slow growing or currently lacking a system of in vitro cultivation as ...
+
+## BB 415: Cell and Molecular Biology
+- Credits: 6
+- Type: Theory
+- Description: Universal features of cells; cell chemistry and biosynthesis: chemical organization of cells; internal organization of the cell - cell membranes: structure of cell membranes and concepts related to compartmentalization in eukaryotic cells; intracellular organelles: endoplasmic reticulum and Golgi apparatus, lysosomes and peroxisomes, ribosomes, cellular cytoskeleton, mitochondria, chloroplasts and cell energetics; nuclear compartment: nucleus, nucleolus and chromosomes. Chromatin organization - histone and DNA interactome: structure and assembly of eukaryotic and prokaryotic DNA polymerases, DNA-replication, repair and recombination; chromatin control: gene transcription and silencing by chromatin Writers,-Readers and -Erasers; Transcriptional control: Structure and assembly of eukaryotic ...
+
+## BB 416: Research Methodology and Scientific Communication Skills
+- Credits: 3
+- Type: Theory
+- Description: Empirical science; scientific method; manipulative experiments and controls; deductive and inductive reasoning; descriptive science; reductionist vs holistic biology. Choosing a mentor, lab and research question; maintaining a lab notebook. Concept of effective communication- setting clear goals for communication; determining outcomes and results; initiating communication; avoiding breakdowns while communicating; creating value in conversation; barriers to effective communication; non-verbal communication-interpreting non-verbal cues; importance of body language, power of effective listening; recognizing cultural differences; Presentation skills - formal presentation skills; preparing and presenting using over-head projector, PowerPoint; defending interrogation; scientific poster preparati...
+
+## BB 417: Plant and Animal Biotechnology
+- Credits: 3
+- Type: Theory
+- Description: Plant tissue culture: historical perspective; totipotency; organogenesis; Somatic embryogenesis; establishment of cultures - callus culture, cell suspension culture, media preparation - nutrients and plant hormones; sterilization techniques; applications of tissue culture - micropropagation; somaclonal variation; androgenesis and its applications in genetics and plant breeding; germplasm conservation and cryopreservation; synthetic seed production; protoplast culture and somatic hybridization - protoplast isolation; culture and usage; somatic hybridization - methods and applications; cybrids and somatic cell genetics; plant cell cultures for secondary metabolite production. Animal cell culture: brief history of animal cell culture; cell culture media and reagents; culture of mammalian cell...
+
+## BB 419: Microbiology
+- Credits: 3
+- Type: Theory
+- Description: Introduction to microbiology and microbes, history & scope of microbiology, morphology, structure, growth and nutrition of bacteria, bacterial growth curve, bacterial culture methods; bacterial genetics: mutation and recombination in bacteria, plasmids, transformation, transduction and conjugation; antimicrobial resistance. Microbial taxonomy and evolution of diversity, classification of microorganisms, criteria for classification; classification of bacteria; Cyanobacteria, acetic acid bacteria, Pseudomonads, lactic and propionic acid bacteria, endospore forming bacteria, Mycobacteria and Mycoplasma. Archaea: Halophiles, Methanogens, Hyperthermophilic archae, Thermoplasm; eukarya: algae, fungi, slime molds and protozoa; extremophiles and unculturable microbes. Sterilization, disinfection a...
+
+## BB 421: Genetics
+- Credits: 3
+- Type: Theory
+- Description: Concept of a gene in pre-DNA era; mapping of genes in bacterial and phage chromosomes by classical genetic crosses; fine structure analysis of a gene; genetic complementation and other genetic crosses using phenotypic markers; phenotype to genotype connectivity prior to DNA- based understanding of gene. Meiotic crosses, tetrad analyses, non-Mendelian and Mendelian ratios, gene conversion, models of genetic recombination, yeast mating type switch; dominant and recessive genes/mutations, suppressor or modifier screens, complementation groups, transposon mutagenesis, synthetic lethality, genetic epistasis. Monohybrid & dihybrid crosses, back-crosses, test-crosses, analyses of autosomal and sex linkages, screening of mutations based on phenotypes and mapping the same, hypomorphy, genetic mosai...
+
+## BB 423: Basics of Mathematics and Statistics
+- Credits: 3
+- Type: Theory
+- Description: Linear equations, functions: slopes-intercepts, forms of two-variable linear equations; constructing linear models in biological systems; quadratic equations (solving, graphing, features of, interpreting quadratic models etc.), introduction to polynomials, graphs of binomials and polynomials; Symmetry of polynomial functions, basics of trigonometric functions, Pythagorean theory, graphing and constructing sinusoidal functions, imaginary numbers, complex numbers, adding-subtracting-multiplying complex numbers, basics of vectors, introduction to matrices. Differential calculus (limits, derivatives), integral calculus (integrals, sequences and series etc.). Population dynamics; oscillations, circadian rhythms, developmental patterns, symmetry in biological systems, fractal geometries, size-li...
+
+## BB 425: Basics of Chemistry and Physics
+- Credits: 3
+- Type: Theory
+- Description: Physical quantities and their dynamics: definitions and dimensions; vectors & scalars, displacement, velocity, acceleration, kinematic formulas, angular momentum, torque etc. force, power, work, energy (kinetic & potential/electric charge separation, electromagnetic spectrum, photons etc.); springs & Hookes laws; elastic and inelastic collisions; Newton-s law of motions (centripetal and centrifugal forces etc.); simple harmonic motions, mechanical waves, Doppler effect, wave interference, amplitude, period, frequency & wavelength; diffusion, dissipation, random walks, and directed motions in biological systems; low Reynolds number - world of Biology, buoyant forces, Bernoulli-s equation, viscosity, turbulence, surface tension, adhesion; laws of thermodynamics: Maxwell Boltzmann distributio...
+
+## BB 450: Biophysics Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BB 451: Biochemistry Laboratory
+- Credits: 10
+- Type: Laboratory
+- Description: Theory: Buffers & pKa; Cell fractionation; Estimation of Protein, Nucleic Acids, Lipid, Carbohydrate; Enzyme purification, purification table, definition of units- Km and Vmax determination, Criteria of purity; electrophoresis methods; Immunochemical methods of analysis.  Experiments: Buffer preparation: finding out buffering zone and pKa value; Protein estimation by Lowry, Bradford, UV-visible method; Sugar estimation; Thin layer chromatography; Electrophoresis technique: Agarose and SDS-PAGE; Preparation of cell  free extract, detection of enzyme activity and calculation of specific activity; Column chromatographic techniques: ion-exchange and gel-filtration chromatography
+
+## BB 452: Microbiology Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BB 453: Biochemistry and Analytical Techniques lab
+- Credits: 6
+- Type: Laboratory
+- Description: 1.011Preparing various stock solutions and working solutions that will be needed for the course.2.011To prepare an Acetic-Na Acetate Buffer and validate the Henderson-Hasselbach equation.3.011To determine an unknown protein concentration by plotting a standard graph of BSA using UV-Vis Spectrophotometer and validating the Beer- Lambert302222s Law.4.011Titration of Amino Acids and separation of aliphatic, aromatic and polar amino acids by thin layer chromatography.5.011Purification and characterization of an enzyme from a recombinant source (such as Alkaline Phosphatase or Lactate Dehydrogenase or any enzyme of the institution302222s choice). a) Preparation of cell-free lysates; b) Ammonium Sulfate precipitation; c) Ion-exchange Chromatography; d) Gel Filtration; e) Affinity Chromatography;...
+
+## BB 454: Programming for Bioinformatics
+- Credits: 6
+- Type: Theory
+- Description: Any one of these programming languages (C, C++, or Python) and a few modules of using R for dataanalysis.      C/C++: Introductory concepts ; Variable types, declarations, scalars, arrays, etc. Operators (assignment,etc.), Control structures and conditional statements; loops (do, while, until, etc.), subroutines.Illustrative problem solving with applications in Bioinformatics. Object oriented programming (for C++).Python: Variables: types and re-declaration; operators - math, Boolean, logical, etc.; strings - escapesequences, concatenation, comparison, etc.; conditional statements; loops; lists and dictionaries,tuples, set operations, Pandas for handling large datasets; File operations: reading, writing; learning towrite clean code using multiple modules, i.e. functions, Coding in Google C...
+
+## BB 455: Microbiology lab
+- Credits: 3
+- Type: Laboratory
+- Description: 1.011Sterilization, disinfection and safety in microbiological laboratory.2.011Preparation of media for cultivation of bacteria.3.011Isolation of bacteria in pure culture by streak plate method.4.011Study of colony and growth characteristics of some common bacteria: Bacillus, E. coli, Staphylococcus, Streptococcus, etc.5.011Preparation of bacterial smear and Gram302222s staining.6.011Enumeration of bacteria: standard plate count.7.011Antimicrobial sensitivity test and demonstration of drug resistance.8.011Maintenance of stock cultures: slants, stabs and glycerol stock cultures9.011Determination of phenol co-efficient of antimicrobial agents.10.011Determination of Minimum Inhibitory Concentration (MIC)11.011Isolation and identification of bacteria from soil/water samples.
+
+## BB 456: Molecular Biology and Genetic Engineering Lab
+- Credits: 6
+- Type: Laboratory
+- Description: 1. Concept of lac-operon: a) Lactose induction of B-galactosidase. b) Glucose Repression. c) Diauxic growth curve of E.coli 2. UV mutagenesis to isolate amino acid auxotroph 3. Phage titre with epsilon phage/M13 4. Genetic Transfer-Conjugation, gene mapping 5. Plasmid DNA isolation and DNA quantitation 6. Restriction Enzyme digestion of plasmid DNA 7. Agarose gel electrophoresis 8. Polymerase Chain Reaction and analysis by agarose gel electrophoresis 9. Vector and Insert Ligation 10. Preparation of competent cells 11. Transformation of E.coli with standard plasmids, Calculation of transformation efficiency 12. Confirmation of the insert by Colony PCR and Restriction mapping 13. Expression of recombinant protein, concept of soluble proteins and inclusion body formation in E.coli, SDS-PAGE a...
+
+## BB 457: Plant and Animal Biotechnology lab
+- Credits: 3
+- Type: Laboratory
+- Description: Plant Biotechnology1. Prepare culture media with various supplements for plant tissue culture.2. Prepare explants of Valleriana wallichii for inoculation under aseptic conditions.3. Attempt in vitro andro and gynogenesis in plants (Datura stramonium).4. Isolate plant protoplast by enzymatic and mechanical methods and attempt fusion by PEG (available material).5. Culture Agrobacterium tumefaciens and attempt transformation of any dicot species.6. Generate an RAPD and ISSR profile of Eremurus persicus and Valleriana wallichii.7. Prepare karyotypes and study the morphology of somatic chromosomes of Allium cepa, A. sativum, A. tuberosum and compare them on the basis of karyotypes.8. Pollen mother cell meiosis and recombination index of select species (one achiasmate, and the other chiasmate) a...
+
+## BB 458: Immunology Lab
+- Credits: 3
+- Type: Laboratory
+- Description: 1. Selection of animals, preparation of antigens, immunization and methods of blood collection, serum separation and storage. 2. Antibody titre by ELISA method. 3. Double diffusion, Immuno-electrophoresis and Radial Immuno diffusion. 4. Complement fixation test. 5. Isolation and purification of IgG from serum or IgY from chicken egg. 6. SDS-PAGE, Immunoblotting, Dot blot assays. 7. Blood smear identification of leucocytes by Giemsa stain. 8. Separation of leucocytes by dextran method. 9. Demonstration of Phagocytosis of latex beads and their cryopreservation. 10. Separation of mononuclear cells by Ficoll-Hypaque and their cryopreservation. 11. Demonstration of ELISPOT. 12. Demonstration of FACS.
+
+## BB 501: Genetics
+- Credits: 3
+- Type: Theory
+- Description: Mendelian genetics; deviation from Mendelian ratiosCrossing over and Linkage analysis; Fine structure analysis of a gene; Concept of mutation; Complementation analysis; Recombination;  Cytoplasmic inheritance; Sex-linked inheritance; Transposons; Chromosomal aberrations (structural and numerical) and associated diseases; population and evolutionary genetics.
+
+## BB 502: Project Stage II Dissertation
+- Credits: 24
+- Type: Project
+- Description: Based on the project proposal submitted in earlier semester, students should be able to plan, and engage in, an independent and sustained critical investigation and evaluate a chosen research topic relevant to biological sciences and society. They should be able to systematically identify relevant theory and concepts, relate these to appropriate methodologies and evidence, apply appropriate techniques and draw appropriate conclusions. Senior researchers should be able to train the students such that they can work independently and are able to understand the aim of each experiment performed by them. They should also be able to understand the possible outcomes of each experiment. At the end of their project, thesis has to be written giving all the details such as aim, methodology, results, d...
+
+## BB 503: Genetic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Concept of recombinant DNA technology and purpose, basic methodology, use of plasmids, Type I, II and III restriction modification systems, type II restriction endonucleases, nomenclature and sequence recognition, mcr and rnrr genotypes, linkers, adaptors, blunt end ligation, homopolymeric tailing, Transformation, methods in screening recombinant DNA. Radioactive and non-radioactive methods for labeling DNA: Nick translation, random priming, use of Klenow enzyme, T4 DNA polymerase, bacterial alkaline phosphatase, polynucleotide kinase, hybridization techniques, northern, Southern and colony hybridization. Restriction maps and mapping techniques. PCR technology, enzymes in PCR, hot-start, touchdown PCR, primer design, introduction of restriction sites etc. Construction of cDNA libraries in ...
+
+## BB 505: Molecular Immunology
+- Credits: 6
+- Type: Theory
+- Description: Natural immunity, defensins, pathogen associated recognition motifs, Toll receptors, complement system, applications of complement proteins in rapid clearance of pathogens, acquired immunity: immune cells, antigens haptens, B and T cell epitopes, antibodies: structure and function, monoclonal antibodies, single chain antibodies, domain antibodies, antigen antibody reactions, genetics of immunoglobulins and antibody diversity, Major Histocompatibility Complex, structure and functions of class I and class II MHC molecules, antigen presentation by MHC and non MHC molecules, cytokines, in vivo regulation of immune responses, B and T cell activations, hypersensitivity, mucosal immunity, introduction to transplantation immunology tolerance, tumor immunology and vaccines.
+
+## BB 507: Molecular Enzymology
+- Credits: 6
+- Type: Theory
+
+## BB 509: Bioprocess Engineering and Technology
+- Credits: 6
+- Type: Theory
+- Description: Isolation, screening and maintenance of industrially important microbes; microbial growth and death kinetics (an example from each group, particularly with reference to industrially useful microorganisms); strain improvement for increased yield and other desirable characteristics. Elemental balance equations; metabolic coupling - ATP and NAD+; yield coefficients; unstructured models of microbial growth; structured models of microbial growth. Batch and continuous fermenters; modifying batch and continuous reactors: chemostat with recycle, multistage chemostat systems, fed-batch operations; conventional fermentation v/s biotransformation; immobilized cell systems; large scale animal and plant cell cultivation; fermentation   economics;   upstream   processing:   media   formulation   and   o...
+
+## BB 511: Emerging Technologies
+- Credits: 3
+- Type: Theory
+- Description: Basic Microscopy: Light Microscopy: lenses and microscopes, resolution: Rayleigh-s Approach, Darkfield; Phase Contrast; Differential Interference Contrast; fluorescence and fluorescence microscopy: what is fluorescence, what makes a molecule fluorescent, fluorescence microscope; optical arrangement, light source; filter sets: excitation filter, dichroic mirror, and barrier, optical layout for image capture; CCD cameras; back illumination, binning; recording color; three CCD elements with dichroic beamsplitters, boosting the signal. Advanced Microscopy: Confocal microscope: scanning optical microscope, confocal principle, resolution and point spread function, light source: gas lasers & solid-state, primary beamsplitter; beam scanning, pinhole and signal channel configurations, detectors; pi...
+
+## BB 513: Critical Analysis of Classical Papers (Seminar)
+- Credits: 4
+- Type: Seminar
+- Description: Students may be divided in groups and each group may be responsible for one classical paper. Each week there may be a 1.5 hour presentation cum discussion for each of the papers. At the end of the semester each student will be asked to write a mini-review (2-3 pages long) on any one classical paper, other than the one he/she presented/discussed.  A list of sixteen classic papers and some suggested reference materials: Molecular Biology 1. Studies on the chemical nature of the substance inducing transformation of Pneumococcal types: Induction of transformation by a desoxyribonucleic acid fraction isolated from Pneumococcus type III. Avery OT, Macleod CM, McCarty M.; J Exp Med. 1944 Feb 1;79(2):137-58.  Note: This paper demonstrates that DNA is the transforming Principle originally described...
+
+## BB 515: Bioentrepreneurship
+- Credits: 3
+- Type: Theory
+- Description: Introduction and scope in Bio-entrepreneurship, Types of bio-industries and competitive dynamics between the sub-industries of the bio-sector (e.g. pharmaceuticals vs. Industrial biotech), Strategy and operations of bio-sector firms: Factors shaping opportunities for innovation and entrepreneurship in bio-sectors, and the business implications of those opportunities, Alternatives faced by emerging bio-firms and the relevant tools for strategic decision, Entrepreneurship development programs of public and private agencies (MSME, DBT, BIRAC, Make In India), strategic dimensions of patenting & commercialization strategies. Negotiating the road from lab to the market (strategies and processes of negotiation with financiers, government and regulatory authorities), Pricing strategy, Challenges i...
+
+## BB 517: Intellectual Property Rights, Biosafety and Bioethics
+- Credits: 3
+- Type: Theory
+- Description: Introduction to intellectual property; types of IP: patents, trademarks, copyright & related rights, industrial design, traditional knowledge, geographical indications, protection of new GMOs; International framework for the protection of IP; IP as a factor in R&D; IPs of relevance to biotechnology and few case studies; introduction to history of GATT, WTO, WIPO and TRIPS; plant variety protection and farmers rights act; concept of -prior art-: invention in context of -prior art-; patent databases - country-wise patent searches (USPTO, EPO, India); analysis and report formation. Basics of patents: types of patents; Indian Patent Act 1970; recent amendments; WIPO Treaties; Budapest Treaty; Patent Cooperation Treaty (PCT) and implications; procedure for filing a PCT application; role of a Co...
+
+## BB 519: Project Proposal Presentation and Dissertation
+- Credits: 10
+- Type: Project
+- Description: Selection of research lab and research topic: Students should first select a lab wherein they would like to pursue their dissertation. The supervisor or senior researchers should be able to help the students to read papers in the areas of interest of the lab and help them select a topic for their project. The topic of the research should be hypothesis driven. Review of literature: Students should engage in systematic and critical review of appropriate and relevant information sources and appropriately apply qualitative and/or quantitative evaluation processes to original data; keeping in mind ethical standards of conduct in the collection and evaluation of data and other resources. Writing Research Proposal: With the help of the senior researchers, students should be able to discuss the re...
+
+## BB 520: Analytical Biochemistry
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: -- - - - Water, pH scale, buffer and solutions; cell disruption, enzyme localization, assay methods and techniques -- - - - Separation techniques: Centrifugation, TLC and Paper chromatography, -- - - - Protein purification - ion exchange, hydrophobic, reverse-phase and affinity chromatography, gel permeation chromatography -- - - - Electrophoresis techniques: Proteins (Native- and SDS-PAGE, other denaturing techniques) and Nucleic acids (Agarose, PFGE), -- - - - Criteria of protein purity: Specific activity, yield, fold and Purification table -- - - - Membrane techniques: ultrafiltration, membrane hybridization techniques Separation techniques (small organic molecules and proteins): HPLC and FPLC, Gas-chromatography,- Mass spectrometry, GC-MS, LCMS -- - - - Radiotracer techniques: Radioact...
+
+## BB 521: Biochemistry and Bioenergetics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Origin of life: Oparin and Haldane hypothesis; Abiotic formation of cellular constituents: Miller-Urey experiment, alkaline hydrothermal vents; Panspermia  Water: Properties of water, essential role of water for life on earth, hydrophobicity and other emergent properties of biomolecules in water  Biomolecules: Structure-function relationships of the building blocks for the four major classes of biomolecules viz., proteins, nucleic acids, carbohydrates and lipids; Relationship of the four sets of building blocks to functions carried out by these four classes of biomolecules; Covalent structure of proteins, nucleic acids and carbohydrates and non-covalent associations in lipids; Ramachandran plot: for peptides and extension to nucleic acids and carbohydrates; Structure-function relationship:...
+
+## BB 522: Microbiology
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to microbiology and microbes, history & scope of microbiology Nutrition of bacteria, Nutrient transport mechanisms Bacterial cell division Bacterial growth, Diauxic growth, Chemostat, Monod equation Bacterial genetics: recombination in bacteria, plasmids, transformation, transduction and conjugation Bacterial Shape, Size, their role in microbial life Bacteriophages, Life cycle, Mechanisms for transition between different life cycles Quorum sensing and community behavior, Fratricides or kin killing Antibiotic persistence, tolerance and resistance, Evolution of antibiotic resistance Application of microbes in various fields
+
+## BB 523: Mathematical and Numerical Methods for Biologists
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Functions: Idea of functions using examples from Biology. E.g., concentration of proteins as a function of time. Periodic functions. Functions as graphs. Sketching simple functions: Exponential, Gaussian, Logarithm, etc Image as a 2D function. - Differentiation: Introduction of change in concentration, change in size, etc., as derivatives. Slope and derivative. Derivatives of simple functions. Examples from biology. Techniques of differentiation. Numerically computing derivatives. Partial derivatives. Taylor series.- - Plotting functions: Identifying maxima and minima and using them to sketch any function. Using software to plot functions. Finding out the roots of an equation. Newton-Raphson method. - Integration: Integration as the area under a curve. Definite integrals as the limit of a ...
+
+## BB 524: Genetic Engineering
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: - Introduction to Genetic Engineering - Vectors: Plasmids, phagemids, cosmids, bacteriophages as vectors, cloning vectors, expression vectors (pET series, pBAD series, pGEX series etc. as examples), mammalian expression vectors, Baculovirus and Pichia vector system - Polymerase chain reaction: Principles of PCR, primer designing, components of PCR reactions, Properties of DNA polymerases, Different types of PCR (multiplex, nested, touchdown, hotstart, quantitative PCR)   - DNA modifying enzymes: Restriction Endonucleases, DNA ligase, T4 DNA polymerase, Polynucleotide kinase, Terminal transferase - Different cloning strategies: Restriction cloning, TA cloning, Linkers, Adaptors Cloning and analysis of genes from RNA: Reverse transcription, qRT-PCR - Construction of libraries: genomic DNA li...
+
+## BB 525: Biological Thermodynamics and Kinetics
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Thermodynamic functions - U, A, H, S and G. The First law: work, heat, energy, heat transactions, enthalpy, standard enthalpy changes.- The Second law: entropy, entropy changes accompanying specific processes. The Third law and Biology.- Chemical equilibrium: Gibb-s energy minimum, description of equilibrium, How equilibria respond to pressure, temperature & pH. Applications of thermodynamic principles to biological systems.- Statistical thermodynamics: distribution of molecular states (introduce molecular partition function), the internal & the statistical entropy, Boltzmann distribution.- Basic kinetic concepts: Reaction stoichiometry, rates of consumption & formation, extent of reaction, rate of reaction, Analysis of kinetic results, influence of temperature on reaction rates.- Theories...
+
+## BB 526: Biomolecular Spectroscopy
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: UV-visible absorption spectroscopy: Beer-Lambert-s law; applications of UV-visible difference spectroscopy; Circular dichroism in protein analysis; Fluorescence spectroscopy of Biomolecules: Jablonsky diagram; quantum yield, static and dynamic quenching of fluorescence, energy transfer, polarization, anisotropy, time-resolved fluorescence; FT-IR spectroscopy, Nuclear Magnetic Resonance Spectroscopy: chemical shifts, coupling constants, ring currents, paramagnetic shifts, spin-spin and spin-lattice relaxation times, NOE, chemical exchange; Mass spectrometry of biomolecules.
+
+## BB 527: Molecular Enzymology
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Concept of efficient catalysis and historical perspective on enzymes; Enzyme nomenclature; Origins of enzyme catalytic power; Kinetic approaches to understand enzyme action; Michaelis-Menten kinetics; Evaluation of Km, kcat and enzyme inhibition analysis; Elucidation of kinetic mechanism through initial velocity, product inhibition, pH and isotopic analysis; Role of metal ions in enzyme catalysis; Allosteric regulation in enzymes. - Structural basis of enzyme action and characterization of active site residues; Integration structural data to describe enzyme action; Frontiers in enzymology: Design of efficient and functionally diverse enzymes, directed evolution, abzymes, non-protein catalysts (artificial enzymes). - Applied enzymology and enzyme technology.
+
+## BB 528: Integrated Biology Lab
+- Credits: 15
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: (1)Media preparation and checking the sterility of the plates/ slants/ stabs/liq medium; (2) Streaking, plating, check purity, and colony characteristics; (3) Gram staining, motility, spore staining, capsule staining, 16s rDNA amplification from the given strain, sequencing, and phylogeny; (4) Plasmid isolation, Gel running, and DNA quantification; (5) Amplification of gene of interest by PCR, Gel running, and quantification; (6) Restriction digestion and cloning into pET expression plasmid; (7) Transformation into expression host such as BL21 (DE3) strain; (8) Growth curve and growth kinetics; (9) Protein induction and expression; Purification of the protein by affinity chromatography; (10) Guanidine hydrochloride induced folding (if Stopped-Flow is available) and unfolding hy; (11) Enzym...
+
+## BB 529: Research Methodology and Scientific Communication Skills
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Empirical science; scientific method; manipulative experiments and controls; deductive and inductive reasoning; descriptive science; reductionist vs holistic biology. Choosing a mentor, lab and research question; maintaining a lab notebook. Concept of effective communication- setting clear goals for communication; determining outcomes and results; initiating communication; avoiding breakdowns while communicating; creating value in conversation; barriers to effective communication; non-verbal communication-interpreting non-verbal cues; importance of body language, power of effective listening; recognizing cultural differences; Presentation skills - formal presentation skills; preparing and presenting using over-head projector, PowerPoint; defending interrogation; scientific poster preparati...
+
+## BB 551: Genetic Engineering Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BB 553: Bioinformatics
+- Credits: 6
+- Type: Theory
+- Description: Introduction; Databases - sequence, structure, non-redundant; Sequence alignment - pairwise and multiple; phylogenetics; ORFinder; Structure prediction methods - high-accuracy, template based, free modeling (new folds); Secondary structure prediction; Pattern recognition - PSSMs, weight matrices; hidden Markov models
+
+## BB 555: Bioprocess Engineering and Technology Lab
+- Credits: 6
+- Type: Laboratory
+- Description: 1. Basic Microbiology techniques   a) Scale up from frozen vial to agar plate to shake flask culture.   b) Instrumentation: Microplate reader, spectrophotometer, microscopy.   c) Isolation of microorganisms from soil samples.  2. Experimental set-up   a) Assembly of bioreactor and sterilization.   b) Growth kinetics.   c) Substrate and product inhibitions.   d) Measurement of residual substrates.  3. Data Analysis   a) Introduction to Metabolic Flux Analysis (MFA).  4. Fermentation   a) Batch.   b) Fed-batch.   c) Continuous.  5. Unit operations   a) Microfiltrations: Separation of cells from broth.   b) Bioseparations: Various chromatographic techniques and extractions.  6. Bioanalytics   a) Analytical techniques like HPLC, FPLC, GC, GC-MS etc. for measurement of amounts of products/subst...
+
+## BB 557: Bioinformatics - II Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Protein modelling: Introduction; force field methods; energy, buried and exposed residues; side chains and neighbours; fixed regions; hydrogen bonds; mapping properties onto surfaces; fitting monomers; RMS fit of conformers; assigning secondary structures;  Protein structure completion: backbone construction and side chain addition; small peptide methodology; software accessibility; building peptides; protein displays; substructure manipulations, annealing.  Protein structure prediction:  (i) Folding and model generation: secondary structure prediction; analyzing secondary structures; protein loop searching; loop generating methods. (ii) Homology modelling: potential applications, description, methodology, homologous sequence identification; align structures, align model sequence; construc...
+
+## BB 591: Project Stage I
+- Credits: 4
+- Type: Project
+
+## BB 592: Project Stage II
+- Credits: 28
+- Type: Project
+
+## BB 600: Introduction to Biomedical Engineering
+- Credits: 6
+- Type: Theory
+- Description: The course may be meant for Post Graduate Students and Undergraduate Students 226 (3rd year and above)General Introduction to Biomedical Engineering. Application of Engineering in Medicine. Electrical Potentials in the human body. Neuromuscular system:  neurons, synapses and muscles, electrical properties of nerves and muscles, problems and diagnostics. Cardiovascular System: anatomy & physiology of the heart , ECG and the cardiac cycle, problems and solutions to electrical problems in the heart, blood and vascular modelling, haemodynamics, vascular diseases, catheterization, angiography & angioplasty, engineering  in cardiovascular disease management. Skeletal System (including Prosthetics). Biomaterials and Implantable sensors, testing of Biomaterials - in vitro and in vivo. Excretory Sy...
+
+## BB 601: Introduction to Bio-nanotechnology
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Bio-Nanotechnology, Cellular nanostructures, self-assembly of colloidal nanostructures of biological relevance, biofunctional nanoparticles, Nanoparticles for drug delivery (including solid lipid nanoparticles, synthetic and biopolymeric nanoparticles), carbon nanotubes, polymeric nanofibers, quantum dots, magnetic nanoparticles and gold nanostructures for theranostics, Multilayer Thin Film: Polyelectrolyte multilayers, coated colloids, smart capsules,  Nanoengineered biosensors, Nanotechnology for Biodefense, Implants and Prosthesis,  Implications in neuroscience, tissue engineering and cancer therapy, and Environmental and safety aspects of bio-nanotechnology.
+
+## BB 602: Research philosophy
+- Credits: 6
+- Type: Theory
+- Description: Introduction to philosophizing: language, truth and logic. A review of history of philosophy of science. Scientific imagination; case studies of Mendel and Galileo. The scientific methods in the practice of biology. The success of reductionist approach to problems in molecular biology. Contrast with holistic (higher level) biology. Resurgence of interest in global approaches like- systems biology, complexity and various -Omics-. Richness of biology in cyclical phenomena with interdependent parallel processes, feedback loops and networks. Emergent properties of the system. The concept of Causality in light of extant complexity. Complexity and indeterminacy in Biology. Historical contingency and evolution. History, nature and the future of Biology: Physics-biology interface during the classi...
+
+## BB 603: Physiology for Engineers
+- Credits: 6
+- Type: Theory
+- Description: Introduction to overall organization of human body. Basic and engineering aspects of the following : The master and vegetative tissues, organs systems, nervous system, musculo-skeletal system, endocrine system and body metabolism, gastro intestinal system, respiratory system and spirometers, cardiovascular system, blood and body fluids, reproductive system, blood and body fluids, reproductive system, hepato-biliary system, kidney and excretory system, basic physiologic principles, metabolism, immunity and allergy, physiology museum hematology experiments.
+
+## BB 604: Biomathematics
+- Credits: 6
+- Type: Theory
+- Description: Ordinary differential equations of the 1st order, exactness and integrating factors, variation of parameters. Ordinary linear differential equations of n-th order, solution of homogeneous and nonhomogeneous equations, operator method, methods of undetermined coefficients and variation of parameters. Sequence and series, power series methods for linear ordinary differential equations. Laplace transform and its applications. Fourier series and Fourier transform and applications in biomedical engineering. Partial differential equations : models in physiology, introduction to solution techniques such as variable separation, product method and Laplace Transform method.
+
+## BB 606: Cellular Electricity: Physics & Modeling
+- Credits: 6
+- Type: Theory
+- Description: Action potential of excitable cells: Quantitative description, Hodgkin-Huxley model, significance of parameters in Hodgkin-Huxley equations; Voltageclamp experiments: design, and analysis of results; Factors determining the initiation, amplitudes, and kinetic properties of action potentials. Passive membrane electrical properties: Cellular resistance, capacitance, time constant and space constant, methods of measurement; Importance in cellular excitation and signaling: Impulse propagation. Electrophysiology of synaptic transmission: Prejunctional and postjunctional electrical events; time courses of transmitter-activated membrane currents and potentials in skeletal and smooth muscle; Electrical models of the skeletal and smooth muscle membranes
+
+## BB 607: Proteomics- Principles and Techniques
+- Credits: 6
+- Type: Theory
+- Description: An introduction to proteomics: Basics of protein structure and function, An overview of systems biology, Evolution from protein chemistry to proteomics; Abundance-based proteomics: Sample preparation and prefractionation steps, Gel-based proteomics - twodimensional gel electrophoresis (2-DE), two-dimensional fluorescence difference in-gel electrophoresis (DIGE), Staining techniques. Quantitative proteomics - stable isotope labeling by amino acids in cell culture (SILAC), isotope-coded affinity tag (ICAT), isobaric tagging for relative and absolute quantitation (iTRAQ); Central role of mass spectrometry: ionization sources, mass analyzers, different types of mass spectrometers; Functional proteomics: Recombinational cloning, Interactomics - techniques to study protein-protein interactions, ...
+
+## BB 608: Advannced Biomaterials and Regeneratiion
+- Credits: 6
+- Type: Theory
+- Description: Design of biomaterials for drug delivery, biomedical devices and tissue regeneration; Trigger responsive materials, smart in situ gels: applications for drug delivery & tissue engineering Scaffolds for tissue engineering: osteogenesis, role of nanocomposites and self assembly, biomimetic scaffolds for compact and cancellous bone regeneration Role of growth factors and stem cells, Chondrogenesis and tissue engineering scaffolds for articular cartilage replacement, osteochondral defects, Vascular grafts, endothelial cell seeding, tissue engineered vessels, Barrier functions of skin, epidermal and dermal skin replacements, full thickness tissue engineering of skin for burns and diabetic ulcers Mechanical and bioprosthetic heart valves, modulation of thrombogenicity, surface modification strat...
+
+## BB 610: Biomedical Microsystems
+- Credits: 6
+- Type: Theory
+- Description: Introduction; Photolithography; Crystallography, Mask Design Wet and Dry Etching; Thin Film Deposition and Growth Electroplating, Molding, LIGA, Bonding and Sacrificial Processes, Polymer Processing and Rapid Prototyping, u-TAS: Fluid Control Components, Sample Handling, Separation Components and Detection, Cell Handling and Characterization Systems, Systems for Biotechnology and PCR, Miniature Biosensors, Biosensor Arrays and Implantable Devices Neural Interfaces, Microsurgical Tools, Microneedles, and Drug Delivery, Miniature Bioreactors and Microsystems for Tissue Engineering, Optical Biosensors, Packaging of Microfluidic and Optical Systems, Nanotechnology, Metrology
+
+## BB 612: Cell Mechanics and Mechanobiology
+- Credits: 6
+- Type: Theory
+- Description: Mechanical forces are known to play an increasinglyimportant role during development, normal functionas well as in disease. This course will focus on thephysical interactions between cells and theirsurroundings. Students will learn how cells sense andrespond to external forces and cues, and how thesemechanical inputs influence subcellular biochemistryand cell behavior. They will also study variousexperimental techniques that have been developed forprobing cell structure, manipulating cells andmeasuring their mechanical properties.
+
+## BB 614: Biosensors
+- Credits: 6
+- Type: Theory
+- Description: Introduction to biosensors and classification.Different tranduction mechanisms in sensors. Typesof recognition layers. Examples and functioning ofdifferent types of biosensors including, but notrestricted to, optical, mechanical (e.g.microcantilever, piezo, SAW, etc), electrochemical,FET, thermal, etc. Analytical modelling ofbiosensors.
+
+## BB 616: Cellular and Tissue Engineering
+- Credits: 6
+- Type: Theory
+- Description: Basic cell biology, cell-matrix interactions, receptor biology, cell culture, gene therapy and gene transfer techniques, protein and peptide engineering, stem cell programming, controlled release and drug delivery, tissue ablation, engineering angiogenesis, vascularization, material based immuntherapy and case studies involving skin, bone, liver, muscle tissue engineering.
+
+## BB 617: Biophysical Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Spectroscopic methods, Adsorption spectroscopy, Difference and derivative Spectroscopy as applied to biomolecular interactions, Fluorescence spectroscopy, Membrane Proteins, Nucleic acid probes, Fluidity, Polarity and Viscosity me
+
+## BB 618: Medical Instrumentation
+- Credits: 6
+- Type: Theory
+- Description: Medical measurands; Sensor characteristics and design for measurement of medical parameters like ECG, arterial flow, blood pressure, heart sounds; Biopotential amplifiers, charge amplifiers and other interfaces; Signal conditioning and display.Medical imaging considerations; X-rays, X-ray tube design, film and detector design; CT - scanners : generations and basic algorithms.Elements of electrical safety; Built-in safety features for medical instruments.
+
+## BB 619: Mathematics for Biologists
+- Credits: 6
+- Type: Theory
+- Description: Elementary calculus : (12 hours)Functions : Idea of functions using examples fromBiology. Concentration of proteins asa function of time. Periodic functions.Differentiation: Introduce change in concentration,change in length etc as derivatives. Slope andderivative. Derivatives of simple functions. Pressure,entropy, force etc as derivatives of freeenergy.Techniques of differentiation.Plotting functions: Maximum and minimum points.Sketching simple functions : Exponential, Gaussian,Logarithm etc.Techniques of Integration: Integration as area under acurve. Integrating simple expressions. Use of Integrationtechniques in biology.Descriptive statistics and Data display (6 Hours)Measurement scales. Continuous and discrete dataSummarizing data set: Histograms, Pie Charts, otherways of representing ...
+
+## BB 620: Ergonomics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Ergonomics and its application; Man-Machine-Environment System; Anthropometry and joint motions; Work Posture, Environmental factors and human performance.Designing of Controls and Displays, Control panel Organization; Principals of product design; Problem solving; Seminar on ergonomics related issues in Medicine.
+
+## BB 621: Biostatistics
+- Credits: 6
+- Type: Theory
+- Description: Analytics in biology and medicine. Probability, statistics and stochastics. Applications in biology and medicine will be given at each topic below. A. Descriptive statistics, quantitative parameters and inferential statistics. B. Events and samples spaces, algebra of events, Venn diagram, random events, axiomatic definition of probability, probability as relative frequency. Independence, mutually exclusive events, conditional events, Bayes- rule and theorem, counting-permutation-combination and probability, application to diagnostics, types of errors, evaluation of odds and risks. C. Random variables as functions, discrete and continuous random variables, probability mass function, common discrete distributions - Bernouli, Binomial, Geometric, Poisson, z-transform, marginal and joint distr...
+
+## BB 622: Introduction to Medical Informatique
+- Credits: 6
+- Type: Theory
+- Description: Data and information capture in health care management and clinical delivery systems; Multimodal data; Epidimeology and etiology data; Data quality; Importance of data organization.Organization and retrieval of health care and clinical data; Data base systems and implementation for medical applications; Multi-sensor data with particular relevance to the organization of images.Intelligent systems approaches in medicine; Paradigms of inferencing; Building of knowledge-based systems; Treatment of uncertainty; Learnability and adaptive systems.   Networked systems and intelligent retrieval; Web-based inferencing. Building and use of decision support systems for clinical applications.
+
+## BB 624: Microfluidics: physics and applications
+- Credits: 6
+- Type: Theory
+- Description: Length scales and forces in microsystems, dimensionless numbers (Reynolds number, Peclet number, etc.), laminar and turbulent flows; diffusion, mixing and separation; electric fields in microfluidics; fabrication of microfluidic devices; flow control using pumps and valves; droplet generation and manipulation; DNA and protein analysis; engineering cellular microenvironments; paper-based microfluidics and its applications in diagnostics.
+
+## BB 625: Motor Control in Health and Disease
+- Credits: 6
+- Type: Theory
+- Description: - Introduction to Motor Control o Understanding movement o Origins and brief history of movement science - Basic anatomy and physiology of the nervous and musculoskeletal systems; features of the system for movement production - Theories of motor control - Neurophysiological basis of motor control (systems neuroscience) o Central, sensory, and motor contributions to movement control - feedback and feedforward control systems; information processing; attention and performance o Co-ordination, principle of abundance, optimization, dynamical systems approach; perceptionaction interactions - Biomechanical basis of motor control o Control with forces and torques: inverse model, interaction torques o Control with muscle activations: triphasic activation patterns, speed-insensitive and -sensitive...
+
+## BB 626: Modeling Biological Systems and Processes
+- Credits: 6
+- Type: Theory
+- Description: Examples of simple models to understand different types of biological processes such as Lotka-Voltera model, simple epidemic model, reaction-diffusion models, drift-diffusion models. Introductions to stochastic processes in biology, Introduction to Fokker-Planck and Langevin equations. Introduction to computer simulations. Introductions to different types of simulations-Molecular Dynamics, Monte Carlo and Langevin dynamics simulations. Simple examples of application of direct Monte Carlo simulation and Gillespie algorithm to a number of simple stochastic biological systems.
+
+## BB 627: Medical Imaging Methods
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Imaging  Need of Imaging, invasive and noninvasive imaging, concept of resolution and sensitivity. Use of electromagnetic spectrum for noninvasive imaging, Importance of mathematics in imaging.  Imaging modalities.  Introducing modalities based on increasing mathematical complexity. 1. a) X rays: Straight-line propagation: Beer Lamberts Law.  Radon transform, Fourier slice theorem and examples.  1. b) Ray tracing: Snell`s law: Discontinuous refractive index and ray bending. 2. c) Diffraction imaging (light and ultrasound): Helmholtz equation. Fourier diffraction theorem. Born approximation 3. d) Near Infrared imaging: Radiative transfer model, Diffusion equation. Light tissue interaction models. Multiple scattering of light in tissue. Relation to physiological parameters.  ...
+
+## BB 628: Molecular Cell Signaling
+- Credits: 6
+- Type: Theory
+- Description: Over view of cell-cell and intracellular signaling mechanisms, endocrine, paracrine, autocrine and synaptic transmissions. Cell-cell recognition, cell-adhesion molecules. Receptors (extracellular, intracellular), receptor-ligand interactions (agonist and antagonist), receptor characterizations, receptor functions. Extracellular receptors: coupling of receptors to different signal transducing machinery; G-poteins, ion channels, and catalytic proteins. G-proteins: structure, function, adenylate cyclase system, cAMP-PK and CREB proteins. Calcium channels, oscillations of calcium conc. as signals. Receptors with protein tyrosine kinase activity, structure and function. Intracellular receptors: steroid receptors, structure and function. Second messengers; phosphoinositides, inositol 1,4,5 tris ...
+
+## BB 629: Applied Immunology
+- Credits: 6
+- Type: Theory
+- Description: 1. Generation of immune responses: overview, component of immune system, T cell activation, dendritic cell activation and licensing, T cells and DCs interaction 2. T cells: effector T cells, CTLs and their differentiation and roles in different diseases 3. Allergy and Autoimmune disorder: overview and diseases pathology and roles of immune system in pathogenesis of allergy and autoimmune disorders, 4. Cancer immunology: roles of immune responses in cancer prevention, overview of current and investigational immunotherapy. 5. Infectious diseases: introduction of various infectious diseases caused by different pathogen including bacteria, virus, helminthes etc. 6. Immunotherapy: Available biologics (recombinant proteins and antibodies) for the treatment of numerous immune disorders, methods f...
+
+## BB 632: Topics in Biotechnology II
+- Credits: 6
+- Type: Theory
+- Description: This course covers three to four contemporary themes in Biotechnology from among: Plant cell culture and tissue culture; Enzymes and Biocatalyses- immobilized enzyme applications; Bioconversion/fermentation of industrial fine chemicals; Antibiotics and chemotherapy; Recombinant DNA technology and protein therapeutics; Waste treatment, Utilization and methanogenesis.
+
+## BB 633: Movement Neuroscience
+- Credits: 3
+- Type: Theory
+- Description: Overview of the cellular components of the nervous system, neural circuits, organization of human nervous system, and neural signalingSensory contributions to movement controlSomatosensory systemVisual systemVestibular systemCentral contributions to movement controlLower motor neuron circuitsUpper motor neuron control of the brainstem and spinal cordModulation of movement by basal ganglia and cerebellumRelevant electrodiagnostic and therapeutic applications that have been developed based on the understanding of movement neurophysiology. Role of rehabilitation technology.
+
+## BB 638: Topics in Evolution
+- Credits: 6
+- Type: Theory
+- Description: Introduction, historical perspectives: pre-Darwinian, Darwinian and Neo-Darwinian theoriesofevolution, cosmic origins of earth, pre-biotic earth,from molecules to life, RNA world & transition toDNA world, evolution of genetic code, origins ofcell and first organisms, fossils and evolution, LastUniversal Common Ancestor (LUCA), tree of life,viruses and orphan replicons, endosymbiosis,evolution of eukaryotes, origin of species, naturalselection, Mendelian genetics, chromosomesegregation and sex determination, geneticvariation, regulation and mutation, populations,genefrequencies and Hardy-Weinberg equilibrium,species and speciation, phylogeny andclassification,diversity of life: evolution of plants and animals,human origins, viral evolution: influenza & HIV,functional genomics, horizontal ge...
+
+## BB 642: Protein Crystallography
+- Credits: 6
+- Type: Theory
+- Description: Introduction about the course, Brief introduction about protein structure, Protein production for crystallization, Protein crystallization, Crystal geometry, X-ray diffraction, Statistics and probability in crystallography, Instrumentation and diffraction data collection, Diffraction data to electron density, Solving phase problem, Isomorphous replacement method, Anomalous scattering method, Phase combination and improvement, Molecular replacement, Model building and refinement, Structure validation and deposition, Judging a crystallographic model, Computer program for analyzing protein structures, Tutorials, Structure analysis.
+
+## BB 651: Virtual Instrumentation in Biomedical Engineering
+- Credits: 4
+- Type: Laboratory
+- Description: Introduction to bioelectric signals. Analog to Digital Conversion and Data Acquisition Cards. Hardware interfacing. Programming in C for Virtual Instrumentation. Building Graphical User interfaces for use in data acquisition. Signal sampling fundamentals for Data Acquisition. Basic signal processing techniques. Acquisition of general waveforms and biosignals. Issues in online monitoring. Web-online monitoring.
+
+## BB 653: Experimental Techniques in Biomedical Engineering
+- Credits: 4
+- Type: Laboratory
+- Description: Laboratory techniques in biomedical engineering: principles, experimental use and applications for different techniques including advanced microscopy techniques (electron microscopy, atomic force microscopy, confocal microscopy), microfluidics, spirometry. Introduction to different techniques of computer simulation and development of computational models using experimental data.
+
+## BB 661: Biopotentials I: Cellular Signals
+- Credits: 3
+- Type: Theory
+- Description: Origin of biopotentials: resting membrane potential; Nernst potentials. Selective permeability and the Donnan equilibrium; Goldman-Hodgkin-Katz equation. Action potentials: ionic basis, properties of generation and conduction, examples in different cell types. Intracellular and extracellular recording: biophysical outcomes. Paper discussion.
+
+## BB 663: Medical Imaging Physics
+- Credits: 3
+- Type: Theory
+- Description: Planar X-rays: electromagnetic radiation, generation and characteristics of x-rays, x-ray tubes, interaction of x-rays with tissues. Magnetic resonance imaging (MRI): concept of spin and nuclear magnetic resonance, spin decay through interaction with tissues, use of different magnets in MRI systems, one or two simple imaging sequences. Ultrasound: characteristics of sound waves, piezoelectricity and generation of ultrasound, interaction of ultrasound with tissues, Doppler effect and its uses.
+
+## BB 665: Biomaterials
+- Credits: 3
+- Type: Theory
+- Description: Structure and property relationships in materials, ceramics and polymers; Interactions of materials with the human body; Influence of microstructure and environment on fatigue and fracture of materials. Composite materials concepts and applications; Whiskers and fibres medical applications such as structures, orthopedic implants, artificial organs, dental materials, etc.; Implementation problems - inflammation, rejection, corrosion, structural failure.
+
+## BB 669: Signals & Systems in Biomedical Engineering
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Signals and systems, Unit Step, Impulse, Sinusoidal and Exponential Signals, Properties of systems, Discrete time convolution and properties, Continuous time convolution and properties, Fourier series and properties, Fourier Transform and properties, Laplace Transform and properties, Z-Transform and biomedical examples of the above.
+
+## BB 671: Biopotentials II: Clinical Signals
+- Credits: 3
+- Type: Theory
+- Description: Axons and muscle cells as transmission-line cables; introduction to cable theory. Neurotransmission, synaptic potentials and synaptic integration: application of GHK equation and cable theory. Translation of celllevel signals to surface-recorded signals: compound nerve and muscle action potentials. Biophysics of ENG & EMG recording, elements of motor and sensory testing. Paper discussion.
+
+## BB 673: Medical Sensors
+- Credits: 3
+- Type: Theory
+- Description: Sensor architecture and Classification; Medically significant measurands, functional specifications of medical sensors; Sensor characteristics : linearity, repeatability, hysteresis, drift; Sensor models in the time & frequency domains.Sensors for physical measurands: strain, force, pressure, acceleration, flow, volume, temperature and biopotentials.Sensors for measurement of chemicals: potentiometric sensors, ion selective electrodes, ISFETS; Amperometric sensors, Clark Electrode; Biosensors, Catalytic biosensors, immunosensors.
+
+## BB 675: Elements of Circuits and Instrumentation
+- Credits: 3
+- Type: Laboratory
+- Description: Review of Basic Electric Circuits : Kirchhoff`s laws, Thevenin`s and Norton`s Theorems; Complex impedance and phasors; Electronic Devices : PN junction diodes, diode circuits; Transistors: bipolar and field-effect transistors; Integrated circuit fabrication; Operational Amplifiers, amplifier circuits, non-linear circuits; Transfer functions, Bode plots, Filters.Boolean algebra; Logic circuits: Simple logic circuits, combinational logic, sequential logic, multivibrators, counters.
+
+## BB 677: Introduction to Biomechanics
+- Credits: 3
+- Type: Theory
+- Description: Vector Algebra, Forces and Moments, Equilibrium, Stress and Strain, Constitutive Equation, Flow Properties of Blood, Mechanics of Red Blood Cells, Mechanics of endothelium, Viscoelastic Fluids and Solids, Skeletal & Heart Muscle.
+
+## BB 679: Drug Delivery
+- Credits: 3
+- Type: Theory
+- Description: Fundamentals of drug delivery, including physiology, pharmacokinetics, drug diffusion and permeation through biological barriers; Various types of drug and gene delivery routes including oral, transdermal, implantable, targeted and pulmonary; Controlled drug delivery, biomaterials used in drug delivery, particle targeting via receptor-ligand interactions, intracellular transport of collodial particles, protein and peptide delivery, synthetic gene delivery vectors; Case studies of current pharmaceutical products.
+
+## BB 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: M.Tech. Seminar
+
+## BB 701: Research Proposal
+- Credits: 10
+- Type: Seminar
+- Description: Under the course Research Proposal the student is expected to work independently to generate a comprehensive research proposal of industrial or academic importance, based on extensive literature search and consultations with the research supervisor and p ossible other experts. The proposal is to be compiled as a dissertation whose evaluation would include a seminar and oral defence before a panel of examiners. The grading would take into cognizance originality, innovativeness and feasibilty of the proposa l. The objective is to harness innovative ideas from fresh minds.
+
+## BB 702: Technology in Surgical Reconstruction
+- Credits: 3
+- Type: Theory
+- Description: 1) Elementary concepts of surgical reconstruction a) When is surgical reconstruction required b) What is surgical reconstruction c)Anatomy and physiology aspects in surgical reconstruction  2)Engineering principles a) Finite element model b) Measurement techniques to find out dimensions of reconstruction site c)Characterization of biomaterials used  3)Techniques a) Surgical techniques b)Biomaterials used c)Microsurgical aspects  4)Emerging research trends in new reconstructive biomaterials  a)New biomaterials b)New techniques c)Micro molecular reconstruction d) Biocompatibility
+
+## BB 703: Cancer Genetics and Metabolism
+- Credits: 6
+- Type: Theory
+- Description: Brief history of cancer. Thoughts on the metabolic and genetic basis of cancer since early 1920-s. How genetic basis of cancer became the mainstay of understanding cancer. Oncogenes and Tumor suppressor genes.  Clonal origin of cancer. Stem cells versus cancer stem cells. Immunology of cancer. Epigenetics of Cancer.  Proteomics, transcriptomics,  metabolomics  of cancer.  Role of mitochondria in cancer.  Re-emergence of metabolic basis of cancer. GWAS in cancer.  Cancer as an evolutionary process. Application of game theory in cancer. Yeast as a model to understand cancer.  Bioenergetics of cancer: rate versus efficiency. Non-genetic heterogeneity in cancer.
+
+## BB 704: Diffuse Optical Imaging
+- Credits: 6
+- Type: Theory
+- Description: Light interaction with turbid medium like tissue. Multiple scattering and Radiative transfer equation.  Diffusion approximation. Relation connecting optical properties to physiological parameters. Near infrared spectroscopy. Need of tomographic imaging: diffuse optical tomography. Time domain and frequency domain tomography systems. Iterative reconstruction methods: theory and algorithms. Diffuse correlation spectroscopy for imaging blood flow. Laser Doppler and Laser speckle imaging. Simulations based on finite element method in Matlab.
+
+## BB 705: Fundamental Concepts in Developmental Biology
+- Credits: 6
+- Type: Theory
+- Description: (a) Converting a one-cell embryo into a multi-cell embryo - the geometry of early cell divisions and its role in development of animal embryos (b) Fundamental physical processes that sculpt a mass of cells into a threedimensional animal (c) Fundamental molecular and cellular processes that determine the Front-Back axis of animals (d) Organogenesis - How do organs form in embryos? why do organs form only at certain fixed positions in the animal body? (e) Development of Left-Right asymmetry in organs.
+
+## BB 706: Fundamental and Practical Aspects of Microscopy
+- Credits: 6
+- Type: Theory
+- Description: 1. Optics for Microscopy a. Wave Nature of Light, Birefringence, Interference, Diffraction b. Optical elements: Lenses, Filters, Polarizers c. Lens Properties: Numerical Aperture, Magnification, Aberrations, Corrections d. Resolution: Rayleigh Criterion, Airy Disc, Abbe-s Principle 2. Light-Matter Interaction a. Lasers b. Fluorescence 3. Microscope Design, Function and Usage a. Image Formation in a Microscope : Kohler Illumination, Critical illumination b. Brightfield, Darkfield Microscopy c. Phase Contrast Microscopy d. Differential Interference Contrast Microscopy e. Polarization Microscopy f. Epifluorescence (Widefield) Microscopy g. Total Internal Reflection Fluorescence (TIRF) microscopy h. Confocal Microscopy i. Super Resolution Microscopy 4. Image Detection a. Camera : Image capture...
+
+## BB 792: Communication Skills -II
+- Credits: 4
+- Description: IV. Course content:  1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques, Grammar skills 2.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 3.Report Writing, Document Processing Software (LaTex) 4.Ethics and Plagiarism: practice and discussion.  5.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. Evaluation of Presentations, Short and Long Talks, Timing, and Visual Aids
+
+## BB 797: I Stage Project
+- Credits: 44
+- Prerequisite: 0.0
+- Description: x
+
+## BB 798: II Stage Project
+- Credits: 48
+- Prerequisite: 0.0
+- Description: x
+
+## BB 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## BBS802: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar
+
+## BM 600: Introduction to Biomedical Engineering
+- Credits: 6
+- Type: Theory
+- Description: The course may be meant for Post Graduate Students and Undergraduate Students 226 (3rd year and above)General Introduction to Biomedical Engineering. Application of Engineering in Medicine. Electrical Potentials in the human body. Neuromuscular system:  neurons, synapses and muscles, electrical properties of nerves and muscles, problems and diagnostics. Cardiovascular System: anatomy & physiology of the heart , ECG and the cardiac cycle, problems and solutions to electrical problems in the heart, blood and vascular modelling, haemodynamics, vascular diseases, catheterization, angiography & angioplasty, engineering  in cardiovascular disease management. Skeletal System (including Prosthetics). Biomaterials and Implantable sensors, testing of Biomaterials - in vitro and in vivo. Excretory Sy...
+
+## BM 601: Biomathematics
+- Credits: 6
+- Type: Theory
+- Description: Ordinary differential equations of the 1st order, exactness and integrating factors, variation of parameters. Ordinary linear differential equations of n-th order, solution of homogeneous and nonhomogeneous equations, operator method, methods of undetermined coefficients and variation of parameters. Sequence and series, power series methods for linear ordinary differential equations.  Laplace transform and its applications. Fourier series and Fourier transform and applications in biomedical engineering. Partial differential equations : models in physiology, introduction to solution techniques such as variable separation, product method and Laplace Transform method.
+
+## BM 602: Biostatistics
+- Credits: 6
+- Type: Theory
+- Description: The scope of statistics in biomedical data analysis. Statistical design of experiments for clinical and laboratory data; random allocation, methods of allocation without random numbers. Volunteered bias. Cross over designs. Selection and distribution of experimental unit. Case control analysis. Applications of probability and standard distributions : Estimation, standard error and confidence interval.  Testing of hypotehses. Correlation and Regression. Analysis of Variance. Factor analysis. Statistical method oriented and problem oriented illustrations for computer aided inferencing.
+
+## BM 603: Physiology for Engineers
+- Credits: 6
+- Type: Theory
+- Description: Introduction to overall organization of human body. Basic and engineering aspects of the following : The master and vegetative tissues, organs systems, nervous system, musculo-skeletal system, endocrine system and body metabolism, gastro intestinal system, respiratory system and spirometers, cardiovascular system, blood and body fluids, reproductive system, blood and body fluids, reproductive system, hepato-biliary system, kidney and excretory system, basic physiologic principles, metabolism, immunity and allergy, physiology museum hematology experiments.
+
+## BM 604: Clinical Physiology
+- Credits: 3
+- Type: Theory
+- Prerequisite: BM 603
+- Description: Will deal with basic pathophysiological mechanisms of diseases. Will cover: Anatomical terminology, History taking, General examination, Palpation, percussion, auscultation, mechanism of inflammation, infection, neoplasms, diseases of the nervous system: head injury, stroke, dementia, upper and lower motor neuron lesions, refractive errors of the eye, cataract and retinal detachment, otitis media, deafness, pancreatic dysfunction: diabetes mellitus, insulin resistance, disorders of blood: anemias, leukemia and vitamin K deficiency, cardiopulmonary resuscitation, cardiac failure, rheumatic heart disease, arrhythmias  and myocardial infarction, atherosclerosis, hypertension, overview of respiratory diseases, asthma, chronic obstructive pulmonary disease, tuberculosis, overview of gastrointes...
+
+## BM 606: Lasers in Medicine
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Light: Wave nature of light, Reflection, Refraction, Scattering, Absorption, Polarization property of light wave, Interference, Diffraction, Coherence.Radiometric and Photometric Quantities. Introduction to Lasers: Spontaneous and stimulated emission, Einstein coefficients, Light amplification, Laser rate equations and threshold condition, Special properties of laser radiation, Laser safety guidelines. Laser Systems: Ruby lasers, Nd-based lasers, He-Ne lasers, Ar-ion lasers, CO2 lasers, Tunable dye lasers, Excimer lasers, Semiconductor lasers.  Fiber Optics: Basics of fiber optics (Snell?s Law, TIR, NA etc.), Fiber geometry ? Step index, Graded index and other geometries, Pulse dispersion in SI fibers, Single mode and multimode fibers, Losses in fiber optic systems (attenua...
+
+## BM 607: Physiological Measurements and Quantitative Physiology
+- Credits: 10
+- Type: Theory
+- Description: Programming for Data Acquisition.  Experiments on : Behaviour of excitable tissue - Electrical  characteristics, mechanical characteristics of  muscles; Kidney /  Dialysis; RBC Membrane Proteins, Haemoglobin - types and separation,  Electrophoresis, ELISA; Spirometry and lung physiology; Characteristics of  the cardiovascular system; Energy Expenditure and Energy Balance.
+
+## BM 610: Experimental and Quantitative Physiology
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments on Spirometry and lung physiology; Energy Expenditure and Energy Balance; Microscopy and tissue visualization. Advanced laboratory techniques and quantitative methods for parameter estimation in biomedical systems (e.g. nerve muscle physiology, cardiovascular physiology, medical microsystems, biomaterials, bio-interfaces etc)
+
+## BM 611: Medical Physics
+- Credits: 8
+- Type: Theory
+- Description: Review of radiophysics in medicine. Introduction to rontgen rays, tomography. C.T. scan, NMR techniques. Radio isotopes in Biology and medicine, Irradiation induced destruction and recovery processes in cells. Safety handling of isotopes. Application of radioisotopes and lasers in measurements of physiological parameters in biomedicine.
+
+## BM 612: Computer in Medicine
+- Credits: 6
+- Type: Theory
+- Description: Role of computers in health care and clinical decisions, information system development, clinical data bases, computer-based patient records or diagnosis, use of standard packages, such as dBASE III, spreadsheets and their applications. Introduction to intelligent systems. patterns and recognition, heuristics in clinical inferencing, knowledge organisation and engineering, expert systems in medicine. Development of computer-based systems using knowledge engineering tools.
+
+## BM 618: Biomedical Fluid Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to fluid mechanics, fluid properties, basics laws governing conservation of mass, momentum and energy, laminar flow, Couette flow and Hagen-Poiseuille equation, turbulent flow. Flow dynamical study of circulatory system. Heart and blood vessels, anatomy and physiological considerations. Body fluids in motions. Flow of Newtonian and non-Newtonian fluids in rigid tubes. Flexible tubes collapsible tubes. Blood flow through arteries and veins. Holt and Conrad"s experimental investigations. Kinetic energy. flow, pressure flow relations in vascular beds, heart beat, cardiac cycle, valvular dysfunctions, components and functions of arterial system; Capillaries, venous system, lymphatic. Blood pressure, physiological factors controlling blood pressure. Coronary circulation. Heart fail...
+
+## BM 624: Bioelectricity
+- Credits: 6
+- Type: Theory
+- Description: The passive and active electrical properties of excitable cells.  Cellular biopotentials and currents and the techniques for recording them.   The resting membrane potential and action potential : origins; models and theories of explanation. The Hodgkin-Huxley model of the action potential Membrane ionic pumps and exchange processes. Physiological and clinical significance.   Electrophysiology of neuroeffector transmission. Prejunctional and post junctional electrical events. Transmission processes in skeletal, smooth and cardiac muscle, and synapses. Time courses of transmitter-activated postjunctional membrane potentials and currents.   Electrophysiology of membrane ionic channels and neurotransmitter receptors. Modification of bioelectric activity using drugs.
+
+## BM 626: Biorheology
+- Credits: 6
+- Type: Theory
+- Description: Concepts of stress and strain and their relationships; Rheology and  rheological equations; Definition of biorheology, its connection with  physics and biology; Need for biorheology and rheological concepts;  Haemorheology : definition and clinical aspects; Haemodynamics, blood  viscosity factors, cardiovascular haemorheology; Rheology of body fluids;  Application of rheology in diagnosis, treatment and fundamental  understanding of diseases; Experimental determination of blood and plasma  viscosity.
+
+## BM 627: Virtual Instrumentation in Biomedical Engineering
+- Credits: 4
+- Type: Laboratory
+
+## BM 628: Introduction to Medical Informatique
+- Credits: 6
+- Type: Theory
+- Description: Data and information capture in health care management and clinical  delivery systems; Multimodal data; Epidimeology and etiology data; Data  quality; Importance of data organization. Organization and retrieval of health care and clinical data; Data base  systems and implementation for medical applications; Multi-sensor data  with particular relevance to the organization of images. Intelligent systems approaches in medicine; Paradigms of inferencing;  Building of knowledge-based systems; Treatment of uncertainty;  Learnability and adaptive systems.   Networked systems and intelligent  retrieval; Web-based inferencing. Building and use of decision support  systems for clinical applications.
+
+## BM 630: Molecular Basis of Disease Processes
+- Credits: 6
+- Type: Theory
+- Description: General themes; Chromosomes; Metabolic disorders of carbohydrates, amino  acids, organic acids, purines, pyrimidines, lipoprotein, lipids,  porphyrins, heme, metals; Peroxisomes and lysosomal enzymes, hormones,  vitamins; Blood and blood forming tissues, membrane transport systems,  defense and immune mechanisms; Connective tissue, muscle; Basis of  diseases related to the gross anatomy, AMI, etc.; Molecular expression of  diseases; Disease diagnostics using molecular markers.
+
+## BM 631: Introduction to Bio-Nanotechnology
+- Credits: 4
+- Type: Theory
+- Prerequisite: 0
+
+## BM 632: Medical Instrumentation
+- Credits: 6
+- Type: Theory
+- Description: Medical measurands; Sensor characteristics and design for measurement of medical parameters like ECG, arterial flow, blood pressure, heart sounds;  Biopotential amplifiers, charge amplifiers and other interfaces; Signal  conditioning and display. Medical imaging considerations; X-rays, X-ray tube design, film and  detector design; CT - scanners : generations and basic algorithms. Elements of electrical safety; Built-in safety features for medical  instruments.
+
+## BM 633: Introduction to Biomechanics
+- Credits: 3
+- Type: Theory
+- Description: Course Content  Vector Algebra, Forces and Moments, Equilibrium, Stress and Strain, Constitutive Equation, Flow Properties of Blood, Mechanics of Red Blood Cells, Mechanics of endothelium, Viscoelastic Fluids and Solids, Skeletal & Heart Muscle.
+
+## BM 634: Physiological System Modelling
+- Credits: 6
+- Type: Theory
+- Description: Introduction to modeling: biophysical models and black box models,  interpretation of physiological signals using models, numerical methods  and computer implementation; Experimental methods for modeling  physiological systems, opening the loop in physiological systems; A  systems view of the membrane of excitable cells, determination of impulse  responses of the components of the membrane, need for the non-linear  Hodgkin-Huxley model. Action potentials to macroscopic signals- a model of the electromyogram,  electrode configurations, Motor Unit Potentials, voluntary EMG,  applications of the model in EMG analysis; Modeling muscle contraction:  Huxley`s biophysical model, linearisation of Huxley`s model, applications  of the linearised model in muscle control. Systems analysis of sensory r...
+
+## BM 636: Bioelectricity
+- Credits: 6
+- Type: Theory
+- Description: Generation and maintenance of the resting membrane potential; Contribution  of membrane ionic pumps and exchange processes. Action potential of excitable cells: Quantitative description,  Hodgkin-Huxley model, significance of parameters in Hodgkin-Huxley  equations;  Voltage-clamp experiments:  design, and analysis of results;  Factors determining the initiation, amplitudes, and kinetic properties of  action potentials. Passive membrane electrical properties: Cellular resistance, capacitance,  time constant and space constant,  methods of measurement; Importance in  cellular excitation and signaling: Impulse propagation. Electrophysiology of synaptic transmission: Prejunctional and  postjunctional electrical events;  time courses of transmitter-activated  membrane currents and potentials i...
+
+## BM 638: Biomedical Fluid Dynamics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to fluid mechanics; Fluid properties, basic laws governing  conservation of mass momentum and energy; Laminar flow, Couette flow and  Hagen-Poiseuille equation, turbulent flow.  Flow dynamical study of circulatory system, heart and blood vessels,  anatomy and physiological considerations; Components and functions of  arterial and venous systems; Lymphatic system; Body fluids and their  motions; Flow of Newtonian and non-Newtonian fluids in rigid tubes,  flexible tubes and collapsible tubes; Blood flow through arteries and  veins; Holt and Conrad`s experimental investigations. Kinetic energy, flow, pressure-flow relations in vascular beds; Cardiac  cycle; Cardiac valve dysfunctions; Blood pressure, regulation and  controlling factors; Coronary circulation, heart failure.
+
+## BM 640: Ergonomics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Ergonomics and its application; Man-Machine-Environment  System; Anthropometry and joint motions; Work Posture, Environmental  factors and human performance. Designing of Controls and Displays, Control panel Organization; Principals  of product design; Problem solving; Seminar on ergonomics related issues  in Medicine.
+
+## BM 651: Cell Physiology and Biopotentials
+- Credits: 3
+- Type: Theory
+- Description: Introduction to molecular and cellular Biology; Molecules, membranes and  cells; Cell structure and function: organelles, cytoskeleton and plasma  membrane; Metabolism and energy cycles; Synthesis of proteins and nucleic  acids; Transport across cell membranes and cytoplasm; Cell to cell biochemical signaling: hormones, receptors and synaptic transmission;  Cytoskeleton and movement, Actin and Myosin; Energetics of ion pumps. Origin of biopotentials; Resting membrane potential; The resting membrane as a potassium electrode; Nernst potential; Selective permeability and the  Donnan equilibrium; Action potentials: ionic basis, properties of  generation and conduction, examples in different cell types, relation to  surface-recorded signals; Synaptic potentials: passive properties and  integrat...
+
+## BM 653: Medical Imaging Physics
+- Credits: 3
+- Type: Theory
+- Description: Planar X-rays: electromagnetic radiation, generation and characteristics of x-rays, x-ray tubes, interaction of x-rays with tissues.  Magnetic resonance imaging (MRI): concept of spin and nuclear magnetic resonance, spin decay through interaction with tissues, use of different magnets in MRI systems, one or two simple imaging sequences.  Ultrasound: characteristics of sound waves, piezoelectricity and generation of ultrasound, interaction of ultrasound with tissues, Doppler effect and its uses.
+
+## BM 655: Biomaterials
+- Credits: 3
+- Type: Theory
+- Description: Structure and property relationships in materials, ceramics and polymers;  Interactions of materials with the human body; Influence of microstructure  and environment on fatigue and fracture of materials. Composite materials  concepts and applications; Whiskers and fibres medical applications such  as structures, orthopedic implants, artificial organs, dental materials,  etc.; Implementation problems - inflammation, rejection, corrosion,  structural failure.
+
+## BM 656: Advanced Biomaterials
+- Credits: 6
+- Type: Theory
+- Description: Classification of Biomaterials and their applications for the human body, Issues of biocompatibility and its evaluation.  Role of Protein adsorption and platelet aggregation in compatibility of biomaterials, Surface characterization of biomaterials, Study of the biomaterial-blood interface.  Effect of the wettability of Materials on blood interactions, Surface modifications for improved compatibility.  Bioceramics, Biopolymers, Metals and composites in medicine: Properties, applications, suitability & modifications required for certain applications. Biodegradable block copolymers & their applications for drug delivery, collagen, hyaluronic acid and other biopolymer applications.  Specific criteria and surface-bio-fluid interface interactions specific to biomaterial applications, Some examp...
+
+## BM 658: Biomedical Microsystems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction; photolithography; mask design; wet and dry etching; thin film deposition and growth, electroplating, molding, LIGA, bonding and sacrificial processes, polymer processing and rapid prototyping, biomaterials and biocompatibility issues, micro total analysis system (µTAS): Fluid control components, µ-TAS: sample handling, µ-TAS: separation components, µ-TAS: detection, cell handling and characterization systems, systems for biotechnology and PCR, polynucleotide arrays and genetic screening, miniatuare biosensors, biosensors arrays and implantable devices, neural interfaces, microsurgical tools, microneedles, and drug delivery, miniature bireactors and Microsystems for tissue engineering, tissue scaffolds, optical biosensors, MEMS metrology, MEMS packaging.
+
+## BM 659: Elements of Circuits and Instrumentation
+- Credits: 3
+- Type: Theory
+- Description: Review of Basic Electric Circuits : Kirchhoff`s laws, Thevenin`s and  Norton`s Theorems; Complex impedance and phasors; Electronic Devices : PN  junction diodes, diode circuits; Transistors: bipolar and field-effect  transistors; Integrated circuit fabrication; Operational Amplifiers,  amplifier circuits, non-linear circuits; Transfer functions, Bode plots, Filters. Boolean algebra; Logic circuits: Simple logic circuits, combinational  logic, sequential logic, multivibrators, counters.
+
+## BM 661: Signals and Systems for Biomedical Engineering
+- Credits: 3
+- Type: Theory
+- Description: Introduction to Signals and systems, Unit Step, Impulse, Sinusoidal and Exponential Signals, Properties of systems, Discrete time convolution and properties, Continuous time convolution and properties, Fourier series and properties, Fourier Transform and properties, Laplace Transform and properties, Z-Transform and biomedical examples of the above.
+
+## BM 663: Electrodiagnostics, Therapy and Electrical Safety
+- Credits: 3
+- Type: Theory
+- Description: Review of  Biopotentials. Electrodes as bioelectric transducers : The electrode-electrolyte  interface; Specification and selection criteria for electrodes; Surface,  needle, implanted electrodes; Polarizable and non-polarizable electrodes;  Practical considerations. Instrumentation for biopotential recording: Practical considerations for  optimum performance; Reduction of interference, grounding, safety. Electrical Stimulation: Use in generating evoked potentials, and for  therapeutic correction (ECT, pacemakers, defibrillation); Stimulation parameters; Safety limits and precautions. Safety: Hazards associated with the use of electrical / electronic  instruments; Provisions for safety;  Clinical safety norms. Commonly measured biopotentials and their clinical interpretation ENG,  ECG, EMG...
+
+## BM 665: Medical Sensors
+- Credits: 3
+- Type: Theory
+- Description: Sensor architecture and Classification; Medically significant measurands,  functional specifications of medical sensors; Sensor characteristics :  linearity, repeatability, hysteresis, drift; Sensor models in the time &  frequency domains. Sensors for physical measurands: strain, force, pressure, acceleration,  flow, volume, temperature and biopotentials. Sensors for measurement of chemicals: potentiometric sensors, ion  selective electrodes, ISFETS; Amperometric sensors, Clark Electrode;  Biosensors, Catalytic biosensors, immunosensors.
+
+## BM 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## BM 695: Credit Seminar
+- Credits: 4
+- Type: Seminar
+
+## BM 696: I Stage Project
+- Credits: 16
+- Type: Project
+- Prerequisite: 0
+- Description: x
+
+## BM 697: II Stage Project
+- Credits: 28
+- Type: Project
+- Description: x
+
+## BM 698: III Stage Project
+- Credits: 48
+- Type: Project
+- Prerequisite: 0
+- Description: x
+
+## BM 797: I Stage Project
+- Credits: 44
+- Prerequisite: 0
+
+## BMP602: II stage project
+- Credits: 16
+- Type: Project
+
+## BMP603: III stage project
+- Credits: 20
+- Type: Project
+
+## BT 251: Molecular cell Biology
+- Credits: 6
+- Type: Theory
+- Description: Biology and bioprocess, Relevance to Society. Procaryotes and eucaryotes. Classification of microorganisms and important cell types. Structure of the bacterial cell. Organization of plant and animal cells, organelles; structure, chemical composition, function. Biomolecules: properties of water amino acids, proteins, carbohydrates, lipids and nucleic acids. Cellular processes: carbon and nitrogen cycle in nature cycle in nature, metabolic grid, clycolysis. TCA cycle and forms of energy in biology, Signal transduction-receptor interactions. Informationtransfer in cells: Central dogma, DNA replication, RNA transcription genetic code and translation. Genetics and inheritance: chromosomes, Mendel s laws, phenotype and genotype,genetic diseases in humans.Special topics: Genetic engineering, Cell...
+
+## BT 402: Introduction to Molecular Biology
+- Credits: 6
+- Type: Theory
+- Description: Structure of Eucaryortic chromosomes, heterochromatin, euchromatin, molecular components,packing and organization nucleosome phasing, DNase I hypersensitive regions. Organization of bacterial genome. DNA structure and replication, proteins and enzymes in DNA replication, Okazaki fragments, replication of double strand circle and single strand circle DNA, RNA transcription, operon, amino acid synthetic operons, transcription control in lambda phage,regulation of eucaryotic transcription, structure of proka ryotic genes.Expression and processing of heterogeneous nuclear RNA, ribosomal RNA, tRNA.Universal Genetic code, degeneracy of codons, termination codons, wobble hypothesis, isoaccepting tRNA, genetic code in mitochondria, protein synthesis. Mutations, no nsense, missense, point mutation,...
+
+## BT 404: Biomolecular Spectroscopy
+- Credits: 6
+- Type: Theory
+- Description: Electromagnetic radiation, general features of Spectroscopy; Beer Lamberts Law, Difference spectroscopy; linear dichroism of oriented samples; biomolecular Fluorescence spectroscopy; quantum yield, factors governing fluorescence intensity; static and dyna mic quenching of fluorescence; energy transfer, polarization, anisotropy, time resolved fluorescence, application to biomolecules. CD and ORD spectroscopies, physical origins, applications to determine secondary structure of proteins. Infrared spectroscop y; IR of oriented samples; Raman and Resonance spectroscopy, Pulse and FT NMR, chemical shifts, coupling constants, ring currents, paramagnetic shifts, the problem of assignment in biopolymer, spin-spin, spin-lattice relaxation times; Nuclear Overhauser e ffect, chemical exchange applica...
+
+## BT 412: Molecular Biophysics
+- Credits: 6
+- Type: Theory
+
+## BT 414: Molecular Biology
+- Credits: 6
+- Type: Theory
+- Description: Structure of eucaryotic chromosomes; heterochromatin; euchromatin, molecular components, packing and organization nueleosome phasing; DNase I hypersensitive regions; organizations of bacterial genome; DNA structure and replication; proteins and enzymes in DNA replication; Okazaki fragments; replication of double stranded and single stranded circular DNA.
+
+## BT 415: Analytical Biochemistry
+- Credits: 6
+- Type: Theory
+- Description: General principles: buffers; electroanalytical methods: potentiometric and conductometric; photometry; chromatographic methods of separation: gel permeation, ion exchange, reverse-phase and affinity chromatography HPLC and FPLC; centrifugation; radiotracer techniques; gel electrophoresis techniques: molecular weight determination, electroblotting and electroelution, capillary electroblotting and electroelution, capillary electrophoresis API-electrospray and MALDI-TOF mass spectrometry; analysis of carbohydrates, lipids, proteins and nucleic acids; enzyme and cell immobilization techniques; immunochemical methods of analysis; biosensors and diagnostics.
+
+## BT 417: Catalysis and Mechanism
+- Credits: 4
+- Type: Theory
+
+## BT 418: Molecular Genetics
+- Credits: 6
+- Type: Theory
+- Description: Historical Perspectives; mitosis, meiosis, Mendelian genetics; Law of segregation, genotype, phenotype, dominance, recessiveness; incomplete and co-dominance, test cross; dihybrid and multihybrid cross; law of independent assortment; gene interactions, epistasis pleiotropy; variation in gene expression; penetrance; expressivity; effect of enviornment; allelism and complementarily; multiple alleles; sex and interitance; sex-linked genes; sex anomalies crossing over; linkage analysis; genetic mapping; extra chromosomal interitance; aspects of population and evolutionary genetics.
+
+## BT 419: Chemistry of Biomolecules
+- Credits: 6
+- Type: Theory
+- Description: Biosphere: concept and properties of a living cell; chemical basis of life ; cell structure: plant, animal and microbial cells; organelle fractionation techniques; composition of living matter: biomolecules; properties of water; Biomolecular hierarchy; macromolecules and molecular assemblies; structure-function, relationship smong major classes of biomolecules; amino acids and peptides; covalent structure of proteins and its elucidation; primary, secondary tertiary and higher order structures with respective examples; structure-function relationship analysis of ribonuclease, chymotrypain; concept of active site of an enzyme; evolution of protein structure and function; sugars: mono- di- and poly-saccharides: glocoproteins; glycolysis and TCA cycle: lipids: classification: lipoproteins and ...
+
+## BT 420: Catalysis and Mechanisms
+- Credits: 6
+- Type: Theory
+- Description: Structure-reactivity correlations. Frontier orbitals and their interactions. Acid-Base equilibria. Extended pKa scale. Electrophilic and nucleophilic reaction mechanisms. Solvents and solvent effects. Hammond postulate and analysis of energy profile diagrams. LFER approach. Electronic and steric effects in rates and iquilibria. Principles of chemical and enzymatic catalysis. Notion of transition state stabilization. General acid-base  catalysis. Nucleophilic catalysis. Electrophilic and electrostatic catalysis. Effects of desolvation, approximation and preassociation. Multiple catalysis. Notion of perfect enzymes. Mechanism and catalysis of following typical reactions. C-C bond formation, glocosyltransfer, acyl exchange, phosphoryl exchange, hydride transfer, one carbon transfer.
+
+## BT 421: Fundamentals of Microbiology
+- Credits: 6
+- Type: Theory
+- Description: Introduction to the microbial kingdom - An overview. Morphological details of prodaryotic and eukaryotic microbes. eg. bacteria, fungi, yeasts, protists, stroptomycetes. Methods in microscopy and staining procedures sterilization techniques, kinetics of sterilization, control of microbes by physical and chemical means. Isolation and enrichment of organisms, pure culture techniques and methods for culture preservation, Microbial classification - methods with emphasis on representative groups like bacteria, fungi, actinomycetes etc. Serotyping,rDNA and RFLP analysis. Virises (bacterial, plant and animal) - structure, classification, modes of replication and growth. Microbia growth - Kinetics of growth, methods of growth measurement. Batch and continuous cultivation techniques, chemostat and ...
+
+## BT 453: Biochemistry Laboratory
+- Credits: 8
+- Type: Laboratory
+- Description: Buffers & pKa, Cell fractionation, Centrifugation, Protein, Nucleic Acids, Lipid, Carbohydrate determination, percent analysis, enzyme assays for analysis-Sugar, Urea, LDH, Immobilization of enzymes and use,Enzyme purification-ammonium sulphate precipitat ion, Ion exchange, Gel filtration, affinity,table of purification, definition of units-Km and Vm determination, Criteria of purity-electrophoretic methods.
+
+## BT 455: Computers in Biology I
+- Credits: 8
+- Type: Theory
+- Description: Introduction to computers: hardware software; types of computers; concept of files and directories; OS and interfaces; commonly used as commands; concept of login and logout; file ownership; networking fundamentals: client-server ; LAN, WAN;  ftp, telner, rlogin; internet, WWW. html; scientific databases: PDB, CCDB, NDB; Mediline; programming in a high-level language: algorithms, pseudocodes; examples from chemistry, biology and numerical analysis.
+
+## BT 456: Biophysics Laboratory
+- Credits: 8
+- Type: Laboratory
+- Description: Use of U V Vis spectroscopy and fluorescence spectroscoply to determine solvent exposure/accessibility of aromatic amino acids, in measurement of thermodynamic parameters of heat denaturation of proteins and nucleic acids, in measurement of the conformational stability of a protein; estimation of secondary structure of proteins by CD; determining the binding constant as the number of binding sites by Scatcgard plot; EPR and the use of spin labels; proton NMR of amino acids; assigning the proton resonances of peptides by NMR; FT-IR of protein.
+
+## BT 457: Computers in Biology
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## BT 458: Microbiology Laboratory
+- Credits: 8
+- Type: Laboratory
+- Description: Experiments to encompose the following broad areas; microscopy, sterilizatin techniques/media, separations; isolation of pure cultures; identification techniques; microbial growth and growth kinetics; productin of bioactive compounds from microbes; immunological tools; bioassays/screening strategies.
+
+## BT 459: Biochemistry Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BT 460: Biophysics Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BT 462: Microbiology Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BT 501: Molecular Enzymology
+- Credits: 6
+- Type: Theory
+- Description: Concepts of rate processes in biological systems. Factors contributing to enzyme catalytic rates. Single and multi-substrate systems.  Regulatory enzymes. Steady-state kinetics. Initial velocity, product inhibition, enzyme activation analysis. Effect of pH and temperature on enzyme rates. Isotope effects and their application to transition state structure. Classification and nomenclature of enzymes. Hydrolases and transferases; peptidases, esterases, kinases, ATPases. Oxidoreductases, lyases and some examp les of isomerisation, rearrangement and condensation reactions. The role of metal ions and cofactors like pyridoxal phosphate, Thiamine Pyrophosphate, folate, biotin, flavin, nicotinamide nucleotides and lipoate in enzyme catalytic mechanisms. Structural enzymology. Active site character...
+
+## BT 503: Genetic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Concept of recombinant DNA technology and purpose, basic methodology, use of plasmids, Type I, II and III restriction modification systems, type II restriction endonucleases, nomenclature and sequence recognition, mcr and mrr genotypes, linkers, adaptors, blunt end ligation, homopolymeric tailing, methods in screening recombinant DNA. Labelling of DNA :Nick translation, random priming, use of Klenow enzyme, T4 DNA polymerase, bacterial alkaline phosphatase, polynucleotide kinase, hybridization techniques, northern, Southern and colony hybridization. Restriction maps and mapping techniques. cDNA cloning in plasmids. maximizing gene expression Construction of prokaryote expression vectors, deletion mapping, linker scanning. Cloning in M13 mp vectors, applic ation to DNA sequencing site-direc...
+
+## BT 515: Metabolism and Bioenergetics
+- Credits: 6
+- Type: Theory
+- Description: Overview of metabolism; concept of flow of matter and energy; thermodynamics of coupled systems and non-equilibrium reactions; biological energy currencies : high energy bond, reducing power and inter conversions of energh forms; carbon, nitrogen cycles in biosphere; classification of liging system based on carbon and energy requirements; methods to study metabolism; carbonhydrate and lipid catabolism; glycolysis; TCA cycle; fatty acid oxidation, other metabolic routes of carbon; oxidative phosphorylation; biosynthesis of carbohydrates and lipids photosynthesis; photosynthetic electron transport; Calvin cycle and other avenues of harvesting light energy; gluconeogenesis; Cori cycle; glycogen metabolism; biogenesis of fatty acids and sterols; nitrogen metabolism  : sources of organic nitrog...
+
+## BT 517: Molecular Immunology
+- Credits: 6
+- Type: Theory
+- Description: Natural and acquired immunity: Phagocytosis,inflammatory responses, complement system. Hematopoiesis and lymphoid system. Primary and secondary lymphoid organs Elements of the immune system: T and B lymphocytes, Antigen presenting cells and subsets of T cells. Antistructure (isotype, allotype and idiotype), function and diversity. Monoclonal antibodies: T cell and B cell hybridomas. Immunological Techniques: precipitation, agglutination, RIA,ELISA and fluorescence activated cell sorter. Major Histocompatibility antigens: structure, function and polymorphismsm. Antigen presentation. T cell and B cell receptore and accessory molecules.Mechanisms of lymphocyte activation. Regulation of immune responses: Primary and secondary responses, idlotypic network, Cytotoxic T cell Responses, mixed lymp...
+
+## BT 518: Molecular Biophysics
+- Credits: 6
+- Type: Theory
+- Description: Ramachandran or steric contour diagram and potential energy calculations of proteins; hydrogen bonding, hydrophobic interactions, ionic interactions, disulphide bonds and their role in protein structure; secondary structural elements and organisation of tertiary structure; helix coil transition and zipper model.
+
+## BT 520: Transgenic Engineering
+- Credits: 6
+- Type: Theory
+
+## BT 522: Cell Biology
+- Credits: 6
+- Type: Theory
+- Description: Prokaryotic and eukaryotic cell organizations; intracellular compartments and transport: membrane bound organelles, protein sorting, and vesicular transport, secretory pathways, endocytosis pathways, phagocytes and pinocytosis; cell communication: general principles of cell signalling, G-protein linked receptors and enzyme linked receptors; cytoskeleton: intermediate filaments, microtubules and actin filaments, microtubule polymerization dynamics, dynamic instability and cell crawling.
+
+## BT 553: Genetic Engineering Laboratory
+- Credits: 8
+- Type: Laboratory
+- Description: Isolation of chromosomal DNA, poly A+RNA; restruction endonuclease digestion; analysis on agarose gel electrophoresis; DNA cloning; plasmid isolation; cololy hybridisation; titration of M13; RF transformation; isolation of single strand temple; DNA sequencing; Southern blotting: Northern Blotting.
+
+## BT 557: Bioinformatics
+- Credits: 6
+- Type: Theory
+- Description: Introduction; Databases - mapping, sequence, structure, non-redundant; Sequence alignment pairwise and multiple; phylogenetics; Structure prediction methods - homology, threading, abinitio; Sequence analysis - class and secondary structure prediction; motifs - PROSITE; detecting functional sites in DNA; ORFinder; Computer science perspective - pattern recognition, hidden Markov models; neural networks.
+
+## BT 559: Genetic Engineering Laboratory
+- Credits: 10
+- Type: Laboratory
+
+## BT 593: Project Stage I
+- Credits: 4
+- Type: Project
+
+## BT 594: Project Stage II
+- Credits: 15
+- Type: Project
+
+## BT 596: Project Stage II
+- Credits: 22
+- Type: Project
+
+## BT 601: Biopolymer Synthesis
+- Credits: 6
+- Type: Theory
+- Description: Strategies in sequential synthesis. Concept of orthogonal chemistry.  Solution versus solid phase chemistry. Manual versus automated Synthesis. Combinatorial synthesis and its objectives. Synthesis of natural and artificial nucleosides. Base and hydro xyl protected nucleosides. Chemistry of phosphate esters and phosphoric anhydrides.   Phosphate, phosphonate and phosphite ester approaches to the formation of interneucleotide bonds. Solid phase assembly. Deprotection, cleavage, purification and analysi s. Duplex DNA and gene synthesis.   Modified polynucleotides, and perspectives in their application. Alpha amino and carboxy protections. Side chain protections. Alternate strategies in peptide bond formation. Residue specific considerations. Detecti on and prevention of racemization. Solutio...
+
+## BT 602: Molecular Cell Signalling
+- Credits: 6
+- Type: Theory
+- Description: Over view of Cell-Cell and intracellular signalling mechanisms, endocrine, paracrine,autocrine and synaptic transmissions. Cell-Cell recognition, Cell-adhesion molecules. Concepts of receptors (extracellular, intracellular), receptor-ligand interaction(co ncepts of agonist and antagonist), receptor characterizations, receptor functions. Extracellular receptors : Coupling of receptors to different signal transducing machinery; G-poteins, Ion channels, and catalytic proteins. G-proteins : structure, function , adenylate cyclase system, cAMP-PK and CREB proteins. Calcium channels, Oscillations of calcium conc. as signals. Receptors with protein tyrosine kinase activity, structure and function. Intracellular receptors : steroid receptors, structure and function . Second messengers; Phosphoinos...
+
+## BT 603: Principles of Drug Action
+- Credits: 6
+- Type: Theory
+- Description: Overview of human physiology. Central and peripheral nervous systems.  Endocrine system. Respiratory system. Cardiovascular system.   Digestive system. Hepatobiliary and renal systems. Receptor mediated signal transduction. Nerve impulse and conducti on. Membrane and soluble receptors. Receptor purification, characterization and reconstitution. Receptor Binding assays. Receptor theories. Agonist and antagonist characterization. Neurotransmitters and Hormones.   Biosynthetic and metabolic pathways . Neurotransmitters in CNS. Adrenergic and cholinergic neurotransmitters. Opiate system; Endorphins and Enkephalins.
+
+## BT 604: Principles of Drug Design & Discovery
+- Credits: 6
+- Type: Theory
+- Description: Organized Drug discovery and development. Pharmacological, Microbial, Recombinant, Biochemical and Molecular level screening systems and their construction strategies. Alternative strategies in Lead identification. Lead optimization. Preclinical devel opment.  Clinical trials, Patenting, and clearance for application. Receptor versus enzyme mediated drug action. SAR and its quantitative description. QSAR. Molecular principles in agonist and antagonist action. Thermodynamic and structural principle s. Objectives and approaches in the native ligand modification. Molecular graphic and dynamical methods in peptide and protein mimicry. Morphinans versus Enkephalins: paradigm example of a peptido-mimetic. Other illustrative examples from current lite rature. Drug design by receptor site fit.   A...
+
+## BT 606: Modern NMR: Theory & Applications
+- Credits: 6
+- Type: Theory
+- Description: NMR phenomenon;parameters;chemical shifts;spin-spin coupling;Bloch equation;the rotating frame of References; pulses; free induction decay; Fourier transform; signal to noise ratio;signal averaging;sampling;computer considerations,spin echoes;measuring T1 and T2;;application to biosystems;nuclear Overhauser efffect; steady state NOE;transient NOE; internuclear distances; applications to protein structure determination; multiple-pulse NMR; polarisation transfer; second dimension; J-spectroscopy; COSY; NOES Y; ROESY; chemical exchange; application to proteins; nucleic acid,sugars etc.;13C NMR; gated decoupling; assignments; DEPT; heternuclear coorelation; NMR of other nuclei eg 31P and 31N.
+
+## BT 607: Topics in Biotechnology  I
+- Credits: 6
+- Type: Theory
+- Description: In this Course, three to four contemprory themes in Biotechnology(listed below) are covered. These themes will be offered jointly by Biotech Centre and external faculty.  1. Plant cell culture and tissue culture.   2. Enzymes and Biocatalyses-Immobilized enzyme applications.   3. Bioconversion/Fermentation of Industrial fine chemicals.   4. Antibiotics and Chemotherapy.   5. Recombinant DNA technology and Protein therapeutics.   6. Waste treatment, Utilization and methanogenesis.
+
+## BT 608: Topics in Biotechnology II
+- Credits: 6
+- Type: Theory
+- Description: In this Course, three to four contemprory themes in Biotechnology(listed below) are covered. These themes will be offered jointly by Biotech Centre and external faculty.  1. Biosensors and immmunodiagnostics.   2. Modeling and graphics in rational molecular design.   3. Philosophy of new drug discovery.   4. Hybridoma technology, monoclonals and mamilian cell culture.   5. Industrial microbiology and representative fermentations.   6. Microorganisms in pollution control.
+
+## BT 609: Applied Genetic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Applications in mammalian genetic engineering, Biopharmaceuticals, Transgenics in animals and plants, restriction fragment length polymorphism, DNA fingerprinting, human genetic diseases. Gene targeting, human gene therapy PCR technology : Gene amplificat ion, inverse PCR, multiplex PCR, RT-PCR, application in genetic diagnosis pulsed field gel electrophoresis. Oligonucleotide synthesis, Automated DNA sequencing, Human Genome project. Man made antibodies, phage display. Application in other spheres of huma n activity emphasized by selected articles. Yeast artificial chromosome.
+
+## BT 610: Perspectives in Biotechnology
+- Credits: 6
+- Type: Theory
+- Description: Biotechnology scenario; past & present impact due to molecular biology inventions. Nexus between scientific excellence and technological self reliance. Specific opportunities in the Indian context. National gene pool and concerns about biosafety. Environm ental issues. Ethical and Legal considerations. Commercialization of Biotechnology. Social & economical considerations. Concept of Intellectual Property. Nexus between inventor rights and promotion of inventions infringement.  Patents & their composition, Patentable subject matter, Cost of a patent, Product versus process patents, patentability of life forms.   Evolving Intellectual Property Systems; National and International.
+
+## BT 611: Immuno Technology
+- Credits: 6
+- Type: Theory
+- Description: Hybridoma technology, B cell hybridomas, T cell hybridomas, human monoclonal antibodies, humanizing antibodies, chimeric monoclonal antibodies, applications. T cell activation, signal transduction, Thymic education, positive and negative selection, cytoki nes and their receptors in T and B cell activation, relation to disease. Detailed biology of tolerance, clonal deletion of T and B cells, clonal energy of T and B cells. Hypersensitive reaction, immediate and delayed molecular mechanisms and signalling pa thways. Autoimmunity, human diseases, animal models, role of TH cell, MHC and T cell receptor, mechanisms, vaccines; subunit vaccines, synthetic vaccines.  transplantation and tumour immunology.
+
+## BT 612: Industrial Microbiology
+- Credits: 6
+- Type: Theory
+- Description: The scope of industrial microbiology. Screening strategies for new metabolite such as antibodies, enzymes, amino acids and other substances. Strain improvement methods and their application.  Fermentation media, stock cultures, and inoculum preparation. So urces of raw materials for Biotechnology industry. Fermentation procedures, purification and recovery of products. Biochemical basis of production processes. Production, structure, biosynthesis, regulation and uses of organic acids, amino acids, nucleosid es, nucleotides and related compounds, vitamins antibiotics and ergot alkaloids. Microbial transformations and their application. Immobilised enzymes and cells.   Enzymes as products of fermentation. Representative examples - Penicillin acylase, glucose iso merase, invertase. Aspects of...
+
+## BT 614: Diffraction Techniques in Biology
+- Credits: 6
+- Type: Theory
+- Description: X-Ray Crystallography; electromagnetic radiation; X-Rays; generation of X-Rays; `Scattering; atomic scattering factors; scattering lengths; structure factor and effects of thermal vibration in crystals; X-ray diffraction; interference fringes from atoms; X-Ray diffraction from a molecular crystal; Bragg"s law of diffraction; properties of crystal; symmetry properties; crystal lattice and reciprocal lattice; space groups; estimation of molecular weight; methods of collecting data; resolution of structure; limitations on resolution; determination of molecular structure; general considerations; structure of a small molecule; Patterson function; structure of a macromolecule; multiple amorphous replacements; isomorphous heavy atom derivatives; difference patt ern maps; least-squares refinement;...
+
+## BT 616: Biological Enquiry:  History and Philosophy
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+
+## BT 651: Drug Design Laboratory I
+- Credits: 8
+- Type: Laboratory
+- Description: Synthesis of protected amino acids or nucleotides. Peptide & internucleotide bond formation in the solutionphase Preparation of polymers support and residue coupling. Solid phase oligopeptide assembly. Isolation of product & HPLC analysis. Enzyme Inhibito r assay to determine kinetic/thermodynamic parameters. Saturation analysis of protein ligand binding Radiotracer handing and coupling Competitive ligand binding to improve receptor preparation(one membrane, one soluble).
+
+## BT 652: Drug Design Laboratory II
+- Credits: 8
+- Type: Laboratory
+- Description: Oligo peptide/oligo nucleotide structure conformation analysis by NMR. Estimation of protein secondary structure content by CD. Solvent dependence of hyperfine parameters of spin labelled probes. Study of charge-transfer complexation by UV. Flourescence a nalysis of Protein-Ligand interaction. Intermolecular interaction;geometries & energies; a theoretical simulation.
+
+## BT 653: Cell Technology Laboratory I
+- Credits: 8
+- Type: Laboratory
+- Description: Establishing chicken fibroblast culture, DNA transfection in mouse L cells, Hybridoma selection on HAT, Genomic library and screen for a specific gene, Basic yeast genetics -cloning by complementation, Gene disruption in yeast, Mutagenesis experiments.
+
+## BT 654: Cell Technology Laboratory II
+- Credits: 8
+- Type: Laboratory
+- Description: Western blot, Protein Separation using FPLC, Fermentation using Aspergillus, Steady State Enzyme kinetics, Generation of polyclonal antibodies, Detection of Antibodies using ELISA, hemeagglutination.
+
+## BT 701: Research Proposal
+- Credits: 10
+- Type: Seminar
+- Description: Under the course Research Proposal the student is expected to work independently to generate a comprehensive research proposal of industrial or academic importance, based on extensive literature search and consultations with the research supervisor and p ossible other experts. The proposal is to be compiled as a dissertation whose evaluation would include a seminar and oral defence before a panel of examiners. The grading would take into cognizance originality, innovativeness and feasibilty of the proposa l. The objective is to harness innovative ideas from fresh minds.
+
+## BT 801: Advanced Biochemistry
+- Credits: 6
+- Type: Theory
+- Description: Diversity of metabolic pathways. Anabolic and Catabolic routes for lipids, carbohydrates, aminoacids, enzymology- enzyme kinetics, activation/inhibition and steady state analysis. Allosteric, Isotope effects. Integration of metabolism and regulatory aspec ts. Flux through the pathways, Rate limiting steps, Regulatory enzymes.  Molecular mechanisms of signal transduction, Receptor-Ligand interactions. Gate ion channels, G-proteins, Protein kinases. Metabolic compartmentation and transport phenomenoa. Selecte d reviews from Nature, Science and Annual Reviews in Microbiology.
+
+## BT 802: Molecular Cell Biology
+- Credits: 6
+- Type: Theory
+- Description: Cell organization and function, cell division and DNA replication, Generation of cellular energy, Structure and function of cell organelles, RNA transcription, Protein synthesis, Cell differentiation, Cell transformation, Prokaryotic gene regulation, Grow th factors, Eukaryotic gene regulation, Tumor viruses.
+
+## BT 803: Biophysical Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Spectroscopic methods, Adsorption spectroscopy, Difference and derivative Spectroscopy as applied to biomolecular interactions, Fluorescence spectroscopy, Membrane Proteins, Nucleic acid probes, Fluidity, Polarity and Viscosity measurements, Energy transf er and quenching studies, ESR, NMR, Laser, Raman and FT-IR spectroscopy, theoretical and practical aspects of Ligand - Macromolecular interactions, X-ray Diffraction, Protein folding, Computer applications in Biology.
+
+## BT 804: Biopolymers
+- Credits: 6
+- Type: Theory
+- Description: Amino acids, chemical nature of polypeptides, amino acid analysis.  Protein sequences and evolution, Conformational predictions. Proteins in solutions, Interactions with other molecules. Nucleotides, Coenzymes, Physical characteristics, Conformational feat ures. Hydrogen bonding and base stacking. The double helix. DNA polymorphism. RNA structure. RNA protein interaction. Higher organization of DNA. Brief survey of replication, transcription and translation, Proteinbiosynthesis. Covalent modification and to pogenesis.Site directed mutagenesis. Prespectives of chemical synthesis. Functional group protection deprotection. Condensing reagents. Solution vs Solid phases systhesis.
+
+## BT 806: Cell Surface Structure
+- Credits: 6
+- Type: Theory
+- Description: The structure and composition of Biomembranes. The structure and properties of membrane lipids. Characterization and structural principles of membrane proteins, Lateral and Transverse symmetry in membranes, Membrane dynamics and protein lipid interactions . Molecular enzymology. Interactions of small molecules with membranes, Partitioning, permeability and Electrical effects, Pores, Channels and Transporters. The cell surface receptor. Membrane recycling and signal transduction. Membrane biogenesis.
+
+## BT 807: Computational methods in molecular biology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Internet resources for molecular biologist. Using genome sequence data to identify and clone ORFs of interest. Comparing genome sequences to identify ORFs encoding proteins with specific functions. Use in identifying missing proteins in metabolic pathways. Defining functions of proteins at different levels of hierarchy. Assigning functions to orphan ORFs -- using sequence data and using 3-D structure data. Functional analysis of polymorphisms -- anatomy of regulatory elements. Gene expression informatics and analysis -- regions of increases gene expression. Proteomic informatics -- interaction networks. assessment and validation of predictions. Exploiting protein networks. High-throughput studies for molecular biologist -- microarrays, 2-D gel electrophoresis.
+
+## BT 808: Principles of Biomolecular Interactions and Recognition
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Conformer selection. Restriction of conformational space by steric effect. Non-covalent interactions; low-barrier hydrogen bonds. Secondary structural propensities of building blocks in proteins and nucleic acids. Concept of cooperativity in biomolecular interactions -- entropy-driven and enthalpy-driven cooperativity. Hydrophobic effect – definition, surface area, temperature dependence. Effect of co-solvents: preferential hydration vs. preferential binding. Protein and RNA folding. Sequence-specific recognition of DNA in major and minor grooves; non-specific recognition of nucleic acids by proteins. Affinity and specificity in intermolecular interactions Molecular assemblies: proteins, lipids, Protein-nucleic acids.
+
+## BTS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## BTS802: Seminar
+- Credits: 4
+- Type: Seminar

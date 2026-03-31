@@ -1,0 +1,219 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Systems and Control  - Course Catalog for IIT Bombay Students
+
+
+## SC 403: System Modelling and Simulation
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Concept of System modelling : Physical, mathematical, dynamic modelling and dynamic analogies.   Analog computer simulation : Basic analog computer components and operations amplitude and time scaling; solution of linear, non-linear and partial differential equations, as well as simultaneous equations. Formulation of model for a dynamic system and its simulation on analog computer.   Digital computer simulation. Study of computer simulation languages like NIMMIC, CSMP, DSSP etc. and their use in system simulation.   Introduction to hybrid computers and their use in system simulation.
+
+## SC 601: Modelling  and Identification of Dynamical  Systems
+- Credits: 6
+- Type: Theory
+- Description: Classification of inputs and models, analytical and experimental methods of modelling: transform methods, impulse and frequency response, Fourier transform. Response to random inputs, state-space models, Z transform, correlation technique. pseudo-random signal testing parameter tracking, regression and least-square methods.  Discrete time series models: FIR and ARX models, development of ARX models by least square estimation, Unmeasured disturbance Modeling: AR-MAX, OE, Box-Jenkin`s models,Time-series analysis, AR and ARX models, least-squares setting.
+
+## SC 602: Control of Nonlinear Dynamical Systems
+- Credits: 6
+- Type: Theory
+- Description: An introduction to vector fields, flows and integral curves of differential equations, affine-in-the control nonlinear systems, equilibria, notions of stability, La Salle`s invariance principle, feedback linearization, zero dynamics, controller design examples, distributions, integrable and involutive distributions
+
+## SC 604: Optimal Control System
+- Credits: 8
+- Type: Theory
+- Description: (Equivalent EE 602) Introduction. Statement of the optimal control problem. Dynamic programming. Bellman equations. Variational calculus. Dynamic optimization without constraints. Euler Lagrange equation and transversality conditions. The problems. The problems of Bolza, Mayer and their solution. Pontryagin"s maximum principle. Computational methods in optimal control. Rayleigh-Ritz method. Parametric expansion method. State increment dynamic programming. Gradient method. Method of steepest descent. Quasilinearization and invariant embedding.
+
+## SC 605: Optimization Based Control of Stochastic Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: x
+
+## SC 607: Optimization
+- Credits: 6
+- Type: Theory
+- Description: (Equivalent CL 603) Survey of optimization problems and their classification. Necessary and sufficient conditions for unconstrained optima. Linear and geometric programming. Search methods for unconstrained and constrained optimization. Discrete minimum principle and dynamic programming. Optimization of multistage processes.
+
+## SC 612: Introduction to Linear Filtering and Beyond
+- Credits: 6
+- Type: Theory
+- Description: Probability spaces, conditional expectations as projections, etc  Gaussian and conditionally Gaussian processes  The Kalman filter:   - derivation, application areas Course Content  - the Kalman filter under communication constraints      - a symplectic algebraic view of the Kalman filter The Levinson and the Wiener filters, and connections to  orthogonal polynomials on the  Pre-requisites Course Content Quick tour of nonlinear filters
+
+## SC 613: Multivariable Control Systems
+- Credits: 6
+- Type: Theory
+- Description: (Equivalent EE 621) Multivariable system models. State equations canonical forms.  Polynomial matrices. Minimal realizations.   Multivariable system design: Pole placement decoupling, model matching, inverse Nyquist array, characteristic locus methods.
+
+## SC 616: Large Scale Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: SC 601
+- Description: ntroduction to Large Scale Systems. Principal Component based model reduction methods. Model reduction through aggregation. Frequency domain based model reduction techniques ? Pade, Routh and Continued fraction approximations. Model reduction using step and inpulse error minimization techniques. Balanced truncation and Hankel norm minimization.   Pole placement techniques. State feedback and output feedback of single and multi-input systems. Multirate output feedback techniques ? Periodic Output Feedback(POF) and Fast Output Sampling Feedback (FOS).  Robust Control Techniques. Uncertain systems. Kharitonov theorem. State Feedback design techniques for parametric uncertain systems.
+
+## SC 617: Adaptive Control Theory
+- Credits: 6
+- Type: Theory
+- Description: Stability of time-varying systems - Barbalat-s Lemma. *  Overview of Lyapunov Stability Theory. * Classical Adaptive Control Theory - Certainty Equivalence  * Filter Construction and Non-Certainty Equivalence Adaptive Control  * Advanced topics include parameter projection and robustness modifications in adaptive control.
+
+## SC 618: Analytical and Geometric Dynamics
+- Credits: 6
+- Type: Theory
+- Description: The course will consist of three modules, with the underlying thread being examining dynamics and connected engineering applications from a geometric viewpoint, in particular, the framework of Lie groups. Dynamics on Lie groups: A quick introduction to matrix Lie groups and the associated machinery of groups actions, Lie algebras, invariant vector fields, infinitesimal generators, metrics and the Euler-Lagrange(EL) equations on a Lie group. Discrete Mechanics : The discrete variational principle and the discrete EL and Hamiltonian equations for a mechanical system; the fiber derivatives and the discrete equations for matrix Lie groups Applications : (a) Attitude dynamics and control of a satellite and (b) Formation control of mechanical systems over Lie group
+
+## SC 619: Control of Langrangian and Hamiltonian Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Pre-requisite: Vector Spaces (Linear Algebra)  Rigid body motions, Hamilton-s principle, Euler- Lagrange equations, holonomic and nonholonomic constraints, Differentiable manifolds, tangent bundles, distributions, fiber bundles, differential forms Symplectic manifolds, Poisson manifolds, momentum maps, the mechanical connection  Dirac structures, distributed parameter systems, Stokes- theorem, Energy-Casimid techniques  Application domains: Modelling and control of physical systems like (1) a flexible beam on a cart (2) fluid in a tank and (3) a plug-flow reactor, from a Dirac structure perspective. Analyzing the motion of a sphere on a plate using Lie Poisson reduction results.
+
+## SC 620: Automation and Feedback Control
+- Credits: 6
+- Type: Theory
+- Description: Basic concepts and techniques, tuning procedures, special feedback techniques, direct synthesis and adaptive control, decoupling and feed-forward methods, various multiple loop feedback control strategies widely used in industries, such as cascade, ratio, split-range, selective, feedforward compensation, sensors and actuators, basics of industrial automation systems: PLCs and Distributed control systems (DCS), their features and applications.
+
+## SC 621: Advanced Feedback Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: Basic
+- Description: First Semester (beginning July, 1993) Introduction to feedback properties. Single and two degree of freedom configuration. Properties of loop transmission functions, specifications. Basic QFT procedure for SISO LTI systems: Single-loop and multipleloop structures.Plant modification. Existence theorems. The nonlinear QFT procdure. Extensions to time varying plants. Modified procedures for reduced overdesign-Existemce theorems. The MIMO (Multi-input output) QFT synthesis techniques. Existence theorems.Recent MIMO QFT developments.
+
+## SC 622: Qantitative Feedback Theory II
+- Credits: 6
+- Type: Theory
+- Prerequisite: SC 621
+- Description: Quantitative Feedback Theory I  Synthesis for highly uncertain nonlinear MIMO plants, Multipleloop MIMO feed-back systems. Distributed parameters systems. The Singular-G technique for nonminimum phase and unstable systems.   Single and multiple-loop dithered adaptive systems. Special class of FORE nonlinear compensation. Design for hard robust feedback methodologies.
+
+## SC 623: Optimal and Robust Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: Classi
+- Description: The linear-Quadrtic problem-formulation and solution; LQG problem; Frequency domain interpretations; loop transfer recovery; robustness issues; H2 optimization; small gain theorem; H6 optimality-motivation,the standard set up. Co-prime factorization, the model-matching problem, state space solutions.
+
+## SC 624: Differential Geometric Methods in Control
+- Credits: 6
+- Type: Theory
+- Description: - Review of multivariable calculus  - Smooth manifolds  - Vector fields, Lie bracket  - Frobenius`s theorem, Chow-Rashevsky theorem  - Lie groups and Lie algebras  - Left- and right-invariant vector fields on Lie groups  - Control theory on Lie groups, Feedback linearization  - Optimal control on Lie groups  - Pontryagin maximum principle on Lie groups
+
+## SC 625: Systems Theory
+- Credits: 6
+- Type: Theory
+- Description: *Basic of linear algebra :vector spaces and matrices*Solution to linear ODEs:uniqueness, state-transition matrix, peano-baker series variation of constants formula* Stability: Lyapunov stability, stability of BIBO Stability*Controllability: LTV systems, controllability Gramian Controllability matrix, Hautus test, Lyapunov test, pole placement.* Stabilizability: Controllable decomposition, stabilizability tests, state feedback control*Observability:Observability Gramian, duality for LTI systems, observability tests* Detectability:Observable decomposition, detectabilty tests, state estimators. output feedback control, separation principle*Kalman decomposition, minimal realization*Optimal control: Dynamic programming HJB equation, LQR problem, Riccati differential equation, algebraic Riccati ...
+
+## SC 626: Systems and Control Engineering Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: ■ 50% (first half) comprising of robotics experiments which will be done using ROS-Gazebo setup ■ 25% (second half) comprising of global optimization algorithms ■ 25% (second half) static and dynamic optimization algorithms
+
+## SC 627: Motion Planning & Coordination of Autonomous Vehicles
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: MOTION OF PLANNING: Introduction : Overview of robot motion problems, Configuration space of a robot, Example configuration spaces. (~2 weeks) Classical motion planning paradigm : the roadmap, potential field method, cellular decomposition approach, Graph search and Discrete planning Algorithms. (~3 weeks) Sensor based motion planning : Class of Bug algorithms, Incremental Voronoi Graph. (~2 weeks)  MOTION COORDINATION: Introduction to multi-agent systems, multi-agent coordination strategies (specifically for autonomous vehicle): Leader-follower, potential field theory, algebraic graph theory, behavioral based method (~ 2 weeks) Multi-agent Consensus algorithms: basics of matrix theory and graph theory, consensus algorithms for dynamical systems, applications of consensus algorithms - Rend...
+
+## SC 628: Guidance Strategies for Autonomous Vehicles
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Basics of missile guidance - Introduction to missiles, missile guidance laws (pursuit, line-of-sight, proportional navigation),capturability analysis for maneuvering and non-maneuvering targets (~8weeks) Applications of guidance strategies to cooperative control -multi-vehicle path planning, collision avoidance, rendezvous/docking problems (~6 weeks)
+
+## SC 629: Introduction to Probability and Random Processes
+- Credits: 6
+- Type: Theory
+- Description: 1. Discrete and continuous random variables and random vectors, conditioning, Baye`s formula.  2. Gaussian random vectors, conditioning.  3. Minimum mean squared error (MMSE) estimation.  4. Elementary treatment of concentration of probability measures in high dimensions.  5. Kalman estimation and filtering.  6. Discrete-time Markov chains.
+
+## SC 630: Variable Structure and Sliding Mode Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: SC 601
+- Description: Introduction to variable structure system, phase plane analysis, Discontinuous system- solution in Filippov sense, Sliding Hyper plane design-pole placement and LQR method, Reachability condition, Digital sliding mode control, Reaching law for discrete-time sliding mode(DSM),DSM for matched and unmatched uncertainties, DSM using multirate technique, Finite time and terminal sliding mode, Sliding mode observer, Integral sliding mode, Integral sliding mode with nonlinear composite feedback control(CNF),Second order sliding mode control and observation, Application of sliding mode control- Flight control design, Smart structure, slosh container system and Nuclear reactor.
+
+## SC 631: Games and Information
+- Credits: 6
+- Type: Theory
+- Description: Basics of static games: Zero-sum and non-zero sum games,                    concept of Nash equilibrium and Stackelberg equilibrium.                    Multi-act games: extensive form of games and information                    sets. Aumann-s common knowledge, rationality, bounded                    rationality. Dynamic games: Incomplete information,                    Bayesian Nash equilibrium. General formulation of dy-                    namic games: sub-game perfectness, open-loop, closed- vii Course Content                    loop and feedback Nash equilibria, informational proper-                    ties of Nash equilibria, informational nonuniqueness. Infor-                    mation structures: static and dynamic information struc-                    tures. Dynamic stochastic team ...
+
+## SC 633: Geometric and Analytic Aspects of Optimal Control
+- Credits: 6
+- Type: Theory
+- Description: * Geometric theory of the Pontryagin minimum principle, applications to:- nonlinear filtering- management science- operations research* Dynamic programming: analytical foundations- deterministic and stochastic versions- applications to mathematical finance* Reachability of nonlinear dynamical systems viewed asoptimal control problems- motion planning of controlled stochastic processes* Average cost optimal control
+
+## SC 634: Introduction to Wheeled Mobile Robotics
+- Credits: 6
+- Type: Theory
+- Description: - Mobile robot kinematics- direct and inverse kinematics, nonholonomic constraints, unicycle, differential drive, omnidirectional (~3 weeks) - Mobile robot dynamics - Newton-Euler model, Lagrange equation, dyamic modelling of nonholonomic robots (~3 weeks) - Sensors and actuators - range sensors, motors and their interfacing (~2 weeks) - Localization - Kalman filter, triangulation, trilateration, topological (~3 weeks) - Control - position control, kinematic tracking control, dynamic tracking control, lyapunov based methods, feedback linearization (~3 weeks) - Applications (optional) - collision avoidance, line following, occupancy grid methods., triangulation, trilateration, topological (~3 weeks)302225 Control 302226 position control, kinematic tracking control, dynamic tracking control,...
+
+## SC 635: Advanced Topics in Mobile Robotics
+- Credits: 6
+- Type: Theory
+- Description: - Probabilistic methods of motion planning: velocity and position models (~3weeks) - Recursive state estimation: interaction between the robot and environment, Markov model, parametric and nonparametric filters with case studies of range and feature based visual sensing(~ 4 weeks) - swarm robotics (~3 weeks) - robot art - artistic geometry, generating music, dancing robots (~2 weeks) - modular robots, aerial robots and underwater robots - dynamics, control and guidance (~2 weeks) viii
+
+## SC 636: Theory of Output Regulation
+- Credits: 6
+- Type: Theory
+- Description: Introduction to the linear regulation problem, linear regulator equations, robust output regulation, repetitive control, transfer function approach to output regulation, center manifold theorem, nonlinear regulator equations, immersion of dynamical systems, brief introduction to infinite-dimensional systems, output regulation for linear infinite-dimensional systems.
+
+## SC 639: Mathematical Structures for Control
+- Credits: 6
+- Type: Theory
+- Description: The broad objective of this course is to introduce three fundamental branches of mathematics - vector spaces, analysis and multivariable calculus - that are extremely beneficial for advanced engineering applications and studies.  * Vector spaces (6 weeks): Linear independence, basis, dimension, subspaces, linear functionals, dual spaces, linear transformations, inner products, projections,the least squares problem, normed vector spaces, eigen values and eigen vectors.  * Sequences and series (4 weeks): Sequences, series and convergence, Cauchy sequences,tests for convergence, power series, differentiation and integration of a series.  * Multivariable calculus (4 weeks): Taylor's formula, differentiation of functions of several variables, Gateaux and Frechet derivatives, differentiability o...
+
+## SC 640: Applied Predictive Analytics
+- Credits: 6
+- Type: Theory
+- Description: 1. Machine Learning for Predictive Data Analytics 2. Statistics, Data Visualization, and  Data Preparation 3. Data Exploration and Data Quality 4. Overview of  ML and DL with applications.  5. Unsupervised Learning 6. KNN and Na-ve Bayes 7. SVM and Decision Trees 8. Introduction to ANN and Deep Networks 9. Confusion Matrix and Multiclassification 10. Multivariate Regression 11. Backprop  and Stochastic Gradient Descent methods 12. Training, Testing, Cross Validation, and Overfitting 13. Recurrent Neural networks (RNN)- LSTM 14. Convolution Neural Networks (CNN) -1 14. CNN -2 15. Utility layers in Deep Networks  16. Generative modelling (GAN) 17. Intro to Predictive data Maintenance (PdM). 18. Data Pre-processing for PdM 19. Condition Indicators (CI) and Fault Detection and Diagnostics (FDD...
+
+## SC 643: Stochastic and Networked Control
+- Credits: 6
+- Type: Theory
+- Description: The legacy of control is marked by a historic misconception that led theorists to presume that in every problem, the tasks of control, estimation and communication can be separated. This led to the widespread belief that deterministic controllers, superimposed with optimal state estimators and conventional communi- cation protocols, would be optimal in stochastic environments. Over time, several landmark papers revealed that nothing could be farther from the truth. We realize today that co-design of communication and control offers orders of magnitude of improvements in performance over separate design and that in some cases, it is essential to change the very notion of information for purposes of control.  These issues are exacerbated in the control of decentralized systems evolving in ra...
+
+## SC 645: Intelligent Feedback and Control
+- Credits: 6
+- Type: Theory
+- Description: Part-I: Fundamentals of feedback systems: Basic concepts and techniques, tuning procedures, Model based PID tuning, Set point weighting, Integral wind-up, Benchmarking tuning techniques Part-II: Industrial control techniques: Cascade, Ratio, Split-range, Selective, Feedforward compensation, Gain scheduling and applying relevant ISA standards Part-III: Multi-variable control: RGA, Condition number, Decoupling, Various multiple loop feedback control techniques, MIMO concepts Part-IV: Latest PID techniques (optional): Machine Learning methods for PID tuning, Eventdriven, Data-driven PID Control techniques
+
+## SC 655: Random Processes in Learning and Control
+- Credits: 6
+- Type: Theory
+- Description: 1. Random variables, density and distribution functions for univariate and multivariate random variables.     2. Gaussian random vectors, minimum mean square error estimation, Kalman filter; applications in system theory.     3. Elementary concentration inequalities, Gaussian concentration, Johnson-Lindenstrauss; applications to robust optimization and dimension reduction.     4. Discrete Markov chains, Markov times, ergodicity of Markov chains, sampling, sampling and Markov chain Monte Carlo, simulated annealing; applications to robust and global optimization.     5. Martingales and stochastic approximation; applications to stochastic gradient descent.
+
+## SC 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0
+
+## SC 700: Embeded Control System
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Embedded Systems : Design challenges, Processors (General purpose - software and single purpose- hardware, application specific), Peripherals (Timer, counter, UART, PWM, ADC, real-time clocks etc.), memory and interfacing techniques, serial, parallel and wireless communication protocols. ( 5 weeks) Optimization Techniques : Introduction to pipelining and parallel processing, Retiming, Folding and Unfolding. ( weeks) Control Systems : Overview of sampling theory, design issues with computer based control, data types, quantization, overflow and resource issues, real-world issues in measuring frequency response. ( 6 weeks)
+
+## SC 702: Linear Systems Theory for PDEs
+- Credits: 6
+- Type: Theory
+- Description: Tracking controllers for ODEs, PDE models in engineering, tracking problem for PDEsBasics of real analysis, functional analysis and Sobolev spacesSemigroup theory: Hille-Yosida theorem, abstractCauchy problem, stabilityRiesz spectral operators, spectral projections, invariant subspacesControllability and observability of PDEsTracking controllers for PDEs with application to the heat and wave equations
+
+## SC 792: Communication Skills -II
+- Credits: 4
+- Description: The departmental component of this course will consist of a series of seminars delivered both by faculty members and teaching assistants, in addition to talks streamed from online repositories. The students would also view/listen to appropriate video/audio modules from the web. The assessment would be based on a report and presentation towards the end of the semester. Based on resources from the web
+
+## SC 797: I Stage Project
+- Credits: 54
+- Prerequisite: 0
+
+## SC 798: II Stage Project
+- Credits: 36
+- Prerequisite: 0
+
+## SC 899: Communication Skills
+- Credits: 6
+- Description: This course will consist of a series of seminars/lectures delivered by both faculty members and teaching assistants and also talks streamed from online repositories. The topics covered in the course could include surveying literature, listening and note taking, technical writing, speaking and presentation skills, elevator pitch, ethics in academic communication, group discussion and interviews and report writing using LateX.
+
+## SCS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## SCS802: Seminar
+- Credits: 4
+- Type: Seminar

@@ -1,0 +1,37 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Machine Intelligence and Data Science - Course Catalog for IIT Bombay Students
+
+
+## DS 203: Programming for Data Science
+- Credits: 6
+- Type: Theory
+- Description: Programming Basics (Python programming, R, Data Structures), Visualization/Plotting, Data Science Libraries (Pandas, PyPlot, matplotlib) Databases, GPUs/CUDA programming, Parallel/distributed computing for data science (Map/Reduce, Spark/Hadoop), working on the cloud (Amazon Web services, Google Cloud Platform, Azure, etc). The course will be programming heavy, with i n-class and take-home programming exercises A project can be optionally included
+
+## DS 303: Introduction to Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Introduction to machine learning: What is learning, learning objectives, data needed. Supervised Learning. Bayesian inference and learning: Inference, na-ve Bayes. Measures of success and loss functions. Generalization and model complexity, bias-variance tradeoff. Training, validation, and testing. Introduction to convex optimization. Convergence and training time. Objective functions for classification, regression, and ranking. Linear regression, Perceptron and logistic regression. MLP and backpropagation. Deep learning, CNN and RNN. SVM, support vector regression, increase in dimensionality through simple kernels. Decision trees. Role of randomization and model combination, bagging and boosting. Unsupervised Learning. Clustering criteria, K-means, DB-scan. Kernel Density estimation. EM-a...
+
+## DS 691: R & D Project
+- Credits: 6
+- Type: Project
+- Description: R & D Project
+
+## DS 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: MSR -Seminar code
+
+## DS 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## DSS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## DSS802: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. seminar

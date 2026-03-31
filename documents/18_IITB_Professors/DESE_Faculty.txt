@@ -1,0 +1,382 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# DESE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Anish Modi
+- Department: DESE
+- Designation: Associate Professor
+- Email: anishmodi@iitb.ac.in
+- Research Group: Thermal Energy Systems Lab
+- Primary Research Area: Energy Systems — Solar Thermal, Power Cycles & Refrigeration
+- Research Interests & Innovation Focus: Research on thermal energy systems, solar thermal energy utilization, power cycles including organic Rankine cycles, polygeneration systems, refrigeration and heat pumps, and waste heat recovery.
+- Notable Projects: Solar thermal energy systems; Organic Rankine cycle optimization; Polygeneration research; Waste heat recovery
+- Key Tools & Platforms: MATLAB, Aspen Plus, thermodynamic modeling, solar thermal testing
+- Industry Collaborations: Solar energy industry; Power generation
+- Awards: Active researcher in thermal energy
+- Innovation Keywords: solar thermal, power cycles, polygeneration, refrigeration, waste heat recovery, ORC, thermal systems
+- Profile: https://www.ese.iitb.ac.in/faculty/anish-modi
+
+## Prof. Asish Kumar Sarangi
+- Department: DESE
+- Designation: Assistant Professor
+- Email: asish.sarangi@iitb.ac.in
+- Research Group: IC Engine & Alternative Fuels Lab
+- Primary Research Area: Energy — Alternative Fuels, Low Temperature Combustion & Engine Modeling
+- Research Interests & Innovation Focus: Research on alternative fuels in IC engines, low temperature combustion strategies, exhaust after-treatment systems, engine modeling and simulation.
+- Notable Projects: Alternative fuel engine testing; Low temperature combustion research; Exhaust after-treatment
+- Key Tools & Platforms: Engine test benches, CFD, GT-SUITE, chemical kinetics, emission analyzers
+- Industry Collaborations: Automotive and engine industry
+- Awards: Active researcher in combustion
+- Innovation Keywords: alternative fuels, IC engines, low temperature combustion, exhaust treatment, engine modeling, emissions
+- Profile: https://www.ese.iitb.ac.in/faculty/asish-sarangi
+
+## Prof. Balasubramaniam Kavaipatti
+- Department: DESE
+- Designation: Associate Professor
+- Email: bala.ramanathan@iitb.ac.in
+- Research Group: Photoelectrochemical Materials Lab
+- Primary Research Area: Energy Materials — Photovoltaics, Transparent Conductors & Fuel Cells
+- Research Interests & Innovation Focus: Research on photovoltaic materials, transparent conducting oxides, photoelectrochemical energy conversion, solid oxide fuel cells and electrolyzer systems.
+- Notable Projects: PV materials development; Transparent conductor research; Solid oxide fuel cell optimization
+- Key Tools & Platforms: Thin film deposition, electrochemical characterization, XRD, spectroscopy
+- Industry Collaborations: Solar cell and fuel cell industry
+- Awards: Active researcher in energy materials
+- Innovation Keywords: photovoltaic materials, transparent conductors, photoelectrochemistry, solid oxide fuel cells, energy conversion
+- Profile: https://www.ese.iitb.ac.in/faculty/balasubramaniam-kavaipatti
+
+## Prof. D. Venkatramanan
+- Department: DESE
+- Designation: Assistant Professor
+- Email: dvenkat@iitb.ac.in
+- Research Group: Power Electronics & Grid Integration Lab
+- Primary Research Area: Energy — Power Electronics, Solar Inverters & EV Charging
+- Research Interests & Innovation Focus: Research on power electronics and control, solar PV inverters, battery energy storage systems, grid-forming controls, and EV charging infrastructure.
+- Notable Projects: Solar PV inverter design; Battery storage systems; Grid-forming controls; EV charging
+- Key Tools & Platforms: Power electronics simulation, MATLAB/Simulink, hardware prototyping, grid simulation
+- Industry Collaborations: Solar and EV industry
+- Awards: Active researcher in power electronics
+- Innovation Keywords: power electronics, solar inverters, battery storage, grid-forming controls, EV charging, grid integration
+- Profile: https://www.dvenkatramanan.com/
+
+## Prof. Dayadeep Monder
+- Department: DESE
+- Designation: Associate Professor
+- Email: dmonder@iitb.ac.in
+- Research Group: Electrochemical Systems Modeling Lab
+- Primary Research Area: Energy — Solid Oxide Cells, Electrode Modeling & Flow Batteries
+- Research Interests & Innovation Focus: Research on solid oxide cells, electrode modeling, photoelectrochemistry, flow batteries, and first principles catalysis for energy applications.
+- Notable Projects: Solid oxide cell modeling; Flow battery optimization; First principles catalysis
+- Key Tools & Platforms: COMSOL, DFT calculations, electrochemical testing, MATLAB
+- Industry Collaborations: Electrochemical energy systems industry
+- Awards: Active researcher in electrochemical modeling
+- Innovation Keywords: solid oxide cells, electrode modeling, photoelectrochemistry, flow batteries, catalysis, electrochemistry
+- Profile: https://www.ese.iitb.ac.in/faculty/dayadeep-monder
+
+## Prof. Gurubalan Annadurai
+- Department: DESE
+- Designation: Assistant Professor
+- Email: guru.a@iitb.ac.in
+- Research Group: HVAC & Energy Recovery Lab
+- Primary Research Area: Energy — HVAC Systems, Energy Recovery & Humidity Control
+- Research Interests & Innovation Focus: Research on HVAC systems, energy recovery exchangers, desiccant humidity control, and heat and mass transfer for building energy efficiency.
+- Notable Projects: Energy recovery exchanger design; Desiccant-based humidity control; HVAC optimization
+- Key Tools & Platforms: HVAC testing facilities, heat and mass transfer measurement, building energy simulation
+- Industry Collaborations: Building HVAC industry
+- Awards: Active researcher in building energy
+- Innovation Keywords: HVAC, energy recovery, desiccant humidity control, heat transfer, mass transfer, building energy efficiency
+- Profile: https://www.ese.iitb.ac.in/faculty/gurubalan-annadurai
+
+## Prof. J. K. Nayak
+- Department: DESE
+- Designation: Professor
+- Email: jknayak@iitb.ac.in
+- Research Group: Solar Energy Lab
+- Primary Research Area: Energy — Solar Thermal & Passive Solar Architecture
+- Research Interests & Innovation Focus: Research on solar thermal energy utilization, passive solar building design, solar heating and cooling systems, and building energy conservation.
+- Notable Projects: Solar thermal systems; Passive solar architecture; Building energy conservation
+- Key Tools & Platforms: Solar thermal testing, building energy simulation, thermal analysis
+- Industry Collaborations: Solar industry and green buildings
+- Awards: Senior faculty in solar energy
+- Innovation Keywords: solar thermal, passive solar, building energy, solar heating, architecture, energy conservation
+- Profile: https://www.ese.iitb.ac.in/faculty/j-k-nayak
+
+## Prof. Karthik Sasihithlu
+- Department: DESE
+- Designation: Assistant Professor
+- Email: ksasihithlu@ese.iitb.ac.in
+- Research Group: Light-Matter Interaction Lab
+- Primary Research Area: Energy — Metamaterials, Thin Film PV & Energy Transport in Photosynthesis
+- Research Interests & Innovation Focus: Research on light-matter interaction, metamaterials for energy applications, thin film solar PV optimization, and energy transport mechanisms in photosynthetic systems.
+- Notable Projects: Metamaterials for solar energy; Thin film PV optimization; Photosynthesis energy transport
+- Key Tools & Platforms: Electromagnetic simulation, thin film characterization, optical testing
+- Industry Collaborations: Solar PV and photonics industry
+- Awards: Active researcher in light-matter interaction
+- Innovation Keywords: light-matter interaction, metamaterials, thin film solar, energy transport, photosynthesis, nanophotonics
+- Profile: https://www.ese.iitb.ac.in/faculty/karthik-sasihithlu
+
+## Prof. Lalit Kumar
+- Department: DESE
+- Designation: Associate Professor
+- Email: lalit.kumar@iitb.ac.in
+- Research Group: Complex Fluids & Battery Thermal Lab
+- Primary Research Area: Energy — Battery Thermal Management, Multiphase Flow & Water Purification
+- Research Interests & Innovation Focus: Research on bulk and interfacial rheology, battery thermal management systems, complex multiphase flow, and water purification technologies.
+- Notable Projects: Battery thermal management; Complex multiphase flow; Water purification research
+- Key Tools & Platforms: Rheometry, thermal imaging, flow visualization, computational modeling
+- Industry Collaborations: Battery and water treatment industry
+- Awards: Active researcher in thermal management
+- Innovation Keywords: battery thermal management, rheology, multiphase flow, water purification, complex fluids
+- Profile: https://www.ese.iitb.ac.in/faculty/lalit-kumar
+
+## Prof. Manaswita Bose
+- Department: DESE
+- Designation: Associate Professor
+- Email: manaswita.bose@iitb.ac.in
+- Research Group: Granular & Multiphase Flow Lab
+- Primary Research Area: Energy — Granular Materials, Coal Gasification & Combustion
+- Research Interests & Innovation Focus: Research on granular materials flow, complex fluid dynamics, multiphase flows, coal gasification and combustion modeling.
+- Notable Projects: Coal gasification research; Multiphase flow simulation; Granular flow analysis
+- Key Tools & Platforms: CFD, DEM simulation, experimental flow facilities, combustion diagnostics
+- Industry Collaborations: Energy and process industry
+- Awards: Active researcher in multiphase flows
+- Innovation Keywords: granular flow, multiphase flows, coal gasification, combustion, complex fluids, DEM simulation
+- Profile: https://www.ese.iitb.ac.in/faculty/manaswita-bose
+
+## Prof. Manoj Neergat
+- Department: DESE
+- Designation: Professor
+- Email: nmanoj@iitb.ac.in
+- Research Group: Electrochemistry & Fuel Cell Lab
+- Primary Research Area: Energy — Fuel Cells, Flow Batteries & Supercapacitors
+- Research Interests & Innovation Focus: Research on DMFC, PEMFC fuel cells, flow batteries, electrochemical impedance spectroscopy, supercapacitors, and electrocatalysis for energy applications.
+- Notable Projects: Fuel cell development (DMFC, PEMFC); Flow battery research; Supercapacitor development
+- Key Tools & Platforms: Electrochemical testing, impedance spectroscopy, fuel cell test stations, materials characterization
+- Industry Collaborations: Fuel cell and energy storage industry
+- Awards: Active researcher in electrochemistry
+- Innovation Keywords: fuel cells, flow batteries, impedance spectroscopy, supercapacitors, electrochemistry, electrocatalysis, PEMFC
+- Profile: https://www.ese.iitb.ac.in/faculty/manoj-neergat
+
+## Prof. Prakash Chandra Ghosh
+- Department: DESE
+- Designation: Associate Professor
+- Email: pcghosh@iitb.ac.in
+- Research Group: Hydrogen & Fuel Cell Lab
+- Primary Research Area: Energy — Hydrogen Production, Hybrid Fuel Cells & CFD Modeling
+- Research Interests & Innovation Focus: Research on hydrogen production, hybrid fuel cells, CFD modeling of fuel cells, and high-temperature polymer electrolyte fuel cells.
+- Notable Projects: Hydrogen production systems; Hybrid fuel cell development; Fuel cell CFD modeling
+- Key Tools & Platforms: CFD (COMSOL, ANSYS), hydrogen testing, fuel cell test stations
+- Industry Collaborations: Hydrogen energy industry
+- Awards: Active researcher in hydrogen and fuel cells
+- Innovation Keywords: hydrogen production, fuel cells, CFD modeling, HT-PEFC, hybrid systems, electrochemical engineering
+- Profile: https://www.ese.iitb.ac.in/faculty/prakash-chandra-ghosh
+
+## Prof. Pratibha Sharma
+- Department: DESE
+- Designation: Professor
+- Email: pratibha_sharma@iitb.ac.in
+- Research Group: Hydrogen Storage Materials Lab
+- Primary Research Area: Energy — Solid State Hydrogen Storage & Photovoltaic Materials
+- Research Interests & Innovation Focus: Research on solid state hydrogen storage materials, hydrogen storage systems design, and photovoltaic materials development.
+- Notable Projects: Hydrogen storage material development; Storage system design; PV materials research
+- Key Tools & Platforms: Materials synthesis, characterization (XRD, SEM, TGA), hydrogen storage testing
+- Industry Collaborations: Hydrogen and solar energy industry
+- Awards: Active researcher in hydrogen storage
+- Innovation Keywords: hydrogen storage, solid state storage, photovoltaic materials, metal hydrides, energy materials
+- Profile: https://www.ese.iitb.ac.in/faculty/pratibha-sharma
+
+## Prof. Rajesh Gupta
+- Department: DESE
+- Designation: Professor
+- Email: rajeshgupta@iitb.ac.in
+- Research Group: Solar PV Diagnostics Lab
+- Primary Research Area: Energy — Solar PV Module Diagnostics, Reliability & Performance
+- Research Interests & Innovation Focus: Research on solar PV cell and module diagnostics, reliability assessment, performance monitoring, and degradation analysis of photovoltaic systems.
+- Notable Projects: PV module diagnostic techniques; Reliability assessment; Performance monitoring; Degradation analysis
+- Key Tools & Platforms: I-V characterization, EL/PL imaging, thermal imaging, outdoor monitoring systems
+- Industry Collaborations: Solar PV industry
+- Awards: Active researcher in PV diagnostics
+- Innovation Keywords: solar PV diagnostics, module reliability, PV performance, degradation analysis, photovoltaic testing
+- Profile: https://www.ese.iitb.ac.in/faculty/rajesh-gupta
+
+## Prof. Rangan Banerjee
+- Department: DESE
+- Designation: Professor
+- Email: rangan@iitb.ac.in
+- Research Group: Energy Systems Engineering Lab
+- Primary Research Area: Energy Policy — Energy Management, Demand Side Management & Power Planning
+- Research Interests & Innovation Focus: Research on energy management and efficiency, demand side management, energy modeling, power systems planning, cogeneration, and sustainable energy systems.
+- Notable Projects: Energy systems modeling; Demand side management; Power systems planning; Cogeneration optimization
+- Key Tools & Platforms: Energy modeling tools (TIMES, MARKAL), optimization, techno-economic analysis
+- Industry Collaborations: Energy utilities and policy organizations
+- Awards: Active researcher in energy systems and policy
+- Innovation Keywords: energy management, demand side management, energy modeling, power planning, cogeneration, sustainability, energy policy
+- Profile: https://www.ese.iitb.ac.in/faculty/rangan-banerjee
+
+## Prof. Sagar Mitra
+- Department: DESE
+- Designation: Professor
+- Email: sagar.mitra@iitb.ac.in
+- Research Group: Electrochemical Energy Laboratory
+- Primary Research Area: Energy Storage — Li-ion Batteries, Na-ion Batteries & Solid-State Batteries
+- Research Interests & Innovation Focus: Research on lithium-ion batteries, sodium-ion batteries, metal-sulphur batteries, solid-state batteries, and advanced electrode materials for energy storage.
+- Notable Projects: Li-ion battery research; Na-ion battery development; Metal-sulphur batteries; Solid-state battery innovation
+- Key Tools & Platforms: Electrochemical testing, battery cell fabrication, materials synthesis, characterization (XRD, SEM, TEM)
+- Industry Collaborations: Battery and energy storage industry
+- Awards: Leading researcher in battery technology
+- Innovation Keywords: lithium-ion batteries, sodium-ion batteries, solid-state batteries, metal-sulphur, electrode materials, energy storage
+- Profile: https://www.ese.iitb.ac.in/faculty/sagar-mitra
+
+## Prof. Sankara Sarma V. Tatiparti
+- Department: DESE
+- Designation: Associate Professor
+- Email: sankara@iitb.ac.in
+- Research Group: Hybrid Electrochemical Energy Lab
+- Primary Research Area: Energy — Hydrogen Storage, Hybrid Energy Storage & Nanostructured Materials
+- Research Interests & Innovation Focus: Research on hydrogen storage, hybrid electrochemical energy storage, nanostructured materials for energy applications, and electron microscopy characterization.
+- Notable Projects: Hydrogen storage materials; Hybrid energy storage; Nanostructured energy materials
+- Key Tools & Platforms: Electron microscopy (TEM, SEM), materials synthesis, electrochemical testing
+- Industry Collaborations: Energy storage materials industry
+- Awards: Active researcher in energy storage
+- Innovation Keywords: hydrogen storage, hybrid energy storage, nanostructured materials, electron microscopy, electrochemical storage
+- Profile: https://www.ese.iitb.ac.in/faculty/sankara-sarma-v-tatiparti
+
+## Prof. Santanu Bandyopadhyay
+- Department: DESE
+- Designation: Professor
+- Email: santanub@iitb.ac.in
+- Research Group: Process Integration & Energy Systems Lab
+- Primary Research Area: Energy — Process Integration, Pinch Analysis & Industrial Energy Conservation
+- Research Interests & Innovation Focus: Research on process integration, pinch analysis, industrial energy conservation, renewable energy systems design, and heat exchanger network synthesis.
+- Notable Projects: Pinch analysis for industrial processes; Process integration optimization; Renewable energy system design
+- Key Tools & Platforms: Pinch analysis tools, process simulation, optimization software
+- Industry Collaborations: Process industry and energy conservation
+- Awards: Leading researcher in process integration
+- Innovation Keywords: process integration, pinch analysis, industrial energy conservation, renewable energy systems, heat exchanger networks
+- Profile: https://www.ese.iitb.ac.in/faculty/santanu-bandyopadhyay
+
+## Prof. Shaibal K. Sarkar
+- Department: DESE
+- Designation: Associate Professor
+- Email: shaibal.sarkar@iitb.ac.in
+- Research Group: Thin Film Materials Lab
+- Primary Research Area: Energy Materials — Perovskite Solar Cells & Atomic Layer Deposition
+- Research Interests & Innovation Focus: Research on perovskite solar cells, transparent conducting oxides, and atomic layer deposition for energy device fabrication.
+- Notable Projects: Perovskite solar cell development; ALD for energy devices; TCO optimization
+- Key Tools & Platforms: Atomic layer deposition, thin film characterization, solar cell fabrication
+- Industry Collaborations: Solar cell industry
+- Awards: Active researcher in thin film energy devices
+- Innovation Keywords: perovskite solar cells, atomic layer deposition, transparent conductors, thin films, energy devices
+- Profile: https://www.ese.iitb.ac.in/faculty/shaibal-k-sarkar
+
+## Prof. Shireesh B. Kedare
+- Department: DESE
+- Designation: Professor (Director IITB)
+- Email: director@iitb.ac.in
+- Research Group: Concentrating Solar Technologies Lab
+- Primary Research Area: Energy — Concentrating Solar, Thermal Storage & Renewable Process Heat
+- Research Interests & Innovation Focus: Research on concentrating solar technologies, thermal energy storage, and renewable energy for process industries. Currently serving as Director of IIT Bombay.
+- Notable Projects: Concentrating solar thermal systems; Thermal energy storage; Director of IIT Bombay
+- Key Tools & Platforms: Solar concentrator testing, thermal storage characterization, energy system modeling
+- Industry Collaborations: Solar thermal and process industry
+- Awards: Director IIT Bombay; Leading solar energy researcher
+- Innovation Keywords: concentrating solar, thermal storage, renewable energy, process heat, solar thermal, CSP
+- Profile: https://www.ese.iitb.ac.in/faculty/shireesh-b-kedare
+
+## Prof. Siddavatam Ravi Prakash Reddy
+- Department: DESE
+- Designation: Assistant Professor
+- Email: sraviprakash@iitb.ac.in
+- Research Group: Electric Drives & Power Electronics Lab
+- Primary Research Area: Energy — Motor Drives for EVs, EV Charging & Power Converters
+- Research Interests & Innovation Focus: Research on motor drives for electric vehicles, EV charging systems, power electronic converter design and control.
+- Notable Projects: EV motor drive design; EV charging infrastructure; Power converter optimization
+- Key Tools & Platforms: MATLAB/Simulink, power electronics hardware, motor test benches
+- Industry Collaborations: Electric vehicle and power electronics industry
+- Awards: Active researcher in EV drives
+- Innovation Keywords: motor drives, electric vehicles, EV charging, power electronics, converter design, motor control
+- Profile: https://www.ese.iitb.ac.in/faculty/siddavatam-ravi-prakash-reddy
+
+## Prof. Srinivas Seethamraju
+- Department: DESE
+- Designation: Associate Professor
+- Email: s.srinivas@iitb.ac.in
+- Research Group: Process Design & Simulation Lab
+- Primary Research Area: Energy — Process Design, Fischer-Tropsch Synthesis & Waste to Energy
+- Research Interests & Innovation Focus: Research on process design and simulation, Fischer-Tropsch synthesis, gasification, and waste to energy conversion processes.
+- Notable Projects: Fischer-Tropsch synthesis optimization; Waste to energy process design; Gasification research
+- Key Tools & Platforms: Aspen Plus, process simulation, reactor design, experimental reactors
+- Industry Collaborations: Chemical process and waste management industry
+- Awards: Active researcher in process design
+- Innovation Keywords: process design, Fischer-Tropsch, gasification, waste to energy, process simulation, chemical engineering
+- Profile: https://www.ese.iitb.ac.in/faculty/srinivas-seethamraju
+
+## Prof. Suneet Singh
+- Department: DESE
+- Designation: Professor
+- Email: suneet.singh@iitb.ac.in
+- Research Group: Nuclear & Thermal Engineering Lab
+- Primary Research Area: Energy — Nuclear Reactor Stability, Solar Thermal & Numerical Methods
+- Research Interests & Innovation Focus: Research on nuclear reactor stability analysis, advanced numerical methods for heat transfer, solar thermal energy, and heat conduction analysis.
+- Notable Projects: Nuclear reactor stability; Solar thermal modeling; Advanced numerical methods for heat transfer
+- Key Tools & Platforms: MATLAB, nuclear simulation codes, FEM/FDM methods, thermal analysis
+- Industry Collaborations: Nuclear and solar energy industry
+- Awards: Active researcher in nuclear and thermal engineering
+- Innovation Keywords: nuclear reactor, stability analysis, solar thermal, numerical methods, heat conduction, thermal engineering
+- Profile: https://www.ese.iitb.ac.in/faculty/suneet-singh
+
+## Prof. Suryanarayana Doolla
+- Department: DESE
+- Designation: Professor
+- Email: suryad@iitb.ac.in
+- Research Group: Smart Grids & Microgrids Lab
+- Primary Research Area: Energy — Smart Grids, Microgrids & Distributed Energy Resources
+- Research Interests & Innovation Focus: Research on smart grids, microgrids, converter control for distributed energy, and grid integration of renewable energy resources.
+- Notable Projects: Microgrid design and control; Smart grid optimization; Renewable grid integration; Converter control
+- Key Tools & Platforms: MATLAB/Simulink, real-time simulation (OPAL-RT), microgrid hardware testbed
+- Industry Collaborations: Power utility and smart grid industry
+- Awards: Active researcher in smart grids
+- Innovation Keywords: smart grids, microgrids, converter control, grid integration, distributed energy, renewable integration
+- Profile: https://www.ese.iitb.ac.in/faculty/suryanarayana-doolla
+
+## Prof. V. S. S. Pavan Kumar Hari
+- Department: DESE
+- Designation: Assistant Professor
+- Email: pavanhari@iitb.ac.in
+- Research Group: Electrical Machines & Drives Lab
+- Primary Research Area: Energy — Electrical Machines, Wind Generators & Magnetic Gears
+- Research Interests & Innovation Focus: Research on electrical machines, power electronics, wind turbine generators, magnetic gears, and EV drive systems.
+- Notable Projects: Wind turbine generator design; Magnetic gear development; EV motor systems
+- Key Tools & Platforms: FEA for electromagnetics, MATLAB, machine design software, prototype testing
+- Industry Collaborations: Wind energy and EV industry
+- Awards: Active researcher in electrical machines
+- Innovation Keywords: electrical machines, wind generators, magnetic gears, power electronics, EV systems, motor design
+- Profile: https://www.ese.iitb.ac.in/faculty/pavan-hari
+
+## Prof. Venkatasailanathan Ramadesigan
+- Department: DESE
+- Designation: Associate Professor
+- Email: venkatr@iitb.ac.in
+- Research Group: Battery Modeling & Grid Storage Lab
+- Primary Research Area: Energy — Battery Modeling, Fuel Cell Modeling & Grid-Level Storage
+- Research Interests & Innovation Focus: Research on Li/metal-ion battery modeling, fuel cell modeling, grid-level energy storage optimization, and battery management systems.
+- Notable Projects: Battery electrochemical modeling; Fuel cell performance prediction; Grid storage optimization; BMS development
+- Key Tools & Platforms: COMSOL, MATLAB, electrochemical modeling, battery testing equipment
+- Industry Collaborations: Battery and grid storage industry
+- Awards: Active researcher in battery modeling
+- Innovation Keywords: battery modeling, fuel cell modeling, grid storage, battery management systems, electrochemical modeling
+- Profile: https://www.ese.iitb.ac.in/faculty/venkat-ramadesigan
+
+## Prof. Zakir Hussain Rather
+- Department: DESE
+- Designation: Associate Professor
+- Email: zakir.rather@iitb.ac.in
+- Research Group: Renewable Grid Integration Lab
+- Primary Research Area: Energy — Grid Integration of Renewables, Power System Dynamics & Smart Grid
+- Research Interests & Innovation Focus: Research on grid integration of renewables, power system dynamics, EV grid integration, smart grid technologies, and wide area monitoring systems.
+- Notable Projects: Renewable grid integration; Power system dynamics; EV grid integration; WAMS
+- Key Tools & Platforms: Power system simulation (PSS/E, PowerWorld), MATLAB, SCADA systems
+- Industry Collaborations: Power utility and renewable energy industry
+- Awards: Active researcher in grid integration
+- Innovation Keywords: grid integration, renewables, power system dynamics, EV integration, smart grid, WAMS, power systems
+- Profile: https://www.ese.iitb.ac.in/faculty/zakir-rather

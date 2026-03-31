@@ -1,0 +1,853 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IIT Bombay Research Groups & Innovation Labs
+
+
+## ADCPS: AI Policy Group
+- Focus Area: AI governance, labour AI, judiciary AI, responsible AI
+- Key Professors: Anupam Guha
+- Innovation Themes: AI governance, labour AI, judiciary AI, responsible AI
+
+## ADCPS: Climate & Energy Policy Group
+- Focus Area: Climate justice, clean energy, water policy
+- Key Professors: Ajay Deshpande, Anjali Sharma, Ishani Mukherjee, N. C. Narayanan, Vinish Kumar Kathuria
+- Innovation Themes: Climate justice, clean energy, water policy
+
+## ADCPS: Digital Governance Lab
+- Focus Area: DPI, data policy, digital platforms, innovation governance
+- Key Professors: Ajay Deshpande, Himanshu Kulkarni, Nitin Kareer, Shishir K. Jha
+- Innovation Themes: DPI, data policy, digital platforms, innovation governance
+
+## Aerospace: Computational & Experimental Aerodynamics
+- Focus Area: CFD algorithms, hypersonic flows, rarefied gas dynamics, SPH methods, panel methods, experimental aerodynamics, flow visualization, shock tubes
+- Key Professors: Prof. Arnab Roy, Prof. Avijit Chatterjee, Prof. Dhwanil Shukla, Prof. G. R. Shevare, Prof. Ganapathi Bhat, Prof. J. C. Mandal, Prof. Jadav Chandra Mandal, Prof. Kowsik Bodi, Prof. Krishnendu Sinha, Prof. Murali Damodaran, Prof. Prabhu Ramachandran, Prof. Rajkumar S. Pant, Prof. S. D. Sharma, Prof. Sudarshan Kumar, Prof. Vineeth Nair, Prof. Viren Menezes
+- Innovation Themes: CFD algorithms, hypersonic flows, rarefied gas dynamics, SPH methods, panel methods, experimental aerodynamics, flow visualization, shock tubes
+
+## Aerospace: Defense & Strategic Technology
+- Focus Area: Missile technology, BrahMos, naval aviation, stealth, strategic defense programs
+- Key Professors: Dr. A. Sivathanu Pillai, Prof. Shripad Mahulikar, R ADM Philipose PG
+- Innovation Themes: Missile technology, BrahMos, naval aviation, stealth, strategic defense programs
+
+## Aerospace: Dynamics, Control & Guidance
+- Focus Area: Flight mechanics, guidance laws, UAV control, spacecraft dynamics, hardware-in-loop simulation, bio-inspired flight, reinforcement learning, flight simulation
+- Key Professors: Prof. Abhijit Gogulapati, Prof. Aditya Paranjape, Prof. Aniruddha Sinha, Prof. Arnab Roy, Prof. Ashok Joshi, Prof. Avijit Chatterjee, Prof. Dhwanil Shukla, Prof. G. R. Shevare, Prof. Harshad Khadilkar, Prof. Hemendra Arya, Prof. J. C. Mandal, Prof. Jadav Chandra Mandal, Prof. K. Sudhakar, Prof. Krishna Kumar, Prof. Murali Damodaran, Prof. Prabhu Ramachandran, Prof. Rohit Gupta, Prof. Rohit V. Nanavati, Prof. S. D. Sharma, Prof. Shashi Ranjan Kumar, Prof. Vineeth Nair, Prof. Viren Menezes
+- Innovation Themes: Flight mechanics, guidance laws, UAV control, spacecraft dynamics, hardware-in-loop simulation, bio-inspired flight, reinforcement learning, flight simulation
+
+## Aerospace: Hypersonic Aerothermodynamics
+- Focus Area: Hypersonic flows, shock-boundary layer interaction, MHD control, scramjet, reentry vehicles, high-enthalpy flows, shock waves
+- Key Professors: Prof. Kowsik Bodi, Prof. Krishnendu Sinha, Prof. Viren Menezes
+- Innovation Themes: Hypersonic flows, shock-boundary layer interaction, MHD control, scramjet, reentry vehicles, high-enthalpy flows, shock waves
+
+## Aerospace: Lighter-Than-Air Systems
+- Focus Area: Airship design, high-altitude platforms, aerostats, LTA aerodynamics, evolutionary optimization
+- Key Professors: Prof. Dhwanil Shukla, Prof. Rajkumar S. Pant
+- Innovation Themes: Airship design, high-altitude platforms, aerostats, LTA aerodynamics, evolutionary optimization
+
+## Aerospace: Propulsion & Combustion
+- Focus Area: Turbomachinery, axial compressors, fuel atomization, solid rockets, hypersonic combustion, scramjet, alternative fuels, infrared stealth, advanced propulsion
+- Key Professors: Dr. V. Venkateswara Rao, Prof. A. M. Pradeep, Prof. Bhupendra Khandelwal, Prof. G. R. Shevare, Prof. Hrishikesh Gadgil, Prof. Krishnendu Haldar, Prof. Krishnendu Sinha, Prof. Nagendra Kumar, Prof. Shripad Mahulikar, Prof. Sudarshan Kumar, Prof. T. Chandra Sekar
+- Innovation Themes: Turbomachinery, axial compressors, fuel atomization, solid rockets, hypersonic combustion, scramjet, alternative fuels, infrared stealth, advanced propulsion
+
+## Aerospace: Structures & Materials
+- Focus Area: Composite mechanics, aeroelasticity, smart materials, wave propagation, SHM, multiscale modeling, uncertainty quantification, impact mechanics, plate theories, design optimization
+- Key Professors: Prof. Abhijit Gogulapati, Prof. Amuthan Ramabathiran, Prof. Chandra Sekhar Yerramalli, Prof. Krishnendu Haldar, Prof. Mira Mitra, Prof. N. K. Naik, Prof. P. J. Guruprasad, Prof. Prasanna M. Mujumdar, Prof. R. P. Shimpi, Prof. S. C. Lakkad, Prof. Susmita Naskar, Prof. Vineeth Nair
+- Innovation Themes: Composite mechanics, aeroelasticity, smart materials, wave propagation, SHM, multiscale modeling, uncertainty quantification, impact mechanics, plate theories, design optimization
+
+## AI / ML Group
+- Focus Area: Machine Learning, NLP, RL, Game Theory
+- Key Professors: Assoc. Prof. Preethi Jyothi, Assoc. Prof. Swaprava Nath, Asst. Prof. Abir De, Asst. Prof. Arpit Agarwal, Asst. Prof. Avishek Ghosh, Prof. Bharat Adsul, Prof. Ganesh Ramakrishnan, Prof. Shivaram Kalyanakrishnan, Prof. Sunita Sarawagi
+- Innovation Themes: LLMs, multilingual AI, responsible AI, robotics, data-efficient ML, federated learning, mechanism design
+
+## BSBE: BioMEMS & Nanomedicine Lab
+- Focus Area: Diagnostic devices, nanomedicine, photothermal therapy
+- Key Professors: R. Srivastava
+- Innovation Themes: Diagnostic devices, nanomedicine, photothermal therapy
+
+## BSBE: Computational Neuroscience Lab
+- Focus Area: Neural circuit models, electrophysiology, bladder biophysics
+- Key Professors: R. Manchanda
+- Innovation Themes: Neural circuit models, electrophysiology, bladder biophysics
+
+## BSBE: Cryo-EM Facility
+- Focus Area: Cryo-EM, cryo-ET, time-resolved structural biology
+- Key Professors: A. Kumar, P. Bhaumik, S. Kaledhonkar
+- Innovation Themes: Cryo-EM, cryo-ET, time-resolved structural biology
+
+## BSBE: Microfluidics & Biosensors Lab
+- Focus Area: Lab-on-chip, point-of-care diagnostics, single-cell analysis
+- Key Professors: D. Paul
+- Innovation Themes: Lab-on-chip, point-of-care diagnostics, single-cell analysis
+
+## BSBE: Proteomics & Biomarker Discovery Lab
+- Focus Area: Mass spectrometry, cancer biomarkers, tropical disease proteomics
+- Key Professors: S. Srivastava
+- Innovation Themes: Mass spectrometry, cancer biomarkers, tropical disease proteomics
+
+## BSBE: Tumor Immunology & CAR-T Lab
+- Focus Area: Immunotherapy, CAR-T cells, cancer biomarkers
+- Key Professors: R. Purwar
+- Innovation Themes: Immunotherapy, CAR-T cells, cancer biomarkers
+
+## C-MInDS (AI Security & Robustness)
+- Focus Area: Adversarial ML, AI safety, federated learning security
+- Key Professors: Prof. Arjun Bhagoji
+- Innovation Themes: LLM red-teaming, adversarial robustness, fraud detection, content moderation, Byzantine attacks
+
+## C-MInDS (Distributed & Federated ML)
+- Focus Area: Federated learning, distributed optimization, privacy
+- Key Professors: Asst. Prof. Avishek Ghosh, Prof. Pranay Sharma
+- Innovation Themes: Federated learning, differential privacy, communication-efficient ML, Riemannian FL
+
+## C-MInDS (ML/DL Foundations)
+- Focus Area: ML theory, kernel methods, deep learning foundations, scalable training
+- Key Professors: Prof. Arjun Bhagoji, Prof. D. Manjunath, Prof. Parthe Pandit, Prof. Pranay Sharma, Prof. Pratik Jawanpuria, Prof. Pushpak Bhattacharyya, Prof. Sunita Sarawagi
+- Innovation Themes: Kernel machines, neural network generalization, Riemannian optimization, feature learning, overfitting theory
+
+## C-MInDS (Networks & Stochastic Systems)
+- Focus Area: Communication networks, queueing, network economics
+- Key Professors: Prof. D. Manjunath
+- Innovation Themes: Network pricing, sensor networks, wireless random graphs, traffic engineering
+
+## C-MInDS (NLP & Indian Languages)
+- Focus Area: NLP, machine translation, sentiment analysis
+- Key Professors: Prof. Ganesh Ramakrishnan, Prof. Pushpak Bhattacharyya
+- Innovation Themes: IndoWordNet, Hindi/Marathi MT, sarcasm detection, cognitive NLP, 18 Indian languages
+
+## CFDVS (Formal Verification/PL)
+- Focus Area: Verification, Compilers, Program Analysis
+- Key Professors: Assoc. Prof. Ashutosh Gupta, Assoc. Prof. S Akshay, Prof. Amitabha Sanyal, Prof. G. Sivakumar, Prof. Supratik Chakraborty, Prof. Supratim Biswas, Prof. Uday Khedker
+- Innovation Themes: Software verification, compiler optimization, neural net verification, biological modeling, GCC tools
+
+## Chemical Engineering: Aerosol Science & Engineering Lab
+- Focus Area: Aerosol measurement, air quality, climate effects, cookstove emissions
+- Key Professors: Chandra Venkataraman
+- Innovation Themes: Aerosol measurement, air quality, climate effects, cookstove emissions
+
+## Chemical Engineering: Biochemical Engineering Lab
+- Focus Area: Cyanobacteria, biofuels, enzyme engineering, photosynthetic production
+- Key Professors: Pramod P Wangikar, Santosh Noronha
+- Innovation Themes: Cyanobacteria, biofuels, enzyme engineering, photosynthetic production
+
+## Chemical Engineering: Complex Fluids & Polymer Lab
+- Focus Area: Cellulose nanofibers, polymer crystallization, renewable materials
+- Key Professors: Devang V Khakhar, Guruswamy Kumaraswamy, Hemant Nanavati, Jyoti Seth, Mahesh S Tirumkudulu, P Sunthar, Venkat Gundabala
+- Innovation Themes: Cellulose nanofibers, polymer crystallization, renewable materials
+
+## Chemical Engineering: Electrochemical Systems Lab
+- Focus Area: Li-ion battery modelling, BMS, fuel cells, energy storage
+- Key Professors: Bharatkumar Suthar, Nagappan Ramaswamy, Sonali Das
+- Innovation Themes: Li-ion battery modelling, BMS, fuel cells, energy storage
+
+## Chemical Engineering: Electrohydrodynamics Lab
+- Focus Area: Drop deformation, electrospray, vesicle dynamics, dielectrophoresis
+- Key Professors: Rochish Madhukar Thaokar
+- Innovation Themes: Drop deformation, electrospray, vesicle dynamics, dielectrophoresis
+
+## Chemical Engineering: Evolutionary & Synthetic Biology Lab
+- Focus Area: Gene regulation evolution, stochastic expression, antibiotic resistance
+- Key Professors: Abhijit Majumder, Ganesh A Viswanathan, Sarika Mehra, Sharad Bhartiya, Supreet Saini
+- Innovation Themes: Gene regulation evolution, stochastic expression, antibiotic resistance
+
+## Chemical Engineering: Metabolic Engineering Lab
+- Focus Area: Flux analysis, strain engineering, biofuels, synthetic biology
+- Key Professors: K V Venkatesh
+- Innovation Themes: Flux analysis, strain engineering, biofuels, synthetic biology
+
+## Chemical Engineering: Nanomaterials & Colloids Lab
+- Focus Area: Nanoparticle synthesis, water treatment, mesoporous materials
+- Key Professors: Jayesh Bellare, Mahesh S Tirumkudulu, Rajdip Bandyopadhyaya
+- Innovation Themes: Nanoparticle synthesis, water treatment, mesoporous materials
+
+## Chemical Engineering: Process Control Lab
+- Focus Area: MPC, real-time optimization, soft sensors, data-driven control
+- Key Professors: Kannan M Moudgalya, Mani Bhushan, Ravindra D Gudi, Sachin C Patwardhan, Sayantan Dutta, Sharad Bhartiya, Sujit S Jogwar
+- Innovation Themes: MPC, real-time optimization, soft sensors, data-driven control
+
+## Chemical Engineering: Sustainable Engineering Lab
+- Focus Area: LCA, biomass supply chain, bioenergy, multi-objective optimization
+- Key Professors: Amol Subhedar, Sanjay M Mahajani, Yogendra Shastri
+- Innovation Themes: LCA, biomass supply chain, bioenergy, multi-objective optimization
+
+## Chemistry: C-H Activation & Catalysis Group
+- Focus Area: C-H functionalization, transition-metal catalysis, drug synthesis
+- Key Professors: Arnab Dutta, Chandra M. R. Volla, Debabrata Maiti, Deepti Kalsi, Irishi N. N. Namboothiri, Krishna P. Kaliappan, Rodney A. Fernandes, Santosh J. Gharpure, Satyadeep Waiba, Venkateswarlu Yarlagadda
+- Innovation Themes: C-H functionalization, transition-metal catalysis, drug synthesis
+
+## Chemistry: Chemical Biology & Nucleic Acids Group
+- Focus Area: RNA therapeutics, glycochemistry, vaccines, chemical biology
+- Key Professors: Pradeepkumar P. I., Shobhna Kapoor, Suvarn S. Kulkarni
+- Innovation Themes: RNA therapeutics, glycochemistry, vaccines, chemical biology
+
+## Chemistry: Computational Chemistry Group
+- Focus Area: DFT, reaction mechanisms, molecular magnets, electronic structure
+- Key Professors: Rajarshi Chakrabarti
+- Innovation Themes: DFT, reaction mechanisms, molecular magnets, electronic structure
+
+## Chemistry: Energy Materials & Electrocatalysis Group
+- Focus Area: Water splitting, CO2 reduction, supercapacitors, CNT devices
+- Innovation Themes: Water splitting, CO2 reduction, supercapacitors, CNT devices
+
+## Chemistry: Spectroscopy & Photophysics Group
+- Focus Area: Single-molecule, ultrafast, laser spectroscopy
+- Key Professors: Anindya Datta, Arindam Chowdhury, G. Naresh Patwari
+- Innovation Themes: Single-molecule, ultrafast, laser spectroscopy
+
+## Chemistry: Supramolecular & MOF Chemistry Group
+- Focus Area: MOFs, sensing, self-assembly, phosphonates
+- Key Professors: Chidambar Kulkarni, Sanjog S. Nagarkar
+- Innovation Themes: MOFs, sensing, self-assembly, phosphonates
+
+## Civil: Construction Tech & Mgmt
+- Focus Area: BIM, concrete materials, construction safety, AI
+- Key Professors: Prof. Prakash Nanthagopalan, Prof. Swathy Manohar, Prof. Venkata Santosh Kumar Delhi
+- Innovation Themes: Blast-resistant concrete, counter-IED, BIM/AR/VR for safety, PPE detection via CV, 3D printing concrete
+
+## Civil: Geotechnical Engineering
+- Focus Area: Soil mechanics, foundations, earthquake geotechnics, geosynthetics
+- Key Professors: Prof. Ashish Juneja, Prof. B.V.S. Viswanadham, Prof. D. N. Singh, Prof. Dasaka Murty, Prof. Deepankar Choudhury, Prof. J. N. Mandal, Prof. Pinom Ering, Prof. Prasenjit Basu, Prof. Santiram Chatterjee, Prof. Saptarshi Kundu
+- Innovation Themes: Seismic foundations, ATAL SETU bridge, centrifuge modelling, geosynthetics, tunnelling, offshore pipelines, landslide hazard, environmental geotechnics
+
+## Civil: Ocean Engineering
+- Focus Area: Coastal, marine structures, wave energy, storm surge
+- Key Professors: Prof. Ananth Wuppukondur, Prof. Balaji Ramakrishnan, Prof. Gowri Shankar C., Prof. Indu J, Prof. M. C. Deo, Prof. Manasa R. Behera, Prof. Santiram Chatterjee, Prof. Srineash V. K.
+- Innovation Themes: Marine renewable energy, storm surge, nature-based coastal solutions, reef breakwaters, AI for ocean prediction, mangrove protection
+
+## Civil: Remote Sensing
+- Focus Area: Satellite hydrology, glaciers, precipitation, thermal RS
+- Key Professors: Prof. Eswar Rajasekaran, Prof. Indu J, Prof. Raaj Ramsankaran
+- Innovation Themes: Himalayan glacier modelling, SAR, rainfall estimation, evapotranspiration, heat island, NASA JPL
+
+## Civil: Structural Engineering
+- Focus Area: Earthquake engineering, structural dynamics, SHM, composites
+- Key Professors: Prof. Alok Goyal, Prof. Arghadeep Laskar, Prof. Deepankar Choudhury, Prof. Jayadipta Ghosh, Prof. Kamal Bajoria, Prof. Mandar Inamdar, Prof. Meera Raghunandan, Prof. Naresh Chandiramani, Prof. Pradipta Banerji, Prof. R. S. Jangid, Prof. Ravi Sinha, Prof. Sauvik Banerjee, Prof. Siddhartha Ghosh, Prof. Swagata Basu, Prof. Swathy Manohar, Prof. Tarun Kant, Prof. Yogesh Desai
+- Innovation Themes: Seismic risk, base isolation, SHM, disaster management, bridge resilience, heritage conservation, GFRP, mechanobiology, smart materials
+
+## Civil: Transportation Systems
+- Focus Area: Traffic modelling, safety, highway design, ITS, pavement
+- Key Professors: Prof. Avijit Maji, Prof. Dharamveer Singh, Prof. Gopal R. Patil, Prof. K. V. Krishna Rao, Prof. Nagendra R. Velaga, Prof. Solomon Debbarma, Prof. Tom V. Mathew, Prof. Vedagiri Perumal
+- Innovation Themes: Mixed traffic simulation, Mumbai metro planning, freight logistics, driver behavior, autonomous vehicles, pavement recycling, highway optimization
+
+## Civil: Water Resources
+- Focus Area: Hydrology, climate, floods, groundwater, reservoir optimization
+- Key Professors: Prof. Arpita Mondal, Prof. Eswar Rajasekaran, Prof. Indu J, Prof. Janga Reddy Manne, Prof. Kapil Gupta, Prof. Raaj Ramsankaran, Prof. Riddhi Singh, Prof. Subimal Ghosh, Prof. T. I. Eldho, Prof. V. Jothiprakash
+- Innovation Themes: IPCC climate research, Mumbai flood mitigation, groundwater modelling, drought monitoring, reservoir optimization, swarm intelligence
+
+## Climate Studies: Hydroclimatology Group
+- Focus Area: Monsoon, urban flooding, glacier hydrology, satellite RS
+- Key Professors: Akshaya Nikumbh, RAAJ Ramsankaran, Subimal Ghosh
+- Innovation Themes: Monsoon, urban flooding, glacier hydrology, satellite RS
+
+## Climate Studies: Tropical Climate Dynamics Group
+- Focus Area: Monsoon dynamics, cloud-resolving modelling, extreme events
+- Key Professors: S. Ravichandran, Vishal Dixit
+- Innovation Themes: Monsoon dynamics, cloud-resolving modelling, extreme events
+
+## CSRE: Agro-informatics Group
+- Focus Area: Precision farming, crop monitoring, plant phenomics, GIS
+- Key Professors: J. Adinarayana, Soumyashree Kar
+- Innovation Themes: Precision farming, crop monitoring, plant phenomics, GIS
+
+## CSRE: Geospatial AI Lab
+- Focus Area: Deep learning for RS, geospatial AI, IoT, knowledge AI
+- Key Professors: Surya S. Durbha
+- Innovation Themes: Deep learning for RS, geospatial AI, IoT, knowledge AI
+
+## CSRE: SAR & Polarimetry Lab
+- Focus Area: PolSAR, InSAR, cryosphere RS, microwave RS
+- Key Professors: Avik Bhattacharya, Karthikeyan Lanka, Y.S. Rao
+- Innovation Themes: PolSAR, InSAR, cryosphere RS, microwave RS
+
+## CTARA: RUDRA Water Lab
+- Focus Area: Water modelling, remote sensing for water, watershed management
+- Key Professors: Parmeshwar D. Udmale, Pennan Chinnasamy
+- Innovation Themes: Water modelling, remote sensing for water, watershed management
+
+## CTARA: Rural Development & Policy
+- Focus Area: Public policy, rural development, nutrition, governance
+- Key Professors: Pankaj Sekhsaria, Rupal Dalal, Sanjay Chahande, Satish B. Agnihotri, Shambu Prasad C, Subodh Wagle
+- Innovation Themes: Public policy, rural development, nutrition, governance
+
+## CTARA: Rural Energy Group
+- Focus Area: Solar PV, biogas, energy efficiency, rural MSME
+- Key Professors: Amit Arora, Anand B. Rao, Priya Jadhav, Satish B. Agnihotri, Subodh Wagle
+- Innovation Themes: Solar PV, biogas, energy efficiency, rural MSME
+
+## CUSE: Sustainable Infrastructure Group
+- Focus Area: LCA, water treatment, urban metabolism, circular economy
+- Key Professors: Prasad Pathak
+- Innovation Themes: LCA, water treatment, urban metabolism, circular economy
+
+## CUSE: Urban Science Lab
+- Focus Area: Urban data science, geospatial analytics, smart cities, health
+- Key Professors: Arnab Jana, Himanshu Burte
+- Innovation Themes: Urban data science, geospatial analytics, smart cities, health
+
+## Databases / InfoLab
+- Focus Area: Database Systems, Query Optimization
+- Key Professors: Assoc. Prof. Saketha Nath J, Asst. Prof. Suraj Shetiya, Prof. Krithi Ramamritham, Prof. S. Sudarshan, Prof. Soumen Chakrabarti
+- Innovation Themes: Database testing, IoT, real-time systems, fairness in DB, query optimization, smart energy
+
+## DESE: Batteries & Electrochemical Storage
+- Focus Area: Li-ion, Na-ion, solid-state batteries, fuel cells, flow batteries, supercapacitors, hydrogen storage
+- Key Professors: Prof. Balasubramaniam Kavaipatti, Prof. Dayadeep Monder, Prof. Lalit Kumar, Prof. Manoj Neergat, Prof. Prakash Chandra Ghosh, Prof. Pratibha Sharma, Prof. Sagar Mitra, Prof. Sankara Sarma V. Tatiparti, Prof. Venkatasailanathan Ramadesigan
+- Innovation Themes: Li-ion, Na-ion, solid-state batteries, fuel cells, flow batteries, supercapacitors, hydrogen storage
+
+## DESE: Power Electronics & Smart Grids
+- Focus Area: Smart grids, microgrids, EV charging, power converters, motor drives, renewable grid integration
+- Key Professors: Prof. D. Venkatramanan, Prof. Siddavatam Ravi Prakash Reddy, Prof. Suryanarayana Doolla, Prof. Zakir Hussain Rather
+- Innovation Themes: Smart grids, microgrids, EV charging, power converters, motor drives, renewable grid integration
+
+## DESE: Process Design & Energy Policy
+- Focus Area: Energy modeling, process design, Fischer-Tropsch, waste-to-energy, energy management, demand side management
+- Key Professors: Prof. Anish Modi, Prof. Rangan Banerjee, Prof. Santanu Bandyopadhyay, Prof. Srinivas Seethamraju
+- Innovation Themes: Energy modeling, process design, Fischer-Tropsch, waste-to-energy, energy management, demand side management
+
+## DESE: Solar & Renewable Energy
+- Focus Area: Solar thermal, PV diagnostics, concentrating solar, solar architecture, renewable energy systems
+- Key Professors: Prof. Anish Modi, Prof. Balasubramaniam Kavaipatti, Prof. D. Venkatramanan, Prof. J. K. Nayak, Prof. Pratibha Sharma, Prof. Rajesh Gupta, Prof. Shaibal K. Sarkar, Prof. Shireesh B. Kedare, Prof. Suneet Singh, Prof. Zakir Hussain Rather
+- Innovation Themes: Solar thermal, PV diagnostics, concentrating solar, solar architecture, renewable energy systems
+
+## DESE: Thermal & Combustion Systems
+- Focus Area: Solar thermal, biomass gasification, IC engines, HVAC, nuclear thermal, coal gasification, process integration
+- Key Professors: Prof. Anish Modi, Prof. Asish Kumar Sarangi, Prof. J. K. Nayak, Prof. Lalit Kumar, Prof. Manaswita Bose, Prof. Rangan Banerjee, Prof. Suneet Singh
+- Innovation Themes: Solar thermal, biomass gasification, IC engines, HVAC, nuclear thermal, coal gasification, process integration
+
+## Development Engineering
+- Focus Area: Public Policy, Rural Dev
+- Key Professors: Prof. Milind Sohoni
+- Innovation Themes: Water management, rural development, GCT, government advisory
+
+## DSSE: Entrepreneurial Finance & Venture Funding
+- Focus Area: Startup financing, venture capital, startup valuation, angel investing, capital markets, IPO, exit strategies
+- Key Professors: Asst. Prof. Ramesh Kuruva, Asst. Prof. Sankalp Pratap, Prof. Trupti Mishra, Raj Jaswa, Umakant Jayaram
+- Innovation Themes: Startup financing, venture capital, startup valuation, angel investing, capital markets, IPO, exit strategies
+
+## DSSE: Entrepreneurship & Innovation Education
+- Focus Area: Entrepreneurship pedagogy, design thinking, innovation management, pre-incubation, IDEAS program, WiE, craft economy entrepreneurship
+- Key Professors: Anand Deshpande, Assoc. Prof. Lina Sonne Vyas, Asst. Prof. Sankalp Pratap, Prof. Anuradha Narasimhan, Prof. Devdip Purkayastha, Rizwan Koita, Vinay Dabholkar
+- Innovation Themes: Entrepreneurship pedagogy, design thinking, innovation management, pre-incubation, IDEAS program, WiE, craft economy entrepreneurship
+
+## DSSE: Industry Leaders & Ecosystem Builders
+- Focus Area: Silicon Valley ecosystem, tech company building, product strategy, global scaling, strategy consulting, corporate innovation, academia-industry interface
+- Key Professors: Anand Deshpande, Asst. Prof. Sankalp Pratap, Prof. Rajesh Gopinathan, Raj Jaswa, Umakant Jayaram
+- Innovation Themes: Silicon Valley ecosystem, tech company building, product strategy, global scaling, strategy consulting, corporate innovation, academia-industry interface
+
+## DSSE: Social & Inclusive Innovation
+- Focus Area: Social entrepreneurship, inclusive innovation, gender & entrepreneurship, base of pyramid, digital livelihoods, frugal innovation, sustainable finance, circular economy
+- Key Professors: Assoc. Prof. Lina Sonne Vyas, Prof. Devdip Purkayastha, Rizwan Koita
+- Innovation Themes: Social entrepreneurship, inclusive innovation, gender & entrepreneurship, base of pyramid, digital livelihoods, frugal innovation, sustainable finance, circular economy
+
+## DSSE: Technology Commercialization & IP
+- Focus Area: Lab-to-market translation, technology licensing, IP management, R&D commercialization, patent strategy, deeptech ventures
+- Key Professors: Assoc. Prof. Lina Sonne Vyas, Prof. Anuradha Narasimhan, Prof. Devdip Purkayastha, Rajkumar Hirwani
+- Innovation Themes: Lab-to-market translation, technology licensing, IP management, R&D commercialization, patent strategy, deeptech ventures
+
+## Earth Sciences: Geomechanics & CO2 Lab
+- Focus Area: CO2 sequestration, CBM, unconventional energy, rock physics
+- Key Professors: Trilok Nath Singh, Vikram Vishal
+- Innovation Themes: CO2 sequestration, CBM, unconventional energy, rock physics
+
+## Earth Sciences: Seismology Group
+- Focus Area: Seismic tomography, FWI, earthquake studies
+- Key Professors: Anand Singh, Bharath Shekar, Gollapally Mohan, Kumar Hemant Singh, Satish Maurya, Srinivasa Rao Gangumalla, Vivek Kumar
+- Innovation Themes: Seismic tomography, FWI, earthquake studies
+
+## Earth Sciences: Structural Geology Group
+- Focus Area: Shear zones, GPS tectonics, fold-thrust belts, salt tectonics
+- Key Professors: Kumar Hemant Singh, Malay Mukul, Munukutla Radhakrishna, Santanu Banerjee, Soumyajit Mukherjee
+- Innovation Themes: Shear zones, GPS tectonics, fold-thrust belts, salt tectonics
+
+## Education Technology
+- Focus Area: EdTech, CS Education
+- Key Professors: Prof. Sridhar Iyer
+- Innovation Themes: MOOCs, school CS education, Computer Masti, teacher training
+
+## Educational Technology: Learning Analytics Group
+- Focus Area: AI in education, educational data mining, adaptive learning
+- Key Professors: Ramkumar Rajendran
+- Innovation Themes: AI in education, educational data mining, adaptive learning
+
+## Educational Technology: Learning Design Lab
+- Focus Area: Technology-enhanced learning, STEM education, MOOC design
+- Key Professors: Ritayan Mitra, Sahana Murthy, Sridhar Iyer
+- Innovation Themes: Technology-enhanced learning, STEM education, MOOC design
+
+## Electrical: Biomedical Electronics & Brain-Computer Interfaces
+- Focus Area: Biomedical ICs, sensor interfaces, neuromodulation, BCI, wearable devices, hearing aids, energy harvesting
+- Key Professors: Prof. Laxmeesha Somappa, Prof. Maryam Shojaei Baghini, Prof. Prem C. Pandey, Prof. Subhasis Chaudhuri
+- Innovation Themes: Biomedical ICs, sensor interfaces, neuromodulation, BCI, wearable devices, hearing aids, energy harvesting
+
+## Electrical: Communications & Signal Processing
+- Focus Area: Wavelets, information theory, digital communications, speech/audio, statistical signal processing, adaptive filtering, music IR
+- Key Professors: Prof. Abhay Karandikar, Prof. Animesh Kumar, Prof. Bikash Kumar Dey, Prof. D. Manjunath, Prof. Jayakrishnan U. Nair, Prof. Joseph John, Prof. Kumar Appaiah, Prof. Nikhil Karamchandani, Prof. Preeti Rao, Prof. Prem C. Pandey, Prof. R. K. Shevgaonkar, Prof. Rahul Singh, Prof. Rajbabu Velmurugan, Prof. Saravanan Vijayakumaran, Prof. Shabbir N. Merchant, Prof. Shalabh Gupta, Prof. Sharayu Moharir, Prof. Sibi Raj B. Pillai, Prof. Subhasis Chaudhuri, Prof. U. B. Desai, Prof. Vikram M. Gadre
+- Innovation Themes: Wavelets, information theory, digital communications, speech/audio, statistical signal processing, adaptive filtering, music IR
+
+## Electrical: Computer Vision, AI & Deep Learning
+- Focus Area: Image processing, medical imaging, computational pathology, super-resolution, face recognition, deep learning
+- Key Professors: Prof. Amit Sethi, Prof. Subhasis Chaudhuri
+- Innovation Themes: Image processing, medical imaging, computational pathology, super-resolution, face recognition, deep learning
+
+## Electrical: Control Systems & Robotics
+- Focus Area: Behavioral systems, optimal control, multi-agent systems, autonomous vehicles, formation control, feedback systems
+- Key Professors: Prof. Debasattam Pal, Prof. Debraj Chakraborty, Prof. Dwaipayan Mukherjee, Prof. Harish K. Pillai, Prof. Madhu N. Belur, Prof. Parthib Khound, Prof. S. D. Agashe, Prof. Vivek S. Borkar
+- Innovation Themes: Behavioral systems, optimal control, multi-agent systems, autonomous vehicles, formation control, feedback systems
+
+## Electrical: MEMS, Sensors & Quantum Technologies
+- Focus Area: MEMS/NEMS, optomechanics, quantum sensing, NV centers, biosensors, energy harvesting, quantum devices
+- Key Professors: Prof. Ashwin A. Seshia, Prof. Bhaskaran Muralidharan, Prof. Kasturi Saha, Prof. Pradeep R. Nair, Prof. Sandip Mondal, Prof. Siddharth Tallur
+- Innovation Themes: MEMS/NEMS, optomechanics, quantum sensing, NV centers, biosensors, energy harvesting, quantum devices
+
+## Electrical: Networks, Learning & Information Theory
+- Focus Area: Wireless networks, content delivery, online learning, crowdsourcing, game theory, queueing theory, stochastic systems
+- Key Professors: Prof. Abhay Karandikar, Prof. D. Manjunath, Prof. Gaurav S. Kasbekar, Prof. Jayakrishnan U. Nair, Prof. Manoj Gopalkrishnan, Prof. Nikhil Karamchandani, Prof. Prasanna Chaporkar, Prof. Shabbir N. Merchant, Prof. Shalabh Gupta, Prof. Sharayu Moharir, Prof. Vivek S. Borkar
+- Innovation Themes: Wireless networks, content delivery, online learning, crowdsourcing, game theory, queueing theory, stochastic systems
+
+## Electrical: Photovoltaics & Solar Energy
+- Focus Area: Silicon solar cells, PV module reliability, accelerated testing, solar manufacturing, India PV standards
+- Key Professors: Prof. Anil Kottantharayil, Prof. Narendra S. Shiradkar
+- Innovation Themes: Silicon solar cells, PV module reliability, accelerated testing, solar manufacturing, India PV standards
+
+## Electrical: Power Electronics & Drives
+- Focus Area: Converters, renewable energy, EV motors, microgrids, SiC/GaN devices, solar PV inverters, circuit simulation
+- Key Professors: Prof. Anshuman Shukla, Prof. Baylon G. Fernandes, Prof. Kishore Chatterjee, Prof. Mahesh B. Patil, Prof. Mukul C. Chandorkar, Prof. Rajesh H. Zele, Prof. Sandeep Anand, Prof. Saurabh Lodha, Prof. Vivek Agarwal
+- Innovation Themes: Converters, renewable energy, EV motors, microgrids, SiC/GaN devices, solar PV inverters, circuit simulation
+
+## Electrical: Power Systems & Smart Grid
+- Focus Area: Power system analysis, HVDC, FACTS, smart grid, electricity markets, demand response, wide-area monitoring, transformer engineering
+- Key Professors: Prof. Anil Kulkarni, Prof. Anupama Kowli, Prof. Himanshu J. Bahirat, Prof. Shreevardhan A. Soman, Prof. Shrikrishna A. Khaparde, Prof. Shrikrishna V. Kulkarni
+- Innovation Themes: Power system analysis, HVDC, FACTS, smart grid, electricity markets, demand response, wide-area monitoring, transformer engineering
+
+## Electrical: Quantum Transport & Computing
+- Focus Area: Quantum transport, qubits, topological materials, thermoelectrics, quantum dot systems, superconducting devices
+- Key Professors: Prof. Bhaskaran Muralidharan, Prof. Sandip Mondal
+- Innovation Themes: Quantum transport, qubits, topological materials, thermoelectrics, quantum dot systems, superconducting devices
+
+## Electrical: RF, Microwave & Optical Communications
+- Focus Area: Antennas, RF electronics, fiber optics, mm-wave ICs, silicon photonics, radar, laser systems
+- Key Professors: Prof. Arun S., Prof. D. K. Sharma, Prof. Dipankar Saha, Prof. Girish Kumar, Prof. Girish P. Saraph, Prof. Jayanta Mukherjee, Prof. Joseph John, Prof. Kasturi Saha, Prof. Kumar Appaiah, Prof. Laxmeesha Somappa, Prof. Maryam Shojaei Baghini, Prof. R. K. Shevgaonkar, Prof. Rahul Singh, Prof. Rajesh H. Zele, Prof. Sachin Patkar, Prof. Shalabh Gupta, Prof. Subhananda Chakrabarti
+- Innovation Themes: Antennas, RF electronics, fiber optics, mm-wave ICs, silicon photonics, radar, laser systems
+
+## Electrical: Semiconductor Devices & Nanoelectronics
+- Focus Area: FinFETs, GaN, MOSFET reliability, solar cells, quantum dots, 2D materials, 3D-IC, CMOS scaling
+- Key Professors: Prof. Apurba Laha, Prof. Bhaskaran Muralidharan, Prof. Dipankar Saha, Prof. Pradeep R. Nair, Prof. Saurabh Lodha, Prof. Siddhartha P. Duttagupta, Prof. Souvik Mahapatra, Prof. Subhananda Chakrabarti, Prof. Swaroop Ganguly, Prof. Udayan Ganguly
+- Innovation Themes: FinFETs, GaN, MOSFET reliability, solar cells, quantum dots, 2D materials, 3D-IC, CMOS scaling
+
+## Electrical: Spintronics & Neuromorphic Computing
+- Focus Area: Spin-torque devices, neuromorphic hardware, memory devices (RRAM, FeRAM), AI hardware, Ising machines
+- Key Professors: Prof. Ashwin A. Tulapurkar, Prof. Debanjan Bhowmik, Prof. Dipankar Saha, Prof. Saurabh Lodha, Prof. Udayan Ganguly, Prof. Veeresh Deshpande
+- Innovation Themes: Spin-torque devices, neuromorphic hardware, memory devices (RRAM, FeRAM), AI hardware, Ising machines
+
+## Electrical: VLSI, EDA & High Performance Computing
+- Focus Area: VLSI design, formal verification, FPGA, analog/RF ICs, mixed-signal, circuit testing, HPC
+- Key Professors: Prof. Amit Sethi, Prof. D. K. Sharma, Prof. Harihar Narayanan, Prof. Jayanta Mukherjee, Prof. Madhav P. Desai, Prof. Mahesh B. Patil, Prof. Sachin Patkar, Prof. Virendra Singh
+- Innovation Themes: VLSI design, formal verification, FPGA, analog/RF ICs, mixed-signal, circuit testing, HPC
+
+## Embedded & RT Systems
+- Focus Area: Embedded Systems, Robotics
+- Key Professors: Assoc. Prof. Kavi Arya
+- Innovation Themes: e-Yantra robotics education, RTOS, IoT, Mahindra M&M
+
+## ESED: Air Quality Group
+- Focus Area: PM characterization, indoor air, fog chemistry, aerosol
+- Key Professors: Anil Kumar Dikshit, Harish Phuleria, Manoranjan Sahu, Srinidhi Balasubramanian
+- Innovation Themes: PM characterization, indoor air, fog chemistry, aerosol
+
+## ESED: Bioremediation Group
+- Focus Area: Petroleum degradation, biosurfactants, anaerobic treatment
+- Key Professors: Indrajit Chakraborty, Suparna Mukherji
+- Innovation Themes: Petroleum degradation, biosurfactants, anaerobic treatment
+
+## ESED: Water Treatment Group
+- Focus Area: Drinking water, fluoride/arsenic, membrane, resource recovery
+- Key Professors: Munish Chandel, Sanjeev Chaudhari, Swatantra Pratap Singh
+- Innovation Themes: Drinking water, fluoride/arsenic, membrane, resource recovery
+
+## HSS: Cognitive Psychology Lab
+- Focus Area: Cognitive processes, neuroimaging, eye tracking, EEG
+- Key Professors: Azizuddin Khan, Mrinmoyi Kulkarni, Pooja Purang, Rashmi Gupta, Shweta Chawak, Tanmay Bhattacharya
+- Innovation Themes: Cognitive processes, neuroimaging, eye tracking, EEG
+
+## HSS: Indian Knowledge Systems Group
+- Focus Area: Indian science history, Sanskrit, Paninian grammar
+- Key Professors: Malhar A. Kulkarni
+- Innovation Themes: Indian science history, Sanskrit, Paninian grammar
+
+## HSS: Philosophy of AI Group
+- Focus Area: AI ethics, philosophy of mind, cognitive science
+- Key Professors: Amrita Banerjee, C. D. Sebastian, Malhar A. Kulkarni, Mrinal Kaul, Pravesh Jung Golay, Rajakishore Nath, Ranjan K. Panda, Ratikanta Panda, Sharmistha Saha, Siby K George, Vikram Singh Sirola
+- Innovation Themes: AI ethics, philosophy of mind, cognitive science
+
+## HSS: STS Group
+- Focus Area: Science-Technology-Society, sociology of science
+- Key Professors: Ahonaa Roy, Anush Kapadia, D. Parthasarathy, Ilito H. Achumi, K. Ramasubramanian, Kushal Deb, Mahendra Shahare, Malhar A. Kulkarni, Raile R. Ziipao, Ramesh Bairy T S, Rowena Robinson, Sarmistha Pattanaik, Suryakant Waghmore
+- Innovation Themes: Science-Technology-Society, sociology of science
+
+## IDC School of Design: Design for Future Lab
+- Focus Area: Sustainable mobility, EV design, design futures
+- Key Professors: Nishant Sharma, Sugandh Malhotra
+- Innovation Themes: Sustainable mobility, EV design, design futures
+
+## IDC School of Design: Digital Fabrication Lab
+- Focus Area: 3D printing, laser cutting, CNC, digital craft
+- Key Professors: Avinash Shende
+- Innovation Themes: 3D printing, laser cutting, CNC, digital craft
+
+## IDC School of Design: HFSS Studios
+- Focus Area: Strategic design, human factors, ergonomics, systems
+- Key Professors: G. G. Ray, Swati Pal, Vivek Kant
+- Innovation Themes: Strategic design, human factors, ergonomics, systems
+
+## IDC School of Design: Honey Bee Network
+- Focus Area: Grassroots innovation, frugal innovation, traditional knowledge
+- Key Professors: Anil K. Gupta
+- Innovation Themes: Grassroots innovation, frugal innovation, traditional knowledge
+
+## IDC School of Design: IDfIN (Interaction Design for Indian Needs)
+- Focus Area: HCI for developing regions, Indian language interfaces, UX
+- Key Professors: Anirudha Joshi, Ravi Poovaiah, Swati Agarwal
+- Innovation Themes: HCI for developing regions, Indian language interfaces, UX
+
+## IDC School of Design: IMXD Lab
+- Focus Area: VR/AR, immersive media, spatial computing, XR education
+- Key Professors: Alka Hingorani, Jayesh Pillai, Mazhar Kamran, Nishant Sharma, P. Kumaresan, Prasad Bokil, Purba Joshi, Raja Mohanty, Yohan Soharb Engineer
+- Innovation Themes: VR/AR, immersive media, spatial computing, XR education
+
+## IDC School of Design: Information Design Lab
+- Focus Area: HCI, data visualization, ed-tech platforms
+- Key Professors: G. V. Sreekumar, Mandar Rane, Prasad Bokil, Venkatesh Rajamanickam
+- Innovation Themes: HCI, data visualization, ed-tech platforms
+
+## IDC School of Design: Shenoy Innovation Studio
+- Focus Area: Innovation by design, product innovation, design thinking
+- Key Professors: B. K. Chakravarthy
+- Innovation Themes: Innovation by design, product innovation, design thinking
+
+## IEOR: Logistics, Supply Chain & Transportation OR
+- Focus Area: Railway optimization, logistics, supply chain, transportation network design, vehicle routing, manufacturing, healthcare operations, simulation, digital twin
+- Key Professors: Assoc. Prof. Ketan Savla, Asst. Prof. Priyank Sinha, Prof. Jayendran Venkateswaran, Prof. Narayan Rangaraj, Prof. P.G. Awate
+- Innovation Themes: Railway optimization, logistics, supply chain, transportation network design, vehicle routing, manufacturing, healthcare operations, simulation, digital twin
+
+## IEOR: Machine Learning, Reinforcement Learning & AI
+- Focus Area: Machine learning, deep learning, reinforcement learning, stochastic approximation, robust AI, neural networks, data mining, optimization for ML, online learning
+- Key Professors: Assoc. Prof. Manjesh Kumar Hanawal, Assoc. Prof. P. Balamurugan, Assoc. Prof. Saurabh Jain, Asst. Prof. Arunselvan Ramaswamy, Prof. Madhu N. Belur, Prof. N. Hemachandra
+- Innovation Themes: Machine learning, deep learning, reinforcement learning, stochastic approximation, robust AI, neural networks, data mining, optimization for ML, online learning
+
+## IEOR: Mathematical Optimization & Integer Programming
+- Focus Area: Integer programming, convex optimization, polyhedral combinatorics, MINLP, optimization software (Minotaur, Couenne), branch-and-bound, global optimization
+- Key Professors: Assoc. Prof. P. Balamurugan, Assoc. Prof. Urban Larsson, Asst. Prof. Arunselvan Ramaswamy, Asst. Prof. Pietro Belotti, Asst. Prof. Priyank Sinha, Prof. Ashutosh Mahajan, Prof. Avinash Bhardwaj, Prof. Vishnu Narayanan
+- Innovation Themes: Integer programming, convex optimization, polyhedral combinatorics, MINLP, optimization software (Minotaur, Couenne), branch-and-bound, global optimization
+
+## IEOR: Network Science & Game Theory
+- Focus Area: Network science, random graphs, community detection, combinatorial game theory, mechanism design, wireless networks, epidemic spreading, queueing theory
+- Key Professors: Assoc. Prof. Urban Larsson, Asst. Prof. Reinoud Joosten, Asst. Prof. Vinay Kumar B.R., Prof. Veeraruna Kavitha
+- Innovation Themes: Network science, random graphs, community detection, combinatorial game theory, mechanism design, wireless networks, epidemic spreading, queueing theory
+
+## IEOR: Stochastic Control, Finance & Applied Probability
+- Focus Area: Stochastic control, differential games, mathematical finance, viscosity solutions, MDPs, mean-field games, interacting particles, large deviations, applied probability
+- Key Professors: Asst. Prof. Arunselvan Ramaswamy, Asst. Prof. Sarath Yasodharan, Prof. Jayakrishnan U. Nair, Prof. K.S. Mallikarjuna Rao, Prof. Kavita Ramanan, Prof. N. Hemachandra, Prof. Veeraruna Kavitha
+- Innovation Themes: Stochastic control, differential games, mathematical finance, viscosity solutions, MDPs, mean-field games, interacting particles, large deviations, applied probability
+
+## IEOR: Technology for Development & System Dynamics
+- Focus Area: ICT for development, system dynamics, crowd simulation, social impact, urban computing, agent-based modeling, educational technology
+- Key Professors: Prof. Jayendran Venkateswaran, Prof. Om P. Damani
+- Innovation Themes: ICT for development, system dynamics, crowd simulation, social impact, urban computing, agent-based modeling, educational technology
+
+## KCDH: Biostatistics & Disease Modelling
+- Focus Area: Biostatistics, disease modeling, epidemiology, clinical trials, vaccination strategies, mathematical modeling, population health
+- Key Professors: Dr. Parichoy Pal Choudhury, Prof. Siuli Mukhopadhyay
+- Innovation Themes: Biostatistics, disease modeling, epidemiology, clinical trials, vaccination strategies, mathematical modeling, population health
+
+## KCDH: Cancer Biology & Genomics
+- Focus Area: Cancer biomechanics, cancer genomics, telomere biology, precision medicine, cancer risk prediction, breast cancer genomes, computational oncology
+- Key Professors: Asst. Prof. Saket Choudhary, Dr. Parichoy Pal Choudhury, Prof. Shamik Sen, Prof. Shantanu Chowdhury
+- Innovation Themes: Cancer biomechanics, cancer genomics, telomere biology, precision medicine, cancer risk prediction, breast cancer genomes, computational oncology
+
+## KCDH: Computational Biology & Bioinformatics
+- Focus Area: Computational biology, biophysics, chromatin, single-cell genomics, transcriptomics, computational pathology, gene regulation, systems biology
+- Key Professors: Asst. Prof. Saket Choudhary, Prof. Ashutosh Kumar, Prof. Mithun Kumar Mitra, Prof. Pramod P. Wangikar, Prof. Ranjith Padinhateeri
+- Innovation Themes: Computational biology, biophysics, chromatin, single-cell genomics, transcriptomics, computational pathology, gene regulation, systems biology
+
+## KCDH: Digital Health Implementation & Policy
+- Focus Area: Digital health implementation science, AI for clinical decision support, hospital information systems, healthcare informatics, digital transformation, WHO digital health
+- Key Professors: Asst. Prof. Kshitij S. Jadhav, Dr. Karthik Adapa, Prof. Ganesh Ramakrishnan
+- Innovation Themes: Digital health implementation science, AI for clinical decision support, hospital information systems, healthcare informatics, digital transformation, WHO digital health
+
+## KCDH: Health Economics, Policy & Social Sciences
+- Focus Area: Health economics, public health policy, behavioral economics, health equity, social determinants, digital health economics, health informatics
+- Key Professors: Prof. Sarthak Gaurav, Prof. Souvik Banerjee
+- Innovation Themes: Health economics, public health policy, behavioral economics, health equity, social determinants, digital health economics, health informatics
+
+## KCDH: Healthcare Analytics & AI/ML
+- Focus Area: Healthcare AI, medical ML, LLMs in healthcare, federated learning, clinical decision support, radiology AI, medical imaging, NLP for healthcare, data-efficient ML
+- Key Professors: Asst. Prof. Kshitij S. Jadhav
+- Innovation Themes: Healthcare AI, medical ML, LLMs in healthcare, federated learning, clinical decision support, radiology AI, medical imaging, NLP for healthcare, data-efficient ML
+
+## KCDH: Healthcare Operations & ML
+- Focus Area: Online learning, bandits, healthcare resource allocation, reinforcement learning, stochastic optimization, network analytics
+- Key Professors: Assoc. Prof. Manjesh Kumar Hanawal
+- Innovation Themes: Online learning, bandits, healthcare resource allocation, reinforcement learning, stochastic optimization, network analytics
+
+## KCDH: Wearable Health & Digital Diagnostics
+- Focus Area: Optical biosensors, wearable health devices, telemedicine, digital diagnostics, fiber-optic sensors, consumer health, remote monitoring
+- Key Professors: Asst. Prof. Nirmal Punjabi
+- Innovation Themes: Optical biosensors, wearable health devices, telemedicine, digital diagnostics, fiber-optic sensors, consumer health, remote monitoring
+
+## Mathematics: Algebraic Topology
+- Focus Area: Equivariant homotopy, stable homotopy, K-theory, cobordism, topological combinatorics, transfer systems, model structures, operads
+- Key Professors: Assoc. Prof. Rekha Santhanam, Prof. Sudarshan R. Gurjar
+- Innovation Themes: Equivariant homotopy, stable homotopy, K-theory, cobordism, topological combinatorics, transfer systems, model structures, operads
+
+## Mathematics: Combinatorics & Graph Theory
+- Focus Area: Algebraic combinatorics, Hopf algebras, extremal combinatorics, tropical geometry, graph theory, combinatorial designs, Coxeter groups, chip-firing, species theory
+- Key Professors: Assoc. Prof. Rekha Santhanam, Assoc. Prof. Swapneel Mahajan, Prof. Krishnan Sivasubramanian, Prof. Niranjan Balachandran
+- Innovation Themes: Algebraic combinatorics, Hopf algebras, extremal combinatorics, tropical geometry, graph theory, combinatorial designs, Coxeter groups, chip-firing, species theory
+
+## Mathematics: Commutative Algebra & Algebraic Geometry
+- Focus Area: Commutative algebra, Hilbert functions, Rees algebras, local cohomology, Gorenstein rings, algebraic geometry, fundamental groups, affine geometry, algebraic cycles, motives, moduli spaces
+- Key Professors: Assoc. Prof. Saurav Bhaumik, Asst. Prof. Gunja Sachdeva, Asst. Prof. Madhusudan Manjunath, Prof. Ananthnarayan Hariharan, Prof. Jugal K. Verma, Prof. Sudarshan R. Gurjar
+- Innovation Themes: Commutative algebra, Hilbert functions, Rees algebras, local cohomology, Gorenstein rings, algebraic geometry, fundamental groups, affine geometry, algebraic cycles, motives, moduli spaces
+
+## Mathematics: Functional Analysis & Operator Theory
+- Focus Area: Operator theory, C*-algebras, dilations, Hardy spaces, spectral sets, harmonic analysis on Lie groups, reproducing kernel Hilbert spaces, dilation theory, noncommutative probability
+- Key Professors: Assoc. Prof. Bata Krishna Das, Assoc. Prof. Sourav Pal, Prof. Santanu Dey
+- Innovation Themes: Operator theory, C*-algebras, dilations, Hardy spaces, spectral sets, harmonic analysis on Lie groups, reproducing kernel Hilbert spaces, dilation theory, noncommutative probability
+
+## Mathematics: Number Theory & Representation Theory
+- Focus Area: Analytic number theory, L-functions, automorphic forms, Galois representations, p-adic Langlands, quadratic forms, Galois cohomology, central simple algebras, Shimura varieties
+- Key Professors: Assoc. Prof. Sanjoy Pusti, Prof. Niranjan Balachandran, Prof. Preeti Raman, Prof. Ravi Raghunathan, Prof. Sandip Singh
+- Innovation Themes: Analytic number theory, L-functions, automorphic forms, Galois representations, p-adic Langlands, quadratic forms, Galois cohomology, central simple algebras, Shimura varieties
+
+## Mathematics: Numerical Analysis & Scientific Computing
+- Focus Area: Finite element methods, error analysis, adaptive algorithms, numerical PDEs, discontinuous Galerkin, CFD, boundary layer theory, virtual element methods
+- Key Professors: Prof. Amiya Kumar Pani, Prof. Neela Nataraj, Prof. P. Vellaisamy
+- Innovation Themes: Finite element methods, error analysis, adaptive algorithms, numerical PDEs, discontinuous Galerkin, CFD, boundary layer theory, virtual element methods
+
+## Mathematics: PDEs, Geometric Analysis & Control Theory
+- Focus Area: Hyperbolic conservation laws, homogenization, kinetic theory, Yamabe problem, Q-curvature, spectral geometry, controllability of fluid PDEs, several complex variables, Kobayashi metric
+- Key Professors: Assoc. Prof. Debanjana Mitra, Assoc. Prof. Harsha Hutridurga, Asst. Prof. Saikat Mazumdar, Prof. Amiya Kumar Pani, Prof. Neela Nataraj, Prof. Sivaji Ganesh Sista
+- Innovation Themes: Hyperbolic conservation laws, homogenization, kinetic theory, Yamabe problem, Q-curvature, spectral geometry, controllability of fluid PDEs, several complex variables, Kobayashi metric
+
+## Mathematics: Probability, Statistics & Data Science
+- Focus Area: Extreme value theory, random matrices, high-dimensional statistics, time series, free probability, Stein-Chen method, stochastic control, mathematical finance, distribution approximations
+- Key Professors: Assoc. Prof. Radhendushka Srivastava, Asst. Prof. Ayan Bhattacharya, Asst. Prof. Monika Bhattacharjee, Prof. P. Vellaisamy, Prof. Siuli Mukhopadhyay
+- Innovation Themes: Extreme value theory, random matrices, high-dimensional statistics, time series, free probability, Stein-Chen method, stochastic control, mathematical finance, distribution approximations
+
+## Mechanical: Energy, Refrigeration & Cryogenics
+- Focus Area: Heat pumps, refrigeration, cryogenics, solar energy, biomass gasification, renewable fuels, energy conservation
+- Key Professors: Prof. M. V. Rane, Prof. R. Ganesh, Prof. S. L. Bapat, Prof. Sandeep Kumar, Prof. Shrinidhi Pandurangi, Prof. Upendra Bhandarkar
+- Innovation Themes: Heat pumps, refrigeration, cryogenics, solar energy, biomass gasification, renewable fuels, energy conservation
+
+## Mechanical: Manufacturing & Additive Manufacturing
+- Focus Area: Welding, additive manufacturing, metal forming, micromachining, rapid prototyping, friction stir welding, CNC/CAM
+- Key Professors: Prof. Amber Shrivastava, Prof. Amitava De, Prof. Asim Tewari, Prof. Gurminder Singh, Prof. K. P. Karunakaran, Prof. Makarand Kulkarni, Prof. Pradeep Dixit, Prof. Prasanna Gandhi, Prof. Prashant P. Date, Prof. Ramesh Singh, Prof. S. S. Pande, Prof. Suhas S. Joshi, Prof. Vibhor Pandhare
+- Innovation Themes: Welding, additive manufacturing, metal forming, micromachining, rapid prototyping, friction stir welding, CNC/CAM
+
+## Mechanical: Materials Science & Computational Materials
+- Focus Area: Crystal plasticity, experimental mechanics, solidification, casting, thermal transport, materials informatics
+- Key Professors: Prof. Alankar Alankar, Prof. Ankit Jain, Prof. Krishna Jonnalagadda, Prof. Neeraj Kumbhakarna, Prof. R. Ganesh, Prof. Shyam Karagadde
+- Innovation Themes: Crystal plasticity, experimental mechanics, solidification, casting, thermal transport, materials informatics
+
+## Mechanical: MedTech & Innovation
+- Focus Area: Medical device innovation, patient-centric design, biomedical engineering, entrepreneurship, startups
+- Key Professors: Prof. B. Ravi
+- Innovation Themes: Medical device innovation, patient-centric design, biomedical engineering, entrepreneurship, startups
+
+## Mechanical: MEMS, Micro-systems & Acoustics
+- Focus Area: MEMS fabrication, micro-machining, ECDM, acoustics, hearing science, vibration, porous materials
+- Key Professors: Prof. Dnyanesh Pawaskar, Prof. Pradeep Dixit, Prof. Prasanna Gandhi, Prof. Sripriya Ramamoorthy
+- Innovation Themes: MEMS fabrication, micro-machining, ECDM, acoustics, hearing science, vibration, porous materials
+
+## Mechanical: Robotics, Mechatronics & Control
+- Focus Area: Robotics, kinematics, haptics, biomechanics, wearable robots, control systems, mechanism design
+- Key Professors: Prof. Abhishek Gupta, Prof. Anirban Guha, Prof. Darshan S. Shah, Prof. K. Kurien Issac, Prof. Makarand Kulkarni, Prof. P. Seshu, Prof. Prasanna Gandhi, Prof. Priyanshu Agarwal
+- Innovation Themes: Robotics, kinematics, haptics, biomechanics, wearable robots, control systems, mechanism design
+
+## Mechanical: Smart Manufacturing & Industry 4.0
+- Focus Area: Digital twins, Industrial AI, cyber-physical systems, IoT, reliability engineering, predictive maintenance
+- Key Professors: Prof. Asim Tewari, Prof. Vibhor Pandhare
+- Innovation Themes: Digital twins, Industrial AI, cyber-physical systems, IoT, reliability engineering, predictive maintenance
+
+## Mechanical: Solid Mechanics & Fracture
+- Focus Area: Computational mechanics, fracture, contact mechanics, elasticity, structural integrity, wave propagation
+- Key Professors: Prof. Dnyanesh Pawaskar, Prof. Krishna Jonnalagadda, Prof. P. Seshu, Prof. Parag Tandaiya, Prof. R. Ganesh, Prof. S. K. Maiti, Prof. Shrinidhi Pandurangi, Prof. Tanmay Bhandakkar
+- Innovation Themes: Computational mechanics, fracture, contact mechanics, elasticity, structural integrity, wave propagation
+
+## Mechanical: Thermal & Fluids Engineering
+- Focus Area: CFD, heat transfer, multiphase flows, microfluidics, combustion, thermal science, gas dynamics
+- Key Professors: Dr. Anjishnu Choudhury, Prof. Abhijeet Kumar, Prof. Amit Agrawal, Prof. Ankit Jain, Prof. Arunkumar Sridharan, Prof. Asim Tewari, Prof. Atul Sharma, Prof. B. P. Puranik, Prof. Janani Srree Murallidharan, Prof. Neeraj Kumbhakarna, Prof. Pradeep Dixit, Prof. Prateek Anand, Prof. Rajneesh Bhardwaj, Prof. S. V. Prabhu, Prof. Shankar Krishnan, Prof. Upendra Bhandarkar, Prof. Vivek Buwa
+- Innovation Themes: CFD, heat transfer, multiphase flows, microfluidics, combustion, thermal science, gas dynamics
+
+## MEMS: Corrosion Science & Engineering Lab
+- Focus Area: SCC, pitting, hydrogen embrittlement, high-temperature oxidation
+- Key Professors: Aparna Singh, Darothi Bairagi, Karthikeyan Hariharan, Smrutiranjan Parida, V.S. Raja
+- Innovation Themes: SCC, pitting, hydrogen embrittlement, high-temperature oxidation
+
+## MEMS: Energy Storage Materials Lab
+- Focus Area: Li-ion/Na-ion batteries, solid-state batteries, electrode materials
+- Key Professors: Amartya Mukhopadhyay
+- Innovation Themes: Li-ion/Na-ion batteries, solid-state batteries, electrode materials
+
+## MEMS: Extractive Metallurgy Lab
+- Focus Area: Steelmaking thermodynamics, slag chemistry, inclusion engineering
+- Key Professors: Deepoo Kumar, Jayasree Biswas, Somnath Basu, Viswanathan N. Nurni
+- Innovation Themes: Steelmaking thermodynamics, slag chemistry, inclusion engineering
+
+## MEMS: Flexible Electronics Lab
+- Focus Area: OLEDs, organic transistors, biosensors, graphene devices
+- Key Professors: Dipti Gupta
+- Innovation Themes: OLEDs, organic transistors, biosensors, graphene devices
+
+## MEMS: Green Metal Processing Lab
+- Focus Area: E-waste recycling, battery recycling, circular economy metallurgy
+- Key Professors: Jayasree Biswas, N.K. Khosla
+- Innovation Themes: E-waste recycling, battery recycling, circular economy metallurgy
+
+## MEMS: ICME & Microstructure Simulation Lab
+- Focus Area: CALPHAD, additive manufacturing modelling, phase transformations
+- Key Professors: Ajay Singh Panwar, Amrita Bhattacharya, Durga A., M.P. Gururajan
+- Innovation Themes: CALPHAD, additive manufacturing modelling, phase transformations
+
+## MEMS: Nanophotonics & Biosensors Lab
+- Focus Area: Plasmonics, SERS, wearable biosensors, point-of-care diagnostics
+- Key Professors: Dipti Gupta, Shobha Shukla
+- Innovation Themes: Plasmonics, SERS, wearable biosensors, point-of-care diagnostics
+
+## MEMS: Photovoltaics & Optoelectronics Lab
+- Focus Area: Perovskite solar cells, DSSCs, light harvesting materials
+- Key Professors: Aswani Yella, Parag Bhargava, Rajiv O. Dusane
+- Innovation Themes: Perovskite solar cells, DSSCs, light harvesting materials
+
+## MEMS: Polymer Nanocomposites Lab
+- Focus Area: CNT-polymer composites, graphene nanocomposites, melt mixing
+- Key Professors: Arup R. Bhattacharyya, Mithun Chowdhury, Prasanna Kumar Mural
+- Innovation Themes: CNT-polymer composites, graphene nanocomposites, melt mixing
+
+## MEMS: Texture & Microstructural Engineering Lab
+- Focus Area: EBSD, crystallographic texture, thermomechanical processing
+- Key Professors: Durga A., Indradev Samajdar, M.P. Gururajan, Prita Pant, Sandeep Mishra
+- Innovation Themes: EBSD, crystallographic texture, thermomechanical processing
+
+## Physics: Astronomy, Gravitational Waves & Cosmology
+- Focus Area: Gravitational wave detection, LIGO, X-ray astronomy, multi-messenger astrophysics, black holes, quantum gravity, dark matter
+- Key Professors: Dr. Rahul Kashyap, Dr. Varun Bhalerao, Dr. Vikram Rentala, Prof. Archana Pai, Prof. Shankaranarayanan S.
+- Innovation Themes: Gravitational wave detection, LIGO, X-ray astronomy, multi-messenger astrophysics, black holes, quantum gravity, dark matter
+
+## Physics: Condensed Matter Experiments
+- Focus Area: Magnetic materials, semiconductor nanostructures, quantum dots, surface physics, spintronics, magnetocaloric effect, thin films, quantum transport
+- Key Professors: Dr. Maniraj Mahalingam, Dr. Pramod Kumar, Dr. Uditendu Mukhopadhyay, Prof. Avinash V. Mahajan, Prof. K. G. Suresh, Prof. Kantimay Das Gupta, Prof. M. Senthil Kumar, Prof. Subhabrata Dhar, Prof. Suddhasatta Mahapatra
+- Innovation Themes: Magnetic materials, semiconductor nanostructures, quantum dots, surface physics, spintronics, magnetocaloric effect, thin films, quantum transport
+
+## Physics: Condensed Matter Theory
+- Focus Area: Electronic structure, magnetism, topological materials, quantum phase transitions, frustrated magnetism, Weyl semimetals, moiré systems
+- Key Professors: Dr. Gopal Dixit, Dr. Hridis Kumar Pal, Dr. Prashant Kumar, Dr. Sayantika Bhowal, Dr. Soumya Bera, Dr. Sumiran Pujari, Prof. Aftab Alam, Prof. Alok Shukla, Prof. P. P. Singh
+- Innovation Themes: Electronic structure, magnetism, topological materials, quantum phase transitions, frustrated magnetism, Weyl semimetals, moiré systems
+
+## Physics: High Energy Experiments
+- Focus Area: Heavy-ion collisions, ALICE/CERN, particle detectors, radiation sensors, quark-gluon plasma
+- Key Professors: Dr. Debojit Sarkar, Dr. Pradeep Sarin, Dr. Pragya Das, Prof. Basanta Kumar Nandi, Prof. P. P. Singh, Prof. Raghava Varma, Prof. Sadhana Dash
+- Innovation Themes: Heavy-ion collisions, ALICE/CERN, particle detectors, radiation sensors, quark-gluon plasma
+
+## Physics: High Energy Theory
+- Focus Area: QCD, string theory, knot theory, particle phenomenology, neutrino physics, dark matter, cosmology
+- Key Professors: Dr. Kumar Rao, Dr. Manibrata Sen, Prof. Asmita Mukherjee, Prof. P. Ramadevi, Prof. S. Umasankar
+- Innovation Themes: QCD, string theory, knot theory, particle phenomenology, neutrino physics, dark matter, cosmology
+
+## Physics: Optics, Photonics & Nanophotonics
+- Focus Area: Plasmonics, topological photonics, organic semiconductors, nanophotonics, ultrafast spectroscopy, exciton-polaritons, 2D materials
+- Key Professors: Dr. Anshuman Kumar, Dr. Subhaskar Mandal, Prof. Alok Shukla, Prof. Dinesh Kabra, Prof. Parinda Vasa
+- Innovation Themes: Plasmonics, topological photonics, organic semiconductors, nanophotonics, ultrafast spectroscopy, exciton-polaritons, 2D materials
+
+## Physics: Quantum Information & Computing
+- Focus Area: Quantum correlations, quantum computing, quantum thermodynamics, quantum control, quantum simulation, quantum error correction
+- Key Professors: Dr. Himadri Shekhar Dhar, Dr. Sai Vinjanampathy, Dr. Siddhartha Santra, Prof. Suddhasatta Mahapatra
+- Innovation Themes: Quantum correlations, quantum computing, quantum thermodynamics, quantum control, quantum simulation, quantum error correction
+
+## Physics: Soft Matter & Biophysics
+- Focus Area: Active matter, nonlinear dynamics, cell mechanics, colloids, granular materials, stochastic processes, polymer dynamics, molecular motors
+- Key Professors: Dr. Amitabha Nandi, Dr. Nitin Kumar, Dr. Raghunath Chelakkot, Dr. Sunita Srivastava, Prof. Anirban Sain, Prof. Dibyendu Das, Prof. Mithun Kumar Mitra, Prof. Punit Parmananda
+- Innovation Themes: Active matter, nonlinear dynamics, cell mechanics, colloids, granular materials, stochastic processes, polymer dynamics, molecular motors
+
+## Security & Cryptography
+- Focus Area: Network Security, Cryptography
+- Key Professors: Asst. Prof. Abir De, Asst. Prof. Biswabandan Panda, Prof. Bernard Menezes, Prof. G. Sivakumar, Prof. Manoj Prabhakaran
+- Innovation Themes: Network security, cyber laws, applied cryptography
+
+## SJMSOM: Applied AI, Information Systems & Analytics
+- Focus Area: Applied AI, intelligent systems, hyper-personalization, statistical learning, data mining, neural networks, time series, quantitative finance, business analytics
+- Key Professors: Assoc. Prof. Rahul Patil, Assoc. Prof. T. T. Niranjan, Prof. Indrajit Mukherjee, Prof. Omkar D. Palsule-Desai, Prof. Pankaj Dutta, Prof. Rajendra Sonar, Prof. Vinish Kathuria
+- Innovation Themes: Applied AI, intelligent systems, hyper-personalization, statistical learning, data mining, neural networks, time series, quantitative finance, business analytics
+
+## SJMSOM: Economics & Public Policy
+- Focus Area: Industrial economics, energy economics, environmental policy, social exclusion, development economics, public health economics, health economics, regulatory economics
+- Key Professors: Asst. Prof. Piyush Pandey, Asst. Prof. Sawan Rathi, Prof. Ashish Singh, Prof. S. Narayan Rao, Prof. S.V.D. Nageswara Rao, Prof. Sarthak Gaurav, Prof. Trupti Mishra, Prof. Vinish Kathuria
+- Innovation Themes: Industrial economics, energy economics, environmental policy, social exclusion, development economics, public health economics, health economics, regulatory economics
+
+## SJMSOM: Entrepreneurial Finance & Startup Ecosystems
+- Focus Area: Startup financing, venture capital, AI in finance, generative AI, innovation financing, university entrepreneurship, incubation, business turnaround
+- Key Professors: Asst. Prof. Rohan Chinchwadkar
+- Innovation Themes: Startup financing, venture capital, AI in finance, generative AI, innovation financing, university entrepreneurship, incubation, business turnaround
+
+## SJMSOM: Finance & Economics
+- Focus Area: Corporate finance, capital markets, ESG investing, behavioral finance, portfolio management, M&A, financial derivatives, financial engineering, investment banking, financial inclusion
+- Key Professors: Asst. Prof. Piyush Pandey, Asst. Prof. Rohan Chinchwadkar, Asst. Prof. Sudeep R. Bapat, Asst. Prof. Ved Beloskar, Prof. Dipak Gupta, Prof. S. Narayan Rao, Prof. S.V.D. Nageswara Rao, Prof. Trupti Mishra, Prof. Varadraj Bapat
+- Innovation Themes: Corporate finance, capital markets, ESG investing, behavioral finance, portfolio management, M&A, financial derivatives, financial engineering, investment banking, financial inclusion
+
+## SJMSOM: Marketing & Consumer Behavior
+- Focus Area: Consumer psychology, branding, digital marketing, advertising, social media, green marketing, health communication, consumer well-being, customer engagement & experience
+- Key Professors: Asst. Prof. Srinwanti H. Chaudhury, Prof. Arti D. Kalro, Prof. Dinesh Sharma, Prof. Mayank Pareek
+- Innovation Themes: Consumer psychology, branding, digital marketing, advertising, social media, green marketing, health communication, consumer well-being, customer engagement & experience
+
+## SJMSOM: Operations, Supply Chain & Decision Sciences
+- Focus Area: Operations research, supply chain management, warehouse design, reverse logistics, quality engineering, data analytics, MCDM, circular economy, sustainable supply chains
+- Key Professors: Assoc. Prof. Rahul Patil, Assoc. Prof. T. T. Niranjan, Prof. Gajendra Kumar Adil, Prof. Indrajit Mukherjee, Prof. Omkar D. Palsule-Desai, Prof. Pankaj Dutta
+- Innovation Themes: Operations research, supply chain management, warehouse design, reverse logistics, quality engineering, data analytics, MCDM, circular economy, sustainable supply chains
+
+## SJMSOM: Organizational Behavior, HRM & Leadership
+- Focus Area: Mindfulness, yoga & workplace spirituality, leadership development, dignified workspaces, algorithmic management, worker cooperatives, organizational transformation
+- Key Professors: Asst. Prof. Soumya G. Rajan, Prof. Ashish Pandey, Prof. Dipak Gupta
+- Innovation Themes: Mindfulness, yoga & workplace spirituality, leadership development, dignified workspaces, algorithmic management, worker cooperatives, organizational transformation
+
+## SJMSOM: Strategy, Innovation & Competitiveness
+- Focus Area: Competitiveness, management of technology & innovation, strategic management, international business, knowledge networks, technology diffusion, innovation management
+- Key Professors: Asst. Prof. Sawan Rathi, Prof. Kirankumar Momaya, Prof. Mayank Pareek
+- Innovation Themes: Competitiveness, management of technology & innovation, strategic management, international business, knowledge networks, technology diffusion, innovation management
+
+## Software Engineering
+- Focus Area: Software Architecture, Design
+- Key Professors: Prof. Rushikesh K. Joshi
+- Innovation Themes: Component architectures, graph databases, parallel computing platforms
+
+## SYNERG (Systems/Networks)
+- Focus Area: Networks, OS, Cloud, 5G
+- Key Professors: Assoc. Prof. Kameswari Chebrolu, Assoc. Prof. Kavi Arya, Assoc. Prof. Mythili Vutukuru, Assoc. Prof. Purushottam Kulkarni, Asst. Prof. Biswabandan Panda, Prof. Bernard Menezes, Prof. Bhaskaran Raman, Prof. G. Sivakumar, Prof. Umesh Bellur, Prof. Varsha Apte
+- Innovation Themes: Cloud computing, 5G/NFV, rural connectivity, hardware security, eBPF, edge computing, smart transportation
+
+## SysCon: Multi-Agent Robotics & Embedded Control
+- Focus Area: Cooperative control, multi-agent systems, underwater robots, vision-based planning, embedded systems
+- Key Professors: Prof. Arpita Sinha, Prof. Leena Vachhani
+- Innovation Themes: Cooperative control, multi-agent systems, underwater robots, vision-based planning, embedded systems
+
+## SysCon: Nonlinear & Geometric Control
+- Focus Area: Optimal control, geometric mechanics, nonlinear control, adaptive control, spacecraft attitude control, robotics
+- Key Professors: Prof. Navin Khaneja, Prof. Ravi N. Banavar, Prof. Sukumar Srikant
+- Innovation Themes: Optimal control, geometric mechanics, nonlinear control, adaptive control, spacecraft attitude control, robotics
+
+## SysCon: Stochastic Control & Optimization
+- Focus Area: Stochastic MPC, game theory, decentralized control, combinatorial optimization, graph neural networks
+- Key Professors: Prof. Ankur A. Kulkarni, Prof. Arpita Sinha, Prof. Debasish Chatterjee
+- Innovation Themes: Stochastic MPC, game theory, decentralized control, combinatorial optimization, graph neural networks
+
+## SysCon: Systems & Networks
+- Focus Area: Distributed parameter systems, linear systems, estimation, energy systems, power stability
+- Key Professors: Prof. Rajasekhar Anguluri, Prof. Vivek Natarajan
+- Innovation Themes: Distributed parameter systems, linear systems, estimation, energy systems, power stability
+
+## Theoretical CS
+- Focus Area: Algorithms, Complexity, Cryptography
+- Key Professors: Assoc. Prof. Sujoy Bhore, Prof. Abhiram Ranade, Prof. Ajit Diwan, Prof. Bharat Adsul, Prof. Milind Sohoni, Prof. Nutan Limaye, Prof. Srikanth Srinivasan, Prof. Sundar Vishwanathan
+- Innovation Themes: Cryptography, digital trust, computational geometry, formal methods, algebraic complexity
+
+## Vision / Graphics
+- Focus Area: Computer Vision, Graphics, Medical Imaging
+- Key Professors: Assoc. Prof. Ajit Rajwade, Assoc. Prof. Siddhartha Chaudhuri, Assoc. Prof. Suyash P. Awate, Prof. Parag Chaudhuri, Prof. Sharat Chandran, Prof. Soumen Chakrabarti
+- Innovation Themes: Knowledge graphs, medical imaging, AR/VR, 3D generative AI, compressed sensing, image processing

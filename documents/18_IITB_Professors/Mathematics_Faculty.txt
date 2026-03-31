@@ -1,0 +1,438 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Mathematics Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Bata Krishna Das
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: bata.krishna@math.iitb.ac.in
+- Research Group: Functional Analysis Group
+- Primary Research Area: Operator Theory, Dilations & Reproducing Kernel Hilbert Spaces
+- Research Interests & Innovation Focus: Dilations of tuples of operators; Commutant lifting theorems; Reproducing kernel Hilbert spaces; Operator-valued functions; Multivariable operator theory; Model theory for operators; von Neumann inequality; Schur class functions
+- Notable Projects: Research on dilation theory and commutant lifting; Publications in functional analysis and operator theory journals
+- Key Tools & Platforms: Operator algebra techniques, dilation theory, reproducing kernel methods, model theory for operators
+- Industry Collaborations: International functional analysis research community
+- Awards: Assoc. Prof. IITB; Expert in dilations of operator tuples and commutant lifting
+- Innovation Keywords: operator dilations, commutant lifting, reproducing kernels, Hilbert spaces, multivariable operators, model theory, von Neumann inequality
+- Profile: https://www.math.iitb.ac.in/~bata/
+
+## Assoc. Prof. Debanjana Mitra
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: debanjana@math.iitb.ac.in
+- Research Group: Control Theory & PDE Systems Group
+- Primary Research Area: Controllability of Fluid PDEs & Feedback Stabilization
+- Research Interests & Innovation Focus: Null controllability of Navier-Stokes & Stokes equations; Controllability of compressible fluid equations; Linearization & stabilization of PDEs; LQR-based stabilization of heat equations with memory; Feedback stabilization of parabolic coupled systems; Optimal control of PDE systems; Memory-based control problems; Control of visco-elastic flows
+- Notable Projects: 28 publications with 181+ citations; Organized 'Recent Advances in Control Theory of PDE Systems' (2024); Postdoc Virginia Tech (with M. Renardy); PhD TIFR CAM (with Mythily Ramaswamy); Published in SIAM J. Control, J. Differential Equations, ESAIM COCV
+- Key Tools & Platforms: Moment methods for controllability, spectral analysis, functional analysis, numerical PDE methods, linear feedback control design
+- Industry Collaborations: Virginia Tech (M. Renardy, postdoc); TIFR CAM (PhD); FAU Erlangen-Nuremberg (RACP2024); International control theory community
+- Awards: Assoc. Prof. IITB; 181+ citations; Postdoc Virginia Tech; Expert in PDE control and stabilization
+- Innovation Keywords: null controllability, Navier-Stokes control, feedback stabilization, parabolic systems, optimal control, PDE control, memory effects, fluid equations
+- Profile: https://www.math.iitb.ac.in/~debanjana/
+
+## Assoc. Prof. Harsha Hutridurga
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: harsha@math.iitb.ac.in
+- Research Group: PDE & Homogenization Group
+- Primary Research Area: Homogenization Theory, Kinetic Equations & Multiscale Analysis
+- Research Interests & Innovation Focus: Homogenization of reactive flows in porous media; Nonlinear reaction-diffusion systems; Homogenization under strong convection; Trend to equilibrium in kinetic theory; Diffusion approximation in kinetic equations; Vlasov-Fokker-Planck equations; Linear Boltzmann equation; Mathematical statistical mechanics; Invisibility & metamaterials; Two-scale convergence with drift; Transport equations
+- Notable Projects: PhD École Polytechnique France (under Grégoire Allaire); Postdoc University of Cambridge (3 years); Research Associate Imperial College London (2 years); Research on homogenization of reactive transport; Published in SIAM J. Math. Anal., Communications in PDE, Arch. Rational Mech. Anal.
+- Key Tools & Platforms: Two-scale convergence, multiscale asymptotic analysis, FreeFem++ computational modeling, Hamiltonian dynamics, functional analysis
+- Industry Collaborations: Grégoire Allaire (École Polytechnique); Clément Mouhot (Cambridge); Claude Bardos; Imperial College London
+- Awards: Assoc. Prof. IITB; PhD École Polytechnique; Postdoc Cambridge & Imperial College; Expert in homogenization and kinetic theory
+- Innovation Keywords: homogenization, multiscale analysis, kinetic theory, reactive flows, porous media, Vlasov-Fokker-Planck, diffusion approximation, metamaterials, transport equations
+- Profile: https://hutridurga.wordpress.com/
+
+## Assoc. Prof. Mayukh Mukherjee
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: mayukh@math.iitb.ac.in
+- Research Group: Spectral Geometry Group
+- Primary Research Area: Spectral Geometry, Eigenfunctions & Quantum Ergodicity
+- Research Interests & Innovation Focus: Eigenvalues of Laplacian on Riemannian manifolds; Nodal geometry & topology of eigenfunctions; Quantum ergodicity & mass concentration; Spectral theory on non-positively curved manifolds; Heat flow methods on eigenfunctions; Isoperimetric problems; Heat kernel estimates; Brownian motion connections; Spectral multipliers
+- Notable Projects: 20+ publications; Postdoc Max Planck Institute Bonn (Werner Ballmann group); Postdoc Technion Israel; PhD UNC Chapel Hill (Michael Taylor); Published in Analysis & PDE, Communications in PDE, Math. Zeitschrift; Paper 'Spectrum of Hadamard manifolds' (SIGMA 2023 with Ballmann & Polymerakis)
+- Key Tools & Platforms: Spectral analysis, differential geometry, heat flow methods, Brownian motion, Fourier analysis, harmonic analysis
+- Industry Collaborations: Max Planck Institute Bonn (former); Technion Israel (former); UNC Chapel Hill; Werner Ballmann; International geometry community
+- Awards: Assoc. Prof. IITB; Postdoc MPIM Bonn & Technion; PhD UNC Chapel Hill; Published in Analysis & PDE, Comm. PDE
+- Innovation Keywords: spectral geometry, quantum ergodicity, eigenfunctions, nodal sets, Riemannian manifolds, heat flow, mass concentration, Laplacian, isoperimetric
+- Profile: https://sites.google.com/site/mayukhmukherjeemaths/
+
+## Assoc. Prof. Prachi Mahajan
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: prachi@math.iitb.ac.in
+- Research Group: Several Complex Variables Group
+- Primary Research Area: Several Complex Variables, Kobayashi Metric & Complex Geometry
+- Research Interests & Innovation Focus: Pseudoconvex domains; Kobayashi & Carathéodory metrics; Squeezing functions on domains; Fridman invariant; Complex geometry of domains; Biholomorphic mappings; Hermitian metrics on hyperbolic manifolds; Higher-dimensional Suita conjecture
+- Notable Projects: 14 research works with 60+ citations; Published in J. Geometric Analysis, Annali di Matematica; Collaboration with Kaushal Verma (IISc), G.P. Balakumar (IISER Pune), Debraj Chakrabarti; PhD IISc Bangalore
+- Key Tools & Platforms: Complex analysis methods, differential geometric techniques, metric geometry, biholomorphic invariant theory
+- Industry Collaborations: IISc Bangalore (Kaushal Verma); IISER Pune (G.P. Balakumar); Debraj Chakrabarti; International complex analysis community
+- Awards: Assoc. Prof. IITB; 60+ citations; PhD IISc Bangalore; Expert in Kobayashi metric and complex domains
+- Innovation Keywords: complex variables, Kobayashi metric, pseudoconvex domains, squeezing function, biholomorphic maps, complex geometry, Fridman invariant, Carathéodory
+- Profile: https://www.math.iitb.ac.in/~prachi/
+
+## Assoc. Prof. Radhendushka Srivastava
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: radhendushka@math.iitb.ac.in
+- Research Group: Statistics & Data Science Group
+- Primary Research Area: Time Series Analysis, Nonparametric Statistics & High-Dimensional Inference
+- Research Interests & Innovation Focus: Time series analysis & forecasting; Nonparametric & semiparametric regression; High-dimensional data analysis & inference; Multiple testing & FDR control; Network models & graph statistics; Statistical learning theory; Functional data analysis; Asymptotics & limit theorems
+- Notable Projects: Research on high-dimensional inference and time series; Publications in statistical journals; Teaching statistical methods courses
+- Key Tools & Platforms: Nonparametric statistics, functional data analysis, computational statistics, R/Python
+- Industry Collaborations: Statistical learning community; Data science research networks
+- Awards: Assoc. Prof. IITB; Expert in time series, high-dimensional statistics, and nonparametric methods
+- Innovation Keywords: time series, nonparametric regression, high-dimensional statistics, multiple testing, network models, functional data, statistical learning, data science
+- Profile: https://www.math.iitb.ac.in/~radhendushka/
+
+## Assoc. Prof. Rekha Santhanam
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: rekha@math.iitb.ac.in
+- Research Group: Algebraic Topology Group
+- Primary Research Area: Equivariant Homotopy Theory, K-Theory & Topological Combinatorics
+- Research Interests & Innovation Focus: Stable homotopy theory; Equivariant homotopy theory; Topological combinatorics; Model structures on categories; Homotopy theory of finite posets; Higher topological complexity; Transfer systems in equivariant topology; Equivariant rational homotopy theory; Fibred manifolds & Eilenberg-MacLane spaces; Cobordism; Operads
+- Notable Projects: Published in Algebraic & Geometric Topology; Invited speaker NCM Global Homotopy Theory school (2020); Research on units of equivariant ring spectra; Characterizing model structures using transfer systems; Participant Applied Algebraic Topology Research Network
+- Key Tools & Platforms: Homotopy theory, category theory, transfer systems, equivariant algebraic topology, topological combinatorics
+- Industry Collaborations: National Centre for Mathematics; Applied Algebraic Topology Research Network; International topology community
+- Awards: Assoc. Prof. IITB; Published in Algebraic & Geometric Topology; Invited speaker NCM 2020; Expert in equivariant homotopy
+- Innovation Keywords: equivariant homotopy, stable homotopy, topological combinatorics, transfer systems, model structures, K-theory, cobordism, operads, algebraic topology
+- Profile: https://www.math.iitb.ac.in/~rekha/
+
+## Assoc. Prof. Sanjoy Pusti
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: sanjoy.pusti@math.iitb.ac.in
+- Research Group: Harmonic Analysis Group
+- Primary Research Area: Harmonic Analysis on Lie Groups & Uncertainty Principles
+- Research Interests & Innovation Focus: Harmonic analysis on semisimple Lie groups; Special functions (spherical functions, Jacobi functions); Uncertainty principles on symmetric spaces; Fourier analysis on groups; Heat kernel estimates; Paley-Wiener theorems; Spectral analysis on locally symmetric spaces
+- Notable Projects: Research on harmonic analysis and special functions; Publications in Journal of Functional Analysis, Mathematische Nachrichten, Proceedings AMS
+- Key Tools & Platforms: Harmonic analysis techniques, Lie group theory, special function theory, Fourier transform methods
+- Industry Collaborations: International harmonic analysis community; Lie group research networks
+- Awards: Assoc. Prof. IITB; Expert in harmonic analysis on Lie groups
+- Innovation Keywords: harmonic analysis, Lie groups, uncertainty principles, special functions, Fourier analysis, symmetric spaces, heat kernels, Paley-Wiener
+- Profile: https://www.math.iitb.ac.in/~sanjoy/
+
+## Assoc. Prof. Saurav Bhaumik
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: saurav@math.iitb.ac.in
+- Research Group: Algebraic Geometry Group
+- Primary Research Area: Algebraic Geometry, Motives & Algebraic Cycles
+- Research Interests & Innovation Focus: Algebraic cycles & Chow groups; Motives & motivic cohomology; Moduli spaces; Special values of L-functions; Hodge theory connections; Algebraic K-theory; Motivic homotopy theory
+- Notable Projects: Research on algebraic cycles and motives; Publications in algebraic geometry journals; Active research on motivic structures
+- Key Tools & Platforms: Algebraic geometry methods, motivic cohomology, K-theoretic techniques, Hodge-theoretic methods
+- Industry Collaborations: International algebraic geometry community; Motivic homotopy research network
+- Awards: Associate Professor IITB; Expert in algebraic cycles and motives
+- Innovation Keywords: algebraic cycles, motives, motivic cohomology, moduli spaces, Chow groups, L-functions, Hodge theory, algebraic K-theory
+- Profile: https://www.math.iitb.ac.in/~saurav/
+
+## Assoc. Prof. Sourav Pal
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: sourav@math.iitb.ac.in
+- Research Group: Complex Analysis & Operator Theory Group
+- Primary Research Area: Complex Analysis, Spectral Sets & Dilation Theory
+- Research Interests & Innovation Focus: Function theory on domains; Spectral sets & distinguished varieties; Tetrablock & symmetrized bidisc; Dilation theory; Operator theory on several variables; Complex geometry connections; Hardy spaces on polydiscs; Nevanlinna-Pick interpolation
+- Notable Projects: Research on spectral sets and dilation theory; Publications in J. Functional Analysis, Advances in Mathematics; Active research on function theory
+- Key Tools & Platforms: Complex analytic methods, operator theory, dilation techniques, spectral analysis
+- Industry Collaborations: International operator theory community; Complex analysis researchers
+- Awards: Assoc. Prof. IITB; Expert in spectral sets and dilation theory on function domains
+- Innovation Keywords: spectral sets, dilation theory, complex analysis, tetrablock, symmetrized bidisc, operator theory, Hardy spaces, Nevanlinna-Pick
+- Profile: https://www.math.iitb.ac.in/~sourav/
+
+## Assoc. Prof. Swapneel Mahajan
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: swapneel@math.iitb.ac.in
+- Research Group: Algebraic Combinatorics Group
+- Primary Research Area: Algebraic Combinatorics, Hopf Algebras & Species Theory
+- Research Interests & Innovation Focus: Hopf algebras & quantum groups; Coxeter groups & buildings; Monoid theory; Species theory & categorical structures; Operads & dioperads; Hyperplane arrangement theory; Bimonoids & monoidal functors; cd-index & descent statistics; Cyclic homology; Graph homology
+- Notable Projects: Major monographs with Marcelo Aguiar (Cornell): 'Coxeter Bialgebras', 'Bimonoids for Hyperplane Arrangements', 'Monoidal Functors, Species and Hopf Algebras'; Collaboration with Richard Ehrenborg; Research on maximizing descent statistic
+- Key Tools & Platforms: Category theory, algebraic topology methods, combinatorial homology, Hopf algebra computations
+- Industry Collaborations: Marcelo Aguiar (Cornell University); Richard Ehrenborg; International combinatorics community
+- Awards: Associate Professor IITB; Co-author of major monographs on Hopf algebras with Aguiar (Cornell)
+- Innovation Keywords: Hopf algebras, Coxeter groups, algebraic combinatorics, species theory, operads, hyperplane arrangements, monoidal functors, bimonoids
+- Profile: https://www.math.iitb.ac.in/~swapneel/
+
+## Asst. Prof. Ayan Bhattacharya
+- Department: Mathematics
+- Designation: Assistant Professor
+- Email: ayan@math.iitb.ac.in
+- Research Group: Extreme Value Theory & Probability Group
+- Primary Research Area: Extreme Value Theory, Branching Random Walks & Stable Processes
+- Research Interests & Innovation Focus: Extreme value theory & extremal processes; Branching random walks with regularly varying steps; Stable processes & stable point processes; Point process convergence & limit theorems; Multi-type branching processes; Random walks in random environments; Large deviations theory; Heavy-tailed distributions; Elephant random walks; Robust statistics
+- Notable Projects: Published in Bernoulli, Electronic Journal of Probability, Annales de l'Institut Henri Poincaré; Co-organized RAPS 2025 (Recent Advances in Probability & Statistics); Research on large deviations of extremes in branching random walks
+- Key Tools & Platforms: Extreme value methods, point process theory, regular variation, branching process analysis, probability limit theorems
+- Industry Collaborations: ISI Kolkata connections; International probability research community; RAPS 2025 co-organizer
+- Awards: Asst. Prof. IITB; Published in Bernoulli, EJP, Ann. Henri Poincaré; Co-organizer RAPS 2025
+- Innovation Keywords: extreme value theory, branching random walks, stable processes, point processes, heavy tails, regular variation, large deviations, random environments
+- Profile: https://sites.google.com/site/bhattacharya90ayan/
+
+## Asst. Prof. Gunja Sachdeva
+- Department: Mathematics
+- Designation: Assistant Professor
+- Email: gunja@math.iitb.ac.in
+- Research Group: Algebraic Geometry Group
+- Primary Research Area: Algebraic Geometry, Algebraic Cycles & Motives
+- Research Interests & Innovation Focus: Algebraic cycles & Chow groups; Moduli spaces; Special values of L-functions; Motives & motivic cohomology; Hodge-theoretic structures; Algebraic K-theory
+- Notable Projects: Research on algebraic cycles and moduli spaces; Publications in algebraic geometry journals
+- Key Tools & Platforms: Algebraic geometry methods, cohomological techniques, motivic methods
+- Industry Collaborations: Algebraic geometry research community
+- Awards: Asst. Prof. IITB; Research in algebraic cycles and motives
+- Innovation Keywords: algebraic cycles, moduli spaces, L-functions, motives, Chow groups, Hodge theory, algebraic geometry
+- Profile: https://www.math.iitb.ac.in/~gunja/
+
+## Asst. Prof. Madhusudan Manjunath
+- Department: Mathematics
+- Designation: Assistant Professor
+- Email: madhu@math.iitb.ac.in
+- Research Group: Combinatorial Algebra & Tropical Geometry Group
+- Primary Research Area: Combinatorial Commutative Algebra & Tropical Geometry
+- Research Interests & Innovation Focus: Chip-firing games on graphs; Tropical curves & tropical geometry; Combinatorial commutative algebra; Graph theory & algebraic graph theory; Divisor theory on graphs; Riemann-Roch theory for graphs; Lattice polytopes; Gröbner bases
+- Notable Projects: Research on chip-firing and tropical curves; Publications in Journal of Combinatorial Theory, Advances in Applied Mathematics; Active in tropical geometry research community
+- Key Tools & Platforms: Tropical geometry computations, chip-firing algorithms, Gröbner basis methods, combinatorial optimization
+- Industry Collaborations: International tropical geometry community; Combinatorial algebra research networks
+- Awards: Asst. Prof. IITB; Expert in tropical geometry and chip-firing
+- Innovation Keywords: tropical geometry, chip-firing, combinatorial algebra, graph theory, Riemann-Roch, lattice polytopes, divisor theory, Gröbner bases
+- Profile: https://www.math.iitb.ac.in/~madhu/
+
+## Asst. Prof. Monika Bhattacharjee
+- Department: Mathematics
+- Designation: Assistant Professor
+- Email: monika@math.iitb.ac.in
+- Research Group: High-Dimensional Statistics & Random Matrices Group
+- Primary Research Area: High-Dimensional Statistics, Random Matrix Theory & Free Probability
+- Research Interests & Innovation Focus: High-dimensional covariance estimation; Random matrix theory; Large autocovariance matrices in time series; Free probability & non-commutative probability; Change point analysis; Stochastic networks; Spectral distribution of random matrices; Asymptotic behavior of high-dimensional estimators
+- Notable Projects: 227+ Google Scholar citations; Monograph 'Large Covariance and Autocovariance Matrices' (Chapman & Hall/CRC 2018 with Arup Bose); Published in Annals of Statistics; Postdoc University of Florida (George Michailidis); PhD ISI Kolkata (Arup Bose); Co-organized RAPS 2025
+- Key Tools & Platforms: Random matrix theory, spectral analysis, method of moments, free probability, asymptotic analysis, R/Python
+- Industry Collaborations: ISI Kolkata (Arup Bose, PhD); University of Florida (Michailidis, postdoc); RAPS 2025 co-organizer
+- Awards: Asst. Prof. IITB; 227+ citations; Chapman & Hall/CRC monograph author; Published in Annals of Statistics; PhD ISI Kolkata
+- Innovation Keywords: random matrices, high-dimensional statistics, free probability, covariance estimation, spectral distribution, time series, change point detection, stochastic networks
+- Profile: https://sites.google.com/site/bhattacharjeemonika90/
+
+## Asst. Prof. Saikat Mazumdar
+- Department: Mathematics
+- Designation: Assistant Professor
+- Email: saikat@math.iitb.ac.in
+- Research Group: Geometric Analysis & PDEs Group
+- Primary Research Area: Nonlinear Elliptic PDEs & Riemannian Geometry
+- Research Interests & Innovation Focus: Nonlinear elliptic PDEs on Riemannian manifolds; Yamabe problem & prescribed curvature equations; Q-curvature equations & higher-order PDEs; Hardy-Sobolev inequalities; GJMS operators; Blow-up analysis; Conformal geometry; Critical exponent problems; Fractional PDEs
+- Notable Projects: 15+ publications in Advances in Mathematics, Calculus of Variations, Memoirs AMS; Research on Yamabe-type problems and Q-curvature; Active publication record in top-tier analysis journals
+- Key Tools & Platforms: PDE analysis on manifolds, blow-up analysis, variational methods, conformal geometry techniques, critical point theory
+- Industry Collaborations: International geometric analysis community; French mathematics community
+- Awards: Asst. Prof. IITB; 15+ publications in top journals (Advances in Math, Calc. Var., Memoirs AMS)
+- Innovation Keywords: Yamabe problem, Q-curvature, elliptic PDEs, Riemannian geometry, Hardy-Sobolev, conformal geometry, blow-up analysis, GJMS operators
+- Profile: https://www.math.iitb.ac.in/~saikat/
+
+## Prof. Amiya Kumar Pani
+- Department: Mathematics
+- Designation: Professor (HAG)
+- Email: akp@math.iitb.ac.in
+- Research Group: Numerical Methods for PDEs Group
+- Primary Research Area: Finite Element Methods for Nonlinear PDEs & Error Analysis
+- Research Interests & Innovation Focus: Finite element methods for nonlinear problems; Error analysis for Galerkin methods; Nonlinear parabolic & hyperbolic problems; A priori & a posteriori error estimates; Mixed finite elements; Integrodifferential equations; Oldroyd model fluid flow; Numerical analysis of evolution equations; Superconvergence
+- Notable Projects: Professor (HAG) — highest grade; Extensive publication record in SIAM J. Numer. Anal., IMA J. Numer. Anal., Numerische Mathematik, J. Comp. & Applied Math; 20+ PhD students supervised; Pioneer of FEM research at IITB; Long-standing research program
+- Key Tools & Platforms: Finite element software, error analysis techniques, Galerkin methods, MATLAB, numerical linear algebra
+- Industry Collaborations: International numerical analysis community; SIAM; Computational mathematics networks
+- Awards: Professor (HAG) IITB; 20+ PhD supervised; Pioneer in FEM research at IITB; Published in all top numerical analysis journals
+- Innovation Keywords: finite elements, error analysis, Galerkin methods, nonlinear PDEs, parabolic equations, numerical analysis, superconvergence, evolution equations
+- Profile: https://www.math.iitb.ac.in/~akp/
+
+## Prof. Ananthnarayan Hariharan
+- Department: Mathematics
+- Designation: Associate Professor
+- Email: ananth@math.iitb.ac.in
+- Research Group: Algebra Group / Commutative Algebra
+- Primary Research Area: Commutative Algebra & Homological Methods
+- Research Interests & Innovation Focus: Local rings & homological conjectures; Gorenstein rings & duality; DG algebras in commutative algebra; Module theory & homological methods; Integral extensions; K-theory in commutative algebra; Cohomological invariants; Connected sums of Gorenstein rings
+- Notable Projects: Research collaboration 'Fellowships of the Ring' (UNL/KU); Teaching MA 5101 Algebra II (Module Theory); Publications in Journal of Algebra, J. Pure & Applied Algebra; Active engagement with MathArxiv and commalg.org
+- Key Tools & Platforms: Homological algebra computations, Macaulay2, DG algebra methods, local cohomology techniques
+- Industry Collaborations: University of Nebraska–Lincoln; University of Kansas (Fellowships of the Ring); International algebra community
+- Awards: Associate Professor IITB; Collaborative research program participant; Active algebraist
+- Innovation Keywords: commutative algebra, Gorenstein rings, homological conjectures, DG algebras, local rings, module theory, cohomological invariants
+- Profile: https://www.math.iitb.ac.in/~ananth/
+
+## Prof. Jugal K. Verma
+- Department: Mathematics
+- Designation: Professor (HAG)
+- Email: jkv@math.iitb.ac.in
+- Research Group: Algebra Group / Commutative Algebra Research
+- Primary Research Area: Commutative Algebra & Algebraic Geometry
+- Research Interests & Innovation Focus: Hilbert functions & Hilbert polynomials; Mixed multiplicities of ideals; Rees algebras & blow-up algebras; Local cohomology & homological methods; Integral closure of ideals; Cohen-Macaulay rings; Algebraic combinatorics connections; Symbolic powers of ideals
+- Notable Projects: Professor (HAG) — highest academic grade; Organized international conferences on commutative algebra; Published extensively in Journal of Algebra, Communications in Algebra, J. Pure & Applied Algebra; Guided 15+ PhD students; Long-standing research collaboration on mixed multiplicities
+- Key Tools & Platforms: Computational algebra (Macaulay2, CoCoA), homological methods, Gröbner basis techniques, combinatorial commutative algebra
+- Industry Collaborations: International algebra research community; Collaborative projects with US and European algebraists
+- Awards: Professor (HAG); 15+ PhD students supervised; Extensive publication record in top algebra journals; Senior commutative algebraist at IITB
+- Innovation Keywords: commutative algebra, Hilbert functions, Rees algebras, mixed multiplicities, blow-up algebras, local cohomology, Cohen-Macaulay, algebraic geometry
+- Profile: https://www.math.iitb.ac.in/~jkv/
+
+## Prof. K. Suresh Kumar
+- Department: Mathematics
+- Designation: Professor
+- Email: suresh@math.iitb.ac.in
+- Research Group: Stochastic Control & Mathematical Finance Group
+- Primary Research Area: Stochastic Control, Risk-Sensitive Control & Mathematical Finance
+- Research Interests & Innovation Focus: Controlled diffusions & stochastic control; Risk-sensitive control & ergodic control; Mathematical finance (option pricing, portfolio optimization); Markov selection problems; Stochastic differential equations; Viscosity solutions; Mean-field games; Reinforcement learning connections; Financial risk management
+- Notable Projects: Research on controlled diffusions and risk-sensitive control; Publications in Stochastic Processes & Applications, Applied Math & Optimization, SIAM J. Control; Teaching mathematical finance and stochastic calculus courses
+- Key Tools & Platforms: Stochastic calculus, SDEs, viscosity solution methods, risk-sensitive control, Monte Carlo methods, financial modeling
+- Industry Collaborations: Financial mathematics community; Actuarial and risk management research
+- Awards: Professor IITB; Expert in stochastic control, mathematical finance, and risk-sensitive optimization
+- Innovation Keywords: stochastic control, mathematical finance, risk-sensitive control, controlled diffusions, option pricing, portfolio optimization, Markov selection, mean-field games
+- Profile: https://www.math.iitb.ac.in/~suresh/
+
+## Prof. Krishnan Sivasubramanian
+- Department: Mathematics
+- Designation: Professor
+- Email: krishnan@math.iitb.ac.in
+- Research Group: Combinatorics & Graph Theory Group
+- Primary Research Area: Algebraic Combinatorics & Graph Theory
+- Research Interests & Innovation Focus: Algebraic combinatorics; Representation theory of finite groups; Codes & designs; Extremal graph theory; Graph labelings & colorings; Combinatorial designs; Discrete optimization
+- Notable Projects: Research on algebraic combinatorics and graph theory; Publications in combinatorics journals; Teaching courses in combinatorics and graph theory
+- Key Tools & Platforms: Probabilistic methods, extremal combinatorics, computational techniques, algebraic approaches to graph theory
+- Industry Collaborations: Combinatorics research community; Discrete mathematics networks
+- Awards: Professor IITB; Expert in algebraic combinatorics and graph theory
+- Innovation Keywords: algebraic combinatorics, graph theory, codes, designs, extremal graphs, representation theory, discrete optimization, graph coloring
+- Profile: https://www.math.iitb.ac.in/~krishnan/
+
+## Prof. Neela Nataraj
+- Department: Mathematics
+- Designation: Institute Chair Professor & Dean (Strategy)
+- Email: neela@math.iitb.ac.in
+- Research Group: Numerical Analysis & Scientific Computing Group
+- Primary Research Area: Finite Element Methods, Numerical PDEs & Scientific Computing
+- Research Interests & Innovation Focus: Finite element methods for PDEs; Adaptive algorithms & a posteriori error analysis; Numerical analysis of nonlinear problems; Discontinuous Galerkin methods; Virtual element methods; Fourth-order problems; Navier-Stokes numerical methods; Optimal control of PDEs; Error estimates for nonconforming methods
+- Notable Projects: Institute Chair Professor & Dean of Strategy IITB; Organizer ICTP School on numerical linear algebra; Extensive PhD supervision; Publications in SIAM J. Numerical Analysis, Mathematics of Computation, Numerische Mathematik; ICTP International Centre Trieste collaborations
+- Key Tools & Platforms: Finite element software (FEniCS, deal.II), MATLAB, adaptive mesh refinement, a posteriori error estimation, DG methods
+- Industry Collaborations: ICTP Trieste; International numerical analysis community; SIAM society
+- Awards: Institute Chair Professor; Dean of Strategy IITB; ICTP collaborator; Published in SIAM J. Numer. Anal., Math. Comp.
+- Innovation Keywords: finite elements, numerical PDEs, adaptive algorithms, error analysis, discontinuous Galerkin, scientific computing, virtual elements, optimal control
+- Profile: https://www.math.iitb.ac.in/~neela/
+
+## Prof. Niranjan Balachandran
+- Department: Mathematics
+- Designation: Professor
+- Email: niranjan@math.iitb.ac.in
+- Research Group: Combinatorics Group
+- Primary Research Area: Extremal Combinatorics & Combinatorial Number Theory
+- Research Interests & Innovation Focus: Extremal combinatorics & probabilistic methods; Combinatorial number theory; Graph theory & network analysis; Fractional L-intersecting families; Design theory; Discrete geometry; Entropy & information-theoretic methods in combinatorics; Combinatorial batch codes
+- Notable Projects: 192+ Google Scholar citations; h-index 7; Research on extremal hypergraph problems (22 citations); Fractional L-intersecting families (13 citations); Paper on consensus protocols with persistence-based convergence (11 citations); Collaboration with D. Ray-Chaudhuri on simple designs
+- Key Tools & Platforms: Probabilistic methods, entropy analysis, extremal techniques, discrete probability, information-theoretic approaches
+- Industry Collaborations: D. Ray-Chaudhuri (Ohio State); International combinatorics community
+- Awards: Professor IITB; 192+ citations; Expert in extremal combinatorics and design theory
+- Innovation Keywords: extremal combinatorics, probabilistic combinatorics, discrete geometry, fractional families, combinatorial number theory, batch codes, entropy methods, graph theory
+- Profile: https://www.math.iitb.ac.in/~niranj/
+
+## Prof. P. Vellaisamy
+- Department: Mathematics
+- Designation: Professor
+- Email: vellaisa@math.iitb.ac.in
+- Research Group: Probability Theory Group
+- Primary Research Area: Probability Theory, Limit Theorems & Distribution Approximations
+- Research Interests & Innovation Focus: Limit theorems & distributional convergence; Stein-Chen method for Poisson approximation; Compound Poisson approximations; Distribution approximations; Point processes; Fractional calculus & fractional Poisson processes; Stochastic models; Negative binomial distributions; Reliability theory
+- Notable Projects: Research on Stein-Chen methods and Poisson approximations; Publications in Journal of Theoretical Probability, Stochastic Processes & Applications, Bernoulli; Long-standing research program in distributional approximations
+- Key Tools & Platforms: Stein-Chen method, probability theory, distributional approximation techniques, fractional calculus methods
+- Industry Collaborations: International probability community; Stein's method research network
+- Awards: Professor IITB; Senior probabilist; Expert in Stein-Chen methods and distributional approximations
+- Innovation Keywords: probability theory, Poisson approximation, Stein-Chen method, limit theorems, compound Poisson, fractional Poisson, distribution theory, point processes
+- Profile: https://www.math.iitb.ac.in/~vellaisa/
+
+## Prof. Preeti Raman
+- Department: Mathematics
+- Designation: Professor
+- Email: preeti@math.iitb.ac.in
+- Research Group: Algebra & Number Theory Group
+- Primary Research Area: Quadratic Forms, Central Simple Algebras & Galois Cohomology
+- Research Interests & Innovation Focus: Quadratic forms over function fields; Central simple algebras & Brauer group; Galois cohomology; Linear algebraic groups; Hasse principle for algebras; R-equivalence classes; Hermitian forms; Virtual cohomological dimension; Adjoint groups & reduced norms; Maslov index connections
+- Notable Projects: Collaboration with Rajesh Parimala and V. Suresh on Hasse principles; Published in Transactions AMS, Compositio Mathematica, Journal of Number Theory, Proceedings AMS, Journal of Algebra; Research on local-global principles over function fields of p-adic curves
+- Key Tools & Platforms: Cohomological methods, algebraic geometry techniques, number-theoretic computations, Galois cohomology
+- Industry Collaborations: Rajesh Parimala (Emory); V. Suresh; International algebra and number theory community
+- Awards: Professor IITB; Publications in Trans. AMS, Compositio Math; Expert in quadratic forms and Galois cohomology
+- Innovation Keywords: quadratic forms, Galois cohomology, central simple algebras, Hasse principle, Brauer group, algebraic groups, hermitian forms, R-equivalence
+- Profile: https://www.math.iitb.ac.in/~preeti/
+
+## Prof. Raju Bartaula
+- Department: Mathematics
+- Designation: Professor (Applied Mathematics)
+- Email: raju@math.iitb.ac.in
+- Research Group: Fluid Mechanics & Applied Mathematics Group
+- Primary Research Area: Computational Fluid Dynamics & Boundary Layer Theory
+- Research Interests & Innovation Focus: Computational fluid dynamics; Boundary layer theory; Numerical simulation of fluid flows; Applied mathematics for engineering; Viscous flow analysis; Turbulence modeling; Free surface flows; Heat transfer in fluids; Industrial CFD applications
+- Notable Projects: Research on CFD and boundary layer analysis; Applied mathematics for industrial problems; Teaching applied mathematics and CFD courses
+- Key Tools & Platforms: CFD software (OpenFOAM, ANSYS Fluent), numerical methods for fluid dynamics, boundary layer analysis, finite difference/volume methods
+- Industry Collaborations: Engineering applications of CFD; Industrial fluid mechanics collaborations
+- Awards: Professor IITB (Applied Math); Expert in computational fluid dynamics and boundary layers
+- Innovation Keywords: computational fluid dynamics, boundary layer, numerical simulation, fluid mechanics, viscous flow, turbulence, heat transfer, applied mathematics
+- Profile: https://www.math.iitb.ac.in/~raju/
+
+## Prof. Ravi Raghunathan
+- Department: Mathematics
+- Designation: Professor
+- Email: ravir@math.iitb.ac.in
+- Research Group: Number Theory & Automorphic Forms Group
+- Primary Research Area: Analytic Number Theory & Automorphic Forms
+- Research Interests & Innovation Focus: L-functions & their special values; Analytic number theory; Automorphic representations; Modular forms & Maass forms; Rankin-Selberg convolutions; Distribution of zeros of L-functions; Subconvexity bounds; Spectral theory of automorphic forms
+- Notable Projects: Research on L-functions and automorphic forms; Publications in major number theory journals; Collaborations in analytic number theory
+- Key Tools & Platforms: Analytic methods in number theory, spectral theory, L-function computations, modular symbol calculations
+- Industry Collaborations: International number theory community; TIFR Mumbai connections
+- Awards: Professor IITB; Expert in analytic number theory and automorphic forms
+- Innovation Keywords: L-functions, analytic number theory, automorphic forms, modular forms, Rankin-Selberg, zeros of L-functions, subconvexity
+- Profile: https://www.math.iitb.ac.in/~ravir/
+
+## Prof. Sandip Singh
+- Department: Mathematics
+- Designation: Professor
+- Email: sandip@math.iitb.ac.in
+- Research Group: Number Theory & Representation Theory Group
+- Primary Research Area: Number Theory, Galois Representations & p-adic Langlands Program
+- Research Interests & Innovation Focus: Galois representations & arithmetic geometry; p-adic Langlands program; Automorphic forms & Shimura varieties; Representation theory of p-adic groups; Arithmetic of algebraic groups; Algebraic number theory; Langlands correspondence
+- Notable Projects: 207+ Google Scholar citations; Research on Galois representations and p-adic Langlands; Publications in arithmetic geometry and number theory journals
+- Key Tools & Platforms: Representation theory techniques, p-adic analysis, Galois cohomology methods, automorphic form computations
+- Industry Collaborations: TIFR Mumbai (former); International number theory community
+- Awards: Professor IITB; 207+ citations; Expert in p-adic Langlands program
+- Innovation Keywords: Galois representations, p-adic Langlands, automorphic forms, Shimura varieties, arithmetic geometry, representation theory, algebraic number theory
+- Profile: https://sites.google.com/site/sandiptifr/
+
+## Prof. Santanu Dey
+- Department: Mathematics
+- Designation: Professor
+- Email: santanu.dey@math.iitb.ac.in
+- Research Group: Functional Analysis & Operator Theory Group
+- Primary Research Area: Multivariable Operator Theory & C*-Algebras
+- Research Interests & Innovation Focus: Dilations of operator tuples; Operator spaces; Multivariable operator theory; Hardy spaces over polydisc; C*-algebras & von Neumann algebras; Noncommutative probability; Noncommutative geometry connections; Spectral theory; Reproducing kernel Hilbert spaces
+- Notable Projects: Research on operator theory and C*-algebras; Publications in Journal of Functional Analysis, Integral Equations & Operator Theory; Teaching functional analysis and operator theory courses
+- Key Tools & Platforms: Operator-algebraic techniques, functional analysis, noncommutative methods, dilation theory
+- Industry Collaborations: Operator theory research community; International functional analysis collaborations
+- Awards: Professor IITB; Expert in multivariable operator theory and C*-algebras
+- Innovation Keywords: operator theory, C*-algebras, dilations, Hardy spaces, noncommutative probability, spectral theory, von Neumann algebras, reproducing kernels
+- Profile: https://www.math.iitb.ac.in/~santanu/
+
+## Prof. Sivaji Ganesh Sista
+- Department: Mathematics
+- Designation: Professor
+- Email: sivaji.ganesh@math.iitb.ac.in
+- Research Group: Partial Differential Equations Group
+- Primary Research Area: Hyperbolic Conservation Laws & Nonlinear PDEs
+- Research Interests & Innovation Focus: Hyperbolic conservation laws; Nonlinear waves & shock formation; Singular limits in PDEs; Boundary layer analysis; Viscous conservation laws; Riemann problems; Entropy solutions; Numerical methods for PDEs; Wave propagation
+- Notable Projects: Research on hyperbolic PDEs and conservation laws; Publications in Journal of Differential Equations, Nonlinear Analysis; Teaching courses on PDEs and functional analysis
+- Key Tools & Platforms: PDE analysis methods, conservation law techniques, numerical PDE methods, entropy methods
+- Industry Collaborations: PDE research community; Collaborations in nonlinear analysis
+- Awards: Professor IITB; Expert in hyperbolic conservation laws and nonlinear PDEs
+- Innovation Keywords: conservation laws, hyperbolic PDEs, nonlinear waves, shock formation, Riemann problems, entropy solutions, boundary layers, wave propagation
+- Profile: https://www.math.iitb.ac.in/~sivaji/
+
+## Prof. Sudarshan R. Gurjar
+- Department: Mathematics
+- Designation: Professor & Head of Department
+- Email: sgurjar@math.iitb.ac.in
+- Research Group: Algebraic Geometry Group
+- Primary Research Area: Algebraic Geometry & Algebraic K-Theory
+- Research Interests & Innovation Focus: Fundamental groups of algebraic varieties; Algebraic curves & surfaces; Affine algebraic geometry; Algebraic K-theory; Topology of algebraic varieties; Rational & ruled surfaces; Group actions on affine spaces; Cancellation problems
+- Notable Projects: Head of Mathematics Department IITB; Publications in Inventiones Mathematicae, Journal of Algebraic Geometry, Compositio Mathematica; Research on topology of algebraic surfaces; Extensive PhD supervision
+- Key Tools & Platforms: Algebraic geometry techniques, topological methods, K-theoretic computations
+- Industry Collaborations: International algebraic geometry community; Collaborative research with US, Japanese algebraic geometers
+- Awards: Head of Mathematics Dept IITB; Published in Inventiones Mathematicae; Senior algebraic geometer
+- Innovation Keywords: algebraic geometry, fundamental groups, affine geometry, algebraic curves, K-theory, algebraic surfaces, cancellation problem
+- Profile: https://www.math.iitb.ac.in/~sgurjar/

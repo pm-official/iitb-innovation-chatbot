@@ -1,0 +1,533 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Chemistry - Course Catalog for IIT Bombay Students
+
+
+## CH 001: Preparatory Chemistry I
+- Credits: 0
+- Type: Theory
+- Description: General introduction: Formula, stoichiometry, molarity, molality, normality, applications of these concepts. Gases: Boyle`s law, Charles` law, PV=nRT and applications : Dalton`s law of partial pressure, Graham`s law of diffusion, kinetic theory of gases (physical concept) and applications in problems solving. Chemical Equilibrium - Ionic Equilibrium: Law of mass action, reversible reaction, equilibrium constant for homogeneous annd heterogeneous reactions, effect of pressure, volume and concentration of reactants and products on equilibrium, effect of temperature on equilibrium constant. Dissociation constants of acids and bases, common ion effect, ionisation constant of water, pH, buffer solutions and hydrolysis of salts. Solubility product and its application to chemical analysis. Determ...
+
+## CH 002: Preparatory Chemistry II
+- Credits: 0
+- Type: Theory
+- Description: Inorganic Chemistry Periodicity in Properties: Ionization potential, electron affinity, ionic radii and electronegativity. Chemical Bonding: Ionic solids, Born-Haber cycle, covalent bonds, dipole moment, resonance, hybridization, geometry and shape of simple molecules. Coordinate Bond, Hydrogen bond.Chemistry of p-block and d-block elements: Halogens; Periodicity of properties, preparation and uses of halogens and hydrogen halides. Oxides and oxyacids of chlorine. Introduction to transition elements; oxides and oxyacids of sulphur, nitrogen and phosphorus. Isolation of Metals; Extraction of Mg, Al, Zn, Cu and Fe. Preparation and Properties of chemical compounds of industrial importance : Caustic soda, sodium carbonate, bleaching powder, superphosphate, gypsum alum, aluminium, chloride. Cop...
+
+## CH 011: Preparatory Chemistry Laboratory I
+- Credits: 0
+- Type: Laboratory
+- Description: Practical exercises: Experiments related to - 1. Acid-base titration. 2. Redox titration 3. Chemical Equilibrium 4. Ionic Equilibrium 5. Solubility Product 6. Chemical kinetics 7. Electrochemistry
+
+## CH 022: Chemistry Lab
+- Credits: 1
+- Type: Laboratory
+- Description: Qualitative analysis of anions and cations. Detection of elements- N, S, halogens Separation and purification methods. Melting point and boiling point determination.
+
+## CH 103: Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Schrodinger equation (origin of quantization), Born interpretation of wave function, Hydrogen atom: solution to Φ-part, MO theory: atomic and molecular orbitals, Structure, bonding and energy levels of diatomic molecules. Examples N2, O2, CO and HF, Configuration, molecular chirality and isomerism, Conformation of alkanes and cycloalkanes, Reactivity of carbonyl group (addition reactions, reactions due to acidic proton, addition-elimination reactions and reactivity of acid halide, ester and amide), Functional group interconversions involving oxidation and reduction, Periodic properties: trends in size, electron affinity, ionization potential and electronegativity, Use of Ellingham diagram and thermodynamics in the extraction of elements, Transition metal chemistry: inorganic complexes, bon...
+
+## CH 104: Chemistry II
+- Credits: 6
+- Type: Theory
+
+## CH 105: Organic & Inorganic Chemistry
+- Credits: 4
+- Type: Theory
+- Description: Molecular orbitals of common functional groups, Qualitative Huckel MOs ofconjugated polyenes and benzene.Aromaticity. Configuration, molecular chirality and isomerism, Conformation of alkanes and cycloalkanes, Reactivity of carbonyl group), Functional group interconversions involving oxidation and reduction, Periodic properties: trends in size, electron affinity, ionization potential and electronegativity, Use of Ellingham diagram and thermodynamics in the extraction of elements, Transition metal chemistry: inorganic complexes, bonding theories, magnetism, bonding aspects and structural distortion, Bioinorganic chemistry: storage and transport proteins, Catalysis: hydrogenation, hydroformylation and olefin metathesis.
+
+## CH 107: Physical Chemistry
+- Credits: 4
+- Type: Theory
+- Description: Schrodinger equation,Origin of quantization, Born interpretation of wave function, Hydrogen atom: solution to -part, Atomic orbitals, many electron atoms and spin orbitals. Chemical bonding: MO theory: LCAO molecular orbitals, Structure, bonding and energy levels of diatomic molecules.Concept of sp, sp2and sp3hybridization; Bonding and shape of many atom molecules; IntermolecularForces; Potential energy surfaces-Rates of reactions; Steady state approximationand its applications; Concept of pre-equilibrium; Equilibrium and relatedthermodynamic quantities
+
+## CH 109: Stimulating Topics in Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Syllabus: The course will comprise 3 modules that will highlight the relevance of Chemistry in today-s world. The course will connect basic chemistry concepts with real-world Chemistry applications by bringing in a historical context, current relevance and future prospects.  Module 1: Chemistry in Materials Syllabus A- Materials for environment and energy:  Topic - 1: Solar cell (SC), Silicon based SC, Light capture by silicon, limitations of silicon SCs (theoretical limits), Recent trends (perovskite-based SC, Organic SC). Topic - 2: Capturing CO2, Problem with gas separation, Zeolites, Polymer-based materials and their limitations,  Metal organic frameworks (MOFs), recent trends. Topic - 3:  Construction materials with special focus on cement, Implications of cements production for envir...
+
+## CH 110: Interpretative Spectroscopy
+- Credits: 6
+- Type: Theory
+- Description: Syllabus Ultraviolet and visible spectroscopy: basic principle and interpretation of UV-VIS spectra of organic molecules, Woodward-Fieser rules. Infrared Spectroscopy: molecular vibrations and Hooke-s law, IR active and IR inactive vibrations, characteristic IR absorptions of important functional groups. Mass spectrometry: ionization methods (EI, CI, electrospray, laser desorption) and ion analysis, molecular ion and fragment peaks, common fragmentation pathways for organic molecules Nuclear Magnetic Resonance (NMR) spectroscopy: brief introduction to theory, magnetic shielding by electrons, measurement of 1H and 13C chemical shifts, characteristic values of chemical shifts for functional groups, theory of spin-spin coupling, C13 spectra and proton-decoupling  Applications of these spectro...
+
+## CH 111: Chemistry
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Organic Chemistry MO and photochemistry:  Importance of bonding and anti-bonding molecular orbitals involving sigma, sigma*, pi, pi* and non-bonding MOs. Applications in 1) Understanding property and reactivity; 2) Rationalising pericyclic reactions (Electrocyclic and Cycloaddition), Basic concepts in organic photochemistry and its applications.  Chemistry in 3D: Visualization of tetrahedral carbon, representation of molecules using projection formulae (Fischer, Newman, sawhorse, flying wedge) and their interconversion. Significance in drugs and materials application.  Factors affecting rotational barrier, stability and reactivity of alkanes, cyclohexane, cyclohexene and decalin systems. Inorganic Chemistry HSAB and Non-Covalent Interactions: Introduction to Hard-Soft Acid-Base concept and...
+
+## CH 117: Chemistry Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments illustrating the concepts of 1) galvanic cells, (2) thermochemistry, (3) chemical kinetics, (4) equilibrium constant, (5) analysis by oxidation reduction titration.
+
+## CH 202: Transition Metal Chemistry
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: General chemistry of the d-block and f-block elements, Crystal field theory, molecular  orbital theory and their applications. Isomerism and stereochemistry of inorganic  complexes.  Classification of ligands by donor atoms (H, C, N, P, O, halides) with emphasis on  coordination behavior of CO, CS, NO and phosphines. Synthetic methods of preparation  of complexes containing different types of ligands and important coordination complexes:  (CpRuCl2(PR3)2, M(COD)Cl2 (M = Pd, Pt); [M2(--X)2LL]2 (M = Rh, Ir; X = Cl, Br or  I) (LL = C2H4, 1,5-COD, NBD, (CO)2]. EAN, utility of 18 electron rule. Oxidative  addition, reductive elimination reactions and their implication in catalysis. Metal-metal  multiple bonds including quadruple and quintuple bonds.  Molecular symmetry, Point group of coordinati...
+
+## CH 206: Principles of Chemical Analysis (Inorganic Chemistry Lab I)
+- Credits: 4
+- Type: Laboratory
+- Description: Basic concepts of quantitative analysis, methods of sampling, errors in chemical analysis of data, general theory of neutralisation, redox, precipitation and  complexometric titrations. Solubility product and precipitation, organic precipitants and extractants. A brief survey of separation methods : solvent extraction and chromatography.Inorganic Semi - micro qualitative analysis involving 4 radicals. Volumetric analysis involving redox, precipitation and complexometric titrations. Gravimetric estimation of metals. Analysis of alloys and minerals.
+
+## CH 207: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+
+## CH 209: Basic Organic Chemistry
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Reaction Mechanisms: Curved arrow representation, Reaction coordinate diagrams to represent simple reactions, Acids and bases- factors affecting pKa, Lewis acids and bases, nucleophilicity/electrophilicity versus basicity/acidity, kinetic and thermodynamic control, Classification of reactions - A brief introduction to substitution, elimination, addition, oxidation, reduction, rearrangement and pericyclic reactions Alkanes: Relevance and preparation, Reactivity: bond dissociation energies and stability of radical, radical halogenation and selectivity, challenges in C-H activation, conformational effects on reactivity: cycloalkanes (3-8 membered) and polycyclic alkanes. Stereochemistry and chirality: Concept of chirality and stereoisomerism in compounds with and without chiral center (axial,...
+
+## CH 210: Inorganic Chemistry I
+- Credits: 6
+- Type: Theory
+- Description: Introductory survey of transition elements with reference to electronic configuration, oxidation states, complex compounds.  Introductory concepts of molecular symmetry.  Spectral and magnetic properties.  Introduction to theories of metal-ligand bonding and stereochemistry. Chemistry of titanium, vanadium, chromium, manganese sub-group elements, iron, cobalt, nickel, platinum metals, copper and zinc sub-group elements, group III, IV, V, VI, VII and rare gases with reference to isolation, properties, uses and important compounds.
+
+## CH 211: Physical Chemistry I
+- Credits: 6
+- Type: Theory
+- Description: Real gases, critical phenomenon,inter molecular forces, potential energy functions, liquid state. Chemical thermodynamics, thermodynamics of solutions, nonideal solutions, solutions of macromolecules including colloidal solutions, phase rule, phase equilibria. Chemical equilibria.
+
+## CH 215: Physical Chemistry Lab I
+- Credits: 4
+- Type: Laboratory
+- Description: Potentiometry, Single electrode potential, activity coefficient, titration/s, solubility product.  Condutometry, titration/s, dissociation of weak acid as a function of concentration.   Ionization constant by spectrophotometry, enzyme kinetics, use of immobilized enzyme electrode, adsorption isothem, M.O. methods in chemistry .
+
+## CH 216: Thermodynamics and Chemical Kinetics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Laws of thermodynamics, properties of entropy, criteria for spontaneity and equilibrium,  properties of free energy, Gibbs and Maxwell`s relations. Chemical potential, ideal and  real gases. Applications: phase rule, colligative properties, and chemical equilibrium.  Chemical Kinetics: Overview of reaction orders; complex reactions; chain reactions - normal and branched; Arrhenius equation.
+
+## CH 218: Organic Chemistry Lab I
+- Credits: 4
+- Type: Laboratory
+
+## CH 219: Inorganic Chemistry Lab-I
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Calibration of volumetric apparatus  2. Oxidation-Reduction titration - I  3. Oxidation-Reduction titration - II  4. Precipitation titration  5. Identification of cations and anions
+
+## CH 220: Reactions of Carbonyl Compounds
+- Credits: 6
+- Type: Theory
+
+## CH 221: Organic Chemistry I
+- Credits: 6
+- Type: Theory
+- Description: Systematic study of structure, properties and chemistry of hydrocarbons with emphasis on theoretical, stereochemical and mechanistic concepts.
+
+## CH 222: Organic Chemistry II
+- Credits: 6
+- Type: Theory
+- Prerequisite: CH 221
+- Description: Chemistry of heterofunctional organic compounds. Systematic  Study of structure, properties and  chemistry of heterofunctional organic compounds with emphasis on theoretical,  stereochemical and mechanistic concepts.
+
+## CH 223: Structure and Stereochemistry
+- Credits: 6
+- Type: Theory
+
+## CH 224: Co-ordination Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 225: Data Analysis for Chemists
+- Credits: 6
+- Type: Theory
+
+## CH 226: Inorganic Chemistry Lab-II
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Synthesis of cobalt-bis(dimethylglyoxime)Cl2 complex  2. Determination of Aluminium (III) and Iron (III) after  separation by chloride extraction  3. Separation and determination of Iron and Copper by using  cation exchange column  4. PART A: Separation of Cobalt, Nickel and Copper by paper  chromatography   PART B: Determination of capacity of   cation exchange resin  5. Synthesis of Ru-tris-(bipyridyl)(BF4)2 6. Synthesis and characterization of [Fe(4-amino-1,2,4-triazole)3]  Br2 complex
+
+## CH 227: Introduction to Transition Metal Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 228: Organic Chemistry Lab II
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: (1) Fractional Distillation  (2) Preparation of t-butyl chloride  (3) Water mediated Wittig Reaction of aldehyde  (4) Reduction of Bezophenone Using Borohydride  (5) Base-catalysed aldol-condensation of bezaldehyde with  acetone  (6) Coumarin synthesis using Pechman Condensation.  (7) Synthesis of 1, 1-bis-2-naphthol by radical coupling  reaction
+
+## CH 229: Chemical Thermodynamics
+- Credits: 6
+- Type: Theory
+
+## CH 230: Physical Chemistry Lab I
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. To determine the ionization constant of bromophenol blue indicator by  spectroscopy.  2. Conductometric determination of the hydrolysis constant of aniline  hydrochloride aqueous solution  3. Quantifying Protein Concentration using Smartphone Colorimetry  4. To determine the adsorption isotherm for the adsorption of acetic acid on  charcoal.  5. To determine the solubility curve for a ternary system of two non-miscible  liquids and a third liquid which is miscible with each of them.  6. Determination of rate constant and energy of activation for decomposition of  hydrogen peroxide using iodine clock reaction.  7. To determine the molecular weight of polystyrene by viscosity method.
+
+## CH 231: Organic Chemistry Lab I
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: (1)Vacuum Distillation; (2) Determination of physical constants, purification of solids and  liquids and method of checking their purity; (3) separation of enantiomers and  measurements of optical rotation, (4) Studies of electrophilic, nucleophilic substitution  reactions, redox reactions. (5) Extraction of Caffeine and spectroscopic characterization;  (6) Liquid-liquid extraction and spectroscopic characterization, (7) Identifying unknown  compound using NMR spectroscopy
+
+## CH 301: Co-ordination Chemistry and Magnetic Properties
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Magnetic Properties of Transition metal complexes, spin and orbital contribution to  magnetic moments, magnetic properties of lanthanide compounds, spin-crossover  compounds and types of magnetic interactions in oligonuclear transition metal complexes.  Reaction of coordination compounds, stability constants, Ligand substitution reactions  (rate law and classification of mechanisms, associative, dissociative and interchange  pathways); Ligand substitution reactions in square-planar and octahedral complexes, rate  laws, trans effect and trans influence, nucleophilicity factor, stereochemical reactions,  redox reactions, Inner sphere electron transfer, outer sphere electron transfer.
+
+## CH 302: Chemistry of Main Group Elements
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Periodic table and periodicity, valence, sub-valence and hyper-valence,  molecular symmetry and point groups. Systematic chemistry of  elements (group- wise): hydrogen chemistry, fuel cells, preparation of  deuterated compounds, chemistry of s- and p-block elements with  emphasis on their hydrides, oxides (also sulfides, selenides and  tellurides) and halides. lnterhalogen and inert gas compounds. Wades  rules and their application to boron hydrides, mixed boron hydrides and  main group clusters. Brief review of inorganic rings and cages: silicates,  silicone polymers and polyphosphazenes. Organometallic chemistry of  main group elements with special emphasis on synthesis, bonding,  reactivity and utility of lithium and Grignard reagents. Utility of main  group elements and their compounds...
+
+## CH 304: Chemistry of Biomolecules
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Carbohydrates: Introduction to carbohydrates; structure, configuration  and conformation; common reactions of carbohydrates; orthogonal  protecting groups; glycosylation: general concepts, glycoside bond  formation; oligosaccharides; carbohydrates in living systems -  glycoconjugates: glycolipids and glycoproteins; artificial sweeteners.  Heterocycles: Preparation and properties and of pyrrole, pyridine,  purine, pyrimidines and quinolines, heterocycles in nature and examples  of heterocyclic compounds as drugs.  Nucleosides, nucleotides and nucleic acids: Introduction to nucleic  acids: biological importance, discovery, structure (DNA and RNA);  chemical synthesis of oligonucleotides via phosphoramidite strategy;  DNA replication and polymerase; principle behind sequencing;  transcription...
+
+## CH 305: Chemistry of Functional Groups
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Organohalides: Relevance, Properties affecting polarization of the C-X  bond, Preparation from alkanes and alkenes, Reactions of alkyl halides:  Factors affecting substitution (SN1, SN2, SNi, SN1` and SN2`) and  elimination (E1, E2, E1CB) reactions - solvent, nucleophile, structure of  reactant, stability of carbocation, leaving group ability, stereochemistry  and neighbouring group participation. Factors affecting substitution  versus elimination reactions.  Alcohols: Relavance and sources, effects of H-bonding on structures and  properties. Preparation of alcohols through nucleophilic substitution,  reduction, organometallic reagents. Reactions: oxidation, substitution,  carbocation rearrangements. Application of alcohols and phenols.  Ethers and epoxides: Relevance and sources. Preparat...
+
+## CH 306: Group theory and Spectroscopy Techniques
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Group theory (point groups, character, statement of great orthogonality  theorem and its consequences, character table), symmetry adapted  linear combination and its application to molecular orbital theory;  vanishing and non-vanishing integrals. Spectroscopy - Transition dipole  moment and Fermi`s Golden Rule. Einstein`s Coefficients, Lasers and  Masers. Rotational (Microwave) spectroscopy, Molecular vibrations -  Infrared spectroscopy, Normal mode analysis and relation to character  tables of polyatomic molecules, Selection Rules from Group Theory,  Molecular electronic spectra. Nuclear Magnetic Resonance, Relaxation  times, FT-NMR (90 and 180 pulses), spin-spin coupling
+
+## CH 309: Introduction to Electrochemistry
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Revision of Nernst equation; EMF and free energy. Concentration cells with and without transport; Ionic mobility and conductivity. Debye002Huckel-Onsagar theory of strong electrolytes. Debye-Huckel limiting law and revisiting the idea of activity coefficients. Potentiometric and conductometric titrations.
+
+## CH 310: Inorganic Chemistry Lab III
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Synthesis of Vanadium, Aluminium & Iron acetylacetonate complexes  2. Synthesis of Cobalt(II) and Copper (II) Schiff base complexes  3. Synthesis of Ferrocene  4. Synthesis of 5, 10, 15, 20-Tetra phenyl porphyrin (H2TPP)
+
+## CH 311: Solid State
+- Credits: 3
+- Type: Theory
+- Prerequisite: NIL
+- Description: Nature of the solid state, law of constancy of interfacial angles, law of  rational indices, Miller indices, elementary ideas of symmetry, symmetry  elements and symmetry operations, qualitative idea of point and space  groups, seven crystal systems and fourteen Bravais lattices; X-ray  diffraction, Bragg-s law in vector space, a simple account of rotating  crystal method and powder pattern method. Analysis of powder  diffraction patterns of NaCl, CsCl and KCl. Defects in crystals. Glasses and  liquid crystals. Concept of Fourier space and development of reciprocal  lattice.
+
+## CH 312: Physical Chemistry Lab III
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Calculation of critical micelle concentration of detergents using DuNouy-s  surface-tensiometer.  2. Dissociation constant determination of poly-protic acid.    3. Calculation of Avogadro-s number and do error analysis for the calculation.    4. Constructing a spectrophotometer from raw components  5. Understanding small molecule binding to proteins using spectroscopic method  6. To study the redox behavior of Fe+2/ Fe+3 system by cyclic voltammetry.  7. Homogeneous Catalyzed Reaction and its Rate Determination  8. Determine the boiling point (B.P.) curve and the corresponding vapor  composition curve for a binary system of completely miscible liquids.
+
+## CH 313: Organic Chemistry Lab III
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. Diels-Alder reaction of 2,4-hexadien-1-ol with maleic anhydride  2. A chemoselctive Grignard Reaction 4-bromochlorobenzene  3. Ligand-free Suzuki-Miyaura cross-coupling reaction between parasubstituted aryl bromides and aryl boronic acids  4. One-pot asymmetric Robinson annulation reaction for the synthesis  of Wieland- Miescher ketone.  5. Solid phase synthesis, characterization, and secondary structure  determination of a silk-inspired, self-assembling peptide (2 lab  sessions
+
+## CH 315: Physical Chemistry Lab II
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: 1. To determine the activity of solvent and solute by depression of freezing point method. 2. To determine the dielectric constant and to calculate the dipole moments of polar liquids. 3. Superhydrophobic Surface Coatings: Synthesis and Characterization 4. To determine the rate constant for the saponification of ethyl acetate, using the conductance method at 30o C. 5. Secondary structure analysis of proteins 6. Spectroscopic investigation of dyes 7. Theoretical prediction of molecular properties and reaction mechanisms
+
+## CH 316: Inorganic Chemistry Lab II
+- Credits: 4
+- Type: Laboratory
+- Description: Complex material analyses minerals, alloys. Quantitative estimations using conductometry and spectrophotometry. Estimation of iron in iron ore. Estimation of mixture of metal ions by EDTA titrations.  Karl-Fischer Titration.
+
+## CH 317: Organic Chemistry Lab I
+- Credits: 4
+- Type: Laboratory
+- Description: Determination of physical constants, purification of solids and liquids and methods of checking their purity. Separation of enantiomers and measurements of optical rotation. Studies of electrophillic/nucleophilic substitution reactions, redox reactions.
+
+## CH 318: Organic Chemistry Lab II
+- Credits: 4
+- Type: Laboratory
+- Description: Qualitative analysis of organic compounds. Chemical separation of binary mixtures and their qualitative analysis.
+
+## CH 401: Organic Reactions
+- Credits: 6
+- Type: Theory
+
+## CH 402: Thermal and Photochemical Reactions
+- Credits: 6
+- Type: Theory
+
+## CH 403: Electrochemistry of Solutions and Interfaces
+- Credits: 6
+- Type: Theory
+
+## CH 404: Physical Organic Chemistry
+- Credits: 3
+- Type: Theory
+
+## CH 405: Advanced Transition Metal Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 406: Thermal and Photochemical Reactions
+- Credits: 3
+- Type: Theory
+
+## CH 408: Molecular Energetics and Dynamics
+- Credits: 6
+- Type: Theory
+
+## CH 410: Bio-Inorganic Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 415: Inorganic Chemistry Lab II
+- Credits: 4
+- Type: Laboratory
+
+## CH 416: Physical Organic Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 417: Organic Chemistry Lab II
+- Credits: 4
+- Type: Laboratory
+- Description: Chemical separation of ternary organic mixtures and characterization of the components. Simple one or two step preparations involving different techniques. Isolation of natural product(s).
+
+## CH 418: Organic Chemistry Lab. III
+- Credits: 4
+- Type: Laboratory
+- Description: Chemical separation of ternary organic mixtures and characterization of the components. Simple one or two step prepara- tions involving different techniques.  Isolation of natural  products.
+
+## CH 419: Separation Techniques Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Separation by Soxhlet and liquid-liquid extraction. Cation and anion exchange chromatography, column, thin layer and paper chromatography, gas-liquid and gelpermeation chromatography.  Ring over methods, fractional distillation, electro-dialysis, reverse osmosis.
+
+## CH 423: Organic Chemistry III
+- Credits: 6
+- Type: Theory
+- Description: A reappraisal of structure, stereochemical principles,  properties and reactivity in organic compounds.  Study of the following classes of reactions, nucleophilic substitutions, eliminations, electrophilic additions, electrophilic  and nucleophilic substitution in aromatic compounds, nucleophilic addition, halogenation, and alkylation of carbonyl compounds.  Reactions involving enamines, ester enolates and active methylenes. Chemistry of conjugated dienes, enones.  Pericyclic reactions, FMO theory.  Photochemical reactions.  Aliphatic and  aromatic nitro and amino compounds.  Oxidation and reduction  reactions.
+
+## CH 425: Chemical Bond and Molecular Geometry
+- Credits: 6
+- Type: Theory
+- Description: Postulates of quantum mechanics; hermitian operators; complete set. Derivation of the uncertainty relations. Exactly solvable problems, orbital angular momentum, and the hydrogen atom. Spin, spin orbitals, and characteristics of a many-electron wave function.  Variation theorem, variation method, the linear variation method, and the non-crossing rule.  Applications: Many-electron atoms, self-consistent field, atomic orbitals, Slater Type Orbitals, Slater exponents and the periodic properties of elements;  LCAO-MO, Hückel orbitals; Born-Oppenheimer approximation, Potential energy surface, Hellman-Feynman theorem; Hydrogen molecule ion, Hydrogen molecule; Qualitative molecular orbitals for homo- and hetero-nuclear diatomics, isoelectronic principle, hybrid orbitals, and Walsh molecular orbit...
+
+## CH 426: Rate Processes
+- Credits: 6
+- Type: Theory
+- Description: Rates of chemical reactions, rate expressions. Methods of  determining rates and orders of reactions.  Complex reactions.  Collison and transition state theories of chemical  reaction rates. Potential energy surfaces and reaction  dynamics. Application to unimolecular and bimolecular reactions.  Homogeneous catalysis, chain reactions.  Photochemical reactions.  Fast reactions.  Diffusion in solids, liquids and solutions. Chemical oscillations and nonlinear  dynamics.
+
+## CH 427: Chemical and Statistical Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Thermodynamic functions.   Partial molal quantities.  Phase  equilibria.  Non-ideal solutions.  Mixing and excess functions. Chemical equilibria. Ensembles, MB, BE and FD distributions.  Partition functions and their relationships to  thermodynamic functions and equilibrium constants. Virial  coefficients.  Introduction to non-equilibrium thermodynamics.  Onsager`s reciprocity relations.
+
+## CH 429: Modern Methods of Analysis
+- Credits: 6
+- Type: Theory
+- Description: Evaluation of reliability of analytical data and statistics  in chemical analysis. Expression of results to significant  figures. Sampling and preparation of sample for analysis.Introduction to optical methods, ultraviolet, visible, infrared spectrophotometry and fluorimetry. Atomic absorption and flame emission spectroscopy. Scattering of radiation, nephelometry, turbidimetry and Raman Spectroscopy.  Electroanalytical methods such as voltammetry, polarography,  amperometry, conductometry and high frequency titrations. Thermogravimetry and differential thermal analysis. Introduction to interphase separations with special reference to chromatography. Gas chromatography and HPLC.
+
+## CH 432: Inorganic Chemistry Lab III
+- Credits: 4
+- Type: Laboratory
+- Description: Complexometric titration by masking and demasking reactions. Estimations by nephelometry, fluorimetry, simultaneous spectrophotometry, atomic absorption sepectroscopy. Determination of composition of complex in solution. Synthesis and characterization of transition metal complexes (including organometallic compounds)and their study by spectral, magnetic and thermal methods.
+
+## CH 433: Physical Chemistry Lab II
+- Credits: 4
+- Type: Laboratory
+
+## CH 434: Physical Chemistry Lab III
+- Credits: 4
+- Type: Laboratory
+- Description: Determination of the following : partial molal volumes, dipole moment, activities by freezing point, quantum yield, heats of vaporisation and solution. Velocity constant and activation energy. Electrodes with different substrates for H2 evolution, photoelectrochemical solar cells. Vacuum measurement. IR spectrum. Use of Huckel M.O. theory, solution of Schrodinger equation.
+
+## CH 437: Chemistry of Transition Elements
+- Credits: 6
+- Type: Theory
+- Description: General chemistry of the transition elements, lanthanides and actinides including atomic nuclei and nuclear reactions, coordination chemistry including theories of metal-ligand bonding, spectral and magnetic properties, organometallic compounds of transition elements, role of transition metal ions in biological processes.
+
+## CH 438: Chemistry of Main Group Elements
+- Credits: 6
+- Type: Theory
+- Description: Chemistry of non-transition elements, stereochemistry and  bonding in non-transition elements and compounds. Solvents, solutions, acids and bases, brief review of inorganic  chains, rings and cages, organometallic compounds of non-transition elements, role of non-transition elements in  biological processes.
+
+## CH 442: Molecular Spectroscopy
+- Credits: 6
+- Type: Theory
+- Description: Interaction of radiation with matter, principles of spectroscopy, lasers.Rotational spectra, molecular geometries,  Zeeman and Stark effects, Molecular symmetry-point groups,representions, character tables. Molecular vibrations,  normal mode analysis, infrared lasers. Raman Scattering,  Resonance Raman Spectroscopy. Time resolved spectroscopy. Molecular electronic spectra, photophysical processes, dye  lasers. Magnetic resonance relaxation times- FT-NMR, spin- spin coupling, ESR, NQR, hyperfine interactions. Mossbauer  spectroscopy.
+
+## CH 481: Chemistry and Computers
+- Credits: 4
+- Type: Theory
+- Description: Numerical computing using a high level language like FORTRAN/C: Programming principles using loops, arrays and functions; use of libraries; Numerical methods: truncation and round off errors; roots; interpolation; differentiation and integration; linear equations, matrix operations; curve fitting; ODEs; optimization; Application of numerical methods to chemical problems.
+
+## CH 507: Methods in Organic Synthesis
+- Credits: 6
+- Type: Theory
+
+## CH 521: Interpretative Molecular Spectroscopy
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Mass spectrometry, the production and analysis of positive ions, molecular ions, application of isotopic abundance measurements, fragmentation modes and rearrangement of ions. Mass spectra of certain chemical classes.  Electronic spectroscopy (UV-visible) : Simple chromophoric groups, conjugated systems, and aromatic systems. Characteristic absorption of organic and inorganic compounds.   Infrared spectroscopy : Characteristic group frequencies of organic and inorganic molecules. Interpretation of spectra.   Nuclear magnetic resonance spectroscopy of compounds containing 1H, 13C, 19F and 31P nuclei. Interpretation of spectra.   Identification of organic and inorganic compounds using combination of spectral data.
+
+## CH 546: Introduction to Biomolecules
+- Credits: 6
+- Type: Theory
+
+## CH 547: Organometallic Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Historical background, factors controlling metal carbon bond formation, methods of M-C bond formation, comparative survey of structure and bonding of metalalkyls and aryls, complexes with n acids s-CO and related ligands, complexes with olefins acetylens and related unsaturated molecules, catalytic properties of mononuclear compounds, stereochemical non-rigidity in organometallic compounds, boranes, carboranes and metallocarboranes, bimetallic and cluster complexes structure and applications in catalysis, applications of organometallic compounds in organic synthesis, enantioselective synthesis via organometallic compounds, importance of organometallic compounds in certain biological systems :
+
+## CH 557: Topics in Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 576: Statistical Mechanics
+- Credits: 6
+- Type: Theory
+
+## CH 593: Project Stage I
+- Credits: 12
+- Type: Project
+
+## CH 594: Project Stage II
+- Credits: 18
+- Type: Project
+
+## CH 595: M.Sc. Project I
+- Credits: 30
+- Type: Project
+
+## CH 596: M.Sc. Project II
+- Credits: 30
+- Type: Project
+
+## CH 602: Characterization of Polymers
+- Credits: 6
+- Type: Theory
+- Description: Solubility chart for identification of polymers, specific chemical tests for various polymers, and group analysis.  Molecular weight determination using viscometry, osmometry, light scattering ultracentrifuge and gel permeation chromatography.  Thermal behaviour of polymers - DTA, TGA, DSC and TMA studies, pyrolytic gas chromatography.  Mechanical behavior of polymers, viscoelastic studies internal friction, swelling phenomenon, crosslink density. Methods to study tacticity, stereo-regularity and crystallinity.  Electrical resistivity, dielectric behaviour.
+
+## CH 792: Communication Skills -II
+- Credits: 4
+- Description: .Demonstration and evaluation of Scientific Reports, Note Taking Techniques2.Discussion and Debates after Listening, Podcasts and Webcasts3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids4.Report Writing, Document Processing Software5.Ethics and Plagiarism: practice and discussion. 6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations.8.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## CH 801: Symmetry in Chemistry
+- Credits: 6
+- Type: Theory
+- Description: Symmetry in nature. Structural regularity in Chemistry, Elements of group theory. Group theory and quantum mechanics. Symmetry principles in structural and bonding theories of molecules.  Aromatic and antiaromatic molecules. Molecular geometry; Jahn- Teller and Renner effects; dipole moments. Symmetry group for a non-rigid molecule.   Conservation of orbital symmetry in pericyclic reactions.   Symmetry in inorganic reactions. Symmetry rules for transition states. Spin symmetry restrictions in reaction path. Time reversal symmetry.   Symmetry in the interaction of radiation with matter. Transition probability and selection rules; normal modes of vibration; symmetry in electronic, nmr and esr spectra; symmetry rules governing the relation of polarisability, susceptibility, etc. to macro-scop...
+
+## CH 802: Thermodynamics and Extra Thermodynamics Relations
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of chemical thermodynamics, Statistical mechanical interpretation of the thermodynamic laws, Entropy and probability.  Free energy. Partition functions. Partition function and equilibrium constant. Arrheneous and Eyring equations. Elements of absolute rate theory. Free energy and entropy of activation.   Qualitative correlations between reaction rate and equilibria.   Linear free energy and other `extra-thermodynamic" relationships.   Structural effects on rate and equilibria in organic systems; substituents and solvent effects. The Hammett and Taft equations; conformational equilibria in acyclic compounds. Structural effects on rate and equilibria in inorganic systems : Linear free energy relationship in ligand substitution kinetics; nucleophilicity scales; nucleophilic discr...
+
+## CH 804: Pulse and FTNMR Theory and Techniques
+- Credits: 6
+- Type: Theory
+- Description: NMR parameters; nuclear spin properties of elements; spin-spin coupling; Bloch equation; the rotating frame of reference. Basic high resolution NMR spectrometer; pulsed NMR spectrometer; gating and pulse programming; free induction decay; Fourier analysis and fourier transform; fast fourier transforms; instrumental requirements, computer hardware and software of data aquisition and processing; a typical software; optimisation of parameters.  Nuclear spin relaxation; auto-correlation and spectral density functions; NOE; relaxation mechanism, quantitative aspects and dynamic experiments; methods of Tl and T2 measurements.   Spin echo; multiple pulse techniques; rotating frame experiments; chemical rate processes.   Double resonance in proton and carbon-13 NMR; gated decoupling; specific puls...
+
+## CH 805: Stereochemistry and Reactivity of Organic Compounds
+- Credits: 6
+- Type: Theory
+- Description: Structure and symmetry point group. Stereo-isomerism-optical isomerism, racemic modification, diastereoisomers, torsional isomerism, atropisomers, absolute configuration, conformational analysis, conformational and reactivity. Stereo-chemistry of ring systems. Fused rings, allenes, macromolecules tricovalent carbon. Optical rotatory dispersion, circular dichroism and their application. Stereospecific and stereo-selective synthesis. Stereochemistry and mechanism of reactions.
+
+## CH 806: Molecular Photochemistry
+- Credits: 6
+- Type: Theory
+- Description: Introduction to molecular photochemistry: Photochemical laws, electronic absorption spectra of organic and inorganic compounds. Radiative and non-radiative processes. Nature of electronically excited states (singlets and triplets). Jablonski diagrams, Kasha-s rule, experimental methods in photochemistry. Organic photochemistry: The intermolecular processes: excimers, exciplexes, energy transfer processes, electron or proton transfer reactions. Fluorescence, phosphorescence and thermally activated delayed fluorescence in organic systems. Effect of solvents on these processes. Fluorescence quenching mechanisms (static and dynamic), Stern-Volmer analysis. Photochemical name reactions: Norrish type I and II cleavage, Patero-Buchi reaction, de Mayo reaction etc. Frontier orbital correlation dia...
+
+## CH 807: Organic Synthesis
+- Credits: 6
+- Type: Theory
+- Description: Strategy and design of orgnic synthesis. Concepts of synthetic equivalent and umpolung. Selective introduction and manipulation of functional groups, protective groups. Applications of following reactions : Formation of carbon-carbon single bond. Enolate anions, enamines, directed aldol reactions, thio-carban-ions, lithium cuprates, organosilanes, palladium and nickel complexes, carbenoids, photocylisations. Photochemical methods in organic synthesis.  Formation of carbon-carbon double bond. Wittig and related reactions, oxidative decarboxylation, tolune-sulphonyl hydrazone decomposition, reductive additions to triple bond, fragmentation reactions.   Pericyclic reactions. Cycloadditions sigma-tropic rearrangements, electrocyclic and ene reactions. Free radical reactions. Remote functionali...
+
+## CH 820: Structure Analysis by Diffraction Methods
+- Credits: 6
+- Type: Theory
+- Description: Review of the principles and applications of the following for structure analysis: Electron microscopy, electron diffraction, X-ray diffraction and neutron diffraction. Advanced methods of X-ray data collection and solving the phase problem. Patterson function, image seeking functions and their use in structure analysis. Refinement of crystal structures. Low energy electron diffraction technique of structure analysis. Fluid diffraction patterns and structure dynamics. Methods of neutron diffraction: data collection, structure analysis and refinement. Use of polarised neutron beams in structure analysis. Diffraction at small angles/interpretation of larger structures. Working examples of Structure Determination of self-assembled structures, polymers etc by diffraction.
+
+## CH 821: Topics in Chemistry I
+- Credits: 6
+- Type: Theory
+
+## CH 824: Organotransition Metal and Acceptor Ligand Complex
+- Credits: 6
+- Type: Theory
+- Description: Metal carbonyls and other complexes with -acceptor ligands. Metal to metal bonds and metal atom clusters. Transition metal complexes with bonds to hydrogen, alkyls, alkenes and other related compounds. The role of insertion, oxidative addition, reductive elimination, associative dissociative reaction in catalysis. The use of organotransition metal complexes for conversion of unsaturated and related compounds. Hydrogenation (monohydride, dihydride catalysts, stereoselective hydrogenation), carbonylation (Monsanto acetic acid Process, hydroformylation, hydrocarboxylation, hydrocyanation), transition metal carbenes (olefin metathesis, carbonyl olefination, Fischer carbenes, Schrock carbenes, catalytic cyclopropanation). Metallocene complexes, organo-phosphine complexes, Complexes with MC tr...
+
+## CH 826: Topics in Chemistry
+- Credits: 6
+- Type: Theory
+
+## CH 827: Inorganic Complexes
+- Credits: 6
+- Type: Theory
+- Description: Molecular structure, point groups and character tables. Angular overlap and molecular orbital theories. Infrared, electronic, electron spin resonance and nuclear magnetic resonance spectra of metal complexes. Stability of inorganic complexes of macrocyclic ligands. Kinetics and mechanism of reactions of metal complexes. Conformational and configurational isomerism, spin equilibria.
+
+## CH 828: Spectra of Organic Compounds
+- Credits: 6
+- Type: Theory
+- Description: Magnetic properties of Nuclei, NMR relaxation chemical shifts and shielding. Blocks equation. CW and FTNMR. Correlation function and correlation time. Relaxation types and mechanism of relaxation.  Double resonance. Chemical exchange. Shielding mechanism, chemical and paramagnetic shifts. Spin-spin splitting analysis of firsr order and complex NMR spectra. Simulation experimental method. Determination of NMR. CW and FT NMR multiple irradiation. Correlation spectroscopy. Relaxation time measurement. Self diffusion coefficient measurement. Multiple pulse NMR experiment. NOE. WEFT. Chemically induced dynamic nuclear polarization. Biomolecular interactions. Quadrupole nuclei.   Determination of order parameter.   Origin of mass spectra, basic principles of chemical ionizations, field desorptio...
+
+## CH 831: Advanced Laboratory Techniques
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Safety methods in chemistry laboratories, techniques of glass-blowing, high vacuum and temperature control; instrumentation and operation of UV-vis and IR spectrophotometers, fluorescence and AA spectrometer, NMR, GC, HPLC, MS, CD, EPR, SEM, XRD and other techniques, characterization of molecules and materials and computational chemistry* (about 12 assignments).
+
+## CH 840: Enzymes and Coenzymes
+- Credits: 6
+- Type: Theory
+- Description: Enzymes-structure and conformation. Physical and chemical methods as structural probes of active site of enzymes. Affinity mechanism. Enzyme models. Clinical, medical and industrial use of enzymes. Rational drug design via enzyme inhibitors. Bioactivation of prodrugs by enzymes. Coenzyme A. Biotin Thiamine diphosphate.  Pyridoxal phosphate, suicide enzyme inhibitor. Hydrogen transfer coenzymes. Flavin coenzymes. Tetrahydro-folic acid. Dihydrofolate reductase. Anti-cancer agents. B12 coenzyme. Poisons as antagonists of PLP enzymes. Analogues of coenzymes.
+
+## CH 842: Elements of Advanced Molecular Quantum Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Second quantisation; many-particle systems; field; degenerate electron gas; Bogoliubov transformation. Variational principles applied to many-body systems; time-independent and time-dependent.  Schrodinger, interaction and Heisenberg; pictures adiabatic `switching on". Gellmann Low theorem; Green functions; Lehmann representation; physical interpretation of Green functions; one and two-particle propagators; Hartree-Fock approximation. Reduced density matrices. Diagrammatic perturbation theory. Dyson equations.   Goldstone theorem,theory of linear response. Collective modes.   Randon phase approximation Molecular collision theory.
+
+## CH 846: Atomic and Molecular Relativistic Quantum Mechanic
+- Credits: 6
+- Type: Theory
+- Description: Klein-Gorden equation, charge conjugation, nonrelativistic limit.  Dirac equation, relativistic invariance and the Lorentz groups, free particle solutions, hydrogen atom, charge conjugation and the Dirac-hole theory. Nonrelativistic limit and Foldy-Wouthuy-sen transformation. The Breit interaction.   Atomic numerical solutions, atomic hyperfine structures, atomic analytic solutions, one center expansions. Molecular Dirac-Fock analysis. Symmetry of molecular spinors. Relativistic effective potentials. Relativistic density functional treatment.   Lodwin contractions and nonrelativistic approximations to the Dirac equation. Relativistic vital theorem. Variational stability. Improved Dirac-Fock theory. Fluid-dynamical representations and fluid-dynamical interpretations of the Dirac theory.
+
+## CH 848: Advanced Molecular Energetics
+- Credits: 6
+- Type: Theory
+- Description: Statistical mechanical interpretation of the thermodynamic laws, Statistical view of entropy; Deducing 2nd and 3rd laws of thermodynamics from statistical considerations; Free energies, chemical potentials, partial molar quantities; Boltzmann distribution, partition functions and statistical mechanics of simple gases and solids; Chemical equilibrium and equilibrium constant in terms of partition functions; Qualitative correlations between reaction rate and equilibria. Structural effects on rate and equilibria in organic systems; substituents and solvent effects. The Hammett and Taft equations; conformational equilibria in acyclic compounds. Structural effects on rate and equilibria in inorganic systems: Linear free energy relationship in ligand substitution kinetics; physical kinetics; tra...
+
+## CH 849: Organic Spectroscopy
+- Credits: 6
+- Type: Theory
+- Description: UV-Vis spectroscopy: Beer-Lambert-s Law, types of transitions, factors affecting the position and intensity of bands, calculation of absorption maxima by Woodward-Fieser Rules. - IR spectroscopy: Different modes of vibrations, types of bands and their combination, vibrational coupling, factors affecting vibrational frequency, characteristic frequencies of various functional groups. - NMR spectroscopy: Basic theory, magnetic properties of atomic nuclei, Larmor/Bloch equation, relaxation phenomena, Boltzmann equilibrium, instrumentation, chemical shift, factors affecting chemical shift, spin-spin coupling, factors affecting coupling, Karplus equation, first order and complex spectra, simplification of complex spectra: spin decoupling, Lanthanide shift reagents. Heteronuclear coupling, DEPT. ...
+
+## CH 864: Biopolymers
+- Credits: 6
+- Type: Theory
+- Description: Amino acids, chemical nature of polypeptides, amino acid analysis.  Protein sequences and evolution. Conformational characteristics of polypeptides. Conformational predictions. Proteins in solution.   Interactions with other molecules.   Nucleosides and nucleotides. Coenzymes. Physical characteristics.   Conformational features. Hydrogen bonding and base stacking. The double helix. DNA polymorphism. RNA-structure. RNA- protein interaction. Higher organization of DNA. Brief survey of Relication, Transcription and translation.   Protein biosynthesis. Covalent modification and topogenesis.   Site-directed mutagenesis. Perspectives of chemical synthesis.   Functional group protection-deprotection. Condensing reagents.   Solution vs solid phase synthesis.
+
+## CH 867: Supervised Learning I
+- Credits: 10
+- Type: Project
+
+## CH 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## CHS801: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: 1st Stage: Literature  2nd Stage: Research Proposal nd Stage: Research Proposal 25% credit for attending departmental seminar
+
+## CHS802: Seminar
+- Credits: 4
+- Type: Seminar

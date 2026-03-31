@@ -1,0 +1,196 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CTARA Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Amit Arora
+- Department: CTARA
+- Designation: Professor
+- Email: amit.arora@iitb.ac.in
+- Primary Research Area: Bioenergy, Bioprocessing & Food Processing
+- Research Interests & Innovation Focus: Bioenergy, bioprocessing, food processing, membrane separations, microwave technology, paper & pulp engineering
+- Notable Projects: Bioenergy systems, food processing technology development
+- Key Tools & Platforms: MATLAB, process simulation tools
+- Industry Collaborations: Agri-food companies
+- Innovation Keywords: bioenergy, bioprocessing, food processing, membrane, microwave, paper pulp
+- Profile: https://sites.google.com/site/personalwebpageamitarora/
+
+## Anand B. Rao
+- Department: CTARA
+- Designation: Professor
+- Email: a.b.rao@iitb.ac.in
+- Primary Research Area: Energy & Environment, Climate Mitigation
+- Research Interests & Innovation Focus: Energy and environment, technology assessment, climate change mitigation, carbon capture and sequestration, renewables, energy policy, rural livelihoods
+- Notable Projects: CCS technology assessment, renewable energy for rural India
+- Key Tools & Platforms: LCA tools, energy modelling
+- Industry Collaborations: Energy policy bodies, rural development agencies
+- Innovation Keywords: energy, climate mitigation, CCS, renewables, rural livelihoods, technology assessment
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-anand-b-rao
+
+## Bakul Rao
+- Department: CTARA
+- Designation: Professor
+- Email: bakulrao@iitb.ac.in
+- Primary Research Area: Environmental Impact Assessment
+- Research Interests & Innovation Focus: Environmental impact assessment for rural areas, state-of-environment studies, field remediation, matrix characterization, climate change impacts
+- Notable Projects: EIA studies, environmental remediation projects
+- Key Tools & Platforms: GIS, environmental monitoring equipment
+- Industry Collaborations: Environmental agencies
+- Innovation Keywords: EIA, environmental remediation, climate change, rural environment, field studies
+- Profile: http://homepages.iitb.ac.in/~bakulrao/
+
+## Chaaruchandra Korde
+- Department: CTARA
+- Designation: Associate Professor
+- Email: ckorde@iitb.ac.in
+- Primary Research Area: Sustainable Rural Infrastructure
+- Research Interests & Innovation Focus: Sustainable rural infrastructure, prefab and precast construction, bamboo structures and composites, concrete technology, material investigations
+- Notable Projects: Bamboo-based construction systems, prefab for rural housing
+- Key Tools & Platforms: Structural testing equipment, materials lab
+- Industry Collaborations: Construction and housing organizations
+- Innovation Keywords: rural infrastructure, bamboo, prefab, precast, concrete, sustainable construction
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-chaaruchandra-korde
+
+## G N Hariharan
+- Department: CTARA
+- Designation: Professor
+- Email: hariharangn@iitb.ac.in
+- Primary Research Area: Rural Community Empowerment & Ecology
+- Research Interests & Innovation Focus: Rural community empowerment, mangrove restoration, livelihood development, nutrition security, bio-saline agriculture, lichen research
+- Notable Projects: Mangrove restoration projects, nutrition security programs
+- Key Tools & Platforms: Field ecology tools, GIS
+- Industry Collaborations: Rural development agencies
+- Innovation Keywords: mangrove restoration, rural empowerment, nutrition, bio-saline agriculture, lichens
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-g-n-hariharan
+
+## Kuru Dindi
+- Department: CTARA
+- Designation: Associate Professor
+- Email: kuru.dindi@iitb.ac.in
+- Primary Research Area: Digital Health & Public Health
+- Research Interests & Innovation Focus: Digital interventions in public health, health system strengthening, health policy, low-resource healthcare, NCDs, sustainable livelihood and health
+- Notable Projects: Digital health for low-resource settings, NCD management tools
+- Key Tools & Platforms: Data analytics, mobile health platforms
+- Industry Collaborations: Public health agencies
+- Innovation Keywords: digital health, public health, low-resource healthcare, NCDs, health policy
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-kuru-dindi
+
+## Pankaj Sekhsaria
+- Department: CTARA
+- Designation: Associate Professor
+- Email: pankaj.sekhsaria@iitb.ac.in
+- Primary Research Area: Science & Technology Studies & Policy
+- Research Interests & Innovation Focus: Science and technology studies, S&T policy, technology and development, history of technology, environment and development, citizen science, island studies
+- Notable Projects: Citizen science projects, technology-development interface studies
+- Key Tools & Platforms: Qualitative research methods
+- Innovation Keywords: STS, S&T policy, citizen science, technology development, environment, islands
+- Profile: https://iitbombay.academia.edu/PankajSekhsaria
+
+## Parmeshwar D. Udmale
+- Department: CTARA
+- Designation: Associate Professor
+- Email: udmale@iitb.ac.in
+- Primary Research Area: Agricultural Water Management & Disasters
+- Research Interests & Innovation Focus: Agricultural water management, hydrometeorological extremes, disaster risk assessment, droughts, food security, drone applications in agriculture
+- Notable Projects: Drone-based crop monitoring, drought risk assessment
+- Key Tools & Platforms: Drones, GIS, remote sensing, Python
+- Industry Collaborations: Agricultural agencies
+- Innovation Keywords: agricultural water, drought, disaster risk, drones, food security, hydrology
+- Profile: https://homepages.iitb.ac.in/~udmale/index.html
+
+## Pennan Chinnasamy
+- Department: CTARA
+- Designation: Associate Professor
+- Email: pennan@iitb.ac.in
+- Research Group: RUDRA Lab
+- Primary Research Area: Water Resources & Remote Sensing
+- Research Interests & Innovation Focus: Surface and groundwater modelling, water accounting, remote sensing for water, climate change impacts on water resources
+- Notable Projects: RUDRA water modelling platform, watershed management
+- Key Tools & Platforms: GIS, remote sensing, Python, water modelling tools
+- Industry Collaborations: Water management agencies
+- Innovation Keywords: groundwater, remote sensing, water accounting, climate impacts, watershed
+- Profile: https://www.rudra.iitb.ac.in/
+
+## Priya Jadhav
+- Department: CTARA
+- Designation: Assistant Professor
+- Email: priya.jadhav@iitb.ac.in
+- Primary Research Area: Rural Electrification & Solar Energy
+- Research Interests & Innovation Focus: Rural electrification, energy for irrigation, solar photovoltaics, energy efficiency, education for rural energy
+- Notable Projects: Solar PV for rural applications, irrigation energy systems
+- Key Tools & Platforms: PV testing equipment, energy audit tools
+- Industry Collaborations: Rural energy organizations
+- Innovation Keywords: rural electrification, solar PV, irrigation energy, energy efficiency, rural energy
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-priya-jadhav
+
+## Rupal Dalal
+- Department: CTARA
+- Designation: Associate Professor
+- Email: rupaldalal@iitb.ac.in
+- Primary Research Area: Maternal & Infant Nutrition
+- Research Interests & Innovation Focus: Maternal and infant nutrition, early childhood outcomes, breastfeeding techniques, behaviour change communication, public health nutrition
+- Notable Projects: Nutrition intervention studies, breastfeeding support programs
+- Key Tools & Platforms: Health assessment tools, survey methods
+- Industry Collaborations: Public health organizations
+- Innovation Keywords: maternal nutrition, infant health, breastfeeding, behaviour change, public health
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-rupal-dalal
+
+## Sanjay Chahande
+- Department: CTARA
+- Designation: Professor
+- Email: chahande@iitb.ac.in
+- Primary Research Area: Rural Development & Public Policy
+- Research Interests & Innovation Focus: Rural development, education, health, water, public policy, biometric identity (Aadhaar), governance
+- Notable Projects: Rural development policy, Aadhaar implementation studies
+- Key Tools & Platforms: Policy analysis tools
+- Industry Collaborations: Government agencies
+- Innovation Keywords: rural development, public policy, Aadhaar, health, education, water, governance
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-sanjay-chahande
+
+## Satish B. Agnihotri
+- Department: CTARA
+- Designation: Professor
+- Email: sbagnihotri@iitb.ac.in
+- Primary Research Area: Rural Development & Renewable Energy Policy
+- Research Interests & Innovation Focus: Child malnutrition, renewable energy policy, gender, rural development and technology scale-up, mapping in social planning
+- Notable Projects: Child nutrition programs, technology scale-up studies
+- Key Tools & Platforms: GIS, mapping tools, policy analysis
+- Industry Collaborations: Government (former IAS officer)
+- Innovation Keywords: child malnutrition, renewable energy policy, gender, rural development, social planning
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-satish-b-agnihotri
+
+## Shambu Prasad C
+- Department: CTARA
+- Designation: Visiting Professor
+- Email: shambu@irma.ac.in
+- Primary Research Area: Sustainable Agriculture & Social Innovation
+- Research Interests & Innovation Focus: Sustainable transitions in agriculture, social innovation and entrepreneurship, public policy research, interdisciplinary technology and development
+- Notable Projects: Agricultural innovation networks, social entrepreneurship studies
+- Key Tools & Platforms: Qualitative and mixed methods
+- Industry Collaborations: Agricultural and social organizations
+- Innovation Keywords: sustainable agriculture, social innovation, entrepreneurship, public policy, rural technology
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-shambu-prasad-c
+
+## Subodh Wagle
+- Department: CTARA
+- Designation: Professor
+- Email: subodh.wagle@iitb.ac.in
+- Primary Research Area: Public Policy Analysis & Solar Technology
+- Research Interests & Innovation Focus: Public policy analysis, solar technology dissemination, regulatory governance, urban water issues, energy governance
+- Notable Projects: Solar technology policy, urban water governance studies
+- Key Tools & Platforms: Policy analysis frameworks
+- Industry Collaborations: Government and regulatory bodies
+- Innovation Keywords: public policy, solar technology, regulatory governance, urban water, energy policy
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-subodh-wagle
+
+## Vishal R. Sardeshpande
+- Department: CTARA
+- Designation: Associate Professor
+- Email: vsardeshpande@iitb.ac.in
+- Primary Research Area: Thermal Engineering & Rural MSME Technology
+- Research Interests & Innovation Focus: Thermal engineering, energy efficiency and benchmarking, solar energy, biogas/biomass systems, rural MSME technology
+- Notable Projects: Energy efficiency in MSMEs, solar thermal systems
+- Key Tools & Platforms: Thermal testing equipment, energy audit instruments
+- Industry Collaborations: MSME sector, energy agencies
+- Innovation Keywords: thermal engineering, energy efficiency, solar, biogas, MSME technology, biomass
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/prof-vishal-r-sardeshpande

@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# KCDH (Associated) + SJMSOM Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Sarthak Gaurav
+- Department: KCDH (Associated) + SJMSOM
+- Designation: Professor, Shailesh J. Mehta School of Management
+- Email: sarthak.gaurav@iitb.ac.in
+- Research Group: Health Economics & Development Policy Group (SJMSOM)
+- Primary Research Area: Health Economics, Public Health Policy & Development Economics
+- Research Interests & Innovation Focus: Health economics & health informatics; Agricultural economics; Behavioral economics; Development economics; Digital health economics; Public health policy; Insurance & risk management; Behavioural interventions in health; Health equity; Financial inclusion; Microfinance impact
+- Notable Projects: FRSA 2023 (Fellow Royal Society of Arts); 50+ publications; 13 PhD students supervised; Cambridge University Press book author; UNICEF/World Bank collaborations; KCDH associated faculty for health economics
+- Key Tools & Platforms: Econometric analysis (Stata, R), survey design, randomized controlled trials, behavioral experiments, health data analytics
+- Industry Collaborations: UNICEF; World Bank; Public health organizations; KCDH health economics; Agricultural cooperatives
+- Awards: FRSA 2023; Cambridge UP book author; 50+ publications; 13 PhD students supervised; International collaborations (LSE, Wharton)
+- Innovation Keywords: health economics, public health policy, behavioral economics, development economics, health informatics, insurance, microfinance, health equity, digital health
+- Profile: https://www.som.iitb.ac.in/faculty/sarthak-gaurav/

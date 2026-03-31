@@ -1,0 +1,564 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Chemical Engineering Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Abhijit Chatterjee
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: abhijit@che.iitb.ac.in
+- Research Group: Multiscale Modelling Lab
+- Primary Research Area: Multiscale Modelling & Rare Events
+- Research Interests & Innovation Focus: Kinetic Monte Carlo simulations, rare event sampling, accelerated molecular dynamics, catalysis modelling, surface reaction kinetics, error estimation in multiscale methods
+- Notable Projects: KMC-based catalysis modelling, rare event molecular dynamics methods
+- Key Tools & Platforms: KMC codes, LAMMPS, Python, MATLAB, HPC
+- Awards: Highly cited researcher
+- Innovation Keywords: multiscale modelling, KMC, rare events, catalysis simulation, molecular dynamics
+- Profile: https://www.che.iitb.ac.in/faculty/abhijit-chatterjee
+
+## Abhijit Majumder
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: abhijitm@iitb.ac.in
+- Research Group: Biological Systems Engineering Lab
+- Primary Research Area: Biological Systems Engineering & Stem Cells
+- Research Interests & Innovation Focus: Stem cell bioengineering, cell-material interactions, tissue engineering, microfluidic cell culture, mathematical modelling of biological systems, regenerative medicine
+- Notable Projects: Stem cell fate control, microfluidic tissue engineering platforms
+- Key Tools & Platforms: Microfluidic devices, cell culture facilities, COMSOL, MATLAB
+- Industry Collaborations: Biomedical and pharmaceutical companies
+- Innovation Keywords: stem cells, tissue engineering, microfluidics, cell engineering, regenerative medicine
+- Profile: https://www.che.iitb.ac.in/faculty/abhijit-majumder
+
+## Amol Subhedar
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: amol.subhedar@iitb.ac.in
+- Research Group: Reaction Engineering Lab
+- Primary Research Area: Reaction Engineering & Catalysis
+- Research Interests & Innovation Focus: Heterogeneous catalysis, process intensification, sonochemistry, cavitation-based processes, green chemistry, reactor design
+- Notable Projects: Cavitation-based intensification of chemical processes
+- Key Tools & Platforms: Batch reactors, GC-MS, HPLC, ultrasonication equipment
+- Innovation Keywords: reaction engineering, catalysis, sonochemistry, process intensification, green chemistry
+- Profile: https://www.che.iitb.ac.in/faculty/amol-subhedar
+
+## Arindam Sarkar
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: asarkar@che.iitb.ac.in
+- Research Group: Food Engineering Lab
+- Primary Research Area: Food Process Engineering & Oral Processing
+- Research Interests & Innovation Focus: Food rheology, oral processing, food microstructure, sensory perception, food product design, tribology of food systems
+- Notable Projects: Oral processing of soft foods, food texture design
+- Key Tools & Platforms: Rheometer, texture analyzer, tribometer, microscopy, sensory panels
+- Industry Collaborations: Food processing companies
+- Innovation Keywords: food engineering, oral processing, rheology, food texture, tribology
+- Profile: https://www.che.iitb.ac.in/faculty/arindam-sarkar
+
+## Ateeque Malani
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: malani@che.iitb.ac.in
+- Research Group: Molecular Simulations Lab
+- Primary Research Area: Molecular Simulations & Interfacial Science
+- Research Interests & Innovation Focus: Molecular dynamics of confined fluids, clay-water interactions, adsorption in nanopores, wetting phenomena, thermodynamic properties of interfaces
+- Notable Projects: MD simulations of nanoconfined water, clay swelling mechanism studies
+- Key Tools & Platforms: LAMMPS, GROMACS, Python, HPC clusters
+- Innovation Keywords: molecular simulations, confined fluids, adsorption, clay-water, interfacial science
+- Profile: https://www.che.iitb.ac.in/faculty/ateeque-malani
+
+## Bharatkumar Suthar
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: bharat.k.suthar@iitb.ac.in
+- Research Group: Electrochemical Systems Lab
+- Primary Research Area: Electrochemical Engineering & Energy Storage
+- Research Interests & Innovation Focus: Lithium-ion battery modelling, electrochemical reactor design, fuel cells, battery management systems, physics-based battery models, degradation mechanisms
+- Notable Projects: Physics-based Li-ion battery modelling, BMS algorithm development
+- Key Tools & Platforms: COMSOL, MATLAB, battery cyclers, electrochemical impedance
+- Industry Collaborations: Battery and EV companies
+- Innovation Keywords: electrochemistry, batteries, Li-ion, fuel cells, BMS, energy storage
+- Profile: https://www.che.iitb.ac.in/faculty/bharatkumar-suthar
+
+## Devang V Khakhar
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: khakhar@iitb.ac.in
+- Research Group: Granular & Polymer Processing Lab
+- Primary Research Area: Granular Mechanics & Polymer Processing
+- Research Interests & Innovation Focus: Granular flow and mixing, polymer extrusion, chaotic mixing, segregation in granular systems, heat transfer in polymer processing
+- Notable Projects: Granular segregation in rotating drums, chaotic mixing in polymer flows
+- Key Tools & Platforms: Twin-screw extruder, high-speed camera, PIV, COMSOL
+- Industry Collaborations: Polymer processing industry
+- Awards: Former Director IIT Delhi
+- Innovation Keywords: granular mechanics, polymer processing, mixing, segregation, chaotic flow
+- Profile: https://www.che.iitb.ac.in/faculty/devang-khakhar
+
+## Ganesh A Viswanathan
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: ganeshav@iitb.ac.in
+- Research Group: Systems Biology Lab
+- Primary Research Area: Systems Biology & Computational Modelling
+- Research Interests & Innovation Focus: Gene regulatory networks, circadian rhythm modelling, nonlinear dynamics in biological systems, mathematical biology, bistability and oscillations
+- Notable Projects: Circadian clock modelling, gene network dynamics analysis
+- Key Tools & Platforms: MATLAB, Python, XPPAUT, bifurcation analysis tools
+- Innovation Keywords: systems biology, gene regulation, circadian rhythms, nonlinear dynamics, bistability
+- Profile: https://www.che.iitb.ac.in/faculty/ganesh-viswanathan
+
+## Guruswamy Kumaraswamy
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: guruswamy@iitb.ac.in
+- Research Group: Complex Fluids & Polymer Lab
+- Primary Research Area: Polymer Physics & Renewable Resources
+- Research Interests & Innovation Focus: Polymer crystallization under flow, cellulose nanofiber composites, renewable resource-based materials, flow-induced nucleation, self-assembly in polymers
+- Notable Projects: Cellulose nanofiber extraction and composites, flow-induced crystallization
+- Key Tools & Platforms: Rheometer, SAXS, WAXS, DSC, polarized optical microscopy
+- Industry Collaborations: Packaging, composite, and paper industries
+- Awards: Shanti Swarup Bhatnagar Prize (2016)
+- Innovation Keywords: polymer crystallization, cellulose nanofibers, renewable materials, self-assembly, flow
+- Profile: https://www.che.iitb.ac.in/faculty/guruswamy-kumaraswamy
+
+## Hemant Nanavati
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: hnanavati@che.iitb.ac.in
+- Research Group: Polymer Engineering Lab
+- Primary Research Area: Polymer Science & Engineering
+- Research Interests & Innovation Focus: Polymer reaction engineering, reactive extrusion, polymer blends, polymerization kinetics, polymer modification
+- Notable Projects: Reactive extrusion process development, polymer blend optimization
+- Key Tools & Platforms: Twin-screw extruder, GPC, DSC, TGA, rheometer
+- Industry Collaborations: Polymer manufacturing companies
+- Innovation Keywords: polymer engineering, reactive extrusion, polymerization, polymer blends
+- Profile: https://www.che.iitb.ac.in/faculty/hemant-nanavati
+
+## Jason R. Picardo
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: picardo@iitb.ac.in
+- Research Group: Fluid Mechanics & Transport Lab
+- Primary Research Area: Fluid Mechanics & Transport Phenomena
+- Research Interests & Innovation Focus: Inertial migration in microchannels, chaotic advection, mixing in Stokes flow, particle transport in complex geometries, Taylor dispersion
+- Notable Projects: Inertial focusing in microfluidic channels, chaotic mixing analysis
+- Key Tools & Platforms: COMSOL, OpenFOAM, Python, MATLAB
+- Innovation Keywords: fluid mechanics, transport phenomena, microfluidics, inertial migration, chaotic mixing
+- Profile: https://www.che.iitb.ac.in/faculty/jason-picardo
+
+## Jayesh Bellare
+- Department: Chemical Engineering
+- Designation: Professor Emeritus
+- Email: jb@iitb.ac.in
+- Research Group: Nanotechnology & Bioengineering Lab
+- Primary Research Area: Nanotechnology & Bioengineering
+- Research Interests & Innovation Focus: Nanoparticle synthesis, polymer nanofiber scaffolds, biomedical nanomaterials, membrane technology, cryo-TEM, drug delivery nanocarriers
+- Notable Projects: Electrospun nanofiber scaffolds for tissue engineering, cryo-TEM method development
+- Key Tools & Platforms: Cryo-TEM, electrospinning, DLS, SEM, UV-Vis
+- Industry Collaborations: Biomedical and membrane companies
+- Awards: Pioneer in cryo-TEM at IIT Bombay
+- Innovation Keywords: nanotechnology, bioengineering, nanofibers, cryo-TEM, drug delivery, membranes
+- Profile: https://www.che.iitb.ac.in/faculty/jayesh-bellare
+
+## Jhumpa Adhikari
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: adhikari@iitb.ac.in
+- Research Group: Molecular Simulations Lab
+- Primary Research Area: Molecular Simulations & Computational Chemistry
+- Research Interests & Innovation Focus: Monte Carlo and molecular dynamics simulations, phase equilibria, polymer thermodynamics, equation of state development, gas hydrate modelling
+- Notable Projects: Phase equilibria prediction using molecular simulations, gas hydrate studies
+- Key Tools & Platforms: Custom MC codes, GROMACS, Python, MATLAB
+- Innovation Keywords: molecular simulations, Monte Carlo, phase equilibria, polymer thermodynamics, gas hydrates
+- Profile: https://www.che.iitb.ac.in/faculty/jhumpa-adhikari
+
+## Jyoti Seth
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: jyoti@che.iitb.ac.in
+- Research Group: Soft Matter & Rheology Lab
+- Primary Research Area: Rheology & Soft Matter Engineering
+- Research Interests & Innovation Focus: Complex fluid rheology, yield stress materials, colloidal gels, microgels, thixotropy, soft matter mechanics
+- Notable Projects: Yield stress fluid characterization, microgel-based soft materials
+- Key Tools & Platforms: Rheometer, DLS, confocal microscopy, MATLAB
+- Innovation Keywords: rheology, soft matter, yield stress, colloidal gels, microgels, thixotropy
+- Profile: https://www.che.iitb.ac.in/faculty/jyoti-seth
+
+## K V Venkatesh
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: venks@che.iitb.ac.in
+- Research Group: Metabolic Engineering Lab
+- Primary Research Area: Metabolic Engineering & Systems Biology
+- Research Interests & Innovation Focus: Metabolic flux analysis, strain engineering for biofuels, systems-level analysis, gene regulation, synthetic biology circuits, fermentation optimization
+- Notable Projects: Metabolic engineering of E. coli for biochemical production, flux balance analysis
+- Key Tools & Platforms: Bioreactors, HPLC, GC, COBRA toolbox, MATLAB
+- Industry Collaborations: Biotech and pharmaceutical companies
+- Innovation Keywords: metabolic engineering, systems biology, flux analysis, synthetic biology, fermentation
+- Profile: https://www.che.iitb.ac.in/faculty/kv-venkatesh
+
+## Kannan M Moudgalya
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: kannan@iitb.ac.in
+- Research Group: Process Control & EdTech Lab
+- Primary Research Area: Control Systems & Educational Technology
+- Research Interests & Innovation Focus: Process control, model predictive control, open-source educational tools (Scilab, OpenModelica), NPTEL course development, digital education platforms
+- Notable Projects: Scilab-based open-source education, NPTEL Chemical Engineering courses
+- Key Tools & Platforms: Scilab, OpenModelica, MATLAB, Simulink, Python
+- Industry Collaborations: NPTEL, MHRD digital initiatives
+- Awards: NPTEL outstanding contributor
+- Innovation Keywords: process control, MPC, Scilab, educational technology, NPTEL, open-source
+- Profile: https://www.che.iitb.ac.in/faculty/kannan-moudgalya
+
+## Madhu Vinjamur
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: madhu@che.iitb.ac.in
+- Research Group: Separation & Drying Lab
+- Primary Research Area: Separation Processes & Drying Technology
+- Research Interests & Innovation Focus: Drying of polymer films, mass transfer, adsorption, membrane-based separations, multi-component diffusion, process intensification
+- Notable Projects: Film drying kinetics, adsorption-based separation process development
+- Key Tools & Platforms: Karl Fischer titrator, GC, membrane testing rig, MATLAB
+- Industry Collaborations: Chemical and pharma industries
+- Innovation Keywords: drying, separation processes, adsorption, mass transfer, membrane separation
+- Profile: https://www.che.iitb.ac.in/faculty/madhu-vinjamur
+
+## Mahesh S Tirumkudulu
+- Department: Chemical Engineering
+- Designation: Professor & HOD
+- Email: mahesh@che.iitb.ac.in
+- Research Group: Fluid Mechanics & Colloids Lab
+- Primary Research Area: Fluid Mechanics, Colloids & Complex Fluids
+- Research Interests & Innovation Focus: Cracking in colloidal films, drying processes, latex film mechanics, capillary stresses, particle segregation, coating flows, adhesion phenomena, suspension rheology
+- Notable Projects: Cracking in drying colloidal films, coating flows within rotating cylinders
+- Key Tools & Platforms: MATLAB, COMSOL, light microscopy, SEM, rheometer
+- Industry Collaborations: Coating and adhesive industries
+- Awards: H-index: 21, widely cited in colloid science
+- Innovation Keywords: fluid mechanics, colloids, thin films, drying, cracking, suspension rheology
+- Profile: https://www.che.iitb.ac.in/faculty/mahesh-s-tirumkudulu
+
+## Mani Bhushan
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: mbhushan@che.iitb.ac.in
+- Research Group: Process Systems Engineering Lab
+- Primary Research Area: Process Systems Engineering & Fault Detection
+- Research Interests & Innovation Focus: Bayesian state estimation, fault detection and diagnosis, sensor network design, process monitoring, data-driven process analytics
+- Notable Projects: Bayesian estimation for chemical processes, optimal sensor placement
+- Key Tools & Platforms: MATLAB, Python, gPROMS, ASPEN Plus
+- Industry Collaborations: Process industries
+- Innovation Keywords: process systems, fault detection, Bayesian estimation, sensor networks, monitoring
+- Profile: https://www.che.iitb.ac.in/faculty/mani-bhushan
+
+## Mukta Tripathy
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: tripathy@che.iitb.ac.in
+- Research Group: Statistical Thermodynamics Lab
+- Primary Research Area: Statistical Thermodynamics & Polymer Physics
+- Research Interests & Innovation Focus: Polymer thermodynamics, polymer field theory, self-consistent field theory, block copolymer self-assembly, polyelectrolyte solutions
+- Notable Projects: SCFT simulations of block copolymer morphologies, polyelectrolyte modelling
+- Key Tools & Platforms: Custom SCFT codes, Python, MATLAB, HPC
+- Innovation Keywords: statistical thermodynamics, polymer field theory, SCFT, block copolymers, polyelectrolytes
+- Profile: https://www.che.iitb.ac.in/faculty/mukta-tripathy
+
+## Nagappan Ramaswamy
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: nagappan@iitb.ac.in
+- Research Group: Electrocatalysis Lab
+- Primary Research Area: Electrocatalysis & Energy Materials
+- Research Interests & Innovation Focus: PEM fuel cell electrocatalysis, oxygen reduction reaction, catalyst degradation, ionomer-catalyst interactions, MEA diagnostics
+- Notable Projects: PEM fuel cell catalyst development, degradation mechanism studies
+- Key Tools & Platforms: RDE, RRDE, fuel cell test station, XAS, TEM
+- Industry Collaborations: Fuel cell and automotive companies
+- Innovation Keywords: electrocatalysis, PEM fuel cell, ORR, catalyst degradation, energy materials
+- Profile: https://www.che.iitb.ac.in/faculty/nagappan-ramaswamy
+
+## Ojus Mohan
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: ojus@iitb.ac.in
+- Research Group: Computational Catalysis Lab
+- Primary Research Area: Computational Catalysis & Soft Matter
+- Research Interests & Innovation Focus: DFT-based catalyst design, microkinetic modelling, machine learning for catalysis, reaction mechanism elucidation
+- Notable Projects: ML-accelerated catalyst screening, microkinetic models for industrial reactions
+- Key Tools & Platforms: VASP, QUANTUM ESPRESSO, Python, scikit-learn, HPC
+- Innovation Keywords: computational catalysis, DFT, microkinetic modelling, machine learning, catalyst design
+- Profile: https://www.che.iitb.ac.in/faculty/ojus-mohan
+
+## P Sunthar
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: sunthar@che.iitb.ac.in
+- Research Group: Complex Fluids Simulation Lab
+- Primary Research Area: Fluid Mechanics & Complex Fluids Simulation
+- Research Interests & Innovation Focus: Brownian dynamics of polymers, liposome formulations, DNA dynamics in flow, polymer solution rheology, lattice Boltzmann methods
+- Notable Projects: Liposome preparation for drug delivery, DNA dynamics simulations
+- Key Tools & Platforms: Custom BD codes, lattice Boltzmann solvers, MATLAB, Python
+- Industry Collaborations: Pharma (liposome-based drug delivery)
+- Innovation Keywords: complex fluids, Brownian dynamics, liposomes, DNA dynamics, lattice Boltzmann
+- Profile: https://www.che.iitb.ac.in/faculty/p-sunthar
+
+## Partha Sarathi Goswami
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: psg@iitb.ac.in
+- Research Group: Multiphase Flow Lab
+- Primary Research Area: Granular Flow & Fluid-Particle Systems
+- Research Interests & Innovation Focus: Gas-solid fluidization, CFD-DEM simulations, granular bed dynamics, spouted beds, particle-laden flows
+- Notable Projects: CFD-DEM simulation of fluidized beds, spouted bed process modelling
+- Key Tools & Platforms: OpenFOAM, CFDEM, MATLAB, high-speed imaging
+- Innovation Keywords: granular flow, fluidization, CFD-DEM, spouted beds, particle dynamics
+- Profile: https://www.che.iitb.ac.in/faculty/partha-goswami
+
+## Pramod P Wangikar
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: wangikar@iitb.ac.in
+- Research Group: Biochemical Engineering Lab
+- Primary Research Area: Biochemical Engineering & Cyanobacterial Biotechnology
+- Research Interests & Innovation Focus: Cyanobacterial metabolic engineering, photosynthetic biofuel production, enzyme engineering, systems biology of cyanobacteria, protein engineering
+- Notable Projects: Cyanobacterial chassis for biofuel/biochemical production, enzyme directed evolution
+- Key Tools & Platforms: Bioreactors, HPLC, GC-MS, flow cytometry, genome editing tools
+- Industry Collaborations: Biofuel and biotech companies
+- Innovation Keywords: biochemical engineering, cyanobacteria, biofuels, enzyme engineering, photosynthesis
+- Profile: https://www.che.iitb.ac.in/faculty/pramod-wangikar
+
+## Rajdip Bandyopadhyaya
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: rajdip@che.iitb.ac.in
+- Research Group: Nanomaterials & Colloids Lab
+- Primary Research Area: Nanomaterials, Colloid Engineering & Water Treatment
+- Research Interests & Innovation Focus: Nanoparticle synthesis and self-assembly, mesoporous materials, water purification using nanomaterials, aerosol-based nanoparticle production, colloid science
+- Notable Projects: Nanoparticle-based water purification systems, mesoporous carbon synthesis
+- Key Tools & Platforms: DLS, TEM, SEM, BET analyzer, UV-Vis
+- Industry Collaborations: Water treatment companies
+- Innovation Keywords: nanomaterials, colloids, water treatment, mesoporous materials, nanoparticle synthesis
+- Profile: https://www.che.iitb.ac.in/faculty/rajdip-bandyopadhyaya
+
+## Ratul Dasgupta
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: dasgupta.ratul@iitb.ac.in
+- Research Group: Computational Mechanics Lab
+- Primary Research Area: Computational Fluid Dynamics & Soft Matter
+- Research Interests & Innovation Focus: Amorphous solid mechanics, shear transformation zones, yielding in glasses, granular material plasticity, computational rheology
+- Notable Projects: Plastic deformation in amorphous solids, shear band formation modelling
+- Key Tools & Platforms: LAMMPS, custom MD codes, Python, MATLAB, HPC
+- Innovation Keywords: amorphous solids, shear bands, computational mechanics, granular plasticity, yielding
+- Profile: https://www.che.iitb.ac.in/faculty/ratul-dasgupta
+
+## Ravindra D Gudi
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: ravigudi@che.iitb.ac.in
+- Research Group: Process Control Lab
+- Primary Research Area: Process Control & Optimization
+- Research Interests & Innovation Focus: Advanced process control, MPC, real-time optimization, batch process control, data-driven soft sensors, process analytics
+- Notable Projects: Industrial MPC implementations, soft sensor development for chemical processes
+- Key Tools & Platforms: MATLAB, Simulink, DCS interfaces, Python
+- Industry Collaborations: Reliance, chemical process companies
+- Innovation Keywords: process control, MPC, optimization, soft sensors, batch control, data-driven
+- Profile: https://www.che.iitb.ac.in/faculty/ravindra-gudi
+
+## Rochish Madhukar Thaokar
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: rochish@che.iitb.ac.in
+- Research Group: Electrohydrodynamics Lab
+- Primary Research Area: Electrohydrodynamics & Soft Mechanics
+- Research Interests & Innovation Focus: Drop deformation in electric fields, electrospray, vesicle dynamics, electrokinetic flows, dielectrophoresis, soft matter in electric fields
+- Notable Projects: Vesicle electrodynamics, electrospray for nanoparticle generation
+- Key Tools & Platforms: High-voltage power supplies, high-speed camera, microfluidic setups, COMSOL
+- Innovation Keywords: electrohydrodynamics, vesicles, electrospray, dielectrophoresis, drop dynamics
+- Profile: https://www.che.iitb.ac.in/faculty/rochish-thaokar
+
+## Sachin C Patwardhan
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: sachinp@che.iitb.ac.in
+- Research Group: Process Systems Engineering Lab
+- Primary Research Area: Process Systems Engineering & Data Analytics
+- Research Interests & Innovation Focus: Model predictive control, process identification, data-driven control, Bayesian methods, plantwide control, real-time optimization
+- Notable Projects: Industrial plantwide control design, Bayesian process identification
+- Key Tools & Platforms: MATLAB, Python, gPROMS, ASPEN, Simulink
+- Industry Collaborations: Refineries, chemical plants
+- Innovation Keywords: MPC, process identification, data-driven control, Bayesian methods, plantwide control
+- Profile: https://www.che.iitb.ac.in/faculty/sachin-patwardhan
+
+## Sameer Jadhav
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: srjadhav@che.iitb.ac.in
+- Research Group: Cell Mechanics Lab
+- Primary Research Area: Cell Mechanics & Bioengineering
+- Research Interests & Innovation Focus: Cell mechanics, leukocyte rolling, capsule dynamics, blood flow simulation, micro-capsule deformation, biofluid mechanics
+- Notable Projects: Leukocyte adhesion dynamics, capsule deformation in flow
+- Key Tools & Platforms: Microfluidic devices, computational tools, COMSOL, optical microscopy
+- Industry Collaborations: Biomedical companies
+- Innovation Keywords: cell mechanics, leukocyte rolling, capsule dynamics, biofluid mechanics
+- Profile: https://www.che.iitb.ac.in/faculty/sameer-jadhav
+
+## Sandip Roy
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: sr@iitb.ac.in
+- Research Group: Process Design Lab
+- Primary Research Area: Process Systems Engineering & Design
+- Research Interests & Innovation Focus: Process synthesis, heat integration, mass integration, process intensification, sustainable process design
+- Notable Projects: Heat-integrated process design, mass exchange network synthesis
+- Key Tools & Platforms: ASPEN Plus, GAMS, MATLAB, Python
+- Innovation Keywords: process synthesis, heat integration, mass integration, process design, sustainability
+- Profile: https://www.che.iitb.ac.in/faculty/sandip-roy
+
+## Sanjay M Mahajani
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: sanjaym@che.iitb.ac.in
+- Research Group: Reaction Engineering & Green Processes Lab
+- Primary Research Area: Reaction Engineering & Renewable Energy
+- Research Interests & Innovation Focus: Reactive distillation, biomass gasification and pyrolysis, waste-to-energy, catalytic cracking, renewable chemical production
+- Notable Projects: Biomass gasification for syngas, reactive distillation process development
+- Key Tools & Platforms: Fixed-bed reactors, gasifiers, GC, ASPEN Plus
+- Industry Collaborations: Renewable energy and chemical companies
+- Innovation Keywords: reactive distillation, biomass, gasification, waste-to-energy, renewable chemicals
+- Profile: https://www.che.iitb.ac.in/faculty/sanjay-mahajani
+
+## Santosh Noronha
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: noronha@che.iitb.ac.in
+- Research Group: Bioprocess Engineering Lab
+- Primary Research Area: Biochemical Engineering & Healthcare Technology
+- Research Interests & Innovation Focus: Bioprocess development, recombinant protein production, vaccine bioprocessing, cell culture engineering, healthcare diagnostics
+- Notable Projects: Recombinant vaccine production, diagnostic kit development
+- Key Tools & Platforms: Bioreactors, HPLC, ELISA, cell culture facilities, flow cytometry
+- Industry Collaborations: Pharma and diagnostics companies
+- Innovation Keywords: bioprocess engineering, vaccines, recombinant proteins, diagnostics, healthcare tech
+- Profile: https://www.che.iitb.ac.in/faculty/santosh-noronha
+
+## Sarika Mehra
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: sarika@che.iitb.ac.in
+- Research Group: Systems & Synthetic Biology Lab
+- Primary Research Area: Systems Biology & Biotechnology
+- Research Interests & Innovation Focus: Mycobacterial systems biology, lipid metabolism in TB, synthetic biology circuits, omics data integration, metabolic modelling of pathogens
+- Notable Projects: TB lipid metabolism studies, multi-omics integration for drug targets
+- Key Tools & Platforms: Bioreactors, LC-MS, transcriptomics tools, COBRA, Python
+- Industry Collaborations: Pharmaceutical companies (TB drug development)
+- Innovation Keywords: systems biology, tuberculosis, lipid metabolism, synthetic biology, omics
+- Profile: https://www.che.iitb.ac.in/faculty/sarika-mehra
+
+## Sayantan Dutta
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: sayantan.dutta@iitb.ac.in
+- Research Group: Process Optimization Lab
+- Primary Research Area: Process Systems Engineering & Optimization
+- Research Interests & Innovation Focus: Process optimization under uncertainty, stochastic programming, supply chain optimization, sustainable process design
+- Notable Projects: Optimization under uncertainty for chemical processes
+- Key Tools & Platforms: GAMS, Python, MATLAB, ASPEN Plus
+- Innovation Keywords: process optimization, stochastic programming, supply chain, uncertainty, sustainability
+- Profile: https://www.che.iitb.ac.in/faculty/sayantan-dutta
+
+## Sharad Bhartiya
+- Department: Chemical Engineering
+- Designation: Professor
+- Email: bhartiya@che.iitb.ac.in
+- Research Group: Process Control & Systems Biology Lab
+- Primary Research Area: Process Control & Systems Biology
+- Research Interests & Innovation Focus: Nonlinear model predictive control, moving horizon estimation, systems biology modelling, synthetic gene circuit design, hybrid systems
+- Notable Projects: NMPC for bioprocesses, synthetic gene circuit design and analysis
+- Key Tools & Platforms: MATLAB, Python, Simulink, CasADi, systems biology tools
+- Innovation Keywords: NMPC, moving horizon estimation, systems biology, synthetic gene circuits, hybrid systems
+- Profile: https://www.che.iitb.ac.in/faculty/sharad-bhartiya
+
+## Sonali Das
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: sonali.das@iitb.ac.in
+- Research Group: Electrochemical & Green Engineering Lab
+- Primary Research Area: Electrochemical Reaction Engineering & Green Engineering
+- Research Interests & Innovation Focus: CO2 electroreduction, electrochemical synthesis, green hydrogen production, electrocatalyst development, sustainable chemical production
+- Notable Projects: CO2-to-fuels electrochemical conversion, green hydrogen via water electrolysis
+- Key Tools & Platforms: Potentiostat, gas chromatograph, electrolysis cells, XRD, XPS
+- Industry Collaborations: Green energy companies
+- Innovation Keywords: CO2 reduction, electrochemistry, green hydrogen, electrocatalysis, sustainable chemistry
+- Profile: https://www.che.iitb.ac.in/faculty/sonali-das
+
+## Sudarshan Vijay
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: sudarshan.vijay@iitb.ac.in
+- Research Group: Computational Catalysis Lab
+- Primary Research Area: Computational Catalysis & Materials Design
+- Research Interests & Innovation Focus: DFT-based catalyst screening, scaling relations in catalysis, electrochemical CO2 reduction modelling, descriptor-based materials design
+- Notable Projects: Computational screening of electrocatalysts for CO2 reduction
+- Key Tools & Platforms: VASP, ASE, Python, scikit-learn, HPC
+- Innovation Keywords: computational catalysis, DFT, scaling relations, CO2 reduction, materials design
+- Profile: https://www.che.iitb.ac.in/faculty/sudarshan-vijay
+
+## Sujit S Jogwar
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: jogwar@iitb.ac.in
+- Research Group: Process Control & Energy Lab
+- Primary Research Area: Process Control & Energy Systems
+- Research Interests & Innovation Focus: Multiscale process control, energy system integration, plantwide control design, model reduction for process systems
+- Notable Projects: Multiscale control framework for energy-integrated processes
+- Key Tools & Platforms: MATLAB, Simulink, ASPEN Plus, gPROMS
+- Industry Collaborations: Process and energy companies
+- Innovation Keywords: process control, energy systems, multiscale control, model reduction, plantwide
+- Profile: https://www.che.iitb.ac.in/faculty/sujit-jogwar
+
+## Supreet Saini
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: saini@che.iitb.ac.in
+- Research Group: Evolutionary & Synthetic Biology Lab
+- Primary Research Area: Evolutionary Biology & Bioengineering
+- Research Interests & Innovation Focus: Bacterial gene regulation evolution, synthetic biology, noise in gene expression, evolutionary systems biology, antibiotic resistance evolution
+- Notable Projects: Evolution of gene regulatory networks in bacteria, stochastic gene expression
+- Key Tools & Platforms: Flow cytometry, microfluidics, fluorescence microscopy, MATLAB, Python
+- Innovation Keywords: evolutionary biology, synthetic biology, gene regulation, stochastic expression, antibiotic resistance
+- Profile: https://www.che.iitb.ac.in/faculty/supreet-saini
+
+## Swati Bhattacharya
+- Department: Chemical Engineering
+- Designation: Assistant Professor
+- Email: swaticb@che.iitb.ac.in
+- Research Group: Multiphase Flow Lab
+- Primary Research Area: Multiphase Flow & Fluid Mechanics
+- Research Interests & Innovation Focus: Bubble and drop dynamics, two-phase flow, interfacial mass transfer, bubbly flow simulations, gas-liquid reactors
+- Notable Projects: Bubble dynamics in gas-liquid systems, interfacial transfer modelling
+- Key Tools & Platforms: High-speed camera, PIV, OpenFOAM, COMSOL
+- Innovation Keywords: multiphase flow, bubble dynamics, interfacial transfer, gas-liquid reactors
+- Profile: https://www.che.iitb.ac.in/faculty/swati-bhattacharya
+
+## Venkat Gundabala
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: venkatg@iitb.ac.in
+- Research Group: Microfluidics & Soft Matter Lab
+- Primary Research Area: Microfluidics & Soft Matter Engineering
+- Research Interests & Innovation Focus: Microfluidic droplet generation, emulsion science, particle-laden drops, drying of colloidal drops, lab-on-chip applications
+- Notable Projects: Microfluidic emulsion generation, drying patterns of colloidal drops
+- Key Tools & Platforms: Microfluidic fabrication, high-speed camera, confocal microscopy, MATLAB
+- Industry Collaborations: Pharma and food industries
+- Innovation Keywords: microfluidics, emulsions, colloidal drops, lab-on-chip, soft matter engineering
+- Profile: https://www.che.iitb.ac.in/faculty/venkat-gundabala
+
+## Yogendra Shastri
+- Department: Chemical Engineering
+- Designation: Associate Professor
+- Email: yshastri@iitb.ac.in
+- Research Group: Sustainable Engineering Lab
+- Primary Research Area: Sustainable Engineering & Systems Optimization
+- Research Interests & Innovation Focus: Biomass supply chain optimization, life cycle assessment, bioenergy systems modelling, sustainable process design, multi-objective optimization
+- Notable Projects: Biomass-to-energy supply chain optimization, LCA of bioenergy systems
+- Key Tools & Platforms: GAMS, MATLAB, Python, OpenLCA, ASPEN Plus
+- Industry Collaborations: Renewable energy and sustainability consultancies
+- Innovation Keywords: sustainable engineering, LCA, biomass, bioenergy, multi-objective optimization, supply chain
+- Profile: https://www.che.iitb.ac.in/faculty/yogendra-shastri

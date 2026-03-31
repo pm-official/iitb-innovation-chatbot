@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Electrical + KCDH Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Amit Sethi
+- Department: Electrical + KCDH
+- Designation: Associate Professor
+- Email: asethi@ee.iitb.ac.in
+- Research Group: Medical Image Analysis Lab (MeDAL)
+- Primary Research Area: Deep Learning, Computational Pathology & Medical Image Analysis
+- Research Interests & Innovation Focus: Deep learning; Medical image analysis; Computer vision; Computational pathology; Histopathology image analysis; Self-supervised learning; Domain adaptation; Generative models for medical imaging
+- Notable Projects: Computational pathology for cancer diagnosis; Self-supervised learning for histopathology; Domain adaptation for medical images; TissueNet challenge winner
+- Key Tools & Platforms: PyTorch, TensorFlow, Python, OpenSlide, medical imaging tools
+- Industry Collaborations: Hospitals; Pathology labs; Medical AI companies
+- Awards: Google Research Award; Multiple best paper awards; Top-ranked in medical image challenges
+- Innovation Keywords: deep learning, computational pathology, medical imaging, histopathology, computer vision, self-supervised learning, cancer diagnosis
+- Profile: https://www.ee.iitb.ac.in/web/people/amit-sethi/

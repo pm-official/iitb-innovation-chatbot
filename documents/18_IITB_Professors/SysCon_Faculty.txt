@@ -1,0 +1,144 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# SysCon Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Ankur A. Kulkarni
+- Department: SysCon
+- Designation: Associate Professor
+- Email: ankur@sc.iitb.ac.in
+- Research Group: Game Theory & Information Lab
+- Primary Research Area: Control — Game Theory, Stochastic Control, Decentralized Control & ML
+- Research Interests & Innovation Focus: Research on game theory, stochastic control, decentralized control, quantum information theory, and machine learning. Focus on strategic decision-making under uncertainty and information asymmetry.
+- Notable Projects: Game theory applications; Decentralized decision-making; Quantum information; Machine learning for control
+- Key Tools & Platforms: Game theory algorithms, optimization solvers, ML frameworks, Python/MATLAB
+- Industry Collaborations: Strategic decision systems and AI applications
+- Awards: Active researcher in game theory and control
+- Innovation Keywords: game theory, stochastic control, decentralized control, quantum information, machine learning, information asymmetry, strategic decisions
+- Profile: http://www.sc.iitb.ac.in/~ankur/
+
+## Prof. Arpita Sinha
+- Department: SysCon
+- Designation: Professor
+- Email: asinha@sc.iitb.ac.in
+- Research Group: Multi-Agent Systems & Game Theory Lab
+- Primary Research Area: Control — Cooperative Control, Multi-Agent Systems & Game Theory
+- Research Interests & Innovation Focus: Research on cooperative control, multi-agent systems, game theory, resource allocation, distributed robotics, and consensus algorithms for networked systems.
+- Notable Projects: Multi-agent coordination research; Game-theoretic resource allocation; Cooperative robotics
+- Key Tools & Platforms: Multi-agent simulation, game theory algorithms, distributed computing, MATLAB/Python
+- Industry Collaborations: Multi-robot systems and networked applications
+- Awards: Active researcher in multi-agent systems
+- Innovation Keywords: cooperative control, multi-agent systems, game theory, resource allocation, distributed control, consensus, networked systems
+- Profile: https://sites.google.com/iitb.ac.in/arpitasinha
+
+## Prof. Debasish Chatterjee
+- Department: SysCon
+- Designation: Professor
+- Email: dchatter@iitb.ac.in
+- Research Group: Stochastic Control & Optimization Lab
+- Primary Research Area: Control — Stochastic MPC, Switched Systems & Optimization-Based Control
+- Research Interests & Innovation Focus: Research on stochastic model predictive control, switched and hybrid systems, optimization-based control design, stochastic stability, and randomized algorithms for control.
+- Notable Projects: Stochastic MPC research; Switched systems stability; Optimization-based control design
+- Key Tools & Platforms: MATLAB, optimization solvers, stochastic simulation, MPC design tools
+- Industry Collaborations: Process control and autonomous systems
+- Awards: Active researcher in stochastic control
+- Innovation Keywords: stochastic MPC, switched systems, hybrid systems, optimization, randomized algorithms, stochastic stability, predictive control
+- Profile: http://www.sc.iitb.ac.in/~chatterjee/
+
+## Prof. Leena Vachhani
+- Department: SysCon
+- Designation: Professor
+- Email: leena@sc.iitb.ac.in
+- Research Group: Embedded Control & Robotics Lab
+- Primary Research Area: Control — Vision-Based Motion Planning, Multi-Agent Robotics & Underwater Robots
+- Research Interests & Innovation Focus: Research on embedded control systems, vision-based motion planning, multi-agent robotic systems, underwater robots, and mobile robot navigation.
+- Notable Projects: Underwater robot development; Vision-based navigation; Multi-agent robotics; Embedded control systems
+- Key Tools & Platforms: ROS, embedded systems, computer vision, motion planning algorithms, underwater robotics hardware
+- Industry Collaborations: Underwater exploration and surveillance applications
+- Awards: Active researcher in mobile and underwater robotics
+- Innovation Keywords: embedded control, vision-based planning, multi-agent robotics, underwater robots, mobile navigation, ROS
+- Profile: http://www.sc.iitb.ac.in/~leena/
+
+## Prof. Mayank Baranwal
+- Department: SysCon
+- Designation: Assistant Professor
+- Email: mayank@sc.iitb.ac.in
+- Research Group: Optimization & ML Lab
+- Primary Research Area: Control & ML — Combinatorial Optimization, Energy Systems & Graph Neural Networks
+- Research Interests & Innovation Focus: Research on optimization, control and machine learning, combinatorial optimization, energy systems, and graph neural networks for complex system optimization.
+- Notable Projects: Combinatorial optimization research; Graph neural network applications; Energy system optimization
+- Key Tools & Platforms: Python, PyTorch, graph neural networks, optimization solvers, Gurobi/CPLEX
+- Industry Collaborations: Energy systems and industrial optimization
+- Awards: Active researcher in optimization and ML
+- Innovation Keywords: optimization, combinatorial optimization, graph neural networks, energy systems, machine learning, control
+- Profile: https://www.sc.iitb.ac.in/adjunctFaculty.html
+
+## Prof. Navin Khaneja
+- Department: SysCon
+- Designation: Professor
+- Email: nkhaneja@sc.iitb.ac.in
+- Research Group: Quantum Control & NMR Lab
+- Primary Research Area: Control Theory — NMR Spectroscopy, Quantum Control & Geometric Control
+- Research Interests & Innovation Focus: Research on control theory applied to NMR spectroscopy and quantum systems. Nonlinear and geometric control, optimal pulse design for NMR, quantum information processing, and time-optimal control of quantum systems.
+- Notable Projects: NMR pulse design optimization; Quantum control theory; Time-optimal control; Previously at Harvard University
+- Key Tools & Platforms: NMR spectroscopy, quantum simulation, optimal control algorithms, MATLAB
+- Industry Collaborations: Spectroscopy and quantum computing applications
+- Awards: Formerly at Harvard University; Leading expert in quantum control
+- Innovation Keywords: quantum control, NMR spectroscopy, geometric control, optimal pulse design, time-optimal control, quantum information
+- Profile: http://www.sc.iitb.ac.in/~nkhaneja/
+
+## Prof. Rajasekhar Anguluri
+- Department: SysCon
+- Designation: Assistant Professor
+- Email: rajanguluri@iitb.ac.in
+- Research Group: Systems & Networks Lab
+- Primary Research Area: Control — Linear Systems, Structured Estimation & Energy Systems
+- Research Interests & Innovation Focus: Research on linear systems and networks, structured estimation, high-dimensional data science, and energy systems. Focus on system identification and estimation in networked systems.
+- Notable Projects: Structured estimation research; High-dimensional data science; Energy systems optimization
+- Key Tools & Platforms: System identification tools, data science frameworks, Python, estimation algorithms
+- Industry Collaborations: Energy systems and data-driven applications
+- Awards: Active researcher in systems and networks
+- Innovation Keywords: linear systems, structured estimation, high-dimensional data, energy systems, system identification, networked systems
+- Profile: https://rajanguluri.github.io/
+
+## Prof. Ravi N. Banavar
+- Department: SysCon
+- Designation: Professor
+- Email: banavar@sc.iitb.ac.in
+- Research Group: Geometric Mechanics & Control Lab
+- Primary Research Area: Control Theory — Optimal Control, Geometric Mechanics & Robotics
+- Research Interests & Innovation Focus: Research on optimal control, geometric mechanics and nonlinear control applied to robotics and aerospace systems. Focus on Lie group methods, variational principles, and geometric approaches to control problems.
+- Notable Projects: Geometric mechanics research; Nonlinear control applications; Robotics control systems
+- Key Tools & Platforms: MATLAB/Simulink, Lie group methods, variational control, robotic simulation
+- Industry Collaborations: Aerospace and robotics applications
+- Awards: Active researcher in geometric control
+- Innovation Keywords: optimal control, geometric mechanics, nonlinear control, robotics, Lie groups, variational methods, aerospace control
+- Profile: https://sites.google.com/view/ravibanavar/
+
+## Prof. Sukumar Srikant
+- Department: SysCon
+- Designation: Professor
+- Email: srikant@sc.iitb.ac.in
+- Research Group: Nonlinear Control & Aerospace Lab
+- Primary Research Area: Control — Nonlinear & Adaptive Control, Spacecraft Attitude & Robotics
+- Research Interests & Innovation Focus: Research on nonlinear and adaptive control, decentralized control, spacecraft attitude control, robotic manipulator control, and observer design for nonlinear systems.
+- Notable Projects: Spacecraft attitude control; Nonlinear adaptive systems; Decentralized control; Robotic manipulation
+- Key Tools & Platforms: Control design tools, MATLAB/Simulink, spacecraft simulation, robotic simulation
+- Industry Collaborations: Aerospace and robotics applications
+- Awards: Active researcher in nonlinear control
+- Innovation Keywords: nonlinear control, adaptive control, decentralized control, spacecraft attitude, robotics, observer design
+- Profile: http://www.sc.iitb.ac.in/~srikant/
+
+## Prof. Vivek Natarajan
+- Department: SysCon
+- Designation: Associate Professor
+- Email: vivek.natarajan@iitb.ac.in
+- Research Group: Distributed Parameter Systems Lab
+- Primary Research Area: Control — Distributed Parameter Systems, Output Regulation & Power Systems
+- Research Interests & Innovation Focus: Research on distributed parameter systems, output regulation theory, adaptive control for infinite-dimensional systems, and power system stability analysis.
+- Notable Projects: Distributed parameter control; Output regulation theory; Power system stability; Adaptive control
+- Key Tools & Platforms: PDE-based control design, MATLAB, power system simulation
+- Industry Collaborations: Power systems and process control applications
+- Awards: Active researcher in infinite-dimensional control
+- Innovation Keywords: distributed parameter systems, output regulation, adaptive control, power system stability, infinite-dimensional systems
+- Profile: https://sites.google.com/view/viveknatarajan

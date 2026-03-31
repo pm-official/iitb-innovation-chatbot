@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IEOR + KCDH (Associated) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Manjesh Kumar Hanawal
+- Department: IEOR + KCDH (Associated)
+- Designation: Associate Professor, Dept. of IEOR
+- Email: mhanawal@iitb.ac.in
+- Research Group: Machine Learning & Online Learning Group (IEOR)
+- Primary Research Area: Healthcare Operations, Machine Learning & Online Learning
+- Research Interests & Innovation Focus: Online learning algorithms; Multi-armed bandits; ML applications in healthcare resource allocation; Network security using ML; Reinforcement learning; Sequential decision making; Healthcare operations optimization; Stochastic optimization; Game theory for networks
+- Notable Projects: First PIC of TCA2I; SERB Early Career Research Award 2019-2022; Research on bandit algorithms for healthcare; ML for network security; KCDH associated faculty for healthcare operations
+- Key Tools & Platforms: Python, TensorFlow, bandit algorithms, reinforcement learning frameworks, optimization solvers, network simulation tools
+- Industry Collaborations: SERB/DST funded research; KCDH healthcare operations; Network security firms
+- Awards: SERB ECR Award 2019-2022; First PIC TCA2I; Publications in INFOCOM, IEEE/ACM Trans. Networking
+- Innovation Keywords: machine learning, online learning, bandits, healthcare operations, reinforcement learning, resource allocation, network security, optimization, digital health
+- Profile: https://www.ieor.iitb.ac.in/mhanawal

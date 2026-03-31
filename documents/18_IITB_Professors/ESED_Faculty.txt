@@ -1,0 +1,186 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ESED Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Abhishek Chakraborty
+- Department: ESED
+- Designation: Assistant Professor
+- Email: abhishekc@iitb.ac.in
+- Primary Research Area: Air Pollution & Atmospheric Chemistry
+- Research Interests & Innovation Focus: Air pollution control, fog and organic aerosol chemistry, atmospheric pollutant transport, secondary organic aerosol formation
+- Notable Projects: SOA formation studies, fog-pollution interaction research
+- Key Tools & Platforms: SMPS, AMS, chemical analysis instruments
+- Innovation Keywords: air pollution, fog chemistry, organic aerosols, atmospheric transport, SOA
+- Profile: https://www.esed.iitb.ac.in/faculty/abhishek-chakraborty
+
+## Amritanshu Shriwastav
+- Department: ESED
+- Designation: Associate Professor
+- Email: amritan@iitb.ac.in
+- Primary Research Area: Algal Biotechnology & Nutrient Recovery
+- Research Interests & Innovation Focus: Algal biotechnology, wastewater treatment, nutrient recovery, photobioreactors, resource recovery from wastewater
+- Notable Projects: Algal-based wastewater treatment, photobioreactor design
+- Key Tools & Platforms: Photobioreactors, spectrophotometer, nutrient analyzers
+- Innovation Keywords: algal biotechnology, nutrient recovery, photobioreactors, wastewater, resource recovery
+- Profile: https://www.esed.iitb.ac.in/faculty/amritanshu-shriwastav
+
+## Anil Kumar Dikshit
+- Department: ESED
+- Designation: Professor
+- Email: dikshit@iitb.ac.in
+- Primary Research Area: Environmental Impact & Air Quality
+- Research Interests & Innovation Focus: Environmental impact assessment, waste management, air quality monitoring, environmental modelling
+- Notable Projects: EIA studies, air quality monitoring networks
+- Key Tools & Platforms: Air quality monitors, GIS, modelling tools
+- Industry Collaborations: Environmental agencies
+- Innovation Keywords: EIA, waste management, air quality monitoring, environmental modelling
+- Profile: https://www.esed.iitb.ac.in/faculty/anil-kumar-dikshit
+
+## Anurag Garg
+- Department: ESED
+- Designation: Professor
+- Email: a.garg@iitb.ac.in
+- Primary Research Area: Solid Waste & Landfill Engineering
+- Research Interests & Innovation Focus: Solid waste management, landfill engineering, leachate treatment, geoenvironmental engineering
+- Notable Projects: Landfill design and monitoring, leachate treatment systems
+- Key Tools & Platforms: Landfill monitoring, geotechnical testing, water quality analysis
+- Industry Collaborations: Municipal solid waste agencies
+- Innovation Keywords: solid waste, landfill engineering, leachate, geoenvironmental, waste management
+- Profile: https://www.esed.iitb.ac.in/faculty/anurag-garg
+
+## Indrajit Chakraborty
+- Department: ESED
+- Designation: Assistant Professor
+- Email: indra.esed@iitb.ac.in
+- Primary Research Area: Environmental Microbiology & Bioremediation
+- Research Interests & Innovation Focus: Bioremediation, environmental microbiology, emerging contaminants in wastewater, anaerobic digestion
+- Notable Projects: Bioremediation technology, anaerobic treatment systems
+- Key Tools & Platforms: Bioreactors, microbiology tools, GC, HPLC
+- Innovation Keywords: bioremediation, environmental microbiology, wastewater, anaerobic digestion, contaminants
+- Profile: https://www.esed.iitb.ac.in/faculty/indrajit-chakraborty
+
+## Manoranjan Sahu
+- Department: ESED
+- Designation: Associate Professor
+- Email: mrsahu@iitb.ac.in
+- Primary Research Area: Indoor Air Quality & Aerosol Lab
+- Research Interests & Innovation Focus: Particulate matter characterisation, indoor air quality, aerosol chemistry, source apportionment, personal exposure assessment
+- Notable Projects: Indoor air quality assessment, PM source apportionment
+- Key Tools & Platforms: PM monitors, SMPS, chemical analysis, Python
+- Innovation Keywords: indoor air quality, PM, aerosol chemistry, source apportionment, personal exposure
+- Profile: https://www.esed.iitb.ac.in/faculty/manoranjan-sahu
+
+## Munish Chandel
+- Department: ESED
+- Designation: Assistant Professor
+- Email: munish.chandel@iitb.ac.in
+- Primary Research Area: Wastewater Treatment & Membrane Technology
+- Research Interests & Innovation Focus: Wastewater treatment, membrane bioreactors, electrochemical processes, micropollutant removal
+- Notable Projects: Membrane bioreactor systems, electrochemical treatment processes
+- Key Tools & Platforms: MBR systems, potentiostat, water quality analyzers
+- Innovation Keywords: wastewater treatment, membrane bioreactors, electrochemical, micropollutants
+- Profile: https://www.esed.iitb.ac.in/faculty/munish-chandel
+
+## Renuka Verma
+- Department: ESED
+- Designation: Assistant Professor
+- Email: renukaverma@iitb.ac.in
+- Primary Research Area: Environmental Toxicology & Microplastics
+- Research Interests & Innovation Focus: Environmental toxicology, microplastics, endocrine disruptors, aquatic ecotoxicology, contaminants in food and water
+- Notable Projects: Microplastic contamination studies, endocrine disruptor assessment
+- Key Tools & Platforms: GC-MS, FTIR, microscopy, ecotoxicology assays
+- Innovation Keywords: environmental toxicology, microplastics, endocrine disruptors, ecotoxicology
+- Profile: https://www.esed.iitb.ac.in/faculty/renuka-verma
+
+## Sanjeev Chaudhari
+- Department: ESED
+- Designation: Professor
+- Email: sanjeev@iitb.ac.in
+- Primary Research Area: Water Treatment & Drinking Water Quality
+- Research Interests & Innovation Focus: Water and wastewater treatment, drinking water quality, fluoride and arsenic remediation, environmental engineering
+- Notable Projects: Fluoride/arsenic removal technology, rural water treatment systems
+- Key Tools & Platforms: Water quality testing, adsorption columns, pilot plants
+- Industry Collaborations: Water utility companies
+- Innovation Keywords: water treatment, drinking water, fluoride, arsenic remediation, environmental
+- Profile: https://www.esed.iitb.ac.in/faculty/sanjeev-chaudhari
+
+## Srinidhi Balasubramanian
+- Department: ESED
+- Designation: Assistant Professor
+- Email: srinidhi@iitb.ac.in
+- Primary Research Area: Atmospheric Aerosols & Fog Chemistry
+- Research Interests & Innovation Focus: Atmospheric aerosols, fog chemistry, air quality modelling, organic aerosol formation, aerosol-cloud interactions
+- Notable Projects: Fog chemistry studies, organic aerosol characterization
+- Key Tools & Platforms: Aerosol instruments, air quality models, Python
+- Innovation Keywords: atmospheric aerosols, fog chemistry, air quality, organic aerosols
+- Profile: https://www.esed.iitb.ac.in/faculty/srinidhi-balasubramanian
+
+## Subhankar Karmakar
+- Department: ESED
+- Designation: Associate Professor
+- Email: skarmakar@iitb.ac.in
+- Primary Research Area: Urban Flooding & Climate Hydrology
+- Research Interests & Innovation Focus: Urban flooding, hydrology, water quality modelling, climate change impacts on water resources, flood risk assessment
+- Notable Projects: Urban flood modelling, climate-water impact assessment
+- Key Tools & Platforms: GIS, hydrological models, Python, R
+- Innovation Keywords: urban flooding, hydrology, water quality, climate impacts, flood risk
+- Profile: https://www.esed.iitb.ac.in/faculty/subhankar-karmakar
+
+## Suparna Mukherji
+- Department: ESED
+- Designation: Professor
+- Email: mitras@iitb.ac.in
+- Primary Research Area: Bioremediation & Contamination Lab
+- Research Interests & Innovation Focus: Biodegradation, bioremediation, soil and groundwater contamination, petroleum hydrocarbon degradation, biosurfactants
+- Notable Projects: Petroleum bioremediation, biosurfactant-enhanced cleanup
+- Key Tools & Platforms: GC-MS, microbiology, molecular biology tools
+- Industry Collaborations: Petroleum and environmental companies
+- Innovation Keywords: bioremediation, biodegradation, petroleum, biosurfactants, soil contamination
+- Profile: https://www.esed.iitb.ac.in/faculty/suparna-mukherji
+
+## Swatantra Pratap Singh
+- Department: ESED
+- Designation: Associate Professor
+- Email: swatantra@iitb.ac.in
+- Primary Research Area: Electrochemical Water Treatment
+- Research Interests & Innovation Focus: Electrochemical advanced oxidation, emerging contaminants, nanomaterial-based water treatment, electrocatalysis
+- Notable Projects: Electrochemical treatment of emerging contaminants
+- Key Tools & Platforms: Potentiostat, nanomaterial synthesis, water quality analysis
+- Innovation Keywords: electrochemical oxidation, emerging contaminants, nanomaterials, water treatment
+- Profile: https://www.esed.iitb.ac.in/faculty/swatantra-pratap-singh
+
+## Tabish Nawaz
+- Department: ESED
+- Designation: Assistant Professor
+- Email: tnawaz@iitb.ac.in
+- Primary Research Area: Resource Recovery & Water Reuse
+- Research Interests & Innovation Focus: Wastewater treatment, resource recovery, membrane technology, micropollutant removal, water reuse
+- Notable Projects: Resource recovery from wastewater, membrane filtration systems
+- Key Tools & Platforms: Membrane systems, analytical instruments
+- Innovation Keywords: resource recovery, water reuse, membrane technology, micropollutants, wastewater
+- Profile: https://www.esed.iitb.ac.in/faculty/tabish-nawaz
+
+## V.S. Vamsi Botlaguduru
+- Department: ESED
+- Designation: Assistant Professor
+- Email: vamsi.bvs@iitb.ac.in
+- Primary Research Area: Groundwater Remediation & Contaminants
+- Research Interests & Innovation Focus: Groundwater remediation, emerging contaminants, environmental engineering, subsurface contamination
+- Notable Projects: Groundwater remediation technology development
+- Key Tools & Platforms: Column experiments, GC-MS, analytical instruments
+- Innovation Keywords: groundwater remediation, emerging contaminants, subsurface, environmental engineering
+- Profile: https://www.esed.iitb.ac.in/faculty/v-s-vamsi-botlaguduru
+
+## Virendra Sethi
+- Department: ESED
+- Designation: Professor
+- Email: vsethi@iitb.ac.in
+- Primary Research Area: Air Pollution & Environmental Engineering
+- Research Interests & Innovation Focus: Air pollution, indoor air quality, drinking water contaminant transport, environmental engineering, urban air quality
+- Notable Projects: Urban air quality monitoring, water contaminant transport modelling
+- Key Tools & Platforms: Air quality monitors, water quality analysis, modelling tools
+- Industry Collaborations: Environmental agencies
+- Awards: Head of CUSE
+- Innovation Keywords: air pollution, indoor air quality, water contaminants, urban environment
+- Profile: https://www.esed.iitb.ac.in/faculty/virendra-sethi

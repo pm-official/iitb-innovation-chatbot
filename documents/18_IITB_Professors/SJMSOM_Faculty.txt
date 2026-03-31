@@ -1,0 +1,382 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# SJMSOM Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Rahul Patil
+- Department: SJMSOM
+- Designation: Associate Professor
+- Email: rahul.patil@iitb.ac.in
+- Research Group: Operations Research & Supply Chain Management Lab
+- Primary Research Area: Operations Research & Supply Chain Optimization
+- Research Interests & Innovation Focus: Operations research optimization; Supply chain management & design; Network optimization; Demand forecasting; Production planning; Inventory optimization; Decision sciences
+- Notable Projects: DNA Award Best Professor in Supply Chain Management (2018); Impactful Research Award IITB (2017); Dewang Mehta Best Teacher in Operations Management (2010); VP Decision Sciences Institute-India; Published in Computers & OR, OR Letters, Annals of OR, Int. J. Production Economics, Transportation Research-B; Consulting with L&T, John Deere, Godrej Industries
+- Key Tools & Platforms: Operations research models, supply chain optimization, network analysis, mathematical programming, simulation modeling
+- Industry Collaborations: L&T; John Deere; Godrej Industries; OptTek Inc.
+- Awards: DNA Award Best Prof. Supply Chain 2018; Impactful Research Award IITB 2017; Dewang Mehta Best Teacher 2010; VP DSI-India
+- Innovation Keywords: supply chain optimization, operations research, network design, production optimization, decision sciences, inventory, demand forecasting
+- Profile: https://www.som.iitb.ac.in/prof-rahul-patil/
+
+## Assoc. Prof. Snehal Awate
+- Department: SJMSOM
+- Designation: Associate Professor
+- Email: snehal@som.iitb.ac.in
+- Research Group: Strategic Management & International Business Group
+- Primary Research Area: Strategic Management, International Business & Knowledge Networks
+- Research Interests & Innovation Focus: Corporate strategies; International business; Organizational learning; Innovation in international contexts; Emerging markets; Social network analysis; Knowledge transfer & management; Strategic transformation; Responsible leadership; Competitive strategies
+- Notable Projects: MBA & executive teaching in Corporate Strategies, International Business, Responsible Leadership; PhD-level teaching Core Topics in Strategic Management; Executive education programs; Active Google Scholar profile
+- Key Tools & Platforms: Network analysis, qualitative research, case study analysis, strategic management frameworks
+- Industry Collaborations: Executive education programs; Corporate strategy consulting
+- Awards: Associate Professor SJMSOM; Teaching across MBA, PhD, Executive programs; Research on emerging market strategy
+- Innovation Keywords: emerging market strategy, knowledge networks, organizational learning, international expansion, strategic transformation, innovation ecosystems, network analysis
+- Profile: https://homepages.iitb.ac.in/~snehal.awate/
+
+## Assoc. Prof. T. T. Niranjan
+- Department: SJMSOM
+- Designation: Associate Professor
+- Email: ttniranjan@iitb.ac.in
+- Research Group: Behavioral Operations & Supply Chain Group
+- Primary Research Area: Behavioral Operations, Service Operations & Supply Chain Management
+- Research Interests & Innovation Focus: Empirical supply chain management; Human interaction in operations; Behavioral operations; Supply chain behavior & bullwhip effect; Information distortion in supply chains; Vendor-managed inventory; Service operations; Return management; B2B customer satisfaction; CRM effectiveness
+- Notable Projects: Finalist Chan Hahn Best Paper Award (Academy of Management); VP DSI Asia-Pacific Award; Best Theory-Driven Empirical Research Paper (DSI); Outstanding Reviewer Award (Decision Sciences); Published in Production & Operations Management, J. Supply Chain Mgmt, J. Operations Management, Decision Sciences; Seed grant IRCC IITB; CSR grant INR 3M for organic farming project
+- Key Tools & Platforms: Empirical field research, case study analysis, behavioral research, quantitative/qualitative supply chain analysis
+- Industry Collaborations: Supply chain consulting; Organic farming projects; Service operations research
+- Awards: Chan Hahn Best Paper Finalist; VP DSI Asia-Pacific Best Paper; Outstanding Reviewer Award; Published in top OM journals
+- Innovation Keywords: behavioral supply chain, bullwhip effect, service operations, information distortion, vendor collaboration, behavioral operations, CRM, sustainability
+- Profile: https://www.som.iitb.ac.in/4177/
+
+## Asst. Prof. Piyush Pandey
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: office.som@iitb.ac.in
+- Research Group: Finance & Economics Area Group
+- Primary Research Area: Financial Derivatives, Investment Management & Banking
+- Research Interests & Innovation Focus: Financial derivatives pricing & hedging; Investment management strategies; Banking sector analysis & regulation; Portfolio management & optimization; Financial integration in South Asia; Asset pricing models; Equity research; Fixed income structuring
+- Notable Projects: ICSSR-sponsored major research project on 'Financial Integration in South Asian Region'; Authored book 'Economic and Financial Integration in South Asia' (Routledge, Taylor & Francis); Published in Springer, Elsevier, Taylor & Francis journals; UGC NET & JRF qualified
+- Key Tools & Platforms: Derivative pricing models, econometric analysis, quantitative portfolio analysis, fixed income analysis, R/MATLAB
+- Industry Collaborations: JLLSFG real estate finance; Wealth management firms; Financial institutions
+- Awards: Asst. Prof. SJMSOM; ICSSR-funded researcher; Book author (Routledge); UGC NET & JRF
+- Innovation Keywords: financial derivatives, investment management, banking, portfolio optimization, financial integration, South Asia, asset pricing, quantitative finance
+- Profile: https://sites.google.com/view/piyushpandey
+
+## Asst. Prof. Rohan Chinchwadkar
+- Department: SJMSOM
+- Designation: Assistant Professor; Associate Faculty DSSE
+- Email: office.som@iitb.ac.in
+- Research Group: Entrepreneurial Finance & Innovation Lab
+- Primary Research Area: Entrepreneurial Finance, Startup Financing & AI in Finance
+- Research Interests & Innovation Focus: Entrepreneurial finance & startup financing; Venture capital & private equity; University entrepreneurship & incubation; Innovation financing mechanisms; AI in finance; Generative AI & LLMs in finance; Technology-enabled business models; Corporate venture capital
+- Notable Projects: Former Prof-in-Charge HDFC ERGO-IIT Bombay Innovation Lab; Bestselling Harvard Business Publishing case 'BETIC, IIT Bombay: Commercializing a Novel Digital Stethoscope'; Best Paper Award IIM Ahmedabad Doctoral Colloquium (2 consecutive years); Former McKinsey consultant; Quoted in Bloomberg, Economic Times, Mint; McKinsey Global Institute contribution: 'India's technology opportunity'
+- Key Tools & Platforms: Venture capital analysis, financial valuation, generative AI frameworks, LLMs, startup financial modeling, innovation metrics
+- Industry Collaborations: McKinsey & Company (former); HDFC ERGO Innovation Lab; Startup incubation networks; VC firms
+- Awards: Bestselling Harvard Business Publishing case; Best Paper IIM-A (2x); Former McKinsey; Prof-in-Charge HDFC ERGO Innovation Lab IITB; Associate Faculty DSSE
+- Innovation Keywords: entrepreneurial finance, venture capital, startup ecosystems, AI in finance, generative AI, innovation financing, technology entrepreneurship, incubation
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Asst. Prof. Sawan Rathi
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: sawanrathi@iitb.ac.in
+- Research Group: Innovation & Technology Management Area
+- Primary Research Area: Technology Diffusion, Innovation Management & Health Economics
+- Research Interests & Innovation Focus: Technology diffusion in healthcare settings; Innovation management & adoption barriers; Health economics & healthcare technology; mHealth interventions & technology engagement; Creative industries & innovation policy; Technology transfer & implementation; Pandemics & technology engagement
+- Notable Projects: Post-Doctoral Research Fellow Science Policy Research Unit (SPRU) University of Sussex UK; Collaborator with Creative Industries Policy & Evidence Centre UK; Published in Technological Forecasting & Social Change, Information Systems Frontiers, Finance Research Letters, Review of Development Economics; Research on mHealth during COVID-19
+- Key Tools & Platforms: Qualitative & mixed-methods research, innovation adoption models, technology diffusion analysis, econometric analysis
+- Industry Collaborations: Healthcare institutions; Creative Industries Policy & Evidence Centre UK; SPRU Sussex; Government policy agencies
+- Awards: Asst. Prof. SJMSOM; Post-Doc SPRU University of Sussex; Published in TFSC, ISF; mHealth innovation expert
+- Innovation Keywords: technology diffusion, healthcare innovation, mHealth, creative industries, innovation management, technology adoption, health economics, policy analysis
+- Profile: https://sites.google.com/view/sawan-rathi/home
+
+## Asst. Prof. Soumya G. Rajan
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: soumya.rajan@iitb.ac.in
+- Research Group: Organizational Behavior & HRM Group
+- Primary Research Area: Dignified Workspaces, Worker Cooperatives & Algorithmic Management
+- Research Interests & Innovation Focus: Dignity in diverse social contexts; Human-centric organizational design; CSR/ESG/Sustainability; Algorithmic management & human impact; Worker cooperatives; Employee engagement; Bounded rationality; Identity & organizational culture; Future of work
+- Notable Projects: Publications in Social Responsibility Journal, IIMB Management Review, Sage journals; Teaching case 'V-Guard: Human-First Approach'; Projects with Sri Aurobindo Rural Action Movement (SARVAM); Studies with Uralungal Labour Cooperative (ULCCS); TCS research on algorithms & future of work; Former TISS & IIT Palakkad
+- Key Tools & Platforms: Qualitative research, capability approach framework, case study analysis, mixed-methods, impact assessment
+- Industry Collaborations: Mahindra & Mahindra (M-Power U); DRDO; SARVAM; Uralungal Cooperative; TCS; Kochi Biennale 2022-23
+- Awards: Asst. Prof. SJMSOM; Former TISS (2021-24), IIT Palakkad (2018-21); Research on dignified workplaces
+- Innovation Keywords: worker dignity, human-centered work, CSR effectiveness, algorithmic management, sustainable business, cooperative enterprises, future of work, ESG
+- Profile: https://www.som.iitb.ac.in/soumya-rajan/
+
+## Asst. Prof. Srinwanti H. Chaudhury
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: office.som@iitb.ac.in
+- Research Group: Marketing Group
+- Primary Research Area: Consumer Psychology, Decision-Making & Well-being
+- Research Interests & Innovation Focus: Consumer behavior & decision-making; Consumer well-being; Emotional responses in marketing; Cognitive aspects of consumer choice; Cultural influences on consumption; Brand response & perception; Consumer psychology; Behavioral economics
+- Notable Projects: PhD UNSW Sydney; Publications in marketing & consumer behavior journals; Research on consumer well-being and brand response
+- Key Tools & Platforms: Consumer psychology research, experimental design, survey methodology, behavioral economics approaches
+- Industry Collaborations: Brand research collaborations; Consumer insights projects
+- Awards: Asst. Prof. SJMSOM; PhD UNSW Sydney; Expert in consumer well-being & decision-making
+- Innovation Keywords: consumer well-being, brand psychology, emotional branding, cultural consumer insights, behavioral marketing, consumer decision-making
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Asst. Prof. Sudeep R. Bapat
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: sudeepb@iitb.ac.in
+- Research Group: Decision Sciences Area; Associate with C-MInDS
+- Primary Research Area: Sequential Statistics, Time Series & Quantitative Finance
+- Research Interests & Innovation Focus: Sequential methodologies & statistical testing; Time series modeling & forecasting; Change point detection; Statistical finance; Quantitative research methods; Data analytics; Statistical learning; Applied statistics
+- Notable Projects: Professor-in-Charge IITB-Citadel Securities Quantitative Research Lab; NPTEL courses: 'Pre-MBA Statistics', 'Time Series Modelling & Forecasting with R'; Associate with C-MInDS; Research in quantitative finance and statistical methods
+- Key Tools & Platforms: R programming, time series methods, change point analysis, sequential analysis, quantitative finance techniques, ML approaches
+- Industry Collaborations: Citadel Securities (Quant Research Lab partnership); NPTEL online education
+- Awards: Asst. Prof. SJMSOM; PIC IITB-Citadel Securities Quant Lab; NPTEL course developer; Associate C-MInDS
+- Innovation Keywords: time series forecasting, change point detection, quantitative finance, sequential analysis, data science education, statistical modeling
+- Profile: https://sites.google.com/view/srbapat/home
+
+## Asst. Prof. Ved Beloskar
+- Department: SJMSOM
+- Designation: Assistant Professor
+- Email: ved.beloskar@som.iitb.ac.in
+- Research Group: Accounting & Finance Area
+- Primary Research Area: Sustainable Finance, ESG Investing & Corporate Governance
+- Research Interests & Innovation Focus: ESG portfolio performance; ESG screening & portfolio construction; Sustainable investment strategies in emerging markets; Corporate governance & financial performance; ESG during crisis periods; ESG integration with factor investing; Socially responsible investments (SRI)
+- Notable Projects: Naik & Rastogi Award for Excellence in PhD Research IITB (2024); WAIFC Young Academic Award 2023; FHEA (Fellow Higher Education Academy); Published in Int. J. Finance & Economics, Business Strategy & Environment, J. Business Research, Asia-Pacific Financial Markets; Research on ESG during COVID-19 in India
+- Key Tools & Platforms: Portfolio construction & analysis, ESG metrics & screening models, risk-return analysis, stochastic modeling, time series
+- Industry Collaborations: Asset management companies; Financial institutions; Sustainable finance initiatives
+- Awards: Naik & Rastogi Award IITB 2024; WAIFC Young Academic Award 2023; FHEA; CFA Level 2
+- Innovation Keywords: ESG investing, sustainable finance, corporate governance, emerging markets, portfolio performance, socially responsible investment, crisis resilience
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. Arti D. Kalro
+- Department: SJMSOM
+- Designation: Professor
+- Email: kalro.arti@iitb.ac.in
+- Research Group: Marketing Group
+- Primary Research Area: Consumer Psychology, Branding & Marketing Communications
+- Research Interests & Innovation Focus: Consumer psychology & neurosciences; Branding; Integrated marketing communications (advertising & persuasion); Online and social media marketing; Green marketing; Health communications; Qualitative & experimental methods
+- Notable Projects: Prof. S.P. Sukhatme Award for Excellence in Teaching (2021); Best Reviewer Award International Journal of Consumer Studies (2023); Departmental Excellence in Teaching Award (2016); Faculty Fellow AIM-AMA Sheth Foundation Doctoral Consortium; Emerald/AIMA funded project on cataract care in rural Tamil Nadu
+- Key Tools & Platforms: Survey research, experimentation, consumer neuroscience methods, social media analytics, qualitative research
+- Industry Collaborations: University of Madras; Great Lakes Institute of Management; Hong Kong Polytechnic University; Rotary International
+- Awards: Prof. S.P. Sukhatme Award for Teaching Excellence 2021; Best Reviewer Award IJCS 2023; Faculty Fellow AIM-AMA Sheth Foundation
+- Innovation Keywords: consumer behavior, branding, advertising, online marketing, social media, health communication, green marketing, consumer neuroscience
+- Profile: https://www.som.iitb.ac.in/prof-arti/
+
+## Prof. Ashish Pandey
+- Department: SJMSOM
+- Designation: Professor
+- Email: ashish.pandey@iitb.ac.in
+- Research Group: Organizational Behavior & HRM Group
+- Primary Research Area: Mindfulness, Yoga & Spirituality at Work
+- Research Interests & Innovation Focus: Mindfulness and yoga in management; Spirituality at workplace; Organizational behavior; Leadership development; Human resource management; Business ethics; Management of change; Self-awareness & interpersonal skills; Business-society interface
+- Notable Projects: Research on mindfulness and moral reasoning in business school students; Publications in Business Ethics: A European Review; Courses on HRM, Management of Change, Self-Awareness Workshop, Business Ethics
+- Key Tools & Platforms: Qualitative research, experiential learning, mindfulness-based interventions, organizational diagnostics
+- Industry Collaborations: IIT Madras (former visiting); Chennai Business School (former)
+- Awards: Professor SJMSOM; Research on mindfulness & ethics in management
+- Innovation Keywords: mindfulness, yoga, spirituality, leadership, organizational transformation, wellness, ethics, HRM, organizational behavior
+- Profile: https://www.som.iitb.ac.in/prof-ashish-pandey/
+
+## Prof. Ashish Singh
+- Department: SJMSOM
+- Designation: Professor
+- Email: office.som@iitb.ac.in
+- Research Group: Economics Area Group
+- Primary Research Area: Economics of Discrimination, Social Exclusion & Development
+- Research Interests & Innovation Focus: Economics of discrimination & inequality; Distribution and social exclusion; Underdevelopment; Public health economics; Demography; Development economics; Poverty analysis; Labour economics
+- Notable Projects: PhD IGIDR Mumbai; Research on economics of social exclusion and discrimination; Publications on development economics and health economics
+- Key Tools & Platforms: Econometric analysis, development economics methodology, survey analysis, demographic analysis
+- Industry Collaborations: IGIDR; Development economics research organizations
+- Awards: Professor SJMSOM; PhD IGIDR; Expert in economics of inequality and social exclusion
+- Innovation Keywords: social exclusion, discrimination economics, public health, demography, development economics, poverty, inequality, labor economics
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. Dinesh Sharma
+- Department: SJMSOM
+- Designation: Professor
+- Email: dineshsharma@iitb.ac.in
+- Research Group: Marketing Group
+- Primary Research Area: Digital Marketing, Branding & Customer Value
+- Research Interests & Innovation Focus: Digital marketing; Branding; Customer value; Customer engagement & experience; Marketing strategy; Customer relationship management; Executive marketing training
+- Notable Projects: 28 years experience as practitioner, researcher, teacher; Published in multiple peer-reviewed international journals; Written case studies; Multiple consulting & executive training programs
+- Key Tools & Platforms: Digital marketing analytics, branding research, customer value modeling, case study methodology
+- Industry Collaborations: Multiple consulting projects with corporates; Executive training engagements
+- Awards: Professor SJMSOM; 28 years marketing experience; Extensive consulting portfolio
+- Innovation Keywords: digital marketing, branding, customer experience, marketing strategy, customer engagement, value creation, CRM
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. Dipak Gupta
+- Department: SJMSOM
+- Designation: Professor of Practice (Former MD & CEO, Kotak Mahindra Bank)
+- Email: office.som@iitb.ac.in
+- Research Group: SJMSOM Strategic Management & Financial Services Leadership
+- Primary Research Area: Banking Leadership, Digital Innovation & Strategic Financial Services
+- Research Interests & Innovation Focus: Banking sector transformation & strategy; Digital innovation & cybersecurity in banking; Merger & acquisition strategy; Wealth management & financial services; Treasury & capital markets; Consumer finance solutions; Governance & risk management; Generative AI & technology innovation; ESG initiatives in banking
+- Notable Projects: 30+ years in financial services; MD & CEO Kotak Mahindra Bank (Sep-Dec 2023); Joint MD Kotak Mahindra Bank (2015-2023); Built multiple businesses including Kotak Mahindra Primus (Ford Credit JV); Oversaw IT, Cybersecurity, Digital, HR, Marketing, Compliance; Led ESG initiatives; B.Tech IIT BHU; PGDBM IIM Ahmedabad
+- Key Tools & Platforms: Strategic business planning, digital transformation frameworks, risk management, M&A integration, treasury operations, cybersecurity governance
+- Industry Collaborations: Kotak Mahindra Group; Ford Credit International; Financial regulatory bodies; Technology & AI innovation centers
+- Awards: Former MD & CEO Kotak Mahindra Bank; Joint MD 2015-23; B.Tech IIT BHU; PGDBM IIM Ahmedabad; Digital banking pioneer
+- Innovation Keywords: digital banking, cybersecurity, merger strategy, wealth management, ESG leadership, AI innovation, risk management, financial services transformation
+- Profile: https://www.som.iitb.ac.in/prof-dipak-gupta/
+
+## Prof. Gajendra Kumar Adil
+- Department: SJMSOM
+- Designation: Professor
+- Email: adil@iitb.ac.in
+- Research Group: Operations Management Group
+- Primary Research Area: Warehouse Operations & Sustainable Supply Chain Management
+- Research Interests & Innovation Focus: Design and operations of warehouses; Sustainable supply chain management; Manufacturing strategy; Operations management; Operations strategy; Facility layout optimization
+- Notable Projects: PhD Industrial Engineering University of Manitoba Canada (1994); M.Sc. Industrial Engineering University of Regina Canada; M.Tech IIT Kanpur; Research on warehouse design optimization and sustainable supply chains
+- Key Tools & Platforms: Warehouse design optimization, supply chain modeling, sustainability assessment, facility layout algorithms
+- Industry Collaborations: Operations management consulting; Canadian & Indian manufacturing firms
+- Awards: Professor SJMSOM; PhD University of Manitoba Canada; M.Tech IIT Kanpur
+- Innovation Keywords: warehouse operations, supply chain sustainability, manufacturing strategy, operations strategy, facility design, logistics optimization
+- Profile: https://www.som.iitb.ac.in/prof-gajendra-kumar-adil/
+
+## Prof. Indrajit Mukherjee
+- Department: SJMSOM
+- Designation: Professor
+- Email: indrajitmukherjee@iitb.ac.in
+- Research Group: Operations Management Group
+- Primary Research Area: Quality Engineering, Operations Management & Data Analytics
+- Research Interests & Innovation Focus: Operations management; Quality engineering & quality management; Decision sciences for quality & productivity improvement; Operational excellence; Data analytics for decision making; Supply chain & logistics optimization; Data science & statistical modelling
+- Notable Projects: Lead Editor Springer Nature Volume on 'Decision Sciences for Quality and Productivity Improvement' (2026); Editorial Board Member for multiple Springer volumes; PhD Industrial Engineering IIT Kharagpur (2007); M.Tech Quality & OR Indian Statistical Institute Kolkata
+- Key Tools & Platforms: Quality management systems, data analytics, statistical process control, Six Sigma, operations optimization, R/Python
+- Industry Collaborations: Springer Nature; Manufacturing firms for quality consulting
+- Awards: Professor SJMSOM; Lead Editor Springer Nature volumes; PhD IIT Kharagpur; M.Tech ISI Kolkata
+- Innovation Keywords: quality management, operational excellence, data science, supply chain optimization, decision sciences, Six Sigma, statistical modeling, productivity
+- Profile: https://www.som.iitb.ac.in/prof-indrajit-mukherjee/
+
+## Prof. Kirankumar Momaya
+- Department: SJMSOM
+- Designation: Professor
+- Email: office.som@iitb.ac.in
+- Research Group: Strategic Management & Competitiveness Research Group
+- Primary Research Area: Competitiveness, Management of Technology & Innovation
+- Research Interests & Innovation Focus: Business excellence & competitive advantage; Management of technology & innovation (MoT); Collaborations for competitiveness; Global competitiveness strategies; Technology transfer; Innovation management; Strategic management of technology
+- Notable Projects: Elected President Global Institute of Flexible Systems Management (2018); 60+ papers in refereed journals; 2 books authored/edited; Challenge projects in India, Canada, Japan; Worked with Hitotsubashi University Tokyo & Shimizu Corporation
+- Key Tools & Platforms: Competitiveness frameworks, business excellence models, technology management frameworks, qualitative case research
+- Industry Collaborations: Shimizu Corporation Japan; Hitotsubashi University Tokyo; Global Institute of Flexible Systems Management
+- Awards: President Global Institute of Flexible Systems Management 2018; Contributing Editor IJGBC, JAMR, JFSM; 60+ refereed publications
+- Innovation Keywords: competitiveness, business excellence, technology innovation, management of technology, global strategy, innovation ecosystems, organizational excellence
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. Mayank Pareek
+- Department: SJMSOM
+- Designation: Professor of Practice (Former President, Tata Motors PV Division)
+- Email: office.som@iitb.ac.in
+- Research Group: SJMSOM Business Turnaround & Strategic Management
+- Primary Research Area: Business Turnaround, Brand Management & Automotive Strategy
+- Research Interests & Innovation Focus: Automotive industry strategy & operations; Business turnaround & transformation; Brand building & management; Marketing & sales excellence; Product development & innovation; Strategic planning & execution; Organizational leadership; Market expansion & competitive strategy
+- Notable Projects: 35+ years Indian automotive industry leadership; President Tata Motors Passenger Vehicles Division — grew market share from 1.8% to 16%, made Tata Motors 2nd largest player after Maruti; Executive Director & COO Marketing/Sales Maruti Suzuki; Led Turnaround 2.0 'Win Sustainably in PVs'; B.Tech IIT BHU; MBA IIM Bangalore; Contributing to SOM 101 course
+- Key Tools & Platforms: Strategic business planning, market analysis, brand management frameworks, change management, lean manufacturing, consumer behavior analysis
+- Industry Collaborations: Tata Motors; Maruti Suzuki; SIAM Retail Group; Indian Society of Advertisers; IIMs & ISB (guest lectures)
+- Awards: Former President Tata Motors PV (1.8%→16% share); Former ED & COO Maruti Suzuki; B.Tech IIT BHU; MBA IIM Bangalore
+- Innovation Keywords: business turnaround, brand management, automotive strategy, marketing excellence, product development, strategic leadership, organizational transformation, market expansion
+- Profile: https://www.som.iitb.ac.in/professor-of-practice/
+
+## Prof. Omkar D. Palsule-Desai
+- Department: SJMSOM
+- Designation: Professor
+- Email: omkardpd@iitb.ac.in
+- Research Group: Operations & Supply Chain Management Group
+- Primary Research Area: Agricultural & Healthcare Supply Chains, Sustainability & Policy
+- Research Interests & Innovation Focus: Agricultural supply chains; Healthcare supply chains; Unorganized retail; Sustainability in logistics; Governance & CSR in operations; Policy-making for logistics & defense; Operations research; Game theory in supply chains; Empirical supply chain analysis
+- Notable Projects: Joined IITB April 2025; Core Faculty IIM Indore 2010-2025; Post-Doctoral Fellow IIM Bangalore; Research on evidence-based policy using OR & game theory; Government consultancy projects in agriculture, healthcare, logistics
+- Key Tools & Platforms: Operations research, game theory, empirical analysis, supply chain optimization models, policy analysis
+- Industry Collaborations: Government bodies (agriculture, defense, logistics); IIM Indore (former); IIM Bangalore (postdoc)
+- Awards: Professor SJMSOM; Post-Doc IIM Bangalore; Former Core Faculty IIM Indore (15 years)
+- Innovation Keywords: supply chain resilience, sustainable logistics, agricultural supply chain, healthcare operations, policy research, governance, CSR, game theory
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. Pankaj Dutta
+- Department: SJMSOM
+- Designation: Shailesh Mehta Chair Professor
+- Email: pdutta@iitb.ac.in
+- Research Group: Decision Sciences & Operations Research Lab
+- Primary Research Area: Supply Chain Management, Reverse Logistics & Data Analytics
+- Research Interests & Innovation Focus: Supply chain management optimization; Reverse logistics & circular economy; Data analytics applications; E-commerce supply chain; Crowdfunding mechanisms; Multi-criteria decision making (MCDM); Decision-making under risk & uncertainty; System simulation & modeling; Fuzzy set theory; Industrial engineering
+- Notable Projects: Stanford World Top 2% Scientists list (2023); Departmental Award Excellence in Teaching IITB (2022); Shailesh Mehta Chair Professor; Central Council Member ORSI; Associate Editor OPSEARCH; Published in European J. of OR, Int. J. Production Economics, Annals of OR, J. Cleaner Production, IEEE Trans. Eng. Management
+- Key Tools & Platforms: MCDM tools, system simulation, fuzzy set theory, data analytics platforms, OR optimization tools, Python/R
+- Industry Collaborations: E-commerce and supply chain organizations; Industrial engineering firms; Multiple consulting projects
+- Awards: Stanford Top 2% Scientists 2023; Shailesh Mehta Chair; Teaching Excellence Award IITB 2022; Central Council ORSI; Multiple best paper awards
+- Innovation Keywords: supply chain analytics, reverse logistics, crowdfunding, decision science, optimization, circular economy, data analytics, e-commerce, MCDM
+- Profile: https://www.som.iitb.ac.in/prof-pankaj-dutta/
+
+## Prof. Rajendra Sonar
+- Department: SJMSOM
+- Designation: Professor
+- Email: office.som@iitb.ac.in
+- Research Group: Applied AI & Intelligent Systems Lab
+- Primary Research Area: Applied AI, Intelligent Systems & Hyper-Personalization
+- Research Interests & Innovation Focus: Applied artificial intelligence; Intelligent systems development; Hybrid AI (expert systems, ANNs, case-based reasoning, genetic algorithms); N=1 analytics & hyper-personalization; AI applications to business problems; Information systems; Software architecture & development
+- Notable Projects: Founded iKen Solutions AI startup at SINE IITB (2005); 32+ years experience in software development, training, teaching, entrepreneurship, research, consulting; Guided several PhD students; Publications on AI and intelligent systems
+- Key Tools & Platforms: AI/ML frameworks, Python, database systems, expert systems, neural networks, case-based reasoning, genetic algorithms, hybrid AI architectures
+- Industry Collaborations: iKen Solutions (founded at SINE IITB); Software industry; AI/ML consulting clients
+- Awards: Professor SJMSOM; Founder iKen Solutions at SINE IITB; 32+ years mixed experience; AI entrepreneur-researcher
+- Innovation Keywords: applied AI, hyper-personalization, intelligent systems, hybrid AI, machine learning, AI for business, N=1 analytics, AI entrepreneurship
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. S. Narayan Rao
+- Department: SJMSOM
+- Designation: Professor
+- Email: narayanr@som.iitb.ac.in
+- Research Group: Finance & Economics Area Group
+- Primary Research Area: Behavioral Finance, Capital Markets & Corporate Finance
+- Research Interests & Innovation Focus: Corporate finance; Behavioral finance; Capital markets; Security analysis & portfolio management; Market valuation; M&A; Stock market behavior & investor psychology; Volatility forecasting & option pricing; Capital structure; Dividend policy signaling; Disposition effects; Earnings management
+- Notable Projects: Former Head SJMSOM (June 2020-May 2023); 40+ papers in international & national conferences; Published in Asia-Pacific Financial Markets, Review of Behavioral Finance; Former UTI Institute of Capital Markets; Visiting faculty IIM Indore, IIM Shillong, NITIE
+- Key Tools & Platforms: Econometric modeling, event study methodology, GARCH models, Black-Scholes pricing, time series analysis
+- Industry Collaborations: UTI Institute of Capital Markets (former); IIM Indore/Shillong; NITIE; TAI Pai Management Institute
+- Awards: Former Head SJMSOM 2020-2023; Professor since 2012; Extensive conference presentations at Global Finance Association, Midwest Finance Association, Asian Finance Association
+- Innovation Keywords: behavioral finance, capital markets, volatility forecasting, risk management, M&A, ESG impact, stock buybacks, portfolio management
+- Profile: https://www.som.iitb.ac.in/core-faculty/
+
+## Prof. S.V.D. Nageswara Rao
+- Department: SJMSOM
+- Designation: Professor (HAG) & Head SOM
+- Email: head.som@iitb.ac.in
+- Research Group: Finance & Economics Area Group
+- Primary Research Area: Corporate Finance, Capital Markets & ESG Investing
+- Research Interests & Innovation Focus: Corporate finance; Investment banking; Capital markets; Mutual funds; Corporate governance; Financial engineering; ESG investing; Corporate social responsibility; IPO underpricing; Market efficiency; Stochastic algorithms for finance
+- Notable Projects: Head SJMSOM; Former Chairman Metropolitan Stock Exchange of India; IFCI Best Thesis Proposal Award; FPM Alumni Research Grant; Consultancy with L&T, Ashok Leyland, ICRA Ltd; Research Monograph 'Factors Influencing Investments into Indian States' (VDM Verlag 2010); Technology Leadership Programmes for SAP India, Intel India, HPCL
+- Key Tools & Platforms: Quantitative financial analysis, financial modeling, stochastic algorithms, econometric modeling
+- Industry Collaborations: Metropolitan Stock Exchange of India; L&T; Ashok Leyland; ICRA; SAP India; Intel India; HPCL; IIM Ahmedabad/Indore/Calicut
+- Awards: Head SJMSOM; Former Chairman Metropolitan Stock Exchange of India; Member Finance Committee IIT Jammu; Editorial Board Amity Journal of Finance
+- Innovation Keywords: corporate finance, capital markets, ESG, investment banking, mutual funds, corporate governance, financial engineering, IPO, market efficiency
+- Profile: https://www.som.iitb.ac.in/sonti/
+
+## Prof. Usha Ananthakumar
+- Department: SJMSOM
+- Designation: Professor
+- Email: usha@som.iitb.ac.in
+- Research Group: Decision Sciences & Quantitative Methods Area
+- Primary Research Area: Applied Statistics, Imbalanced Data Classification & Data Mining
+- Research Interests & Innovation Focus: Applied statistics; Classification under imbalance; Statistical learning; Data mining; Neural networks & machine learning; Multivariate data analysis; Predictive analytics; Extreme value theory; Manufacturing strategy; Commodity markets; Real estate prediction
+- Notable Projects: 40+ publications in refereed journals & conferences; Departmental Award for Excellence in Teaching (2018); Best Teacher in Management Award (2012, 2008); CEP Coordinator 'Analytics for Management'; 5 PhD students completed; Research on neural networks for imbalanced data published in Data Mining and Knowledge Discovery, Applied Intelligence
+- Key Tools & Platforms: Neural networks, SOM clustering, factor analysis, logistic regression, k-means, ANFIS, conjoint analysis, R/Python/SAS
+- Industry Collaborations: Manufacturing sector; Real estate analytics; Commodity markets; Retail analytics
+- Awards: Prof. SJMSOM; Teaching Excellence 2018, 2012, 2008; CEP Coordinator Business Analytics; 40+ publications; 5 PhD completed
+- Innovation Keywords: imbalanced data classification, neural networks, data mining, statistical learning, predictive analytics, manufacturing analytics, commodity markets, real estate valuation
+- Profile: https://www.som.iitb.ac.in/prof-ms-usha-ananthakumar/
+
+## Prof. Varadraj Bapat
+- Department: SJMSOM
+- Designation: Professor
+- Email: vbapat@som.iitb.ac.in
+- Research Group: Accounting & Finance Area
+- Primary Research Area: Financial Accounting, Financial Inclusion & Corporate Governance
+- Research Interests & Innovation Focus: Corporate governance & financial disclosures; Financial inclusion & banking accessibility; Family business performance; Bankruptcy prediction & credit risk; Microfinance sustainability & SHGs; CSR & environmental sustainability; Portfolio management; Stock market volatility; Indian business models & financial systems
+- Notable Projects: 776+ Google Scholar citations; Key paper 'Studying Financial Inclusion in North-East India' (251 citations); 'Sustainability Index of Micro Finance Institutions' (101 citations); Board of Governors IIT Guwahati & NIT Manipur; Co-authored multiple McGraw Hill books; NPTEL courses on Cost Accounting
+- Key Tools & Platforms: Bankruptcy prediction models, stochastic frontier analysis, DEA, regression analysis, qualitative methods
+- Industry Collaborations: Banking & financial services; Microfinance institutions; IIT Guwahati & NIT Manipur boards
+- Awards: Prof. SJMSOM; Board Member IIT Guwahati & NIT Manipur; 776+ citations; McGraw Hill author; NPTEL instructor
+- Innovation Keywords: financial inclusion, corporate governance, family business, bankruptcy prediction, microfinance, CSR, sustainability, accounting, stock market
+- Profile: https://www.som.iitb.ac.in/prof-varadraj-bapat/
+
+## Prof. Vinish Kathuria
+- Department: SJMSOM
+- Designation: Shailesh J. Mehta Chair Professor (on lien as Director IDS Jaipur)
+- Email: vinishk@som.iitb.ac.in
+- Research Group: Economics Area & Ashank Desai Centre for Policy Studies
+- Primary Research Area: Industrial Economics, Energy Economics & Environmental Policy
+- Research Interests & Innovation Focus: Regulatory governance & industrial efficiency; Energy policy & power sector economics; Environmental economics & pollution control; Productivity measurement & technical efficiency; Economics of technical change & innovation; FDI & technology transfer; Science, technology & industry policy; Manufacturing dualism; Renewable energy economics; Competitive bidding in energy
+- Notable Projects: Mahalanobis Memorial Medal Award 2010 (Indian Econometric Society); 125+ publications including Routledge edited book; Published in Research Policy, Energy Policy, J. Development Studies, World Development, Ecological Economics; Top 5% business school researchers in India; Director Institute of Development Studies Jaipur (on lien since Sept 2023)
+- Key Tools & Platforms: Stochastic frontier analysis, DEA, productivity analysis, econometric modeling, policy analysis, environmental impact assessment
+- Industry Collaborations: Ministry of Power GoI; Renewable energy organizations; Environmental regulatory bodies; Energy policy think tanks
+- Awards: Mahalanobis Memorial Medal 2010; Shailesh Mehta Chair; 125+ publications; Director IDS Jaipur; Top 5% business school researchers India
+- Innovation Keywords: energy economics, regulatory economics, environmental policy, industrial efficiency, technical change, FDI, renewable energy, productivity analysis, power sector reform, pollution economics
+- Profile: https://www.som.iitb.ac.in/dr-vinish-kumar-kathuria/

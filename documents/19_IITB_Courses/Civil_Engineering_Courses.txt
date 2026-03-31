@@ -1,0 +1,922 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Civil Engineering - Course Catalog for IIT Bombay Students
+
+
+## CE 102: Engineering Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Equivalent Force Systems:  Basic concepts of force-couple systems.  planar firce systems: parallel force systems; simplest equivalent for general force system- "wrench". distributed force systems.Equations of Statics and its Applications: Simple frictionless rigid body assemblies; two foce members: machines: trusses: cables: rigid body assemblies including friction.Virtual Work and Potential Energy Principles: Application of these principles as replacement of equations of statics for real life problems.Vibrations:  Equations of motion for single degree-of-freedom systems and rigid body assemblies:  free vibration (simple harmonic oscillator): concepts of dampling and cirtical damping: damped free vibration: equations of motion for harmonic excitation: transient and steady-state vibrations:...
+
+## CE 103: Introduction to Civil Engineering
+- Credits: 6
+- Type: Theory
+- Description: Course Objectives: To expose students to the history of civil engineering and role in building human civilisations. To expose students to the fundamentals of civil engineering relevant to challenges faced by society in the 21st century. To inspire students for leadership and excellence in their professional careers. To expose students regarding societal-scale and global challenges involving civil engineering domain with innovative, often multi-disciplinary, solutions. Learning Outcomes: An overall understanding of requirements of sustainable design of future infrastructure systems, particularly in the context of India-s rapid urbanization and growth. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics. Se...
+
+## CE 201: Solid Mechanics I
+- Credits: 8
+- Type: Theory
+- Prerequisite: CE 102
+- Description: Rigid and deformable solids; Method of sections for evaluating internal forces in bodies - review of free body diagrams; Concept of stress - normal and shear stresses; State of stress; Concept of strain - normal and shear strains; State of strain; Hooke-s law; Constitutive relations; Axially loaded members, force and deflections; Indeterminate systems and compatibility conditions; Simple indeterminate systems and lack of fit problems; Generalized Hooke-s law; Stress in cylindrical and spherical shells; Torsion of circular shafts - determinate and simple indeterminate systems. Elastic theory of bending of beams; Shear force and bending moment diagrams; Bending and shearing stresses in beams of symmetrical cross-section; Concept of shear flow and shear centre; Principle of superposition and ...
+
+## CE 203: Solid Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Revised: Stress, strain in deformable solids; Equilibrium, Compatibility, Principle of superposition; Stresses and displacements due to Axial loading, Torsional loading;  Shear Force and Bending Moment diagrams; Bending and Shear stresses in Beams; Deflection in beams; State of stress, strain at a point, 3-D Hooke-s law; Transformations of stresses, strains.
+
+## CE 204: Engineering Surveying
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to Surveying, Datums and Coordinate Systems, Fundamentals of Measurement and Errors, Linear and Angular Measurements, Levelling and Contouring, Total Station Surveying, GNSS Principles and Surveying, Control Survey, Survey Data Processing and Map Preparation, Recent Advancements in Surveying Methods
+
+## CE 205: Fluid Mechanics I
+- Credits: 6
+- Type: Theory
+- Description: Fundamental Concepts of Fluid Flow: Fundamental definitions, Flow characteristics, Classification of fluids, Fluid properties, Foundations of flow analysis. Fluid Statics: Fluid pressure, Forces on solid surfaces, Buoyant forces. Kinematics of Fluid Flow: Equations for acceleration, Continuity equation, Irrotational and rotational flow, Potential and stream functions. Dynamics of Fluid Flow: Finite control volume analysis, Euler and Bernoulli302222s theorems, Impulse momentum theory, Applications of energy and momentum equations. Laminar and Turbulent Flows: Types of flow, Reynolds experiment, Laminar flow between parallel plates, Laminar flow in pipes, Turbulent flow in pipes. Navier-Stokes Equations and Applications: Introduction to Navier-Stokes equations, Exact solutions for simple cas...
+
+## CE 206: Hydraulic Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: CE 205
+- Description: Dimensional Analysis: Model similitude, Model scales, Theory and applications. Pipe Flow Systems: Darcy-Weisbach equation, Moody diagram, Energy losses in pipelines, Minor losses, Multiple pipe systems, pipe networks, unsteady flow in pipes. Open channel flows 302226 momentum and energy equations, correction factors,, specific energy, specific force, critical flows. Uniform and non-uniform flows 302226 properties, design of channels, Gradually varied flows. Rapidly varied flows 302226 flow over a spillway, hydraulic jump, control and stabilization. Unsteady flows 302226 basic equations, uniformly progressive flow, flood waves, flood routing.
+
+## CE 207: Hydromechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Course Objectives:     - To expose students to the fundamentals of fluid flow including the concepts related to fluid dynamics and turbulence     - To expose students to application of fluid mechanics to analyze flow of water through pipes and open channels      - To solve fluid mechanics problems relevant to practice in civil engineering   Learning Outcomes:     - An ability to understand and recall basic concepts of fluid mechanics     - An ability to identify, formulate, and solve problems related to fundamental fluid flow phenomenon     - An overall understanding of the requirements of application of fluid mechanics to the design of infrastructure projects     - An ability to communicate effectively with a range of audiences     - An ability to function effectively on a team whose memb...
+
+## CE 209: Building Materials and Construction
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: - To gain fundamental understanding about the conventional and modern construction materials     - To enable students to acquire knowledge on the building systems using the construction materials Learning Outcomes:     - An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.     - An ability to communicate effectively with a range of audiences.     - An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.     - An ability to acquire and apply new knowle...
+
+## CE 211: Solid Mechanics Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Tension test on mild steel and cast iron rods, impact test on metal, compression and shear test on Neoprene pad specimens, buckling of slender steel columns, torsion test on round mild steel and cast iron rods, indentation hardness test on metals. Measurement of strain by electrical resistance strain gauge (cantilever beam), evaluation of Poisson-s ratio on mild steel flat, deflection of simply supported,  location of shear centre in a channel section, unsymmetrical bending. Compression test on plane concrete cube and cylinder, ultrasonic test on concrete cube.
+
+## CE 213: Fluid Mechanics Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Study experiments: Ideal fluid motion past a two-dimensional circular cylinder by means of electrical analogues, Boundary layer growth analysis in a wind tunnel, Minor transition losses in pipes, friction factors in pipe, Flow measurements by orifices, venturimeter and notches, Bernoulli apparatus, Reynolds apparatus. Flow net studies around circular cylinder, Verification of Darcy-s law.
+
+## CE 216: Engineering Surveying Practical
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Introduction to Survey Instruments and Measurements.Total Station Surveying  Angular and Distance Measurements, Traversing, Extension of Control Points. Levelling Direct and Trigonometrical Levelling.GNSS Surveying Data Collection through different Surveying Methods; Data Processing and Map Preparation
+
+## CE 218: Hydraulic Design Lab
+- Credits: 5
+- Type: Laboratory
+- Description: Design: Computation of surface profiles in gradually varied flow, location of hydraulic jump, flood routing, channel design and transitions, energy dissipators, spillways. Laboratory: Seepage analysis - Heleshaw model, Hydraulic jump experiments, Channel expansion and contraction studies, Small surges and wave experiments, Flow measurements in open channels.
+
+## CE 219: Solid Mechanics Laboratory
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Tension test on mild steel and cast-iron rods, impact test on metal, compression and shear test on Neoprene pad specimens, buckling of slender steel columns, torsion test on round mild steel and cast-iron rods. Measurement of strain by electrical resistance strain gauge (cantilever beam), evaluation of Poisson-s ratio on mild steel flat, deflection of simply supported, location of shear center in a channel section, unsymmetrical bending. Continuous Beam, Interconnected Beams, Study of truss members. Measurement of friction coefficient.
+
+## CE 221: Solid Mechanics
+- Credits: 8
+- Type: Theory
+
+## CE 222: Structural Mechanics I
+- Credits: 6
+- Type: Theory
+- Description: Analysis of Statically Determinate Structures - Determination of forces in trusses, frames, arches, and cables; Drawing bending moment, shear force and axial force diagrams; Computation of displacements using principle of virtual work; Moment-area-method, Conjugate-beam method;-Energy Principles; Maxwell-s and Betti-s laws; Analysis of Statically Indeterminate Structures - Concept of static indeterminacy; Concept of compatibility-conditions; Method of consistent deformations for statically indeterminate trusses, beams,-frames, arches; Matrix formulation of force method;  Influence Lines - Concept of influence lines using equilibrium-methods, and by using Muller Breslau principle for both statically determinate and indeterminate structures
+
+## CE 223: Fluid Mechanics
+- Credits: 6
+- Type: Theory
+
+## CE 228: Applied Hydraulic Engineering
+- Credits: 6
+- Type: Theory
+
+## CE 230: Hydraulic Engineering Lab
+- Credits: 3
+- Type: Laboratory
+
+## CE 231: Solid Mechanics Lab
+- Credits: 3
+- Type: Laboratory
+
+## CE 232: Building Materials and Construction
+- Credits: 6
+- Type: Theory
+
+## CE 233: Fluid Mechanics Lab
+- Credits: 3
+- Type: Laboratory
+
+## CE 234: Structural Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Analysis of Statically Determinate Structures - determination of forces in trusses and frames; Axial force, shear force, bending moment, and qualitative deflected shape for beams and frames; Unit load method for deflection calculation; Analysis of Statically Indeterminate Structures - concept of static indeterminacy; Concept of compatibility-conditions; Influence lines for statically determinate structures; Kinematic indeterminacy and introduction to stiffness method; Concept of distribution factors from moment distribution method, Basic Introduction to matrix stiffness method.
+
+## CE 235: Artificial Intelligence & Data Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Course Objectives:     - To introduce students to the different types of data in civil engineering and how to process them.     - To expose students to the fundamentals of learning from data relevant to civil engineering.     - To inspire students to harness developments in artificial intelligence, machine learning and data science to understand and solve civil engineering problems.     - To inspire students to implement data-driven modeling for infrastructure systems in a computer programming environment for futuristic civil engineering challenges. Learning Outcomes:     - An overall understanding of data types relevant to civil engineering, particularly in the context of intelligent systems.     - An ability to identify, formulate and solve complex civil engineering problems by applying ...
+
+## CE 236: Soil Mechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Course Objectives:     1. Introduce soil as a three-phase engineering material      2. Encourage students to apply concepts from engineering and solid mechanics to quantify stresses in soil      3. Familiarize students with steady and transient flow through soils     4. Make students acquainted with soil-s reaction to external loading under various drainage scenario     5. Expose students to the concepts of strength and deformation of soils    Learning Outcomes: At the end of the semester students should be able to     - calculate various weight and volume indices for soils     - classify soil based on its grain characteristics and index properties     - analyze and quantify the effects of steady-state seepage (flow) through soil     - calculate geostatic and induced (by external loading) ...
+
+## CE 238: Land Surveying: Theory and Practice
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Theory:     - Basic concepts of surveying     - Linear measurements     - Direction and Angle measurements     - Vertical distance measurements     - Control surveys     - Satellite based positioning surveys     - Errors and adjustments   Practical exercises (2 hours/week) shall be part of the course based on the theory taught.
+
+## CE 240: Soil Mechanics Laboratory
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Course Objectives:     1. Provide students an opportunity to gain hands-on experience of dealing with basic laboratory equipment.      2. Expose students to group work environment     3. Train students for conducting laboratory tests to determine fundamental engineering properties of soils.      4. Train student to prepare professional laboratory reports Learning Outcomes: At the end of the semester students should be able to     - Identify different types of soils.     - Determine soil grain characteristics and index properties.     - Determine optimum moisture content and compaction characteristics of fine-grained soils.     - Calculate compressibility and time rate of consolidation using oedometer test data.     - Determine undrained shear strength of saturated fine-grained soil      - ...
+
+## CE 242: Hydromechanics Laboratory
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Course Objectives:     - To expose students to standard hydro-mechanics laboratory experiments.     - To provide opportunity to students to verify various concepts and principles of hydromechanics.     - To expose the students to standard measurement techniques related to hydromechanics.     - To train the students to write technical reports.     - To motivate the students to design novel experiments and products based on hydromechanics principles.    Learning Outcomes:     - Thorough understanding of hydromechanics lab apparatuses and their functioning.     - Ability to measure various properties and variables related to hydromechanics.      - Ability to test hypotheses, especially those related to hydromechanics.     - Understanding of the main governing principles of hydromechanics thro...
+
+## CE 244: Transportation Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Introduction to transportation systems, Highway infrastructure overview, Recent advanced in highways and railways, Fundamentals of Geometric design: Highways, Railways and airports, Pavement materials: characteristics and testing, Design of flexible and rigid pavements, Fundamental of traffic engineering, and Introduction to transportation planning.
+
+## CE 303: Soil Mechanics I
+- Credits: 6
+- Type: Theory
+- Description: Origin of soils, basic relationships, properties of soil aggregate, soil structure, soil classification. Soil compaction; laboratory compaction; factors affecting soil compaction; Field compaction; Soil-water statics; Effective stress; Capillarity phenomenon in soils. Flow through soils; Quick sand condition; Permeability and methods for its determination; Flownets. Stresses in soil from surface loads; Boussinesq theory; Westergaards theory; Newmarks chart, Contact pressures.
+
+## CE 304: Soil Mechanics II
+- Credits: 6
+- Type: Theory
+- Prerequisite: CE 303
+- Description: Surface and subsurface investigations. Boring and sampling. Field tests, Consolidation of soils; Settlement of compressible soil layers; Sand drains. Shear strength; Mohr circle of stress; Mohr-Coulomb failure criterion; Estimation of shear strength parameters; Stress paths. Theories of earth pressure and retaining walls, excavation, bracing, stability of slopes. Earth and rock-fill dams.
+
+## CE 307: Design of Structures I
+- Credits: 6
+- Type: Theory
+- Description: Design basis for reinforced concrete structures - Limit states; IS codes and design aids; Loads - IS code specifications; Slab design - simply supported, continuous and two way; Beam design - rectangular, tee, ell, doubly reinforced, continuous; Column and shear wall design - concentric, eccentric, short and long columns; Footing design - simple, combined; Staircases; Ductile detailing; Use of computer software.
+
+## CE 308: Design of Structures II
+- Credits: 6
+- Type: Theory
+- Description: Basis of designing steel structures- Rivetted, bottled and welded connections - tension and compression members - built up members - beam design - builtup beams - laced and battened columns - welded and riveted column bases - moment resistant connections - semi rigid connections - design of supports.
+
+## CE 310: Transportation Engg. I
+- Credits: 6
+- Type: Theory
+- Description: Introduction to transportation systems engineering; Transportation system characteristics; Planning of highway, railway and airport systems; Highway/railway route selection; Airport site selection; Geometric design of highway, railway and airfield elements; Pavement/track materials and testing; Material characterization for design; Design of highway and airfield pavements; Structural design of the railway track; Highway construction, maintenance and rehabilitation.
+
+## CE 314: Soil Mechanics Lab II
+- Credits: 3
+- Type: Laboratory
+- Description: Consolidation, shear strength, direct shear test, UCC test, Triaxial test - UU, CU and CD type tests, Laboratory vane shear test.
+
+## CE 315: Design Laboratory I
+- Credits: 3
+- Type: Laboratory
+- Description: Location of structural members; Load calculations and preliminary design; Design studio; Computer analysis of buildings; Design and drawing for various structural members; Detailing.
+
+## CE 317: Structural Mechanics II
+- Credits: 6
+- Type: Theory
+- Description: Analysis of Statically Indeterminate Structures - Concept of-kinematic indeterminacy; Degrees of freedom;-Development of slope-deflection equations; Concept of relative stiffness; Moment-distribution method and application to beams and simple frames; Matrix formulation of displacement methods -  Stiffness matrix approach with reference to computer application; Generation of 1-dimensional frame element stiffness matrix, flexural, axial & shear deformations,- Torsional effects; Concept of local effects, generation of load vector, Effects of finite joints;- Application to plane frames, space frames, grid structures; Matrix formulation of force and displacement methods - Solution of simultaneous equations; Stiffness matrix approach with reference to computer application; Generation of 1-dimens...
+
+## CE 318: Design Laboratory II
+- Credits: 3
+- Type: Laboratory
+- Description: Design and drawing of built-up compression members; plate girder design, design and drawing of laced/buttened columns with base plate ; moment resistant designs.
+
+## CE 319: Soil Mechanics Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Identification of soils, Determination of physical properties, Consistency limits, Determination of compaction characteristics, permeability and free swell tests.
+
+## CE 321: Materials and Structures Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Review of IS Codes of Practice for Testing of Commonly used Construction Materials i.e. Sand, Aggregates, Cement, Concrete, Steel Re-bar, Brick. Testing of Cement, Testing of Concrete, Testing of Steel Re-bar, Testing of Brick. Procedures to store materials.
+
+## CE 323: Geotechnical Engineering I
+- Credits: 6
+- Type: Theory
+- Description: Origin of Soils and Rocks; Rock cycle; Basic relationships; Index properties of aggregates; Soil structure; Soil classification; Soil compaction; laboratory compaction; factors affecting soil compaction; Field compaction; Soil-water statics; Effective stress; Capillarity phenomenon in soils; Flow through soils; Quick sand condition; Permeability and methods for its determination; Flownets; Stresses in soil from surface loads; Boussinesq theory; New marks chart, Contact pressures; Consolidation of soils; Settlement of compressible soil layers.
+
+## CE 324: Engineering Law
+- Credits: 6
+- Type: Theory
+- Description: The Indian legal system from an engineer-s perspective. Socratic-method analysis of statutory and case law. Contract, patent, corporation, antitrust, property, and environmental laws. Development of law, courts, and ethics; law on contracts, agency, sales, property, and patterns; specifications; preparation of contract documents. Coverage of following topics: 1. Overview of Indian legal system, 2. Contracts: Definitions and essentials, 3. Conditions: 3rd parties and law, 4. Construction: Performance/Breach/Damages and Contracts, 5. General Conditions: Proposals, advertisements and applications, 6. Financial Considerations: Loans and leans, 7. Specifications: Workmanship, material, drawings, 8. Agencies: Partnerships and corporations, 9. Torts: Limited coverage, 10. Professional liability: ...
+
+## CE 325: Structural Design I
+- Credits: 6
+- Type: Theory
+- Description: Location of structural members; Load calculations and preliminary design; Design studio; Computer analysis of buildings; Design and drawing for various structural members; Detailing.
+
+## CE 327: Analysis and Design Software Lab
+- Credits: 3
+- Type: Laboratory
+
+## CE 328: Transportation Engineering Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Laboratory testing of road aggregates, bituminous binders and mixes for their suitability in road construction with reference to IRC/BIS specifications. Sub grade evaluation - California bearing ratio, resilient modulus, modulus of sub grade reaction; Pavement evaluation studies - measurement of pavement distresses, deflection studies; Traffic studies.
+
+## CE 329: Geotechnical Engineering Lab I
+- Credits: 3
+- Type: Laboratory
+- Description: Identification and processing of soils, Determination of moisture content of soils, Absorption test for rocks, Particle size distribution using sieve analysis and hydrometer analysis for soils, Specific gravity test, Atterberg limit tests for soils, Standard Proctor compaction test for soils, Field density measurements for soils, Permeability tests for soils.
+
+## CE 330: Geotechnical Engineering II
+- Credits: 6
+- Type: Theory
+- Description: Surface and subsurface investigations; Boring, drilling and sampling; Field tests for soils and rocks (SPT, CPT, VST, PMT, DMT, DCPT, PLT); Sand drains; Shear strength of soils and rocks; Mohr circle of stress; Mohr-Coulomb failure criterion; Hoek and Brown failure criterion; Estimation of shear strength parameters for soil and rock; Stress paths; Theories of earth pressure and retaining walls; excavation; bracing system; stability of slopes; Earth and rock-fill dams.
+
+## CE 332: Structural Design II
+- Credits: 6
+- Type: Theory
+- Description: Design and drawing of built-up compression members; plate girder design, design and drawing of laced/buttened columns with base plate; moment resistant designs.
+
+## CE 333: Foundation Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Site investigation; Boring methods; Soil sampling and samplers; In-Situ tests: Standard Penetration Test, Static Cone Penetration Test, Dilatometer test, Pressuremeter test, Vane shear test; Non-invasive methods. Rankine and Coulomb-s Earth Pressure theories; Graphical methods for determination of Earth pressures; Gravity and Cantilever retaining walls; Flexible retaining structures. Infinite and Finite Slopes; Causes and types of slope failure; Methods for stability analysis of slopes- Taylor-s stability method; Swedish method of slices; Bishop-s method of slices and Janbu-s method of slices; Soil excavation; Stability of soil excavation and types of soil retention systems. Bearing capacity Theories -Terzaghi, Skempton, Meyerhof and Vesic; Shear failure types; Bearing capacity and settlem...
+
+## CE 334: Transportation Engineering II
+- Credits: 6
+- Type: Theory
+- Description: Traffic Operations: Traffic stream components and characteristics; Theories of traffic flow; Traffic studies; Design of control strategies for simple systems like intersections, roundabouts, freeways, etc.; Capacity and level of services of various transportation facilities. Transportation Planning: Introduction to urban and regional transportation planning; Urban transportation planning process; Introduction to urban transportation model system; Evaluation of Transportation Systems: Economic analysis; Environmental impact assessment; Financial analysis. Laboratory testing of subgrade soils, aggregates, bituminous binders and mixes for302240their suitability in road construction with reference to IRC/BIS specifications; Traffic studies; Pavement302240evaluation tests.
+
+## CE 336: Geotechnical Engineering Lab II
+- Credits: 3
+- Type: Laboratory
+- Description: Consolidation of soils, shear strength of soils and rocks, direct shear test of soils, UCC test on soils, Triaxial test - UU, CU type tests on soils, UCS & Triaxial test on rocks; Laboratory vane shear test for soils.
+
+## CE 337: Introduction to Structural Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Course Objectives:     - Provide an overall understanding of structural design fundamentals in terms of design philosophy, common materials, actions and intended functions     - Provide exposure to the design of simple structural components using reinforced concrete (including examples in design lab)     - Provide a connection with ideas and concepts learned in Engineering and Solid Mechanics     - Provide exposure to the relevant Indian Standards and their roles in design projects     - Provide a brief exposure (self-learning) to common structural design software through a course project     - Provide a foundation for (future) courses focusing on component design in further details and structural systems design Learning Outcomes:     - Understanding of structural design fundamentals in te...
+
+## CE 338: Estimation and Materials Testing Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: 1 Tests on Bricks (IS 1077) and Tiles (IS 13712, IS 15622, IS 4457) a) Testing of Bricks (Compressive strength, Water Absorption, Efflorescence) (IS 3495- Part 1,2,3) b) Testing of Tiles (Water absorption test, Modulus of Rupture) (IS13630 - Part 2, Part 6)  2  Tests on Cement (IS 12269) a) Consistency test on Cement (IS 4031 Part 4) b) Setting time of Cement (IS 4031 Part 5) c) Compressive strength of Cement (IS 4031 Part 6) 3 Concrete - Mixture Design and Tests on Fresh Concrete a) Mixture design of Concrete (IS 10262) b) Fresh density, Slump, Slump retention, Setting time of concrete (with Superplasticisers) (IS 9103, IS 1199, IS 8142) 4 Concrete - Tests on Hardened Concrete a) Hardened density of Concrete b) Compression test on plain Concrete (IS 516) c) Modulus of Elasticity of Concre...
+
+## CE 341: Transportation Engineering Laboratory
+- Credits: 2
+- Type: Laboratory
+- Prerequisite: 0.0
+- Description: Laboratory testing of road aggregates, tests on bituminous binders and mixes for their suitability in road construction with reference to IRC/BIS specifications, non-destructive quality control, Pavement evaluation studies - measurement of pavement distresses, roughness, skid resistance; Traffic volume and turning movement; speed studies; simulation and driver behavior studies; origin-destination study; parking studies; saturation flow and delay studies at fixed time and actuated signals; Signal coordination; Data collection using sensors, GPS, ITS, and Drones
+
+## CE 343: Water Resources Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Basics of Hydrology and Hydrological Processes (Precipitation, Abstractions, Infiltration, and Runoff, Watersheds, Basin Characteristics, Streamflows, Runoff yield). Hydrometry; Hydrograph analysis (direct runoff hydrographs and unit hydrographs); Floods and droughts; Frequency analysis; Flood routing; Introduction to ground water hydrology; Planning of Small and Large Hydraulic structures (Weirs, barrages, dams, spillways), Reservoir planning and operation; River intakes; Hydro-electric power (power plant classification, run-of-river schemes, penstocks and anchor blocks, turbines); Irrigation (crop water requirements, irrigation scheduling, crop yields, irrigation efficiencies). Canals layout (regime channels, canal losses, water logging).
+
+## CE 397: Seminar
+- Credits: 3
+- Type: Seminar
+
+## CE 401: Water Resources Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: CE 301
+- Description: Rainfall and runoff, hydrograph analysis, peaks flows. Reservoir planning and operation, run-of the river schemes, storage schemes. Dams and spillways, intakes, water-conductory systems, tunnels, surge-tanks, penstocks and anchor blocks. Hydro-electric power classification and investigations. Turbines, power house, irrigation, crop requirements and yields, water planning. Weirs on permeable foundations. Canals layout, stable channels, and silt control, canal losses and water-logging.
+
+## CE 403: Design of Structures III
+- Credits: 6
+- Type: Theory
+- Description: Design of RCC watertanks, silos, bunkers and simple bridges - Design of steel roof trusses, steel frames - Design of industrial buildings - Design of residential buildings - Design of arches and shells.
+
+## CE 407: Foundation Engg.
+- Credits: 6
+- Type: Theory
+- Description: Site investigations- spacing/depth of boreholes, disturbed/undisturbed soil sampling, geophysical exploration, electrical resistivity method, preparation of borhole logs and final report. Shallow foundations- theories of bearing capacity, standard penetration test, design of a footing in cohesionless/cohesive soil based on settlement and bearing capacity criteria, plate load test, combined footings, eccentrically loaded footings. Analysis and design of raft based on settlement and bearing capacity criteria. Retaining walls - various types, size proportioning and stability analysis. Pile foundations- driven piles in cohesive/cohesionless soil, bearing capacity/settlement aspects, analysis and design of pile groups, bored cast-in-situ piles, pile driving equipment. Ground improvement- sand d...
+
+## CE 412: Transportation  Engg.Lab II
+- Credits: 3
+- Type: Laboratory
+- Description: Subgrade evaluation - california bearing ratio, resilient modulus, modulus of subgrade reaction; Pavement evaluation studies - measurement of pavement distresses, deflection studies; Traffic studies - volume studies, speed studies, intersection studies, parking studies, origin-destination studies, etc.
+
+## CE 415: Transportation Engineering II
+- Credits: 6
+- Type: Theory
+- Description: Traffic Operations: Traffic stream components and characteristics; Theories of traffic flow; Traffic studies; Design of control strategies for simple systems like intersections, roundabouts, freeways, etc.; Capacity and level of services of various transportation facilities. Transportation Planning: Introduction to urban and regional transportation planning; Urban transportation planning process; Introduction to urban transportation model system; Evaluation of Transportation Systems: Economic analysis; Environmental impact assessment; Financial analysis. Laboratory testing of subgrade soils, aggregates, bituminous binders and mixes for-their suitability in road construction with reference to IRC/BIS specifications; Traffic studies; Pavement-evaluation tests.
+
+## CE 418: Introduction to Finite Elements Methods
+- Credits: 6
+- Type: Theory
+- Description: Introduction - Overview of different methods, background of finite element method, general steps, advantages and disadvantages; One-dimensional analysis - Linear spring, truss, beam, plane frame, grid, torsion, steady state heat conduction, flow through porous media, flow through pipes; Two-dimensional analysis - two dimensional flow through porous media, stress analysis, review of theory of elasticity, plane stress analysis, plane strain analysis, axisymmetric analysis, isoparametric formulation, numerical integration; Computer implementation of finite element method - solution of large set of equations, use of symmetry and anti-symmetry conditions, sub-structuring, application of boundary conditions.
+
+## CE 448: Prestressed Concrete Design
+- Credits: 6
+- Type: Theory
+- Description: Prestressing concepts, materials, systems of prestressing and losses. Introduction to working stress method, limit state analysis and design of members for bending. Shear torsion and axial forces. End block design. Deflections, use of relevant codes of practice.
+
+## CE 463: Probabilistic and Statistical Methods in Civil Eng
+- Credits: 6
+- Type: Theory
+- Description: Role of probability in Civil Engineering ; Random events, Random variables; functions of random variables; moments and expectations; Common probabilistic models - normal, log normal, poisson, extremal ; estimation of parameters; goodness of fit tests ; regression and correlation analyses, principles of Baysean Decision Theory ; Introduction to structural reliability; elements of quality assurance and acceptance sampling.
+
+## CE 465: Numerical Methods in Civil Engineering
+- Credits: 6
+- Type: Theory
+- Description: Programming fundamentals; Fundamentals of numerical methods; Error analysis; Curve fitting; Interpolation and extrapolation; Differentiation and integration; Solution of nonlinear algebraic and transcendental equations; Elements of matrix algebra; Solution of systems of linear equations; Eigenvalue problems; Solution of differential equations. Computer oriented algorithms; Numerical solution of different problems.
+
+## CE 482: Construction Management
+- Credits: 6
+- Type: Theory
+- Description: Basic of construction industry organisation structure. Engineering economy in construction projects-personnel, monitoring and control work study in constructions-contracting. Use of planning tools such as Primavera and MS Project. Bidding and law for engineers-value engineering, safety engineering etc.
+
+## CE 593: Dual Degree Project I
+- Credits: 36
+
+## CE 602: Design of Offshore Structure
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Materials and their behaviour under static and dynamic loads, allowable stresses, various design methods and codes, design consideration, design loads, design of decking of template type steel structures, design of supporting legs, design of braces.  Corrosion and other allowances, consideration of stress concentration, design of concrete platforms, Ingradient materials and protective measure, design of raft foundation, design of slide walls, design of decking design of composite structures.
+
+## CE 603: Numerical Methods
+- Credits: 6
+- Type: Theory
+- Description: Programming fundamentals; Fundamentals of numerical methods; Error analysis; Curve fitting; Interpolation and extrapolation; Differentiation and integration; Solution of nonlinear algebraic and transcendental equations; Elements of matrix algebra; Solution of systems of linear equations; Eigenvalue problems; Solution of differential equations.  Computer oriented algorithms; Numerical solution of different problems.
+
+## CE 605: Applied Statistics
+- Credits: 6
+- Type: Theory
+- Description:  Introduction to Probability and Random Variables: Probability Space; Axioms of Probability; Joint Probability; Conditional probability; Independence; Bayes Rule; Sequential Continuity; Union of Events; Numerical examples; Random Variable (RV): Definition, Notation and Inverse Image; Discrete and Continuous Random variables. Probability Distribution: Cumulative Distribution Function; Distribution Function of Indicator RV; Probability Density Function; Probability Mass Function; Examples of Probability Mass Function: Bernoulli Trials, Binomial Distribution, Hypergeometric Distribution, Negative Binomial Distribution, Poisson Distribution, Geometric Distribution; Examples of Probability Density Function: Uniform Distribution, Gamma Distribution, Erlang Distribution, Exponential Distribution...
+
+## CE 607: Numerical Techniques in Hydraulic Engg
+- Credits: 6
+- Type: Theory
+- Description:  Mathematical Modeling: Mathematical tools and techniques, Advanced modeling applications to water resources and environmental engineering problems.  System of Equations & Solutions- Linear equations; Iterative methods, direct methods, conjugate gradient method; Newton Raphson method; sparse matrices and compact storage schemes; Inversion of matrices; Non-linear equations and solutions; Gauss Jordan method; Gauss Siedel method; Eigen Values and Vectors & applications;  Numerical Solution of Ordinary Differential Equations: Single step method, multi-step method; Runge-Kutta methods; Numerical differentiation and integration; boundary value and initial boundary value problems - Applications in water resources/ ocean/ environmental engineering.  Partial differential equations & Solutions:...
+
+## CE 608: Eco-hydro-Climatology
+- Credits: 6
+- Type: Theory
+- Description:  Introduction to Eco-hydro-climatology: an interdisciplinary framework; Climate System; Climate, weather and Climate Change; Overview of Earth-s Atmosphere; Vertical Structure of Atmosphere; Radiation and Temperature; Laws of Radiation; Heat-Balance of EarthAtmosphere System; Random Temperature Variation; Modeling Vertical Variation in Air Temperature; Temporal Variation of Air temperature; Temperature Change in Soil; Thermal Time and Temperature Extremes.  Hydrologic Cycle: Introduction; Global water balance; Cycling of water on land, a simple water balance model; Climate Variables affecting Precipitation, Precipitation and Weather, Humidity, Vapor Pressure, Forms of Precipitation, Types of Precipitation; Cloud; Atmospheric Stability; Monsoon; Wind Pattern in India; Global Wind Circulat...
+
+## CE 610: Introduction to Earthquake Engineering
+- Credits: 6
+- Type: Theory
+- Description: Characterisation of ground motion, Earthquake intensity and magnitude; Recording instruments and base line correction; Predominant period and amplification through soil; Earthquake spectra for elastic and inelastic systems; Idealisation of structural systems for low, medium and high rise buildings; Lateral force evaluation by mode superposition and direct integration; Reserve energy technique; Effect of foundation/soil on earthquake response; Analysis for torsion; Review of damages during past earthquakes and remedial measures; Reinforcement detailing for members and joints coupling; Codal provisions.
+
+## CE 611: Advanced Structural Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Review of Concepts: Basic concepts of structural analysis; Basis for principle of virtual work; Principle of virtual forces - standard and matrix formulation; Force method for analysing skeletal structure; Principles of virtual displacements -  standard and matrix formulation; Displacement method for analysing skeletal structures; Extension of displacement method to the generalised stiffness method; Basic concepts associated with computer implementation of stiffness method. One dimensional beam element: Basis for cross-sectional level formulation of flexibility and stiffness; Gauss quadrature numerical integration scheme; Flexibility approach for determining element stiffness; Stiffness approach for determining element stiffness; Special consideration of shear effects in stiffness approach...
+
+## CE 613: Concrete Technology
+- Credits: 6
+- Type: Theory
+- Description: Review of constituents of concrete and mix design and properties of concrete; High strength concrete; High density and lightweight concrete; Concreting under extreme weather conditions; Behaviour of concrete under aggressive environmental conditions including temperature; Admixtures; Polymers in concrete; Fibre reinforced concrete; Fracture mechanics of concrete; Repairs and rehabilitation of old concrete.
+
+## CE 615: Structural Optimization
+- Credits: 6
+- Type: Theory
+- Description: Formulation of different types of structural optimisation problems; Optimality criteria based structural optimisation; Computational of derivatives of response quantities with respect to design variables; Classical optimisation; Lagrange multiplier technique and Kuhn-Tucker conditions; Solution of NLP by direct methods and by series of unconstrained optimisation problems and by series of linear programming problems.
+
+## CE 616: Structural Dynamics
+- Credits: 6
+- Type: Theory
+- Description: SDOF System : Equation of motion; Free vibration; Harmonic load; Evaluation of damping,; Periodic load; General load (time domain, frequency domain); Response spectrum load.  MDOF Systems : Structural matrices; Un-damped free vibration; Generation of damping matrix, Mode superposition analysis; Practical considerations.  Continuous Systems : Equation of motion; Un-damped free vibration; Forced response.  Random Vibrations : Random variables and random recesses; Models of random dynamic loads; Stochastic response of SDOF and MDOF systems.
+
+## CE 617: Plates and Shells
+- Credits: 6
+- Type: Theory
+- Description: Plate equation and behaviour of thin plates in cartesian, polar and skew coordinates; Curvilinear coordinates and coordinate transformation; Isotropic and orthotropic plates, bending and twisting of plates; Navier?s solution and Energy method, rectangular, circular plates and plates with variable rigidity in cartesian and polar coodinates; Numerical solutions.   Shell behaviour, shell surfaces and characteristics, classifications of shells, equilibrium equations in curvilinear coordinates, force displacement relations; Membrane analysis of shells of revolution and cylindrical shells under different loads, shallow shells, concept of pseudo-stresses, membrane solution of elliptic paraboloids and hyperboloids, solutions of typical problems.
+
+## CE 619: Structural Stability
+- Credits: 6
+- Type: Theory
+- Description: Concepts of stability, static, dynamic and energy criteria; Buckling Snap through and post-buckling; stability of colums and beams; Inelastic buckling; Beam-colums; stability of frames; Matrix stiffness and finite element methods applied to stability problems; introduction to stability of plates, shells and stiffened plates.
+
+## CE 620: Finite Element Methods
+- Credits: 6
+- Type: Theory
+- Description: Principles of discretisation; Element stiffness mass formulation based on direct, variational and weighted residual techniques and displacements, hybrid stress and mixed approaches, shape functions and numerical integrations, convergence, Displacement formulations for rectangular, triangular and isoparametric elements for two dimensional and axisymmetric stress analysis; Thin and Thick plates and shells, Semi-analytical formulations; Three dimensional elements and degenerated forms; Stiffener elements and modifications such as use of different coordinate systems, use of nonconforming modes and penalty functions; Application to layered composite plate/shells, bridge, roof, nuclear and offshore structures; Hybrid stress and mixed formulations for plates.
+
+## CE 621: Plastic Analysis
+- Credits: 6
+- Type: Theory
+- Description: Yield condition and concepts of simple plastic collapse, idealisational collapse criteria, virtual work in the elastic-plastic state; Theorems of plastic collapse; Methods of analysis and design, Applications to planar and simple space structures; Deflection at collapse; Minimum weight analysis; Variable repeated loads; Combined stress problems; Introduction to stability.
+
+## CE 622: Reliability Based Civil Engineering Design
+- Credits: 6
+- Type: Theory
+- Description: Concepts of structural safety; Basic statics and probability; Resistance parameters and distributions; Probabilistic analysis of loads, live load and wind load; Basic structural reliability; Monte Carlo study of structural safety; Level 2 reliability methods; Reliability analysis of components; Reliability based design-determination of partial safety factors, code calibration; Reliability of structural systems; Fatigue reliability ? S-N curve approach; Applications to steel and concrete structures; Offshore structures etc.
+
+## CE 623: Advanced Solids Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Linear elasticity, Stress, strain, constitutive relations; Boundary conditions, Description of an Elasticity problem as a boundary value problem, Plane stress, strain, axi-symmetric problems, Large displacements and large strains; Cartesian, cylindrical and spherical coordinates; Introduction to curvilinear coordinates; Thermal strains.  Introduction to plasticity; Yield condition; Ideal elasto-plastic material; Complete formulation for an elasto-plastic problem.
+
+## CE 624: Nonlinear Analysis
+- Credits: 6
+- Type: Theory
+- Description: Geometrical and material non-linear problems; Basic equations for continuum; Beans, plates and shells, Analytical and discrete numerical solution techniques; Applications of finite element method.
+
+## CE 625: Analysis of Offshore Structures
+- Credits: 6
+- Type: Theory
+- Description: Loads and structural forms of different types of offshore structures; Elements of single d.o.f. system subjected to free and forced vibrations; Analysis for transient and steady state force; Equivalent damping for nonlinear systems; Dynamics of multi d.o.f. systems, Eigen values and vectors; Iterative and transformation methods; Mode superposition, Fourier series mand spectral method of response of single d.o.f. systems; Vibration of bars, beams and cones with reference to soil as half space; Behaviour of concrete gravity platform as a rigid body on soil as a continuum; Short and long term statistics of wind; static wind load; effect of size, shape and frequency; Aerodynamic admittance function and gust factor, spectral response due to wind for various types of structures; Wave loads by Mo...
+
+## CE 626: Groundwater Systems Planning and Management
+- Credits: 6
+- Type: Theory
+- Description:  Concept of Groundwater System, Definition of input and out put to the system and system-s parameters, Generalized governing equations for groundwater flow in confined, phreatic and sloping base aquifers involving heterogeneous anisotropic flow domains,  Steady state and time variant problems in groundwater flow, Applicable boundary conditions to the flow regions and derivation of free surface boundary conditions. Importance of numerical modeling, Finite difference and finite element modeling of regional aquifers  Application of simulation optimisation models, Optimisation of collective well drawdown in heterogeneous anisotropic systems. Optimisation of groundwater fed irrigation regions,  Concept of Inverse modeling and its application to aquifer systems incorporating auto calibration...
+
+## CE 627: Structural Design
+- Credits: 4
+- Type: Laboratory
+- Description: Complete design and structural detailing for standard structures like framed structures for residential, industrial, public utility and recreational purposes; Trusses, bridges, storage vessels, underground structures etc. in concrete, steel and other materials.
+
+## CE 629: Elastic Waves in Solids
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Review of Solid Mechanics, strain and stress tensors, Cauchy-s equation of motion, energy balance, boundary and initial conditions; Solution of one dimensional problems - waves in thin rods, spherical cavity subjected to dynamic pressure; Plane waves in unbounded media - longitudinal and shear waves, propagation in isotropic, anisotropic and dissipative media, dispersion and attenuation; Green-s functions for unbounded solids; Half space problems - Rayleigh waves, interface waves; concentrated loads on half spaces; Waves in layered media - Rays and normal modes, guided waves in composite materials; Applications - wave motion from impact, blast and seismic events; nondestructive evaluation, acoustic emission, structural health monitoring, LS-DYNA simulations
+
+## CE 630: Geographical Information Systems in Civil Engineering
+- Credits: 6
+- Type: Theory
+- Description: Unit I Introduction - Geographical concepts  and  terminology - Difference  between image processing system, other information systems and GIS - utility of GIS - Various GIS packages and their salient features - Essential components of GIS.Unit II Data: Spatial and Non-Spatial Data 302226 Spatial Data: Points, Lines, Polygons/Area and Surface - Non-Spatial Data - Levels of Measurement: Nominal, Ordinal, Interval, Ratio 302226 Data Base 302226 Functions - Data Base Structures 302226 Hierarchical, Network, Relational- Relational Data Base Management System 302226 Normalization, E-R Diagram- data manipulation and analysisUnit IIIData acquisition - Raster data model- Introduction, Description, Data Compression-run length, chain, block and quadtree coding - Vector Data Model 302226 Topology, Eu...
+
+## CE 632: Ground Improvement
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CE 633: Soil Structure Interaction
+- Credits: 6
+- Type: Theory
+- Description: Critical study of conventional methods of foundation design; Nature and complexities of soil structure interaction; Application of advanced techniques of analysis such as the finite element method, finite differences, relaxation and interaction for the evaluation of soil-structure interaction for different types of structures under various conditions of loading and subsoil characteristics; Preparation of comprehensive design oriented computer programmes for specific problems.  Interaction problems based on the theory of sub-grade reaction such as beams, footings, rafts, bulkheads etc. Analysis of different types of frame structures founded on stratified natural deposits with linear and nonlinear stress-strain characteristics.  Determination of pile capacities, negative skin friction and gr...
+
+## CE 637: Rock Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Engineering properties of rock masses, subsurface investigations in rock deposits, field and laboratory testing of rocks, stress-deformation characteristics of rock masses under heavy loads, flow of water through rock masses, failure theories, shear strength of rock under high pressure, friction in rocks, time dependent properties of rock masses, stability of rock slopes, idealised rock system, anisotropic rock system, deep cuts, deep bore-holes, stability of bounder fills and embankment, lateral pressure on retaining structures for high hill slopes, bearing capacity of rock masses, opening in rocks, lines and unlined tunnels, pressure tunnels and tunnels for other purposes.
+
+## CE 639: Green Building Design
+- Credits: 6
+- Type: Theory
+- Description: Course Content* Buildings are like living organisms that contribute to the life in the cities. A well-designed building that uses natural materials, passive heating and cooling systems can not only make the life of its inhabitants healthier, but also contribute to preserving the environment and natural resources. This course aims to teach the fundamentals of sustainable and energy efficient building design, by focusing on Building envelopes  Building materials and properties  Building systems and operations (HVAC, lighting, water supply, sewage, garbage disposal, recycling and composting) Clean & renewable energy in buildings Rainwater harvesting Water and energy conservation Energy modeling and performance evaluation of buildings Smart buildings (Sensing and control systems) Net Zero buil...
+
+## CE 640: Foundation Engineering
+- Credits: 6
+- Type: Theory
+- Description: Planning of subsoil exploration of major civil engineering projects, sampling methods, interpretation of field and laboratory data, plate load and pile load tests, extrapolation of test data for actual foundations, shallow and deep footings, design of isolated and combined footings, proportioning of footings for equal settlement, various methods of raft design, floating foundations, analysis and design of pile foundations, rake piles, board piles.  Negative skin friction in piles, group action in piles, design of pile cap, foundations subjected to economic loads, pull-out-resistance of foundation structures, theory of sub-grade reaction, anchored bulkheads, caissons and cofferdams, well foundations.
+
+## CE 641: Environmental Geomechanics
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: General Principles: Introduction, Nature of soil and environment, Soil technology, Soil-water-air interaction, Shrinkage, Swelling, and Cracking characteristics of soil, Hydraulic conductivity and mass transport phenomena, Thermal and electrical properties of soils, Radiation effects on soil. Environmental geotechnical applications.
+
+## CE 643: Experimental Geotechnics
+- Credits: 4
+- Type: Laboratory
+
+## CE 645: Geotechnical Centrifuge Modelling
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Modelling and simulation - Dimensional analysis; Physical modelling using Centrifuge, historical perspectives, developments in hardware; Equipment - type of centrifuges; Principles of centrifuge modelling: scaling laws for static, dynamic loading and scaling laws for diffusion phenomena, Scale effects: Dependency of soil behaviour on stress level and stress history; Rotational acceleration and stress field, Modelling of models, Coriolis effect in Centrifuge, Grain size effects; Instrumentation in centrifuge modelling; Data acquisition systems; Applications of centrifuge modelling -Embankments and Dams, Shallow foundations, Deep foundations, Retaining structures, Anchorages, Ground improvement, Environmental geotechnics, Earthquake effects.
+
+## CE 647: Soil Dynamics and Machine Foundations
+- Credits: 6
+- Type: Theory
+- Description: Vibration of elementary systems, degrees of freedom, analysis of systems with several degrees of freedom, natural frequencies of continuous systems, elastic constants of soil and their experimental determination, damping of soil, effect of vibration on residual soil settlements, effect on porosity and hydraulic methods to reduce residual dynamic settlement of foundations, stress distribution in soil under dynamic loading.  Influence on shearing strength, vibro-viscous soil resistance, liquefaction, bearing capacity of dynamically loaded foundations, such as those of water towers, chimneys and high rise buildings, response of pile foundations, wave propagation in elastic half space,  waves in layered systems and in saturated media, vibration isolation methods.
+
+## CE 648: Finite Element Methods in Geotechnical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Theory: energy concepts and variational principles, discretisation of continuous media, two and three dimensional analysis, stiffness of simple elements, Isoparametric elements and interface elements, assembly and solution techniques, computerisation, introduction to nonlinear problems, plasticity problems and no tension analysis, applications to problems such as stress distribution and deformations in isotropic and anisotripic soil and rock media, stress and deformations around excavations and built-up embankments, seepage through porous media, one dimensional consolidation, stress distribution around openings in intact and fisssured rock.
+
+## CE 651: Bridge Engineering
+- Credits: 6
+- Type: Theory
+- Description: 1.  Historical evolution of bridges and classification 2.  Design principles for superstructure and substructure.  Introduction to codes.  Design of slab bridges, steel girder bridges and prestressed concrete bridges 3.  Introduction to bridge design softwares
+
+## CE 652: Foundations of Offshore Structures
+- Credits: 6
+- Type: Theory
+- Description: Nature and magnitude of loads on foundations of offshore structures, criteria of foundation design in offshore environment, features of foundations of gravity structures,  bearing capacity and settlement under dynamic loads, immediate and long term behaviour, liquefaction under cyclic loads, problems relating to jack-up platforms, dynamic stress in pile driving, pile behaviour under cyclic lateral loads, development of p-y curves, analysis of single piles and pile groups, finite element and other numerical methods of interactive analysis using linear and nonlinear foundation response, geotechnical aspects of anchors and submarine pipelines.
+
+## CE 653: Structural Reliability and Risk Analysis
+- Credits: 6
+- Type: Theory
+- Description: Review of Probability Basics Introduction; Probability basics; Random variables; Probability distributions; Vectors; Correlation;   Joint distributions Structural Reliability Analysis 1 Basic concepts; Exact solution; MVFOSM; FOSM; FORM; Sensitivity Probabilistic Simulations Monte Carlo simulations; Stratified sampling; Importance sampling Structural Reliability Analysis 2 System reliability; SORM; Time-varying reliability; Response surface Reliability-Based Design Codes Introduction; LRFD; Calibration of safety factors Risk Assessment Introduction; Logic trees; Applications in earthquake engineering; Bayesian decision making
+
+## CE 654: Advanced Hydrological Analysis and Design
+- Credits: 6
+- Type: Theory
+- Description: Review of Various Processes in the HydrologicalCycle: Precipitation, Abstracts, Evaporation,Infiltration, Evapotranspiration, Runoff,Streamflow and its measurements, floods, floodrouting.Problems and Models in Hydrology: SystemsApproach, Parameter Estimation methods,Watershed Runoff Modeling, Response TimeCharacteristics, Linear Models: Rational Method,Time Area Methods, Unit Hydrograph Method,Derivation of UH and IUH, Clark Model, NashModel, Time-Variant Linear Reservoir, Time-AreaMethod.Hydrologic Time Series Models: Time seriesintroduction, Introduction to stochastic models likeAR, ARMA and ARIMA. Rainfall-runoff modelscasestudies, case studies of other hydrological timeseries models.Hydrologic and Hydraulic Design: Design ofWater Supply, Sewerage and Storm WaterNetworks: standards and ...
+
+## CE 656: Plasticity Theory and Applications in Geomechanics
+- Credits: 6
+- Type: Theory
+- Description: Indicial notation and tensor calculus; tensorial treatment of stresses  and strains; rate-independednt plasticity; flow rule and work-hardening; yield criteria; hardening rules; contained plastic deformation (e.g. cavity expansion problem); plastic flow and collapse; slip line theory; plastic dissipaton; Drucker`s postulate; limit analysis; lower bound and upper bound theorems and other methods to solve collapse problems.
+
+## CE 657: Computing in Civil Engineering
+- Credits: 6
+- Type: Theory
+- Description: Computer Programming in Civil Engineering context with emphasis on data science. Solution of Civil Engineering Problems with C/C++, Matlab/R and python Data analysis including filtering, linear regression, machine learning specific to domains of civil engineering like hydrology, environment, geospatial, transportation, structures, geotechnical and numerical experiments Computational methods drawing examples from Civil Engineering: Visualization of scientific data, solution of linear systems of equations and ordinary differential equations. Basic and advanced scripting languages for pre and post processing of Civil engineering data. Solving typical Civil Engineering problems in statistical analysis, optimization tools, or numerical models Introduction to important Civil Engineering Software...
+
+## CE 658: Hydrogeomorphology
+- Credits: 6
+- Type: Theory
+- Description: Topic 1 : A quantitative glance a river basins.Topic 2 : Fractal Characteristics of river basinsTopic 3 : Multi fractal characteristics of river basinsTopic 4 : Landscape evolution modellingTopic 5 : Geomorphological origin of hydrologic responseTopic 6 : Self organization in hydrological systems
+
+## CE 667: Hydraulic Structures
+- Credits: 6
+- Type: Theory
+- Description:  Hydraulic and structural design of storage reservoirs,  Dams, spillways, outlet works, river training and regulations, conduit systems, transition structures, fluid elasticity;  Irrigation structures and designs  Design Fundamental and engineering aspects of fluid structure interaction, static and dynamic response of elastic structures.
+
+## CE 669: Physical and Stochastic Hydrology
+- Credits: 6
+- Type: Theory
+- Description: Review of physical hydrologic principles, collection and interpretation of hydrologic data, hydrograph analysis, characteristics of hydrologic phenomena, random phenomena and their distributions.  Combinational analysis, geometric probability, Markov chains, mathematics expectation and variance of random variables, concepts of risk and uncertainty in hydrology, empirical distributions of hydrologic variables, probability distributions function in hydrology, sampling theory, testing of hypotheses, correlation and regression, multivariable analysis, auto-correlation and cross correlation, special components in hydrologic series intermittent hydrologic process.
+
+## CE 672: River Mechanics & Control Structures
+- Credits: 6
+- Type: Theory
+- Description:  Open channel control structures; Varied flow profiles; River morphology, Sediment properties, hydrodynamics of fluid particle systems, setting velocity of particles, sediment transport in open channels;  Bed-load, Duboys, Einstein, Kalinske, Bagnold transport formulae, suspended load and the total load, design of stable channels-regime concept, bed forms, ripples, dunes and antiduness,  Principles of dimensional considerations, river models, sedimentation in reservoirs, coastal sediment problems, scouring of structures
+
+## CE 673: Ground Water Hydrology
+- Credits: 6
+- Type: Theory
+- Description: Occurance of groundwater, types of aquifiers, groundwater in different formations, groundwater movement, mechanics of well flow, exact solutions of flow to fully and partially, penetrating wells in confined aquifiers, non leady aquifers, unconfinedflow to well, approximate solutions, aquifer tests, well design criteria, groundwater control.  Techniwues of artificial recharge, solution to transient problems of groundwater mounds, system groundwater quality, seawater intrusion into foastal aquifers, approximate solutions, multiple well systems, hydrogeologic systems analysis digital and analog models for evaluation of aquifer response, groundwater development and management.
+
+## CE 675: Advanced Experimental Fluid Mechanics
+- Credits: 4
+- Type: Laboratory
+- Description:  Open channel control structures; Varied flow profiles; River morphology, Sediment properties, Experiments in open channel hydraulics: Flow measurements in channels; Hydraulic jump; surges and waves in channels; weirs and spillways; sedimentation and scouring.  Experiments in Fluid Mechanics: Basic fluid mechanics experiments; Drag and lift experiments; experiments in wind tunnel; pipe network experiments; water hammer experiments; potential flow experiments; vortex flows.  Hydraulic machinery experiments: Experiments on turbines (Francis, Pelton, Kaplan); centrifugal pump.  Hydrologic experiments: Rainfall intensity measurements; hydrology bench and watershed based experiments.  Errors in Experimentation, Uncertainty in experiments, law of propagation of errors, instruments for measu...
+
+## CE 676: Water Resources Systems
+- Credits: 6
+- Type: Theory
+- Description:  Importance of Systems Approach in Water Resources; Introduction to system concepts, mathematical modeling, Simulation, Optimization, Unconstrained and Constrained Optimization.  Classical Optimization methods: Calculus based methods; Single and multiple variable optimization; Lagrange Multipliers; Kuhn Tucker conditions; applications in water resources.  Linear Programming: Definitions; Graphical solutions; Simplex method; Big-M Method; Duality theory; Sensitivity Analysis in LP; Numerical examples; applications in water resources.  Dynamic Programming: Definitions; recursive equations; numerical examples; applications in water resources: water allocation, capacity expansion, reservoir operation.  Reservoir Systems: Reservoir sizing, modeling of reservoir systems for flood control, h...
+
+## CE 677: Design and Testing of Pile Foundations
+- Credits: 6
+- Type: Theory
+- Description: Types of piles and choice of pile type - Classification piles, large-displacement piles, small-displacement piles, replacement piles, special pile types  Design of piles - Building loads, Pile design in relation to geology, design philosophies, allowable stress design, Ultimate and serviceability limit state design, LRFD design concepts, axially loaded piles in soil, rock socketed piles, uplift capacity of piles, lateral load capacity of piles, negative skin friction, Settlement analysis.  Pile group effects - ultimate capacity of pile groups, settlement of pile groups, negative skin friction of pile groups, piled raft foundations.  Pile installation and construction control - equipment, liners, hammers and vibratory drivers, selection of method of pile installation, potential problems ...
+
+## CE 679: Advanced Mechanics of Reinforced Concrete
+- Credits: 6
+- Type: Theory
+- Description: - Bernoulli Compatibility Truss Model: Linear and Non‐linear theories for Bending of Beams, Stress‐Strain Curves for Unconfined and Confined Reinforced Concrete, Interaction of Bending and Axial Loads in Columns. - Plasticity Truss Model: Derivation of Ultimate Strengths under Flexural, Shear and Torisonal Loads and their Interactions. - Strut‐and‐Tie Model: Equilibrium Approach to Local Regions with Irregular Stress and Strain Distribution. - Mohr Compatibility Truss Model: Linear Theory of Shear and Torsion. - Softened Truss Model: Non‐linear Theory of Shear and Torsion. - Softened Membrane Model: Poisson Effect in Cracked Reinforced Concrete; Uniaxial and Biaxial Strains in Reinforced Concrete Elements.
+
+## CE 680: Mechanics of Water Waves
+- Credits: 6
+- Type: Theory
+- Description: Introduction to wave phenomena.  Wave classification, measurement, generation, forecasting.  Wave theories ? linear, non-linear.  Wave spectrum ? basic concepts, analysis and derivation.  Statistical analysis of waves ? short and long term.  Propagation in shallow water-refraction, diffraction, reflection, breaking, current effects.  Wave effects like, run-up, overtopping and transmission.  Littoral transport under wave action.
+
+## CE 681: Advance Pavement Engineering Lab
+- Credits: 2
+- Type: Laboratory
+- Description: The advance pavement engineering lab will cover cover various experiment on different types of pavement materials and field related exercise. The students will get exposure of advance instruments such as dynamic shear rheometer (DSR) for characterization of asphalt binder, brookfield viscometer for measuring viscosity of binders at high temperature, dynamic cone penetrometer (DCP) for insitu characterization of subgrade, light weight deflectometer (LWD) for evaluating in field strength of subgrade, aggregate image measurment system (AIMS) a digital method to capture shape characterstics of aggregates, MERLIN for field roughness measurement, Indirect tensile strength (ITS) on bituminous mixes, field demonstration of falling weight deflectometer.
+
+## CE 682: Finite Element Applications to Flow Problems
+- Credits: 6
+- Type: Theory
+- Description:  Approximate methods: Method of weighted residuals (Sub-domain, Collocation, Least squares, Galerkin, Raleigh-Ritz methods), Applications to solve linear and nonlinear differential equations.  Discretization of domain: Grid generation, Interpolating polynomials, Integration of shape functions over the domain.  Formulation of element matrices and its global assembly: for Laplace, Poisson, Diffusion, Advection-diffusion and Navier Stokes equations.  Solution of system of equations: Linear and nonlinear equations, Solution procedure with compact storage schemes for sparse matrices.  Boundary element method: Basic theory, Integral equations, Fundamental solutions, Applications in potential problems.  Applications of finite element method and boundary element method: Applications in groun...
+
+## CE 683: Marine Geotechnical Engg
+- Credits: 6
+- Type: Theory
+- Description: Origin and formation of submarine deposits, characteristics of continental shielding various parts of the world and around Indian coast, methods of exploration of submarine deposits, obtaining undistributed samples and determination of insitu strength, evaluation of physical and chemical properties of submarine soils, consolidation, settlement characteristics and shear strength characteristics under static and wave loading, pore pressure and liquefaction under dynamic and earthquake stresses, bearing capacity of large bases and tips, development of design parameters for use in pile soil and gravity platform soil, analysis both under static and dynamic conditions.
+
+## CE 684: Advanced Geotechnical Earthquake Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to Geotechnical Earthquake Engineering, Seismology and Earthquakes, Strong Ground Motion, Earthquake Hazards Related to Geotechnical Engineering, Wave Propagation, Liquefaction, Liquefaction computation from laboratory and field tests, Seismic Slope Stability, Behaviour of reinforced slope under seismic condition, Seismic Design of Retaining Walls, Force based Pseudo-Static Pseudo-Dynamic Analysis, bearing capacity and settlement, Selemic Design of Pile Foundations, Seismic Uplift Capacity of Anchors, Soil Improvement for Remediation of Seismic Hazards, Recommendations of Seismic Design Codes related to Geotechnical Earthquake Engineering.
+
+## CE 686: Advanced Stochastic Hydrology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+
+## CE 687: Offshore Construction
+- Credits: 6
+- Type: Theory
+- Description: Offshore environment ? operational aspects of waves, currents, tides, wind.  Structural material ? types and properties of steel, concrete and synthetics.  Construction equipments ? specialized barges and OSVs.  Common operations ? surveying, diving, crew transfer, etc.  Installation ? Pile supported, gravity and complaint structures.  Repair and maintenance ? structures and pipelines.  Rehabilitation ? strengthening and salvage.  Specialized constructions ? OTEC, wave power devices, chunnel, etc.
+
+## CE 688: Risk Assessment & Management in Geotechnical Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Working stress and limit state design approaches, Ultimate and Service limit states, Basics of probability and statistics, Sources of uncertainty in Geotechnical design parameters, In-situ soil characterization, Sensitivity analysis, Modelling of uncertainty, Fragility curves, Probability of failure, FORM, Monte Carlo Simulation Techniques, Response Surface Method, Parallel and series systems, Explicit and implicit functions, Target reliability index, LRFD approach, Code calibration, Applications to shallow and deep foundations, landslides and embankments, liquefaction behaviour of soils.
+
+## CE 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## CE 699: Transportation Systems Studio
+- Credits: 4
+- Type: Laboratory
+- Description: Creation of zonal and network layer with attribute data using open source GIS resource, Processing of transportation planning data of a metropolitan area (study area) and produce P-A matrices, O-D matrices, zonal planning data and other relevant summary information using latest computing tools. Calibration and validation of four step travel demand models for the study area using transportation planning software. Generation of appropriate land use and transport scenarios and forecasting of travel demand for these scenarios. Evaluation of alternatives based on sustainability indicators. Traffic Data Collection and Analysis: Study of Driver Testing Unit, Spot Speed Study, Travel time and Delay Studies, Moving Observer Method, O-D Survey, Parking Usage Survey, Traffic Volume Study, Saturation ...
+
+## CE 701: Remote Sensing Technology
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Electro-Magnetic Energy: Laws, Distribution, and Interactions; Photography; Photogrammetry; Photo Interpretation: Elements, methods and applications; Non Photographic Sensors: Detectors, Radiometers and Multi-Spectral Scanners; Thermal Imaging; Microwave Imaging Radars; Visual Interpretation and Digital Analysis; Applications.
+
+## CE 702: Geotechnical Constitutive Models
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Introduction to shear strength of soils, Critical    state line, Taylor302222s stress-dilatancy equation,    Generalised Hooke302222s Law, isotropy and anisotropy,    elastic and plastic deformation, ingredients of a    plastic soil model, normality assumption and    associated flow rule, compression behaviour and    plasticity, behaviour of Cam Clay under drained    and undrained loading, relationship between    undrained shear strength, effective stress and    over-consolidation ratio, generalised equations of    state boundary surface.
+
+## CE 703: Remote Sensing Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: Drainage analysis, Topographic analysis, Planimetric Mapping, Image Interpretation and Thematic map Compilation, Rainfall analysis and spatial distribution.
+
+## CE 705: Photogrammetric Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Geometry of aerial photographs; Stereoscopy; Relief displacement; Coordinates; Stereoscopic parallax measurement and formula; Radial triangulation; Theory of inner, relative and absolute orientation; Numerical orientation; Model deformation; Plotting Instruments; Aerial triangulation; Base map and thematic map compilation; Analytical photogrammetry; Applications to measurements in civil engineering.
+
+## CE 706: Ocean Engineering Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: Wave flume experiments to study propagation, refraction, reflection, diffraction, wave forces. Hydraulic modeling for ports, harbours. Numerical modeling of waves, tides, currents, fluid-structure interaction.
+
+## CE 707: Coastal, Port and Harbor Engineering
+- Credits: 6
+- Type: Theory
+- Description: Coastal protection works, Port and harbors - planning, design and construction aspects; harbor layout, model studies - physical and numerical breakwaters, wharf, jetty, mooring and dolphins, dry docks, shipyards, dredging,         CRZ and guidelines, navigation, shipping - ship stability (static and dynamic); submarine pipelines - forces, laying, stresses, buckling; equipments.
+
+## CE 708: Offshore Engineering
+- Credits: 6
+- Type: Theory
+- Description: Types of offshore structures, planning and design aspects, wave loads - regular and random, loads due to wind, tides and currents. Operational environment, equipments, materials and corrosion, repairs and maintenance, installation, common operations.
+
+## CE 710: Remote Sensing and Geographical Information Systems in Water Resources Management
+- Credits: 6
+- Type: Theory
+- Description: Various components of hydrological cycle 302226 Basic concepts of hydrological modelling 302226 Physics of remote sensing 302226EMR Interaction with atmosphere and earth surface (soil, water, and vegetation) 302226 Remote sensing platforms 302226 Satellite data analysis 302226 Basic principles of GIS 302226 Spatial analysis related to water resources 302226 Remote sensing and GIS data sources for water resources 302226 Case studies of remote sensing and GIS applications for various water resources projects.
+
+## CE 712: Digital Image Processing of Remotely Sensed Data
+- Credits: 6
+- Type: Theory
+- Description: Remotely Sensed Data: Satellite Systems & Acquisition, Data Storage, Concept of Resolution Digital Image: Fundamentals, Spatial Statistics (Univariate & Multivariate), Image Sampling and Quantization. Geometric Preprocessing: Image Registration, Sampling, Orthorectification, Image Mosaic Image Enhancement: Basics of Spatial Filtering, Edge Enhancement Image Transforms: Arithmetic Operations, PCA, Color Transforms Filtering Techniques: Low pass filters, High pass filters Image Classification for Land Use Mapping Geomorphology of Drainage basins: Digital Terrain Analysis and Watershed Analysis
+
+## CE 713: Advanced Concrete Technology
+- Credits: 6
+- Type: Theory
+- Description: Cement - production - Composition & properties - Cement chemistry - Heat of hydration - Microstructure - Hydration products and pores Aggregates - Geological classification - Physical classification - Characteristics and significance - Natural and Recycled aggregates Mineral admixtures - Classification - Pozzolanic reaction - Natural and Industrial By-Products-effect on fresh and hardened concrete properties Chemical admixtures - Classification - Water reducers, Set Controllers, Air entraining agents - Admixture chemistry - Mechanism of action - types - Optimisation - Compatibility issues - Speciality Admixtures  Advanced Mixture Design - Design Philosophy - Particle Packing & Rheology - Discrete and Continuous approach - Packing density of powders and aggregates - Experimental tests and M...
+
+## CE 716: Data Processing in Remote Sensing
+- Credits: 6
+- Type: Theory
+- Prerequisite: CE 701
+- Description: Data collection, recording and handling, data storage and formats, analog and digital processing, image enhancement; Contrast, texture and edge enhancement, ratio images vegetation and soil indices; Classification - unsupervised, sigle pass and iterative; Supervised minimum distance to mean, maximum liklihood and Bayes methods, evaluation of accuracy, data transformation and compression techniques, applications.
+
+## CE 717: Construction Planning and Control
+- Credits: 8
+- Type: Theory
+- Description: Planning for construction projects: Project conceptualization, project organization, Feasibility studies, Detail Project Reports, Planning for construction, Work method statements, and work breakdown structures.  Planning for time on projects: Project scheduling techniques, CPM and PERT, Limitations, Case studies, Constructability conditions during scheduling Planning for resources and costs: Handling resources on projects, planning and levelling resources, Time-Cost trade-off on construction projects.  Project monitoring and control: Updating project schedules, Earned Value analysis, monitoring the progress, Daily progress reports, managing data on projects, course correction on projects.
+
+## CE 718: Construction Materials Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: Experiment No.  Name of the Experiment  Laboratory 1  Bricks/Blocks, Tiles  - Strength and Water Absorption SEMT Lab. 2 Mineral Admixtures - Particle size and Shape Analysis CMMC Lab. 3 Chemical Admixture (Superplasticiser) optimisation  - Mini Slump and Marsh Cone)  SEMT Lab. 4 Concrete - Slump, Slump retention, Setting Time  SEMT Lab. 5  Concrete - Strength (Normal Curing   & Steam Curing) SEMT Lab. 6 Concrete - Non Destructive Test (Rebound Hammer & UPV Test) SEMT Lab.  7 Concrete - Carbonation Test, Water Permeability Test SEMT Lab.  8  Concrete - Porosity (MIP) CMMC Lab.  9  Concrete  - Abrasion Resistance SEMT Lab.  10 Steel (HYSD bars) - Tension Test HS Lab.
+
+## CE 719: Construction Contracts
+- Credits: 6
+- Type: Theory
+- Description: Comprehensive study of different types of contracts and their working. Important clauses in the contracts. Standard forms of contracts used in India and abroad. Owner- construction contractor prime contract, labor agreements; purchase order and subcontract agreements; insurance contracts; surety bonds; joint-venture agreements; bid and proposals; mistakes in bids; breach of contract; contract changes; differing site conditions; delays, suspensions, and terminations; liquidated damages, force majeure, and time extensions; allocating responsibility for delays; constructive acceleration; common rules of contract interpretation; Problems in the operation of contracts, Enforcement of contracts, Incentive mechanism in contracts. Claims and disputes, Claim process, Dispute resolutions, Arbitratio...
+
+## CE 720: Non-Destructive Testing of Materials
+- Credits: 6
+- Type: Theory
+- Description: Types of materials, tests and the variables involved, destructive and non-destructive testing correlation of properties obtained by NDT with the basic structure of matter and other properties; NDT of different materials by various techniques such as radiographic, sonic and ultrasonic, electrical and magnetic, soleoroscopic, microwave, eddy current penetrant, thermal optical, holographic etc., practical applications and advances in NDT.
+
+## CE 722: Construction Management Studio
+- Credits: 4
+- Type: Theory
+- Description: Software used in construction management. Introduction to MS Project. Exercises on MS Project Simulation Software, Discrete Event Simulations in Construction, Monte-Carlo Simulations.  Introduction to Building Information Modelling, Exercises with Building Information Modelling Software: Autodesk Revit.  Exercises on visualization, MEP modelling, clash detection, 4D-BIM, 5D BIM.
+
+## CE 723: Construction Equipment and Personnel Management
+- Credits: 6
+- Type: Theory
+- Description: Construction EquipmentsFactors affecting selection of equipment and methods - Technical and Economic.Analysis of production outputs and costs, equipment power requirementsEquipment used in earthwork construction, compaction and stabilization, earthmoving, material transport, drilling.Equipment used in aggregate production, concrete production, asphalt mix production and placementLifting equipment, Piling equipment, Pumps and forming systems. Case studies on equipment usage in constructionPersonnel in constructionManaging labour on construction sites. Productivity in construction, Analysis of productivity, Productivity measurement, Work sampling methods, Foreman Delay Survey, Crew Balance Charts, Process Charts. Introduction to wastes in construction sites.
+
+## CE 725: Construction Economics and Finance
+- Credits: 6
+- Type: Theory
+- Description: Time value of money, Cash flows in construction projects Evaluation of alternatives: Present Worth Comparisons, Rate of Return analysis, Incremental Rate of Return, Break -Even , Benefit-Cost Analysis, Replacement Analysis, Depreciation: Capital cost recovery, Accounting techniques, insurance costs Taxes: Tax laws, Accounting treatment of taxes Inflation: Nature of inflation, real interest rates, price indexes, taxes and inflation Construction accounting Sources of funding for finance, Infrastructure financing, Project finance techniques. Life-cycle costing, Construction Cost Control, Personnel costs, Equipment costs, Job in directs and mark-up, Approximate estimates
+
+## CE 727: Construction Materials
+- Credits: 6
+- Type: Theory
+- Description: Science, Engineering and Technology of Materials - Atomic Bonding-Structure of solids - Development of Microstructure - Surface Properties - Response to stress - Failure Theories - Fracture Mechanics - Thermal properties - Review of Construction Materials and criteria for selection - wood - Polymers - Fibre reinforced composites - Metals - Concrete - Glass - Bituminous materials - Water proofing Materials.
+
+## CE 728: Construction Management
+- Credits: 8
+- Type: Theory
+
+## CE 729: Quality and Safety in Construction
+- Credits: 6
+- Type: Theory
+- Description: Quality in Construction Need for quality in construction, Definition of Quality, Principles of Quality Assurance and Quality Control, Concepts of Total Quality Management, The Plan Do Check Act concept. Seven basic tools of quality - Cause and effect diagrams, Check Sheets, Control charts, Histograms, Pareto Charts, Scatter Diagrams, Run Charts Sampling Techniques for quality, Standards on Quality - ISO 9001, Development of Quality Manuals in projects, Quality Audits. Quality procedures for various materials and procedures used in construction.  Safety in Construction Construction safety management systems, Safety culture, Performance measurements of safety - lead indicators, lag indicators, Injuries in construction, Cause analysis, Human error reduction Hazard Analysis and risk assessment...
+
+## CE 731: Mechanics of Fluid Flow
+- Credits: 6
+- Type: Theory
+- Description:  Fluid flow theories - an Introduction  Equation of motion, continuity and energy in differential forms, integral equations of momentum and energy and control volume approach  Navier Stokes Equations - Solution and Applications  Laminar flow in pipes and channels  Turbulent flow in pipes and channels  Elements of boundary layer concepts, boundary shear stress-skin-friction drag  Environmental fluid mechanics - diffusion, dispersion in open channels, transport mechanism & solutions  Unsteady flow in open channels, surges in channels  Transients in closed conduits, water hammer analysis
+
+## CE 736: Environment Impact Analysis of Water Resources Systems
+- Credits: 6
+- Type: Theory
+- Description:  Water resources projects that needs EIA, Sequence of studies in Environmental Impact assessment of water resources projects, Matrix, Checklists, Network, Overlays and other techniques of environmental impact assessment.  Oxygen sag models, Empirical and self information models, Planning and management of impact studies, Prediction and assessment of impact on surface water environments,  Prediction and assessment of impact on groundwater environments, Sources of Contamination of groundwater environment, Development of solute transport equations for surface and sub surface flows,  Finite differences and finite element models, Numerical dispersion, Solutions by particle tacking methods, Modified method of characteristics, Random walk transport models. 10.
+
+## CE 738: Irrigation and Conveyance Network
+- Credits: 6
+- Type: Theory
+- Description:  . Irrigation fundamentals, types of irrigation, tank irrigation, lift irrigation, Principles of soil physics & soil chemistry  Soil-plant-water relationships: Water relation of soils, soil moisture and plant growth, water requirement and yield response; Crop water requirements estimation; irrigation scheduling; irrigation efficiencies.  Irrigation economics: Economic analysis of on-farm irrigation; financial analysis - Central and State financing - Economic instruments- water charges, cess, taxes, subsidies and compensation- Irrigation water pricing - Cost Benefit analysis of irrigation projects; Irrigation project planning and management.  Water conveyance and control, Canal and pipe network planning - principles of branching network systems for flexibility, alignment of network comp...
+
+## CE 740: Traffic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Traffic stream characteristics: Road user and vehicle characteristics, Fundamental parameters and relations, Traffic Stream Models, Modeling vehicle arrivals: Continuous distributions to model Headways and speed, Modeling vehicle arrivals: Discrete distributions to model flow and evaluation of distributions. Traffic measurement procedures: Measurement at a Point (Volume data collection and analysis, PCU, PHF etc), Measurement over a Short Section (Speed data collection and analysis), Measurement along a Length of Road (Density and travel time measurement and analysis), Moving Observer Method, Traffic forecasting and growth studies. Microscopic traffic flow modeling: Car Following Models: Linear models, Car Following Models: Non-linear models, Lane Changing Models, Microscopic Traffic Simul...
+
+## CE 741: Formwork for Concrete Structures
+- Credits: 6
+- Type: Theory
+- Description: Introduction to formworks - Emphasis on formwork based design -   Formwork management - Formwork materials - Pressure of concrete on formwork - Key aspects of formwork design - Failure of formworks (case studies) - Design of formworks for walls, slabs, columns - Design of back-propping -  Modern formwork systems - Scope for research in the field of formworks.
+
+## CE 742: Pavement Systems Engineering
+- Credits: 6
+- Type: Theory
+- Description: Historical development of pavements. Introduction to different types of flexible pavements and design factors, Stress and strain analysis of flexible pavements. Introduction to multi-layers elastic theory. Analysis of pavements using software such as IITPAVE and KENPAVE, Stress and strain (deflection) analysis of rigid pavements. Analysis of pavements using software such as IITRIGID and KENLAYER, and others. Introduction to traffic loading, Understanding the concept of equivalent standard axle load (ESAL), Design of flexible pavements as per IRC 37, AASHTO, and AI methods for stabilized and un-stabilized base and subgrade layers. Design of rigid pavements as per IRC 58, AASHTO, and PCA methods for stabilized and un-stabilized base and subgrade layers. Introduction to different types of ove...
+
+## CE 743: Condition Assessment and Rehabilitation of Structures
+- Credits: 6
+- Type: Theory
+- Description: Performance of construction materials and components in services - Causes of deterioration - preventive measurements and maintenance - Principles of assessment of weathering and durability - Diagnosis of construction failures - Dealing with cracks - Materials for Repair, Preparation of surface and strengthening techniques - Corrosion damage of reinforced concrete - repair and prevention measures - Surface deterioration, Efflorescence, causes, prevention and protection - Surface coatings and painting - Water proofing - Grouting - Strengthening of existing structures - Special repairs, maintenance, inspection and planning, Budgeting and management - Case Studies.
+
+## CE 744: Analysis of Transportation System
+- Credits: 6
+- Type: Theory
+- Description: Introduction: transportation systems, transportation innovations, social and economic impacts of transportation, Decision makers and their options, demand modelling and predictions, Modelling transportation systems Analysis of network flows: Shortest-Path Problems, Maximum-flow Problems, Minimum-cost network flow problems, Minimum Spanning tree problem, The network simplex method Static Traffic Assignment: All-or-nothing (AON) assignment, Link cost function, Equilibrium principles: User Equilibrium (UE) and System Optimal (SO), Formulations of SO and UE, Uniqueness of UE and SO formulations, multi-mode traffic assignment, Variable Demand assignment, Stochastic Traffic Assignment, Solution of traffic assignment problems Dynamic Traffic Assignment (DTA): Introduction, Point queue model, Cell...
+
+## CE 746: Reinforced Earth and Geotextiles
+- Credits: 6
+- Type: Theory
+- Description: Basic introduction to the elements of Ground Engineering characteristics of reinforcing materials, definition of reinforced and advantage of RE, soil reinforcement interaction, behaviour of Reinforced earth walls, basis of wall design, the Coulomb force method, the Rankine force methods, internal and external stability condition, field application of RE, randomly reinforced earth and analysis of reinforced soils, testing of soil reinforcements.  Definitions, functions, properties, and application of Geotextiles, design of Geotextile applications, definitions, functions, properties and applications of geomembranes, design of geomembranes applications, Geotextiles associated with geomembranes, testing on geotextiles, environmental efforts, ageing and weathering.
+
+## CE 749: Freight transportation Planning and Logistics
+- Credits: 6
+- Type: Theory
+- Description:  Introduction to network flow, Analysis of network flows  Introduction to freight models  Modeling inter-regional freight demand  Freight generation and freight trip generation models  Inventory theory and freight transport modeling  Urban freight models: Push models, Pull models  Vehicle routing problem, fleet size optimization, crew assignment  Urban logistics: parcel delivery, e-commerce, food delivery  Freight consolidation centers  Humanitarian logistics during disasters
+
+## CE 751: Urban Transportation Systems Planning
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Introduction and scope; Definition and basic principles; Transportation problems; Types of models; Planning methodologies; Conventional transportation planning process; Sustainable urban transportation planning process; Study area delineation and data collection, Travel demand modelling and forecasting; Trip generation - regression, category analysis; Trip distribution - growth factor, Fratar and Furness methods, Gravity model, intervening opportunities model, competing opportunities model; Modal split models - aggregate and disaggregate models; Traffic Assignment - network representation, graph theory applications in transport network analysis, highway assignment, transit assignment; Land use - transport interaction.
+
+## CE 754: Economic Evaluation and Analysis of Transportation Project
+- Credits: 6
+- Type: Theory
+- Description: Economic analysis of transportation projects ownership and financing of transport, economic function of transportation, road user and transportation costs, highway finance and taxation, case studies of analysis and evaluation of transportation projects.
+
+## CE 764: Hydroinformatics
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description:  Module 1: Introduction  Introduction to data-driven modeling for water systems; Model classification; Introduction to Matlab and R Programming.  Module 2: Supervised Learning for classification/regression  Linear Models and Generalized Linear Models (GLM) including Logistic and Poisson Regression; k-Nearest Neighbor (k-NN) method; Polynomial Regression and Generalized Additive Models; Kernel-based Methods; Decision trees - Classification and Regression Trees (CART) - Bagging, Boosting and Random Forests; Support Vector Machines (SVM); Artificial Neural Networks (ANN); Resampling Methods - Bootstrap; Regularization and Machine Learning System Design.  Module 3: Unsupervized Learning  Clustering: i) hard (k-means) clustering and ii) fuzzy clustering (fuzzy c-means) with introduction t...
+
+## CE 765: Environmental Fluid Mechanics
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: nil
+- Description:  Introduction: The role of fluid mechanics in environmental planning, Transport of substances in the hydrologic cycle, Protection of water quality.  Basic Relationships: Conservation of mass, energy and momentum, Law of fluid motion - Navier- Stokes equations -Turbulent flow, Diffusion process  Heat and Mass Transfer: Diffusive transport of substances (molecular diffusion), Heat transfer equations.  Relationships of Turbulence: Properties of turbulent flow, Basic equations of turbulent momentum transport, Turbulent hypothesis, Dispersion Stratification and Density Driven Flow: Density variations in fluids, Stability and stratification (hydrostatics, hydrodynamics), Stratified flow examples  Jets and Plumes: similarity theory, entrainment hypothesis, applications for different environm...
+
+## CE 766: Watershed Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description:  Principles of Watershed Management: Basics concepts, Hydrology and water availability, Surface water, Groundwater, Conjunctive use, Human influences in the water resources system, Water demand, Integrated water resources system - River basins  Watershed Management Practices in Arid and Semi-arid Regions, Watershed management through wells, Management of water supply - Case studies, short term and long term strategic planning  Conservation of Water: Perspective on recycle and reuse, Waste water reclamation  Social Aspects of Watershed Management: Community participation, Private sector participation, Institutional issues, Socio-economy, Integrated development, Water legislation and implementations, Case studies  Sustainable Watershed Approach: Sustainable integrated watershed manageme...
+
+## CE 767: Hydrological Hazard Mitigation and  Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description:  Flood Hazard Mitigation: Basics of floods, Natural and man-made floods, Flood control structures, Flood management,  Applications of geographical information systems and remote sensing in flood management, Case studies Drought Hazard Mitigation: Basics of droughts, Natural and man-made droughts, Watershed management, Drought management, Applications of geographical information systems and remote sensing in drought management, Drought problems in arid and semi-arid regions, Case studies  Crisis and Emergency Management: Nature of extreme events, Cyclone and related flooding, Global problems of catastrophe solution and emergency situations, Mobilisation of communities, Community involvement, Case studies Risk Management: Risk assessment, Risk reduction and management, Role of insurance c...
+
+## CE 768: Urban Water and Environmental Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description:  Course Content (List of the topics/sub-topics to be covered in the lectures/practicals/assignments):  Urban Water Demand- Basic requirements for water supply, drainage and sanitation; Present and future demand for Indian cities, Estimation and fulfillment-Feasibility and Case studies  Administrative and Legal Aspects and Financing:  International, national and municipal legal aspects, Administrative structure for drainage planning, Financing for  drainage projects, Preparation of ToR, Case studies  Introduction to Drainage Problems in Different Climates: Urbanisation - Its effects and consequences for drainage, Interaction between urban and peri-urban areas.  Planning concepts and System Planning, Drainage Master Plan: Objectives of urban drainage and planning criteria, Drainage op...
+
+## CE 769: Coastal and Ocean Environment
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Sea bed morphology; Wave mechanics - generation, forecasting, wave theories, shoaling, refraction, diffraction, breaking; Tidal propagation in estuaries; Coastal currents; Littoral processes; Sediment transport; Shore protection measures; Planning and operation of harbor, coastal and offshore structures.
+
+## CE 770: Ocean Renewable Energy
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Physical Oceanography, Ocean Processes: Waves, Tides, Currents. Need for Renewable Energy, Ocean Thermal Energy, Wave Energy, Tidal Energy, Tidal Stream Energy, Salinity Gradients, Ocean-Structure Interactions; Resource Assessment, Power Take-off, Wave Energy Devices, Tidal Energy Devices, Stream Energy Devices, Offshore Wind Energy and Devices, Environmental and Social Impacts.
+
+## CE 771: Optimization in Civil Engineering
+- Credits: 6
+- Type: Theory
+- Description: Linear Programming: Formulating linear programs, Graphical solutionof linear programs, Special cases of linear programThe Simplex Method: Converting a problem to standard form, Thetheory of the simplex method, The simplex algorithm, Special situationsin the simplex algorithm, Obtaining initial feasible solutionDuality and sensitivity analysis: Sensitivity analysis , Shadow prices,Dual of a normal linear program, Duality theorems, Dual simplexmethodInteger Programming: Formulating integer programming problems, Thebranch-and-bound algorithm for pure integer programs, The branchand-bound algorithm for mixed integer programsNon-linear Programming: Introduction to non-linear programming(NLP), Convex and concave functions, NLP with one variable, Linesearch algorithms, Multivariable unconstrained...
+
+## CE 772: Pavement Materials
+- Credits: 6
+- Type: Theory
+- Description: Introduction materials used for construction of subgrade, aggregate base course, bituminous base and surface courses of pavements. Understanding different tests: CBR, Durability, Freeze-Thaw, Resilient Modulus, soil-suction, relationship between DCP and CBR, CBR and Mr, and other parameters. Characterization of aggregates for application in the pavements. Different types of rocks and aggregate production. Introduction to bitumen production and process, penetration and viscosity grading system for bitumen. Modification of bitumen using polymer and crumb rubber. Visco-elastic modeling (creep, mechanical models). Introduction to Superpave grading system. Understanding mixing and compaction temperature of bitumen. Introduction to different types of mixes: Hot mix asphalt, cold mix asphalt. Und...
+
+## CE 773: Geometric Design and Analysis of High-Speed Roadways
+- Credits: 6
+- Type: Theory
+- Description: Course Content (List of the topics/sub-topics to be covered in the lectures/practicals/assignments): Introduction to highway geometric design: Introduction to design guidelines and principals, Definition and scope of geometric design, Primary and dependent design controls. Human and vehicle factors: Concepts and application of human factors in design and typical vehicle factors used in geometric design, Considerations for high-speed highway facilities. Sight distance: Overview of different type of sight distance, Vehicle acceleration/deceleration profile, Friction coefficient, Sight distance index, Sight distance profile. Horizontal and Vertical Profile: Factors influencing profile selection, Geometric design consistency, Designing horizontal curve for speed harmony, Curves for special sit...
+
+## CE 774: Traffic Management and Design
+- Credits: 6
+- Type: Theory
+- Description: Traffic Impact: Transportation noise: standards, measurements and mitigation strategies. Parking Studies: Statistics and analysis. Fuel Consumption and vehicle operating cost. Vehicular emission and Air quality modelling. Environmental impact assessment Traffic safety: Accident studies, Accident data analysis, Statistical methods for data analysis, Road safety principles and practice, Identification of hazardous locations. Capacity and LOS analysis: Two Lane Highways, Urban Streets, Multilane Highways, Transit systems, Pedestrians and bicycles. Design of Traffic Facilities: Transit route selection and design, Pedestrians and bicycles facilities, Intersection, roundabout configuration and design, Interchange design, Freeway Operations and design. Traffic Management: Traffic Management Strat...
+
+## CE 775: Airport Planning and Design
+- Credits: 6
+- Type: Theory
+- Description: History and organisation of air transport, Aircraft characteristics related to airport design, Airport configuration, Airport planning and air travel demand forecasting, Geometric design of the airside, Structural design of airfield pavements, airport drainage, Airport airside capacity and delay, Planning and design of the terminal area, Airport access, airport lighting and marking, Financial strategies for implementation, Environmental impacts of airports
+
+## CE 776: Transportation Project Evaluation and Decision Making
+- Credits: 6
+- Type: Theory
+- Description: Introductory Concepts in Transportation Decision Making: Overall transportation project development, budgeting, financial planning, the process of transportation project development, models associated with transportation impact evaluation, procedural framework for transportation systems evaluation. Estimating Transportation Demand and Supply: Demand-supply equilibration, dynamics of transportation demand and supply, elasticity of travel demand and supply, classification of elasticity, consumer surplus and latent demand. Transportation Costs: Classification of transportation costs, transportation agency costs, transportation user costs, general structure and behavior of cost functions and road pricing.  Vehicle Operating Costs: Road user cost study in India, components of VOC, factors affec...
+
+## CE 780: Behavioural Travel Modelling
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Survey design and analysis: travel surveys and their role in transport planning, survey methods, precision and accuracy in travel surveys, sample design, sampling procedures, survey format, pilot surveys, survey administration, collection of stated and revealed preference data, survey data processing. Individual choice theory: binary choice models, multinomial and multi-dimensional choice models, issues in model specification, methods and statistics of model estimation with emphasis on maximum-likelihood estimation, aggregation and forecasting with discrete choice models, validation and transferability aspects, ordered multinomial models, nested logit models, introduction to advanced concepts such as accommodating unobserved population heterogeneity in choice behavior, mixed logit models, ...
+
+## CE 781: Advanced Foundation Engineering
+- Credits: 6
+- Type: Theory
+- Description: Subsoil exploration for foundation engineering, In situ tests and interpretation of their results, Types and selection of foundation elements, Foundation design framework, Tolerable foundation movement, Bearing capacity and settlement analysis of shallow foundations, Design of isolated and combined footings, Raft foundation, Analysis and design of axially-loaded piles, Laterally loaded piles, Piles in group, Pile driving analysis, Design of earth retaining structures, Special foundations, Foundation on problematic soils, Modeling soil-structure interaction for foundations
+
+## CE 782: Advanced Soil Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Natural soils and ground water - deposition and formation of natural soils, loading history: normally consolidated and over-consolidated soils, stresses beneath level ground: hydrostatics, vertical and lateral effective stress, water table, capillary zone; Flow through soils - Bernoulli-s Equation; Darcy-s Law, hydraulic conductivity of soil, seepage analysis; Consolidation - consolidation theory, settlement and time rate of consolidation; stress analysis - background and applications, Mohr circle of stress and pole method; Shear strength of soils and concept of critical state - factors affecting shear strength, Mohr-Coulomb failure criterion, frequently used laboratory tests, concept of critical state, drained and undrained shear strength of sand and clays, stress paths, modelling of soil...
+
+## CE 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Two pass approach to reading paper, Summary writing, literature survey and organization, Software Aids 3.Essay, Letter, Report Writing, Document Processing Software 4.Evaluation of Presentation, Short and Long Talks, Timing, Visual Aids, Presentation Software 5.Discussion and Debates after Listening, Podcasts and Webcasts 6.Discussion on Contextual Viewpoint 7.Reproduction and plagiarism practice and discussion. 8.Writing and Talking about workplace relationship, Stereotypes, Biases, labelling 9.Complementary and Crossed Transactions, Shifting positions 10.Analysis of Mannerisms during interactions and presentations.
+
+## CE 797: I Stage Project
+- Credits: 48
+- Prerequisite: 0
+
+## CE 798: II Stage Project
+- Credits: 42
+- Prerequisite: 0
+
+## CE 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## CEP602: II stage project
+- Credits: 16
+- Type: Project
+
+## CEP603: III stage project
+- Credits: 20
+- Type: Project
+
+## CES601: Seminar
+- Credits: 4
+- Type: Seminar

@@ -1,0 +1,907 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Electrical Engineering - Course Catalog for IIT Bombay Students
+
+
+## EE 101: Introduction to Electrical and Electronics Circuits
+- Credits: 8
+- Type: Theory
+- Description: Introduction, basic physical laws, circuit elements,   KVL, KCL, and a few important circuit theorems, simple circuits,    Transients in R-L, R-C, R-L-C,  Sinusoidal Steady State, Real/Reactive Power, Three Phase  Working Principles of Transformers/AC/DC machines  Functional Characteristics of Diode, BJT, OP-AMP  Analog circuit Examples: rectifiers, amplifiers, oscillators etc.  Digital Circuits: AND/OR gates, Flip Flops, DAC/ADC etc.
+
+## EE 103: Introduction to Electrical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Students will be introduced to different areas in EE, with the goal of exposing students to the historical development of that area, major milestones, people who made seminar contributions, ethical issues, standardization, and cutting edge research in that space.-   History of our understanding of electricity; The 1820s: Discoveries of Oerstead, Ampere and others; Review of circuit theory, network theorems Electromagnetism: The work of Faraday, Maxwell, Hertz; Maxwell-s equations;-Transmission of EM waves Telecommunication: Telegraphy, the telephone; Radio and television; The theory of communication: The work of Shannon; Canonical problem of wireless transmission of a message signal and the engineering issues therein; Sampling and quantization; Fourier analysis; Source and channel coding T...
+
+## EE 111: Introduction to Electrical Systems
+- Credits: 6
+- Type: Theory
+
+## EE 112: Introduction to Electronics
+- Credits: 6
+- Type: Theory
+
+## EE 113: Introduction to Electrical Engineering Practice
+- Credits: 6
+- Type: Theory
+- Description: Introduction to the following broad areas in electrical engineering.  Analog Electronics: KCL, KVL fundamentals, network theorems. High level device basics - PN diode, MOSFET, BJTs. Simple amplifier circuits. Opamp high level description. Concept of Large signal & small signal analysis. (Lab component: Simulator introduction)  Digital Electronics: Boolean Algebra, Construction of gates using MOSFETs. Memory circuits. Concept of Integrated Circuits. Counter and Watch-Clock design Lab. 9.  Signals and Systems: Analog Signals vs. Digital signals, Elementary digital signal processing. Frequency response, Bandwidth, Convolution concepts. Lab with ADC converter to sample Microphone signal, process in digital and then use DAC converter to drive speaker.  Energy Systems: Electromagnetics funda...
+
+## EE 114: Power Engineering - I
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description:       Single phase AC systems: introduction to real/reactive/apparent powers, power factor, introduction to phasors, phasor analysis and phasor diagram Three phase AC systems: analysis of balanced and unbalanced networks Review of magnetic circuits: inductance, mmf, reluctance, mutual inductance Transformers: single phase transformer (equivalent circuit, efficiency, OC/SC tests), auto transformer, three phase connections DC machines: equivalent circuit, separately excited machines Induction machines: rotating magnetic field, equivalent circuit, torque speed characteristics, efficiency, generator/motor action
+
+## EE 204: Analog Circuits
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 201
+- Description: Biasing of discrete devices and integrated circuits, Low frequency amplifiers, Feedback amplifiers, Frequency response of amplifiers and high frequency effects, Internal stages of OPAMP Difference amplifier, Intermediate stage amplifier, Level shifter, Output buffer, Linear applications of OPAMP, Non-Linear applications of OPAMPS, Wave generation with OPAMP, Active filters, Oscillators, Regulators, Power amplifiers.
+
+## EE 206: Digital Circuits
+- Credits: 8
+- Type: Theory
+- Description: Basics of Boolean Algebra and Minimization Techniques. Combinational and sequential circuits. Introduction to finite state machine concept. Bipolar logic families : DTL, TTLs, ECL, I squared L. MOS logic families : NMOS (EE and ED) and CMOS. Basic digital circuits : Shift register and Flip-flops and counters. Semiconductor memories. logic implementation on ROM, PAL, PLA and Gate Array. Wave generation using gates. Timing circuits. Arithmetic systems.
+
+## EE 207: Electronic Devices & Circuits
+- Credits: 6
+- Type: Theory
+- Description: Modeling   devices:  Static  characteristics  of  ideal   two terminal  and three terminal devices; Small signal models  of non-linear devices.  Introduction    to   semiconductor  equations   and   carrier statistics:  poisson`s and continuity equations,  Fermi-Dirac statistics   and  Boltzmann approximation to the  Fermi-Dirac statistics.  Semiconductor    Diodes:   Barrier   formation   in    metal-semiconductor   junctions,  PN homo- and  hetero-  junctions;  CV characteristics and dopant profiling; IV  characteristics; Small signal models of diodes; Some Applications of diodes.  Field  Effect  Devices : JFET/HFET, MIS structures and MOSFET  operation;  JFET characteristics and small signal models; MOS  capacitor  CV and concept  of  accumulation, depletion and  inversion;  MOSFET char...
+
+## EE 209: Electrical/Electronics Lab.
+- Credits: 3
+- Type: Laboratory
+
+## EE 214: Digital Circuits Lab
+- Credits: 3
+- Type: Laboratory
+- Description: (To Supplement EE-206)
+
+## EE 224: Digital Systems
+- Credits: 6
+- Type: Theory
+
+## EE 229: Signal Processing - I
+- Credits: 6
+- Type: Theory
+- Description: Continuous-time and discrete-time signals and systems, and their examples; Linear systems, linear time/shift invariant systems; Impulse response, convolution, and filtering; The Fourier transform; Fourier representations of continuous-time and discrete-time signals; Lowpass, bandpass, and highpass systems; Stability and pole zero properties of linear shift invariant systems; Z- transform and Laplace transform; Sampling and reconstruction of bandlimited signals; Approximate reconstruction methods (zero-order hold); The discrete Fourier transform and the fast Fourier transform (FFT) algorithm; Implementation of discrete-time systems using FFT; Introduction to contemporary practice and examples.
+
+## EE 230: Analog Lab
+- Credits: 3
+- Type: Laboratory
+
+## EE 236: Electronic Devices Lab
+- Credits: 3
+- Type: Laboratory
+
+## EE 238: Power Engineering - II
+- Credits: 6
+- Type: Theory
+- Description:      Basics of Speed and torque control of induction machines: review of induction machines, scalar control (V/f) Basics of Power Electronics Converters: Converters: basics of dc-dc converters in continuous mode; buck, boost and buck-boost converters, flyback converter, single and three phase voltage source inverters, power electronic converters with ideal switching. Steady-State Analysis of dc-dc converters Synchronous machines: construction and working principles, equivalent circuits, single machine infinite bus connection, power angle curves, reactive power control Power system: structure of power systems, transmission lines (Telegrapher`s equations, steady state performance, SIL, compensation, introduction to cables and underground distribution), speed and voltage control Introduc...
+
+## EE 240: Power Engineering Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Power measurement in balanced 3 phase circuit and power factor improvement  Short circuit and Open circuit test in single phase transformer  Open Circuit Characteristics of a DC generator 9.  Torque-speed characteristics of a separately excided DC motor  Torque-speed characteristics of Three Phase Squirrel Cage Induction Motor  Lectures + Tutorials on the use of FEM in machine design
+
+## EE 301: Electromagnetic Waves
+- Credits: 6
+- Type: Theory
+- Description: Transmission line equations. Impedance of loaded and unloaded transmission lines. Reflections and VSWR. Smith chart and its use in impedance matching and other transmission line problems.Propagation of electromagnetic waves in different media. Reflection and refraction at different boundaries. Total reflection and polarizing angle. Ground wave and sky wave propagation.Parallel plane and rectangular waveguides. Attenuation in wave guides.Radiation of electromagnetic waves. Dipole and array of dipoles for medium wave and short wave transmission.
+
+## EE 302: Control Systems
+- Credits: 6
+- Type: Theory
+- Description: Basic concepts of open loop and closed loop control. System modelling, block diagrams, signal flow graphs, transfer function, and state space representation.Concepts of controllability, observability, minimality, stability, and sensitivity.Time domain and frequency domain analysis of control systems.Stability analysis using Routh-Hurwitz, Nyquist and root locus methods, phase margin, Gain margin.Compensator design using frequency domain and time domain methods like root locus, Bode plots, pole placement in time and frequency domain. Asymptotic observers.
+
+## EE 309: Microprocessors
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 224
+- Description: Block diagram view of a general purpose processor; elements of hardware and software architectures; introduction to concepts of data and control paths, registers and memory organization. Instruction set basics and assembly language programming: instruction structure and addressing modes, instruction encoding, and study of 8085A instruction set, hardware architecture and interrupts. Introduction to microcontrollers. 8051 hardware and302240instruction set architecture, timers/counters, interrupts and serial interface (including multi-processor communication). Interfacing basics using examples of I/O devices: parallel port, serial ports, keypad, display, etc. Introductory discussion on processor performance evaluation and design using a RISC ISA (including concepts of pipelining, pipelining h...
+
+## EE 323: Analog Circuits
+- Credits: 8
+- Type: Theory
+
+## EE 324: Control Systems Lab
+- Credits: 3
+- Type: Laboratory
+- Description: (To supplement EE-302 )
+
+## EE 325: Probability and Random Processes
+- Credits: 6
+- Type: Theory
+
+## EE 334: Power Systems
+- Credits: 6
+- Type: Theory
+
+## EE 337: Microprocessors Laboratory
+- Credits: 3
+- Type: Laboratory
+- Description: Software experiments using an 8085 Kit to learn its instruction set.  Hardware experiments for the use of peripherals like 8251 (USART).  Experiments using a development  board to learn the instruction set and assembly programming for 8051 family of microcontrollers.  Experiments to learn Port IO,  control of on chip peripherals such as timers, interfacing with off chip peripherals such as LCD displays, Key boards, Stepper motors and ADC chips.  Experiments for the use of other microcontrollers such as PIC using development boards.
+
+## EE 338: Digital Signal Processing
+- Credits: 6
+- Type: Theory
+
+## EE 340: Communications Lab
+- Credits: 3
+- Type: Laboratory
+
+## EE 341: Communication Systems - I
+- Credits: 6
+- Type: Theory
+- Description: - Review of signals and systems, Fourier transform, and random processes - Lowpass representation of bandpass signals and systems: downconversion and upconversion, lowpass representation of bandpass systems - Analog modulation techniques: Amplitude modulation, DSB, SSB, VSB modulations, Angle modulation: FM and PM - Sampling, quantization and pulse modulation: Sampling and pulse amplitude modulation, PCM and DPCM, Delta modulation, scalar and vector quantization - Overview of multiplexing and multiple access techniques: TDM(A), CDMA, FDM and OFDM(A) - Digital modulation techniques: Basics of PSK, ASK, FSK, QAM; ML demodulator implementation with matched filter, decision regions and probability of error analysis. - Digital communication over bandlimited channels: Intersymbol interference, N...
+
+## EE 344: Electronic Design Lab
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: EE 214
+- Description: Basic concepts on measurements; Noise in electronic systems; Sensors and signal conditioning circuits; Introduction to electronic instrumentation and PC based data acquisition; Electronic system design, Analog system Design, Interfacing of analog and digital systems, Embedded systems, Electronic system design employing microcontrollers, CPLDs, and FPGAs,  PCB design and layout; System assembly considerations. Group projects involving electronic hardware (Analog, Digital, mixed signal) leading to implementation of an application will be carried out.
+
+## EE 350: Technical Communication
+- Credits: 6
+- Type: Theory
+- Description:     Assessment of effective technical communication: Honesty, Clarity, Accuracy, Comprehensiveness, Accessibility, Conciseness, Professional Appearance, Correctness Ethical and legal issues: Copyright, plagiarism Writing process: Planning, Drafting, Revising, Editing, Proofreading Making oral presentations
+
+## EE 352: Digital Signal Processing Lab
+- Credits: 4
+- Type: Laboratory
+
+## EE 353: Introduction to Data Science and Machine Learning
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Revision of continuous random variables, multivariate distributions, marginalization, conditional distributions;  Charts and data visualization, including bar charts, line charts, error bars, pie charts, scatter plots, bubble charts, box plots, chart information elements, coherence and aesthetics; Exploratory data analysis, including statistical descriptors, correlations, QQ plots; Hypothesis testing, t-test, chi-squared test, non-parametric tests; Linear and logistic regression, derivation of loss functions, gradient descent, L2 and L1 regularization, validation, cross-validation, domain shift; Support vector machines and kernel methods for classification and regression; Shallow neural networks, importance of hidden layer, computation graphs and Jacobians, backpropagation; Feature enginee...
+
+## EE 429: Discrete Data and Digital Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 302
+- Description: Sampling and data reconstruction processes. Ideal sampler, sampling theorem, zero order holds.   Z-transforms :  Theorem evaluation Jury"s criteria. Design of DD systems. Stepper motors and motor controllers and stepper motor control systems. Applications, NC systems, peripherals.
+
+## EE 451: Supervised Research Exposition
+- Credits: 6
+- Type: Project
+
+## EE 462: Digital Signal Processing Software and Hardware Lab
+- Credits: 3
+- Type: Laboratory
+- Description: The lab experiments that will be typically conducted are listed here.  Software labs performed on a general purpose processor. 1. Generation and processing of simple waveforms in software 2. Finite impulse response (FIR) and infinite impulse response (IIR) filter Implementation as embedded blocks and their comparison 3. Fixed-Point Representation and Processing 4. Discrete Fourier transforms (DFT) and fast Fourier transforms (FFT) 5. Multirate DSP and its applications  Hardware labs performed on a programmable digital signal processor (DSP): 1. Introduction to the programmable DSP, the software platform, and signal generation considerations 2. FIR filter implementation using linear and circular buffer 3. IIR Filter Implementation and comparison with FIR implementation 4. FFT and real-time ...
+
+## EE 465: Cryptocurrency and Blockchain Technologies
+- Credits: 6
+- Type: Theory
+- Description: Cryptocurrencies Bitcoin: Elliptic curve cryptography, ECDSA, cryptographic hash functions, SHA-256, Bitcoin addresses, Bitcoin`s blockchain, block header, Merkle trees, mining, proof of work (PoW) algorithms,  difficulty adjustment algorithm, mining pools, transactions, double spending attacks, the 51% attacker, block format, pre-SegWit transaction formats, Bitcoin script, transaction malleability, SegWit transaction formats, smart contracts (escrow, micropayments, decentralized lotteries), payment channels, Lightning network. Ethereum: Overview of differences between Ethereum and Bitcoin, block format, mining algorithm, proof-of-stake (PoS) algorithm, account management, contracts and transactions, Solidity language, decentralized applications using Ethereum. Stellar: Overview of Stellar...
+
+## EE 491: BTP I
+- Credits: 6
+- Type: Project
+
+## EE 593: Dual Degree Project I
+- Credits: 36
+
+## EE 600: Mini Project
+- Credits: 10
+- Type: Theory
+
+## EE 601: Statistical Signal Analysis
+- Credits: 6
+- Type: Theory
+- Description: Review of probability theory and random variables. Transformation (function) of random variables. Conditional expectation. sequence of random variables, convergence of sequence of random variables.  stochastic processes : wide sense stationary process, orthogonal increment process, Wiener process, and the Poisson process, KL expansion, ergodicity. Mean square continuity, mean square derivative and mean square integral of stochastic processes.   Stochastic systems : response of linear dynamic systems (e.g.   state space or ARMA systems) to stochastic inputs, Lyapunov equations, correlational function, power spectral density function, introduction to linear least square estimation, Wiener filtering and Kalman filtering.
+
+## EE 602: Radar Systems
+- Credits: 6
+- Type: Theory
+- Description: Radar theory, different types of radars, Radar signal analysis for range accuracy and resolution. Radar signal detection and estimation techniques, clutter and noise suppression, propogational characteristics over land and sea. Electronic counter measure.
+
+## EE 603: Digital Signal Processing and its Applications
+- Credits: 6
+- Type: Theory
+- Description: 1. Linear Algebra: Set of linear equations, rank, four subspaces and their relationships, uniqueness for overdetermined and underdetermined systems     2. Signal Representation: Basis representation, CT Fourier transform, Fourier series, existence and convergence analysis, Fourier transform for signals in L1, L2, and beyond, regularity- and decay properties, Dirac impulses, and the Poisson summation, uncertainty principle, time-limitedness & bandlimitedness     3. Analog to Digital Conversion: Sampling theory, quantization, oversampling - missing sample recovery, an introduction to sub-Nyquist sampling, projection onto a bandlimited space     4. Recap of - Discrete-Time Signals and Systems, System Analysis by z-Transform, LTI, DTFT, DFT, linear & circular convolutions     5. Relation betwe...
+
+## EE 605: Error Correcting Codes
+- Credits: 6
+- Type: Theory
+- Description: Linear block codes : systematic linear codes and optimum decoding for the binary symmetric channel. The generator and parity check matrices, syndrome decoding on symmetric channels, Hamming codes, weight enumerators and the MacWilliams indentities, perfect codes.  Introduction to finite fields and finite rings, factorization of Pn - l over a finite field. Cyclic Codes.   BCH codes, idempotents and Mattson-Solomon polynomials, Reed-Solomon codes, Justeen codes, MDS codes, Alterant, Goppa and generalized BCH codes, spectral properties of cyclic codes.   Decoding of BCH codes, Berlekamp"s decoding algorithm, Massey"s minimum shift register synthesis technique and its relation to Berlekamp"s algorithm. A fast Berlekamp Massey algorithm.   Convolution codes, Wozencraft"s sequential decoding alg...
+
+## EE 606: Fibre Optic Communications
+- Credits: 6
+- Type: Theory
+- Description: Introduction to vector nature of light, propagation of light, propagation  of  light in a cylindrical dielectric  rod,  Ray model, wave model.  Different  types of optical fibers, Modal analysis of a  step index fiber.    Signal  degradation  on optical fiber due to  dispersion  and attenuation. Fabrication of fibers and measurement techniques like OTDR.   Optical  sources  - LEDs and Lasers, Photo-detectors  -  pin-detectors, detector responsivity, noise, optical receivers.   Optical  link design - BER calculation, quantum limit,  power panelities.   Optical  switches  -  coupled mode  analysis  of  directional couplers, electro-optic switches.   Nonlinear effects in fiber optic links. Concept of self-phase modulation, group  velocity dispersion  and  solition  based communication.  Optic...
+
+## EE 608: Adaptive Signal Processing
+- Credits: 6
+- Type: Theory
+- Description: Review of basic linear and non-linear estimation theory, signal modelling, optimal filtering basics. Adaptive filtering as an extension of the optimal least mean square error case, adaptive algorithms, adaptive equilization and echo cancellation adaptive lattice filters, application to radar, solar, geophysics and hydrology, economic processes, communications (spread spectrum techniques).
+
+## EE 609: Radiating Systems
+- Credits: 6
+- Type: Theory
+- Description: Review of antenna theory, dipoles, monopole and loop antennas, linear and planar arrays, array synthesis, phased arrays, helical antennas, radiation from apertures, aperture distribution, horn and parabolic dish antennas, Yagi - Uda and log-periodic antennas, microstrip antennas and arrays, Dielectric Antennas.
+
+## EE 610: Image Processing
+- Credits: 6
+- Type: Theory
+- Description: Image representation, basics of colorimetry, KL transforms, two dimensional transforms, image enhancement, edge detection, histograms. Image restoration : sources and models of image degradation, point spread functions (psf), stochastic psf, noise in images. Formulation of image restoration problem least square, minimum mean square error (MMSE) and homomorphic filter restoration, linear and non-linear restoration techniques.  Mathematical morphology, computer tomography.
+
+## EE6104: Internet of Things
+- Credits: 6
+- Type: Theory
+- Description: Module 1: IoT Introduction and Fundamentals      - IoT Definition, Applications, Benefits/challenges      - IoT layers and components: Sensors, signal processing, data transmission (wired/wireless), data analysis.     - IoT levels based on complexity     - IoT hardware and computing platforms  Lab: (2 labs)         1. IoT kit introduction: Hardware and software (programming environment), IDE         2. Embedded software relevant to microcontroller and IoT platform         3. Introduction to peripheral interfacing related to IoT-system design (Sensor, ADC, and wireless module available on kit). This can include SPI/I2C etc.          4. Peripheral interfacing like LEDs/ keys (display, keypad)  Module 2: Signals, Sensors, Actuators, Interfaces      - Sensors, different types/classes of sensor...
+
+## EE6105: Power System Modeling and Control
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Evolution of Power Systems and the Present-Day Scenario. Structure of a power system: Bulk Power Grids and Micro-grids. Conventional and Renewable Energy Sources. Distributed Energy Resources. Energy Storage. Review of basic concepts of single-phase and three-phase AC systems.  Power System Components and Modeling : Overhead Transmission Lines and Cables: Electrical and Magnetic Fields around conductors, Corona and bundled conductors Parameters of lines and cables. Traveling wave Equations. Lightning and Switching Surges. Surge Arresters.  Sinusoidal steady state representation of AC lines: Short, medium and long lines. Surge Impedance Loading, Power Transfer, Voltage profile and reactive power absorption/generation in transmission lines. Series and Shunt Compensation of ac l...
+
+## EE 611: Microwave Integrated Circuits
+- Credits: 6
+- Type: Theory
+- Description: Introduction, Analysis of microstriplines, variational methods, conformal transformation, Numerical analysis, Losses in microstriplines, Slot line. Coupled lines, Design of directional couplers, hybrid couplers, filters, circulators. Microstriplines with ferrite and garnet substrates. Lumped elements in MICs, Technology of MICs, Monolithic hybrid substrates, Thin and thick film techniques, computer aided design.
+
+## EE 612: Telematics
+- Credits: 6
+- Type: Theory
+- Description: Communication networks, subscriber loops, Theory of delog and lost calls, digital switching, digital modulation, signalling, synchronization, protocols, traffic analysis, ISDN.
+
+## EE 613: Nonlinear Dynamical Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Introduction to nonlinear systems; analysis by phase plane and describing function methods. Lyapunov stability theory. The Lure problem: Popov`s method, circle criterion. Hyperstability. Hamiltonian, Lagrangian and gradient systems: physical examples and analysis. Stability of Hamiltonian systems. Periodic systems: Floquet-Lyapunov theory, Krein`s  stability theorem.
+
+## EE 614: Solid State Microwave Devices and their Applications
+- Credits: 6
+- Type: Theory
+- Description: Amplifiers - Power gain equations, stability, impedance matching, constant gain and noise figure circles. Small signal, low noise, high-power and broadband amplifier design.  Oscillators - One port, two port, YIG dielectric and Gunn-diode oscillators.   PIN diodes and uses as switches, phase shifters and limiters, varactor diodes, IMPATT and TRAPATT devices, transferred electron devices, Microwave BJTs. GaAs FETs, low noise and power GaAs FETs and their applications, Microwave Mixers.
+
+## EE 615: Control and Computational Laboratory
+- Credits: 6
+- Type: Laboratory
+- Prerequisite: nil
+- Description: Programming and computation in MATLAB and SCILAB. Design of control systems and their simulation using software tools. Implementation of algorithms for multivariable systems for pole placement, observer design, stability computations, factorizations, solutions of Lyapunov and Ricatti equations, realizations, balancing. Use of algorithms for multivariable time series modelling.
+
+## EE 616: Electronic Systems Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Signal conditioning, Instrumentation & Isolation amplifiers, Analog filters, Analog switches, Programmable circuits, Switched-capacitors circuits and applications. A/D and D/A conversion: sampling and quantization, antialiasing and smoothening filters, Data converters,  Interfacing with DSP blocks. Signal measurement in the presence of noise: synchronous detection, signal averaging. Noise in electronic systems; design of low noise circuits. Interfacing of analog and digital systems. PCB design and layout; System assembly considerations.
+
+## EE 617: Sensors in Instrumentation
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Sensor characteristics; R, L and C sensors: Hall effect sensors;  Piezoelectric sensors; Micro-sensors. Sensors for displacement, pressure, temperature, flow etc. Optical sensors; chemical and bio-sensors. Sensor applications in non-destructive testing. Interfacing sensors with microprocessors and micro controllers.
+
+## EE 618: CMOS Analog VLSI Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 671
+- Description: Introduction to analog VLSI and mixed signal is- sues in CMOS technologies. Basic MOSFET models, SPICE Models and frequency dependent parameters. Basic CMOS gain stages, Common source, Common gate, common drain amplifiers, Fully Differential amplifiers, multi-stage amplifier configurations. Frequency response, stability and noise in amplifiers. frequency compensation of multi-stage amplifiers, CMOS analog blocks: Cur- rent sources and voltage references. Design and analysis of Operational amplifiers. Layout tech- niques of analog circuits, mismatch and common- centroid matching techniques.
+
+## EE 619: Radio Frequency Microelectronics Chip Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 671
+- Description: Introduction to RF and Wireless Technology: Complexity, design and applications. Choice of Technology. Basic concepts in RF Design: Nonlinearly and Time Variance, intersymbol Interference, random processes and Noise. Definitions of  sensitivity and dynamic range, conversion Gains and Distortion. Analog and Digital Modulation for RF circuits:  Comparison of various techniques for power efficiency. Coherent and Non coherent defection. Mobile RF Communication systems and basics of Multiple Access techniques. Receiver and Transmitter Architectures and Testing heterodyne, Homodyne, Image-reject, Direct-IF and sub-sampled receivers.  Direct Conversion and two steps transmitters. BJT and MOSFET behavior at RF frequencies Modeling of the transistors and SPICE models. Noise performance and limitati...
+
+## EE 620: Physics of Transistors
+- Credits: 6
+- Type: Theory
+- Description: The MOS transistor:  Pao-Sah and Brews models; Short  channel effects  in  MOS  transistors. Hot-carrier  effects  in  MOS transistors;     Quasi-static   compact  models  of   MOS  transistors;   Measurement  of  MOS  transistor   parameters; Scaling and transistors structures   for   ULSI;     Silicon-on-insulator transistors; High-field and radiation effects in transistors.           The  bipolar  transistor:  Ebers-Moll model;  charge  control model;  small-signal and switching  characteristics;  Graded-base  and graded-emitter transistors; High-current and  high- frequency   effects;  Heterojunction   bipolar   transistors; Junction FETs; JFET, MESFET and heterojunction FET.
+
+## EE 621: Markov Chains and Queuing Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: Backgr
+- Description: {Background:} Markov Chains and regenerative processes have been extensively used in modeling a wide variety of systems and phenomena. Likewise, many systems can be modeled as queueing systems with some aspect of the queue governed by a random process. Obvious examples of such systems occur in telecommunication systems, manufacturing systems and computer systems. This course is aimed at teaching system modeling using Markov chains with special emphasis on developing queueing models. The course contents are as follows.  Introduction: Review of basic probability, properties of nonnegative random variables, laws of large numbers and the Central Limit Theorem Renewal Processes: Basic definitions, recurrence times, rewards and renewal reward theorem, point processes, Poisson process, Walds equa...
+
+## EE 622: Optimal Control Systems
+- Credits: 6
+- Type: Theory
+- Description: Static and dynamic optimization. Parameter optimization.  Caculus of Variations : problems of Lagrange,. Mayer and Bolza. Euler-Language equation and transversality conditions, Lagrange multipiliers.  Pontryagin?s maximum principle; theory; application to minimum time, energy and control effort problems, and terminal control problem.   Dynamic programming : Belaman?s principle of optimality, multistage decision processes. application to optimal control.  Linear regulator problem : matrix Riccati equation and its solution, tracking problem. Brief introduction to H-2 and H-infinity optimal control problem.  Computational methods in optimal control. application of mathematical programming. singular perturbations, practical examples.
+
+## EE 625: Bio Sensors & BioMEMS
+- Credits: 6
+- Type: Theory
+- Description: This course has been initiated to introduce students to biosensors and microfabricated systems for biosensing, primarily on silicon, so that they can get on with their seminars and projects in these areas. The focus of this course would be to acquaint students to device structures, analysis of the structures to obtain device characteristics and finally approaches to design and test of these devices and systems.  Pre-requisite: Introductory courses on device physics & differential equations. If a first level course on devices has not been taken, students should get an introduction to the area by reading a book such as `Semiconductor Devices: Physics & Technology` by SM Sze [John Wiley, India, 2002].  The broad structure of the course would be:   Weeks 1-2: Approaches to designing electronic...
+
+## EE 629: Biomedical Instrumentation
+- Credits: 6
+- Type: Theory
+- Description: Brief introduction to human physiology. Biomedical transducers: displacement, velocity, force, acceleration, flow, temperature, potential, dissolved ions and gases.  Bioelectrodes and biopotential amplifiers for ECG, EMG, EEG, etc.   Measurement of blood temperature, pressure and flow. Impedance plethysmography. Ultrasonic and nuclear imaging.   Prostheses and aids: pacemakers, defibrilla-tors, heart-lung machine, artificial kidney, aids for the handicapped. Safety aspects.
+
+## EE 631: Modern Filter Design
+- Credits: 8
+- Type: Theory
+- Description: Approximation theory. Network transformations, network function decomposition.  Active elements : Operational amplifiers, NIC, gyrator controlled sources.   Active RC filter design : Use of finite and infinite gain amplifiers and biquads.   State space approach, multiple feedback design, two integrator loop and high order filter design. Design based on impedance converters.   High frequency filter design : High frequency characteristics of op-amps. Single pole roll-off model. Compensated filter design.   Active R and C filters. Switched capacitor filters.
+
+## EE 634: Simulation of Devices and Circuits
+- Credits: 6
+- Type: Theory
+- Description: Formulation of network equations: Nodal, mesh, modified nodal and  hybrid  analysis equations.              Sparse    matrix    techniques; Solution   of  nonlinear  networks   through   Newton-Raphson technique.              Multistep  methods:  convergence  and  stability; Special classes of multistep methods: Adams-bashforth, Adams-Moulton  and  Gear`s methods; Solution of  stiff  systems  of equations; Adaptation of multistep methods to the solution of electrical networks; General purpose circuit simulators.             Review  of  semiconductor  equations  (Poisson, continuity, drift-diffusion, trap rate). Finite difference formulation of these   equations   in   1D   and   2D. Grid  generation.            Physical/empirical   models   of   semiconductor  parameters  (mobility,   life...
+
+## EE 635: Applied Linear Algebra
+- Credits: 6
+- Type: Theory
+- Description: Vector spaces, linear dependence, basis. Representation of linear transformations with respect to a basis.  Inner product spaces, Hilbert spaces, linear functions, the Riesz representation theorem and adjoints.   Orthogonal projections, products of projections, orthogonal direct sums. Unitary and orthogonal transformations, complete orthonormal sets and Parseval"s identity. Closed subspaces and the projection theorem for Hilbert spaces.   Polynomials. The algebra of polynomials, matrix polynomials, annihilating polynomials and invariant subspaces, Jordan forms.   Applications : Complementary orthogonal spaces in networks, properties of graphs and their relation to vector space properties of their matrix representations. Solution of state equations in linear system theory. Relation between ...
+
+## EE6351: Theory of Electron Devices
+- Credits: 6
+- Prerequisite: 0
+
+## EE 636: Matrix Computations
+- Credits: 6
+- Type: Theory
+- Description: Basic iterative methods for solutions of linear systems and their rates of convergence. Generalized conjugate gradient, Krylov space and Lanczos methods. Iterative methods for symmetric, non-symmetric and generalized eigenvalue problems. Singular value decompositions. Fast computations for structured matrices. Polynomial matrix computations. Perturbation bounds for eigenvalues.
+
+## EE 637: Microprocessors and Microcomputers
+- Credits: 8
+- Type: Theory
+- Prerequisite: CS 201
+- Description: Introduction to computers. Computer organization, functional blocks, ALU, control unit I/O and memory. Introduction to microprocessors. Organization of 8085A microprocessor.   Introduction set and programming principles. Microcomputer system and address decoding principle. Microcontroller systems.   Microprocessor support chips : 8255A, 8253, 8259, 8251A, 8279 etc.   Introduction to 16-bit microprocessors and support chips.   Multiprocessor systems. Microprocessor selection and product development. Some case studies.
+
+## EE 638: Estimation and Identification
+- Credits: 6
+- Type: Theory
+- Description: Introduction to linear least square estimation : a geometric approach.  Wiener filter, Levinson filter, updating QR filter and the Kalman filter.   Filter implementation structures : Lattice, ladder and the systolic QR. Stochastic realization theory (modelling given the covariance). Modelling given the raw data. Spectral estimation.   Recursive least squares identification algorithms : Levinson-type, Kalman-type and the QR-type.
+
+## EE 639: Microprocessor Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Lab based on EE 637. Course must be taken together with EE 637.
+
+## EE 640: Multivariable Control Systems
+- Credits: 6
+- Type: Theory
+- Description: Examples of multivariable control systems. State space, polynomial and stable fraction models. Controllability, observability and computations involved in their analysis. Realization theory of multivariable systems and algorithms. Stability by Lyapunov`s method, solution of Lyapunov equations. Pole placement, observer design and stabilization theory. Spectral factorizations of systems. Solution of the Ricatti equation.Balanced realizations and their computations.
+
+## EE 649: Finite Fields and their Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Basics of finite fields: Groups, rings, fields, polynomials, field extensions, characterization of finite fields, roots of irreducible polynomials, traces, norms, bases, roots of unity, cyclotomic polynomials, representation of elements of finite fields, Wedderburn`s theorem, order of polynomials, primitive polynomials, construction of irreducible polynomials, linearized polynomials, binomials, trinomials.   Applications to algebraic coding theory: Linear codes, cyclic codes, Goppa codes.
+
+## EE 651: Digital Protection of Power Systems
+- Credits: 6
+- Type: Theory
+- Description: Review of principles of power system protection: over-current, directional, differential and distance protection.  Teactance, impedences and mho relays, numerical relays:motivation, basic hardware.  Review of digital signal processing techniques: sampling, aliasing, courier, discrete Fourier transforms and fast fourier transforms. Numerical algorithms, CT/PT modelling and standard, simulation of transients, electromagnetic transient program(EMTP)
+
+## EE 653: Power Electronics -I
+- Credits: 6
+- Type: Theory
+- Description: Review of line commutated converters, inverters, voltage control & Power factor improvement.  Power Devices : BJT, MOSFET, IGBT & GTOs - operating characteristics and gate drive requirements and circuits.  Switched-mode rectifier : various power circuit configurations  and wave shaping techniques. Synchronous link rectifiers: Power circuit configurations, control techniques, application of these converters in load compensation, series compensators, multi level converters.  Inverters : Voltage source inverters :-single phase & Six step inverters, voltage control & PWM strategies and implementation aspects, Modification of power circuit for four quadrant operation.  Current source inverters : single phase and three phase power circuit configuration and analysis.  Load commutated inverters: p...
+
+## EE 654: Power Electronics - II
+- Credits: 6
+- Type: Theory
+- Description: DC- DC, Converters - principle of operation of buck, boost, buck-boost, Cuk, flyback, forward, push-pull, half bridge, full bridge & isolated Cuk Converters, Input & output filter design, multi-output operation of isolated converters, MMF equations. Design of transformers and inductors.    Modelling of the above converters using state averaging techniques.Resonant Inverters : DC link Inverters, modified circuit topologies for DC link voltage clamping, voltage control - PWM techniques (sigma, sigma - delta modulation) quasi resonant inverters. DC-DC converters - series resonant and parallel resonant, application of zero voltage and zero current switchings for DC-DC converters (buck & boost).    Inverters for Induction Heating and UPS.
+
+## EE 655: Computer Aided Power System Analysis
+- Credits: 6
+- Type: Theory
+- Description: Loadflow for AC systems, fast decoupled load flow, optional power flow. Z-matrix for short circuit studies. State estimation, LO algorithm, fast decoupled state estimation. Security and contingency studies.   Unit Commitment, Load frequency control. Optimal hydro-thermal scheduling. AI applications.
+
+## EE 656: Electrical Machine Analysis and Control
+- Credits: 6
+- Type: Theory
+- Description: Principle of unified machine theory, generalized torque equation. Performance evaluation of DC machine and speed control. Three phase induction motor- transformation methods, (stationary, rotor and synchronous frames) and corresponding equivalent circuits. Three Phase synchronous motor : representation, Park transformation. Drives, various Control techniques.    Concept of Space vector, field oriented control and direct torque control of IM. Permanent magnet synchronous motors- machine model (d-q) and control methods    Switched reluctance motor drive and various power circuit configurations and control.
+
+## EE 657: Electric Drives
+- Credits: 6
+- Type: Theory
+- Description: Methods of DC motor control, non-regenerative controled rectifiers, fully controlled converters, field control, switching systems for DC motors, chopper regulators, aspects of analysis performance and stability of variable speed dc drives.  Induction motor control systems, ac regulators and static switches, control of effective rotor resistance, recovery of slip energy, Variable frequency control of ac motors, current source inverter fed induction motor drive.  forced commutated inverter fed drives, self-controlled synchronous motor drives and traction drives. Analysis, performance and stability of synchronous and asynchronous drives.  Solar and battery powered drives.
+
+## EE 658: Power System Dynamics and Control
+- Credits: 6
+- Type: Theory
+- Description: Basic Concepts of dynamical systems and stability. Modelling of power  system components for stability studies: generators, transmission lines, excitation and prime mover controllers, FACTS and HVDC systems.  Analysis of single machine and multi-machine systems: Small signal angle  instability (low frequency oscillations): damping and synchronizing torque analysis, eigenvalue analysis. Mitigation using power system stabilizers.  Large Disturbance Angle Instability: Analysis using digital simulation. Introduction to Energy Function based approaches. Transient stability controllers.  Analysis of Voltage Instability Phenomena  Introduction to Sub-synchronous Resonance.
+
+## EE 659: A First Course in Optimization
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction: Basic definition, problem formulation and illustrative examples. Existence of minimum, Weierstrass's Theorem, Necessary conditions for unconstrained minimization, Sufficiency conditions for unconstrained minimization.   2. Convex Analysis: convex sets, closest point theorem, Theorem of alternatives, Farka's lemma, Gordan's theorem, convex functions, minima and maxima of convex functions, generalizations.  3. Linear programming: Motivation, formulation, optimality conditions, simplex method, dual formulation and optimality conditions.  4.  Constrained minimization:  role of constraints, linear and non-linear constraints, equality and inequality constraints, optimality conditions, Fritz John optimality conditions, Karush Kuhn Tucker optimality conditions, necessary condition...
+
+## EE 660: Application of Power Electronics to Power Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE-653
+- Description: Theory and performance of transmission lines. Steady state and dynamic problems in AC systems.  High Voltage DC Systems: Comparison of AC and DC transmission. Types of DC  links. Components of HVDC systems: Converters,  Filters,  Smoothing  Reactor etc., Control Strategies. Modelling, Analysis and Simulation of HVDC Systems  Flexible AC transmission systems (FACTS): Principles of series and shunt compensation. Description of static var  compensators (SVC), Thyristor Controlled series compensators (TCSC), Static  phase shifters (SPS), Static condenser (STATCON), Static synchronous series  compensator (SSSC) and Unified power flow controller (UPFC). Modelling, Analysis and Simulation of FACTS controllers.
+
+## EE 665: IC Technology
+- Credits: 6
+- Type: Theory
+- Description: Overview of semiconductor processing, clean room and safety requirements, wafer cleaning.  Mask making and photolithography.   Wet and dry etching.   Impurity diffusion; solution of diffusion equation, anomalous diffusion and emitter push effect, modelling of diffusion phenomena, technological processes for diffusion, characterisation of diffused layers, process simulation of diffusion in silicon.   Ion implantation: principles, techniques and applications, removal of implant damage.   Oxidation : Procedures for oxidation of silicon, kinetics of oxidation, Deal-Grove model and refinements of this model, impurity redistribution during oxidation, local oxidation, evaluation of oxide layers, ellipsometry.   Epitaxy : technological procedures, modeling, redistribution of impurities during epit...
+
+## EE 668: Systems Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Basics  of  system  hardware design. Hierarchical design using top-down and bottom-up methodology. System partitioning techniques, interfacing between system components. Handling multiple clock domains, Synchronous  and asynchronous design styles. Interface between synchronous and asynchronous blocks. Meta-stability  and techniques for handling it. Interfacing linear  and digital systems, data conversion circuits. Design of finite state machines, state assignment strategies. Design and optimization of pipelined stages.  Use of data flow graphs, Critical path analysis, retiming and scheduling strategies for performance enhancement. Implementation of DSP algorithms. Signal integrity and high speed behaviour of interconnects: ringing, cross talk and ground bounce. Layout strategies at IC and ...
+
+## EE 669: VLSI Technology
+- Credits: 6
+- Type: Theory
+- Description: Environment for VLSI Technology : Clean room and safety requirements. Wafer cleaning processes and wet chemical etching techniques. Impurity incorporation : Solid State diffusion modelling and technology; Ion Implantation modelling, technology and damage annealing; characterisation of Impurity profiles. Oxidation : Kinetics of Silicon dioxide growth both for thick, thin and ultrathin films. Oxidation technologies in VLSI and ULSI; Characterisation of oxide films; High k and low k dielectrics for ULSI. Lithography : Photolithography, E-beam lithography and newer lithography techniques for VLSI/ULSI; Mask generation. Chemical Vapour Deposition techniques : CVD techniques for deposition of polysilicon, silicon dioxide, silicon nitride and metal films; Epitaxial growth of silicon; modelling an...
+
+## EE 671: VLSI Design
+- Credits: 6
+- Type: Theory
+- Description: CMOS: Behaviour & Spice Modeling, Layout/Stick Diagram, Interconnects: Wireline models, CMOS Inverter, Static CMOS Logic gate design, Dynamic CMOS logic design, CMOS sequential logic design, Custom/Semi-custom ASIC Design, Design of standard cells, Standard Cell Library, Standard cell views and their creation (.v/.vhd, .lef, .lib, .gdsII, .spice), IO Library, IP libraries: Adders, Multipliers, Introduction to Memory, 6T cell based SRAM Design (single port and dual port), 8T cell based register file design, Timing Issues in Digital Circuits, Design Synthesis, Physical Design, Clock tree synthesis & Static Timing Analysis, RTL to gdsII design use cases and optimization using OpenLane based open source design flow.
+
+## EE 672: Microelectronics Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Laboratory experiments on technology, characterization, design and simulation of devices and integrated circuits, based on courses EE 633, 661, 662, 665, 668 and 674. Fabrication of MOS capacitors and junction diodes.  Characterization of MOS capacitors by C-V and I-V. Characterization of photovoltaic cells. Process simulation.   Circuit and timing simulation. Design of standard cell and gate array based circuits and their simulation. Computer-aided testing of integrated circuits.
+
+## EE 673: Power Systems & Power Electronics Laboratory
+- Credits: 6
+- Type: Laboratory
+- Description: This is a laboratory based on computer simulation and hardware experiments consisting of computer simulation experiments on power systems and power electronics and hardware experiments on power electronics.
+
+## EE 675: Microprocessor Applications in Power Electronics
+- Credits: 6
+- Type: Theory
+- Description: Review of microcontrollers and digital signal processors, architecture,peripheral modules.;Typical processors for control implementation: memory organisation, CPU details, addressing modes, interrupt structure, hardware multiplier, pipelining.; Fixed- and floating-point data representations.;Assemblers, linkers and loaders. Binary file formats for processor executable files. Typical structure of timer-interrupt driven programs.;Implementing digital processor based control systems for power electronics: Reference frame transformations, PLL implementations, machine models, harmonic and reactive power compensation, space vector PWM.;Numerical integration methods.;Multitasking concepts for power electronics implementations: The need for multitasking, various multitasking methods.
+
+## EE 677: Foundation of VLSI CAD
+- Credits: 6
+- Type: Theory
+- Description: Matrices: Linear dependence of vectors, solution of linear equations, bases of vector spaces. orthogonality, complementary orthogonal spaces and solution spaces of linear equations. Graphs: representation of graphs using matrices; paths, connectedness; circuits, cutsets, trees; fundamentals circuit and cutset matrices; voltage and current spaces of a directed graph and their complementary orthogonality. Algorithms and data structures: efficient representation of graphs; elementary graph algorithms involving bfs and dfs trees, such as finding connected and 2-connected components of a graph, the minimum spanning tree, shortest path between a pair of vertices in a graph;
+
+## EE 678: Wavelets
+- Credits: 6
+- Type: Theory
+- Description: Introduction to time frequency analysis; the how, what and why about wavelets.    Short-time Fourier transform, Wigner-Ville transform.    Continuous time wavelet transform, Discrete wavelet transform, tiling of the time-frequency plane and wavepacket analysis.    Construction of wavelets. Multiresolution analysis. Introduction to frames and biorthogonal wavelets.   Multirate signal processing and filter bank theory.    Application of wavelet theory to signal denoising, image and video compression, multi-tone digital communication, transient detection.
+
+## EE 679: Speech Processing
+- Credits: 6
+- Type: Theory
+- Description: Speech production and acoustic phonetics, speech perception. Speech analysis: time and frequency domain techniques for pitch and format estimation, cepstral and LPC analysis. Speech synthesis: articulatory, formant, and LPC synthesis, voice response and text-to-speech systems. Applications: data compression, vecoders, speech enhancement, speech recognition, speaker recognition, aids for the speech and hearing impairments.
+
+## EE 686: H V D C Transmission
+- Credits: 6
+- Type: Theory
+- Description: Need for HVDC, AC vs DC: Comparative advantages. Converters and their characteristics. Control of the converters (CC and CEA)  Parallel and series operation of converters. Equivalence of a dc system in an ac system. TANA and NA Digital simulation, per unit systems. Faults and protective systems, etc.
+
+## EE 687: Switchgear Principles
+- Credits: 6
+- Type: Laboratory
+- Description: Switchgear installation and criteria for selection. Circuit breaker ratings, principles of a-c circuit breaking. RRRV and recovery voltage and their control. Current chopping. Switching of capacitive currents. Kilometric faults. Resistance switching. D-C circuit interruption.  Principle of fusegear. Salient features and characteristics of different arc interrupting media - air, oil, air-blast, SF6 , and vacuum.   The electric arc and circuit breaker. Establishing an arc, discharge characteristic of arc, long arc, short arc, energy transfer between electric field and the arc column, energy transfer out of the column.   Theories of arc interruption - restriking voltage and energy - balance theories and their applications.
+
+## EE 691: R & D Project
+- Credits: 6
+- Type: Project
+- Prerequisite: nil
+
+## EE 692: R & D Project
+- Credits: 6
+- Type: Project
+- Description: x
+
+## EE 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## EE 695: Research Seminar in Electrical Engg
+- Credits: 6
+- Type: Theory
+- Description: This course will consist of seminars on current research topics in Electrical Engineering presented mainly by students under the guidance of a group of faculty. There will be three weekly meetings of one hour each. It is intended that more than one parallel seminar course run under the same title. The courses would be co-ordinated by a single faculty member.
+
+## EE 697: II Stage Project
+- Credits: 36
+- Type: Project
+- Prerequisite: 0
+
+## EE 699: Delta Sigma Data Converters and their Applications
+- Credits: 6
+- Type: Theory
+- Description: Basics on variability in CMOS integrated circuits: Production line, CMOS process corners, mismatch and its modelling. Nyquist-rate data converters: quantization, SAR, flash and single/dual slope converters, modelling on Python/Matlab, Nyquist ADC characterization. System modelling of Delta Sigma modulators: oversampling and its effects, quantization & oversampling, concept of noise shaping, noise shaping filter implementation, signal transfer function (STF), noise transfer function (NTF), first-order delta sigma modulators (DSM): with single-bit and multi-bit quantizers, performance evaluation, higher-order DSMs, stability, non-linearity, maximum stable amplitude, effect of process variations, design of custom NTFs, continuous-time vs discrete time DSM, dynamic range scaling, cascade of in...
+
+## EE7003: Principles of Digital Communication
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: * Components of a digital communication system, Complex baseband representation, Linear modulation, Spectral occupancy of linearly modulated signals     * Review of Gaussian random variables and processes, Basics of hypothesis testing, Signal space concepts, Optimal reception in additive white Gaussian noise (AWGN), Performance analysis of ML receivers for common modulation schemes, Elements of link budget analysis     * Basics of parameter estimation, Parameter estimation for synchronization, Noncoherent communication, Performance of noncoherent communication     * Channel equalization, orthogonal frequency division multiplexing (OFDM) as transmit equalization, Maximum likelihood sequence estimation (MLSE) and Viterbi algorithm, Performance analysis of MLSE, Linear equalization, Decision ...
+
+## EE 701: Introduction to MEMS
+- Credits: 6
+- Type: Theory
+- Description: Historical Background: Silicon Pressure sensors, Micromachining, MicroElectroMechanical Systems.  Microfabrication and Micromachining : Integrated Circuit Processes, Bulk Micromachining : Isotropic Etching and Anisotropic Etching, Wafer Bonding, High Aspect-Ratio Processes (LIGA)  Physical Microsensors: Classification of physical sensors, Integrated, Intelligent, or Smart sensors, Sensor Principles and Examples: Thermal sensors, Electrical Sensors, Mechanical Sensors, Chemical and Biosensors.  Microactuators: Electromagnetic and Thermal microactuation, Mechanical design of microactuators, Microactuator examples, microvalves, micropumps, micromotors Microactuator systems : Success Stories, Ink-Jet printer heads, Micro-mirror TV Projector.  Surface Micromaching : One or two sacrificial layer...
+
+## EE 702: Computer Vision
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 610
+- Description: Imaging model and geometry, scene radiance and image irradiance, reluctance model of a surface, Lambertian and specular reflectance, photometric stereo. Ill-posedness of vision problems, regularization theory. Shape from shading, structured light and texture. Optical flow, passive navigation and recursive motion analysis. Stereo vision and correspondence problem. MRF approach to early vision problems (shape from shading, matching, stereo and motion), Image texture analysis. Integrated vision, sensor fusion introduction to image understanding.
+
+## EE 703: Digital Message Transmission
+- Credits: 6
+- Type: Theory
+- Description: Examples of analog pulse and digital transmission systems. Roll of probability theory and stochastic processes. Review of probability theory and stochastic processes. Performance analysis of analog and pulse modulation systems.  Principles of detection theory. Binary and m-ary hypothesis testing. Byes likelihood ratio test. Performance analysis of digital communication systems.   Spectrum of digital signals. Spectral efficiency of digital communication systems. Nyquist pulse shaping. Correlative coding schemes. Equalization techniques.   Synchronization techniques. Carrier, bit and frame synchronization schemes.
+
+## EE 704: Artificial Neural Network
+- Credits: 6
+- Type: Theory
+- Description: Biological memory mechanisms. Neural basis for human memory.  Neuron models. The classification problem. Linear Classifiers.   Training learning and generalization. Perception convergence theorem. Ho-Kashyap algorithm.   Multilayer feed forward networks. Number of hidden nodes and VC-dimension. Kolmogorov"s theorem on representation of functions of several variables. The back propagation algorithms. Other algorithms. Applications.   Hopfield network. Generalized convergence theorem. Computational power and capacity. Applications. Cellular neural networks.   Stability. Convergence and computational power. Applications.   Kohonen"s algorithm for self organizing networks. Convergence proof. Applications. Grossberg"s algorithm. Adaptive resonance theory (ART) for binary and analog input patter...
+
+## EE 705: V L S I Design Lab
+- Credits: 6
+- Type: Laboratory
+- Description: Lectures : Introduction to logic, timing and circuit simulation. Circuit design with FPGAS and PALS, issues in high speed circuit design.  Experiments : Design of a complex digital circuit (eg. an ALU or a multiplier) using high level hardware description languages, logic simulation and timing simulation.   Extraction of critical paths and circuit simulation of critical path sub-circuits.   Circuit partitioning and realisation using FPGAS or PALS. Design of an analog circuit (eg. a filter) using circuit simulation.   Setting up macromodels for subcircuits (eg. for OPAMS). Construction and performance verification for the circuit.   Simulation of transmission line effects in a circuit layout.   Project type experiments using a variety of techniques learnt in the course for realising circuit...
+
+## EE 706: Communication Networks
+- Credits: 6
+- Type: Theory
+- Description: ntroduction to computer communication networks and layered architecture overview. Packet switching and Fast packet switching.    Point to Point Protocols and links: ARQ retransmission strategies. Selective repeat ARQ. Framing and standard Data Link Control protocol-HDLC, SDLC, LAPD. Queuing models in  communication networks.    Multiaccess Communication and multiple access protocols:    ALOHA, slotted ALOHA, CSMA, CSMD/CD. Performance modelling and analysis.   Local Area Networks: Ethernet, Token Ring and FDDI. Design and analysis.   Internetworking issues: Bridges, Routers and Switched networks. Routing and Flow Control algorithms in data networks.   Broadband Networks: ATM, Frame relay and Gigabit Ethernet. Traffic Management in ATM networks.
+
+## EE 708: Information Theory  & Coding
+- Credits: 6
+- Type: Theory
+- Description: Mutual information, entropy for discrete ensembles; Shannon`s noiseless coding theorem; Encoding of discrete sources.    Markov sources; Shannon`s noisy coding theorem and converse for discrete channels; Calculation of channel capacity and bounds for discrete channels; Application to continuous channels.Techniques of coding and decoding; Huffman codes and uniquely detectable codes; Cyclic codes, convolutional arithmetic codes.
+
+## EE 709: Testing and Verification of VLSI Circuits
+- Credits: 6
+- Type: Theory
+- Description: Scope of testing and verification in VLSI design process. Issues in test and verification of complex chips, embedded cores and SOCs. Fundamentals of VLSI testing. Fault models. Automatic test pattern generation. Design for testability. Scan design. Test interface and and boundary scan. System testing and test for SOCs. Iddq testing. Delay fault testing. BIST for testing of logic and memories. Test automation.Design verification techniques based on simulation, analytical and formal approaches. Functional verification. Timing verification. Formal verification. Basics of equivalence checking and model checking. Hardware emulation.
+
+## EE 710: Large Sparse Matrix Computations
+- Credits: 6
+- Type: Theory
+
+## EE 712: Embedded Systems Design
+- Credits: 6
+- Type: Theory
+- Description: Embedded systems overview: CPU vs DSP vs PLC vs GPU vs ARM, Cortex A8 and A9, SoC memory subsystems ADC and DAC interfacing I/Os: Multi-standard I/Os, GPIOs, high-speed transceivers; CMOS, LVDS, LVPECL signalling Serial interfacing: SPI, RS232, RS485, I2C, UART, CAN, USB, HDMI  ARM architecture (cortex A8) Embedded software and operating system:  process, scheduling; fork and exec, process - child and parent, process id, spawning new process, inter process communication, boot sequence, BIOS, ROM, shell, DOS, UEFI boot, file system, Inode based file systems, POSIX standard Inodes, Flash memory based file systems, device drivers. Watchdog timers Introduction to Zynq 7000 series SoC: Processing system (PS), Programmable logic (PL) - FPGA, DSP, RAM; general purpose AXI ports, high-performance ...
+
+## EE 713: Circuit Simulation in Power Electronics
+- Credits: 6
+- Type: Theory
+- Description: Formulation of network equations : Nodal, Mesh, Modified Nodal and Sparse Tableau Analysis, Sparse matrix techniques, solution of nonlinear equations by Newton_Raphson method, Multistep methods : Convergence and stability, special classes of multistep methods, Adaptation of multi-step methods to the solution of electrical networks, general-purpose circuit simulators, Introduction to machine modeling : induction, DC, and synchronous machines, Simulation of three-phase converters: fundamentals of switching behaviour, space vector representation, modulation methods.  Interaction between power electronic converters and rotating machines.  Power electronic converters in power distribution systems, DC to DC converters.
+
+## EE 714: Behavioral Theory of Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Behavioral models of dynamical systems motivated from problems of electrical circuits, electromechanical and hybrid systems, heat conduction etc. Behavioral modeling from time series. Controllability, observability and trimness. Characterization of dissipative and lossless systems. Conservation principles. Generalized Lyapunov Stability theory. Theory of interconnections, decompositions and control.
+
+## EE 716: Advances in Communications Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: x
+
+## EE 719: Mixed-Signal VLSI Design
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Sampling theory and discrete-time signals Switch design and switched capacitor circuits Comparators Basics of data converters Nyquist rate ADC`s: Parallel (single-step converters), algorithmic (multi-step converters) and pipelines ADC`s Architectures and design of Nyquist rate ADC`s Nyquist rate DACS`s Architectures and design of Nyquist rate DAC`s High resolution data converters, Integrated power management units (LDO and bulk Converter), Selected topics in mixed-signal VLSI circuits.
+
+## EE 720: An Introduction to Number Theory and Cryptography
+- Credits: 6
+- Type: Theory
+- Description: SOME TOPICS IN ELEMENTARY NUMBER THEORY: Time estimates for doing arithmetic. Divisibility and the Euclidean algorithm. Congruences. Some applications to factoring.  FINITE FIELDS AND QUADRATIC RESIDUES: Finite fields. Quadratic residues and reciprocity.  CRYPTOGRAPHY: some simple cryptosystems. Enciphering matrices.  PUBLIC KEY: The idea of public key cryptography. RSA.  Discrete log.  ELLPTIC CURVES: Basic facts. Elliptic curve cryptosystems.
+
+## EE 721: Hardware Description
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Basic concepts of hardware description languages. Hierarchy, Concurrency,Logic and Delay modeling. Structural, Data-flow and Behavioural styles of hardware description. Architecture  of  event driven  simulators.  Syntax and Semantics of VHDL. Variable and signal types, arrays and attributes. Operators, expressions and signal assignments. Entities, architecture specification and configurations. Component instantiation. Concurrent  and  sequential  constructs. Use of Procedures  and functions, Examples  of design using VHDL.  Syntax and Semantics of Verilog. Variable types, arrays and tables. Operators, expressions and signal assignments. Modules,  nets and registers, Concurrent  and  sequential  constructs. Tasks and functions, Examples  of design using Verilog. Synthesis of logic  from  h...
+
+## EE 722: Restructured Power Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Fundamentals of restructured system, Market Architecture, Load Elasticity, Social welfare maximization, OPF: Role in vertically integrated systems and in restructured markets,  Congestion Management, Optimal Bidding, Risk assessment and Hedging,  Transmission Pricing and Tracing of power, Ancillary Services, Standard Market Design,  Distributed Generation in restructured markets, Developments in India, IT applications in restructured markets, Working of restructured power systems : PJM
+
+## EE 723: Physics of Nanoelectronic Devices - I
+- Credits: 8
+- Type: Theory
+- Description: 1.  Particles and waves, the time-independent Schr-dinger equation, states and operators, particle-in-a-box, density-of-states, harmonic oscillator, hydrogen atom, tunneling, two-level systems  2. Electrons in a crystal lattice, quantum well, wire and dot devices, interacting quantum wells, scanning probe microscopy, excitons in semiconductors, spin-1/2 systems and quantum bits                                                                                                     3. Identical particles - fermions and bosons, field quantization: phonons and photons  4. Classical and quantum density, entropy and information, statistical ensembles, Bose-Einstein and Fermi-Dirac statistics - applications to electronic devices    5. Non-equilibrium statistical mechanics - transition probabilities, ...
+
+## EE 724: Nanoelectronics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Shrink-down approaches: Introduction, CMOS Scaling, The nanoscale MOSFET, Finfets, Vertical MOSFETs, limits to scaling, system integration limits (interconnect issues etc.), Resonant Tunneling Transistors, Single electron  transistors, new storage, optoelectronic, and spintronics devices.  Atoms-up approaches: Molecular electronics involving single molecules as electronic devices, transport in molecular structures, molecular systems as alternatives to conventional electronics, molecular interconnects; Carbon  nanotube electronics, bandstructure & transport, devices, applications.
+
+## EE 725: Computational Electromagnetics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to electromagnetic fields: review of vector analysis, electric and magnetic potentials, boundary conditions, Maxwell`s equations, diffusion equation, Poynting vector, wave equation  Finite Difference Method (FDM): Finite Difference schemes, treatment of irregular boundaries, accuracy and stability of FD solutions, Finite-Difference Time-Domain (FDTD) method  Finite Element Method (FEM): overview of FEM, Variational and Galerkin Methods, shape functions, lower and higher order elements, vector elements, 2D and 3D finite elements, efficient finite element computations  Method of Moments (MOM): integral formulation, Green`s functions and numerical integration, other integral methods: boundary element method, charge simulation method  Special topics: hybrid methods, coupled circui...
+
+## EE 727: Physics of Nanoscale Devices - II
+- Credits: 8
+- Type: Theory
+- Description: Drude`s theory of metals, Crystal lattices, Electronic structure: energy bands in solids, Bloch`s theorem, band structure calculations based on plane wave method and tight binding method, Wannier functions, band structure of graphene, graphene nano-ribbons, GaAs, Si. Spin-orbit coupling, Hartree-Fock method, semi-classical electron dynamics, Boltzmann transport equation and connection to drift-diffusion equations, Lattice vibrations, Optical properties, Kubo formula, Introduction to mesoscopic electron transport, second quantization formulation, quantum ferromagnet, magnons, phonons, magnetic resonance (classical and quantum), single and two qubit gates, quantum LC resonators, Josephson junctions, SQUID (superconducting quantum interference device).   Hands on with Quantum devices:  1) Mea...
+
+## EE 728: Growth and Characterization of Nano-electronic Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 724
+- Description: A selection of topics from the following:  Basic Growth Concepts: growth modes; crystallization phenomena; defects .  Fundamentals and analysis of  epitaxy: liquid phase epitaxy; molecular beam epitaxy; Chemical vapor deposition; LPCVD examples (SiO2, Si3N4, Poly-Si, Silicon epitaxy); MOCVD, examples: dielectrics, epitaxy of III-V; PECVD; ALD.  Material Systems and Structures: GaAs and InP based materials : AlGaAs, GaInAs and InGaAsP; substrates, material purity, doping, ordering; heterostructures, interfaces; strained layer growth, critical thickness; Group III nitrides: AlGaInN and InGaAsN; Device structures : Detectors, Lasers, HEMTs.  Characterization of  Nanoelectronic Materials:        Photoluminescence; X-Ray diffraction; Transmission Electron Microscopy;Deep Level Transient spectro...
+
+## EE 731: Design and Analysis of Experiments Using Taguchi Method
+- Credits: 6
+- Type: Theory
+- Description: 1. Fundamentals of classical statistical methods: Normal Probability distribution; Statistical analysis of Means and Variance; Evolution of Taguchi Methods.  2. Fundamentals of Taguchi Methods: Basic philosophy of Taguchi loss function and robust design; 8-steps in Taguchi Method; P-diagrams of Static and Dynamic problems; Definitions of signal, noise and control factors;  Degrees of freedom; Linear graphs and orthogonal arrays and their designs; Definitions of Signal to Noise ratio; Evaluation of sensitivity to noise; Resolution of design; Analysis of Means, Means Plots and Analysis of Variance; Prediction of optimum conditions; Prediction of error variance.  3. Design of Experiments for Robust Design: Identification of signal, noise and control variables; Identification and selection int...
+
+## EE 732: Combinatorial Optimization I
+- Credits: 6
+- Type: Theory
+- Prerequisite: EE 635
+- Description: Brief Overview of Linear and Nonlinear Programming, Kuhn-Fourier Elimination Scheme, Farkas Lemma, Constrained Optimization through Lagrange multipliers for equation and inequality based systems, Karush-Kuhn-Tucker Theorem, Strong Duality Theorem of Linear Programming. Network Flows. Max-flow Mincut Theorem, Algorithms for maximizing flows, min cost flow Problem and its electrical equivalent, Menger`s Theorems. Graph Optimization Problems. Maximum spanning tree, matching and covering, shortest path problem, graph colouring problems. Introduction to Matroids. Axioms for matroids, The greedy algorithm and the related characterization of matroids. Submodular functions as a unifier and as a powerful tool for applied problems. Principal Partition and Principal Lattice of Partitions of submodula...
+
+## EE 733: Solid State Devices
+- Credits: 6
+- Type: Theory
+- Description: 1. Electrons in solids; Band theory 2. Charge carriers in semiconductors 3. Boltzmann Transport Equation 4. p-n junctions, Schottky and MIS contacts 5. Field-effect transistors 6. Bipolar transistors 7. Optoelectronic and photovoltaic devices
+
+## EE 734: Advanced Probability and Random Processes for Engineers
+- Credits: 6
+- Type: Theory
+- Description: Probability spaces, random variables, expectation, uniform integrability, independence, stochastic convergence, limit theorems, conditioning, Markov chains, martingales, Brownian motion, Poisson process, examples from electrical engineering.
+
+## EE 735: Microelectronics Simulations Lab
+- Credits: 6
+- Type: Laboratory
+- Description: 1.  Familiarization with TCAD software; semiconductor process simulation 302226 CMOS structure design; semiconductor device simulation 302226 CMOS inverter design; device parameter extraction for circuit-simulation (lecture and lab sessions)2.  Familiarization with compact models and transistor-level circuit simulation (lecture and lab sessions).3.  Familiarization with a typical custom IC design flow using open source design tools (lecture and lab sessions). Schematic capture, circuit simulation, layout design, design rules, layout extraction and post-layout simulation circuit design software. Analog and digital functional modules will be used as test benches for lab experiments. CMOS technology will be the main focus of the lab and available devices in this technology including MOS trans...
+
+## EE 736: Introduction to Stochastic Optimization
+- Credits: 6
+- Type: Theory
+- Description: Review of probability theory; Stochastic approximation algorithms: stability and convergence, asynchronous implementations, two time scale schemes, examples from electrical engineering; Markov chain Monte Carlo: variance reduction, simulated annealing; Markov decision processes: stochastic dynamic programming, computational schemes, state and parameter estimation, control under partial observations, adaptive control, learning algorithms
+
+## EE 739: Processor Design
+- Credits: 6
+- Type: Theory
+- Description: CISC Processor Design: Defining microprocessor, hardware flowchart, implementing from flowchart, exception, control store, microcode design. RISC Processor Design: Building datapath and controller, single cycle implementation, multi cycle implementation, pipelined implementation, exception and hazards handling. (Example: DLX Processor) Superscalar Processors Design: Superscalar organization, superscalar pipeline overview, VLSI implementation of dynamic pipelines, register renaming, reservation station, re-ordering buffers, branch predictor, and dynamic instruction scheduler etc.; simultaneous multi-threading (SMT) design.  (Example: Open SPARC  T1) Memory System Design. Application specific instruction set processor (ASIP) design. Dynamic reconfigurable processors (DRP). Impact of physical...
+
+## EE 740: Advanced Data Network
+- Credits: 6
+- Type: Theory
+- Description: Overview of Internet-Concepts, challenges and history. Overview of high speed networks-ATM. TCP/IP Congestion and Flow Control in Internet-Throughput analysis  of TCP congestion control. TCP for high bandwidth delay networks. Fairness issues in TCP.    Real Time Communications over Internet. Adaptive applications. Latency and throughput issues. Integrated Services Model (intServ). Resource reservation in Internet. RSVP.    Characterization of Traffic by Linearly Bounded arrival Processes (LBAP). Concept of (o,, p) regulator. Leaky bucket algorithm and its properties.    Packet Scheduling Algorithms-requirements and choices. Scheduling guaranteed service connections. GPS, WFQ and Rate proportional algorithms. High speed scheduler design. Theory of Latency Rate servers and delay bounds in pa...
+
+## EE 746: Neuromorphic Engineering
+- Credits: 6
+- Type: Theory
+- Description: Course outline: Introduction to Neuromorphic Engineering; Signalling and operation of Biological neurons, neuron models, signal encoding and statistics; Synapses and plasticity rules, biological neural circuits;  Neuromorphic design principles; FETs - device physics and sub-threshold circuits; Analog and digital electronic neuron design; Non-volatile memristive semiconductor devices; Electronic synapse design; Interconnection Networks; Interconnection schemes for large non-spiking and spiking neural networks;  Analysis of design, architecture and performance characteristics of demonstrated chips employing Analog neuromorphic VLSI, Digital neuromorphic VLSI, Electronic synapses and other neuromorphic systems.
+
+## EE 747: Simulation of Power System Transients
+- Credits: 6
+- Type: Theory
+- Description: 1.Modelling of linear RLCM Networks: Admittance Matrix/State Variable Formulation. 2.Numerical Solution: Stability and Accuracy.  3.Modeling of Power System Components: a) Multi-conductor Transmission Lines and Cables: Bergeron Model and Frequency Dependent Models. b) Transformers and Electrical Machines; Modelling of Saturation c) Power Electronic Switches; Interpolation Techniques to improve accuracy. d) Control Systems for Power apparatus, including Power Electronic Converters 4.Application of Transient Simulation for the study of faults and protection systems, switching transients and HVDC control. 5.Real-Time Digital Simulation of Power Systems for Hardware-in-Loop testing of controllers.
+
+## EE 748: Advanced Topics in Computer Architecture
+- Credits: 6
+- Type: Theory
+- Description: Overview Superscalar and VLIW architecture.  Limits of instruction level parallelism(ILP). Simultaneous multithreaded (SMT) architecture, Performance enhancement through branch prediction and value prediction, Bulk SMT, Thread level speculation fetch, Multicore architectures, data marshaling for mult-icore architecture, power constrained CMPs, heterogeneous core design, Core Fusion, Transactional memories.  Performance evaluation of complex microarchitectures.  On-chip interconnects (Network -On-Chip).  Architectural vulnerabilities and reliable architectures.  Patchable design.  Secure architectures.  Energy efficient architectures.  Power management.  Cache design, energy efficient cache partitioning, fast thread migration, thread throatling.
+
+## EE 749: Decentralized Control of Complex Systems
+- Credits: 6
+- Type: Theory
+- Description: Theory: Graphs and Matrices, properties of the Laplacian matrix and relation with graph connectivity. Non-negative matrices. Graphs and Dynamic Systems, Input and Output Reachability, Structural Controllability and Observability, Distributed Feedback Structures, Connective Stability and Stabilization, Vector Lyapunov Functions, Distributed Suboptimal and Optimal Control, Decentralized Observers and Feedback, Output Feedback  Applications: a) Control of Smart Grids: Frequency Regulation with variable resources, Charging Control for Plug-in electric Vehicle, Wide Area Damping Control b) Cooperative Control of Multi-agent systems: Connectivity, Coordination and Consensus algorithms: Formation Control, Flocking, rendezvous. Adversarial interactions, Task assignment and routing
+
+## EE 750: Digital Signal Processing - System Design and Implementation
+- Credits: 6
+- Type: Theory
+- Description: The course is intended to first provide some exposure to the topics listed below, in the theory component. Concurrently, in the laboratory component, actual practice and realization of the concepts studied, would be emphasized. The laboratory component is intended to be a significant and important part of this course. In fact, the theory component is mainly planned to support and strengthen the laboratory experience.    1. An introduction to Digital Signal Processors and the associated interface hardware and software        systems.    2. Basic exercises in programming Digital Signal Processors.    3. The Joint -systems - algorithms - architectures- perspective as a holistic approach in Signal        Processing applications.    4. Comparative studies between general purpose microprocessors...
+
+## EE 751: Nanomagetism and Spintronics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to spin, quantum mechanics of spin,  spin-orbit interaction, spins and magnetism in confined structures, spin relaxation, passive spintronic devices: spin valve, magnetic tunnel junctions (MTJ), spin transfer torque based MTJ, micromagnetics, Magnetic RAM (MRAM) technology, active spintronic devices: spin transistors, advanced topics: spin currents, magneto-optic effects, spin caloritronic devices, spin-Hall devices, all spin logic and spin based quantum computing
+
+## EE 753: High Power Converters and their Utility Applications
+- Credits: 6
+- Type: Theory
+- Description: High Power Electronic Converters: High-Power Semiconductor Devices, Multi- Pulse Converters, Multilevel Cascaded H-Bridge Converters, Multilevel Diode-Clamped Inverter, Modular Multilevel Converter, Other Multilevel Voltage Source Converters, Current Source Inverters, Pulse width modulation techniques (SPWM, hysteresis, SVM), Harmonic Reduction Techniques. Transmission Applications: Reactive Compensation for Power Flow Control, Shunt Compensation, Series Compensation, Phase Angle Regulators, Combined Series/Shunt Compensators, Control and Harmonic Interactions, Enhancing Stability, Large Scale Storage with Power Electronic Interface. Distribution Applications: Power and Voltage Quality, Load Balancing using passive elements, Instantaneous PQ theory, Stationary frame (αβ-frame), and synchro...
+
+## EE 755: Quantum Transport in Nanoscale Devices
+- Credits: 6
+- Type: Theory
+- Description: Part I: Theory of quantum transport Bottom up view point, Landauer approach, connection with diffusive transport. Examples of equilibrium calculations: concept of band structure, quantum wells, nanowires, carbon nanotubes, graphene, electrostatics, quantum capacitance Non-equilibrium transport: elastic resistor model re-visited from quantum transport perspective, introducing -contacts- to the Schroedinger equation, Green-s function theory, self-energy, Non-equilibrium Green-s function (NEGF) formalism Application of the NEGF formalism to concrete examples: a) molecular electronics, b) nanowire transport, c) resonant tunnelling diodes  Non-coherent transport: Electron phonon interaction,  Part II Examples of Quantum transport: Nanotransistors, Thermoelectric transport, energy conversion eff...
+
+## EE 757: Crystalline Silicon Solar Cells: Theory and Practice
+- Credits: 6
+- Type: Theory
+- Description: Module 1:  Theory: Brief review of semiconductor device physics - band structure - carrier concentrations - carrier generation and recombination - effective lifetime and surface recombination velocity - carrier transport - optical absorption and reflection.  Practice: (i) measurement of sheet resistance of a silicon wafer - determination of the type of wafer - estimation of the mobility and diffusion coefficient of the majority carriers (ii) measurement of carrier lifetime and surface recombination velocity (iii) measurement of reflectivity of a polished silicon surface. Module 2: Theory: p-n junction diodes - derivation of dark IV characteristics including surface recombination - illuminated IV characteristics - contacts - series resistance in solar cells - shunts in solar cells.  Practic...
+
+## EE 758: Internet Economics
+- Credits: 6
+- Type: Theory
+- Description: Basic networking technologies, regulatory issues, and the economic ecosystem of communication service providers.  Basic microeconomic principles and regulatory structures. Pricing of communication services and usage models in the different competition models.  Interconnection between networks, network formation games, paid peering and peering games.  Economics of network neutrality, sponsored content, zero-rating services and its social and regulatory issues.  Simultaneous ascending price auctions for spectrum sale: mechanism design, bidder strategies and case studies.
+
+## EE 759: Applied Mathematical Analysis in Engineering
+- Credits: 6
+- Type: Theory
+- Description: Sets and numbers. Limits: sequences, convergence, Cauchy sequences, limit points, limsup, liminf, subsequences. Convergence of inifnite series. Applications.  Normed spaces, completeness, Banach space. Inner-product spaces, Hilbert space. Applications. Continuous functions: continuity, left/right continuity, uniform continuity, intermediate value theorem. Applications. Fundamentals of topological spaces, compactness, connectedness. Topological groups. Applications. Differentiation. Inverse function theorem. Applications. Integration: Riemann integration. Lebesgue measure, Lebesgue integration. Applications. Function spaces, convergence of functions. Applications.
+
+## EE 760: Advanced Network Analysis
+- Credits: 6
+- Type: Theory
+- Description: Network topology: Matrices associated with graphs, the  short circuit  and  open circuit operations,  their  generalization through  the  use  of ideal  transformers  and  vector  space operations corresponding to these operations.   Theorems of Tellegen and Minty: Formal equivalence, areas of applications.   The  Implicit  Duality   Theorem  and    its    applications:  Multiport   decomposition,   ideal  transformer resulting from   the   connection   of   ideal transformers,    adjoint   networks    and    systems,    networks  with   decomposition methods  based  on altering network  topology,  ideal  diode, ideal  transformer,  resistor  circuits  and their relation to Linear and Quadratic Programming.
+
+## EE 761: Advanced Concentration Inequalities
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: 1. Basics - Chernoff, Hoeffding, Efron-Stein inequalities 2. Martingale Inequalities - Doob-s martingale, bounded difference and bounded variance methods (Azuma-Hoeffding, McDiarmid-s inequalities) 3. Isoperimetric inequality - Talagrand-s inequality for Hamming distance 9. 4. Logarithmic Sobolev Inequality 5. Markov Chains on Graphs - Reversible Discrete-Time Markov Chains, Eigenvalues and conductance 6. Rumours and Epidemics - First passage percolation
+
+## EE 763: Science of Information, Statistics, and Learning
+- Credits: 6
+- Type: Theory
+- Description: + Information Theory basics: Bayes302222 theorem, Random Variables, Independenceand Conditioning, Shannon entropy, Relative entropy, Mutual Information,Markov chains, Sanov302222s theorem.+ Statistics: Linear regression, statistical model, Exponential families,sampling, Monte Carlo, inference, Maximum Likelihood Estimation, Maximum aposteriori, Bayesian Inference.+ Inference: MaxENT algorithm, relation between Bayesian and MaxENTmethods, Statistical Mechanics, Ising models, graphical models,Hammersley-Clifford theorem,  EM algorithm, belief propagation.+ Learning: Introduction to neural networks, the single neuron as aclassifier, capacity of a single neuron, learning as inference, Hopfieldnetworks, Boltzmann machines, Supervised learning in multilayered networks,Gaussian processes, Deconvo...
+
+## EE 764: Wireless & Mobile Communication
+- Credits: 6
+- Type: Theory
+- Description: Introduction   to  mobile  communication.   Cellular   mobile telephone architecture overview.    Cellular   radio  system  design--   Frequency   assignments, frequency reuse channels. Concept of cell splitting. Handover in cellular systems. Handoff algorithms.   Multiple access schemes in mobile communications--TDMA, FDMA, CDMA.  Random Multiple Access Schemes.  Performance  analysis issues.  MAC  layer scheduling and  connection  admission  in mobile  communication.  Interference  suppression  and  Power control.   Teletraffic  modelling  and Queeuing  theoretic  analysis  of cellular  mobile networks. Resource allocation  and  mobility management.   Practical  Cellular  mobile  systems-- AMPS  and  GSM  system architecture overview. Call management and system  operation. CDMA based cel...
+
+## EE 765: Reliability and Failure Analysis of Electronic Devices
+- Credits: 6
+- Type: Theory
+- Description: Course Content (List of the topics/sub-topics to be covered in the lectures/practicals/assignments):  1. Background and Introduction: Definitions of reliability, failure modes, mechanisms, cost of warranty returns, motivation for improving product reliability in the era of -Planned Obsolescence-. 2. Introduction to mathematical methods for reliability: Failure rates, Normal distribution function, Six Sigma, Exponential, Weibull and Lognormal distributions for reliability modeling. Manufacturing yields. 3. Accelerated testing: Types of accelerated tests, Designing accelerated tests for typical stressors experienced in field, Acceleration factors, Arrhenius, Eyring and modified Coffin-Manson models. 4. Introduction to semiconductor device packaging: Materials and processes used for semicondu...
+
+## EE 766: Random Graphs : Theory and Applications
+- Credits: 6
+- Type: Theory
+- Description: Erdos-Renyl Graphs, basic structural properties, emergence of giant connected component and full connectivity, applicationsRandom Geometric Graphs, structural and connectivity properties, applications.Scale-free and small-world networks, generative models and properties, applicationsRandom processes on graphs, such as random walks, epidemic spread, and opinion dynamics.
+
+## EE 767: Photonics System Engineering
+- Credits: 6
+- Type: Theory
+- Description: 1. Optical excitation a. Lasers (principle, classification, choosing the laser based on application) b. LEDs 2. Photonic devices a. chip-scale waveguides (light confinement, mode, design, Comsol simulation) b. passive devices (filter, coupler, splitter, interferometer) c. devices based on frequency conversion d. modulators e. alternative optical devices - atoms, quantum dots, color defects 3. Light harvesting - Photodetectors (principle, applications)
+
+## EE 769: Introduction to Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Introduction to machine learning: What is learning, learning objectives, data needed.  Bayesian inference and learning: Inference, na-ve Bayes.  Basic objective of learning: Assumption of nearness and contiguity in input spaces, accuracy, Bayesian risk and casting of learning as Bayesian inference, Risk matrix, Other cost measures  Other issues in learning: Generalization and model complexity, Accuracy, Empirical risk and training, validation, and testing, Model complexity, Structural risk, Number of free parameters vs. VC dimension, Bias-variance tradeoff, Curse of dimensionality, Training sample size requirement, Convergence and training time, Memory requirement, Introduction to online/incremental learning  Objective functions for classification, regression, and ranking  Some supervised ...
+
+## EE 770: Design and Evaluation of Photovoltaic Power Plants
+- Credits: 6
+- Type: Theory
+- Description: DC Side modeling (cells, modules, arrays, generation of module file),  AC side modeling (inverters, transformers, grid connection)  Algorithms for modeling solar irradiance, module temperature, shading, soiling.  Structural aspects, contemporary issues, financial aspects  Module II: Monitoring, Performance Assessment and Degradation  Real time monitoring and fault detection in large PV power plants  Performance Assessment of large PV Power Plants   Performance Degradation and Reliability of PV Power Plants  Module III: Smart, Fast Response Utility Scale Power Plants Challenges in case of high PV penetration due to traditional approach to utility scale PV power plants.  Controllers and techniques for developing smart utility scale power plants  Economics of smart utility scale power plants.
+
+## EE 771: Recent Topics in Analytical Signal Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: The topics will be subject to revision every five to ten years. The current topics will include a subset from the following list: compressed sensing, finite rate of innovation signals and their sampling methods, graph signal processing and its applications, phase retrieval problems, distributed sampling problems, machine learning for signal processing, role of quantization and other nonlinearities in signal processing systems, signal approximation methods
+
+## EE 774: Computational Techniques in Electrical Engineering
+- Credits: 6
+- Type: Theory
+- Description: Important concepts in scientific computing such as profiling and timing, parallelisation, floating pointarithmetic, complex numbers, machine epsilon.9.Solution of non-linear equations with Newton-Raphson method, numerical solution of ODEs using explicitand implicit methods, some circuit simulation examples, numerical solution of Poisson`s equation, someexamples of optimisation methods.Solving linear systems of equations, singular value decomposition, condition number, and rank of a matrix.Public-domain software tools such as Python, Octave, Maxima, useful libraries for numerical work such as BLAS and LAPACK, and their use with respect to the topics listed above.
+
+## EE 777: Network Security
+- Credits: 6
+- Type: Theory
+- Description: Different Types of Attacks on Networks, Principles of Cryptography: Symmetric Key Cryptography, Public Key Cryptography, Message Integrity, Cryptographic Hash Functions, Authentication, Digital Signatures, Certificates, Public Key Infrastructure, Securing Email, Transport-Layer Security, Network-Layer Security and Virtual Private Networks, Firewalls and Intrusion Detection Systems, Security in Wireless Local Area Networks, Security in Wireless Ad Hoc and Sensor Networks, Distribution of Trust, Secure Routing in Ad Hoc Networks, Broadcast Authentication Protocols, Wormhole Attacks in Wireless Networks, Physical-Layer Security in Wireless Networks, Security of the Internet of Things, Cryptocurrencies, Onion Routing, Security Games, System-Level Security
+
+## EE 779: Advanced Topics in Signal Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: 1. Spectral Estimation * Non-parametric methods * Parametric methods: Line spectrum, ARMA process * Array signal processing, beamforming * CRLBs and related mathematics     2. Optimum filters: Weiner Filtering     3. Adaptive filters: Recursive LS filters     4. Kalman filter     5. Splines and sampling in shift-invariant spaces,   curve fitting, and denoising     6. Introduction to compressive sensing: Identifiability, spark, OMP, ISTA     7. Sub-Nyquist Sampling: FRI, multiband signals, and applications     8. Filter banks and multi-rate systems      9. Two-dimensional signals, Fourier transform, sampling      10. Model-based machine learning
+
+## EE 780: Terahertz : Technology & Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Basic THz Terminologies. Physical Principles of THz Interaction with Matter. Electromagnetic Waves in Matter. THz Radiation and Elementary Excitations. Laser Basics.    THz Detectors and Sources. Ultrafast Optics. THz Emitters and Detectors based on Photoconductive Antennas. Optical Rectification. Free-space Electro-optic Sampling. Ultrabroadband Terahertz Pulses. Terahertz Radiation from Electron Accelerators. Novel Techniques for Generating Terahertz Pulses. Continuous-Wave Terahertz Sources and Detectors.   Photomixing. Difference Frequency Generation and Parametric Amplification. Far-Infrared Gas Lasers. P-Type Germanium Lasers. Frequency Multiplication of Microwaves. Quantum Cascade Lasers. Backward Wave Oscillators. Free-Electron Lasers.  Thermal Detectors: Bolometers, Pyroelectric D...
+
+## EE 781: Integrated Circuit  Design for Sensor Systems
+- Credits: 6
+- Type: Theory
+- Description: Sensor readout systems: CMOS production line, sensor non-idealities, trimming: laser, on-chip ana- log/digital, OTP, Sensor system specifications. Characterizing a readout system: SNR, Noise, SNDR, DR, coherent sampling. CMOS layout con- siderations: mismatch, modelling, PVT, layout techniques, random vs systematic offset. Design and analysis of Auto-zeroing (AZ) techniques and Chopping Techniques. Chopper based instrumen- tation amplifier (IA), Ping-pong AZ based IA. Ca- pacitively coupled chopper amplifier (CCC)-OTA: differential and common-mode frequency re- sponse, noise analysis, CMRR, ICMR, flicker noise and offset reduction, settling-time. Capacitvely- coupled chopper IA, input impedance boosting with positive feedback loop. DC-Servo loops, dynamic element matching,
+
+## EE 782: Advanced Topics in Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Penalized and generalized linear models: Logistic regression, L1 and L2 penalization, elastic net, SCAD penalty, application to high dimensional low sample size problems. Intro to neural networks: Artificial neuron, single hidden layer, multiple hidden layer, back propagation, momentum, loss functions, relation with support vector machines and penalized logistic regression. Convolutional neural networks: Convolutional layers, pooling layers, drop out, VGGnet, inception modules, residual networks, deconv nets, applications to object recognition. Why deep learning works: Role of depth, closeness of local minima to global minimal, predominance of saddle points and ridges vs. local minima. Recurrent neural networks and LSTMs: lateral connections, LSTM units, gated recurrent networks, applicati...
+
+## EE 783: Advanced Semiconductor Devices Lab
+- Credits: 6
+- Type: Laboratory
+- Description: The course will be offered as various modules, with at least one device per module included in the syllabus, based on availability of resources. Each module will run for an average duration of 3 weeks. Every module will be offered primarily as a lab component, with supplementary lecture classes for conveying information on principle of operation of the device and overview of fabrication process flow, as necessary. The emphasis in the labs will be on device fabrication and characterization. The following modules will be covered in this course:  (i) MOS devices: MOS capacitors, long channel MOSFETs (ii) Diodes: solar cell (large area p-n junction), Schottky and ohmic metal-semiconductor contacts (iii) MEMS and microfluidics: SAW transducers and filters, micro-heaters, microfluidic channels (...
+
+## EE 784: 2D Materials and Devices
+- Credits: 6
+- Type: Theory
+- Description: 1. Fundamental properties of 2D materials: Chemical bonding, crystal structure, electronic band structure doping, defects, anisotropy 2. Growth and material characterization of 2D materials: Physical and chemical growth/synthesis (exfoliation, CVD, hydrothermal etc.), Material characterization (Raman/XPS/TEM/STM etc.) 3. Electronic transport in devices with 2D material channels: Boltzmann transport, Impurity and phonon scattering, mobility, contact resistance  4. Optical properties of 2D materials: Interband and intraband transitions, tunability, excitonic and plasmonic effects 5. Electronic devices based on 2D materials: Transistors (DC/RF), diodes, hall/gated hall bars, TLMs 6. Optoelectronic devices using 2D materials: Photodetectors, modulators, LEDs, photovoltaic devices 7. van der Wa...
+
+## EE 785: Electromagnetic Interference and Compatibility
+- Credits: 6
+- Type: Theory
+- Description: BASIC THEORY: Intra and inter system EMI, Elements of Interference: Conducted and Radiated EMI emission and susceptibility, EMC Engineering Application. COUPLING MECHANISM : Coupling paths, Coupling via the supply network, Common mode coupling, Differential mode coupling, Impedance coupling, Radiative coupling, Ground loop coupling, Cable related emissions and coupling, Transient sources, Automotive transients. Categorization of the electromagnetic interference: emission, susceptibility, transients, crosstalk, shielding and compatibility, signal integrity. EMI MITIGATION TECHNIQUES Working principle of Shielding, LF Magnetic shielding, Apertures and shielding effectiveness, Choice of Materials for H, E, and free space fields, Gasketting and sealing, PCB Level shielding, Principle of Ground...
+
+## EE 786: Developments, Trends and Economic Frontiers in EE
+- Credits: 6
+- Type: Theory
+- Description: What is and why electrical engineering? History of electrical engineering and its activities. Undergrad/postgrad curriculum and mapping of various electrical engineering disciplines. Preparing oneself for a future in electrical engineering. Mature technologies in electrical engineering. Discussions on Moore-s law and other exponential growth laws related to electrical engineering. Key lessons for the future. Innovation and technology. Research as a tool, discipline, and roadmap towards innovation. Research methodology. Research opportunities in India and the world. Wealth generation with innovation. Role of innovation in societal development. Innovation in thecontext of India. Roadmap to technical innovation. Intellectual Property. Patents. Reading of patents. Identification of core techno...
+
+## EE 787: Topological Electronics
+- Credits: 6
+- Type: Theory
+- Description:  Part I: Basics: Second quantization, Tight binding models of graphene, Dirac equation in 1D,2D and 3D, Existence of end (1D), edge (2D) and surface states (3D), Introduction of topological regime in the Dirac equation  Part II: Topological band theory: Concepts of geometric phase (Berry phase), the Chern number, Laughlin`s guage argument, Hall conductance and the Chern number, Bulk-edge correspondence, Time reversal symmetry and the Z-2 invariants Time-reversal invariant topological insulators, Kene-Mele model and Haldane models, Quantum spin Hall state, Applications to Topological electronic devices  Part III: Advanced topics: The Bogoliubov-deGennes formalism for superconductors, the Kitaev chain and topological superconductivity, Majorana Fermions and topological quantum computing, ...
+
+## EE 788: Advanced CMOS Logic and Flash Memory  Devices
+- Credits: 6
+- Type: Theory
+- Description: Basics of MOSFET operation (Mechanisms for Drain, Substrate and Gate current)   Conventional and non-conventional MOSFET scaling - innovations in materials for gate stack, channel and junctions, and architecture, processes for FinFETs and Gate All Around Nanosheet FETs  Introduction to Flash memory NOR/NAND architecture, Floating Gate/Charge Trap, Mirror Bit   Basics of Flash memory operation: Program, Erase, Program/Read Disturbs, Retention  Innovations in Flash Memory scaling, 2D and 3D NAND, Floating Gate and Charge Trap Flash  Reliability of logic and memory devices (theory, measurements and modeling) - BTI, HCD, TDDB in logic, P/E cycling, Data retention, Disturbs in memory
+
+## EE 789: Algorithmic Design of Digital Systems
+- Credits: 6
+- Type: Theory
+- Description: Basic concepts: control-path, data-path, storage. Basic control-path concepts: State machines and Petri-nets Basic data-path concepts: Split-protocol operators Memory subsystems: ordered and un-ordered. Elastic Pipelines. Deterministic Pipelines. The Aa (Algorithm assembly) description language: an introduction. modules pipes storage simple examples Pipes and Storage. simple pipes, p2p pipes, signals storage: local to module, global, ordering Compilation of an Aa program to hardware: the virtual circuit (vC) equivalent of an Aa program. Simple loops and pipeline inferences. dependencies guarded statements loop-controller for elastic pipeline deterministic pipelines Obtaining the maximum performance in a pipelined loop: timing analysis. single cycle initiation latency target. cycles which d...
+
+## EE 790: Solar Photovoltaics: Photons to Farms
+- Credits: 6
+- Type: Theory
+- Description: Module 1: Introduction: Need and Prospects of PV  Module 2: Basics of solar energy conversion: Basic optoelectronic properties of materials Fundamental limits: single junction, multi-junction, Tandem Device configurations for efficient collection of photo-generated carriers:- PN (c-Si), PIN (Organic,perovskite), Carrier-selective, Tandem  Module 3: From cell to Module Equivalent circuits,-Small area to large area device Large area Device to Module: Series vs. parallel connection, Bifacial modules Module in practical conditions, degradation mechanisms, predictive modeling  Module 4: System Level concerns Grid connected PV, LCOE (panel vs. Balance of systems), Power systems aspects, Variability, Storage, Solar Farms.
+
+## EE 791: Power Electronic Converters for Renewable Energy
+- Credits: 6
+- Type: Theory
+- Description: Introduction to renewable sources: world energy scenario, Wind, solar, hydro, geothermal, availability and power extraction. Introduction to solar energy: Photovoltaic effect, basics of power generation, P-V & I-V characteristics, effect of insolation, temperature, diurnal variation, shading; Modules, connections, ratings; Power extraction (MPP), tracking and MPPT schemes; standalone systems, grid interface, storage, AC-DC loads. Power converters for solar: Micro converter, DC-DC buck/boost/buck-boost /flyback /forward/cuk, bidirectional converters; Inverters: 1ph, 3ph inverters with & w/o x-mer, Heric, H6, Multilevel Neutral point clamp, Modular multilevel, CSI; Control schemes: unipolar, bipolar, PLL and synchronization, power balancing / bypass, Parallel power processing; Grid connectio...
+
+## EE 792: Communication Skills -II
+- Credits: 4
+- Description: The course will have the following modules as outlined below.  1.Ethics in Scientific Communications-Copyrights and Patents. What constitutes plagiarism,  copying and inventing experimental data. Professional respect for others. Safety, Energy/paper conservation.   2.Review of Scientific Literature- Planning the literature search, how to search database, use of library, how to share research papers, organizing the literature papers and creating an annotated bibliography.   3.Thesis and Paper Review- Reading a paper, Reviewing others` papers, writing a review of paper, Making use of  reviewer`s suggestion, Case studies.  4.Thesis and Seminar Report, Paper Writing- Case studies  of good theses and papers, planning the thesis and seminar report, styles for thesis, styles for headings of chapt...
+
+## EE 793: Topics in Cryptology
+- Credits: 6
+- Type: Theory
+- Description: 1.Classical ciphers and their modern versions. Cryptanalysis of classical ciphers. 2. Shannon-s theorem and perfect secrecy. Trapdoor one way functions for encryption, message authentication, public key encryption schemes, key exchange and signatures. Various applications to problems in practical world. Ideal secrecy and its application. Security of one-way- ness of functions. 3. Pseudorandom sequences. Generation, testing and applications. 4. Structures in Block and Stream ciphers, Hash functions. Design of ciphers for practical use. Using modern ciphers securely. 5. Theory of Boolean systems of equations and solutions: Boolean elimination theory, Implicant based parallel all solution solver, orthogonal systems, applications to finite state dynamical systems. 6. Cryptanalysis of block and...
+
+## EE 794: Microsystems: Analysis and Design
+- Credits: 6
+- Type: Theory
+- Description: Module 1: Fabrication - Introduction to IC fabrication, bulk and surface micromachining, scaling in micro-electro-mechanical systems (MEMS) Module 2: Beam analysis - Analysis of MEMS structural design: Hooke-s law, beam theory, cantilever analysis, plate theory, spring (folded flexure) design, matrix analysis Module 3: Electrostatics - Capacitive transduction, electrical equivalent circuit, pull-in instability, variable gap and comb-drive transducer, capacitive sensing configurations, displacement and velocity sensing, AC modulated sensing, square wave excitation, switched capacitor circuits Module 4: Practical aspects I - Resonator dynamics (damping, dynamic vs static elasticity, nonlinearity, noise) Module 5: Practical aspects II - Resonator testing (test configurations, de-embedding in ...
+
+## EE 795: I Stage Project
+- Credits: 42
+
+## EE 797: I Stage Project
+- Credits: 42
+- Prerequisite: 0
+- Description: x
+
+## EE 798: II Stage Project
+- Credits: 48
+- Prerequisite: 0
+
+## EE 799: Advanced Antennas
+- Credits: 6
+- Type: Theory
+- Description: This course deals with advanced antenna and propagation channel concepts for multipleantenna-based and millimeter-wave-based communications.   With the commercial launch of the Fifth Generation of Mobile Radio Networks (5G) in 2020, antenna engineers need more than ever to be aware of physical layer strategies that are currently considered to reach the expected performance. With techniques such as MIMO and millimeter-wave communications, new challenges arise and antenna engineers cannot afford anymore to be only expert in electromagnetics, but do also require skills regarding propagation channel, digital modulations, and coding aspects.  New communications schemes use advanced signal processing and coding techniques in order to exploit as much as possible the propagation channel to maximiz...
+
+## EE 800: High Speed Interconnects: Signaling and Synchronization
+- Credits: 6
+- Type: Theory
+- Description: I.Transmission linesa) Lossless/lossy transmission lines.b) S-parameters, impedance matching.c) Pulse propagation in transmission lines.d) Even mode, odd mode (coupled/differential transmission lines).II. Clocking in serial linksa) Asynchronous vs. synchronous links (serial links with low transfer rates).b) Plesiochronous vs. Mesochronous systems.c) Overview of high-speed serializers and deserializers.III. Eye diagrams and BER estimation (based on eye quality factor).IV. Phase-locked loops (PLLs) and delay locked loops (DLLs)a) Building blocks.b) Loop analysis.c) A brief overview of non-idealities in the PLLs/DLLs.d) Jitter and phase noise (and relationship between them).e) Jitter transfer functions in DLLs and PLLs.f) BER estimation based on jitter.V. Clock and data recovery (CDR) / deser...
+
+## EE 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## EEP602: II stage project
+- Credits: 16
+- Type: Project
+
+## EEP603: III stage project
+- Credits: 20
+- Type: Project
+
+## EES401: Seminar
+- Credits: 3
+- Type: Seminar
+
+## EES801: Seminar
+- Credits: 4
+- Type: Seminar

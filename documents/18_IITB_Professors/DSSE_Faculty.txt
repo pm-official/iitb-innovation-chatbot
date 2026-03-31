@@ -1,0 +1,200 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# DSSE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Anand Deshpande
+- Department: DSSE
+- Designation: Honorary Adjunct
+- Email: anand.deshpande@persistent.com
+- Research Group: DSSE Software & Technology Entrepreneurship
+- Primary Research Area: Software Entrepreneurship, Technology Company Building & Digital Transformation
+- Research Interests & Innovation Focus: Building global technology companies; Entrepreneurship in software industry; Institution building; Digital transformation; Outsourced software product development; IP-led innovation; Technology industry leadership; Innovation ecosystems
+- Notable Projects: Founder, Chairman & MD Persistent Systems (NYSE-listed, 23,000+ employees, $1B+ revenue); Built Persistent from startup to global software company over 30+ years; Board member multiple institutions; Active tech ecosystem contributor
+- Key Tools & Platforms: Technology company scaling, software product strategy, IP-led business models
+- Industry Collaborations: Persistent Systems; Global software industry; Tech startup ecosystem; NASSCOM
+- Awards: Founder & CMD Persistent Systems (NYSE: PSYS); Padma Shri (2020); IIT Bombay Distinguished Alumnus; $1B+ revenue company
+- Innovation Keywords: software entrepreneurship, technology company building, digital transformation, IP innovation, persistent systems, global tech, institution building
+- Profile: https://www.dsse.iitb.ac.in/people/anand-deshpande
+
+## Assoc. Prof. Lina Sonne Vyas
+- Department: DSSE
+- Designation: Associate Professor
+- Email: linasonnevyas@iitb.ac.in
+- Research Group: DSSE Innovation & Entrepreneurship Research Group
+- Primary Research Area: Innovation Economics, Social Entrepreneurship & Inclusive Innovation
+- Research Interests & Innovation Focus: Impact of technological change & digitisation on society; Inclusive innovation; Social entrepreneurship; Entrepreneurial ecosystems; Gender & entrepreneurship; Innovation at Base of Pyramid; Frugal innovation; Development economics; Digital transformation of livelihoods
+- Notable Projects: Research on inclusive innovation ecosystems; Gender lens in entrepreneurship; Base of Pyramid innovation; Digital livelihoods; Published in Research Policy, Technovation, and other A-journals
+- Key Tools & Platforms: Qualitative & mixed-methods research, innovation ecosystem mapping, impact assessment
+- Industry Collaborations: NGOs; Social enterprises; Development organizations; FLAME University (former); Jindal (former)
+- Awards: PhD Economics of Innovation (UNU-MERIT / Maastricht University); Publications in Research Policy, Technovation; Google Scholar 1,500+ citations
+- Innovation Keywords: social entrepreneurship, inclusive innovation, gender entrepreneurship, base of pyramid, digital livelihoods, frugal innovation, entrepreneurial ecosystems
+- Profile: https://www.dsse.iitb.ac.in/people/lina-sonne-vyas
+
+## Asst. Prof. Ramesh Kuruva
+- Department: DSSE
+- Designation: Assistant Professor
+- Email: ramesh.kuruva@iitb.ac.in
+- Research Group: DSSE Entrepreneurial Finance Group
+- Primary Research Area: Entrepreneurial Finance, Venture Capital & Startup Valuation
+- Research Interests & Innovation Focus: Startup financing; Venture capital & funding ecosystems; Startup valuation; VC contract structures; Exit strategies; Entrepreneurship education; Angel investing; Seed-stage funding dynamics
+- Notable Projects: Co-founder & former CEO of YNOS Venture Engine (India's largest early-stage entrepreneurial ecosystem platform, IIT Madras incubated); Research on VC contracts & startup exits; Startup valuation methodologies
+- Key Tools & Platforms: Financial modeling, venture valuation, startup ecosystem analysis, platform development
+- Industry Collaborations: YNOS Venture Engine; IIT Madras incubator; VC firms; Angel networks
+- Awards: PhD IIT Madras (Entrepreneurial Finance); Founded YNOS Venture Engine; Startup ecosystem builder
+- Innovation Keywords: venture capital, startup financing, valuation, angel investing, seed funding, VC contracts, entrepreneurial finance, exit strategies
+- Profile: https://www.dsse.iitb.ac.in/people/ramesh-kuruva
+
+## Asst. Prof. Sankalp Pratap
+- Department: DSSE
+- Designation: Assistant Professor
+- Email: sankalp.pratap@iitb.ac.in
+- Research Group: DSSE DeepTech Ventures Group
+- Primary Research Area: DeepTech Venture Development, Lab-to-Market Translation & Entrepreneurship Ecosystems
+- Research Interests & Innovation Focus: DeepTech venture development; Lab-to-market translation; Entrepreneurship support organizations (incubators, accelerators); Entrepreneurship education (UG, executives, craft economy); Technology commercialization; Science-based entrepreneurship; Craft economy innovation
+- Notable Projects: Research on entrepreneurship support organizations; Craft economy entrepreneurship education; Lab-to-market frameworks for deep science ventures; Course design for UG entrepreneurship
+- Key Tools & Platforms: Case study methodology, ecosystem mapping, qualitative research, entrepreneurship pedagogy
+- Industry Collaborations: Incubators; Accelerators; IIM Calcutta; Craft sector organizations
+- Awards: PhD & MBA Strategic Management (IIM Calcutta); Research in deeptech commercialization
+- Innovation Keywords: deeptech ventures, lab-to-market, incubation, accelerators, entrepreneurship education, technology commercialization, craft economy
+- Profile: https://www.dsse.iitb.ac.in/people/sankalp-pratap
+
+## Milind Kopikare
+- Department: DSSE
+- Designation: Adjunct Faculty
+- Email: milind.kopikare@iitb.ac.in
+- Research Group: DSSE Product & Technology Management
+- Primary Research Area: Product Development, Technology Strategy & AI-Driven Innovation
+- Research Interests & Innovation Focus: Product development (zero to scale); Tech product strategy; Silicon Valley tech ecosystem; AI applications in products; Product-market fit for tech ventures; Scaling technology products; Platform economics
+- Notable Projects: Ex-Google (Product/Engineering leadership); Ex-Qualtrics; Ex-McKinsey; Ex-Marvell Semiconductor; Built products from concept to global scale at multiple tech giants
+- Key Tools & Platforms: Product management frameworks, agile development, AI product strategy, platform design
+- Industry Collaborations: Google; Qualtrics; McKinsey; Marvell Semiconductor; Silicon Valley tech ecosystem
+- Awards: Ex-Google, Qualtrics, McKinsey, Marvell; IIT Bombay alumnus; Global product leadership
+- Innovation Keywords: product management, technology strategy, AI products, zero to scale, platform economics, Silicon Valley, tech leadership
+- Profile: https://www.dsse.iitb.ac.in/people/milind-kopikare
+
+## Prof. Anuradha Narasimhan
+- Department: DSSE
+- Designation: Professor-of-Practice (Former Head DSSE 2022-25)
+- Email: anu.narasimhan@iitb.ac.in
+- Research Group: DSSE Pre-Incubation & Commercialization Programs
+- Primary Research Area: Technology Entrepreneurship, Commercialization Strategy & Pre-Incubation
+- Research Interests & Innovation Focus: Technology commercialisation; Product-market fit; Pre-incubation program design (IDEAS program, Women in Entrepreneurship WiE); Opportunity identification; Innovation processes; Marketing strategies; Entrepreneurial finance; Investor pitching; Customer discovery
+- Notable Projects: Former Head DSSE (2022-25); Designed IDEAS pre-incubation program; WiE (Women in Entrepreneurship) program; 24 years corporate experience in Strategy & Marketing at P&G, Unilever, Titan; Launched DSSE's flagship programs
+- Key Tools & Platforms: Lean startup methodology, customer discovery, business model canvas, pitch design
+- Industry Collaborations: P&G; Unilever; Titan; Corporate strategy consulting
+- Awards: Former Head DSSE; 24 years corporate leadership (P&G, Unilever, Titan); IDEAS & WiE program architect
+- Innovation Keywords: technology commercialization, pre-incubation, product-market fit, customer discovery, women entrepreneurship, startup strategy, marketing
+- Profile: https://www.dsse.iitb.ac.in/people/anuradha-narasimhan
+
+## Prof. Devdip Purkayastha
+- Department: DSSE
+- Designation: Professor-of-Practice (First PoP at IITB, 2016)
+- Email: devdip@iitb.ac.in
+- Research Group: DSSE Technology & Social Entrepreneurship Center
+- Primary Research Area: Technology & Social Entrepreneurship, Startup Mentoring & Investor Advisory
+- Research Interests & Innovation Focus: Startup ecosystem (tech & social sectors); Investor advising; Technology entrepreneurship courses; Mentoring of startup teams; Supply chain & logistics management; Executive leadership; Social sector innovation
+- Notable Projects: First Professor-of-Practice recruited at IIT Bombay (2016); 30+ years executive leadership: CHEP India (President), DHL Express South Asia (MD & SVP), P&G Asia (Leadership roles); B.Tech IIT Kharagpur; MBA IIM Calcutta; Executive education Wharton
+- Key Tools & Platforms: Mentorship frameworks, business model development, supply chain optimization, startup coaching
+- Industry Collaborations: CHEP India; DHL Express; P&G Asia; Multiple startup ecosystem organizations
+- Awards: First PoP at IITB; B.Tech IIT KGP; MBA IIM Calcutta; Wharton Executive; 30+ years corporate leadership
+- Innovation Keywords: technology entrepreneurship, social entrepreneurship, startup mentoring, investor relations, supply chain, logistics, corporate leadership
+- Profile: https://www.dsse.iitb.ac.in/people/devdip-purkayastha
+
+## Prof. Rajesh Gopinathan
+- Department: DSSE
+- Designation: Professor-of-Practice (Former MD & CEO TCS)
+- Email: r.gopinathan@iitb.ac.in
+- Research Group: DSSE Academia-Industry-Startup Interface
+- Primary Research Area: Research-to-Market Translation, Technology Industry Leadership & Ecosystem Building
+- Research Interests & Innovation Focus: Research-to-market translation; Technology industry leadership; Academia-corporate-startup ecosystem building; Digital transformation strategy; Global technology services; IT industry strategy; Innovation management at scale
+- Notable Projects: Former MD & CEO of TCS (Tata Consultancy Services, $25B+ revenue, 600K+ employees); Led TCS through major digital transformation; Revenue growth from $19B to $25B+; Joined DSSE as Professor-of-Practice
+- Key Tools & Platforms: Strategic leadership, technology management, corporate innovation, ecosystem design
+- Industry Collaborations: TCS (Tata Consultancy Services); Tata Group; Global technology industry
+- Awards: Former MD & CEO TCS; Led company to $25B+ revenue; Global IT industry leader; IIT Bombay alumnus
+- Innovation Keywords: research translation, technology leadership, digital transformation, IT strategy, corporate innovation, academia-industry, ecosystem building
+- Profile: https://www.dsse.iitb.ac.in/people/rajesh-gopinathan
+
+## Raj Jaswa
+- Department: DSSE
+- Designation: Adjunct/Honorary Professor of Practice
+- Email: raj.jaswa@iitb.ac.in
+- Research Group: DSSE Silicon Valley Connect
+- Primary Research Area: Silicon Valley Startup Ecosystem & Technology Venture Building
+- Research Interests & Innovation Focus: Silicon Valley startup ecosystem; Tech venture building; Entrepreneurship education; Global technology markets; Serial entrepreneurship; Cross-border venture development; Indo-US tech corridors
+- Notable Projects: Tech Entrepreneur; Ex-President TiE Silicon Valley (The Indus Entrepreneurs); Serial entrepreneur with multiple Silicon Valley ventures; Founder/CEO of tech companies; TiE global network leadership
+- Key Tools & Platforms: Venture building frameworks, Silicon Valley methodology, global market entry
+- Industry Collaborations: TiE Silicon Valley; Silicon Valley tech ecosystem; Indo-US business corridor
+- Awards: Ex-President TiE Silicon Valley; Serial tech entrepreneur; IITB alumnus; Global entrepreneurship network leader
+- Innovation Keywords: Silicon Valley, tech ventures, TiE network, cross-border startups, global markets, serial entrepreneurship
+- Profile: https://www.dsse.iitb.ac.in/people/raj-jaswa
+
+## Rajkumar Hirwani
+- Department: DSSE
+- Designation: Adjunct Faculty
+- Email: hirwani@iitb.ac.in
+- Research Group: DSSE IP & Technology Transfer
+- Primary Research Area: Intellectual Property Management, R&D Commercialization & Technology Licensing
+- Research Interests & Innovation Focus: Intellectual Property management; R&D to commercialisation pathways; Technology licensing; Patent strategy; IP valuation; Technology transfer; Science-to-market translation; IP policy advisory; Open innovation & IP
+- Notable Projects: Ex-Head IP Directorate CSIR (40+ years); World Bank Consultant (China & Indonesia on IP commercialization); Managed CSIR's IP portfolio across 38 labs; Technology licensing advisory; IP policy for national labs
+- Key Tools & Platforms: IP audit, patent landscape analysis, technology transfer frameworks, IP valuation
+- Industry Collaborations: CSIR; World Bank; National IP agencies; Research labs across India
+- Awards: 40+ years in IP management; Head IP Directorate CSIR; World Bank Consultant; National IP policy contributor
+- Innovation Keywords: intellectual property, technology licensing, R&D commercialization, patent strategy, IP valuation, technology transfer, CSIR
+- Profile: https://www.dsse.iitb.ac.in/people/rajkumar-hirwani
+
+## Ramesh Mangaleswaran
+- Department: DSSE
+- Designation: Adjunct Faculty (Hon. Professor of Practice)
+- Email: ramesh.mangaleswaran@iitb.ac.in
+- Research Group: DSSE Strategy & Scaling
+- Primary Research Area: Strategy Consulting, Innovation Management & Business Scaling
+- Research Interests & Innovation Focus: Strategy consulting; Innovation management; Business scaling; South Asia entrepreneurship; Corporate growth strategy; Organizational transformation; Market entry strategy; Leadership development
+- Notable Projects: Senior Partner Emeritus McKinsey & Company; 30+ years at McKinsey; Led McKinsey's India social sector practice; Advised Fortune 500 on growth strategy; Deep expertise in South Asia markets
+- Key Tools & Platforms: Strategy frameworks, growth planning, organizational diagnostics, market analysis
+- Industry Collaborations: McKinsey & Company; Fortune 500 companies; South Asia corporate sector
+- Awards: Senior Partner Emeritus McKinsey; 30+ years global strategy consulting; India social sector leader at McKinsey
+- Innovation Keywords: strategy consulting, business scaling, innovation management, McKinsey, growth strategy, organizational transformation, South Asia
+- Profile: https://www.dsse.iitb.ac.in/people/ramesh-mangaleswaran
+
+## Rizwan Koita
+- Department: DSSE
+- Designation: Honorary Professor of Practice
+- Email: rizwank@iitb.ac.in
+- Research Group: DSSE Social Impact & Deep-Tech / Koita Foundation / KCDH
+- Primary Research Area: Healthcare Technology, Social Impact Entrepreneurship & Philanthropy
+- Research Interests & Innovation Focus: Emerging technology for social impact; Business process innovation; Healthcare technology; Digital health; Philanthropic ventures; KCDH (Koita Centre for Digital Health) at IITB; Foundation-led innovation ecosystem building
+- Notable Projects: Founder Koita Foundation; Established KCDH (Koita Centre for Digital Health) at IIT Bombay; Founded CitiusTech (healthcare IT, acquired by Baring Private Equity at $1B+ valuation); Former McKinsey consultant; Major philanthropic investments in digital health
+- Key Tools & Platforms: Healthcare IT, digital health platforms, social impact assessment, philanthropy design
+- Industry Collaborations: Koita Foundation; CitiusTech; KCDH IIT Bombay; Healthcare ecosystem; McKinsey (former)
+- Awards: Founded CitiusTech ($1B+ exit); Koita Foundation; Established KCDH at IITB; Major philanthropist; IIT Bombay alumnus
+- Innovation Keywords: digital health, healthcare technology, social impact, philanthropy, CitiusTech, KCDH, deep-tech, foundation
+- Profile: https://www.dsse.iitb.ac.in/people/rizwan-koita
+
+## Umakant Jayaram
+- Department: DSSE
+- Designation: Adjunct Professor
+- Email: umakantj@iitb.ac.in
+- Research Group: DSSE Entrepreneurial Finance & Capital Markets
+- Primary Research Area: Entrepreneurial Finance, Capital Markets & Startup Ecosystem Financing
+- Research Interests & Innovation Focus: Capital markets; Startup financing mechanisms; Venture investment; Entrepreneurial finance education; IPO markets; Public interest in finance; Securities regulation; Financial inclusion for startups
+- Notable Projects: Director Public Interest BSE (Bombay Stock Exchange); 25+ years in capital markets & financial regulation; Startup financing advisory; Financial ecosystem building
+- Key Tools & Platforms: Financial analysis, capital market frameworks, startup finance structuring
+- Industry Collaborations: BSE (Bombay Stock Exchange); Capital market regulators; Financial institutions
+- Awards: Director Public Interest BSE; 25+ years capital markets experience; Financial regulation expert
+- Innovation Keywords: capital markets, startup financing, venture investment, IPO, securities, financial regulation, BSE
+- Profile: https://www.dsse.iitb.ac.in/people/umakant-jayaram
+
+## Vinay Dabholkar
+- Department: DSSE
+- Designation: Adjunct Faculty
+- Email: i16236@iitb.ac.in
+- Research Group: DSSE Innovation & Design Thinking
+- Primary Research Area: Innovation Management, Design Thinking & Systematic Innovation
+- Research Interests & Innovation Focus: Innovation stamina (sustaining innovation efforts); Design thinking; Mindfulness for entrepreneurs; Jugaad to excellence methodology; Systematic innovation; Challenge mapping; Idea generation; Prototyping; Innovation culture building
+- Notable Projects: Author '8 Steps to Innovation: Going from Jugaad to Excellence' (with Rishikesha Krishnan); Innovation consultant; Co-founder Catalign Innovation Consulting; Published innovation frameworks; Conducted 100+ innovation workshops
+- Key Tools & Platforms: Design thinking, challenge mapping, innovation audit, systematic creativity
+- Industry Collaborations: Catalign Innovation Consulting; Multiple corporate clients; IIM Bangalore collaboration (co-author)
+- Awards: Author '8 Steps to Innovation'; Co-founder Catalign Innovation; 100+ innovation workshops; Published author
+- Innovation Keywords: innovation management, design thinking, systematic innovation, jugaad to excellence, mindfulness, creativity, innovation stamina
+- Profile: https://www.dsse.iitb.ac.in/people/vinay-dabholkar

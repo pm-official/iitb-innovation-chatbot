@@ -1,0 +1,347 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Statistics - Course Catalog for IIT Bombay Students
+
+
+## SI 402: Statistical Inference
+- Credits: 8
+- Type: Theory
+- Prerequisite: SI 417
+- Description: Uniformly most powerful unbiased tests,  Invariance in Estimation and Testing, Admissibility, Minimax and Bayes Estimation, Asymptotic Theory of Estimation, Asymptotic distribution of likelihood ratio statistics.Sequential Estimation, Sequential Probability, Ratio Test.
+
+## SI 403: Mathematical Modelling
+- Credits: 8
+- Type: Theory
+- Description: Dimensional analysis and scaling, model error approximation and testing, data translation.  Fundamentals of modeling : Lagrange and Eulerian models. Basic conservation laws. Stress, strain and strain rate. Constitutive equations.   Growth and Decay models : population growth (Lofka-Volterra model), bacteria growth and decay. Radiation and crystal growth.   Interacting species and chemical reactions. Satellite problem.   Network analysis : Mechanical models, Electrical network. Fluid flow including blood flow problems, traffic flow.   Diffusion and air pollution models.
+
+## SI 404: Applied Stochastic Processes
+- Credits: 8
+- Type: Theory
+- Prerequisite: SI 417
+- Description: Stochastic processes: description and definition. Markov chains with finite and countably infinite state spaces. Classification of states, irreducibility, ergodicity. Basic limit theorems. Statistical Inference. Applications to queuing models. Markov processes with discrete and continuous state spaces. Poisson process, pure birth process, birth and death process. Brownian motion. Applications to queuing models and reliability theory. Basic theory and applications of renewal processes, stationary processes. Branching processes. Markov Renewal and semiMarkov processes, regenerative processes.
+
+## SI 405: Mathematical Systems Theory
+- Credits: 6
+- Type: Theory
+- Description: System of ordinary differential equations : Reduction of nth order o.d.e. to a system of 1st order o.d.e."s. Companion matrix. Picard"s theorem for existence and uniqueness and its implementation.   State space formulation. Concept of system. Input-output and state space. Transition matrix and its properties. Fundamental and nonfundamental solutions.   Phase Plane Analysis : Critical points and stability of a linear system. Liapunov stability method. Nonlinear system.   Transform Analysis : Laplace transform (continuous time), z-transform (discrete time). Input-output analysis.   Controllability, observability and stabilizability : Controllability matrix and Gramian. Observability as a dual notion of controllability.   Stabilizability of a discrete system.
+
+## SI 406: Applied Stochastic Processes
+- Credits: 6
+- Type: Theory
+- Description: Stochastic processes : description and definition. Markov chains with finite and countably infinite state spaces. Classification of states, irreducibility, ergodicity. Basic limit theorems. Statistical Inference. Applications to queueing models. Markov processes with discrete and continuous state spaces. Poisson process, pure birth process, birth and death process. Brownian motion. Applications to queueing models and reliability theory. Basic theory and applications of renewal processes, stationary processes. Branching processes. Markov Renewal and semi-Markov processes, regenerative processes.
+
+## SI 408: Data Structures
+- Credits: 8
+- Type: Theory
+- Description: Tools for Analysis of Algorithms (Asymptotics, Recurrence Relations).   Algorithms on arrays and matrices.  Data Structures (Linked Lists and their variants, Stacks, Queues, Trees, Heaps and some variants) and applications.  Sorting, Searching and Selection (Binary Search, Insertion Sort, Merge Sort, Quick Sort, Radix Sort, Counting Sort, Heap Sort etc.. Median finding using Quick-Select, Median of Medians).   Basic Graph Algorithms (BFS, DFS, strong components etc.).  Dijkstra`s Shortest Paths algorithm, Bellman Ford algorithm, All pairs shortest path problem - Floyd Warshall`s algorithm.
+
+## SI 409: Discrete Structures  Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Illustration of techniques and concepts from combinatorics and graph theory through programming exercises. Either an interpreted language such as Scheme or the language of Mathematica should be used for the programming exercises.
+
+## SI 410: Programming Language Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Concepts in programming Languages Paradigms and the issues such as storage management, formal translation models ( BNF forms and grammers), abstraction such as subprogramm (parameter passing mechanics, scopes, bindings etc.), inheritance and polymorphism etc. Illustration of these concepts through the study of C++ programming language.
+
+## SI 411: Computer Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to Unix: Introduction to C programming language, Syntax, Data types, Pointers, Functions, Scope rules, bindings, parameters transmission mechanism, storage management.
+
+## SI 412: Algorithms
+- Credits: 8
+- Type: Theory
+- Description: Tools for Analysis of Algorithms (Asymptotics, Recurrence Relations). Basic Data Structures (Lists, Stacks, Queues, Trees, Heaps) and applications.Sorting, Searching and Selection (Binary Search, Insertion Sort, Merge Sort, QuickSort, Radix Sort, Counting Sort, Heap Sort etc.. Median finding using Quick-Select, Median of Medians). Basic Graph Algorithm (BFS, DFS, strong components etc.).Algorithm Design Paradigms: Divide and Conquer. Greedy Algorithms (for example, some greedy scheduling algorithms, Dijkstra`s Shortest Paths algorithm, Kruskal`s Minimum Spanning Tree Algorithm). Dynamic Programming (for example, dynamic programming algorithms for optimal polygon triangulation, optimal binary search tree, longest common subsequence, matrix chain multiplication, all pairs shortest paths).Int...
+
+## SI 413: Combinatorics
+- Credits: 6
+- Type: Theory
+
+## SI 414: Optimization
+- Credits: 8
+- Type: Theory
+- Description: Classical Optimization Theory: unconstrained optimization, calculus for necessary and sufficient conditions, Newton-Raphson method, unconstrained nonlinear algorithms, direct search, gradient methods.Constrained Optimization Theory: Jacobian and Lagrangian based approaches, Kuhn Tucker conditions, penalty function methods, separable programming, quadratic programming.Linear Programming: duality, simplex method revised simplex method, dual simplex method, sensitivity analysis, transportation problems.Heuristics for Combinational Optimization:Branch and Bound, hill climbing, simulated annealing, generic algoriths, primal-dual approach.
+
+## SI 415: Introduction to Computer Architecture and Operator Systems
+- Credits: 3
+- Type: Theory
+- Description: Introduction to the following topics: computer systems, CPU architecture (memory, registers, addressing, busses, instruction set), data representation, peripheral devices, multi-processor systems, operating systems (process, memory management, virtual storage, file systems), basic network components and topologies.
+
+## SI 416: Optimization
+- Credits: 6
+- Type: Theory
+- Description: Unconstrained optimization using calculus (Taylor`s theorem, convex functions, coercive functions). Unconstrained optimization via iterative methods (Newton`s method, Gradient/ conjugate gradient based methods, Quasi-Newton methods). Constrained optimization (Penalty methods, Lagrange multipliers, Karush-Kuhn-Tucker conditions).  Introduction to Linear Programming: Lines and hyperplanes, Convex sets, Convex hull, Formulation of a Linear Programming Problem, Theorems dealing with vertices of feasible regions and optimality, Graphical solution. Simplex method (including Big M method and two-phase method), Dual problem, Duality theory, Dual simplex method, Revised simplex method
+
+## SI 417: Introduction to Probability Theory
+- Credits: 8
+- Type: Theory
+- Description: Axioms of Probability, Conditional Prob-ability and Independence, Random variables and distribution functions, Random vectors and joint distributions, Functions of random vectors.Expectation, moment generating functions and characteristic functions, Conditional expectation and distribution.  Modes of convergence, Weak and strong laws of large numbers, Central limit theorem.
+
+## SI 418: Advanced Programming and Unix Environment
+- Credits: 3
+- Type: Laboratory
+- Description: UNIX programming environment (file system and directory structure, and processes). Unix tools (shell scripting, grep, tar, compress, sed, find, sort etc). Graphical User Interface Programming using Java. Multithreaded programming in Java. Socket programming in Java.
+
+## SI 419: Combinatorics
+- Credits: 8
+- Type: Theory
+- Description: Counting Basic Combinatorial objects: Sets, Multisets, Partitions of sets, Partitions of numbers, Permutations, Trees, Partially ordered sets.Generating functions, Recurrence relations, Principle of Inclusion-Exclusion.Graph Theory Graphs and Directed graphs, Paths, Walks, Connectivity, Matchings in bipartite graphs, Network flows, Dilworths theorem.
+
+## SI 420: Algorithms
+- Credits: 8
+- Type: Theory
+
+## SI 421: Introduction to Mathematical Software
+- Credits: 3
+- Type: Theory
+
+## SI 422: Regression Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: SI 417
+- Description: Simple and multiple linear regression models - estimation, tests and confidence regions. Simultaneous testing methods- Bonferroni method etc.  Analysis of Variance for simple and multiple regression models.  Analysis of residuals. Lack of fit tests. Checks (graphical procedures and tests) for model assumptions: Normality, homogeneity of errors, independence, correlation of covariates and errors.  Multicollinearity, outliers, leverage and measures of influence. Model selection (stepwise, forward and backward, best subset selection) and model validation. Discussion of algorithms for model selection.  Regression models with indicator variables. Polynomial regression models. Regression models with interaction terms.  Transformation of response variables and covariates. Variance stabilizing tra...
+
+## SI 423: Linear Algebra and its Applications
+- Credits: 8
+- Type: Theory
+- Description: Vector spaces (with emphasis over R and C): Subspaces, linear dependence and independence, basis and dimension.  Linear transformations: Rank-nullity theorem, matrix representation of a linear transformation, invertibility and isomorphism, effect of change of basis on the matrix representation of a linear transformation, dual spaces. Review of elementary properties of determinants, Cramer`s rule.  Diagonalization: Eigenvalues and eigenvectors, algebraic and geometric multiplicities of an eigenvalue, diagonalizability, invariant subspaces and Cayley-Hamilton theorem.  Inner product spaces: Gram-Schmidt orthogonalization, adjoint of a linear operator, normal and self-adjoint operator, orthogonal projections and the spectral theorem, singular value decomposition and pseudoinverse, bilinear an...
+
+## SI 424: Statistical Inference I
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Distributions of functions of random variables, Sampling distributions, Order statistics, Sufficiency and completeness, exponential family of distributions, Methods of estimation (Method of Moments, MLE and Bayesian), Unbiased estimators, Evaluating estimators, UMVUEs, Testing, Likelihood Ratio tests, UMP tests, unbiased tests, Interval estimation, Consistent and efficient estimators.
+
+## SI 425: Basic Real Analysis
+- Credits: 8
+- Type: Theory
+- Description: Review of sequences and series of real numbers. Tests for convergence of Series. Limit superior and limit inferior. Cauchy sequences and completeness of R. Basic notions of Metric Spaces with emphasis on R^n. Connectedness, Compactness, and Heine Borel Theorem. Continuity and Uniform continuity. Monotone functions and functions of bounded variation. Derivatives. Mean Value Theorem and applications. Riemann Stieltjes integral. Riemann`s Criterion for integrability. Improper integrals and the Gamma function. Sequences and series of functions. Uniform convergence (proofs should be omitted). Functions of several variables: Directional derivative, partial derivative, total derivative, Mean Value Theorem, Taylor`s Theorem and applications to Maxima/Minima and convexity. Double and triple integra...
+
+## SI 426: Algorithms
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Basics : Algorithm analysis and asymptotic notation, Linked lists.  Graphs : Breadth first search, Depth first search, Strongly connected components. Divide and Conquer: Mergesort, Fast Fourier transform.  Greedy Algorithms: Dijkstra-s algorithm, Minimum spanning tree algorithms, Huffman codes and data compression.  Dynamic programming: Longest increasing sequences, edit distance, shortest paths.  Network flows: Maxflow Mincut theorem, max flow algorithms, application to bipartite matchings.  Introduction to Randomized algorithms: randomized quick sort, global mincut, hashing.
+
+## SI 427: Probability I
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Random phenomena, sample spaces, events, sigma algebra, probability space, properties of probability, conditional probability, independence, Bayes formula, Polya`s urn model.  Discrete random variable, probability mass function, independent random variables, sum of random variables, random vector, expectation of discrete random variable, properties of expectation and variance.  Continuous random variable, distribution function, density of a continuous random variable, expectation, change of variable formula, random vector, joint distribution of random variables, joint density, distribution of sums and products of random variables, conditional density, conditional expectation, order statistics, moment generating function, characteristic function, brief introduction to moment problem.  Inequ...
+
+## SI 429: Real analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: NIL
+- Description: Review of sequences and series of real numbers. Limit superior and limit inferior, Cauchy sequences and completeness of R. Tests for convergence of series of real numbers.  Basic notions of Metric Spaces with emphasis on R n . Heine Borel Theorem.  Continuity and Uniform continuity. Derivatives. Mean Value Theorem and applications. Functions of bounded variation.  Riemann-Stieltjes integral. Improper integrals and Gamma function. Sequences and series of functions. Uniform convergence, interchanging limits with integrals and derivatives. Arzela-Ascoli theorem (statement only).  Functions of several variables: Partial derivative, directional derivative, total derivative; Mean value theorem, Taylor`s theorem.
+
+## SI 431: Introduction to Data Analysis using R
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: Overview of R software, Data Frames, R Scripts, creating, importing/exporting and merging of datasets, creating matrices and basic matrix operations in R, 2d/3d plotting, programming in R (for, if else, do and while loops), functions, creating report using R markdown.  Exploring data using R, Scatter plot, histogram, bar chart, pie chart, box plot, basic statistics computation (mean, median, variance etc.) Generating random samples from standard distributions (such as Bernoulli, Poisson, Normal, Exponential etc.)  and comparing theoretical pdfs/pmfs using histograms/frequency distributions, quantiles of sampling distributions (t, chi and F distribution) Maximization/minimization of functions in R (some algorithm), MLE estimation.  Polynomial fitting of scatter plot, introducing regression ...
+
+## SI 501: Topics in Theoretical Computer Science
+- Credits: 8
+- Type: Theory
+- Description: Introduction to Complexity Theory (P, NP, NP-hard, NP-complete etc.). Automata Theory and Formal Languages (finite automata, NFA, DFA, regular languages, equivalence of DFA and NFA, minimization of DFA, closure properties of regular languages, regular grammars, context free grammars, parse-trees, Chomsky Normal Form, top-down parsing).  Randomization and Computation (Monte Carlo and Las Vegas algorithms, Role of Markov and Chebyscheff`s inequalities, Chernoff bounds in randomized algorithms, applications of probabilistic method).  Special Topics in Theoretical Computer Science, such as Approximation Algorithms, Number Theoretic Algorithms, Logic and Computability.
+
+## SI 502: Stochastic Programming Applications
+- Credits: 8
+- Type: Theory
+- Description: Importance of SPPs in a wide range of problems in science and technology. Limitations of gradient based optimization techniques in SPPs arising in (i) real data based inventory optimization problems in industries, (ii) information processing and automatic knowledge acquisition under uncertainty. Applications of heuristic based probabilistic algorithms including genetic algorithms and neural network models for adaptive optimization.
+
+## SI 503: Categorical Data Analysis
+- Credits: 8
+- Type: Theory
+- Description: Two-way contingency tables: Table structure for two dimensions. Ways of comparing proportions. Measures of associations. Sampling distributions. Goodness-of-fit tests, testing of independence. Exact and large sample inference.  Models of binary response variables. Logistic regression. Logistic models for categorical data. Probit and extreme value models. Log-linear models for two and three dimensions. Fitting of logit and log-linear models. Log-linear and logit models for ordinary variables. Regression: Simple, multiple, non-linear regression, likelihood ratio test, confidence intervals and hypotheses tests, tests for distributional assumptions Collinearity, outliers, analysis of residuals. Model building, Principal component and ridge regression. Lab component: Relevant real life problems...
+
+## SI 504: Experimental Designs
+- Credits: 8
+- Type: Theory
+- Description: Theory of linear estimation. The general linear model. Estimability of linear parametric functions. Gauss-Markoff Theorem.  Principles of Design of Experiments. General structure of analysis of designs. ANOVA, ANACOVA. Regression analysis (one independent variable). Standard designs such as CRD, RBD, LSD, BIBD. Analysis using the missing plot technique. Factorial designs. Confounding. Analysis using Yates"algorithm.   Special designs such as split-plot, strip-plot, cross-over designs.   Orthogonal arrays, Response surface methodology. Taguchi method.
+
+## SI 505: Multivariate Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: SI 402
+- Description: K-variate normal distribution. Estimation of the mean vector and dispersion matrix. Random sampling from multivariate normal distribution. Multivariate distribution theory. Discriminant and canonical analysis. Factor analysis. Principal components.Distribution theory associated with the analysis.
+
+## SI 506: Introduction to Automata Theroy & Languages
+- Credits: 6
+- Type: Theory
+
+## SI 507: Numerical Analysis
+- Credits: 8
+- Type: Theory
+- Description: Principles of floating point computations and rounding errors.Systems of Linear Equations: factorization methods, pivoting and scaling, residual error correction method.Iterative methods: Jacobi, Gauss-Seidel methods with convergence analysis, conjugate gradient methods.Eigenvalue problems: only implementation issues.Nonlinear systems: Newton and Newton like methods and unconstrained optimization.Interpolation: review of Lagrange interpolation techniques, piecewise linear and cubic splines, error estimates.Approximation : uniform approximation by polynomials, data fitting and least squares approximation.Numerical Integration: integration by interpolation, adaptive quadratures and Gauss methodsInitial Value Problems for Ordinary Differential Equations: Runge-Kutta methods, multi-step method...
+
+## SI 508: Network Models
+- Credits: 6
+- Type: Theory
+- Description: Recap of Linear Programming and duality. Transportation and Assignment. Maximum flow and minimum cut (duality, Ford and Fulkerson algorithm, polynomial time algorithms). Minimum Cost Flows (cycle cancelling algorithms, successive path algorithms). Matching (bipartite matching, weighted bipartite matching, cardinality general matching).Routing algorithms (Bellman Ford algorithm in computer networks, Dijkstra`s algorithm in computer networks), Application of network models.
+
+## SI 509: Time Series Analysis
+- Credits: 8
+- Type: Theory
+- Prerequisite: SI 402
+- Description: Stationary processes - strong and weak, linear processes, estimation of mean and covariance functions. Wald decomposition Theorem. Modeling using ARMA processes, estimation of parameters testing model adequacy, Order estimation. Prediction in stationary processes, with special reference to ARMA processes. Frequency domain analysis - spectral density and its estimation, transfer functions.   Nonlinear ARCH and GARCH models.  Discrete-Valued time series models.
+
+## SI 510: Mathematical Elements for Computer Graphics
+- Credits: 6
+- Type: Theory
+
+## SI 511: Computer Aided Geometric Design
+- Credits: 6
+- Type: Theory
+- Description: Polynomial curves: Bezier representation, Bernstein polynomials, Blossoming, de Castlijau algorithm. Derivatives in terms of Bezier polygon. Degree elevation. Subdivi-sion. Nonparametric Bezier curves.Composite Bezier curves. Spline curves: Definition and Basic properties of spline functions, B-spline curves, de Boor algorithm. Derivatives. Insertion of new knots. Cubic spline interpolation. Inter-pretation of parametric continuity in terms of Bezier polygon.  Geometric continuity. Frenet frame continuity. Cubic Beta splines and significance of the associated parameters.  Tensor product surfaces. Bezier patches. Tri-angular patch surfaces.
+
+## SI 512: Finite Difference Methods for Partial Differential Equations
+- Credits: 6
+- Type: Theory
+- Description: Review of 2nd order PDEs : Classification, separation of variables and fourier transform techniques. Automatic mesh generation techniques : Structure mesh (transfinite interpolation), unstructured grids (triangulation for polygonal and non - polygonal domains).Finite difference Methods : Elliptic equations ( SOR and conjugate gradient methods, ADI schemes), parabolic equations (explicit, back - ward Euler and Crank - Nicolson method, LOD), hyperbolic equations ( Law - Wendroff scheme, Leapfrod method, CFL conditions), Stability, consistency and convergence results. Lab Component : Implementation of Algorithms developed in this course and exposure to software packages : ODEPACK and MATLAB.
+
+## SI 513: Theory of Sampling
+- Credits: 8
+- Type: Theory
+- Description: Principles of sample survey, Probability sampling, Non-probability sampling, Simple random sampling, Estimation of population total, Variance estimation, finite population correction, Random sampling with replacement, linear estimators of population mean, Sampling for proportions and percentages, sample size estimation for proportion as well as continuous data in random sampling.  Stratified random sampling, Estimator of population total and its variance, Optimum allocation, comparison between stratified and simple random sampling, Stratified sampling for proportion and sample size estimation, construction of strata, Number of strata, Quota sampling.      Ratio estimator, estimation of variance from sample, comparison between ratio estimator and best linear unbiased estimator, bias of rati...
+
+## SI 514: Statistical Modeling
+- Credits: 6
+- Type: Theory
+- Description: Nonlinear regression, Nonparametric regression, generalized additive models, Bootstrap methods, kernel methods, neural network, Artificial Intelligence, a few topics from machine learning.
+
+## SI 515: Statistical Techniques in Data Mining
+- Credits: 8
+- Type: Theory
+- Description: Introduction to Data Mining and its Virtuous Cycle.Cluster Analysis: Hierarchical and Non-hierarchical techniques. Classification and Discriminant Analysis Tools: CART, Random forests, Fisher`s discriminant functions and other related rules, Bayesian classification and learning rules.Dimension Reduction and Visualization Techniques: Multidimensional scaling, Principal Component Analysis, Chernoff faces, Sun-ray charts.Algorithms for data-mining using multiple nonlinear and nonparametric regression. Neural Networks: Multi-layer perceptron, predictive ANN model building using back-propagation algorithm. Exploratory data analysis using Neural Networks 302226 self organizing maps. Genetic Algorithms, Neuro-genetic model building.Discussion of Case Studies.
+
+## SI 516: Reliability Techniques
+- Credits: 6
+- Type: Theory
+- Description: Basic reliability models. Estimation and inferential aspects of these models. Probabilistic modeling of repairable systems. Statistical analysis of repairable systems and of failure data.
+
+## SI 518: Statistical Quality Control
+- Credits: 6
+- Type: Theory
+- Description: Total quality control in an industry. Quality planning, quality conformance, quality adherence. Quality assurance and quality management functions.  Control charts and allied techniques. Concept of quality and meaning of control. Concept of inevitability of variation-chance and assignable causes. Pattern of variation. Principles of rational sub-grouping.   Different types of control charts. Concept of process capability and its comparison with design specifications, CUSUM charts.   Acceptance sampling. Sampling inspection versus 100 percent inspection. Basic concepts of attributes and variables inspection. OC curve, Single, double, multiple and sequential sampling plans, Management and organisation of quality control.
+
+## SI 519: Probabilistic Techniques in Machine Learning
+- Credits: 6
+- Type: Theory
+- Description: Introduction to inductive probability and machine learning. Statistical pattern recognition and clustering techniques. Stochastic approximation and rough classification. Bayesian classification. Sequential probability and incremental machine learning.  Nonparametric methods for leader independent sample based learning.   Random generate and test algorithms. Stochastic heuristics in guided learning by discovery.
+
+## SI 520: Informatics Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Internet Technologies, Advanced, Java Technologies,Software Development Tools, Parser Generators, GUI builders, Software components: Beans, Active X controls.
+
+## SI 521: Biostatistics
+- Credits: 6
+- Type: Theory
+- Description: Randomization and  control  of  clinical  trials.   Sampling in clinical  studies.  Cohort analysis.   Sampling distributions and hypo-thesis testing for clinical and laboratory data.   Importance  of  type  I, type II errors and sample sizes in  the  design  and  interpretation  of  control trials. Inferencing  with  incomplete  data.  Logistic   and  multiple  regression  models  in drug   response  analysis.   Distribution free tests and nonparametric  regression analysis  of  bio-medical measurements.  Methods  based  on  rank  orders.  Vital statistics. Analysis of survival data. Sampling and testing  in epidemiological studies.
+
+## SI 522: Large Scale Scientific Computation
+- Credits: 6
+- Type: Theory
+- Prerequisite: SI 503
+
+## SI 523: Mathematical Modelling and Numerical Simulation
+- Credits: 6
+- Type: Theory
+- Description: Review of continuum model, Transport   phenomena,  Air  quality  modelling, (pollution from chimney), Furnace reaction analysis, De-icing helicopter blades   (free and moving boundary problems), modelling microwave heating, Food contamination from the packaging, Electron Beam Lithography, Color negative film development, photocopy machine; Selected case studies.  Software Support:  MATHEMATICA, LSODE,  GNUPLOT, MATLAB.
+
+## SI 524: Data Mining
+- Credits: 6
+- Type: Theory
+- Prerequisite: MA 438
+
+## SI 525: Testing of Hypothesis
+- Credits: 6
+- Type: Theory
+- Description: Statistical hypotheses, Neyman-Pearsaon fundmeantal lemma, Monotone likelihood ratio, confidence bounds, generalization of fundamental lemma, two-sided hypotheses.Unbiased tests, UMP unbiased tests, applications to standard distributions, similarity and completion, Pemutation tests; most powerful permutation tests.Symmetry and invariance, most powerful invariant tests, unbiased and invariance.Tests with guaranteed power, maxi-min tests and invariance. Likelihood ratio tests and its properties.
+
+## SI 526: Experimental Designs
+- Credits: 6
+- Type: Theory
+- Prerequisite: SI 402
+- Description: Linear Models and Estimators, Estimability of linear parametric functions. Gauss-Markoff Theorem. One-way classification and two-way classification models and their analyses. Standard designs such as CRD, RBD, LSD, BIBD. Analysis using the missing plot technique. Fctorial designs. Confounding. Analysis using Yates` algorithm. Fractional factorial.A brief introduction to Random Effects models and their analyses.A brief introduction to special designs such as split-plot, strip-plot, cross-over designs.Response surface methodology. Applications using SAS software.
+
+## SI 527: Introduction to Derivative Pricing
+- Credits: 6
+- Type: Theory
+- Prerequisite: SI 417
+- Description: Introduction to options and markets: types of options, interest rates and present value.  Black-Scholes Model: arbitrage, option values, payoffs and strategies, put call parity, Black-Scholes equation, similarity solution and exact formulae for European options. American options: call and put options, free boundary problem. Binomial methods: option valuation, dividend paying stock, general formulation and implementation. Monte-Carlo simulation: valuation by simulation.  Finite Difference Methods: explicit and implicit methods with stability and convergence analysis, methods for American option-constrained matrix problem, projected SOR, time stepping algorithms with convergence and numerical examples.  Lab Component: Implementation of the option pricing algorithms and Evaluation for Indian ...
+
+## SI 528: Biostatistics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to clinical trials and other types of clinical research, bias and random error in clinical studies, overview of Phase I-IV trials, multi-center trials; randomized, controlled clinical trials; concept of blinding/masking in clinical trials.   Design of Phase 1-3 clinical trials: parallel vs. cross-over designs, cross-sectional vs. longitudinal designs, review of factorial designs, objectives and endpoints of clinical trials, formulation of appropriate hypotheses (equivalence, non-inferiority, etc.); sample size calculation; design for bioequivalence/ bioavailability trials, sequential stopping in clinical trials.  Analysis of Phase 1-3 trials: Use of generalized linear models; analysis of categorical outcomes, Bayesian and non-parametric methods; analysis of survival data from ...
+
+## SI 529: Applied Algorithms
+- Credits: 8
+- Type: Theory
+- Description: Algorithm Design Paradigms: Divide and Conquer, Greedy Algorithms (for example, some greedy scheduling algorithms, Kruskal`s Minimum Spanning Tree Algorithm). Dynamic Programming (for example, dynamic programming alg orithms for optimal polygon triangulation, optimal binary search tree, longest common subsequence, matrix chain multiplication, all pairs shortest paths).  Selection of some of the following topics: - Randomized algorithms - Monte Carlo and Las Vegas algorithms,Role of Markov and Chebyscheff`s inequalities, Chernoff bounds in randomized algorithms, applications of probabilistic method,  Approximation Algorithms for NP Hard problems,  Semi definite programming based algorithms  Exact Exponential time algorithms for NP hard problems (such as better than brute force algorithms fo...
+
+## SI 530: Statistical Quality Control
+- Credits: 6
+- Type: Theory
+- Description: Total quality control in an industry. Quality planning, quality conformance, quality ad-herence. Quality assurance and quality management functions.  Control charts and allied techniques. Concept of quality and meaning of control. Concept of inevitability of variation-chance and assign-able causes. Pattern of variation. Principles of rational sub-grouping. Different types of control charts. Concept of process capability and its comparison with design specifications, CUSUM charts. Acceptance sampling. Sampling inspection versus 100 percent inspection. Basic concepts of attributes and variables inspection. OC curve, Single, double, multiple and sequential sampling plans, Management and organisation of quality control.
+
+## SI 531: Discrete Algorithms
+- Credits: 8
+- Type: Theory
+- Description: Mathematical preliminaries :  Assymptotic notation.  Advanced, Data structures : Hash tables, Binomial Heaps, Disjoint sets. Greedy Algorithms : Huffman coding, Minimum spanning Tree construction, Dijkstra"s shortest path construction.  Dynamic programming Algorithms : Matrix - chain multiplication, All pairs shortest path problems, Minimum weight triangulation of convex polygons.  Divide and conquer : Linear time selection, Educlidean closest pair problem, Strassen"s matrix multiplication algorithm. Backtracking and Branch and Bound methods : Graph colouring, Integer programming, Approximation algorithms : Vertex cover, Euclidean travelling salesman problem, Set cover problem.
+
+## SI 532: Decision Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: SI 402
+- Description: Decision functions, Risk functions, utility and subjective probability, Randomization,Optimal decision rules. Admissibility and completeness, Existence of Bayes Decision Rules, Existence of a Minimal complete class, Essential completeness of the class of non-randomized rules. The minimax theorem.Invariant statistical decision problems. Multiple decision problems. Sequential decision problems.Decision functions, Risk functions, utility and subjective probability, Randomization, Optimal decision rules. Admissibility and completeness, Existence of Bayes Decision Rules, Existence of a Minimal complete class, Essential completeness of the class of non-randomized rules. The minimax theorem.Invariant statistical decision problems. Multiple decision problems.Sequential decision problems.
+
+## SI 533: Finite Difference Methods for Partial Differential Equations
+- Credits: 8
+- Type: Theory
+- Description: Review of 2nd order PDEs : Classification, separation of variaqbles and fourier transform techniques. Automatic mesh generation techniques : Structure mesh ( transfinite interpolation), unstructured grids ( triangulation for polygonal and non - polygonal domains). Finite difference Methods : Elliptic equations ( SOR and conjugate gradient methods, ADI schemes), parabolic equations ( explicit, back - ward Euler and Crank -  Nicolson method, LOD), hyperbolic equations ( Law - Wendroff scheme, Leapfrod method, CFL conditions), Stability, consistency and convergence results. Lab Component : Implementation of Algorithms developed in this course and exposure to software packages : ODEPACK and MATLAB.
+
+## SI 534: Nonparametric Statistics
+- Credits: 6
+- Type: Theory
+- Prerequisite: SI 402
+- Description: Kolmogorov-Smirnov Goodness-of - Fit Test.  The empirical distribution and its basic properties. Order Statistics. Inferences concerning Location parameter based on one-sample and two-sample problems. Inferences concerning Scale parameters. General Distribution Tests based on Two or More Independent Samples.  Tests for Randomness and equality of distributions. Tests for Independence. The one-sample regression problem.  Asymptotic Relative Efficiency of Tests. Confidence Intervals and Bounds
+
+## SI 535: Categorical  Data Analysis and Regression
+- Credits: 8
+- Type: Theory
+- Description: Two - way contingency tables : Table structure for two dimensions.  Ways of comparing proportions. Measures of associations. Sampling distributions. Goodness - of - fit tests, testing of independence. Exact and large sample interference. Models of binary response variable. Logistic regression. Logistic models for categorial data.  Probit and extreme value models. Log - linear models for two and three dimensions.  fitting of logit and log -  linear models. Log - linear and logit models for ordinary variables. Regression : Simple, multiple, non - linear regression, likelihood ratio test, confidence intervals and hypotheses tests, tests for distributional assumptions Collinearity, outliers, analysis of residuals. Model building, Principal component and ridge regression. Lab component : Releva...
+
+## SI 540: Stochastic Programming and Applications
+- Credits: 6
+- Type: Theory
+- Description: Quadratic and Nonlinear Programming solution methods applied to Chance Constrained Programming problems. Stochastic Linear and Non-linear Programming Problems. Applications in inventory control and other industrial systems, optimization of queuing models of computer networks, information processing under uncertainty. Two stage and multi-stage solution techniques. Dynamic programming with Recourse. Use of Monte Carlo, probabilistic and heuristics algorithms. Genetic algorithms and Neural networks for adaptive optimization in random environment.
+
+## SI 542: Mathematical Theory of Reliability
+- Credits: 6
+- Type: Theory
+- Description: Coherent Structures, Reliability of systems of independent components, Bounds of system reliability, shape of the system reliability function, notion of ageing, parametric families of life distributions with monotone failure rate, classes of life distributions based on notions of ageing, classes of distributions in replacement policies. Limit distributions for series and parallel systems. Statistical inferential aspects for (i) standard reliability models, (ii) parametric and non-parametric classes of aging distri-butions.
+
+## SI 593: Project Stage I
+- Credits: 4
+- Type: Project
+
+## SI 594: Project Stage II
+- Credits: 10
+- Type: Project
+
+## SI 596: Work Visits
+- Credits: 0
+
+## SI 597: Project I (grade points will be included in SI 598
+- Credits: 5
+- Type: Project
+
+## SI 598: Project (Stage II)
+- Credits: 6
+- Type: Project

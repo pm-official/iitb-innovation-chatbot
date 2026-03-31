@@ -1,0 +1,43 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CSE + C-MInDS Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. Preethi Jyothi
+- Department: CSE + C-MInDS
+- Designation: Associate Professor (On Leave 2025-26)
+- Email: pjyothi@cse.iitb.ac.in
+- Research Group: AI/ML Group; CSALT Lab (Computational Speech and Language Technologies)
+- Primary Research Area: Speech & Language AI
+- Research Interests & Innovation Focus: Speech recognition for low-resource languages; Multilingual NLP & speech processing; Handling diverse accents & dialects; Parameter-efficient LLM training; Domain adaptation for speech models; Code-switching in speech
+- Notable Projects: Low-resource ASR for Indian languages; Multilingual speech technology; Parameter-efficient fine-tuning of LLMs; Fairness in AI (co-PI)
+- Key Tools & Platforms: CSALT speech processing tools
+- Industry Collaborations: Visiting Scholar at Stanford (2025); Visiting Researcher at Google DeepMind
+- Awards: Fairness for AI Research Award 2022 (co-PI)
+- Innovation Keywords: speech recognition, ASR, multilingual NLP, Indian languages, low-resource, code-switching, language models, accents, dialects, LLM fine-tuning
+- Profile: https://www.cse.iitb.ac.in/~pjyothi/
+
+## Asst. Prof. Avishek Ghosh
+- Department: CSE + C-MInDS
+- Designation: Assistant Professor
+- Email: avishek@cse.iitb.ac.in
+- Research Group: AI/ML Group
+- Primary Research Area: Theoretical ML / Federated Learning
+- Research Interests & Innovation Focus: Federated learning; Multi-armed bandits; Non-convex optimization; RL theory; Distributed optimization; Learning theory
+- Notable Projects: Federated learning algorithms; Robust distributed optimization
+- Innovation Keywords: federated learning, bandits, optimization, distributed ML, reinforcement learning theory, non-convex optimization, robust learning
+- Profile: https://sites.google.com/view/avishekghosh/home
+
+## Prof. Sunita Sarawagi
+- Department: CSE + C-MInDS
+- Designation: Professor (HAG), Founding Head CMInDS
+- Email: sunita@cse.iitb.ac.in
+- Research Group: AI/ML Group; CMInDS (Center for Machine Intelligence and Data Science)
+- Primary Research Area: AI / Machine Learning
+- Research Interests & Innovation Focus: Machine learning & data analytics; Sequence models for text & time-series; Domain adaptation & transfer learning; Human-in-the-loop ML; Graphical models & structured learning; Information extraction & data integration; Record linkage; Data mining & OLAP
+- Notable Projects: Synthetic Tabular Data Generation (diffusion-based); Algorithmic Recourse with causal inference; Text-to-Code (NL to SQL); Time-series forecasting; Founded CMInDS (2020-2023)
+- Key Tools & Platforms: Data mining toolkits; Information extraction systems; Probabilistic graphical model software
+- Industry Collaborations: IBM Almaden Research (former); Google Research Mountain View (Visiting Scientist 2014-16); RBI IT Sub-committee member
+- Awards: 4 US patents (OLAP, data mining); ACM SIGKDD Board of Directors; IEEE Von Neumann Medal Committee
+- Innovation Keywords: machine learning, data mining, NLP, domain adaptation, transfer learning, sequence models, time-series, information extraction, tabular data generation, text-to-SQL
+- Profile: https://www.cse.iitb.ac.in/~sunita/

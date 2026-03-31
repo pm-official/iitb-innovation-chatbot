@@ -1,0 +1,214 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# IEOR Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Assoc. Prof. P. Balamurugan
+- Department: IEOR
+- Designation: Associate Professor
+- Email: balamurugan.palaniappan@iitb.ac.in
+- Research Group: Machine Learning & Optimization Lab
+- Primary Research Area: Machine Learning, Deep Learning & Optimization for Data Science
+- Research Interests & Innovation Focus: Machine learning theory & practice; Deep learning architectures; Data mining & pattern recognition; Optimization methods for ML (convex, non-convex); Longitudinal data analysis; Kernel methods & SVMs; Feature selection & dimensionality reduction; Scalable ML algorithms; Statistical learning theory
+- Notable Projects: Research on optimization for large-scale ML; Publications in ICML, NeurIPS, AISTATS, Machine Learning journal; Teaching ML, Data Mining, Optimization courses; DST funded projects on ML
+- Key Tools & Platforms: Python, PyTorch, TensorFlow, scikit-learn, convex optimization solvers, kernel methods, deep learning frameworks
+- Industry Collaborations: DST-funded research; ML research community; Data science applications
+- Awards: Assoc. Prof. IEOR; Published in ICML, NeurIPS, AISTATS; Expert in optimization for ML
+- Innovation Keywords: machine learning, deep learning, optimization, data mining, kernel methods, scalable algorithms, statistical learning, feature selection, longitudinal data
+- Profile: https://sites.google.com/site/pbalamuru/
+
+## Assoc. Prof. Saurabh Jain
+- Department: IEOR
+- Designation: Associate Professor
+- Email: saurabh@iitb.ac.in
+- Research Group: Dynamic Data-Driven Decision Support Systems Lab
+- Primary Research Area: Data-Driven Decision Support Systems & Simulation
+- Research Interests & Innovation Focus: Dynamic data-driven application systems (DDDAS); Manufacturing systems modeling & simulation; Healthcare decision support; Border security & surveillance systems; Social network analysis; Real-time data integration; Digital twin concepts; Discrete-event simulation; Agent-based modeling
+- Notable Projects: Research on DDDAS for manufacturing and healthcare; Publications in simulation and decision sciences journals; Projects on border security and social network analysis; Teaching simulation and manufacturing systems
+- Key Tools & Platforms: Discrete-event simulation (Arena, AnyLogic), agent-based modeling, real-time analytics, Python, MATLAB, digital twin frameworks
+- Industry Collaborations: Border security agencies; Healthcare institutions; Manufacturing firms; Social media analytics
+- Awards: Assoc. Prof. IEOR; Expert in DDDAS; Research in manufacturing, healthcare, border security simulation
+- Innovation Keywords: data-driven decision support, simulation, digital twin, manufacturing systems, healthcare OR, border security, social networks, agent-based modeling, DDDAS
+- Profile: https://www.ieor.iitb.ac.in/saurabh
+
+## Assoc. Prof. Urban Larsson
+- Department: IEOR
+- Designation: Associate Professor
+- Email: urban@iitb.ac.in
+- Research Group: Combinatorial Game Theory & Discrete Mathematics Group
+- Primary Research Area: Combinatorial Game Theory, Mechanism Design & Discrete Mathematics
+- Research Interests & Innovation Focus: Combinatorial game theory (Nim, Wythoff, Beatty sequences); Discrete mathematics & combinatorics; Number theory connections to games; Cellular automata & computational complexity; Mechanism design & auction theory; Algorithm design; Competitive game analysis; Partizan & impartial games; Sprague-Grundy theory
+- Notable Projects: Published 'Combinatorial Game Theory' book (De Gruyter, 2021); Organized Games at IITB conference series; Publications in Discrete Mathematics, J. Combinatorial Theory; Swedish mathematical tradition; Former positions in Sweden & Israel
+- Key Tools & Platforms: Game-theoretic algorithms, combinatorial analysis, computational game theory, Sprague-Grundy computations
+- Industry Collaborations: International combinatorial game theory community; De Gruyter publisher; Swedish & Israeli mathematics
+- Awards: Assoc. Prof. IEOR; Author 'Combinatorial Game Theory' (De Gruyter 2021); Organized Games at IITB conference
+- Innovation Keywords: combinatorial game theory, mechanism design, discrete mathematics, auction theory, cellular automata, Nim, Sprague-Grundy, combinatorics, algorithm design
+- Profile: http://urbanlarsson.mine.nu/
+
+## Asst. Prof. Arunselvan Ramaswamy
+- Department: IEOR
+- Designation: Assistant Professor
+- Email: arunselvan@iitb.ac.in
+- Research Group: Reinforcement Learning & Stochastic Optimization Lab
+- Primary Research Area: Reinforcement Learning, Stochastic Approximation & Robust AI
+- Research Interests & Innovation Focus: Reinforcement learning theory & algorithms; Stochastic approximation algorithms; Stochastic optimization; Dynamical systems theory; Robust & reliable generative AI; Multi-agent reinforcement learning; Convergence analysis of RL algorithms; Safe RL; Online learning & bandits; Control theory connections to RL
+- Notable Projects: Research on theoretical foundations of RL and stochastic approximation; Publications in JMLR, NeurIPS, ICML; Research on robust and reliable AI systems; Teaching RL and optimization courses
+- Key Tools & Platforms: Python, PyTorch, RL frameworks, stochastic optimization algorithms, dynamical systems analysis, multi-agent simulation
+- Industry Collaborations: AI/ML research community; Robust AI research networks
+- Awards: Asst. Prof. IEOR; Expert in RL theory and stochastic approximation; Published in JMLR, NeurIPS, ICML
+- Innovation Keywords: reinforcement learning, stochastic approximation, robust AI, generative AI, multi-agent RL, safe RL, online learning, dynamical systems, convergence analysis
+- Profile: https://www.ieor.iitb.ac.in/arunselvan
+
+## Asst. Prof. Priyank Sinha
+- Department: IEOR
+- Designation: Assistant Professor
+- Email: priyank@iitb.ac.in
+- Research Group: Network Optimization & Transportation Lab
+- Primary Research Area: Network Optimization, Transportation & Supply Chain Network Design
+- Research Interests & Innovation Focus: Network optimization models; Transportation network design & planning; Supply chain network analysis & design; Facility location problems; Hub-and-spoke network design; Multi-commodity flow problems; Resilient network design; Logistics network optimization; Infrastructure network planning; Disaster relief logistics
+- Notable Projects: Research on network optimization and transportation; Publications in OR and transportation journals; Teaching network optimization courses
+- Key Tools & Platforms: Network optimization algorithms, CPLEX, Gurobi, Python, MATLAB, facility location models, network design tools
+- Industry Collaborations: Transportation planning agencies; Logistics companies; Supply chain firms
+- Awards: Asst. Prof. IEOR; Expert in network optimization and transportation network design
+- Innovation Keywords: network optimization, transportation design, supply chain networks, facility location, hub-spoke, multi-commodity flow, logistics networks, disaster relief, infrastructure planning
+- Profile: https://www.ieor.iitb.ac.in/~priyank
+
+## Asst. Prof. Sarath Yasodharan
+- Department: IEOR
+- Designation: Assistant Professor
+- Email: sarath@iitb.ac.in
+- Research Group: Applied Probability & Stochastic Systems Group
+- Primary Research Area: Interacting Particle Systems, Large Deviations & Mean-Field Games
+- Research Interests & Innovation Focus: Interacting particle systems; Large deviations theory; Stochastic control; Mean-field games & mean-field limits; Stochastic processes on graphs; Queueing networks; Stochastic approximation; Fluid & diffusion limits; Asymptotic analysis of stochastic systems; Opinion dynamics & social learning models
+- Notable Projects: Research on large deviations and mean-field limits; Publications in probability and applied math journals; Teaching probability and stochastic processes courses
+- Key Tools & Platforms: Stochastic analysis, large deviation techniques, mean-field approximations, MATLAB, Python, simulation methods
+- Industry Collaborations: Probability research community; Applied mathematics networks
+- Awards: Asst. Prof. IEOR; Expert in interacting particle systems and large deviations
+- Innovation Keywords: interacting particles, large deviations, mean-field games, stochastic control, queueing networks, opinion dynamics, social learning, fluid limits, stochastic approximation
+- Profile: https://www.ieor.iitb.ac.in/~sarath
+
+## Asst. Prof. Vinay Kumar B.R.
+- Department: IEOR
+- Designation: Assistant Professor
+- Email: vinaykumarbr@iitb.ac.in
+- Research Group: Network Science & Random Graphs Lab
+- Primary Research Area: Network Science, Random Graphs & Community Detection
+- Research Interests & Innovation Focus: Random graph models (Erdős-Rényi, preferential attachment, configuration); Community detection algorithms; Percolation theory on networks; Communication network analysis; Epidemic spreading on networks; Network robustness & resilience; Stochastic block models; Spectral methods for graphs; Information diffusion; Network centrality
+- Notable Projects: Research on random graphs and community detection; Publications in network science and probability journals; Teaching network science and probability courses
+- Key Tools & Platforms: Python (NetworkX, igraph), spectral clustering, belief propagation, MCMC methods, graph theory algorithms
+- Industry Collaborations: Network science research community; Telecommunications research
+- Awards: Asst. Prof. IEOR; Expert in network science, random graphs, and community detection
+- Innovation Keywords: network science, random graphs, community detection, percolation, epidemic spreading, network robustness, stochastic block models, spectral methods, information diffusion
+- Profile: https://www.ieor.iitb.ac.in/vinaykumarbr
+
+## Prof. Ashutosh Mahajan
+- Department: IEOR
+- Designation: Professor
+- Email: amahajan@iitb.ac.in
+- Research Group: Integer & Nonlinear Optimization Lab
+- Primary Research Area: Integer & Nonlinear Optimization Algorithms & Software
+- Research Interests & Innovation Focus: Algorithms for integer programming; Mixed-integer nonlinear optimization (MINLO); Open-source optimization software development (Minotaur solver); Branch-and-bound & branch-and-cut; Convexification techniques; Industrial applications of OR; Decomposition methods; Global optimization; Bilevel optimization
+- Notable Projects: Developer of Minotaur (open-source MINLP solver); Publications in Mathematical Programming, Operations Research, INFORMS J. Computing; Research on cutting planes and convexification; Teaching optimization and integer programming; Industry consulting
+- Key Tools & Platforms: Minotaur solver, CPLEX, Gurobi, SCIP, C++/Python, branch-and-bound, cutting plane methods, decomposition algorithms
+- Industry Collaborations: INFORMS optimization community; Minotaur open-source project; Industrial OR applications
+- Awards: Professor IEOR; Developer of Minotaur solver; Published in Math Programming, OR, INFORMS J. Computing
+- Innovation Keywords: integer programming, MINLP, optimization software, branch-and-bound, Minotaur solver, convexification, industrial OR, global optimization, bilevel optimization
+- Profile: https://www.ieor.iitb.ac.in/amahajan
+
+## Prof. Avinash Bhardwaj
+- Department: IEOR
+- Designation: Professor
+- Email: abhardwaj@iitb.ac.in
+- Research Group: Mathematical Optimization & Polyhedral Theory Group
+- Primary Research Area: Mixed-Integer Optimization, Convex Optimization & Polyhedral Combinatorics
+- Research Interests & Innovation Focus: Linear & nonlinear mixed-integer optimization; Convex optimization theory & algorithms; Polyhedral combinatorics; Optimization under uncertainty; Cutting plane methods; Branch-and-bound algorithms; Lattice-based methods; Robust optimization; Integer programming theory; Polynomial optimization
+- Notable Projects: Research on mixed-integer nonlinear optimization; Publications in Mathematical Programming, Operations Research, SIAM J. Optimization; Algorithms for integer programming; Industrial optimization applications
+- Key Tools & Platforms: CPLEX, Gurobi, SCIP, Julia/JuMP, MATLAB, cutting plane algorithms, branch-and-cut methods
+- Industry Collaborations: Industrial optimization consulting; OR software community
+- Awards: Professor IEOR; Expert in mixed-integer and convex optimization; Published in Mathematical Programming, OR
+- Innovation Keywords: integer programming, convex optimization, polyhedral combinatorics, mixed-integer optimization, robust optimization, cutting planes, branch-and-bound, lattice methods
+- Profile: https://www.ieor.iitb.ac.in/files/faculty/abhardwaj/
+
+## Prof. Jayendran Venkateswaran
+- Department: IEOR
+- Designation: Professor
+- Email: jayendran@iitb.ac.in
+- Research Group: Modeling, Simulation & Supply Chain Analysis Lab
+- Primary Research Area: Discrete-Event Simulation, System Dynamics & Supply Chain Modeling
+- Research Interests & Innovation Focus: Modeling & simulation (discrete-event, system dynamics); Distributed simulation & HLA; Integrated supply chain analysis & optimization; Manufacturing systems simulation; Hybrid simulation approaches; Bullwhip effect analysis; Demand forecasting using simulation; Simulation-based optimization; Digital twin for supply chains
+- Notable Projects: Research on distributed simulation and supply chain modeling; Publications in Simulation Modelling Practice & Theory, J. Simulation, Int. J. Production Research; Teaching simulation modeling and supply chain management courses; Industry consulting projects
+- Key Tools & Platforms: Arena, AnyLogic, Simio, MATLAB/Simulink, HLA distributed simulation, system dynamics (Vensim, Stella), Python
+- Industry Collaborations: Manufacturing companies; Supply chain consulting; Simulation software community
+- Awards: Professor IEOR; Expert in distributed simulation and supply chain analysis; Published in J. Simulation, IJPR
+- Innovation Keywords: discrete-event simulation, system dynamics, supply chain modeling, distributed simulation, digital twin, bullwhip effect, manufacturing simulation, demand forecasting
+- Profile: https://www.ieor.iitb.ac.in/~jayendran/
+
+## Prof. K.S. Mallikarjuna Rao
+- Department: IEOR
+- Designation: Professor & Head of Department
+- Email: mallik@iitb.ac.in
+- Research Group: Stochastic Control & Mathematical Finance Group
+- Primary Research Area: Stochastic Control, Differential Games & Mathematical Finance
+- Research Interests & Innovation Focus: Deterministic & stochastic optimal control; Differential game theory (zero-sum & nonzero-sum); Viscosity solutions of HJB equations; Markov decision processes; Mathematical finance (option pricing, portfolio optimization); Risk-sensitive control; Controlled diffusions; Mean-field games; Stochastic differential equations
+- Notable Projects: Head of IEOR Department IITB; Research on viscosity solutions and differential games; Publications in SIAM J. Control, J. Mathematical Analysis & Applications, Stochastic Processes & Applications; PhD supervision in stochastic control and finance
+- Key Tools & Platforms: Stochastic calculus, viscosity solution methods, dynamic programming, Monte Carlo simulation, financial modeling
+- Industry Collaborations: Financial mathematics research community; Actuarial & risk management organizations
+- Awards: Head of IEOR Dept IITB; Expert in stochastic control and differential games; Published in SIAM J. Control
+- Innovation Keywords: stochastic control, differential games, viscosity solutions, mathematical finance, Markov decision processes, option pricing, portfolio optimization, mean-field games
+- Profile: https://www.ieor.iitb.ac.in/~mallik/
+
+## Prof. N. Hemachandra
+- Department: IEOR
+- Designation: Professor
+- Email: nh@iitb.ac.in
+- Research Group: OR, Machine Learning & Reinforcement Learning Lab
+- Primary Research Area: Reinforcement Learning, Markov Decision Processes & Queueing Theory
+- Research Interests & Innovation Focus: Reinforcement learning theory & applications; Neural networks for decision making; Markov decision models & dynamic programming; Queueing models & performance analysis; Game theory for multi-agent systems; Stochastic approximation algorithms; Applied probability in operations; Revenue management; Healthcare operations
+- Notable Projects: Research on RL and MDPs; Publications in Operations Research, J. Applied Probability, Queueing Systems; Consulting projects in revenue management and healthcare; Teaching RL, Game Theory, Stochastic Models; PhD supervision in ML and OR
+- Key Tools & Platforms: Python, RL frameworks (OpenAI Gym), MDP solvers, queueing simulation, neural network frameworks, stochastic optimization
+- Industry Collaborations: Revenue management firms; Healthcare operations consulting; Insurance analytics
+- Awards: Professor IEOR; Senior OR researcher; Expert in RL, MDPs, and queueing theory; Published in Operations Research
+- Innovation Keywords: reinforcement learning, Markov decision processes, queueing theory, neural networks, game theory, revenue management, healthcare OR, stochastic approximation
+- Profile: https://www.ieor.iitb.ac.in/~nh/
+
+## Prof. Narayan Rangaraj
+- Department: IEOR
+- Designation: Professor
+- Email: narayan@iitb.ac.in
+- Research Group: Logistics, Supply Chain & Transportation OR Lab
+- Primary Research Area: OR Applications in Logistics, Railways & Healthcare
+- Research Interests & Innovation Focus: OR applications in logistics & supply chain management; Railway operations optimization (scheduling, timetabling, crew planning); Transportation network design; Manufacturing system optimization; Healthcare operations & resource allocation; Combinatorial optimization for scheduling; Network flow models; Vehicle routing; Last-mile delivery optimization
+- Notable Projects: Extensive consulting with Indian Railways; Rail traffic optimization projects; Healthcare operations research; Publications in Transportation Science, J. Rail Transport Planning & Management; Teaching logistics, supply chain, and transportation courses; IIT Bombay Railway Research Centre contributor
+- Key Tools & Platforms: Optimization solvers, network flow algorithms, simulation tools, scheduling software, CPLEX, Python/MATLAB
+- Industry Collaborations: Indian Railways (extensive consulting); Healthcare institutions; Manufacturing companies; Logistics firms
+- Awards: Professor IEOR; Extensive Indian Railways consulting; Expert in logistics & transportation OR; Published in Transportation Science
+- Innovation Keywords: railway optimization, logistics, supply chain, transportation, scheduling, crew planning, vehicle routing, healthcare OR, manufacturing optimization, last-mile delivery
+- Profile: https://www.ieor.iitb.ac.in/~narayan
+
+## Prof. Veeraruna Kavitha
+- Department: IEOR
+- Designation: Professor
+- Email: vkavitha@iitb.ac.in
+- Research Group: Stochastic Systems, Networks & Game Theory Group
+- Primary Research Area: Queueing Theory, Stochastic Games & Wireless Networks
+- Research Interests & Innovation Focus: Stochastic processes & applied probability; Queueing theory & polling systems; Optimal control of stochastic systems; Game theory for wireless communications; Mean-field games; Stochastic geometry for wireless networks; Resource allocation in networks; Random access protocols; Scheduling in wireless systems; Cooperative & non-cooperative games
+- Notable Projects: Research on queueing and game theory for wireless networks; Publications in Queueing Systems, Stochastic Models, IEEE Trans. on Networking; Teaching stochastic processes, game theory; Research collaboration with Inria (France)
+- Key Tools & Platforms: Queueing analysis, stochastic geometry, game-theoretic modeling, MATLAB, simulation tools, mean-field approximations
+- Industry Collaborations: Inria France (former); Telecom research labs; Wireless network operators; IEEE community
+- Awards: Professor IEOR; Expert in queueing theory and stochastic games for wireless networks; Published in IEEE Trans., Queueing Systems
+- Innovation Keywords: queueing theory, stochastic games, wireless networks, polling systems, mean-field games, resource allocation, random access, scheduling, stochastic geometry
+- Profile: https://www.ieor.iitb.ac.in/vkavitha
+
+## Prof. Vishnu Narayanan
+- Department: IEOR
+- Designation: Professor
+- Email: vishnu@iitb.ac.in
+- Research Group: Integer Programming & Polyhedral Theory Group
+- Primary Research Area: Integer Programming, Convex Optimization & Polyhedral Theory
+- Research Interests & Innovation Focus: Integer programming theory & algorithms; Convex optimization; Polyhedral theory & cutting planes; Lattice-based methods in optimization; Algorithmic geometry of numbers; Combinatorial optimization; Approximation algorithms; Polynomial optimization; Sum-of-squares methods
+- Notable Projects: Research on integer programming and polyhedral theory; Publications in Mathematical Programming, Mathematics of Operations Research, Discrete Optimization; Teaching optimization theory courses
+- Key Tools & Platforms: Integer programming solvers, polyhedral analysis tools, lattice algorithms, MATLAB, Julia
+- Industry Collaborations: Mathematical programming research community; INFORMS
+- Awards: Professor IEOR; Expert in integer programming and polyhedral theory; Published in Math Programming, Math of OR
+- Innovation Keywords: integer programming, polyhedral theory, convex optimization, lattice methods, cutting planes, combinatorial optimization, approximation algorithms, polynomial optimization
+- Profile: https://www.ieor.iitb.ac.in/~vishnu

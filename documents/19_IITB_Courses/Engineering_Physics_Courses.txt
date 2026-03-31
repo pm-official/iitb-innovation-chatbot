@@ -1,0 +1,176 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Engineering Physics - Course Catalog for IIT Bombay Students
+
+
+## EP 201: Optics
+- Credits: 6
+- Type: Theory
+- Description: Electromagnetic wave description of light, waves in vacuum,plane waves,polarization(stokes parameters), confined waves,Gaussian wave propagation,diffraction free beams, waves in isotropic media, optical response of media, Lorentz and Drude models, dispersion and absorption,wave propagation in uniaxial media, Reflection and refraction,Fresnel`s equations and their consequences. Interference,Fabry-Perot and Michelson interferometers, interference coatings,Spatial and temporal coherence,introduction to Fourier transforms,convolution theorem, Fourier transform spectroscopy, optical coherence tomography, Fraunhofer diffraction, diffraction gratings and their uses,  Fabri-perot resonator with gain, stimulated emission,lasers and holography.
+
+## EP 207: Introduction to Special Theory of Relativity
+- Credits: 3
+- Type: Theory
+
+## EP 209: Thermal Physics
+- Credits: 3
+- Type: Theory
+
+## EP 213: Physics Laboratory I
+- Credits: 3
+- Type: Laboratory
+- Description: Velocity of sound in solids, Mesurement of magnetic induction B by search coil, e/m for electorn by ma gnetoron method, viscosity by Stoke"s method, thermal conductivity by Forbe"s method, Rating of Vacuum pump, self and mutual inductance by ballistic galvanometer, stydy of electromagnetic indution, Variation of specific heat of graphite with temperature ,linear expansion by interference method.
+
+## EP 214: Physics Laboratory II
+- Credits: 3
+- Type: Laboratory
+- Description: H-photoelectric effect, ultrasonic grating Frank-Hertz experiment, Millikan"s oil drop experiement, Elastic Constants by interference method (Cornu"s fringes), susceptibility by Guoy"s method, Air track-study of potential well, Faraday effect-verdet"s constant, Dielectric constant and dipole moment of molecules, particle size estimation by diffraction.
+
+## EP 215: Electronics Laboratory I
+- Credits: 3
+- Type: Laboratory
+- Description: Testing of electronic components and solidering practice, design of printed circuit board, conversion of galvanometer to voltmeter and ammeter, output resistanceof a D.C.source, use of cathode ray oscillcope for measuring frequency, amplitude of different wave shape, etc., study of R.C. circuit with constant and variable E.M.F.,phase measurement in R.C.circuit with low frequency A.C.,study of L.R. and LCR circuits, Q factor of LCR circuit,Measurement of Capacitance by Schering Bridge. Design of multimeter,filtering and phase shifting networks, Regulations characteristics of rectifier to obtain ripple factor in different filters, semi-conductor diode characteristics, Bi-polar transisteor characteristics,Applications of diode (clipping and a.c.voltage multiplier), Response of indicating inst...
+
+## EP 216: Electronics Laboratory II
+- Credits: 3
+- Type: Laboratory
+- Description: Design of multimeter. Filtering and phase shifting networks. Regulation characteristics of rectifier to obtain ripple factor in different filters. Characteristics of semiconductor  diodes and bipolar transistors. Applications of diodes (for  clipping and as ac voltage multiplier). Response of indicating  instruments - analogue meter, digital meter, CRO etc.  Design of basic DL, TL, DTL, TTL logic gates.
+
+## EP 219: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+
+## EP 220: Computational Methods
+- Credits: 8
+- Type: Theory
+- Description: Error definition, error propogation, finite difference calculus, interpolation and extrapolation, roots of equations, random number generation, solution of simultaneous  linear algebraic equation, least square curve fitting, numerical integration, numerical solution of ordinary differential equations, matrix eigen value problem, topics in linear programming, partial differential equations. Monte Carlo methods, Metropolis algorithm, Simulation.
+
+## EP 222: Classical Mechanics I
+- Credits: 6
+- Type: Theory
+- Description: Review of Newton`s law of motion, frames of reference, rotating frames, centrifugal and coriolis forces. Free and constrained motion, D`Alemberts principle and Lagrange`s equation of first kind. Lagrangian formulation, Hamilton342200231s equation of motion. Variational principles. Canonical transformation and Poisson Bracket. Hamilton Jacobi theory and action angle variables.Periodic motion, small oscillations, normal coordinates, Central force, Kepler`s Laws and Rutherford scattering.
+
+## EP 223: Electronics Lab II
+- Credits: 3
+- Type: Laboratory
+
+## EP 226: Waves & Oscillations & Thermodynamics
+- Credits: 6
+- Type: Theory
+- Description: Thermodynamics: Thermal equilibrium, zeroth law and concept of temperature. First law and its consequences, reversible, irreversible and quasi-static processes. Second law: heat engines, concept of entropy and its statistical interpretation. Thermodynamic potentials, Maxwell302222s relations. Joule Kelvin effect. Phase transitions, order of phase transitions, order parameter, critical exponents and the Clausius-Clapeyron equation. Applications to magnetism , superfluidity and superconductivity.                                                                 Waves & Oscillations :Simple Harmonic motion, damped SHM, critical damping, Sustaining oscillations in a damped oscillator. Driven oscillation, resonance, damped-driven  oscillator and its resonance, Q-factor  Vanderpol oscillator, non-...
+
+## EP 228: Quantum Mechanics I
+- Credits: 8
+- Type: Theory
+
+## EP 230: Electronics Lab III
+- Credits: 5
+- Type: Laboratory
+
+## EP 307: Quantum Mechanics I
+- Credits: 8
+- Type: Theory
+- Description: Wave functions, superposition principle, wave packets. Schrodinger equation, probability and current densities. Expectation values and Ehrenfest"s theorem. General formalism. Linear vectors and operators in Hilbert space, observables, commuting operators, momentum representations and uncertainty principle. Unitary transformations, Schrodinger and Heisenberg representations, equa-tions of motion. Applications: One dimensional potential problems, linear harmonic oscillator, polynomial solutions, creation and annihilation operators. Central forces, angular momentum, spherical harmon-ics, spin, addition of angular momenta motion in a well, free and bound states in Coulomb potential.
+
+## EP 309: Photonics
+- Credits: 6
+- Type: Theory
+
+## EP 312: Physics Laboratory IV
+- Credits: 3
+- Type: Laboratory
+- Description: Fresnel"s laws of reflection,Raleigh interferometer, of liquids- Pulfrich"s refractometer, Michelson"s interferometer, Laser diffraction.Geiger Counter, Gama ray spectrometer, Alpha spectrometer,Statisitics of nuclear counting, x-ray emission, x-ray absorption spectrum, x-ray diffraction.
+
+## EP 313: Physics Laboratory III
+- Credits: 3
+- Type: Laboratory
+- Description: Energy gap of semicondutors,Hall effect,Resistivity of ferrites,Transition of ferroelectrics, Hysteris is of wire and rod, Photo conductivity -emission sectrum, -absorption spectrum of iodine Rotation spectrum of cynogen,AlO vibrational spectrum,Gaseous discharge, Densitometry.
+
+## EP 315: Electronics Lab III (Microprocessor Lab)
+- Credits: 5
+- Type: Laboratory
+- Description: Familiarisation of the 8085 kit and programming, data transfer through input/output ports, Analogue to digital conversion using DAC, digital clock, control and transfer of datausing interrupts,control of stepper motor and some electronic instruments demonstration experiments.
+
+## EP 317: Electronics Laboratory-IV(Digital Laboratory)
+- Credits: 5
+- Type: Laboratory
+
+## EP 318: Electronics Lab. IV
+- Credits: 3
+- Type: Laboratory
+- Description: Experiments with 8085 based microprocessor kit : Use of Display Routines. 1 second delay using multiloops. Use of the 8255 interface in Modes 0&1. Analogue to Digital Conversion using DAC. 24 Hour Clock. Measurement of OP-Amp characteristics and voltage follower. Inverting and non-inverting amplifier.  Sum and difference amplifier. Butterworth Lowpass filter.  Integrator and Differentiator. Sine wave oscillators using OP-AMP. Square wave oscillators and Schmitt trigger. Fixed voltage regulator.
+
+## EP 320: Statistical Physics
+- Credits: 6
+- Type: Theory
+- Description: 1) Random walk, gaussian statistics and diffusion.2) Statistical ensembles: a)phase space, ergodicity, microcanonical ensemble, Liouville`s theorem,    Ideal-gas. b)canonical ensemble, partition function c)grand-canonical ensemble,equivalence of ensembles,  3) Quantum statistical Mechanics: density matrix, Bolzmann,Bose &   Fermi statistics.4) Fermi gas: high and low temp limits, electrons in magnetic field,    para and diamagnetism.5) Bose gas: black body radiation, phonons, B.E. condensation.
+
+## EP 322: Supervised Learning
+- Credits: 6
+- Type: Seminar
+
+## EP 323: Classical Mechanics II
+- Credits: 6
+- Type: Theory
+
+## EP 388: Practical Training
+- Credits: 0
+
+## EP 396: Works Visits
+- Credits: 0
+
+## EP 397: Seminar
+- Credits: 3
+- Type: Seminar
+
+## EP 405: Methods in Analytical Techniques
+- Credits: 8
+- Type: Theory
+- Description: Structure and Microstructure analysis by X-ray and electron diffraction, transmission and scanning electron microscopy techniques. Study of molecular structure by resonance techniques like Nuclear magnetic resonance (NMR), Fourier transform NMR (FTNMR) and Electron spin resonance (ESR). Study of molecular structure by Infrared (IR), Fourier transform IR (FTIR) and Raman spectroscopies. Study of electronic structure by Photoelectron Spectroscopy and X-ray absorption techniques. Composition analysis by Energy dispersive X-ray (EDX), Auger Electron Spectroscopy (AES) and Secondary ion mass spectrometry (SIMS). Study of surface morphology and structure by Scanning tunneling and Atomic Force microscopies (STM, AFM). Study of magnetic thin films by Ferromagnetic resonance, vibrating sample and t...
+
+## EP 409: Applied Solid State Physics
+- Credits: 6
+- Type: Theory
+- Description: Boltzman transport equation, scattering and relaxation time. Optical properties of solids, excitations, concept of plasmons, polarons and polaritons. Dielectric function, dielectric and ferroelectric materials. Band structure of semiconductros, density of states and conductivity effective masses, carrier diffusion processes, excess carrier life time, recombination and trap centres, photo conductivity, electronic properties of surfaces. Dia, para and ferro magnetism, magnetic domains, magnetic materials and application. Magnetic resonance techniques, spin-spin and spin-lattice relaxation. Superconductivity, Meissner effect, tunneling in superconductors, Josephson junctions, squids, superconducting magnets.
+
+## EP 411: Analytical Techniques
+- Credits: 6
+- Type: Theory
+- Description: The students will be expected to undertsand the basic principle of working and also carry out analysis of samples in a few simple cases, with the following techniques. Atomic absorption and emission. X-ray diffraction and fluorescence. NMR, ESR, ESCA and Auger. Absorption in visible and infrared. Raman Scattering, Photo-acoustic detection Nitrogen and tunable dye lasers, Electron microscopy
+
+## EP 412: Nanomaterials, Nanostructures & Nanofabrication
+- Credits: 6
+- Type: Theory
+
+## EP 413: Advanced Statistical Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Classical distribution functions, Liouville equation, one particle distribution function, Vlasov equation, Wigner distribution function, Linear Dielectric Response, Boltzmann equation, Transport equations, Hydrodynamic equations. Fluctuations, Brownian motion, Langevin and Fokker-Planck equations, Master equations, Auto-correlation functions. Spectral analysis, Fluctuation-dissipation theorem, Onsager relations. Phase transitions and critical phenomena.
+
+## EP 425: Introduction to Nanoscience and Nanotechnology
+- Credits: 6
+- Type: Theory
+- Description: Structure and bonding in Nanoparticles: Electronic structures in Bulk and Nanoclusters. Magic clusters; Magic number, Geometric structures, electronic structures. Theoretical modeling of nanoparticles: Fullerenes, Carbon Nanotubes and Graphenes. Free electrons in Bulk and Nanoparticles. Size and Dimensionality effects: Eelectronic energy bands in semiconductors; electron energy states in quantum confined systems. quantum wires, quantum dots; excitons in semiconductor particles and its size dependence. Absorption and Luminisence in nanoparticles. Electron transport and size scaling in nanoparticles. Size dependence of properties: Introduction to Mie theory with applications to nanoparticles; surface plasmons in noble metal nanoparticles, Magnetic nanoparticles, Superparamagnets. Mechanical ...
+
+## EP 431: Semiconductor Physics
+- Credits: 6
+- Type: Theory
+- Description: An introduction to semiconductors, their crystal structure and their band structure. Intrinsic and extrinsic semiconductors, charge carriers and their effective masses. Methods of electronic structure calculations for semiconductors: plane wave methods, pseudo-potential approaches, semi-empirical pseudopotential method, k.p method, Luttinger Hamiltonian,and the tight-binding approach.  Electron-phonon coupling.Optical properties of semiconductors: absorption edges, effective mass approximation, excitons, polaritons. Electron transport properties: high-fieldeffects and magneto-transport.
+
+## EP 432: Physics of Nanostructures and nanoscale Devices
+- Credits: 6
+- Type: Theory
+- Prerequisite: N
+- Description: Electrons in semiconductor hetero-structures: band offsets, effective mass; semiconductor hetero-junctions, 2-DEG systems, quantum wires and quantum dots; Transmission in nanostructures: tunneling in planar barrier, resonant tunnel diodes, Landauer formula, transport in quantum waveguide structures; single electron tunneling and Coulomb blockade. Electron transport in devices: Schottky diodes, p-n junction diodes, short diodes; bipolar and field-effect transistors, MOSFETS, effect of size reduction, short channels; scaling down to nanosizes, FINFETS; issues with nanoscale devices.
+
+## EP 439: Advanced Laboratory Techniques  in Nanosience
+- Credits: 6
+- Type: Laboratory
+
+## EP 497: B.Tech. Project I
+- Credits: 5
+- Type: Project
+
+## EP 498: B.Tech. Project II
+- Credits: 15
+- Type: Project

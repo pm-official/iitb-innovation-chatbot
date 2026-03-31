@@ -1,0 +1,538 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# MEMS Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Abhijeet L. Sangle
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: alsangle@iitb.ac.in
+- Research Group: Functional Thin Films Lab
+- Primary Research Area: Nanostructured Thin Films & Functional Materials
+- Research Interests & Innovation Focus: Thin films of functional materials via Pulsed Laser Deposition and RF/DC/Pulsed DC Sputter Deposition, self-assembly of nanostructured films, oxide thin films for energy and sensing
+- Notable Projects: PLD-based functional thin film development, nanostructured oxide films for sensors
+- Key Tools & Platforms: PLD systems, Sputtering systems, XRD, SEM, AFM
+- Innovation Keywords: thin films, PLD, sputtering, functional materials, nanostructures, oxide films
+- Profile: https://homepages.iitb.ac.in/~alsangle/Home.html
+
+## Abhinandan Gangopadhyay
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: abhinandan.g@iitb.ac.in
+- Research Group: Defect & Interface Science Lab
+- Primary Research Area: Defect and Interface Science
+- Research Interests & Innovation Focus: Defects and interfaces in advanced functional materials, transmission electron microscopy, atomic-scale characterization, interface engineering for semiconductors and oxides
+- Notable Projects: Advanced TEM characterization of functional material interfaces
+- Key Tools & Platforms: TEM, STEM, EELS, EDS, FIB
+- Innovation Keywords: defects, interfaces, TEM, functional materials, atomic-scale characterization
+- Profile: https://www.iitb.ac.in/mems/en/prof-abhinandan-gangopadhyay
+
+## Ajay Singh Panwar
+- Department: MEMS
+- Designation: Professor & HOD
+- Email: panwar@iitb.ac.in
+- Research Group: Molecular Modelling Lab
+- Primary Research Area: Molecular Modelling & Self-assembly
+- Research Interests & Innovation Focus: Multi-scale molecular modelling of self-assembly in macromolecular systems, macromolecular transport in micro- and nano-scale channels, high-performance computing for macromolecular and composite systems, polymer simulations
+- Notable Projects: Multi-scale modelling of polymer self-assembly, HPC-based materials simulation
+- Key Tools & Platforms: LAMMPS, GROMACS, HPC clusters, MATLAB
+- Industry Collaborations: Polymer industry collaborations
+- Awards: Head of Department MEMS (May 2021-Present)
+- Innovation Keywords: molecular modelling, self-assembly, polymers, HPC, macromolecular transport
+- Profile: https://www.iitb.ac.in/mems/en/prof-s-panwar
+
+## Ajit R. Kulkarni
+- Department: MEMS
+- Designation: Professor
+- Email: ark@iitb.ac.in
+- Research Group: Electroceramics Lab
+- Primary Research Area: Electroceramics & Solid State Ionics
+- Research Interests & Innovation Focus: Electroceramics, materials for solid oxide fuel cells, composite electrolytes, electrode materials, ionic conductors, piezoelectric ceramics
+- Notable Projects: SOFC electrolyte and electrode materials development, piezoelectric material characterization
+- Key Tools & Platforms: XRD, Impedance spectroscopy, SEM, Dielectric measurement systems
+- Innovation Keywords: electroceramics, solid state ionics, SOFC, piezoelectrics, ionic conductors
+- Profile: https://www.iitb.ac.in/mems/en/people/faculty
+
+## Amartya Mukhopadhyay
+- Department: MEMS
+- Designation: Professor
+- Email: amartya_mukhopadhyay@iitb.ac.in
+- Research Group: Energy Storage Materials Lab
+- Primary Research Area: Energy Storage Materials & Li-ion Batteries
+- Research Interests & Innovation Focus: Electrode materials and electrode/electrolyte interfaces for Li/Na/K-ion batteries, electro-chemo-mechanical behavior, next-generation energy storage, solid-state batteries
+- Notable Projects: Li-ion and Na-ion battery electrode development, solid-state battery research
+- Key Tools & Platforms: Electrochemical workstation, XRD, SEM, TEM, Raman spectroscopy
+- Industry Collaborations: Battery technology companies
+- Innovation Keywords: energy storage, lithium-ion batteries, sodium-ion, solid-state batteries, electrodes
+- Profile: https://www.iitb.ac.in/mems/en/prof-amartya-mukhopadhyay
+
+## Amrita Bhattacharya
+- Department: MEMS
+- Designation: Associate Professor
+- Email: b_amrita@iitb.ac.in
+- Research Group: Computational Materials Science Lab
+- Primary Research Area: Computational Materials & Thermal Transport
+- Research Interests & Innovation Focus: Computational materials science, charge and heat transport in materials, defects in semiconductors, strongly correlated materials, DFT-based property prediction
+- Notable Projects: DFT studies of defects in semiconductors, thermal transport modelling
+- Key Tools & Platforms: VASP, Quantum ESPRESSO, WIEN2k, Python, HPC
+- Innovation Keywords: computational materials, DFT, thermal transport, semiconductors, defects
+- Profile: https://www.iitb.ac.in/mems/en/prof-amrita-bhattacharya
+
+## Anirban Patra
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: anirbanpatra@iitb.ac.in
+- Research Group: Multiscale Mechanics Lab
+- Primary Research Area: Mechanics of Materials & Multiscale Modelling
+- Research Interests & Innovation Focus: Computational materials mechanics, crystal plasticity, multiscale modelling of deformation, finite element analysis of polycrystals, texture evolution
+- Notable Projects: Crystal plasticity FEM simulations, multiscale deformation modelling
+- Key Tools & Platforms: ABAQUS, DAMASK, MATLAB, Python, HPC
+- Innovation Keywords: crystal plasticity, multiscale modelling, deformation, FEM, polycrystals
+- Profile: https://www.iitb.ac.in/mems/en/prof-anirban-patra
+
+## Aparna Singh
+- Department: MEMS
+- Designation: Associate Professor
+- Email: aparna_s@iitb.ac.in
+- Research Group: Corrosion & Nanostructured Materials Lab
+- Primary Research Area: Corrosion Science & Nanostructured Materials
+- Research Interests & Innovation Focus: Fracture, fatigue and tribology, synthesis of nanostructured materials in bulk, severe plastic deformation, iron and steel corrosion metallurgy
+- Notable Projects: Nanostructured alloy development via SPD, corrosion studies of structural steels
+- Key Tools & Platforms: UTM, tribometer, potentiostat, SEM, XRD
+- Industry Collaborations: Steel industry partners
+- Innovation Keywords: corrosion, fatigue, tribology, nanostructured materials, SPD, steel metallurgy
+- Profile: https://www.iitb.ac.in/mems/en/prof-aparna-singh
+
+## Arka Mandal
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: arkamandal@iitb.ac.in
+- Research Group: Advanced Electron Microscopy Lab
+- Primary Research Area: Phase Transformations & Electron Microscopy
+- Research Interests & Innovation Focus: Deformation behaviour of metallic materials across length scales, advanced electron microscopy-based analysis, EBSD, in-situ mechanical testing in SEM/TEM
+- Notable Projects: In-situ deformation studies in electron microscopes
+- Key Tools & Platforms: SEM, TEM, EBSD, nanoindenter, FIB
+- Innovation Keywords: phase transformations, electron microscopy, EBSD, in-situ testing, deformation
+- Profile: https://www.iitb.ac.in/mems/en/prof-arka-mandal
+
+## Arup R. Bhattacharyya
+- Department: MEMS
+- Designation: Professor
+- Email: arbhattacharyya@iitb.ac.in
+- Research Group: Polymer Nanocomposites Lab
+- Primary Research Area: Polymer Nanocomposites & Soft Matter
+- Research Interests & Innovation Focus: Polymer blends and nanocomposites, CNT/graphene-polymer composites, melt mixing and solution processing, morphology-property correlations
+- Notable Projects: CNT-polymer nanocomposite development, graphene-based polymer composites
+- Key Tools & Platforms: Twin-screw extruder, DSC, TGA, TEM, Rheometer
+- Industry Collaborations: Polymer and composite industries
+- Innovation Keywords: polymer nanocomposites, CNT, graphene, polymer blends, melt mixing
+- Profile: https://www.iitb.ac.in/mems/en/prof-r-bhattacharyya
+
+## Ashutosh S. Gandhi
+- Department: MEMS
+- Designation: Professor
+- Email: agandhi@iitb.ac.in
+- Research Group: High-Temperature Coatings Lab
+- Primary Research Area: Ceramic Materials & Thermal Barrier Coatings
+- Research Interests & Innovation Focus: Science of ceramics, high-temperature protective coatings (TBCs and EBCs), multicomponent equimolar materials (high-entropy ceramics), phase stability at high temperatures
+- Notable Projects: TBC development for gas turbines, high-entropy ceramic exploration
+- Key Tools & Platforms: Plasma spray, XRD, SEM, high-temperature furnaces
+- Industry Collaborations: Aerospace and gas turbine industries
+- Innovation Keywords: ceramics, thermal barrier coatings, EBC, high-entropy, high-temperature materials
+- Profile: https://www.iitb.ac.in/mems/en/prof-ashutosh-s-gandhi
+
+## Aswani Yella
+- Department: MEMS
+- Designation: Associate Professor
+- Email: aswani.yella@iitb.ac.in
+- Research Group: Photovoltaics & Optoelectronics Lab
+- Primary Research Area: Perovskite Photovoltaics & Optoelectronics
+- Research Interests & Innovation Focus: Nanostructured materials for photovoltaic applications, hybrid perovskite solar cells, molecular engineering of dye-sensitized solar cells, light-harvesting materials
+- Notable Projects: Perovskite solar cell fabrication and optimization, DSSC development
+- Key Tools & Platforms: Solar simulator, spin coater, glove box, UV-Vis, XRD
+- Industry Collaborations: Solar energy companies
+- Innovation Keywords: perovskite, photovoltaics, DSSC, optoelectronics, light harvesting, solar cells
+- Profile: https://www.iitb.ac.in/mems/en/prof-aswani-yella
+
+## Darothi Bairagi
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: darothibairagi@iitb.ac.in
+- Research Group: Bio-implant Corrosion Lab
+- Primary Research Area: Bio-implant Corrosion & Electrochemistry
+- Research Interests & Innovation Focus: Corrosion of metals and alloys for biomedical implants, electrochemical impedance spectroscopy, Mg-based biodegradable implants, surface treatment for biocompatibility
+- Notable Projects: Mg-alloy biodegradable implant development, EIS-based corrosion assessment
+- Key Tools & Platforms: Potentiostat, EIS, SEM, XRD, cell culture facilities
+- Industry Collaborations: Biomedical implant companies
+- Innovation Keywords: bio-implant, corrosion, electrochemistry, magnesium alloys, biodegradable implants
+- Profile: https://www.iitb.ac.in/mems/en/prof-darothi-bairagi
+
+## Deepoo Kumar
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: deepook@iitb.ac.in
+- Research Group: Clean Steelmaking Lab
+- Primary Research Area: Inclusion Engineering & Clean Steelmaking
+- Research Interests & Innovation Focus: Thermodynamics and kinetics of metallurgical processes, mass transport in pyrometallurgical processes, inclusion engineering for clean steel, ladle metallurgy
+- Notable Projects: Clean steel production through inclusion control, pyrometallurgical process optimization
+- Key Tools & Platforms: Induction furnaces, optical emission spectrometer, SEM-EDS, thermodynamic software
+- Industry Collaborations: Steel companies
+- Innovation Keywords: steelmaking, inclusion engineering, thermodynamics, pyrometallurgy, clean steel
+- Profile: https://www.iitb.ac.in/mems/en/prof-deepoo-kumar
+
+## Dipti Gupta
+- Department: MEMS
+- Designation: Associate Professor
+- Email: diptig@iitb.ac.in
+- Research Group: Flexible Electronics Lab
+- Primary Research Area: Flexible Electronics, Biosensors & OLEDs
+- Research Interests & Innovation Focus: Flexible/plastic electronics based on organic semiconductors, metal oxides and graphene, OLEDs, biosensors, wearable devices, printed electronics
+- Notable Projects: Organic thin-film transistors, flexible OLED displays, graphene-based biosensors
+- Key Tools & Platforms: Spin coater, thermal evaporator, probe station, UV-Vis, AFM
+- Industry Collaborations: Display and electronics industries
+- Innovation Keywords: flexible electronics, OLEDs, biosensors, organic semiconductors, graphene, wearable
+- Profile: https://www.iitb.ac.in/mems/en/prof-dipti-gupta-0
+
+## Durga A.
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: a.durga@iitb.ac.in
+- Research Group: ICME & Microstructure Simulation Lab
+- Primary Research Area: Microstructural Simulation & ICME
+- Research Interests & Innovation Focus: Computational thermodynamics (CALPHAD), additive manufacturing microstructure modelling, phase transformations, integrated computational materials engineering
+- Notable Projects: ICME framework for additive manufacturing, CALPHAD-based phase diagram computation
+- Key Tools & Platforms: Thermo-Calc, DICTRA, MATLAB, COMSOL, Python
+- Innovation Keywords: ICME, CALPHAD, additive manufacturing, phase transformations, microstructure simulation
+- Profile: https://www.iitb.ac.in/mems/en/prof-durga
+
+## Indradev Samajdar
+- Department: MEMS
+- Designation: Professor
+- Email: indra@iitb.ac.in
+- Research Group: Texture & Microstructural Engineering Lab
+- Primary Research Area: Crystallographic Texture & Microstructural Engineering
+- Research Interests & Innovation Focus: Crystallographic texture development, microstructural engineering, thermomechanical processing of metals, EBSD-based orientation analysis, recrystallization studies
+- Notable Projects: Texture evolution during rolling and annealing, EBSD mapping of grain boundaries
+- Key Tools & Platforms: EBSD, XRD pole figure, SEM, optical microscopy
+- Industry Collaborations: Steel and aluminium industries
+- Innovation Keywords: texture, microstructure, EBSD, thermomechanical processing, recrystallization
+- Profile: https://www.iitb.ac.in/mems/en/prof-indradev-s-samajdar
+
+## Jayasree Biswas
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: biswasj@iitb.ac.in
+- Research Group: Green Metal Processing Lab
+- Primary Research Area: Metal Recycling & Thermodynamics of Slags
+- Research Interests & Innovation Focus: Metal recycling from secondary sources (e-waste, batteries, waste solar cells), green metal processing, thermodynamics of slags, circular economy in metallurgy
+- Notable Projects: E-waste metal recovery, waste solar cell recycling, slag-based metal extraction
+- Key Tools & Platforms: Induction furnace, ICP-OES, XRF, SEM-EDS, thermodynamic software
+- Industry Collaborations: Recycling and waste management industries
+- Innovation Keywords: metal recycling, e-waste, slag thermodynamics, green processing, circular economy
+- Profile: https://www.mems.iitb.ac.in/jayasreebiswas/
+
+## K. Narasimhan
+- Department: MEMS
+- Designation: Professor
+- Email: nara@iitb.ac.in
+- Research Group: Sheet Metal Forming Lab
+- Primary Research Area: Sheet Metal Forming & Superplasticity
+- Research Interests & Innovation Focus: Sheet metal forming, superplasticity, formability studies, forming limit diagrams, simulation of metal forming processes, warm forming
+- Notable Projects: Forming limit diagram generation, superplastic forming studies
+- Key Tools & Platforms: Hydraulic press, Erichsen cupping test, ABAQUS, AutoForm, UTM
+- Industry Collaborations: Automotive and aerospace sheet metal industries
+- Innovation Keywords: sheet metal forming, superplasticity, formability, FLD, metal forming simulation
+- Profile: https://www.iitb.ac.in/mems/en/prof-k-narasimhan
+
+## Karthikeyan Hariharan
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: karthik.hariharan@iitb.ac.in
+- Research Group: High-Temperature Corrosion Lab
+- Primary Research Area: High-Temperature Corrosion, Fatigue & Fracture
+- Research Interests & Innovation Focus: Localised corrosion of Ni and Fe-based alloys, microstructural aspects of corrosion, high-temperature oxidation behaviour, fatigue and fracture mechanics
+- Notable Projects: High-temperature oxidation of superalloys, corrosion-fatigue interaction studies
+- Key Tools & Platforms: Potentiostat, high-temperature furnaces, SEM, EBSD, UTM
+- Industry Collaborations: Aerospace and power generation industries
+- Innovation Keywords: high-temperature corrosion, fatigue, fracture, superalloys, oxidation
+- Profile: https://www.iitb.ac.in/mems/en/prof-karthikeyan-hariharan
+
+## M.J.N.V. Prasad
+- Department: MEMS
+- Designation: Associate Professor
+- Email: mjnvprasad@iitb.ac.in
+- Research Group: Advanced Alloys & Coatings Lab
+- Primary Research Area: Mechanical Properties & Thin Film Coatings
+- Research Interests & Innovation Focus: Mechanical behaviour including indentation, fatigue, creep and superplasticity, thermo-mechanical processing, protective coatings and oxidation behaviour, alloy development
+- Notable Projects: High-entropy alloy development, protective coating evaluation
+- Key Tools & Platforms: Nanoindenter, creep testing, UTM, SEM, XRD
+- Industry Collaborations: Aerospace and defence industries
+- Awards: Jindal Stainless Chair Professor
+- Innovation Keywords: mechanical properties, coatings, alloy development, nanoindentation, creep, HEA
+- Profile: https://www.iitb.ac.in/mems/en/prof-mjnv-prasad
+
+## M.P. Gururajan
+- Department: MEMS
+- Designation: Professor
+- Email: guru.mp@iitb.ac.in
+- Research Group: Computational Materials Lab
+- Primary Research Area: Phase Field Modelling & Microstructure Evolution
+- Research Interests & Innovation Focus: Phase field modelling of microstructural evolution, solidification, phase transformations, computational thermodynamics, dendritic growth, spinodal decomposition
+- Notable Projects: Phase field simulation of solidification and precipitation, dendritic growth modelling
+- Key Tools & Platforms: Custom phase-field codes, MATLAB, Python, HPC clusters
+- Innovation Keywords: phase field, microstructure evolution, solidification, computational thermodynamics
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Mithun Chowdhury
+- Department: MEMS
+- Designation: Associate Professor
+- Email: mithunc@iitb.ac.in
+- Research Group: Polymer Physics & Dynamics Lab
+- Primary Research Area: Soft Matter Physics & Polymer Dynamics
+- Research Interests & Innovation Focus: Polymer chain dynamics, viscoelasticity, thin polymer film properties, dewetting, confinement effects on polymers, soft matter rheology
+- Notable Projects: Thin polymer film stability studies, polymer dynamics at interfaces
+- Key Tools & Platforms: Rheometer, AFM, ellipsometer, optical microscopy, DSC
+- Innovation Keywords: soft matter, polymer dynamics, thin films, viscoelasticity, dewetting
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## N.K. Khosla
+- Department: MEMS
+- Designation: Professor
+- Email: n.khosla@iitb.ac.in
+- Research Group: Mineral Processing Lab
+- Primary Research Area: Mineral Processing & Surface Chemistry
+- Research Interests & Innovation Focus: Surface chemistry of minerals, flotation, beneficiation processes, surface modification, adsorption mechanisms, ore processing optimization
+- Notable Projects: Flotation optimization for Indian ores, mineral surface characterization
+- Key Tools & Platforms: Flotation cells, zeta potential analyzer, contact angle goniometer, XRF
+- Industry Collaborations: Mining companies
+- Innovation Keywords: mineral processing, flotation, surface chemistry, beneficiation, ore processing
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Nagamani Jaya B.
+- Department: MEMS
+- Designation: Associate Professor
+- Email: nagamani@iitb.ac.in
+- Research Group: Nanomechanics & In-situ Microscopy Lab
+- Primary Research Area: Nanomechanics & In-situ Microscopy
+- Research Interests & Innovation Focus: Nanoindentation, in-situ electron microscopy mechanical testing, micro-pillar compression, fracture at small scales, mechanical properties of thin films and coatings
+- Notable Projects: In-situ SEM/TEM micropillar compression, nanoscale fracture studies
+- Key Tools & Platforms: Nanoindenter, FIB, SEM with in-situ stage, TEM
+- Industry Collaborations: Semiconductor and coatings industries
+- Innovation Keywords: nanomechanics, nanoindentation, in-situ testing, micropillar, thin film mechanics
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Nithyanand Prabhu
+- Department: MEMS
+- Designation: Professor
+- Email: nprabhu@iitb.ac.in
+- Research Group: Welding Metallurgy Lab
+- Primary Research Area: Welding Metallurgy & Phase Transformations
+- Research Interests & Innovation Focus: Fusion zone and HAZ microstructure evolution, weldability assessment, hot cracking, residual stress analysis, phase transformations during welding
+- Notable Projects: Welding of advanced alloys, HAZ property optimization
+- Key Tools & Platforms: Welding equipment, optical microscopy, hardness tester, SEM, EBSD
+- Industry Collaborations: Heavy engineering and shipbuilding industries
+- Innovation Keywords: welding metallurgy, phase transformations, HAZ, weldability, residual stress
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Parag Bhargava
+- Department: MEMS
+- Designation: Professor
+- Email: pbhargava@iitb.ac.in
+- Research Group: Ceramic Processing & Solar Energy Lab
+- Primary Research Area: Ceramic Processing & Solar Photovoltaics
+- Research Interests & Innovation Focus: Ceramic powder synthesis and sintering, sol-gel processing, solar cell fabrication, concentrated solar power, gel-casting, ceramic coatings
+- Notable Projects: Solar thermal energy systems, advanced ceramic processing for energy applications
+- Key Tools & Platforms: Sintering furnaces, solar simulator, XRD, SEM, particle size analyzer
+- Industry Collaborations: Solar energy and ceramics industries
+- Innovation Keywords: ceramic processing, solar photovoltaics, sintering, sol-gel, concentrated solar
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Prasanna Kumar Mural
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: prasannamural@iitb.ac.in
+- Research Group: Polymer Membranes & Nanocomposites Lab
+- Primary Research Area: Polymer Membranes & Nanocomposites
+- Research Interests & Innovation Focus: Polymer membrane fabrication for separation, nanocomposite processing, filler-matrix interactions, gas and liquid separation membranes, barrier properties
+- Notable Projects: Polymer membrane development for gas separation, nanocomposite films
+- Key Tools & Platforms: Membrane testing rig, DSC, TGA, SEM, UTM
+- Innovation Keywords: polymer membranes, nanocomposites, gas separation, barrier properties, films
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Prasanna T.R.S.
+- Department: MEMS
+- Designation: Professor
+- Email: prasanna@iitb.ac.in
+- Research Group: Magnetic Materials Lab
+- Primary Research Area: Magnetic Materials & Phase Transformations
+- Research Interests & Innovation Focus: Soft and hard magnetic materials, phase transformations and magnetic property evolution, magnetization behaviour, microstructure-magnetic property relationships
+- Notable Projects: Magnetic material characterization, phase transformation effect on magnetism
+- Key Tools & Platforms: VSM, DSC, XRD, Mössbauer spectroscopy, optical microscopy
+- Innovation Keywords: magnetic materials, phase transformations, magnetization, soft magnets, Mossbauer
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Prita Pant
+- Department: MEMS
+- Designation: Associate Professor
+- Email: pritapant@iitb.ac.in
+- Research Group: Mechanics & Microstructure Lab
+- Primary Research Area: Nanoindentation, Plasticity & Texture
+- Research Interests & Innovation Focus: Nanoindentation, plastic deformation mechanisms, crystallographic texture, mechanical anisotropy, nanoscale mechanical behaviour, strain hardening
+- Notable Projects: Nanoindentation mapping of multiphase materials, texture-property correlations
+- Key Tools & Platforms: Nanoindenter, XRD, EBSD, SEM, MATLAB
+- Innovation Keywords: nanoindentation, plasticity, texture, mechanical anisotropy, strain hardening
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Rajiv O. Dusane
+- Department: MEMS
+- Designation: Professor
+- Email: rodusane@iitb.ac.in
+- Research Group: Thin Film & PECVD Lab
+- Primary Research Area: Thin Film Solar Cells & PECVD
+- Research Interests & Innovation Focus: Plasma-enhanced chemical vapor deposition, thin film silicon solar cells, a-Si:H and μc-Si:H films, interface engineering, optical optimization of solar devices
+- Notable Projects: Thin film silicon solar cell fabrication via PECVD, amorphous silicon optimization
+- Key Tools & Platforms: PECVD reactor, solar simulator, spectrophotometer, SEM, Raman
+- Industry Collaborations: Photovoltaic companies
+- Innovation Keywords: thin film, PECVD, solar cells, amorphous silicon, photovoltaics
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Sandeep Mishra
+- Department: MEMS
+- Designation: Professor
+- Email: smishra@iitb.ac.in
+- Research Group: Physical Metallurgy Lab
+- Primary Research Area: Physical Metallurgy & Mechanical Behavior
+- Research Interests & Innovation Focus: Microstructural design, deformation behavior, alloy development, precipitation hardening, work hardening, high-temperature mechanical properties
+- Notable Projects: Alloy design for high-temperature applications, deformation mechanism studies
+- Key Tools & Platforms: UTM, creep tester, hardness tester, optical microscopy, SEM
+- Industry Collaborations: Aerospace and automotive industries
+- Innovation Keywords: physical metallurgy, mechanical behavior, alloy design, precipitation, deformation
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Shobha Shukla
+- Department: MEMS
+- Designation: Professor
+- Email: sshukla@iitb.ac.in
+- Research Group: Nanophotonics & Biosensors Lab
+- Primary Research Area: Nanophotonics & Wearable Biosensors
+- Research Interests & Innovation Focus: Plasmonic nanostructures, nanophotonic devices, wearable biosensors, SERS-based detection, flexible substrates, point-of-care diagnostics
+- Notable Projects: Plasmonic biosensor development, wearable health monitoring devices
+- Key Tools & Platforms: Raman spectrometer, nanofabrication tools, spin coater, SEM, UV-Vis
+- Industry Collaborations: Biomedical device and diagnostics companies
+- Innovation Keywords: nanophotonics, biosensors, plasmonics, SERS, wearable, point-of-care
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Smrutiranjan Parida
+- Department: MEMS
+- Designation: Associate Professor
+- Email: paridasm@iitb.ac.in
+- Research Group: Surface Engineering & Corrosion Lab
+- Primary Research Area: Surface Engineering, Coatings & Corrosion
+- Research Interests & Innovation Focus: Protective coating development, dealloying and nanoporous metals, electrodeposition, corrosion mitigation, surface functionalization
+- Notable Projects: Nanoporous metal fabrication via dealloying, anti-corrosion coating development
+- Key Tools & Platforms: Potentiostat, salt spray chamber, SEM, XPS, EDS
+- Industry Collaborations: Coating and corrosion prevention industries
+- Innovation Keywords: surface engineering, coatings, corrosion, dealloying, nanoporous metals
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Somnath Basu
+- Department: MEMS
+- Designation: Professor
+- Email: somnathbasu@iitb.ac.in
+- Research Group: Extractive Metallurgy Lab
+- Primary Research Area: Iron & Steelmaking, Thermodynamics
+- Research Interests & Innovation Focus: Steelmaking process optimization, thermodynamic modelling, slag chemistry, secondary refining, inclusion engineering, process control in BOF and EAF
+- Notable Projects: Steelmaking thermodynamic simulation, slag optimization for clean steel
+- Key Tools & Platforms: Induction furnace, FactSage, SEM-EDS, gas analysis equipment
+- Industry Collaborations: Steel plants (Tata Steel, JSW)
+- Innovation Keywords: steelmaking, thermodynamics, slag chemistry, BOF, EAF, refining
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Sudhanshu Mallik
+- Department: MEMS
+- Designation: Associate Professor
+- Email: smallick@iitb.ac.in
+- Research Group: Advanced Ceramics Lab
+- Primary Research Area: Advanced Ceramics & Thin Film Materials
+- Research Interests & Innovation Focus: Ceramic material synthesis, thin film deposition, functional ceramics, microwave processing, dielectric materials, multilayer ceramic capacitors
+- Notable Projects: Advanced ceramic capacitor development, microwave sintering optimization
+- Key Tools & Platforms: Sintering furnaces, XRD, SEM-EDS, impedance analyzer, thin film deposition
+- Industry Collaborations: Electronics ceramics manufacturers
+- Innovation Keywords: advanced ceramics, thin films, dielectrics, microwave processing, MLCC
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Sumit Saxena
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: sumit.saxena@iitb.ac.in
+- Research Group: Computational 2D Materials Lab
+- Primary Research Area: Computational Materials & 2D Materials
+- Research Interests & Innovation Focus: DFT calculations, 2D material properties, band structure engineering, electronic properties, computational screening, materials discovery, topological materials
+- Notable Projects: DFT-based screening of 2D materials, topological insulator studies
+- Key Tools & Platforms: VASP, Quantum ESPRESSO, Python, HPC, Wannier90
+- Innovation Keywords: 2D materials, DFT, band structure, computational screening, topological materials
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Tanushree Choudhury
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: tanuhc@iitb.ac.in
+- Research Group: 2D Materials Growth Lab
+- Primary Research Area: CVD Growth of 2D Materials & Defects
+- Research Interests & Innovation Focus: Chemical vapor deposition of graphene and TMDs, defect engineering, growth mechanism studies, crystal quality control, layer number control, heterostructure fabrication
+- Notable Projects: CVD graphene growth optimization, TMD heterostructure fabrication
+- Key Tools & Platforms: CVD furnace, Raman spectroscopy, AFM, TEM, optical microscopy
+- Innovation Keywords: CVD, 2D materials, graphene, TMDs, defect engineering, heterostructures
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Tarun Muneshwar
+- Department: MEMS
+- Designation: Assistant Professor
+- Email: tmuneshwar@iitb.ac.in
+- Research Group: Plasma Processing Lab
+- Primary Research Area: Plasma Processing & Thin Film Devices
+- Research Interests & Innovation Focus: Plasma physics, non-thermal plasma processing, ALD, thin film device fabrication, plasma diagnostics, plasma-surface interactions
+- Notable Projects: ALD process development, plasma-enhanced thin film deposition
+- Key Tools & Platforms: ALD reactor, plasma sources, OES, ellipsometer, SEM
+- Industry Collaborations: Semiconductor manufacturers
+- Innovation Keywords: plasma processing, ALD, thin films, plasma diagnostics, semiconductor
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Titas Dasgupta
+- Department: MEMS
+- Designation: Associate Professor
+- Email: titas.dasgupta@iitb.ac.in
+- Research Group: Thermoelectrics Lab
+- Primary Research Area: Thermoelectrics, DFT & Materials Design
+- Research Interests & Innovation Focus: Thermoelectric material design, Seebeck coefficient optimization, thermal conductivity reduction, band structure engineering, ab-initio calculations, TE device fabrication
+- Notable Projects: Thermoelectric material development for waste heat recovery
+- Key Tools & Platforms: VASP, Seebeck measurement system, thermal conductivity tester, XRD, SEM
+- Industry Collaborations: Energy harvesting companies
+- Innovation Keywords: thermoelectrics, DFT, materials design, Seebeck, waste heat recovery
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## V.S. Raja
+- Department: MEMS
+- Designation: Professor
+- Email: vsraja@iitb.ac.in
+- Research Group: Corrosion Science & Engineering Lab
+- Primary Research Area: Corrosion Science & Engineering
+- Research Interests & Innovation Focus: Electrochemical corrosion, stress corrosion cracking, pitting, hydrogen embrittlement, high-temperature oxidation, corrosion of advanced alloys
+- Notable Projects: SCC studies of pipeline steels, hydrogen embrittlement research
+- Key Tools & Platforms: Potentiostat, SSRT machine, autoclave, SEM, EDS, XPS
+- Industry Collaborations: Oil & gas, chemical, and power industries
+- Innovation Keywords: corrosion science, SCC, pitting, hydrogen embrittlement, high-temperature oxidation
+- Profile: https://www.iitb.ac.in/mems/en/faculty
+
+## Viswanathan N. Nurni
+- Department: MEMS
+- Designation: Professor
+- Email: vichu@iitb.ac.in
+- Research Group: Ferrous Metallurgy & Process Modelling Lab
+- Primary Research Area: Ferrous Metallurgy & Process Modelling
+- Research Interests & Innovation Focus: Iron ore processing, blast furnace modelling, reduction kinetics, slag chemistry, computational modelling of ironmaking processes, direct reduction
+- Notable Projects: Blast furnace simulation, iron ore reduction kinetics studies
+- Key Tools & Platforms: CFD software, FactSage, thermodynamic modelling tools, SEM
+- Industry Collaborations: Iron and steel plants
+- Innovation Keywords: ferrous metallurgy, blast furnace, process modelling, iron ore, reduction kinetics
+- Profile: https://www.iitb.ac.in/mems/en/faculty

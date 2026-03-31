@@ -1,0 +1,288 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Technology Alternatives for Rural Areas - Course Catalog for IIT Bombay Students
+
+
+## TD 390: Supervised Learning - Study
+- Credits: 6
+- Type: Theory
+
+## TD 601: Development Theory & Policy: Indian Context
+- Credits: 6
+- Type: Theory
+- Description: Economic Growth and Development:  Concepts of growth, Economic development and sustainable development, Role of State and markets, Alternative strategies of development Models of Economic Development:  Role of physical and human capital and technology, Harrod-Domer model, Endogenous growth models, Mahalanobis model & growth with redistribution strategy followed in India, etc. Planning Strategies and Techniques:  Input-output models, Linear programming techniques, Macroeconomic modeling, etc. Planning in India:  Environmental issues, Human resource development, Empirical data on growth, poverty, inflation, Balance of payments, Conduct of monetary, fiscal and external sector policies, Role of public and private enterprises Sectoral Policies:  Agricultural, industrial and service sectors, Soc...
+
+## TD 602: Soil, Land Use, GIS and Agriculture
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Soil geography, soil data interpretation & land resources evaluation,  Agriculture and Forest Resources Inventory; agricultural land use pattern, land degradation; watershed-based rural land use planning Remote Sensing and GIS: practical/ exercise on land resources inventory from multi-source data and GIS Agriculture sector: Crop-Agriculture, Farm crops for non-food (energy and chemicals), Food Chains, Input-Output Analysis in subsistence and cash crops, Systems analysis in agricultural management case study, economics and extension methods Agricultural Resources and Techniques: Water management in agriculture and irrigation technologies, Pre and Post harvest techniques in horticulture, Dairy Production and management, Concepts in plant pathology and entomology, Agricultural machines Field...
+
+## TD 603: Water Resources Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Principles of Watershed Management:  Basic concepts, Hydrology and water availability, Surface water, Groundwater, Conjunctive use, Human influences in the water-resources system, Water demand, Integrated water resources system - River basins.  Watershed management practices in arid and semi-arid regions, Watershed management through wells, Management of water supply - Case studies, short term and long term strategic planning Conservation of Water:  Perspectives on recycle and reuse, Waste water reclamation Social Aspects of Watershed Management:  Community participation, Private sector participation, Institutional issues, Socio-economy, Integrated development, Water legislation and implementation, Case studies Sustainable Watershed Approach:  Sustainable integrated watershed management, N...
+
+## TD 604: Social Science Research Methods and Systems Dynamics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Component 1 ) Research Methodology Introduction to Research Methodology: (Introduction and explanation to different concepts and elements in Research Design) Introduction to Philosophical Perspectives (Ontology, Epistemology, Post-Positivism, Constructionism, Interpretivism, Critical Rationalism) Types of Research (Qualitative, Quantitative, Mixed Methods, Exploratory, Descriptive, Explanatory) Introduction to Research Strategies (Survey, Experimentation, Ethnography, Case Study Research, Phenomenology, Grounded Theory) Component 2) Research Design Key Features and Basic Procedures in Designing Research Developing Main/Specific/ Detailed Research Questions Designing Research for Different Research Strategies Developing a Research Design Matrix  Component 3) Introduction to Quantitative Res...
+
+## TD 605: Appropriate Technology
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Perspectives:  Knowledge and action, Scientific method, Ethical problems, Societal goals, Changes in societal forms, Development, World-National-Sate level statistics on inequality, unemployment, migration and pollution Technology and Development:  Definitions of technology, Systemic views of Technology-Society relationships, Development paradigms, Social and commercial mechanisms for linking technology to developmental needs, Alternative frameworks for conscious linking Choice of Technology:  Intermediate/ Appropriate Technology, Scanning spectrum of technology alternatives, Analytical hierarchy process (AHP) for ranking alternatives, Influence of development perspectives on rankings Case Studies:  Illustration of Technology Innovation-chain through conception-generation-transfer-use stag...
+
+## TD 607: Energy Sources and their Utilization
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Energy Scenarios and Needs:  Indian, Rural Local Energy Sources and Technologies:  Conventional – Electric motors, I C Engines.  Renewable – Wind machines, Solar thermal and Hydro machines, Photo Voltaics, Bio Energy and Animal Power Energy Audits:  Local energy flows and energy balances Local Energy Planning:  Matching local energy sources with local needs – Approach and Methodology Energy Management:  Economics of energy and Government schemes Field trip
+
+## TD 608: Project Management and Project Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Overview of Project Management:  Introduction, Project Management Process, Role of Project Manager, Critical Success Factors in Project Implementation Project Feasibility Analysis:  Techno Economic Analysis Project Planning and Scheduling:  Planning Process, Establishing Organisation, Work Definitions (WBS, LRC), Planning Tools (Bar Charts, LOB, CPM and PERT), Developing Project Plan, Resource Leveling and Resource Allocation Project Monitoring, Control, Analysis and Appraisal:  Financial Analysis, Social Cost-Benefit Analysis, Time Cost Trade-off (PERT/ Cost Computation), Project Progress and performance Control, Project Schedule and Cost Control, Project Appraisal
+
+## TD 609: Field Work
+- Credits: 22
+- Type: Project
+- Prerequisite: 0
+- Description: In this course, students will be required to undertake approximately 10-week stay in a rural region.  They will be located either with a local NGO or a local Govt office.  The students will be required o make social observations and keep records in a diary.  The objective is to familiarize with a rural setting as planners for a region or a public utility project.  The students will make observations on resource-technology-need linkages (forward and backward) and learn to incorporate them in an in-house system dynamics model to assess impacts of different technological interventions on future sustainability of regions.  They will be required to defend the best-practise scenario generated by them using the model.
+
+## TD 610: Contemporary Critical Issues in Technology and Development
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: The course will expose the students to the frontier issues in various fields and sectors related to technology and development interface. This course will build on the core courses focused on perspectives and sectors. Students will be able to understand and critically analyze different positions and policy formulations put forth from different perspectives. The course will draw heavily from resource persons who would be researchers and practitioners working on these issues. The Contemporary Critical Issues that will be covered in the course will include: Clean Development Mechanisms and Climate Change PoliciesMillennium Development Goals of UNWTO Agreements and IPRsCorporate Social ResponsibilityGlobal Water Scarcity An effort will be made to include other similar issues in future.
+
+## TD 611: Agro-based Industries: Design and Case Studies
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Role of agro-industries in regional development:  Back-ward & forward linkages.  Linking needs, markets and price-cost economics for both consumer (end-user) and farmer.  Inputs productivities / resource characterization, product quality evaluation and measurements, choice/availability of technology and economics. Unit operations in Agro-processing:  Post harvest techniques such as drying, concentration, separation, storage preservation and packaging.  Adoption of new and appropriate methods in food/bio-process engineering, waste beneficiation.  Sensors and measurement techniques in agro-industries. Wet Processing:  Processing of raw materials through Enzymes; Fermentative processes and food formulations. Case studies elaborating design methodology in enterprise development based on value ...
+
+## TD 613: Ecology and Environment
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Basic Concepts in Ecology:  Basic concepts in ecology and ecosystems, Elemental cycles, Water cycle, Energy flows, Population dynamics, Carrying capacity, Ecological footprint History of Technology Development:  Use of natural resources and its impacts, Effects of modern technology History of Environmental Issues:  History of environmental problems, Local, regional & global issues, Pollution and its control, Environmental regulation and innovation Environmental Management:  Environmental Impact Assessment (EIA), Environmental audits, Industrial ecology, Pollution prevention, Green design, Eco-friendly lifestyle Resource Economics and Environmental Policy:  Public goods and externality, Market approaches (taxes, command and control), Analytical tools (CBA, LCA), Precautionary principle, Dis...
+
+## TD 614: Rural Electrification and the Power Sector in India
+- Credits: 3
+- Type: Theory
+- Description: Status of rural electrification, history, government programmes; Cost of rural electrification and its effect on development and income generation ability; Quality of supply and effect of poor quality on pump/motor owners; Role of the distribution utility: Audit mechanisms, load shedding, supply standards, organization at the block level;  Organizational structure and policy in the power sector: Electricity Act, Regulatory Commissions, Subsidies, Tariffs; Overview of Generation, Transmission; Comparison of various generation fuels through costs, availability and competing uses; Role of renewable energy in rural electrification: policy, government programmes, current usage;  Load profile, load growth, load factor, and demand supply matching, in the context of distributed generation; Energy ...
+
+## TD 615: Rural Enterprises
+- Credits: 3
+- Type: Theory
+- Description: Overview of rural enterprises in India covering cultural, local, technical, and socio-economic aspects.  Characteristics of rural enterprise, motivation to start, type and nature of activities, size of enterprise, technology usage and process, resource availability and utilization, operation issues like layout, space utilization, process flow, maintenance and safety aspects, labor drudgery. Basics of marketing, costing and profitability.  Criteria for assessment of rural enterprise through study of input output ratio, local employment generation, impact on rural socio-economic situation.   Competing with organized sectors. Comparison of rural and non-rural enterprises.  Understanding of cottage industry, Khadi Village Industry Commission (KVIC), SHG (Self Help Group), rural bank schemes  A...
+
+## TD 616: Environmental Systems Assessing and Monitoring
+- Credits: 6
+- Type: Theory
+- Description: Importance of Environmental systems Understanding the natural transport and transformational processes and the interactive human activities while discussing concepts including: openness of systems, integration of systems, complexities of systems. Systems Thinking Defining systems, Structure of systems, Carrying capacity of systems, Resource and its Exploitation, Resource Conservation / Management, Conflicts over Resources, Production systems and its linkages with natural systems Monitoring of Environmental Systems Physical Component of the systems, Biotic component of the systems, Social component of the systems, Change/Impact causal factors. Techniques involved in sample identification, sampling, sample handling & preservation, sample preparation, sample analysis / detection, data analysi...
+
+## TD 617: Healthtech Innovation and Design
+- Credits: 6
+- Type: Theory
+- Description: The basic components of the course are as follows: 1. Lectures will introduce the healthcare scenario in India with focus on the disease status, government policies, both at a national level, as well as specifically in the rural sector. It will also cover the fundamentals of need analysis, innovation, technology, design, development and deployment of med-tech devices. Marketability aspects will be introduced through case studies. 2. Tutorials: The tutorials will supplement the lecture series. In groups of 3 or 4, the students will practice need assessment techniques and define problem statements relevant to the med-tech industry. Students will be exposed to PHCs and community health departments and their ongoing preventive and therapeutic healthcare efforts. In further sessions, students w...
+
+## TD 619: Energy Policy and Planning
+- Credits: 6
+- Type: Theory
+- Description: 1.Introduction:  Course outline, brief history of energy sector, energy-development-environment nexus, need for policy and planning 2.Energy Overview:  Resources, technologies, conventional Vs renewables, end-uses, trends-status-projections, energy economics - economic indicators, investment decisions, market fluctuations, subsidies, substitution/ elasticity 3.Elements in Policy:  Energy poverty, energy independence, energy security, policy making, monitoring and assessments of policies; linkages with other policies (external affairs, transportation, agriculture, etc.); role of the State and private sector participation; Debates/perspetives (food Vs fuel, survival Vs sustainability, climate and ecology) 4.Policies and Programmes:   a.Electricity Act 2003, National Energy Policy 2005, Natio...
+
+## TD 620: Micro, Small and Medium Enterprises in Rural Areas
+- Credits: 6
+- Type: Theory
+- Description:  Overview of rural enterprises in India covering cultural, local, technical, and socioeconomic aspects  Government perspective for Rural Enterprises though study of MSME (Micro Small Medium Enterprises), DIC (District Industrial Centers), Khadi Village Industry Commission (KVIC) etc.  Criteria for assessment of rural enterprise through study of input output ratio, local employment generation, impact on rural socio-economic situation  Characteristics of rural enterprise, motivation to start, type and nature of activities, size of enterprise,  Use of framework for detail assessment of rural enterprises for technology usage, resource availability and utilization, operational issues like layout, process flow, maintenance and safety aspects, labor drudgery etc  Use framework for evaluatio...
+
+## TD 621: Food Processing and Nutrition Delivery
+- Credits: 6
+- Type: Theory
+- Description: 1) Energy value of foods, physiological fuel value, and estimation of energy value from proximate composition.  Metabolic rate and calorie needs, Nutrition profiling 2) Requirements and role of carbohydrates (including dietary fibres), proteins, lipids, vitamins and minerals (macro- and micro) in human health and RDA-s 3) Various unit operations such as Drying, Thermal Processing, Extraction etc. 4) Techniques of diet and health surveys, Formulation of diets and foods for special needs. Anti-nutritional factors in plant foods 5)Nutritional labelling, Nutraceuticals and functional foods 6) Metabolism Pathways - Introduction and Health connections 7) Effect of processing, preservation, shelf-life and storage on nutritional quality of foods, Sensory Evaluation.  8) Malnutrition and Government...
+
+## TD 622: Food Processing : Technology and Policy Perspective
+- Credits: 6
+- Type: Theory
+- Description: This course has been divided into 4 sections- In the first part of the course, we will be discussing issues in the  agricultural and food systems of the developed and developing countries  (emphasis will be on economic, social, traditional, ethical and  environmental contexts), importance of food processing, development  trends of food processing in India (rural and urban context),  appropriate technologies for sustainable food security. In second part, We will use a systems analysis approach to make  connections between the chemical and physical changes that occur in food  systems and their impact on food quality. "Smart foods" and "Functional  foods" will be covered which stay on three pillars namely - food  chemistry, food microbiology and food process engineering. Specifically,  we wil...
+
+## TD 623: Rural Electrification and Development in India
+- Credits: 6
+- Type: Theory
+- Description: Electricity and Rural Development  Role of electricity in development  Status of rural electrification, history, government programs Organization, Policy and Governance  Organizational structure and policy in the power sector: Electricity Act, Role of Commissions, Tariff setting principles and process;  Role of the rural distribution utility: Audit mechanisms, load shedding, supply standards, organization at the block level;  Agricultural electricity supply - subsidies and resultant issues; effect on farmers, utility and society; Models of electricity distribution  Case studies of interventions in rural electrification from around the world: e.g. Prepaid meters in South Africa, Rural electrification cooperatives in Nepal;  Distributed generation and off-grid electricity supply: Poli...
+
+## TD 624: Advanced Themes in Public Policy
+- Credits: 6
+- Type: Theory
+- Description: Agenda Setting and Policy Formulation:  Policy Tools and Instruments Role of Actors and Institutions in Policy Processes  Policy Implementation and Street Level Bureaucrats Last Mile Policy and Institutional Issues Behavioral Aspects of Policy and Policy Compliance  Governance Theory and Practice  Principles and Theories of Regulatory Governance:
+
+## TD 625: Development Monitoring & Evaluation
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Monitoring and Evaluation ◦ Importance of Monitoring and Evaluation in development programs, basics of Monitoring and Evaluation, including history and definitions ◦ Linkages with Log-frame, stakeholder analysis (link with learnings from TD 608) ◦ Role of UNEG in monitoring and evaluation ◦ Role of international, multilateral agencies and government setup in India for evaluations ◦ History of MDGs and SDGs, understanding all SDGs and their indicators,Evaluation theories, types of evaluations, methods in evaluation ◦ Results based management using theory of change, rubrics of evaluation ◦ Creating evaluation plan for a development project ◦ Process evaluation, impact evaluation and cost-effective analysis ◦ Sampling, measurement, data collection, data management and analysis...
+
+## TD 626: Technology, Society and Development
+- Credits: 6
+- Type: Theory
+- Description: I) Technology, society and the environment Understanding the Anthropocene At the tri- junction of fragility and vulnerability  II) Science and Technology Studies (STS) The Social Construction of Technology (SCOT) The importance of the user Studying controversies in S&T  Understanding Infrastructures  III) Science, technolgy, innovation and development Understanding Innovation The Jugaad discourse    IV) Science & Technology in India The formal S&T establishment in India The Science, Technology and Innovation discourse in the Indian context Technology forecasting and visioning All the President-s words: The writings of scientist-president APJ Abdul Kalam   V) Challenging mainstream S&T, new ways of creating knowledge Public movements in India related to S&T  Knowledge Swaraj - An example of...
+
+## TD 627: Field Research Methods
+- Credits: 4
+- Type: Theory
+- Description: What is Research? What is interdisciplinarity? Analysis of a Case StudyIntegrative Research Concepts: Disciplinarity, interdisciplinarity and trans-disciplinarity.Research Design of Field SurveyQualitative Methods- How to do interviews? Dos and DON302222Ts of interviewing. Practice sessions of interviewing and presentation of key interviews.Questionnaire Survey: Why? When? For what? Design of Survey, Design of Questionnaire, Sampling, Survey, Questionnaire design of chosen topic and presentation, Introduction to Census Data Village Society and DynamicsIntroduction to Administrative StructureWriting Field Notes and Diary Presentation of Field SurveyPRA 302226 Concept and Tools and two day field practicePRA Work and Presentations
+
+## TD 630: Public Policy: Theory and Practice
+- Credits: 6
+- Type: Theory
+- Description: A A. Public Policy Theory Relevant Concepts from Political Science  Fundamentals of Public Policy Models of Public Policy-Making Models of Rationality in Public Policy Decisions  Theories and Models of Public Policy Implementation  Models of Public Policy Evaluation  B. Public Policy in Practice Policy in Practice - a multilayer perspective Bureaucracy-s response to ground realities Citizen-s rights and perspective Specific Policy / Programmes as case Studies - MGNREGA, CSR, Gender among others
+
+## TD 633: Directed Research Project
+- Credits: 22
+- Type: Project
+- Description: The course will involve a research project conducted under the supervision of a faculty member (core or associate) of CTARA. The research under the project will rely either on primary data (with some secondary data) or purely on secondary data. This characteristic of the project will be determined by the combination of two main factors: (a) demands of the research questions posed and (b) practical constraints the student may be facing.
+
+## TD 638: Development Perspectives: Ideas, Approaches, and Theories
+- Credits: 6
+- Type: Theory
+- Description: 1. What is Development? 2. Colonial Legacy and Development 3. Brief Review of Classical Political Economy 4. Early Economistic Theories and Models: Conventional/ Mainstream and Critical Theories and Models  5. Late Economistic  Theories and Models: Neo-liberalism, Washington Consensus, New Institutional Economics 6. Development and Social Equity: Basic Needs Approach, Human Development, Capabilities Approach 7. Gender and Development 8. Post-Development and Cultural Turn in Development Thinking 9. Environmental Turn in Development Thinking: Sustainable Development and Its Critiques 10. Depoliticization and Development: (Increasing role for non-state actors, governance not government, Decentralization, Participation, and Micro-finance)  11. Development Thinking in the Indian Context: Gandhi...
+
+## TD 651: Technology in Practice
+- Credits: 3
+- Type: Theory
+- Description: In this course, each year, one technology (e.g. Brick making, Telephoney, Fishing, Dairying) will be discussed in historical and contemporary settings highlighting economic, cultural, political, scientific and technological determinants of change.  The course will draw upon outside consultants, historians, journalists and academics.
+
+## TD 652: Development in Practice
+- Credits: 3
+- Type: Theory
+- Description: In this course, each year, one developmental scenario will be discussed in historical and contemporary settings highlighting economic, cultural, political, scientific and technological determinants of change.  The course will draw upon outside consultants, sociologists, social scientists and academics.
+
+## TD 653: Biofuels: Technology and Policy Perspective
+- Credits: 6
+- Type: Theory
+- Description: Various types of biomass (e.g. starch crops, sugar crops, wood waste, forestry residues, agricultural residues, perennial annual crops, municipal solid waste and so on) for biofuels production ( long-term sustainability and reliability of feedstock supply; feedstock quality, review of centralized vs decentralized approaches); food vs fuel debate; review of current processes for biofuel production from biomass; biofuels research focus at international level (USA, Brazil, China, Europe); biorefinery concept; economic models: costing of current and future processes for biofuel production from biomass; evaluation of current and future R&D needs; government policies and programs with regard to biofuels; socio-economic impact; implications for sustainability at the rural level; challenges and wa...
+
+## TD 654: Rural Environmental  Services: Planning and Design
+- Credits: 6
+- Type: Theory
+- Description: Understanding     environment      and     development paradigms:   1.  Ecological services and  natural resources  - degradation and pollution 2.  Current water supply and sanitation scenario - global as well as Indian 3.  Need to plan for environmental  services 4.  Challenges  in the current development scenario for pro- vision  of environmental services.   Issues  of local body (Gram  Panchayats(GP) or GroupGP or Block (Taluka) level) Human Resource & Capacity, service and fi- nance+accounting model  Fundamentals of rural development  planning:   - Techno-spatio-socio-economic survey for preparing base- line for system-s  design.   Principles  of surveying.   Sur- veys related  to development sectors in the village/Gram Panchayat (relevant civil engineering  surveys  and  tools require...
+
+## TD 655: Hydro-Meteorological Hazards Risk Assessment
+- Credits: 3
+- Type: Theory
+- Description: Section 1: Background and Concepts  Basic concepts in hazard, vulnerability, and disaster risk  Types and classification of hazards  Purpose and benefits of hazard, vulnerability, and risk assessment Tutorials /Exercises:  Getting familiar with geospatial data, QGIS, Statistical tools, and visualizing data  Introduction to geospatial data analysis at the beginners level Section 2: Hazards and Vulnerability Assessment  Deterministic and probabilistic assessment of hydrometeorological hazards  Developing vulnerability indicators using rich picture exercise  Data requirements, the process for implementation, and outputs.  Assessment methods and tools: Hazard, exposure, and vulnerability assessment Tutorials /Exercises:  Developing indicators for the vulnerability to multiple hazards...
+
+## TD 691: Development Protocols
+- Credits: 6
+- Type: Theory
+- Description: A development protocol is a key step in the study, analysis and solution of a development problem.  It is a fixed sequence of steps and procedures and with an expected set of outcomes.  This course is aimed at exposing students to specific protocols in the water, energy, environment and agriculture sector using both policy analysis and field methods. The course will require students to carry out one of the protocols and practices already developed in CTARA and to report the outcomes. Examples of such protocols are:(i)Analysis of a piped water supply scheme: This protocol will analyze an existing water supply scheme. The aspects covered will be technical, socio-economic and institutional, such as demand and supply, source and strength of source, simulations of systems, study of pani-samiti ...
+
+## TD 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0
+
+## TD 695: I Stage Project
+- Credits: 18
+- Prerequisite: 0
+
+## TD 696: II Stage Project
+- Credits: 40
+- Prerequisite: 0
+
+## TD 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Critical Thinking2.Communication and Social Media3.Demonstration and Evaluation of Scientific Reports, Field Reports, Note Taking Techniques4.Technological Interventions and Development: Discussion and Debates 5.Reading Technical papers, Summary writing, Literature survey and Organization6.Report Writing and Formatting7.Ethics and Plagiarism: Case Studies8.Stakeholders Perspectives- Listening, Understanding  and Analyzing  multiple situations; Role Play9.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms During Interactions and Presentations10. Field Stay Experience Sharing by Senior Students 11.Evaluation of Presentations, Prioritization, Time Management, Short and Long Talks
+
+## TD 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## TDE601: Technology, Development and Environment
+- Credits: 6
+- Type: Theory
+- Description: PART 11 What is Development?2 Early and Late Economistic Theories and Models: Conventional/ Mainstream and Critical3 Development and Social Equity: Basic Needs Approach, Human Development, Capabilities Approach, Gender and Development4 Post-Development and Cultural Turn in Development Thinking5 Environmental Turn in Development Thinking: Sustainable Development and Its Critiques6 Recent Approaches and Frameworks: Introduction MDGs and SDGs7 Development Thinking in Indian Context: Gandhian Perspective, Caste and Development PART 21)Technology, society and the environment  Understanding the AnthropoceneAt the tri- junction of fragility and vulnerability2) Science and Technology Studies (STS)The Social Construction of Technology (SCOT)The importance of the userStudying controversies in S&T Un...
+
+## TDE602: Methods for Development Research
+- Credits: 6
+- Type: Theory
+- Description: A. Research Design and Methodology   Research: Some Basic Concepts, Terms, Purposes Fundamental Aspects of Research Methodology: Philosophical Perspectives, Types of Research Designs, Main Research Strategies: Experiment, Survey, Case Studies, Ethnography Literature Review: Concepts, Purposes, and Techniques Developing and Operationalizing Research Questions Developing the Basic Research Design B. Introduction to Qualitative Methods Key Aspects of Qualitative Research Methods for Qualitative Data Collection: Methods for Analysis of Qualitative DataC. Introduction to Quantitative Methods Key Aspects of Quantitative Research  Introduction to Descriptive Statistics
+
+## TDE603: Communication Skills for Development Practitioners
+- Credits: 6
+- Description: Context of communication: Recognizing our capability and roles as professionals;Scientific Method: Question and answer aspects of technical communication; Scientific Methodology and its relationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools;Listening and Note taking: 5-R method and mind-mapping;Technical writing: Report organization; Journal selection; Introduction, conclusion, and abstract writing.;Speaking & Presentation skills: Organization of presentation slides (number, content, and formatting); - Oral presentations: Audience/context dependent practices; nonverbal aspects: body language, eye-contact, personal appearance, facing large audience;Elevator pitch: Pitches for technical audience and poli...
+
+## TDE604: Public Policies for Development Practitioners
+- Credits: 6
+- Type: Theory
+- Description: A. Public Policy TheoryRelevant Concepts from Political Science Fundamentals of Public PolicyModels of Public Policy-MakingModels of Rationality in Public Policy Decisions Theories and Models of Public Policy Implementation Models of Public Policy Evaluation B. Public Policy in PracticePolicy in Practice  a multilayer perspectiveBureaucracys response to ground realitiesCitizens rights and perspectivePolicy making and the senior bureaucracyEvidence based policy  analyzing large scale government dataSpecific Policy / Programmes as case Studies  - Implementation history by practitioners
+
+## TDE605: Management and Evaluation of Development Project & Programs
+- Credits: 6
+- Type: Theory
+- Description: 1. Project, Programs, Missions: Defining, Management Cycle, Factors for Success2. Project Design: Objectives and Targets, Techno Economic Analysis3. Project Planning and Scheduling:4. Planning Tools (LFA, CPM and PERT)5. Resource Leveling and Resource Allocation & Risks Management6. Project Monitoring, Control, Analysis and Appraisal:  Linkages with Log-frame, Role of UNEO and DMEO in monitoring and evaluation 7. Evaluation theories, types of evaluations, methods in evaluation8. Process evaluation, impact evaluation and cost-effective analysis9. Sampling, measurement, data collection, data management and analysis methods for evaluation, Monitoring and Evaluation Ethics
+
+## TDE606: Analytical Skills for Development Professionals
+- Credits: 6
+- Type: Theory
+- Description: Techno-economic analysis of current / potential interventions and Government Resolutions, through the lenses of sustainability, social equity, financial viability, and government policy. The course will follow a case study approach and cover three different cases from three sectors. The interventions / sectors could cover, among others, electrification, drinking water, irrigation, agriculture, food processing, cooking energy / technologies etc. The tools, techniques and skills students will learn as part of this course:  Statistical tools  Introduction to GIS  Discounted Cash flow Analysis
+
+## TDE609: MDP Project
+- Credits: 12
+- Type: Project
+- Description: MDP Project
+
+## TDE611: Seminar
+- Credits: 3
+- Type: Seminar
+- Description: Literature Review and Proposal for MDP Project
+
+## TDO601: Technology, Development and Environment
+- Credits: 6
+- Type: Seminar
+- Prerequisite: -
+- Description: PART 11 What is Development?2 Early and Late Economistic Theories and Models: Conventional/ Mainstream and Critical3 Development and Social Equity: Basic Needs Approach, Human Development, Capabilities Approach, Gender and Development4 Post-Development and Cultural Turn in Development Thinking5 Environmental Turn in Development Thinking: Sustainable Development and Its Critiques6 Recent Approaches and Frameworks: Introduction MDGs and SDGs7 Development Thinking in Indian Context: Gandhian Perspective, Caste and Development PART 21)Technology, society and the environment  Understanding the AnthropoceneAt the tri- junction of fragility and vulnerability2) Science and Technology Studies (STS)The Social Construction of Technology (SCOT)The importance of the userStudying controversies in S&T Un...
+
+## TDO602: Methods for Development Research
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: A. Research Design and Methodology  Research: Some Basic Concepts, Terms, Purposes Fundamental Aspects of Research Methodology: Philosophical Perspectives, Types of Research Designs, Main Research Strategies: Experiment, Survey, Case Studies, Ethnography Literature Review: Concepts, Purposes, and Techniques Developing and Operationalizing Research Questions Developing the Basic Research DesignB. Introduction to Qualitative Methods Key Aspects of Qualitative Research Methods for Qualitative Data Collection: Methods for Analysis of Qualitative DataC. Introduction to Quantitative Methods Key Aspects of Quantitative Research Introduction to Descriptive Statistics
+
+## TDO603: Communication Skills for Development Practitioners
+- Credits: 6
+- Prerequisite: -
+- Description: Context of communication: Recognizing our capability and roles as professionals;Scientific Method: Question and answer aspects of technical communication; Scientific Methodology and its relationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools;Listening and Note taking: 5-R method and mind-mapping;Technical writing: Report organization; Journal selection; Introduction, conclusion, and abstract writing.;Speaking & Presentation skills: Organization of presentation slides (number, content, and formatting); - Oral presentations: Audience/context dependent practices; nonverbal aspects: body language, eye-contact, personal appearance, facing large audience;Elevator pitch: Pitches for technical audience and poli...
+
+## TDO604: Public Policies for Development Practitioners
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: A. Public Policy TheoryRelevant Concepts from Political Science Fundamentals of Public PolicyModels of Public Policy-MakingModels of Rationality in Public Policy Decisions Theories and Models of Public Policy Implementation Models of Public Policy Evaluation B. Public Policy in PracticePolicy in Practice  a multilayer perspectiveBureaucracys response to ground realitiesCitizens rights and perspectivePolicy making and the senior bureaucracyEvidence based policy  analyzing large scale government dataSpecific Policy / Programmes as case Studies  - Implementation history by practitioners
+
+## TDO605: Management and Evaluation of Development Project & Programs
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: 1. Project, Programs, Missions: Defining, Management Cycle, Factors for Success2. Project Design: Objectives and Targets, Techno Economic Analysis3. Project Planning and Scheduling:4. Planning Tools (LFA, CPM and PERT)5. Resource Leveling and Resource Allocation & Risks Management6. Project Monitoring, Control, Analysis and Appraisal:  Linkages with Log-frame, Role of UNEO and DMEO in monitoring and evaluation 7. Evaluation theories, types of evaluations, methods in evaluation8. Process evaluation, impact evaluation and cost-effective analysis9. Sampling, measurement, data collection, data management and analysis methods for evaluation, Monitoring and Evaluation Ethics
+
+## TDO606: Analytical Skills for Development Professionals
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Techno-economic analysis of current / potential interventions and Government Resolutions, through the lenses of sustainability, social equity, financial viability, and government policy. The course will follow a case study approach and cover three different cases from three sectors. The interventions / sectors could cover, among others, electrification, drinking water, irrigation, agriculture, food processing, cooking energy / technologies etc. The tools, techniques and skills students will learn as part of this course: Statistical tools Introduction to GIS Discounted Cash flow Analysis
+
+## TDO609: MDP Project
+- Credits: 12
+- Type: Project
+- Description: MDP Project
+
+## TDO611: Seminar
+- Credits: 3
+- Type: Seminar
+- Description: Literature Review and Proposal for MDP Project

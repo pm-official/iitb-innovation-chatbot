@@ -1,0 +1,546 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Energy Science and Engineering - Course Catalog for IIT Bombay Students
+
+
+## EN 101: Introduction to Energy
+- Credits: 6
+- Type: Theory
+- Description: Curriculum and structure of DIC-1, part (ii) 1. History of the discipline and introduction to the course a. About energy:- i. Brief notes on fire, the sun, and the wind: how each of these has been used by humans -  ii. Resources, end-uses, basic concepts, units, law of conservation of energy, other laws of thermodynamics, laws of electro-magnetism, etc. b. A case study of -domestic cooking- as an end-use application revealing various aspects of energy end use, resources and devices, efficiency measurement, focus on user, issues related to acceptance, policy c. Exercises: Measuring temp of various cooking items, flame temperature, energy consumed for making rotis, cooking rice, domestic energy bill audit d. Case study on passive architecture - 2. Energy macro view, major milestones, and imp...
+
+## EN 102: Energy Engineering Fundamentals
+- Credits: 6
+- Type: Theory
+- Description: 1. Performance measurement of energy devices and systems: Understanding the technology through its parameters, understanding relations between design, input and operating parameters and performance parameters, importance of performance measurements, experimental methods, uncertainty analysis in measuring parameters; Calculation of carbon footprint  2. Understanding the characteristic behaviour of heat Engines, Motors and generators, Batteries, IC engines, steam turbines, pumps; identifying technical specifications, understanding system behaviour  3. Transport sector: traditional methods, parameters, road transport, physics and equations for road transport, air transport, Batteries, storage devices, comparison, EVs, comparison of transport methods, challenges and research frontiers  4. Rene...
+
+## EN 110: Energy Engineering Fundamentals
+- Credits: 6
+- Type: Theory
+- Description: Objective: To provide an idea of the challenges in the field of energy engineering, to provide a perspective on energy technology, systems Dimensions of the energy problem, Historical perspective on energy technology and system development. This will be illustrated by examples of technology development for power generation, transportation and a few application sectors (lighting). Power generation - Wind mills, water wheels for shaft work, Industrial revolution - steam engine and coal fired boilers, Edison-s invention of electricity, Thermal power plant, Electricity generator, electric motor, Economics of scale, super-critical power plants, Distributed generation. Measures of performance and comparison of efficiency and costs for these technologies. Transportation - Bullock car, bicycle, IC...
+
+## EN 203: Thermodynamics and Energy Conversion
+- Credits: 6
+- Type: Theory
+- Description: (1). Concepts and definitions, state postulate and properties of simple and general systems. (2). Definition of work and heat. (3). I and II Law analysis of non-flow systems: introduction of thermodynamic functions - internal energy, entropy, temperature, free energy functions, and availability. (4). I and II Law analysis of flow systems. (5). Thermodynamic property relations. (6). Thermodynamic analysis of power and refrigeration cycles; chemical and electrochemical systems; other examples of energy conversion systems.
+
+## EN 204: Material Science for Energy Applications
+- Credits: 6
+- Type: Theory
+- Description: Review of quantum concepts: particle nature of light. Atomic Structure, Solid state physics: Free electron model of metals, Energy Bands, Bonding, superconductivity, Crystal Structure & Defects, Diffusion, Non Crystalline Materials, Phase Equilibria and Phase Diagrams, Phase Transformation, Microstructural Development. Conductivity, Electron Mobility, Energy levels, Electrical Resistivity of Metals & Alloys, Semiconductors, Hall Effect, Carrier Concentration. Dielectric Properties, Capacitance, Types of polarisations, Piezoelectricity & Ferroelectricity. Optical properties, Interaction of solids with radiation, Luminescence, Photoconductivity, Lasers.
+
+## EN 205: Basic Electrical Engineering Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Introduction to Basic Laboratory Equipment and Measurements, Simple Circuit Measurements and Ohm`s Law, Introduction to Digital Circuits Using TTL(Transistor- Transistor Logic), Resistors: Simplification of Series and Parallel Networks, Nodal Analysis of Simple Networks, Loop Analysis of Simple Networks, Operational Amplifiers, Design and Circuit Simulation using SPICE, Thevenin and Norton Equivalent Circuits, Superposition Theorem, Power Relationships in Simple Circuits RL and RC Circuits.
+
+## EN 207: Data Analysis and Interpretation
+- Credits: 6
+- Type: Theory
+- Description: The role of statistics. Graphical and numerical methods for describing and summarizing data. The mean, variance and its computation. The variance as a measure of random-ness and its implication. Probability. Population distributions. Sampling variability and sampling distributions. Estimation using a single sample. Hypothesis testing a single sample. Comparing two populations or treatments. Simple linear regression and correlation. Estimations of various energy resources.
+
+## EN 209: Basic Electrical & Electronics Engineering
+- Credits: 8
+- Type: Theory
+- Description: Network theorems: Thevenin-s and Norton-s theorems, superposition theorem and maximum power transfer theorem. Time domain analysis of first and second order liner circuits. Sinusoidal steady state analysis, series and parallel resonance, power calculation, reactive power, power factor and significance of power factor correction, three phase balanced and unbalanced circuits. Semiconductor diode characteristics, transistor characteristics. Low frequency transistor, amplifiers; RC-coupled amplifiers and oscillators. Op-amps: parameters and characteristics, inverting and non-inverting mode of its operation, linear application including the use of op-amps in analog computations and active filters. Timer circuits (555). Introduction to digital circuits, Boolean algebra and switching functions, e...
+
+## EN 211: Mechanics of Materials
+- Credits: 6
+- Type: Theory
+- Description: Fundamentals of deformable solids, concepts of stress and strain, material properties, patterns of failure, analysis of normal stresses thermal stresses torsional members, bending in beams and columns; design approach, introduction to machine elements and selection, consideration for bearing, gears, chains, belts, pulley key, riveters, nut-bolts, pins, transmission machinery, 4-bar linkages, flywheel; typical design approach for machine or equipment
+
+## EN 212: Electrical Machines
+- Credits: 6
+- Type: Theory
+- Description: Magnetic circuits, mutually coupled circuits, Transformers: Principle of operation, equivalent circuit, phasor diagrams, testing , parallel operation and analysis of single phase, three phase transformers and auto transformers. Principle of operation characteristics and control of DC, single phase and three phase induction machines and synchronous machines. Starting techniques of induction motors. Introduction to stepper motors, brushless DC machines, permanent magnetic machines, energy efficient machines.
+
+## EN 213: Electrical Networks and Machines
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). Network theorems, Time domain analysis of first and second order linear circuits, Sinusoidal steady state analysis, active and reactive power, power factor, Three-phase balanced and unbalanced circuits. (2). Mutually-coupled magnetic circuits; Transformers - equivalent circuit, phasor diagram, open-circuit and short-circuit tests, voltage regulation, parallel operation; Autotransformers and three-phase transformers. (3). Three phase induction machines- steady-state equivalent circuit, speed-torque characteristics, starting methods. (4). Synchronous machines - steady-state equivalent circuit, power-angle characteristics for cylindrical rotor synchronous machines, Introduction to permanent magnet synchronous machines and synchronous reluctance machines.
+
+## EN 214: Transport Phenomena
+- Credits: 8
+- Type: Theory
+- Description: Vectors and Tensors - an Introduction; Viscosity and the mechanism of momentum transport, Velocity profile in laminar flow; The equations of change for isothermal systems; Thermal conductivity and the mechanism of energy transport; Temperature distribution in solids and laminar flow; Equations of change for non-isothermal systems; Diffusivity and the mechanism of mass transport; Concentration distribution in solids and in laminar flow, Equations of change for multi-component Systems
+
+## EN 216: Renewable Energy Technologies
+- Credits: 6
+- Type: Theory
+- Description: Introduction to world energy scenario, Renewable energy resources, Radiation, Solar Geometry, radiation models; Solar Thermal, Optical efficiency, thermal efficiency, concentrators, testing procedures, introduction to thermal systems (flat plate collector),solar architecture, solar still, air heater, panel systems; Photovoltaic; Introduction to semiconductor physics, doping, P_N junction, Solar cell and its I_V characteristics, PV systems components, design of a solar PV systems. Biomass, Biomass resources, wood composition, pyrolysis, gasifies, biogas, biodisel, ethanol; Wind, Introduction, types of wind machines, Cp-λ curve & betz limits, wind recourse analysis; Systems, stand alone, grid connected, hybrid, system design; Hydro systems, Hydro resources, types of hydro turbine, small hydr...
+
+## EN 218: Energy Resources, Economics & Environment
+- Credits: 6
+- Type: Theory
+- Description: Overview of World Energy Scenario, Dis-aggregation by end-use, by supply Fossil Fuel Reserves - Estimates, Duration Overview of India`s Energy Scenario - Dis-aggregation by end-use, by supply, reserves Country Energy Balance Construction - Examples Trends in energy use patterns, energy and development linkage. Energy Economics - Simple Payback Period, Time Value of Money, IRR, NPV, Life Cycle Costing, Cost of Saved Energy , Cost of Energy generated, Examples from energy generation and conservation, Energy Chain, Primary energy analysis Life Cycle Assessment, Net Energy Analysis Environmental Impacts of energy use - Air Pollution SOx, NOx, CO, particulates Solid and Water Pollution, Formation of pollutants, measurement and controls; sources of emissions, effect of operating and design param...
+
+## EN 220: Reactions for Energy
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). Thermochemistry - stoichiometry, enthalpy, entropy, Gibbs free energy of reaction, equilibrium calculations. (2). Kinetics and reaction mechanisms - order of reaction, elementary vs global reactions, effect of temperature, concentration/partial pressure on reaction rates, examples of a few reaction mechanisms. (3). Reactors - batch, well-mixed and plug flow - mole balances - design equations with examples; combined material and energy balances, introduce residence time distribution and simple reactor networks. (4). Reacting systems in energy: (a). Combustion - adiabatic flame temperature (constant pressure and constant volume) calculations; (b). Batteries, fuel cells, electrolysers - stoichiometry includes charge balance, cell voltage calculations using Nernst equation, brief discussi...
+
+## EN 222: Fluid Mechanics and Heat Transfer
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). Fluids and their properties. (2). Conservation of mass, momentum, and energy; Bernoulli-s equation; flow in closed conduits. (3). Dimensional analysis and similarity. (4). Heat transfer: thermophysical properties. (5). Conduction: 1D and 2D steady, 1D unsteady. (6). Convection: Boundary layer and analogy between momentum and heat transfer, heat transfer coefficient; natural and forced convection, heat transfer correlations. (7). Radiation: Stefan-Boltzmann law, introduction to view factors.
+
+## EN 224: Electrical Networks and Machines Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: - Verification of network theorems - Transient response of first and second order circuits - Open-circuit and short-circuit tests on transformer - No-load and blocked-rotor tests on induction motor - Speed-torque characteristics of induction motor - Voltage regulation of alternator using synchronous impedance method
+
+## EN 226: Energy Conversion Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Calorific value of fuels, fuel properties, Morse test, SI engines, diesel engines, flame speed, fuel cell, energy consumption of lights and ballasts, pump and motor efficiency
+
+## EN 301: Introduction to Renewable Energy Technologies
+- Credits: 6
+- Type: Theory
+- Description: Introduction to world energy scenario, Renewable energy resources, Radiation, Solar Geometry, radiation models; Solar Thermal, Optical efficiency, thermal efficiency, concentrators, testing procedures, introduction to thermal systems (flat plate collector), solar architecture, solar still, air heater, panel systems; Photovoltaic; Introduction to semiconductor physics, doping, P_N junction, Solar cell and its I_V characteristics, PV systems components, design of a solar PV systems. Biomass, Biomass resources, wood composition, pyrolysis, gasifies, biogas, biodisel, ethanol; Wind, Introduction, types of wind machines, Cp-l curve & betz limits, wind recourse analysis; Systems, stand alone, grid connected, hybrid, system design; Hydro systems, Hydro resources, types of hydro turbine, small hyd...
+
+## EN 302: Power Generation and System Planning
+- Credits: 6
+- Type: Theory
+- Description: Overview of the Indian power sector, Thermodynamic analysis of Conventional Power Plants. Advanced Power Cycles, Kalina (Cheng) Cycle, IGCC, AFBC/PFBC. Overview of Nuclear power plant, Radio activity, Cross sections, Fission process, reaction rates, diffusion theory, elastic scattering and slowing down, criticality calculations, critical heat flux, power reactors, nuclear safety. Steam Turbine - Superheater, reheater and partial condenser vacuum. Combined Feed heating and Reheating. Regenerative Heat Exchangers, Reheaters and Intercoolers in Gas Turbine power plants. Hydro power plants - turbine characteristics. Auxiliaries - Water Treatment Systems, Electrostatic Precipitator / Flue gas Desulphurisation, Coal crushing / Preparation - Ball mills / Pulverisers, ID/FD Fans, Chimney, Cooling ...
+
+## EN 304: Electrical Energy Systems
+- Credits: 6
+- Type: Theory
+- Description: (1). Components of electrical power system - modelling, performance and constraints. (2). Formulation and solution of steady-state equations for interconnected power system, examples of load flow analysis. (3). Stability of power system, swing equation, examples of loss of synchronism, frequency and voltage control of interconnected power system, Analysis of unbalanced faults using sequence components. (4). Analysis of system load curve, plant load factor, loss of load probability, optimal generation scheduling, load forecasting, econometric end use techniques, least cost power planning.
+
+## EN 308: Solar Energy Lab
+- Credits: 4
+- Type: Laboratory
+- Description: Measurement of solar radiation and sunshine hours, Measurement of albedo, UV & IR radiation, Measurement of emissivity, reflectivity, transmittivity, Performance testing of solar flat plate water heater, forced flow & thermosyphon systems, Performance testing solar air heater & dryer & desalination unit, Performance testing of solar thermal concentrators, Characteristics of photovoltaic devices & testing of solar PV operated pump, Energy consumption & lumen measurement of lights & ballasts.
+
+## EN 309: Thermal & Fluid Engineering Lab
+- Credits: 3
+- Type: Laboratory
+- Description: Instrument calibration, boiler efficiency, heat exchanger effectiveness, finned tube heat exchanger, heat transfer in laminar flow, losses in pipes and pipe fittings.
+
+## EN 310: IC Engine and Combustion Lab
+- Credits: 4
+- Type: Laboratory
+- Description: The laboratory exercise will mainly aim at introducing the determination of fuel properties relevant to their combustion and design of combustion equipments. This will include the properties like calorific value, proximate analysis, viscosity, surface tension, density, flash point, carbon residue (for liquid fuels) and determination of Flame velocity for gaseous fuels. The basic understanding of IC engines, their parts and its working will be shown. The testing and performance evaluation of engine will also be included
+
+## EN 312: Control & Instrumentation
+- Credits: 8
+- Type: Theory
+- Description: Dynamics of physical systems, notion of feed-back; open- and closed-loop systems. Laplace transforms and Z-transforms; application of transforms to discrete and continuous systems-analysis; industrial control examples. Transfer function models of mechanical, electrical, thermal and hydraulic systems, closed-loop systems. Block diagram and signal flow graph analysis.  Basic modes of feedback control: proportional, integral and derivative. Stability concept, stability criterion. Root locus method of design lead and leg compensation. Relationship between time & frequency response, polar plots, Bode-s plots. Stability in frequency domain, Nyquist plots and criterion. Frequency-domain methods of design, Compensation and their realization in time and frequency domain. Lead and Lag compensation. ...
+
+## EN 313: Power Electronics
+- Credits: 6
+- Type: Theory
+- Description: Characteristics and protection of power semiconductor devices.  AC to DC converters: Single and three phases phase controlled rectifiers, dual converters and pulse width modulated rectifiers. DC to DC converters: Operations of buck, boost, buck b boost, Cuk, fly back, and forward converters. DC to AC converters: Single phase and three phase topologies, PWM techniques including (sine triangular space vector PWM). AC to AC conversion: AC voltage controllers, cycloconverter.  Methods of dc motor control, performance and stability of variable speed dc drives. Induction motor control systems, recovery of slip energy, variable frequency control of ac motors, current source inverter fed induction motor drive, forced commutated inverter fed drives, traction drives.
+
+## EN 314: Electrochemistry
+- Credits: 6
+- Type: Theory
+
+## EN 315: Reaction Engineering & Combustion
+- Credits: 6
+- Type: Theory
+- Description: Fuels: Characteristics and Properties, Combustion Thermodynamics and Thermo-chemisty, Heat of Reaction, Calorific Value, Adiabatic Flame Temp, Combustion Kinetics, Reaction Mechanism and Pathways, Rate constants, Activation Energy, Introduction to Flame, Formation of pollutants: CO, Soot, NOX and SOX, Combustion Modelling: Gas, Liquid and Solid Combustion, Formation of Ash.
+
+## EN 316: Renewable Energy Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: Measurement of solar radiation and sunshine hours; measurement of albedo, UV, and IR radiation; performance testing of solar thermal devices, grid connected and stand-alone solar PV systems, biomass systems, gasification, wind machines.
+
+## EN 317: Thermo-Fluid Devices
+- Credits: 8
+- Type: Theory
+- Description: Fluid motive devices: working principle, selection criteria, and characteristic curve; example to include centrifugal and reciprocal pumps, blower, fan, compressor, turbines: water, steam and gas; Heat exchangers; types of heat exchanger, selection criteria, basic design principles Combustion equipments such as different types of boilers, design principle of refrigeration and air-conditioning systems.
+
+## EN 318: Energy Systems Design Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: In this course, design and simulation of a system including several components is expected, such as thermal, electrical, fluid, chemical, and electrochemical systems. For example, power plants (thermal, solar PV, fuel cell, etc.), HVAC systems, buildings, electrical grid, national energy systems, etc.
+
+## EN 319: Electrical Machines & Power Electronics Lab
+- Credits: 3
+- Type: Laboratory
+
+## EN 323: Renewable Energy Generation and Storage
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). Brief overview of the global and Indian energy - current scenario and future projections. (2). Fossil energy resources - R/P ratio, estimation of reserves, unconventional fossil resources. (3). Renewable energy resources and technologies -  Solar radiation, solar geometry, radiation models; solar thermal devices and their characteristic equations, thermal energy storage; solar photovoltaic (PV) systems: p-n junction, solar cell and its I-V characteristics, PV system components, design of a solar PV systems with battery storage; Biomass resources, wood composition, pyrolysis, gasifier, biogas, biodiesel, ethanol; Wind: Types of wind machines, Cp-λ curve and Betz limits, wind resource analysis, wind rotor and load matching; Types of hydro turbines, small hydro systems; Other technologie...
+
+## EN 325: Dynamics and Control
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). Dynamics of physical systems - examples of mechanical, thermal, hydraulic, pneumatic and electrical systems, idea of linear time-invariant (LTI) systems. (2). Laplace transforms, transfer function of single-input-single-output (SISO) LTI systems, poles and zeros of a transfer function, locations of poles and zeros in s-plane. (3). Response of first-order and second-order systems to unit-step input - time-domain performance metrics. (4). Natural response and forced response, notion of stability, bounded-input bounded-output (BIBO) stability. (5). Frequency response of first and second order systems, Bode plots, gain margin and phase margin, Bode-s gain-phase relationship, Nyquist stability criterion. (6). Relation between time-domain and frequency-domain performance metrics, frequency ...
+
+## EN 327: Power Electronics and Instrumentation Lab
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: NIL
+- Description: - IC 555 timer as astable multivibrator - MOSFET switching characteristics - Boost dc-dc converter - Single-phase inverter - Strain-gauges in balancing bridges - Thermocouple/RTD with amplifier circuits - Linear variable displacement transducer
+
+## EN 401: Energy Systems modelling and analysis
+- Credits: 6
+- Type: Theory
+- Description: Energy Chain, Primary energy analysis. Modelling overview- levels of analysis, steps in model development, examples of models. Quantitative Techniques : Interpolation - polynomial, lagrangian. curvefitting , regression analysis, solution of transcendental equations. Systems Simulation- information flow diagram, solution of set of nonlinear algebraic equations, successive substitution, Newton Raphson. Examples of energy systems simulation Optimisation: Objectives/constraints, problem formulation. Unconstrained problems- Necessary & Sufficiency conditions. Constrained Optimisation- lagrange multipliers, constrained variations, Kuhn-Tucker conditions. Linear Programming - Simplex tableau, pivoting, sensitivity analysis. Dynamic Programming . Search Techniques-Univariate/Multivariate. Case stu...
+
+## EN 405: Energy Innovation Lab
+- Credits: 6
+- Type: Laboratory
+- Description: This laboratory will involve using different energy hardware components to build upprototype systems. This may involve power electronics devices or thermal devices. Thelaboratory will provide a list of projects where the students have to design and implement a hardware solution for specified tasks. The laboratory will need a functioning solutionfor a completion grade.
+
+## EN 406: Seminar
+- Credits: 3
+- Type: Seminar
+
+## EN 407: Chemistry for Energy Science
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Thermochemistry; Standard Enthalpy of Formation; Standard Enthalpy Changes;Temperature Dependence of Reaction Enthalpies and Spontaneous Chemical Reactions.9.Combustion Kinetics; Fuel Characteristics and Properties; Combustion Thermodynamics 302226 Heatof Reaction, Calorific Value and Adiabatic Flame Temperature.Introduction to Chemical Reactions; Rate Laws; Rate of Chemical Reactions.Electrochemistry; Applications in Energy Conversion and Storage Devices e.g., HydrogenStorage, batteries, Fuel Cells etc.
+
+## EN 408: Energy design project
+- Credits: 6
+- Type: Project
+- Description: Students are expected to do an energy system design project. This will illustrate the tradeoffsand issues involved in system design and provide an opportunity to synthesis thedifferent concepts and techniques learnt in the individual courses. Designs are expectedto be detailed with engineering drawings and cost estimation. Depending on the type ofproject, there would be practical demonstration of the project. The topics offered byfaculty guides will be of practical relevance and would be allotted in the previoussemester.
+
+## EN 409: Mathematical Foundation for Energy Science
+- Credits: 6
+- Type: Theory
+- Description: Review: limit, continuity, differentiation and integration.   theorem, Taylor  theorem, mean value theorem, fundamental theorem of integral calculus.Vector Calculus: vector fields, surface/line integral, grad/divergence/curl, Gauss  and Stroke is theorem.Linear Algebra: vector space, inner product, rank, inverse, eigenvalues and eigenvectors.Ordinary Differential Equations: ODE of the 1st order, solution techniques, ordinary linear differential equations of nth order, Operator method, systems of differential equations, Phase plane, Critical points, Stability. Infinite sequences and series: sequences and series, Cauchy criterion, tests of convergence, absolute and conditional convergence. Uniform convergence. Power series, radius of convergence. Power series methods for solutions of ordinar...
+
+## EN 410: Energy Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: NIL
+- Description: (1). General Aspects of Energy Management and Energy Audit: Energy scenario, basics of energy management and audit, material and energy balance, energy benchmarking, monitoring and targeting, economics. (2). Energy Efficiency in Thermal Utilities: Fuels and combustion, boilers, fired heaters and furnaces, steam distribution, steam traps, condensate recovery, flash steam utilisation, thermal insulation. (3).  Energy Efficiency in Electrical Utilities: Electrical systems, electricity distribution, tariff, motors and drives, lighting; overview of power purchase agreements (PPA) and demand side management (DSM). (4). Energy Performance Assessment for Equipment and Utility Systems: Waste heat recovery, heat exchangers and their networks, cogeneration, fans and blowers, compressed air systems, p...
+
+## EN 411: Physics for Energy Science
+- Credits: 6
+- Type: Theory
+- Description: (List of the topics/sub-topics to be covered in thelectures/practicals/assignments):Waves and Oscillation: Free oscillation of system; Superposition of Harmonic Oscillators;coupled oscillations; Normal modes of continuous system; Introduction of Lagrangian andHamiltonian formulationIntroduction of electromagnetic theory: Gradient, Divergence and Curl; Maxwell302222s equations andElectromagnetic wave propagation; Charge particle in electrical and magnetic field.9.Light and Optics: Fresnel equations, Black Body Radiation; light concentrating optics and designQuantum Mechanics: Dual nature of particles and waves; Schr303266dinger Equation; 1-D application;Tunneling, Tight Binding ModelNuclear Physics: Binding Energy; Radioactive Decay; Nuclear Fission; Controlled anduncontrolled chain reactio...
+
+## EN 412: Thermodynamics and Statistical Mechanics
+- Credits: 6
+- Type: Theory
+- Description: Basic Concepts and Laws of Thermodynamics; Concept of Equilibrium; Simple System and Formal Relations (Euler/ Gibb-s Duhem) and its Applications to Various Systems; Legendre Transformation and Free Energy; Extremum Principle; Thermodynamic Potentials; Maxwell-s Relations; Stability and Phase Transition. Fundamental Postulates of Statistical Mechanics; Macro Canonical Ensembles; Statistical Mechanics Applications; Partition functions - Gas and Liquid State; Phase Transformations; Critical Phenomena
+
+## EN 413: Materials Science for Energy
+- Credits: 6
+- Type: Theory
+- Description: Crystal Structures; Chemical Bonds; Defects in Crystals; Phase Diagrams and PhaseTransformations; Diffusion in Materials; Materials and Energy Related Applications (Carbon,Polymers, Ceramics, Semiconductors, Liquid crystals, Nanomaterials); Thermal Properties andLattice Vibrations in Materials; Electrical Properties of Materials (Metals, Semiconductors,Insulators); Optical, Magnetic and Dielectric Properties of Materials; Introduction ofSuperconductivity and Applications; Introduction of Lasers and Applications
+
+## EN 414: Methods in Analytical Techniques
+- Credits: 8
+- Type: Theory
+- Description: Structural: X-ray Diffraction (XRD); Scanning Electron Microscopy (SEM); Transmission Electron Microscopy (TEM); Electron diffraction analysis Electronic Structure: X-ray Photoelectron Spectroscopy (XPS); X-ray Absorption Spectroscopy (XAS); Photoluminescence (PL) Molecular Structure: Infrared (IR); Fourier Transform IR (FTIR); and Raman Spectroscopy Composition Analysis:Energy Dispersive X-ray (EDX); Auger Electron Spectroscopy (AES); and Secondary Ion Mass Spectrometry (SIMS) SurfaceMorphology: Scanning Tunneling Microscopy (STM); Atomic Force Microscopy (AFM); Optical: UV-Vis.
+
+## EN 415: Energy Laboratory I
+- Credits: 6
+- Type: Laboratory
+- Description: This laboratory is intended to provide an exposure to energy research. This is structured in the form of 7-8 discrete modules. Each module would consist of a lecture, a tutorial and an experiment. Each module will be handled by a separate faculty member and will be based on their ongoing research. Examples of the modules: (a) Electrofabrication of Nanomaterials for Hydrogen Storage: The experiment would involve electrodeposition of magnesium and physical characterisation. (b) Hydrogen Storage Characteristics of Hydrides: Experiments using Sieverts apparatus, Pressure composition temperature characteristics, Vant Hoff plot, reversibility and kinetics. (c) Synthesis of Cu2O by Electrodepostion and Thermal Annealing: Study optical and electrical characteristics. (d) Infrared Thermography for ...
+
+## EN 416: Basics of Electrical and Electronic Systems
+- Credits: 6
+- Type: Theory
+- Description: Circuit Elements and their Characteristics; Circuit Analysis; Network Theorems - Thevenin-s, Norton-s, Superposition and Maximum power Transfer; Basics of transformer, electromechanical energy conversion and basics of 3-phase power system. Diode and Transistor - Working, Characteristics and Applications; Amplifier; Operational Amplifier circuits and mathematical operations. Digital circuits - K-Map, Combinatorial Circuits; Flip-flops; Counter; Registers; and Memory, Analog and Digital conversion, Introduction of Digital Computer Architecture. Transducers; Power Supply; 555 Timer Applications; Basic Electronic Measurement Instruments.
+
+## EN 417: Computer Programming
+- Credits: 6
+- Type: Theory
+
+## EN 418: Introduction to Transport Phenomena
+- Credits: 6
+- Type: Theory
+- Description: Vectors and Tensors - an Introduction; Viscosity and the Mechanism of Momentum Transport; Velocity Distribution in Laminar Flow; The Equations of Change for Isothermal Systems; Thermal Conductivity and the Mechanism of Energy Transport; Temperature Distribution in Solids and Laminar Flow; Equations of Change for Non-Isothermal Systems; Diffusivity and the Mechanism of Mass Transport; Concentration Distribution in Solids and in Laminar Flow; Equations of Change for Multi-Component Systems.
+
+## EN 420: Energy Laboratory II
+- Credits: 3
+- Type: Laboratory
+- Description: Loop analysis (KVL and KCL); Maximum power transfer theorem; Efficiency of transformer; Power factor improvement; Oscilloscope measurements; Diode Characteristics; Solar Cell and Module Characteristics; Transistor Characteristics and applications; Basic Operational Amplifier Circuits; Logic gates and Adder. Thermocouple & measurement of Temperature, Seebeck/Peltier effect; Electrical Four-Probe Measurement. Rate of Homogenous Catalyst Reaction; Cyclic Voltammetry; Diffusion Coefficient Measurements andMeasurement of Electrode Surface Area
+
+## EN 422: Seminar
+- Credits: 4
+- Type: Seminar
+
+## EN 593: Dual Degree Project I
+- Credits: 30
+
+## EN 601: Nonconventional Energy Sources
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Energy Alternatives: The Solar Option, The Nuclear Option, Tar sands and Oil Shale, Tidal Energy, Geothermal Energy Solar Energy: Solar Radiation, availability, measurement and estimation, Solar Thermal Conversion Devices and Storage, Applications Solar Photovoltaic conversion, Wave Energy and Ocean Thermal Energy Conversion, Wind Energy Conversion,Biomass Energy Conversion Energy from Waste, Mini/Micro-hydel
+
+## EN 602: Foundation for Energy Engineering
+- Credits: 4
+- Type: Theory
+- Prerequisite: nil
+- Description: Thermodynamics: first law and its application, second law and its application, Irreversibility and exergy, basic power generation and refrigeration cycles and dehumidification.  Fluid Mechanics: stress-strain relations and viscosity, mass and momentum balance, flow through pipe. Heat Transfer: conduction, radiation, convective heat transfer. Combustion and stoichiometry. Network analysis: simple network analysis, power factor improvement. Electrical Machines: Transformer, Induction motor and generators, Synchronous generators, Introduction to modern speed control techniques, DC machines. Power systems: Introduction to power transmission and distribution.
+
+## EN 604: Fuel Cells
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to the principles and operation of fuel cells, stack configurations and fuel cell systems.  Fuel cell system design, optimization and economics.  Overview of fuel cell technology.  Thermodynamics of fuel cells, introduction to electrochemical kinetics, transport-related phenomena and conservation equations for reacting multicomponent systems
+
+## EN 606: Energy Resources, Economics and Environment
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Overview of World Energy Scenario 226 Dis-aggregation by end-use, by supply Fossil Fuel Reserves - Estimates, Duration Overview of India`s Energy Scenario - Dis-aggregation by end-use, by supply, reserves Country Energy Balance Construction - Examples Trends in energy use patterns, energy and development linkage. Energy Economics - Simple Payback Period, Time Value of Money, IRR, NPV, Life Cycle Costing, Cost of Saved Energy , Cost of Energy generated, Examples from energy generation and conservation, Energy Chain, Primary energy analysis Life Cycle Assessment, Net Energy Analysis Environmental Impacts of energy use - Air Pollution - SOx, NOx, CO, particulates Solid and Water Pollution, Formation of pollutants, measurement and controls; sources of emissions, effect of operating and design ...
+
+## EN 607: Energy Management
+- Credits: 6
+- Type: Theory
+- Description: Importance of energy management. Energy auditing : methodology, analysis of past trends( plant data), closing the energy balance , laws of thermodynamics, measurements, portable and on line instruments.  Energy economics - discount rate, payback period, internal rate of Return, life cycle costing. Steam Systems : Boiler -efficiency testing , excess air control , Steam distribution & use- steam traps , condensate recovery , flash steam utilisation. Thermal Insulation.   Electrical Systems : Demand control, power factor correction, load scheduling/shifting, Motor drives- motor efficiency testing, energy efficient motors, motor speed control.   Lighting- lighting levels, efficient options,fixtures,daylighting, timers, Energy efficient windows.   Energy conservation in Pumps , Fans (flow contr...
+
+## EN 609: Energy Systems Laboratory
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: nil
+- Description: Boiler, Pump & motor efficiency testing, Properties of fuel oils & biomass, Testing of Gasifier, wind machines, and Fuel cell, Pollutant level measurement, electrical machines characteristics, refrigeration system
+
+## EN 610: Hydrogen Energy
+- Credits: 6
+- Type: Theory
+- Description: Hydrogen Production - Production of hydrogen from hydrocarbons -Oxidative and non-oxidative processes, coal. H2 production using nuclear energy and renewables- wind, biomass, solar. Hydrogen separation and purification - Pressure swing adsorption; Solvent based absorption, membrane separation, cryogenic separation etc. Hydrogen storage - compressed storage, liquid state storage, solid state storage, different materials for storage - metal hydrides, high surface area materials, complex and chemical hydrides, hydrogen storage system - design and materials aspects. Hydrogen sensing - Traditional methods of hydrogen sensing using thermal conductivity measurements or GC, MS or laser gas analysis; Solid state sensors- their working principle and applications in industrial scale applications. Hyd...
+
+## EN 612: Non-conventional Energy Systems Lab.
+- Credits: 3
+- Type: Laboratory
+- Prerequisite: 0
+- Description: Measurement of solar radiation and sunshine hours, Measurement of albedo, UV & IR radiation, Measurement of emissivity, reflectivity, transmittivity, Performance testing of solar flat plate water heater ? forced flow & thermosyphon systems, Performance testing solar air heater & dryer & desalination unit, Performance testing of solar thermal concentrators, Characteristics of photovoltaic devices & testing of solar PV operated pump, Energy consumption & lumen measurement of lights & ballasts.
+
+## EN 613: Nuclear Reactor Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Radioactivity, Nuclear reactions, Cross sections, Nuclear fission, Power from fission, Conversion and breeding, Neutron transport equation, Diffusion theory approximation, Fick`s law, Solutions to diffusion equation for point source, Planar source, etc. Energy loss in elastic collisions, Collision and slowing down densities, Moderation in hydrogen, Lethargy. concept, Moderation in heavy nucleus. Moderation with absorption, Resonance absorption, NR and NRIM approximations. Multi-region reactors, Multigroup diffusion methods, Thermal reactors, Heterogeneous reactors. Reactor kinetics. in hour equation, Coefficients of reactivity, Control, Fission product poison. Perturbation theory
+
+## EN 615: Wind Energy Conversion Systems
+- Credits: 6
+- Type: Theory
+- Description: Wind machine types, classification, parameters. Wind, its structure, statistics, measurements, data presentation, power in the wind. Wind turbine aerodynamics, momentum theories, basic aerodynamics, airfoils and their characteristics, Horizontal Axis Wind Turbine (HAWT) - Blade Element Theory, wake analysis, Vertical Axis Wind Turbine (VAWT) aerodynamics.  HAWT rotor design considerations, number of blades, blade profile, 2/3 blades and teetering, coning, power regulation, yaw system, tower. Wind turbine loads, aerodynamic loads in steady operation, wind turbulence, static - dynamic - fatigue analysis, yawed operation and tower shadow, WECS control system, requirements and strategies. Wind Energy Conversion System (WECS) siting, rotor selection, Annual Energy Output (AEO).  Synchronous and...
+
+## EN 616: Direct Energy Conversion
+- Credits: 6
+- Type: Theory
+- Description: Energy conversion process, indirect and direct energy conversion. Preview of semiconductor physics: Basic ideas of quantum physics, Fermi Energy, band diagram, Intrinsic and extrinsic semiconductors, p-n junction Introduction to irreversible thermodynamics. Thermoelectric conversion: thermoelectric effects, analysis of thermoelectric generators and coolers, figure of merit, device configuration. Photovoltaic conversion: Optical effects of p-n junction, design and analysis of PV cells. PV cell fabrication, System design. Thermionic conversion: thermionic effects, analysis of converters, application of heat pipes. Magnetohydrodynamic conversion: gaseous conductors, analysis of MHD generators. Batteries and fuel cell: Thermodynamic analysis, design and analysis of batteries and fuel cells. Ot...
+
+## EN 617: Thermodynamic Analysis of Industrial Systems
+- Credits: 6
+- Type: Theory
+- Description: Thermodynamic systems and postulates, thermodynamic equilibrium, thermodynamic relations, stability and phase transition.  Entropy generation and exergy analysis, exergy analysis of fluid flow systems, heat transfer and heat transfer augmentation, heat exchangers. Heat recovery systems, pinch analysis, energy targeting, heat exchanger networks, area/unit/shell targeting, capital-energy trade-off, multiple utilities, network evolution and evaluation, retrofitting, crude preheat train. Plant utility systems, cogeneration, steam-power balance and optimisation, Thermoeconomic optimization
+
+## EN 618: Energy Systems Modelling & Analysis
+- Credits: 6
+- Type: Theory
+- Description: Energy Chain, Primary energy analysis. Modelling overview- levels of analysis, steps in model development, examples of models.  Quantitative Techniques : Interpolation - polynomial, lagrangian.   curvefitting , regression analysis, solution of transcendental equations.   Systems Simulation- information flow diagram, solution of set of nonlinear algebraic equations, successive substitution,Newton Raphson.   Examples of energy systems simulation Optimisation : Objectives/constraints, problem formulation.Unconstrained problems- Necessary & Sufficiency conditions. Constrained Optimisation- lagrange multipliers,constrained variations, Kuhn-Tucker conditions.   Linear Programming - Simplex tableau, pivoting, sensitivity analysis. Dynamic Programming . Search Techniques-Univariate/Multivariate. C...
+
+## EN 619: Solar Energy for Industrial Process Heat
+- Credits: 6
+- Type: Theory
+- Description: Industrial process heat ? temperature requirements, consumption pattern,  Applications of solar flat plate water heater & air heater for industrial process heat, designing thermal storage, transport of energy, Concentrating Solar collector systems, Basic concepts & parameters, Solar ? Earth geometry, Insolation, Optics ? ray tracing, Concentrating collector designs, Tracking systems, Absorbers for Concentrators; Parabolic trough concentrators, Concentrators with point focus, Heliostats, Comparison of various designs, industrial applications of concentrating collectors, Exercises in Industrial Applications
+
+## EN 624: Conservation of Energy in Buildings
+- Credits: 6
+- Type: Theory
+- Description: Climates and buildings. Thermal properties and energy content of building materials, Psychrometry, Comfort conditions, Airconditioning systems. Energy conservation techniques in Airconditioning systems.  Lighting (Daylighting and Electric lighting). Passive and active methods of heating and cooling. Estimation of building loads. Steady state method, Network method, Numerical method, Corelations. Computer packages for carrying out thermal design of buildings and predicting performance.
+
+## EN 628: Materials and Devices for Energy Applications
+- Credits: 6
+- Type: Theory
+
+## EN 630: Utilisation of Solar Thermal Energy
+- Credits: 6
+- Type: Theory
+- Description: Solar Radiation, availability, measurement and estimation; Isotropic and anisotropic models; empirical relations, Solar Collector and thermal storage: steady state and dynamic analysis, Solar pond, Modelling of solar thermal systems and simulations in process design.  Design of active systems by f-chart and utilizability methodsWater heating systems: active and passive,Passive heating and cooling of buildings,Solar distillation,Solar drying
+
+## EN 632: Waste to Energy
+- Credits: 6
+- Type: Theory
+- Description: Introduction to energy from waste: characterisation and classification of waste as fuel ? agrobased, forest residues, industrial waste, Municipal solid waste. Waste to energy options: combustion (unprocessed and processed fuel), gasification, anaerobic digestion, fermentation, pyrolysis. Conversion devices: combustors (Spreader Stokes, Moving grate type, fluidized bed), gasifier, digesters. Briqueting technology: Production of RDF and briquetted fuel. Properties of fuels derived from waste to energy technology: Producer gas, Biogas, Ethanol and Briquettes, Comparison of properties with conventional fuels. Power generation using waste to energy technologies: Cl and  Sl engines. IGCC  and IPCC concepts. Landfills: Gas generation and collection in land fills, Introduction to transfer stations...
+
+## EN 634: Nuclear Reactor Thermal Hydraulics & Safety
+- Credits: 6
+- Type: Theory
+- Description: Overview of nuclear reactor systems, Heat generation in reactors, Thermal constraints, analysis of conduction, Heat transfer characteristics in single phase flow, pool boiling and flow boiling, Governing equations for single phase convective heat transfer and its applications, fundamental aspects of two phase flow, analysis of loss of flow accidents (lumped models), Natural convection cooling, Loss of coolant analysis, modelling of containment loading, governing equations for subchannel analysis, Safety philosophy, probabilistic safety assessment, regulatory procedure and licensing.
+
+## EN 637: Principles and Applications of Hydrogen storage
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Properties of hydrogen; Need for hydrogen storage in stationary and mobile applications; Types of hydrogen storage (Gaseous, Liquid, Solid hosts); Department of Energy (USA) Targets for storage, Techno-politics Thermodynamics: Gibbs Phase Rule; Pressure-Composition-Temperature plots; Van-t Hoff plots for absorption desorption enthalpies; Gravimetric capacities; Hysteresis in cycling; Joule-Thomson Effect, Non-ideal treatment of hydrogen gas Kinetics: Hydrogen absorption/desorption phenomena (chemisorption, nucleation and growth and diffusion); Kinetic models: interfacial, 1D/2D/3D diffusional mechanisms, sequential vs simultaneous phenomena; Kissinger analysis for activation energy estimation (Temperature programmed desorption); Hydrogen adsorption isotherms: BET, Langmuir, F...
+
+## EN 639: Renewable Energy Integration
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Global history of renewable energy development; introduction to wind  power generation technology; solar PV power generation technology; micro-hydel  generation technology, classical grid operation, grid security and stability, emerging  electrical power systems; electric vehicle to grid, and grid to vehicle technology; basics  of distributed generation technology Energy Meteorology and forecasting of Renewable Energy: Wind and solar  resources and resource data, wind measurement, solar irradiation measurement,  forecasting of wind power generation, forecasting of solar power generation, Numerical  Weather Prediction (NWP) models, deterministic and probabilistic approaches Scheduling of renewable energy: Scheduling of wind and solar power generation; Unit commitment and Econo...
+
+## EN 640: Solar Photovoltaic, Fundamentals, Technologies and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Quantum mechanics, Crystals structures, atomic bonding, types of semiconductors, energy band diagram, p-type and n-type semiconductors, doping and carrier concentration, diffusion and drift of carriers, continuity equation, P-N junction and its properties, dark I-V equation of P-N junction, junction under illumination, solar cell parameters, production of silicon, fabrication of solar cells, design of solar cells, optimization of process parameters, measurements of solar cell parameters; short circuit current, open circuit voltage, fill factor, efficiency; optical losses; electrical losses, surface recombination velocity, quantum efficiency, I-V curve;  thin film solar cell technologies, amorphous Si solar cells, CdTe, CIGs solar cells, solar cells and solar PV modules, issues with solar P...
+
+## EN 642: Power Generation and Systems Planning
+- Credits: 6
+- Type: Theory
+- Description: Overview of the Indian power sector, Thermodynamic analysis of Conventional Power Plants. Advanced Power Cycles, Kalina (Cheng) Cycle, IGCC, AFBC/PFBC  Overview of Nuclear power plant, Radio activity, Cross sections, Fission process, reaction rates, diffusion theory, elastic scattering and slowing down, criticality calculations, critical heat flux, power reactors, nuclear safety.  Steam Turbine - Superheater, reheater and partial condenser vacuum.Combined Feed heating and Reheating. Regenerative Heat Exchangers, Reheaters and Intercoolers in Gas Turbine power plants. Hydro power plants - turbine characteristics. Auxiliaries - Water Treatment Systems, Electrostatic Precipitator / Flue gas Desulphurisation, Coal crushing / Preparation - Ball mills / Pulverisers, ID/FD Fans, Chimney, Cooling ...
+
+## EN 645: Process Integration
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Process Integration, Targeting for energy, Area, unit and cost Heat exchanger network design and evolution, Heat exchanger design, Retrofit design, Mathematical optimization techniques, Process integration of different systems: fired heater, Cogeneration and utility system, Solar thermal, stand alone power system distillation column, evaporators, Resource management: Water management, Hydrogen management, Environmental management, Recent developments
+
+## EN 646: Energy and Climate
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Energy and us: Energy terms; Current energy scenario (World, US, India); Fossil energy Vs renewable sources; Electricity; Future projections; Externalities of energy use. Carbon Cycle: Natural systems autotrophs, heterotrophs, energy flows, pre-industrial humanity; Photosynthesis- efficiency of natural ecosystems, forests and various crops; Respiration, combustion and other oxidation processes; Biomethanation Climate Science Research: Climate history; Greenhouse gas effect; Anthropogenic climate change; Role of different gases; Global problem; Integrated assessment models; Impacts and adaptation; Uncertainties; Precautionary principle Carbon Sequestration: Biological pathways; Physico-chemical methods; CO2 capture from large point sources; Pre-, post- and oxy-combustion technology; Transpo...
+
+## EN 647: Distributed Generation and Microgrids
+- Credits: 6
+- Type: Theory
+- Description: vii Course Content* Introduction to distributed generation and microgrids, components, micro-sources, loads, power electronic   interface,     architecture (dc/ac/hybrid) of microgrids, storage. Integration issues of distributed generation,  synchronization, stability aspects in microgrids,     islanding    techniques.    Motor     starting    in Microgrids Power management and operation, maximum  power point tracking algorithms for renewable energy     systems,    remote     monitoring  of microgrids/power      plants,     demand  side management        (demand     response, energy efficiency     programs)       centralized      and decentralized systems. Introduction to multi-agent system and smart grid.
+
+## EN 648: Combustion Engineering
+- Credits: 6
+- Type: Theory
+- Description: 1.1 Introduction: Motivation to study combustion; Definition of combustion; Combustion modes and flame types; Fuels: Types of fuel; Fuel usage; Choice of fuels; Classification of fuels; Properties of liquid fuel 1.2 Combustion and Thermochemistry: Review of property relations (Extensive and intensive properties, Equation of state, Ideal gas mixtures, Latent heat of vaporization); Reactant and product mixtures (Stoichiometry, Absolute enthalpy and enthalpy of formation, enthalpy of combustion and heating values); Adiabatic flame temperatures; Chemical equilibrium; Equilibrium products of combustion; Exhaust gas recirculation 1.3 Chemical Kinetics: Elementary Reaction Rates: Rates of reaction for multistep mechanisms; Relation between rate coefficients and equilibrium constants; Chain and ch...
+
+## EN 649: Introduction to Particulate Flow
+- Credits: 6
+- Type: Theory
+- Description: Introduction to particulate matter: Definition, occurrence and examples of granular and particulate flow Basics: particle characterisation, size distribution and shape, inter-particle interactions, collisions, deformation, friction, angle of repose, Janssen effect, flow regimes Theory of slow flow: Mohr-Coulomb yield condition, flow rules and co-axiality condition modelling of flow through hoppers Theory of Rapid flow: kinetic theory of granular materials, analysis of flow in simple geometries, Hybrid theory: example of chute flow Modelling of Solid-Fluid Mixture: continuum and discrete approach through example of fluidised beds
+
+## EN 651: Multiphase Petroleum Transportation
+- Credits: 6
+- Type: Theory
+- Description:  Fundamentals of Single Phase Flow: Introduction of mass, momentum and energy bal- ance for single phase flow. Introduction of frictional factor in Laminar and turbulent single phase pipe flow.  Fundamentals of Multiphase Flow: Introduction to principles of multiphase flow, differ- ent flow regimes, pressure and temperature prediction in the pipeline and methodology for pipeline sizing.  Phase Behaviour and Physical Properties of different oil: Analysis of physical proper- ties for oil recovered from different climatic region and prediction of their compositional phase behaviour and PVT prediction software.  Steady State Multiphase flow: Introduction to steady state multiphase flow, wells, flow- lines and risers. Pipeline design for fluid consisting oil/gas and gas. Design for slugging...
+
+## EN 653: Energy Policy Analysis
+- Credits: 6
+- Type: Theory
+- Description: The course will provide the tools and techniques necessary for analyzing energy policies. Students will be expected to carry out a project to analyse an existing policy in a specific context or design a policy intervention for a specific goal. Overview of energy policy instruments - pricing, regulation, Incentives, subsidies Framework for policy analysis, stakeholders, criteria - energy access, security, sustainability, development Case studies of a few energy policies - successes and failures, Free riders and rebound effect Reference Energy system, End Use Analysis Modelling Energy Demand, Elasticities Susbtitution- S-shaped Logistic curves, Examples of accelerated diffusion- factors affecting diffusion Economy wide impacts- Input-Output models, Optimisation models, TIMES-MARKAL Scenario ...
+
+## EN 655: Energy Laboratory III
+- Credits: 3
+- Type: Laboratory
+- Description: Performance of pin fin, Electrochemical system I/V characteristics of fuel cell, Performance of heat exchanger, Characterization of solar cells (I/V curve, structural response, effect of temperature on different types of cells), Characterisation of PV modules (I / V curve under series/parallel connection), Determination of drift and drag coefficient of turbine blades, Characterize and model leakage through labrynth seal, Compressible flow through converging and diverging ducts, Fuel Cell demonstration experiment, Gasifier testing, IC engine testing, Performance of converging and diverging nozzle.
+
+## EN 657: IC Engine, Alternate Fuels and Emissions
+- Credits: 6
+- Type: Theory
+- Description: Introduction: IC engines classifications (SI & CI engine, 2-stroke & 4-stroke engine), Thermodynamic Cycles Combustion in IC engine: Thermochemistry of Fuel-Air mixture, characterization of flame, Combustion stoichiometry, Chemical equilibrium, Chemical kinetics Properties of fuel and its effect on combustion: Engine knock & detonation, abnormal combustion Engine Emissions and Control: Theory of NO x , SO x , CO, UHC & PM formation, Emission norms, role of fuel, lubricant, engine design and operation parameters on emissions Alternate fuels, properties, suitability and emissions: CNG, LPG, H 2 , Hythane, Di-Methyl Ether, Ethanol, Biodiesel Novel technologies and strategies to curb emissions: Homogeneous charge CI (HCCI) engines, Premixed Charge Compression Ignition (PCCI), Emission control ...
+
+## EN 658: Electrochemical Energy Storage
+- Credits: 6
+- Type: Theory
+- Description: 1. Thermodynamics and Kinetics of Electrochemical Reactoions2. Introduction to Electrochemical Techniques:(a) Electrochemical Impedance Spectroscopy (EIS) and its applications(b) Cycling Voltammetry and Linear Polarization (c) Galvanostatic Intermittent Titration3. Electrochemical Energy Storage Systems(a) Advanced Rechargeable Batteries(b) Supercapacitors4. Hybrid power systems: Differences/interactions between batteries and supercapacitors5. Current distribution in electrochemical Systems6. GFluid flow and mass transfer problems in Electrochemical systems7. Porous electrode theory8. Modelling and Simulation of Batteris and Supercapacitors.
+
+## EN 659: Energy Efficient Industrial Drives
+- Credits: 6
+- Type: Theory
+- Description: Module 1 - Introduction: Energy consumption across the world, categories of energy consumers, industrial energy consumption, industrial motor drives as significant energy consumers, applications of industrial drives, low voltage (LV) and medium voltage (MV) industrial drives, popular configurations of LV and MV industrial drives         Module 2 - Energy efficiency of popular industrial drive systems: Energy flow in an industrial drive, typical energy efficiencies of the various sub-systems in popular applications - pumps, fans, compressed air systems, elevators, hoists, conveyors, cranes, mathematical models of energy efficiency in industrial drive systems, effect of duty cycle on energy efficiency, opportunities for energy saving in industrial drive systems          Module 3 - Energy eff...
+
+## EN 660: Diffraction-based Characterization of Energy Materials
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction: (A) Energy materials: Defect-decorated materials, Layered-materials, Functional-oxides, Heterostructures, Low-dimensional materials (B) Structures: Long & short range order and amorphous; Pair Distribution Functions (PDFs) 2. Diffraction & Scattering: Reciprocal lattice; Ewald Sphere (A) Diffraction: Laue-s equations, Bragg-s law - Treatment in real and reciprocal spaces; Bloch waves (B) Scattering: Elastic scattering, Atomic scattering factor, Structure factor, Back-scatter and characteristic signals, Inelastic scattering 3. Hardware: X ray and electron sources; Lenses and Apertures - Condenser, Objective and Diffraction; Resolution; Spherical and Chromatic Aberrations; Astigmatism; Detectors 4. Imaging: (A) Scanning Electron Microscopy: Secondary, Back-Scatter; Magnifica...
+
+## EN 661: Micro and Nanoscale Energy Transport
+- Credits: 6
+- Type: Theory
+- Description: 1. Introduction:  Continuum laws and limitations, Energy carriers at micro/nanoscale and their attributes, Engineering applications, Size effects; 2. Energy states:   Schrodinger equation; Energy states of quantum wells, harmonic oscillators, rigid rotors, hydrogen atoms,  electrons and phonons in crystals;  Applicability in nanoscale devices such as quantum dot lasers, superlattices and photonic crystals; 3. Energy storage:  Density of states; Ensembles; molecular partition functions; specific heat of gases; Fermi-Dirac and Bose Einstein distributions; Specific heat of phonons and electrons; 4. Energy transport:   Energy transport by waves,  Wave to particle transition, Boltzmann equation, scattering mechanisms and relaxation time approximation, Derivation of continuum laws including Four...
+
+## EN 691: M.Sc.-Ph.D. Project I
+- Credits: 20
+- Type: Project
+
+## EN 692: M.Sc.-Ph.D. Project II
+- Credits: 26
+- Type: Project
+
+## EN 693: M.Sc.-Ph.D. Project III
+- Credits: 24
+- Type: Project
+
+## EN 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: nil
+
+## EN 703: Advanced Concepts in Solar Cell Technologies
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Advanced ConceptsFundamental limits on conversion efficiency Shockley-Queisser theory, Multiple Junction solar cells, Quantum dot solar cells, Intermediate band solar cells, Photon splitting and multi application High efficiency c-Si solar cellslosses in solar cells; optical, electrical, ways to overcome the losses, concept of selective emitter, N-type and P-type cells, alternative surface recombination, alternative metallization, novel cell structures, metal wrap through cells, point contacts, buried contact cell, PERL cell, HIT cellsThin film silicon cells Concepts of thin film, thin film deposition techniques, CVD, PECVD, sputtering, Physics of amorphous and nano-crystalline Si and alloys transport properties, Defect density and recombination, Structural considerations, Optical properti...
+
+## EN 705: An Introduction to Energy Systems Engineering
+- Credits: 6
+- Type: Theory
+- Prerequisite: nil
+- Description: Overview of world energy scenario, Energy Crisis, Fossil Fuel reserves , India`s energy scenario,Primary energy analysis, Environmental Impacts. Energy alternatives- Energy efficiency and Renewables ,Energy auditing: methodology, analysis of past plant data, energy balance. Case studies of industrial energy efficiency applications.   Solar energy: Availability and estimation, Solar thermal conversion devices and storage. Solar photovoltaic conversion. Biomass Energy conversion, Wind energy conversion, Fuell Cells and other energy conversion technologies. Economic viability of alternatives, Sustainability.
+
+## EN 792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates on different topics 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 7.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software
+
+## EN 797: I Stage Project
+- Credits: 38
+- Prerequisite: 0
+
+## EN 798: II Stage Project
+- Credits: 42
+- Prerequisite: 0
+
+## EN 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## ENS801: Seminar
+- Credits: 4
+- Type: Seminar
+
+## ENT601: Intellectual Property for Entrepreneurs
+- Credits: 3
+- Type: Theory
+- Prerequisite: 0.0
+- Description:  Introduction to IP Introduction   Patent Fundamentals  Patent Informatics  Copyrights  Designs 302226 All forms of design including graphic and interaction design   Trade Marks, Service Dress, Branding   Trade Secrets and other forms of IP  Industry specific IP issues   IP Management   IP Issues in Agreements
+
+## ENT603: Introduction to Entrepreneurship
+- Credits: 6
+- Type: Theory
+- Description: ENT603 Introduction to Innovation & Entrepreneurship: It is a great time to create value and to create jobs in emerging economies as an entrepreneur. This activity-oriented foundation course provides the necessary context and content for learners interested in innovation and entrepreneurship. Learners will gain an understanding of the Entrepreneurial process - the entrepreneurial mindset, opportunity identification and innovation, customer discovery and Go-To-Market, entrepreneurial finance, and technology venture creation. This course will use a combination of concept teaching and real-life storytelling to bring alive the entrepreneurial journey for learners. Learners can apply the principles and practices taught through a hands-on course project. There have been ventures created by stude...
+
+## ENT605: Business Fundamentals for Technopreneurs
+- Credits: 3
+- Type: Theory
+- Description: Businesses today are very complex and multi-disciplinary operations. Aspiring entrepreneurs and managers need to have a broad based overview of how companies operate and succeed. This course introduces the Fundamentals of Business to the learners.  1. Business and Business Environment 2. Company Structure, Goals, Strategy & Values 3. New Product Development, Manufacturing & Quality Management 4. Leading Teams & Human Resource Management 5. Marketing. Branding & Advertising 6. B2B / B2C Sales & Distribution Channels 7. Customer Service & Advocacy. 8. Supply Chain & Logistics 9. Finance & Accounting 10. Environment Society & Governance
+
+## ENT606: Developing a Proof of Concept- Basic
+- Credits: 6
+- Type: Laboratory
+- Description: ENT 606 Developing a Proof of Concept (Basic) is a foundational lab course for aspiring entrepreneurs - it is a project-based course and involves workshops in the lab where students gain hands-on experience in fundamental skills required for product development. The expected output is a product designed after learning from the workshops, and having undergone concept and product development for your start-up ideas. Both the concept and the product will be considered and evaluated for the course grade. Learning Objectives : (1) Hands-on approach to model building (2) Prototype-Design Approaches (3) Creation of working prototype (4) Testing of prototype
+
+## ENT899: Communication Skills
+- Credits: 4
+- Description: X
+
+## ENTS01: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar
+
+## ENTS02: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: Ph.D. Seminar

@@ -1,0 +1,341 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# BSBE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## A. Banerjee
+- Department: BSBE
+- Designation: Associate Professor
+- Email: abanerjee@iitb.ac.in
+- Primary Research Area: Host-Pathogen Interactions & Innate Immunity
+- Research Interests & Innovation Focus: Host-pathogen interactions, innate immunity, inflammation, microbial pathogenesis, immune signalling
+- Notable Projects: Innate immune response studies, pathogen defence mechanisms
+- Key Tools & Platforms: Cell culture, flow cytometry, Western blot, microscopy
+- Innovation Keywords: host-pathogen, innate immunity, inflammation, immune signalling, pathogenesis
+- Profile: https://www.bio.iitb.ac.in/people/faculty/banerjee-a/
+
+## A. Kumar
+- Department: BSBE
+- Designation: Associate Professor
+- Email: ashutoshk@iitb.ac.in
+- Primary Research Area: Biomolecular NMR & Structural Biology
+- Research Interests & Innovation Focus: Biomolecular NMR spectroscopy, structural biology, protein structure determination, biologics characterization
+- Notable Projects: NMR-based protein structure, biologics characterization
+- Key Tools & Platforms: NMR spectrometer, protein expression systems
+- Industry Collaborations: Biopharma companies
+- Innovation Keywords: NMR, structural biology, protein structure, biologics, spectroscopy
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kumar-ashutosh/
+
+## A. Kunwar
+- Department: BSBE
+- Designation: Associate Professor
+- Email: akunwar@iitb.ac.in
+- Primary Research Area: Biophysics, Motor Proteins & IoT
+- Research Interests & Innovation Focus: Biophysics, computational biology, motor proteins, protein-drug interaction, UV disinfection technology, robotics and IoT
+- Notable Projects: Motor protein dynamics, UV disinfection devices, IoT-based biosystems
+- Key Tools & Platforms: Optical tweezers, fluorescence microscopy, Arduino, IoT platforms
+- Innovation Keywords: biophysics, motor proteins, UV disinfection, robotics, IoT, computational biology
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kunwar-ambarish/
+
+## D. Paul
+- Department: BSBE
+- Designation: Associate Professor
+- Email: debjani.paul@iitb.ac.in
+- Primary Research Area: Microfluidics & Biosensors Lab
+- Research Interests & Innovation Focus: Microfluidics, biological physics, lab-on-a-chip, biosensors, point-of-care diagnostics, single-cell analysis
+- Notable Projects: Lab-on-chip diagnostic devices, microfluidic biosensors
+- Key Tools & Platforms: Microfluidic fabrication, fluorescence microscopy, MATLAB
+- Industry Collaborations: Diagnostics companies
+- Innovation Keywords: microfluidics, lab-on-chip, biosensors, point-of-care, single-cell, diagnostics
+- Profile: https://www.bio.iitb.ac.in/people/faculty/paul-d/
+
+## D.K. Agrawal
+- Department: BSBE
+- Designation: Professor
+- Email: dkagrawal@iitb.ac.in
+- Primary Research Area: Biomedical Informatics & Medical Devices
+- Research Interests & Innovation Focus: Biomedical informatics, healthcare process modelling, disease and physiological modelling, nonlinear time-series analysis, medical device development
+- Notable Projects: Medical device development, physiological modelling systems
+- Key Tools & Platforms: MATLAB, Python, medical imaging tools
+- Industry Collaborations: Medical device companies
+- Innovation Keywords: biomedical informatics, medical devices, physiological modelling, healthcare
+- Profile: https://www.bio.iitb.ac.in/people/faculty/agrawal-dk/
+
+## H. Varma
+- Department: BSBE
+- Designation: Associate Professor
+- Email: harivarma@iitb.ac.in
+- Primary Research Area: Medical Imaging Optics Lab
+- Research Interests & Innovation Focus: Medical imaging optics, laser speckle contrast imaging, diffuse correlation spectroscopy/tomography, blood flow measurement
+- Notable Projects: Laser speckle blood flow imaging, diffuse optical tomography
+- Key Tools & Platforms: Laser systems, cameras, optical components, MATLAB
+- Industry Collaborations: Medical imaging companies
+- Innovation Keywords: medical imaging, laser speckle, diffuse optics, blood flow, optical tomography
+- Profile: https://www.bio.iitb.ac.in/people/faculty/varma-h/
+
+## K. Kondabagil
+- Department: BSBE
+- Designation: Associate Professor
+- Email: kirankondabagil@iitb.ac.in
+- Primary Research Area: Giant Virus & Bacteriophage Biology
+- Research Interests & Innovation Focus: Origin and evolution of viruses, giant virus and bacteriophage biology, DNA replication and packaging, environmental virology
+- Notable Projects: Giant virus discovery and characterization, phage biology
+- Key Tools & Platforms: EM, molecular biology, bioinformatics
+- Innovation Keywords: virology, giant viruses, bacteriophages, DNA packaging, environmental virology
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kondabagil-k/
+
+## N. Kanekar
+- Department: BSBE
+- Designation: Assistant Professor
+- Email: nkanekar@iitb.ac.in
+- Primary Research Area: Motor Control & Rehabilitation
+- Research Interests & Innovation Focus: Human motor control, systems neurophysiology, biomechanics, balance and gait, rehabilitation technology
+- Notable Projects: Rehabilitation device development, balance assessment systems
+- Key Tools & Platforms: Motion capture, EMG, force plates, EEG
+- Industry Collaborations: Rehabilitation technology companies
+- Innovation Keywords: motor control, neurophysiology, biomechanics, rehabilitation, balance, gait
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kanekar-n/
+
+## N. Thirugnanasambandam
+- Department: BSBE
+- Designation: Assistant Professor
+- Email: nivethida.t@iitb.ac.in
+- Primary Research Area: Neuromodulation & Motor Physiology Lab
+- Research Interests & Innovation Focus: Human motor neurophysiology, non-invasive neuromodulation (TMS/tES), neural signal processing, movement disorders
+- Notable Projects: TMS-based neuromodulation studies, movement disorder research
+- Key Tools & Platforms: TMS, tES, EEG, EMG, MATLAB
+- Industry Collaborations: Neuromodulation device companies
+- Innovation Keywords: neuromodulation, TMS, motor physiology, movement disorders, neural signals, EEG
+- Profile: https://www.bio.iitb.ac.in/people/faculty/nivethida-t/
+
+## P. Bhaumik
+- Department: BSBE
+- Designation: Associate Professor
+- Email: pbhaumik@iitb.ac.in
+- Primary Research Area: Structural Biology & Drug Design
+- Research Interests & Innovation Focus: Protein crystallography, structure-based antimalarial drug development, structural enzymology, macromolecular structure-function relationships
+- Notable Projects: Antimalarial drug target structures, enzyme structure determination
+- Key Tools & Platforms: X-ray crystallography, protein expression, purification
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: crystallography, antimalarial drugs, structural biology, enzymology
+- Profile: https://www.bio.iitb.ac.in/people/faculty/bhaumik-p/
+
+## P. Tayalia
+- Department: BSBE
+- Designation: Associate Professor
+- Email: prakriti@iitb.ac.in
+- Primary Research Area: Tissue Engineering & Gene Delivery Lab
+- Research Interests & Innovation Focus: Cell and tissue engineering, 3D cell culture, gene delivery, cryogel scaffolds, immunotherapy, skin regeneration
+- Notable Projects: Cryogel scaffold development, 3D culture for cancer studies
+- Key Tools & Platforms: 3D printing, cell culture, rheometer, SEM
+- Industry Collaborations: Biomedical companies
+- Innovation Keywords: tissue engineering, 3D culture, gene delivery, cryogel, immunotherapy, skin
+- Profile: https://www.bio.iitb.ac.in/people/faculty/tayalia-p/
+
+## P.S. Phale
+- Department: BSBE
+- Designation: Professor
+- Email: pphale@iitb.ac.in
+- Primary Research Area: Microbial Metabolism & Biodegradation
+- Research Interests & Innovation Focus: Biodegradation of aromatic compounds, oxygenase biochemistry, Pseudomonas metabolism, metabolic engineering for bioremediation
+- Notable Projects: Aromatic compound biodegradation pathways, oxygenase engineering
+- Key Tools & Platforms: GC-MS, HPLC, microbiology tools
+- Industry Collaborations: Environmental remediation companies
+- Innovation Keywords: biodegradation, oxygenase, Pseudomonas, metabolic engineering, bioremediation
+- Profile: https://www.bio.iitb.ac.in/people/faculty/phale-ps/
+
+## P.V. Balaji
+- Department: BSBE
+- Designation: Professor
+- Email: balaji@iitb.ac.in
+- Primary Research Area: Computational Biology & Glycobiology
+- Research Interests & Innovation Focus: Computational biology, bioinformatics, glycobiology, functional annotation of proteins, carbohydrate structure prediction
+- Notable Projects: Protein annotation tools, glycan structure databases
+- Key Tools & Platforms: Python, bioinformatics tools, molecular modelling
+- Innovation Keywords: computational biology, bioinformatics, glycobiology, protein annotation
+- Profile: https://www.bio.iitb.ac.in/people/faculty/balaji-pv/
+
+## R. Mallik
+- Department: BSBE
+- Designation: Professor
+- Email: rmallik@iitb.ac.in
+- Primary Research Area: Motor Proteins & Lipid Biology
+- Research Interests & Innovation Focus: Motor proteins and lipids, liver biology, lipoprotein secretion, intracellular transport, single-molecule biophysics
+- Notable Projects: Motor protein dynamics, lipid droplet transport studies
+- Key Tools & Platforms: Optical tweezers, single-molecule fluorescence, cell biology
+- Awards: Shanti Swarup Bhatnagar Prize
+- Innovation Keywords: motor proteins, lipid biology, liver, lipoprotein, single-molecule biophysics
+- Profile: https://www.bio.iitb.ac.in/people/faculty/mallik-r/
+
+## R. Manchanda
+- Department: BSBE
+- Designation: Professor
+- Email: rmanch@iitb.ac.in
+- Primary Research Area: Computational Neuroscience Lab
+- Research Interests & Innovation Focus: Computational neuroscience, synaptic transmission, smooth muscle and neuron electrophysiology, bladder biophysics, striatal neurons
+- Notable Projects: Computational models of neural circuits, bladder biophysics
+- Key Tools & Platforms: NEURON, MATLAB, electrophysiology equipment
+- Innovation Keywords: computational neuroscience, synaptic transmission, electrophysiology, bladder, striatal
+- Profile: https://www.bio.iitb.ac.in/people/faculty/manchanda-r/
+
+## R. Padinhateeri
+- Department: BSBE
+- Designation: Professor
+- Email: ranjithp@iitb.ac.in
+- Primary Research Area: Chromatin & Computational Biology Lab
+- Research Interests & Innovation Focus: Data-driven modelling, chromatin polymer simulations, epigenetics, nucleosome positioning, gene regulation
+- Notable Projects: Chromatin dynamics simulations, epigenetic modelling
+- Key Tools & Platforms: MATLAB, Python, MD simulation tools, HPC
+- Innovation Keywords: chromatin, epigenetics, polymer simulations, nucleosome, gene regulation, data-driven
+- Profile: https://www.bio.iitb.ac.in/people/faculty/ranjith-p/
+
+## R. Patkar
+- Department: BSBE
+- Designation: Associate Professor
+- Email: rajeshpatkar@iitb.ac.in
+- Primary Research Area: Fungal Pathobiology Lab
+- Research Interests & Innovation Focus: Fungal molecular pathobiology, host-pathogen interactions, rice blast disease (Magnaporthe oryzae), invasive candidiasis
+- Notable Projects: Rice blast fungal biology, candidiasis pathogenesis
+- Key Tools & Platforms: Fungal genetics, microscopy, molecular biology
+- Industry Collaborations: Agricultural research organizations
+- Innovation Keywords: fungal pathobiology, rice blast, Magnaporthe, candidiasis, host-pathogen
+- Profile: https://www.bio.iitb.ac.in/people/faculty/patkar-r/
+
+## R. Purwar
+- Department: BSBE
+- Designation: Associate Professor
+- Email: purwarrahul@iitb.ac.in
+- Primary Research Area: Tumor Immunology & CAR-T Lab
+- Research Interests & Innovation Focus: Tumor immunology, cancer biomarkers, CAR-T cell therapy, cutaneous T-cell lymphoma, skin biology, immunotherapy
+- Notable Projects: CAR-T cell therapy development, cancer biomarker discovery
+- Key Tools & Platforms: Flow cytometry, cell culture, CRISPR, molecular biology
+- Industry Collaborations: Pharma and immunotherapy companies
+- Innovation Keywords: tumor immunology, CAR-T, cancer biomarkers, immunotherapy, skin biology
+- Profile: https://www.bio.iitb.ac.in/people/faculty/purwar-r/
+
+## R. Srivastava
+- Department: BSBE
+- Designation: Professor
+- Email: rsrivasta@iitb.ac.in
+- Primary Research Area: BioMEMS & Nanomedicine Lab
+- Research Interests & Innovation Focus: Medical diagnostic devices, nanoengineered materials, BioMEMS, photothermal cancer therapy, nanotechnology-based drug delivery
+- Notable Projects: Point-of-care diagnostic devices, photothermal cancer therapy nanoparticles
+- Key Tools & Platforms: Microfabrication, SEM, TEM, cell culture, MATLAB
+- Industry Collaborations: Medical device and pharma companies
+- Innovation Keywords: BioMEMS, nanomedicine, diagnostics, photothermal therapy, drug delivery, nanoparticles
+- Profile: https://www.bio.iitb.ac.in/people/faculty/srivastava-r/
+
+## S. Kaledhonkar
+- Department: BSBE
+- Designation: Assistant Professor
+- Email: sandipk@iitb.ac.in
+- Primary Research Area: Cryo-EM & Structural Biology
+- Research Interests & Innovation Focus: Cryo-EM, cryo-ET, structural biology, time-resolved cryo-EM, ribosome dynamics, macromolecular machines
+- Notable Projects: Time-resolved cryo-EM of ribosome, macromolecular structure determination
+- Key Tools & Platforms: Cryo-EM, cryo-ET, image processing software
+- Innovation Keywords: cryo-EM, cryo-ET, structural biology, ribosome, macromolecular machines
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kaledhonkar-s/
+
+## S. Kumar
+- Department: BSBE
+- Designation: Associate Professor
+- Email: sushil.kumar@iitb.ac.in
+- Primary Research Area: Cancer Biology & Liquid Biopsy
+- Research Interests & Innovation Focus: Cancer biology, big data analysis in cancer, liquid biopsy, circulating tumor DNA, biomarker discovery
+- Notable Projects: Liquid biopsy for cancer diagnostics, ctDNA analysis
+- Key Tools & Platforms: NGS, bioinformatics tools, PCR
+- Industry Collaborations: Cancer diagnostics companies
+- Innovation Keywords: cancer biology, liquid biopsy, ctDNA, big data, biomarkers, diagnostics
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kumar-sushil/
+
+## S. Nair
+- Department: BSBE
+- Designation: Associate Professor
+- Email: sreelaja@iitb.ac.in
+- Primary Research Area: Developmental Biology & Zebrafish
+- Research Interests & Innovation Focus: Zebrafish developmental biology, axis patterning, gastrulation, embryonic signalling, vertebrate development
+- Notable Projects: Zebrafish embryo patterning, gastrulation mechanism studies
+- Key Tools & Platforms: Confocal microscopy, zebrafish facility, molecular biology
+- Innovation Keywords: zebrafish, developmental biology, axis patterning, gastrulation, embryonic signalling
+- Profile: https://www.bio.iitb.ac.in/people/faculty/nair-s/
+
+## S. Patankar
+- Department: BSBE
+- Designation: Professor
+- Email: patankar@iitb.ac.in
+- Primary Research Area: Parasitology & Drug Discovery
+- Research Interests & Innovation Focus: Malaria, toxoplasmosis, latent stages, protein trafficking, drug discovery for parasitic diseases
+- Notable Projects: Antimalarial drug discovery, parasite biology studies
+- Key Tools & Platforms: Cell culture, molecular biology, screening assays
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: malaria, drug discovery, parasitology, toxoplasmosis, protein trafficking
+- Profile: https://www.bio.iitb.ac.in/people/faculty/patankar-s/
+
+## S. Sen
+- Department: BSBE
+- Designation: Associate Professor
+- Email: shamiks@iitb.ac.in
+- Primary Research Area: Cell Mechanics & Mechanobiology Lab
+- Research Interests & Innovation Focus: Cell mechanics and mechanobiology, extracellular matrix, cancer invasion, cytoskeletal mechanics, embryonic development
+- Notable Projects: Cancer cell mechanics, ECM-cell interaction studies
+- Key Tools & Platforms: AFM, traction force microscopy, confocal, cell culture
+- Innovation Keywords: cell mechanics, mechanobiology, ECM, cancer invasion, cytoskeleton
+- Profile: https://www.bio.iitb.ac.in/people/faculty/sen-s/
+
+## S. Srivastava
+- Department: BSBE
+- Designation: Professor
+- Email: sanjeeva@iitb.ac.in
+- Primary Research Area: Proteomics & Biomarker Discovery Lab
+- Research Interests & Innovation Focus: Proteomics, mass spectrometry, protein microarrays, biomarker discovery in cancer and tropical diseases, systems biology
+- Notable Projects: Cancer biomarker discovery, tropical disease proteomics
+- Key Tools & Platforms: Mass spectrometer, protein microarray, HPLC
+- Industry Collaborations: Diagnostics and pharma companies
+- Innovation Keywords: proteomics, mass spectrometry, biomarkers, cancer diagnostics, tropical diseases
+- Profile: https://www.bio.iitb.ac.in/people/faculty/srivastava-s/
+
+## S.K. Ghosh
+- Department: BSBE
+- Designation: Professor
+- Email: santanughosh@iitb.ac.in
+- Primary Research Area: Chromosome Biology & Epigenetics
+- Research Interests & Innovation Focus: Chromosome segregation, meiotic and mitotic cell division, kinetochore biology, epigenetics, Candida life cycle
+- Notable Projects: Chromosome dynamics in yeast, kinetochore structure studies
+- Key Tools & Platforms: Fluorescence microscopy, yeast genetics, molecular biology
+- Innovation Keywords: chromosome segregation, kinetochore, epigenetics, Candida, cell division
+- Profile: https://www.bio.iitb.ac.in/people/faculty/ghosh-sk/
+
+## S.K. Kalva
+- Department: BSBE
+- Designation: Assistant Professor
+- Email: sandeep.kalva@iitb.ac.in
+- Primary Research Area: Biomedical Imaging & Instrumentation
+- Research Interests & Innovation Focus: Optoacoustics, ultrasound, biomedical imaging and instrumentation, photoacoustic tomography, medical diagnostics
+- Notable Projects: Photoacoustic imaging devices, biomedical instrumentation
+- Key Tools & Platforms: Ultrasound systems, laser sources, signal processing
+- Industry Collaborations: Medical imaging companies
+- Innovation Keywords: optoacoustics, ultrasound, biomedical imaging, photoacoustics, diagnostics
+- Profile: https://www.bio.iitb.ac.in/people/faculty/kalva-sk/
+
+## S.K. Maji
+- Department: BSBE
+- Designation: Professor
+- Email: samirmaji@iitb.ac.in
+- Primary Research Area: Protein Misfolding & Amyloid Lab
+- Research Interests & Innovation Focus: Protein misfolding and amyloid formation, neurodegenerative diseases (Alzheimer's, Parkinson's), functional amyloids, amyloid-based drug delivery
+- Notable Projects: Amyloid formation mechanism studies, functional amyloid materials
+- Key Tools & Platforms: ThT assay, TEM, CD, cell culture, AFM
+- Industry Collaborations: Pharma companies
+- Innovation Keywords: amyloids, protein misfolding, Alzheimer's, Parkinson's, drug delivery, neurodegeneration
+- Profile: https://www.bio.iitb.ac.in/people/faculty/maji-sk/
+
+## S.R. Shinde
+- Department: BSBE
+- Designation: Assistant Professor
+- Email: swapnilshinde@iitb.ac.in
+- Primary Research Area: Cilia & Intracellular Transport Lab
+- Research Interests & Innovation Focus: Cilia/flagella assembly and disassembly, ciliary signalling, ciliopathies, intracellular transport, GPCR trafficking
+- Notable Projects: Cilia biology, ciliopathy mechanism studies
+- Key Tools & Platforms: Fluorescence microscopy, molecular biology, cell culture
+- Innovation Keywords: cilia, flagella, ciliopathies, intracellular transport, GPCR, signalling
+- Profile: https://www.bio.iitb.ac.in/people/faculty/shinde-swapnil/

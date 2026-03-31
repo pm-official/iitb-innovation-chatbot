@@ -1,0 +1,30 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CSE + C-MInDS + KCDH Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Asst. Prof. Abir De
+- Department: CSE + C-MInDS + KCDH
+- Designation: Assistant Professor
+- Email: abir@cse.iitb.ac.in
+- Research Group: AI/ML Group; Trust Lab
+- Primary Research Area: Graph ML / Privacy
+- Research Interests & Innovation Focus: ML on graphs and sets; Social network analysis; Privacy-preserving ML; Temporal point processes; Misinformation detection
+- Notable Projects: ISONET; GraphEdX; Selcon (data subset selection); Trust Lab initiatives
+- Key Tools & Platforms: ISONET, GraphEdX, Selcon
+- Innovation Keywords: graph ML, social networks, privacy, misinformation, temporal processes, network analysis, data selection, trust
+- Profile: https://trustlab.iitb.ac.in/
+
+## Prof. Ganesh Ramakrishnan
+- Department: CSE + C-MInDS + KCDH
+- Designation: Professor; Bank of Baroda Chair in Digital Entrepreneurship
+- Email: ganesh@cse.iitb.ac.in
+- Research Group: AI/ML Group; Koita Centre for Digital Health; NDMC
+- Primary Research Area: AI / NLP / Data-Efficient ML
+- Research Interests & Innovation Focus: NLP & multilingual AI; Data-efficient ML & subset selection; Entity/relation extraction; Video analytics & surveillance; OCR for Indian languages; Fairness in AI; Multi-label learning; Knowledge sharing platforms
+- Notable Projects: BharatGen (India's first govt-funded multimodal LLM); Udaan (language translation ecosystem); DECILE (data-efficient ML); Lokacart (MSME platform); Lokavidya (knowledge sharing); VENTER (complaint resolution); Corontine (contact tracing)
+- Key Tools & Platforms: CORDS, DISTIL, SubmodLib, SPEAR (DECILE suite); Udaan translation platform; OCR systems for Indian languages
+- Industry Collaborations: IBM India Research (former); Microsoft India; Bharat Bhasha Tech; Strategic ERP; SrivisifiAI; Qualcomm; Adobe; Amazon
+- Awards: IRCC Impactful Research Award 2023; AIM 100 Top AI Leaders 2024; National eGovernance Gold Award 2022; IBM Faculty Award 2011; P.K. Patwardhan Tech Dev Award 2020
+- Innovation Keywords: NLP, multilingual AI, Indian languages, OCR, data-efficient ML, BharatGen, LLM, translation, video analytics, digital health, subset selection, fairness
+- Profile: https://www.cse.iitb.ac.in/~ganesh/

@@ -1,0 +1,13 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Research in Nanotechnology and Science - Course Catalog for IIT Bombay Students
+
+
+## NT 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## NTS801: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0

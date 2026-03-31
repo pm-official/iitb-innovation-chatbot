@@ -1,0 +1,691 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Civil Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Alok Goyal
+- Department: Civil
+- Designation: Professor
+- Email: agoyal@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Structural Dynamics / Earthquake Engineering
+- Research Interests & Innovation Focus: Structural dynamics & earthquake engineering; Vibration control; Seismic hazard assessment; Service life assessment; Repair, rehabilitation & retrofitting of RC buildings; Intake tower dynamics
+- Notable Projects: Seismic analysis of intake towers; Building vulnerability assessment; Vibration control strategies
+- Industry Collaborations: PhD from UC Berkeley
+- Awards: 269 citations; h-index 7
+- Innovation Keywords: earthquake engineering, structural dynamics, vibration control, seismic assessment, building retrofitting, intake towers, rehabilitation
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-alok-goyal
+
+## Prof. Ananth Wuppukondur
+- Department: Civil
+- Designation: Assistant Professor; Fulbright-Kalam Fellow at MIT
+- Email: a.wuppukondur@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: Coastal Hazards / Nature-Based Solutions
+- Research Interests & Innovation Focus: Hydrodynamics of natural hazards (floods, dam-breaks, cyclones, tsunamis); Nature-based coastal solutions; Mangrove forest hydrodynamics; Coral reef restoration & stabilization; Sediment transport & erosion; Coastal adaptation & ecosystem protection
+- Notable Projects: Mangrove storm surge mitigation quantification; Coral rubble stabilization (Great Barrier Reef); India-USA knowledge network for nature-based coastal solutions
+- Key Tools & Platforms: Dynamic fluids research lab
+- Industry Collaborations: MIT NEPF Lab (Fulbright-Kalam); University of Queensland PhD
+- Awards: Fulbright-Kalam Fellow at MIT
+- Innovation Keywords: coastal hazards, nature-based solutions, mangroves, coral reef restoration, storm surge, tsunami, dam break, erosion protection, ecosystem, Great Barrier Reef
+- Profile: https://www.dynamic-fluids-research.com/
+
+## Prof. Arghadeep Laskar
+- Department: Civil
+- Designation: Associate Professor
+- Email: laskar@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Concrete Structures / GFRP / Seismic Simulation
+- Research Interests & Innovation Focus: Concrete structures; Seismic simulation; Prestressed concrete; GFRP (fiber-reinforced polymer) materials; Seismic isolation systems; One-dimensional meta-material isolation
+- Notable Projects: Patent: Prestressed concrete composite beam using FRP bar (No. 462037, 2023); GFRP-concrete bond research; Novel meta-material isolation systems
+- Key Tools & Platforms: Concrete testing lab; Seismic simulation facilities
+- Awards: Young Faculty Award 2014-18; Fellow IStructE; Patent on prestressed GFRP composite beams; 569 citations
+- Innovation Keywords: concrete structures, GFRP, prestressed concrete, seismic isolation, fiber reinforced polymer, FRP, meta-material, patent, composite beam
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-arghadeep-laskar
+
+## Prof. Arpita Mondal
+- Department: Civil
+- Designation: Associate Professor
+- Email: arpita@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Climate Change Attribution / Hydroclimatic Extremes
+- Research Interests & Innovation Focus: Detection & attribution of climate change on hydrology; Hydroclimatic extremes (heat waves, floods, droughts); Spatio-temporal modelling of extremes; Risk assessment under non-stationarity; Urban flooding; ML for hydrologic statistics; Uncertainty modelling
+- Notable Projects: Multivariate Severity-Duration-Frequency drought atlas for India; Climate change attribution on freshwater (1980-2020); SERB POWER Research Grant 2023
+- Awards: AUA Scholars' Award 2020; DST INSPIRE Faculty 2020; SERB Early Career Research 2020; SERB POWER Grant 2023; Associate Editor Earth's Future, J Hydrology
+- Innovation Keywords: climate change attribution, hydroclimatic extremes, droughts, floods, heat waves, non-stationarity, frequency analysis, urban flooding, uncertainty, ML hydrology
+- Profile: https://sites.google.com/iitb.ac.in/arpitamondaliitb/
+
+## Prof. Ashish Juneja
+- Department: Civil
+- Designation: Professor
+- Email: ajuneja@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Tunnelling / Deep Foundations
+- Research Interests & Innovation Focus: Tunnelling & underground space development; Deep foundations (piles, anchors); Soil dynamics; Cemented soils & stabilization; Ground improvement; Centrifuge & numerical modelling; Big data in geotechnics
+- Notable Projects: Consultant: Indian Railways, NHSRCL, NPCIL, Mumbai Metro, Nagpur Metro, BMC, Samsung Engineering, Konkan Railways
+- Key Tools & Platforms: Centrifuge modelling facilities
+- Industry Collaborations: Indian Railways; Mumbai Metro; Nagpur Metro; Samsung Engineering; John Deere; Jan De Nul
+- Awards: Excellence in Teaching Award 2012; Industrial Impact Award 2014 (IIT Bombay); ISSMGE TC104 & TC204 member
+- Innovation Keywords: tunnelling, underground construction, deep foundations, piles, ground improvement, centrifuge modelling, metro tunnels, soil dynamics
+- Profile: https://www.civil.iitb.ac.in/~ajuneja/
+
+## Prof. Avijit Maji
+- Department: Civil
+- Designation: Professor
+- Email: amaji@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Highway Design Optimization / ML in Transport
+- Research Interests & Innovation Focus: Machine intelligence & CV in highway alignment; Optimization in transport infrastructure; Performance-based highway design; Effects of highway infra on driver behavior; High-speed rail planning; Genetic & evolutionary algorithms for alignment; Transportation safety & security
+- Notable Projects: Multi-objective highway alignment optimization; Ant colony optimization for vertical alignment; Driving simulator studies on highway geometries; Budget-constrained maintenance scheduling
+- Key Tools & Platforms: Genetic algorithms; Ant colony optimization; Driving simulator; 3D highway design optimization
+- Industry Collaborations: TRB Co-Chair (Performance-Based Approaches); Executive Secretary Transport Research Group of India; IRC H-8 Committee; Bombay Chamber of Commerce
+- Awards: 1616+ citations; 80+ technical papers
+- Innovation Keywords: highway design, alignment optimization, genetic algorithms, high-speed rail, driver behavior, machine learning, ant colony, performance-based design, transportation safety
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-avijit-maji
+
+## Prof. B.V.S. Viswanadham
+- Department: Civil
+- Designation: Institute Chair Professor
+- Email: viswam@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Centrifuge Modelling / Geosynthetics
+- Research Interests & Innovation Focus: Centrifuge modelling of geotechnical structures; Geosynthetics & geogrid-reinforced soil walls; Environmental geotechnics & landfill liner systems; Soft ground improvement; Liquefaction mitigation; Slope protection; PIV analysis
+- Notable Projects: Established India's large beam centrifuge facility (4.5m radius, 200g); Centrifuge modeling of geosynthetic structures; Levee studies with geocomposite drains; Dean Infrastructure Planning (2016-21)
+- Key Tools & Platforms: National Geotechnical Centrifuge Facility "Sudarshan" (first in India)
+- Industry Collaborations: Infrastructure projects consultancy
+- Awards: IGS H.C. Verma Diamond Jubilee Award (2023, 2021); ISIGS Indra Joshi Award 2018; IGS AFCONS Award 2020
+- Innovation Keywords: centrifuge modelling, geosynthetics, geogrid, landfill liner, ground improvement, liquefaction, soft ground, physical modelling, reinforced soil
+- Profile: https://www.civil.iitb.ac.in/~viswam/
+
+## Prof. Balaji Ramakrishnan
+- Department: Civil
+- Designation: Professor; Director NIOT (since Sept 2024)
+- Email: rbalaji@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: Coastal/Port Engineering / Marine Renewable Energy
+- Research Interests & Innovation Focus: Ocean/coastal engineering; Marine/port/harbour structures design & rehabilitation; Wave, tide, current & sediment dynamics; Marine renewable energy (waves, tides); Physical & numerical modelling of coastal processes; Physical oceanography
+- Notable Projects: Wave energy assessment across Indian EEZ, Lakshadweep, Andaman & Nicobar; Director NIOT; 3 monographs, 75 journal articles
+- Key Tools & Platforms: Physical & numerical coastal modelling facilities
+- Industry Collaborations: Director NIOT (National Institute of Ocean Technology); Sogreah Consultants Dubai (former)
+- Awards: S.P. Sukhatme Excellence in Teaching 2024; Distinguished Alumni Award 2022; IEI Marine Engineering Prize 2018 & 2022; R J Garde Award 2012
+- Innovation Keywords: coastal engineering, port design, marine renewable energy, wave energy, tidal energy, ocean engineering, coastal structures, sediment transport, NIOT
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-balaji-ramakrishnan
+
+## Prof. D. N. Singh
+- Department: Civil
+- Designation: Institute Chair Professor; D.L. Shah Chair for Innovation
+- Email: dns@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Environmental Geotechnics
+- Research Interests & Innovation Focus: Environmental geotechnics; Geomaterial characterization; Soil moisture measurement sensors (TDR, capacitance, DPHP); Heat migration through soils; Industrial by-product utilization; Municipal solid waste management; Contamination-geomaterial interaction
+- Notable Projects: Soil moisture sensor development; Temperature compensation for in-situ soil measurement; Unsaturated soil hydraulic conductivity; NPTEL courses on Environmental Geotechnics
+- Key Tools & Platforms: Soil moisture sensor frameworks; Environmental testing protocols
+- Industry Collaborations: Editor-in-Chief Environmental Geotechnics Journal (ICE UK); FNAE; F.ASCE; Fellow ICE UK
+- Awards: Fellow INAE, ASCE, ICE; 42 PhDs guided; 240+ technical articles
+- Innovation Keywords: environmental geotechnics, soil moisture sensors, waste management, contamination, geomaterial characterization, soil thermal properties, unsaturated soil
+- Profile: https://www.civil.iitb.ac.in/~dns/
+
+## Prof. Dasaka Murty
+- Department: Civil
+- Designation: Associate Professor
+- Email: dasaka@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Retaining Walls / Railway Ground Vibrations
+- Research Interests & Innovation Focus: Retaining wall design with relief shelves (novel methods); Slope stability; Rock mechanics; Railway track dynamics & ground vibrations; EPS geofoam as wave barriers; Earth pressure analysis & reduction
+- Notable Projects: Relief shelf retaining wall design; High-speed train vibration characterization; EPS geofoam vibration mitigation; Railway ground vibration research
+- Industry Collaborations: Railway infrastructure research
+- Awards: 1142+ citations; 94+ publications
+- Innovation Keywords: retaining walls, relief shelves, railway vibrations, ground vibration, earth pressure, slope stability, rock mechanics, geofoam, wave barriers
+- Profile: https://www.civil.iitb.ac.in/~dasaka/
+
+## Prof. Deepankar Choudhury
+- Department: Civil
+- Designation: Professor & HOD; Tarun Kant Chair Prof; FNASc, FNAE, FASc, F.ASCE
+- Email: dc@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Geotechnical Earthquake Engineering
+- Research Interests & Innovation Focus: Soil dynamics & dynamic soil-structure interaction; Pseudo-dynamic analysis (pioneering); Combined pile-raft foundations (CPRF); Seismic analysis of retaining walls & waterfront structures; Slope stability & liquefaction; Computational geomechanics; Seismic hazard analysis; Foundation engineering
+- Notable Projects: Design consultant for ATAL SETU (Mumbai Trans-Harbour Link, 21.8km sea bridge); National Nodal Coordinator PMRF; Chairman SDMA Maharashtra Disaster Mgmt; Expert on BMC High-Rise Committee; IS-16700 tall buildings
+- Key Tools & Platforms: GEEL (Geotechnical Earthquake Engineering Lab)
+- Industry Collaborations: Indian Railways; NHSRCL; NPCIL; BMC; Mumbai Metro; Maharashtra Govt
+- Awards: First "Best Teacher of Geotechnical Engineering Award" (IGS 2023); Fellow of 3 national academies + F.ASCE; Multiple IGS Best Paper Awards; 1156+ citations
+- Innovation Keywords: earthquake engineering, soil dynamics, foundation design, seismic analysis, retaining walls, liquefaction, pile foundations, geotechnical, sea bridge, pseudo-dynamic
+- Profile: https://www.civil.iitb.ac.in/~dc/
+
+## Prof. Dharamveer Singh
+- Department: Civil
+- Designation: Professor
+- Email: dvsingh@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Pavement Materials / Recycled Asphalt
+- Research Interests & Innovation Focus: Pavement materials characterization (asphalt, hot mix); RAP & RAS utilization; Warm mix asphalt (WMA); Locally available materials; Intelligent asphalt compaction; Constitutive modelling; Simple performance tests (rutting, fatigue, dynamic modulus); Pavement forensic investigation
+- Notable Projects: Recycled asphalt mix performance evaluation; Marshall-RT test development; MSCR & LAS testing; Ground tire rubber integration; WMA additives evaluation
+- Key Tools & Platforms: Pavement materials testing lab (dynamic modulus, resilient modulus, rutting, fatigue, moisture damage)
+- Industry Collaborations: Associate Editor Innovative Infrastructure Solutions (Springer); Editorial boards of pavement journals
+- Awards: 164+ publications on ResearchGate
+- Innovation Keywords: pavement engineering, asphalt, recycled asphalt, RAP, warm mix asphalt, rutting, fatigue, pavement design, sustainable roads, compaction
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-dharamveer-singh
+
+## Prof. Eswar Rajasekaran
+- Department: Civil
+- Designation: Associate Professor
+- Email: eswar@civil.iitb.ac.in
+- Research Group: Remote Sensing / Water Resources
+- Primary Research Area: Thermal Remote Sensing / Evapotranspiration
+- Research Interests & Innovation Focus: Thermal remote sensing & land surface temperature; Evapotranspiration modelling from satellite data; Drought monitoring using RS; Spatial downscaling of satellite products; Urban heat island effects; High-resolution ET disaggregation (PlanetScope)
+- Notable Projects: ET disaggregation (30m to 3m using PlanetScope); Diurnal Temperature Cycle modelling; NASA JPL postdoc (2016-18)
+- Key Tools & Platforms: Downscaling techniques (DisTrad, STITFM, PCR)
+- Industry Collaborations: NASA JPL (postdoc); IDP Climate Studies IITB
+- Innovation Keywords: thermal remote sensing, evapotranspiration, land surface temperature, drought monitoring, satellite, heat island, downscaling, NASA JPL
+- Profile: https://sites.google.com/site/erajaseka/
+
+## Prof. Gopal R. Patil
+- Department: Civil
+- Designation: Professor
+- Email: gpatil@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Freight Transportation / Network Optimization
+- Research Interests & Innovation Focus: Transportation network optimization; Freight modelling & logistics; Traffic operations & demand modelling; Emissions & environmental impact; Urban road network resilience; Agent-based traffic simulation
+- Notable Projects: Freight O-D synthesis; Mumbai Port freight demand forecasting; Optimal solid waste transportation for MMR; Video-based adaptive traffic control
+- Key Tools & Platforms: VISSIM; UTSP Virtual Lab; Agent-based modelling frameworks
+- Industry Collaborations: Mumbai Port Authority; Urban transportation planning
+- Awards: 2187+ citations; 50+ journal articles
+- Innovation Keywords: freight transportation, network optimization, logistics, traffic operations, emissions, urban resilience, agent-based simulation, waste transport, port
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-gopal-r-patil
+
+## Prof. Gowri Shankar C.
+- Department: Civil
+- Designation: Assistant Professor
+- Email: cg.shankar@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: Storm Surge Modelling / Cyclone Hazards
+- Research Interests & Innovation Focus: Storm surge & wave modelling; Tropical cyclone hazard assessment; Coastal compound flooding; Wind drag coefficient parameterization; Bay of Bengal cyclone impacts; Numerical storm simulation
+- Notable Projects: Wind stress sensitivity studies for tropical cyclones; Compound flooding modelling
+- Innovation Keywords: storm surge, cyclone, coastal flooding, tropical cyclone, Bay of Bengal, wind drag, wave modelling, compound flooding, coastal hazard
+- Profile: https://www.civil.iitb.ac.in/faculty/ocean-engineering
+
+## Prof. Indu J
+- Department: Civil
+- Designation: Associate Professor
+- Email: induj@civil.iitb.ac.in
+- Research Group: Remote Sensing
+- Primary Research Area: Microwave Remote Sensing / Radar Rainfall
+- Research Interests & Innovation Focus: Microwave remote sensing; Synthetic aperture radar (SAR); Precipitation microphysics & data assimilation; Satellite meteorology; Nowcasting precipitation; Uncertainty in radar-based rainfall; Fuzzy logic in RS
+- Notable Projects: SAR image processing research; Precipitation nowcasting; Digital Image Processing of RS Data (course)
+- Industry Collaborations: IDP Climate Studies IITB (associate faculty)
+- Innovation Keywords: SAR, microwave remote sensing, radar, precipitation, rainfall estimation, satellite meteorology, nowcasting, data assimilation, image processing
+- Profile: https://drinduj.in/
+
+## Prof. J. N. Mandal
+- Department: Civil
+- Designation: Professor Emeritus
+- Email: jmandal@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Geosynthetics (Pioneer in India)
+- Research Interests & Innovation Focus: Geosynthetics & reinforced soil structures (pioneering); Geotextiles & geogrids; Physical & numerical modelling; Ground improvement using geosynthetics; Waste management & nanomaterials; Transportation geotechnics; Geocell reinforcement
+- Notable Projects: Founded first geosynthetics testing lab in India; Founded IGS India Chapter (1988); Organized first Indian Geotextile Conference (1988); 6 books authored
+- Key Tools & Platforms: Geosynthetics Research & Testing Lab (first in India)
+- Industry Collaborations: International Geosynthetics Society; Pioneer of Indian geosynthetics industry
+- Awards: 3143+ citations; International awards for geosynthetics contributions; 6 authored/edited books
+- Innovation Keywords: geosynthetics, geotextiles, geogrids, geocells, reinforced soil, ground improvement, pavement reinforcement, waste management, nanomaterials
+- Profile: https://www.civil.iitb.ac.in/~cejnm/
+
+## Prof. Janga Reddy Manne
+- Department: Civil
+- Designation: Associate Professor
+- Email: mjreddy@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Multi-Objective Water Systems Optimization
+- Research Interests & Innovation Focus: Multi-objective reservoir optimization; Multi-criterion decision making; Hydrological modelling & forecasting; Water distribution systems optimization; Flood/drought risk assessment; Climate change impacts on water; Evolutionary & swarm intelligence algorithms
+- Notable Projects: MODE (multi-objective differential evolution); Multi-objective PSO; Ant colony for reservoirs; Composite channel design
+- Key Tools & Platforms: Optimization algorithm frameworks
+- Awards: 4500+ citations; Textbook: "Swarm Intelligence & Evolutionary Computing for Water Resource Systems"; 130+ papers
+- Innovation Keywords: multi-objective optimization, reservoir operation, swarm intelligence, evolutionary algorithms, flood risk, drought, water distribution, differential evolution
+- Profile: https://www.civil.iitb.ac.in/~mjreddy/
+
+## Prof. Jayadipta Ghosh
+- Department: Civil
+- Designation: Associate Professor
+- Email: jghosh@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Bridge Reliability / Seismic Fragility
+- Research Interests & Innovation Focus: Structural reliability & risk assessment; Bridge engineering; Ageing & corrosion deterioration; Seismic fragility analysis; ML for structural reliability; Mainshock-aftershock analysis; Life-cycle cost analysis
+- Notable Projects: Seismic reliability of aging bridge networks; ML algorithms for reliability analysis; Uncertainty partitioning in fragility; Bridge flood performance
+- Key Tools & Platforms: Computational reliability analysis; ML frameworks
+- Awards: Associate Editor Journal of Bridge Engineering (ASCE); 3062 citations
+- Innovation Keywords: bridge engineering, seismic fragility, structural reliability, corrosion, aging infrastructure, machine learning, life-cycle cost, risk assessment, floods
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-jayadipta-ghosh
+
+## Prof. K. V. Krishna Rao
+- Department: Civil
+- Designation: Professor & Deputy Director of IIT Bombay
+- Email: kvkrao@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Travel Demand Modelling / Urban Transit
+- Research Interests & Innovation Focus: Travel behavior & choice modelling; Urban land use-transport integration; Transit-oriented development (TOD); Air travel demand; Mode choice in developing countries; Metro system impact evaluation
+- Notable Projects: MMRDA Strategic Travel Demand Model; Mumbai Metro Master Plan (3 phases, 2006-2021); New metro lines impact on sustainable travel in MMR
+- Key Tools & Platforms: VISUM (travel demand modelling)
+- Industry Collaborations: MMRDA; Mumbai Metropolitan Region planning
+- Awards: Deputy Director of IIT Bombay; 2080+ citations
+- Innovation Keywords: travel demand, mode choice, urban transit, TOD, metro, land use transport, MMRDA, Mumbai metro, travel behavior, demand forecasting
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-k-v-krishna-rao
+
+## Prof. Kamal Bajoria
+- Department: Civil
+- Designation: Professor (39+ years at IITB)
+- Email: kbajoria@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Smart Materials / Piezoelectric Composites
+- Research Interests & Innovation Focus: Composite structures with piezoelectric layers; Shape memory alloys (SMA); Functionally graded materials; Thin-walled structures; Cold-formed steel; Aseismic design; Performance-based design
+- Notable Projects: Piezolaminated plate vibration control; SMA reinforced concrete; Hybrid FG plates with smart piezo application; Bistable composite actuation
+- Industry Collaborations: PhD from Cambridge University (age 27)
+- Awards: Best Paper Award (Intl Conference Paris 2012); M.Tech perfect score 9.41/10
+- Innovation Keywords: piezoelectric, shape memory alloy, smart materials, functionally graded, cold-formed steel, composite structures, vibration control, SMA concrete
+- Profile: https://www.civil.iitb.ac.in/~kmb/
+
+## Prof. Kapil Gupta
+- Department: Civil
+- Designation: Professor
+- Email: kgupta@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Urban Drainage / Flood Mitigation
+- Research Interests & Innovation Focus: Urban drainage & stormwater management; Flood disaster management; Sedimentation in channels; Urban water infrastructure; Water quality modelling (rivers, lakes, estuaries); Integrated urban drainage
+- Notable Projects: Mumbai Airport flood mitigation; Mumbai Railways flood projects; NDMA Urban Flooding Guidelines expert; Manual of Stormwater Drainage Systems (GoI); World Bank consultant on urban flooding; Projects in Mumbai, Delhi, Hyderabad, Chennai, Surat, Ahmedabad
+- Industry Collaborations: World Bank; NDMA; Municipal Corporation of Greater Mumbai; National & state govts
+- Awards: World Bank consultant; NDMA expert member
+- Innovation Keywords: urban flooding, stormwater, drainage, flood mitigation, Mumbai floods, water quality, urban water, NDMA, sedimentation, infrastructure
+- Profile: https://www.civil.iitb.ac.in/~kgupta/
+
+## Prof. M. C. Deo
+- Department: Civil
+- Designation: Professor Emeritus; Former HoD Civil (2005-08)
+- Email: mcdeo@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: AI/ML for Ocean & Coastal Engineering
+- Research Interests & Innovation Focus: AI & ML for hydrology & coastal engineering; Wave forecasting with neural networks; Tide prediction; Prediction of breaking waves; River stage forecasting with AI; Application of AI power in civil engineering
+- Notable Projects: Former HoD Civil (2005-08); Former Director VJTI Mumbai; ~200 research papers
+- Key Tools & Platforms: AI/ML models for ocean & coastal prediction
+- Awards: Fellow INAE; Prof H.H. Mathur Award; IRCC Research Award; Lifetime Achievement Award 2019 (Indian Society for Hydraulics); 2600+ citations; h-index 24
+- Innovation Keywords: AI for ocean engineering, neural networks, wave forecasting, tide prediction, ML hydrology, coastal AI, river stage forecasting, ocean AI
+- Profile: https://www.civil.iitb.ac.in/~mcdeo/
+
+## Prof. Manasa R. Behera
+- Department: Civil
+- Designation: Associate Professor
+- Email: manasarb@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: Storm Surge / Tidal Energy / Coastal Modelling
+- Research Interests & Innovation Focus: Computational ocean & coastal hydrodynamics; Storm surge, tide & tsunami modelling; Compound coastal flooding; Climate change on coastal systems; Wave & tidal energy assessment; TEC array optimization; Multi-phase flow
+- Notable Projects: Tidal stream energy resource assessment for Gulf of Khambhat; Compound coastal flooding assessment; TEC array optimization
+- Industry Collaborations: Climate Studies IIT Bombay (associate faculty)
+- Awards: R J Garde Research Award 2018; Gold Medalist BTech
+- Innovation Keywords: storm surge, tsunami, tidal energy, coastal flooding, climate change, wave energy, coastal modelling, compound flooding, cyclone, ocean engineering
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-manasa-ranjan-behera
+
+## Prof. Mandar Inamdar
+- Department: Civil
+- Designation: Associate Professor
+- Email: minamdar@civil.iitb.ac.in
+- Research Group: Structural Engineering / Mechanics
+- Primary Research Area: Mechanobiology / Biophysics
+- Research Interests & Innovation Focus: Mechanobiology & cellular biomechanics; Bio-polymer network mechanics; DNA mechanics; Bio-film mechanics; Applied mechanics for biological systems; Statistical mechanics of cells; Tissue modelling
+- Notable Projects: Cell mechanics research; Bio-film mechanics; E. coli shape modelling; DNA mechanics studies
+- Key Tools & Platforms: Cellular mechanics & biomechanics lab
+- Awards: 1881 citations; Interdisciplinary bridge between civil eng & life sciences
+- Innovation Keywords: mechanobiology, cell mechanics, biophysics, DNA mechanics, biofilm, tissue modelling, biomechanics, applied mechanics, biological systems
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-mandar-inamdar
+
+## Prof. Meera Raghunandan
+- Department: Civil
+- Designation: Assistant Professor
+- Email: meera@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Probabilistic Seismic Risk / Building Codes
+- Research Interests & Innovation Focus: Probabilistic seismic risk analysis; Performance prediction under dynamic loads; Building code evaluation; Seismic hazard assessment; Vulnerability functions; Mainshock-aftershock sequence analysis; Incremental dynamic analysis
+- Notable Projects: Probabilistic Seismic Risk Assessment of India 2020; Tectonic-region-specific vulnerability assessments; Building retrofitting with BRBs
+- Awards: ASCE Ernest E. Howard Award; 715 citations
+- Innovation Keywords: seismic risk assessment, building codes, probabilistic analysis, vulnerability assessment, fragility, retrofitting, earthquake, dynamic loads
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-meera-raghunandan
+
+## Prof. Nagendra R. Velaga
+- Department: Civil
+- Designation: Professor
+- Email: n.r.velaga@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Intelligent Transportation / Driver Behavior
+- Research Interests & Innovation Focus: ITS & human factors; Driver behavior & distraction; Transportation accessibility; GIS/GNSS in transportation; Autonomous vehicle safety & human interaction; Aggressive driving & lane-change; Safety in developing countries
+- Notable Projects: Driving simulator studies; In-vehicle digital voice-assistants in AVs; CSIR-CRRI collaboration (MoU 2024); Transportation accessibility India
+- Key Tools & Platforms: Driving simulator laboratory; GIS/GNSS analysis tools
+- Industry Collaborations: CSIR-CRRI collaboration; 18+ journal reviewer roles
+- Awards: IIT Bombay Research Paper Award 2020; 4145+ citations; h-index 23; 90+ publications
+- Innovation Keywords: intelligent transportation, driver behavior, autonomous vehicles, driving simulator, distracted driving, GIS, GNSS, accessibility, ITS, human factors
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-nagendra-rao-velaga
+
+## Prof. Naresh Chandiramani
+- Department: Civil
+- Designation: Professor
+- Email: naresh@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Structural Dynamics / Composite Beams
+- Research Interests & Innovation Focus: Structural dynamics & control; Solid mechanics; Composite structures; Nonlinear structural dynamics; Rotating laminated composite hollow box beam; Anisotropic composite analysis; Flutter & dynamic instability
+- Notable Projects: Composite beam vibration research; High-supersonic flow effects; Transverse shear deformation studies
+- Awards: 603 citations; h-index 15
+- Innovation Keywords: structural dynamics, composite beams, flutter, nonlinear dynamics, rotating structures, anisotropic composites, solid mechanics, vibration
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-naresh-k-chandiramani
+
+## Prof. Pinom Ering
+- Department: Civil
+- Designation: Assistant Professor
+- Email: pering@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Landslide Hazard / Computational Geomechanics
+- Research Interests & Innovation Focus: Large deformation modelling; Landslide hazard & risk assessment; Rainfall-induced landslides; Earthquake-induced landslides; Material point method; Probabilistic geotechnics; Spatial variability; Early warning systems
+- Notable Projects: Probabilistic back analysis of Malin landslide; Critical rainfall characterization for slope failure; Road system reliability under earthquake; ISSMGE TC-304 member
+- Awards: First woman faculty from Arunachal Pradesh at IIT Bombay; ISSMGE TC-304 corresponding member
+- Innovation Keywords: landslide hazard, rainfall-induced landslides, risk assessment, computational geomechanics, slope stability, early warning, probabilistic analysis, spatial variability
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-pinom-ering
+
+## Prof. Pradipta Banerji
+- Department: Civil
+- Designation: Professor; Former Director IIT Roorkee (2011-17)
+- Email: pbanerji@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Earthquake Eng / Structural Health Monitoring
+- Research Interests & Innovation Focus: Earthquake engineering; Structural health monitoring (SHM); Bridge asset management; Vibration control; Dynamic analysis of structures
+- Notable Projects: Bridge asset management under increased axle loads; SHM for steel bridges; Indian Railways technology development; 41 Masters + 12 Doctoral students supervised
+- Key Tools & Platforms: SHM systems
+- Industry Collaborations: Indian Railways; Major organizations; Former Director IIT Roorkee; Dean Alumni & International Relations IITB
+- Awards: Excellence in Teaching; UC Regents' Fellowship (2x); Director's Silver Medal IIT Delhi; 2360 citations
+- Innovation Keywords: earthquake engineering, structural health monitoring, bridge management, vibration control, SHM, structural dynamics, bridge design
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-pradipta-banerji
+
+## Prof. Prakash Nanthagopalan
+- Department: Civil
+- Designation: Associate Professor & Associate Dean EHS
+- Email: prakashn@civil.iitb.ac.in
+- Research Group: Construction Technology & Management
+- Primary Research Area: Blast/Ballistic-Resistant Concrete / SCC
+- Research Interests & Innovation Focus: Rheology of cement-based materials; Self-compacting concrete (SCC); Blast & ballistic-resistant concrete; UHPFRC; Stress wave attenuation; 3D printing concrete; Particle packing optimization; Lime & cement plasters
+- Notable Projects: UHPC blast/ballistic research; NSG Counter IED Innovation Award 2022; Ballistic impact testing; SCC rational mixture design
+- Key Tools & Platforms: Concrete materials testing lab
+- Industry Collaborations: National Security Guard (NSG); Government of India
+- Awards: NSG Counter IED Innovator Award 2022 (Govt of India); Excellence in Teaching 2014, 2018, 2021; Young Faculty Award 2011
+- Innovation Keywords: blast-resistant concrete, UHPFRC, self-compacting concrete, SCC, ballistic resistance, 3D printing concrete, rheology, impact resistance, NSG, counter-IED
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-prakash-nanthagopalan
+
+## Prof. Prasenjit Basu
+- Department: Civil
+- Designation: Professor
+- Email: pbasu@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Energy Geotechnics / Geothermal Piles
+- Research Interests & Innovation Focus: Energy geotechnics (heating/cooling); Geothermal energy harvesting through pile foundations; Thermo-hydro-mechanical soil characterization; Energy pile systems; Coupled thermo-hydro flow; Computational geomechanics
+- Notable Projects: Geothermal pile systems; Bridge deck deicing using geothermal energy (US DoT funded); Thermal optimization of foundation systems
+- Industry Collaborations: US Department of Transportation; Purdue University; IIT Kharagpur; IIT Delhi collaborations
+- Awards: 1504+ citations
+- Innovation Keywords: geothermal piles, energy geotechnics, thermal soil properties, pile foundations, thermo-hydro-mechanical, ground-source heat, sustainable geotechnics
+- Profile: https://prasenjitbasu.wixsite.com/pbasu
+
+## Prof. R. S. Jangid
+- Department: Civil
+- Designation: Professor
+- Email: rsjangid@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Base Isolation / Vibration Control
+- Research Interests & Innovation Focus: Base isolation for earthquake-resistant design; Vibration control (tuned mass dampers, negative stiffness dampers, inerter devices); Variable friction pendulum systems (VFPS); Lead-rubber bearing optimization; Active control of structures; Stochastic earthquake analysis
+- Notable Projects: Novel negative stiffness + inerter damper combinations; Performance optimization of base-isolated structures; Bridge isolation systems; Clutching inerter dampers
+- Key Tools & Platforms: Isolation & control laboratory
+- Awards: 8699+ citations; h-index 65 — highly cited researcher in structural control
+- Innovation Keywords: base isolation, vibration control, dampers, negative stiffness, inerter, friction pendulum, seismic isolation, tuned mass damper, lead rubber bearing
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-jangid-r-s
+
+## Prof. Raaj Ramsankaran
+- Department: Civil
+- Designation: Professor
+- Email: ramsankaran@civil.iitb.ac.in
+- Research Group: Remote Sensing / Water Resources
+- Primary Research Area: Cryosphere Remote Sensing / Glacier Modelling
+- Research Interests & Innovation Focus: Remote sensing & GIS for cryosphere; Snow & glacier dynamics modelling; Hydrometeorology & satellite rainfall; GNSS-IR techniques; Snow depth mapping; Glacier volume estimation; Data assimilation for hydrology; Urban remote sensing & QoL assessment
+- Notable Projects: Hydrological characterization of Snow & Glacier fed Himalayan river basins; H-RSA (Hydro-Remote Sensing Applications) Group; C-USE IIT Bombay
+- Key Tools & Platforms: GNSS-IR; Hydrologic/hydrodynamic/glacier dynamic models; Satellite data assimilation; GitHub repos
+- Industry Collaborations: Western Himalayas research collaborations
+- Innovation Keywords: remote sensing, glaciers, snow, cryosphere, Himalayas, GNSS, satellite hydrology, data assimilation, urban remote sensing, climate
+- Profile: https://www.civil.iitb.ac.in/~ramsankaran/
+
+## Prof. Ravi Sinha
+- Department: Civil
+- Designation: Professor; Former Dean Alumni & Corporate Relations
+- Email: rsinha@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Disaster Risk Management / Seismic Safety
+- Research Interests & Innovation Focus: Earthquake engineering; Disaster risk management; Seismic safety; Energy-absorbing & base-isolating devices; Building vulnerability evaluation; Performance-based rehabilitation
+- Notable Projects: Seismic resilience of code-conforming buildings; Performance-based rehabilitation of RC frames; CDRI Fellowship; National disaster policy
+- Key Tools & Platforms: Energy-absorbing & base-isolation devices
+- Industry Collaborations: National disaster risk policy-making; CDRI (Coalition for Disaster Resilient Infrastructure)
+- Awards: CDRI Fellowship; 2360 citations; Policy advisor
+- Innovation Keywords: disaster risk management, seismic safety, base isolation, building vulnerability, earthquake resistant design, retrofitting, resilience, risk reduction
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-ravi-sinha
+
+## Prof. Riddhi Singh
+- Department: Civil
+- Designation: Associate Professor
+- Email: riddhi@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Hydrology Under Change / Water Availability
+- Research Interests & Innovation Focus: Hydrology under environmental change (climate & land use); Water availability assessment; River basin modelling with limited observations; Watershed management; Decision-making under uncertainty; Hydrologic prediction in data-scarce regions; Water sharing strategies
+- Notable Projects: Water availability frameworks under changing environment; Sustainable water-sharing strategies
+- Awards: Associate of Indian Academy of Sciences 2018
+- Innovation Keywords: hydrology, water availability, climate change impacts, watershed, river basins, data-scarce, uncertainty, water sharing, land use change
+- Profile: https://riddhisingh.weebly.com/
+
+## Prof. Santiram Chatterjee
+- Department: Civil
+- Designation: Associate Professor
+- Email: santiram@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Offshore Geotechnics / Pipeline Engineering
+- Research Interests & Innovation Focus: Offshore geotechnical engineering; Pipeline geotechnics & subsea pipelines; Thermo-mechanical soil behavior; Offshore soil characterization; Soil-pipeline interaction; Skirted foundation design; Seismic liquefaction
+- Notable Projects: Pipeline upheaval resistance under thermal loading; Skirted foundation design; Free-fall penetration testing for offshore soil; Subsea pipeline design
+- Key Tools & Platforms: Offshore Geotechnics Lab
+- Industry Collaborations: Offshore oil & gas infrastructure; Energy & environmental geotechnics
+- Awards: IGS Prof. Shamsher Prakash Award (Soil Dynamics best paper); 789+ citations
+- Innovation Keywords: offshore geotechnics, subsea pipeline, skirted foundations, thermal loading, seabed, offshore structures, liquefaction, soil characterization
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-santiram-chatterjee
+
+## Prof. Saptarshi Kundu
+- Department: Civil
+- Designation: Research Faculty
+- Email: skundu@civil.iitb.ac.in
+- Research Group: Geotechnical Engineering
+- Primary Research Area: Ground Improvement / Dynamic Compaction
+- Research Interests & Innovation Focus: Dynamic compaction of ground; MSW landfill densification; Centrifuge modelling & in-flight simulation; Geotechnical centrifuge equipment development; Pavement subgrade improvement
+- Notable Projects: In-flight actuator development for dynamic compaction simulation; MSW landfill densification studies; Tamper design optimization
+- Key Tools & Platforms: Dynamic compaction simulation equipment
+- Awards: IGS H.C. Verma Diamond Jubilee Award 2021 (with Viswanadham)
+- Innovation Keywords: dynamic compaction, ground improvement, landfill densification, centrifuge modelling, waste management, tamper design, settlement
+- Profile: https://www.civil.iitb.ac.in/faculty/geotechnical-engineering
+
+## Prof. Sauvik Banerjee
+- Department: Civil
+- Designation: Professor
+- Email: sauvik@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Structural Health Monitoring / NDT
+- Research Interests & Innovation Focus: SHM using wave propagation & vibration; NDT & NDE; Structural retrofitting; Elastodynamic modelling; Ultrasonic guided waves for pipe defects; Piezo impedance-based SHM; ML for defect assessment; Debonding detection
+- Notable Projects: Smart SHM systems for pipelines; Stiffened panel debonding detection; $4M+ sponsored research & consultancy; 20 doctoral, 30 masters students
+- Key Tools & Platforms: Ultrasonic testing lab; Guided wave analysis equipment
+- Industry Collaborations: $4M+ industrial consultancy; ASME & Taylor & Francis editorial boards
+- Awards: S.P. Sukhatme Award for Teaching 2019; Excellence in Teaching 2013
+- Innovation Keywords: structural health monitoring, NDT, NDE, ultrasonic guided waves, piezoelectric, pipe inspection, defect detection, ML for structures, wave propagation
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-sauvik-banerjee
+
+## Prof. Siddhartha Ghosh
+- Department: Civil
+- Designation: Professor; Jitendra & Meena Mehta Chair Prof
+- Email: sghosh@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Seismic Risk / Infrastructure Resilience
+- Research Interests & Innovation Focus: Resilience of civil infrastructure networks; Risk & reliability analysis; Earthquake engineering; Structural steel design; Membranes & shells; Life-cycle management; Optimization
+- Notable Projects: Infrastructure resilience network analysis; Performance-based design; Materials Characterisation Facility (Prof-in-charge)
+- Key Tools & Platforms: Materials Characterisation Facility
+- Industry Collaborations: Multiple consultancy projects
+- Awards: 1485 citations; h-index 19
+- Innovation Keywords: seismic risk, structural resilience, earthquake engineering, steel structures, reliability analysis, infrastructure networks, life-cycle, vulnerability
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-siddhartha-ghosh
+
+## Prof. Solomon Debbarma
+- Department: Civil
+- Designation: Assistant Professor
+- Email: sdebbarma@civil.iitb.ac.in
+- Research Group: Transportation / Pavement Materials
+- Primary Research Area: Sustainable Pavement Materials
+- Research Interests & Innovation Focus: Rigid pavement design; Sustainable concrete materials; Recycled aggregates in pavements; Industrial & agricultural wastes; Pervious concrete; Roller compacted concrete; Reclaimed asphalt pavement (RAP); Low-carbon concrete pavements
+- Notable Projects: Sustainable recycled aggregate concrete; Zinc waste as cement substitute in RCC; RAP for pervious concrete
+- Industry Collaborations: Texas State University (former postdoc)
+- Awards: First Tiprasa (Tripura) faculty at IIT Bombay
+- Innovation Keywords: sustainable pavements, recycled aggregate, pervious concrete, roller compacted concrete, RAP, low-carbon concrete, pavement materials, waste utilization
+- Profile: https://sites.google.com/view/solomondebbarma
+
+## Prof. Srineash V. K.
+- Department: Civil
+- Designation: Assistant Professor; Group Head Ocean Engineering
+- Email: srineash@civil.iitb.ac.in
+- Research Group: Ocean Engineering
+- Primary Research Area: Wave-Structure Interaction / Reef Breakwaters
+- Research Interests & Innovation Focus: Wave-structure interaction (experimental & numerical); Coastal engineering & reef breakwaters; Ocean renewable energy systems; Porous structure hydrodynamics; Wave attenuation & coastal resilience; VRANS equations for porous media
+- Notable Projects: Reef breakwater research (32% pressure reduction); Oyster reef-like structures for wave attenuation; Faculty-in-Charge Aakaar (Civil Eng Tech Fest)
+- Key Tools & Platforms: Wave flume and experimental facilities
+- Awards: Group Head Ocean Engineering since 2022
+- Innovation Keywords: wave-structure interaction, reef breakwater, coastal protection, ocean renewable energy, porous structures, wave attenuation, coastal resilience
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-srineash-v-k
+
+## Prof. Subimal Ghosh
+- Department: Civil
+- Designation: Institute Chair Professor; FNASc; FAGU
+- Email: subimal@civil.iitb.ac.in
+- Research Group: Water Resources / Climate Studies
+- Primary Research Area: Hydro-climatology / Indian Monsoon
+- Research Interests & Innovation Focus: Hydro-climatology & regional climate modelling; Indian Summer Monsoon variability & prediction; Mesoscale hydrological modelling with land-atmosphere coupling; Water resources under climate change; Extremes characterization; IPCC AR-6 Lead Author
+- Notable Projects: IPCC AR-6 Lead Author (WG1 Ch11 Extremes); India Climate Research Agenda 2030; Assessment of Climate Change over Indian Region (MoES); Convener IDP Climate Studies IITB
+- Key Tools & Platforms: Climate & hydrological models
+- Industry Collaborations: IPCC; Ministry of Earth Sciences; International climate research
+- Awards: Shanti Swarup Bhatnagar Prize; Swarnajayanti Fellowship; Fellow AGU; Alexander von Humboldt Medal 2024 (EGU); APJ Abdul Kalam Cray HPC Award; PRL Award; ~110 papers in Nature, Science etc.
+- Innovation Keywords: climate change, Indian monsoon, hydrology, water resources, IPCC, extreme events, climate modelling, rainfall, floods, droughts, land-atmosphere coupling
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-subimal-ghosh-fnasc
+
+## Prof. Swagata Basu
+- Department: Civil
+- Designation: Professor
+- Email: swagata@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Bridge Resilience / Multi-Hazard Analysis
+- Research Interests & Innovation Focus: Bridge engineering & multihazard resilience; Climate change impact on bridge performance; Flood resilience measures; Life-cycle performance optimization; Risk & reliability analysis
+- Notable Projects: Climate change impact on river-crossing bridges; Life-cycle resilience of aging bridges; Flood adaptation measures
+- Industry Collaborations: PhD from UC Irvine
+- Innovation Keywords: bridge resilience, multihazard, climate change bridges, flood resilience, life-cycle, aging bridges, risk analysis, earthquake, adaptation
+- Profile: https://swagatabasu.wixsite.com/swagata
+
+## Prof. Swathy Manohar
+- Department: Civil
+- Designation: Assistant Professor
+- Email: smanohar@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Heritage Conservation / Construction Materials
+- Research Interests & Innovation Focus: Construction materials characterization; Heritage structure conservation; Salt & thermal weathering assessment; Consolidant compatibility assessment; Waste-to-worth technologies
+- Notable Projects: Heritage structure conservation methodologies; Taj Mahal marble weathering assessment; Workshop on Conservation of Heritage Structures; ETH Zurich visiting faculty
+- Industry Collaborations: UNESCO World Heritage sites research; ETH Zurich collaboration
+- Awards: CII 4R Award 2024 (Research & Academia) for waste-to-worth technologies
+- Innovation Keywords: heritage conservation, construction materials, weathering, durability, marble, Taj Mahal, salt weathering, consolidants, waste-to-worth, heritage structures
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-swathy-manohar
+
+## Prof. T. I. Eldho
+- Department: Civil
+- Designation: Professor
+- Email: eldho@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Groundwater Modelling / Computational Hydrology
+- Research Interests & Innovation Focus: Groundwater flow & contaminant transport modelling; CFD for water engineering; Coastal hydrodynamics & sediment transport; Watershed management; Hydroinformatics; Urban drainage modelling; Meshfree numerical methods
+- Notable Projects: Groundwater remediation; Contaminant transport modelling; Coastal dynamics research
+- Key Tools & Platforms: Meshfree method computational tools
+- Industry Collaborations: University of Karlsruhe (postdoc); Mott MacDonald (Senior Research Fellow); Stockholm Water Institute Fellowship
+- Awards: h-index 35; 4950+ citations; International fellowships (Germany, Taiwan, Stockholm)
+- Innovation Keywords: groundwater modelling, contaminant transport, watershed management, CFD, coastal hydrology, numerical methods, meshfree, hydroinformatics, sediment transport
+- Profile: https://www.civil.iitb.ac.in/~eldho/
+
+## Prof. Tarun Kant
+- Department: Civil
+- Designation: Professor Emeritus; First Civil Eng elected to all 4 National Academies
+- Email: tkant@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: Composite Structures / Higher-Order Theories
+- Research Interests & Innovation Focus: Solid mechanics; Plates, shells, FRP composites; Refined higher-order theories; Thermal stresses; Transient dynamics; FEM & numerical methods; 166+ journal papers; 27 PhDs supervised
+- Notable Projects: Higher-order theories of laminated composites; Former HoD Civil (2000-02); Dean Planning (2001-03); Chairman JEE-1998
+- Awards: Khosla National Award; APACM Senior Scientist Award; ICCES Lifetime Achievement Award; IIT Bombay Lifetime Achievement Award 2011; Endowed Chair established 2020; Fellow of all 4 Indian national academies
+- Innovation Keywords: composite structures, plates, shells, FRP, finite element, thermal stress, laminated composites, higher-order theories, solid mechanics
+- Profile: https://www.civil.iitb.ac.in/~tkant/
+
+## Prof. Tom V. Mathew
+- Department: Civil
+- Designation: Professor & Dean (Infrastructure Planning and Support)
+- Email: tvm@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Traffic Flow Modelling / ITS
+- Research Interests & Innovation Focus: Traffic flow modelling & microscopic simulation; Mixed/heterogeneous traffic modelling; Traffic signal control & optimization; Transportation network design; ITS; Traffic safety; SUMO simulator for Indian conditions
+- Notable Projects: CoSiCoSt-2G (area traffic control system); SiMTraM framework for mixed traffic; Co-editor Transportation Research CTRG 2017
+- Key Tools & Platforms: SUMO (open-source traffic simulator)
+- Industry Collaborations: ASCE; Indian Roads Congress; Transport Research Group of India
+- Awards: 4255+ citations; 70+ publications
+- Innovation Keywords: traffic simulation, signal control, mixed traffic, heterogeneous traffic, ITS, SUMO, network design, traffic safety, urban traffic management
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-tom-v-mathew
+
+## Prof. V. Jothiprakash
+- Department: Civil
+- Designation: Associate Professor
+- Email: vprakash@civil.iitb.ac.in
+- Research Group: Water Resources
+- Primary Research Area: Reservoir Operations / Water Systems Optimization
+- Research Interests & Innovation Focus: Water resources systems analysis & optimization; Reservoir operation & policy analysis; Multi-objective optimization (conventional & soft computing); Reservoir sedimentation; Rainfall-runoff modelling; Chaos theory in hydrology; Rainwater harvesting; Stormwater drainage
+- Notable Projects: Genetic algorithms & PSO for WRS optimization; Novel irrigation planning algorithms; Basin-wise water estimation
+- Key Tools & Platforms: Optimization frameworks (GA, PSO, evolutionary algorithms)
+- Innovation Keywords: reservoir optimization, water resources, genetic algorithms, PSO, reservoir sedimentation, rainfall-runoff, chaos theory, irrigation planning, stormwater
+- Profile: https://www.civil.iitb.ac.in/~vprakash/
+
+## Prof. Vedagiri Perumal
+- Department: Civil
+- Designation: Professor & Dean (Infrastructure Planning and Support)
+- Email: vedagiri@civil.iitb.ac.in
+- Research Group: Transportation Systems Engineering
+- Primary Research Area: Traffic Safety / Mixed Traffic Simulation
+- Research Interests & Innovation Focus: Traffic safety & safety performance functions; Mixed traffic flow modelling; Traffic monitoring & control in heterogeneous conditions; Public transit design; Pedestrian behavior & social force modelling; Traffic conflict analysis
+- Notable Projects: Safety performance functions for urban roundabouts; Metro system impact evaluation (Delhi/Hyderabad); 12+ research projects; Road Safety Auditor
+- Key Tools & Platforms: SUMO; Conflict-based analysis frameworks
+- Industry Collaborations: Road Safety Auditor; National road safety initiatives
+- Awards: Young Investigator Award 2013; Excellence in Teaching 2017; 70+ intl journal + 120+ conference publications
+- Innovation Keywords: traffic safety, mixed traffic, pedestrian safety, roundabouts, public transit, social force model, traffic conflict, road safety, heterogeneous traffic
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-vedagiri-perumal
+
+## Prof. Venkata Santosh Kumar Delhi
+- Department: Civil
+- Designation: Associate Professor; Anantrao Jagtap Chair in Construction Mgmt
+- Email: vskumar@civil.iitb.ac.in
+- Research Group: Construction Technology & Management
+- Primary Research Area: BIM / AI in Construction / Safety
+- Research Interests & Innovation Focus: BIM & digital technologies; AI/ML in construction management; AR/VR/MR for construction safety; Computer vision for PPE detection; Safety training visualization; Contract management; Information management on large projects; Risk management
+- Notable Projects: PPE compliance detection using CV/DL; Safety training visualization (BIM/VR); Worker safety automation; Construction site hazard identification; Fulbright Fellow at Stanford
+- Key Tools & Platforms: Advanced Construction Informatics & Management Lab
+- Industry Collaborations: Stanford Global Projects Center (Fulbright Fellow); Govt agencies & private companies
+- Awards: Anantrao Jagtap Chair; Fulbright Nehru Fellow (Stanford); Excellence in Teaching 2021
+- Innovation Keywords: BIM, construction AI, computer vision, PPE detection, AR VR, construction safety, digital twin, project management, smart construction, construction informatics
+- Profile: https://www.civil.iitb.ac.in/~venkatad/
+
+## Prof. Yogesh Desai
+- Department: Civil
+- Designation: JK & MJ Mehta Chair Professor; Dean Administrative Affairs
+- Email: desai@civil.iitb.ac.in
+- Research Group: Structural Engineering
+- Primary Research Area: FEM / Composite Mechanics / Wind Engineering
+- Research Interests & Innovation Focus: FEM for composite laminates; 3D mixed layerwise & ESL theories; Analysis & control of vibrations; Structural dynamics; Rehabilitation of deteriorated structures; Computational mechanics; Wind-induced vibrations
+- Notable Projects: FEM applications to thick/thin composite laminates; FG beam stress analysis; Dean Administrative Affairs
+- Awards: JK & MJ Mehta Chair Professor; 3649 citations
+- Innovation Keywords: finite element, composite laminates, vibration analysis, wind engineering, structural dynamics, rehabilitation, computational mechanics, layerwise theory
+- Profile: https://www.civil.iitb.ac.in/faculty/details/prof-yogesh-desai

@@ -1,0 +1,704 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Physics Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Dr. Amitabha Nandi
+- Department: Physics
+- Designation: Associate Professor
+- Email: amitabha@phy.iitb.ac.in
+- Research Group: Soft Matter & Active Matter Physics Lab
+- Primary Research Area: Soft Matter — Active Matter, Phase Separation & Biophysics
+- Research Interests & Innovation Focus: Theoretical and computational research on biological systems and soft matter. Focus on motility-induced phase separation (MIPS), particle interaction softness effects on phase behavior, percolation transitions in active particle mixtures, cellular biochemical processes, active/passive cargo transport, tissue remodeling, and run-and-tumble swimmers.
+- Notable Projects: Percolation transition in phase-separating active fluid (PRE 2022); Influence of interaction softness on phase separation of active particles (PRE 2021); Percolation in binary mixture of active Brownian particles (Soft Matter 2024)
+- Key Tools & Platforms: Statistical mechanics, non-equilibrium dynamics, molecular simulations, particle-based modeling, Brownian dynamics, field-theoretic approaches
+- Industry Collaborations: Academic research focus on soft matter physics
+- Awards: Active researcher in soft matter and active systems
+- Innovation Keywords: active matter, phase separation, MIPS, Brownian particles, soft interactions, tissue dynamics, cellular transport, percolation
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/amitabha-nandi
+
+## Dr. Anshuman Kumar
+- Department: Physics
+- Designation: Associate Professor
+- Email: anshuman.kumar@iitb.ac.in
+- Research Group: Nanophotonics & 2D Materials Group
+- Primary Research Area: Optics & Photonics — Nanophotonics & 2D Materials
+- Research Interests & Innovation Focus: Research on nanophotonics at the intersection of photonics and two-dimensional materials. Focus on light-matter interactions in 2D materials, plasmonic nanostructures, optical properties of van der Waals heterostructures, and quantum optical phenomena at nanoscale.
+- Notable Projects: 2D material photonics research; Plasmonic nanostructure studies; Van der Waals heterostructure optical properties
+- Key Tools & Platforms: Optical spectroscopy, Raman spectroscopy, photoluminescence, electromagnetic simulations (FDTD/FEM), nanofabrication
+- Industry Collaborations: Collaborations on 2D materials and nanophotonics applications
+- Awards: Active researcher in nanophotonics
+- Innovation Keywords: nanophotonics, 2D materials, plasmonics, van der Waals heterostructures, light-matter interaction, quantum optics, Raman spectroscopy
+- Profile: https://www.phy.iitb.ac.in/en/content/anshuman-kumar-0
+
+## Dr. Debojit Sarkar
+- Department: Physics
+- Designation: Assistant Professor
+- Email: debojit.sarkar@iitb.ac.in
+- Research Group: CERN High Energy Physics Group
+- Primary Research Area: High Energy Experiments — CERN Particle Physics & Collider Experiments
+- Research Interests & Innovation Focus: Experimental particle physics with involvement in large-scale CERN experiments. Research on fundamental particles and interactions through high-energy collision analysis, particle detection, and data analysis.
+- Notable Projects: Contributions to CERN particle physics experiments; Collider data analysis; Particle identification and event reconstruction
+- Key Tools & Platforms: Large-scale particle detector operation, high-energy collision data analysis, event reconstruction, particle ID algorithms, ROOT framework, Monte Carlo simulations
+- Industry Collaborations: CERN and international particle physics collaborations
+- Awards: Active researcher at CERN
+- Innovation Keywords: CERN, particle physics, high energy experiments, LHC, particle collisions, detector physics, event analysis, fundamental particles
+- Profile: https://www.phy.iitb.ac.in/en/content/debojit-sarkar
+
+## Dr. Gopal Dixit
+- Department: Physics
+- Designation: Associate Professor
+- Email: g.dixit@iitb.ac.in
+- Research Group: Attosecond & Ultrafast Physics Group
+- Primary Research Area: Condensed Matter Theory — Ultrafast Processes & Attosecond Physics
+- Research Interests & Innovation Focus: Research on ultrafast dynamics in atoms, molecules, and condensed matter systems. Focus on attosecond-scale phenomena, time-resolved imaging of electron dynamics, ultrafast X-ray and light-matter interactions, and theoretical modeling of ultrafast processes in quantum materials.
+- Notable Projects: Attosecond physics studies; Time-resolved electron dynamics imaging; Ultrafast light-matter interaction theory
+- Key Tools & Platforms: Time-dependent density functional theory (TDDFT), strong-field approximation, ultrafast laser-matter interaction simulations, many-body perturbation theory
+- Industry Collaborations: International collaborations on ultrafast science
+- Awards: Active researcher in attosecond physics community
+- Innovation Keywords: attosecond physics, ultrafast dynamics, time-resolved imaging, electron dynamics, strong-field physics, light-matter interaction, TDDFT, ultrafast spectroscopy
+- Profile: https://www.phy.iitb.ac.in/en/content/gopal-dixit
+
+## Dr. Himadri Shekhar Dhar
+- Department: Physics
+- Designation: Associate Professor
+- Email: himadri.dhar@iitb.ac.in
+- Research Group: Quantum Information Theory Group
+- Primary Research Area: Quantum Information Theory — Quantum Correlations & Entanglement
+- Research Interests & Innovation Focus: Research on quantum information theory focusing on quantum correlations, entanglement in many-body systems, quantum phase transitions from information-theoretic perspective, quantum coherence and its role in thermodynamics, and open quantum systems dynamics.
+- Notable Projects: Studies on quantum correlations and entanglement; Quantum phase transition analysis; Quantum coherence in thermodynamics; Open quantum systems
+- Key Tools & Platforms: Quantum information-theoretic tools, entanglement measures, tensor network methods, quantum state tomography, numerical methods for open systems
+- Industry Collaborations: Theoretical collaborations with quantum information groups
+- Awards: Active researcher in quantum information theory
+- Innovation Keywords: quantum information, quantum correlations, entanglement, quantum coherence, quantum phase transitions, open quantum systems, many-body physics, quantum thermodynamics
+- Profile: https://www.phy.iitb.ac.in/en/content/himadri-shekhar-dhar
+
+## Dr. Hridis Kumar Pal
+- Department: Physics
+- Designation: Associate Professor
+- Email: hridis.pal@iitb.ac.in
+- Research Group: Topological Condensed Matter Theory Group
+- Primary Research Area: Condensed Matter Theory — Topological Materials, Weyl Semimetals & Moiré Systems
+- Research Interests & Innovation Focus: Research on novel phenomena from topology and electron-electron interactions. Focus on Weyl semimetals and surface properties, anomalous surface conductivity in topological semimetals, 2D moiré superlattice systems (twisted bilayer graphene), topological Fermi arc physics, interacting ground states in flat band systems, correlated systems (Kondo insulators like SmB6), superconducting heterostructures.
+- Notable Projects: Anomalous surface conductivity of Weyl semimetals; Interacting ground states of moiré ladders (PRB 2026); Twisted bilayer graphene studies; Topological protection and robustness studies
+- Key Tools & Platforms: First-principles band structure calculations, Green's function methods, many-body perturbation theory, transport theory, topological invariant calculations
+- Industry Collaborations: Fundamental theoretical research; Academic collaborations
+- Awards: Active researcher in topological materials
+- Innovation Keywords: Weyl semimetals, topological materials, moiré systems, twisted bilayer graphene, Fermi arcs, surface transport, topological fermions
+- Profile: https://www.phy.iitb.ac.in/en/content/hridis-kumar-pal
+
+## Dr. Kumar Rao
+- Department: Physics
+- Designation: Associate Professor
+- Email: kumar.rao@iitb.ac.in
+- Research Group: High Energy Theory Group
+- Primary Research Area: High Energy Theory — Quantum Field Theory & String Theory
+- Research Interests & Innovation Focus: Research on quantum field theoretical aspects of fundamental interactions, string theory formulations, and particle physics phenomenology. Focus on field theory calculations and investigations of fundamental forces.
+- Notable Projects: Contributions to high energy physics literature; Field theory research
+- Key Tools & Platforms: Field theory calculations, perturbative methods, string theory formulations, supersymmetry analysis
+- Industry Collaborations: International high energy physics community
+- Awards: Active researcher in quantum field theory
+- Innovation Keywords: quantum field theory, string theory, particle physics, high energy theory, fundamental interactions, perturbative QFT, supersymmetry
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/kumar-rao
+
+## Dr. Manibrata Sen
+- Department: Physics
+- Designation: Assistant Professor
+- Email: manibrata@iitb.ac.in
+- Research Group: High Energy Theory & Astroparticle Physics Group
+- Primary Research Area: High Energy Theory — Neutrino Physics, Dark Matter & Astroparticle Physics
+- Research Interests & Innovation Focus: Research on theoretical astroparticle physics. Focus on neutrino flavor conversions in extreme astrophysical environments (supernova cores), self-interacting neutrino models, sterile neutrino dark matter, cosmological implications, diffuse neutrino backgrounds, and refractive neutrino mass mechanisms with ultralight dark matter connections.
+- Notable Projects: Fast neutrino flavour conversions near supernova core (JCAP 2017); Collisional triggering of fast flavor conversions (PRL 2019); Dodelson-Widrow Mechanism with self-interacting neutrinos (PRL 2020); Sterile neutrino dark matter and delta-Neff (PRL 2021); Refractive neutrino masses and ultralight dark matter (JCAP 2024)
+- Key Tools & Platforms: Theoretical calculations, numerical simulations, particle physics phenomenology, cosmological modeling
+- Industry Collaborations: International academic collaborations
+- Awards: Multiple PRL publications; Active researcher in astroparticle physics
+- Innovation Keywords: neutrino physics, dark matter, astroparticle physics, supernova neutrinos, flavor conversion, sterile neutrinos, cosmological constraints
+- Profile: https://www.phy.iitb.ac.in/en/content/manibrata-sen
+
+## Dr. Maniraj Mahalingam
+- Department: Physics
+- Designation: Assistant Professor
+- Email: maniraj@iitb.ac.in
+- Research Group: Surface & Interface Science Group
+- Primary Research Area: Condensed Matter Experiments — Surface Physics & Quantum Materials
+- Research Interests & Innovation Focus: Research on electronic structure of quantum materials using advanced surface spectroscopy. Establishing UHV-based surface science facility at IIT Bombay. Focus on Quantum Spin Hall materials, topological insulator surface states, and emergent quantum states at surfaces and interfaces.
+- Notable Projects: Quantum Spin Hall material studies; Topological insulator surface state investigations; Electronic structure mapping
+- Key Tools & Platforms: UHV surface science equipment, ARPES (angle-resolved photoemission spectroscopy), STM/STS, electronic structure characterization
+- Industry Collaborations: UHV equipment collaborations for surface science laboratory
+- Awards: Active researcher in surface and interface science
+- Innovation Keywords: topological insulators, Quantum Spin Hall, surface spectroscopy, UHV surface science, electronic structure, ARPES, spintronics
+- Profile: https://www.phy.iitb.ac.in/en/content/maniraj-mahalingam
+
+## Dr. Nitin Kumar
+- Department: Physics
+- Designation: Associate Professor
+- Email: nkumar@iitb.ac.in
+- Research Group: Soft Matter & Granular Physics Lab
+- Primary Research Area: Soft Matter — Colloids, Granular Materials & Active Matter
+- Research Interests & Innovation Focus: Research on soft matter physics including colloidal systems, granular materials, and active matter. Focus on granular flow dynamics, self-organization in driven granular systems, colloidal assembly and phase behavior, and active Brownian particle systems.
+- Notable Projects: Granular material dynamics studies; Colloidal assembly and phase behavior; Active matter experiments
+- Key Tools & Platforms: Experimental soft matter techniques, high-speed imaging, particle tracking, rheometry, microscopy, image analysis
+- Industry Collaborations: Soft matter physics community collaborations
+- Awards: Active researcher in soft matter and granular physics
+- Innovation Keywords: soft matter, granular materials, colloids, active matter, self-organization, granular flow, particle assembly, phase behavior
+- Profile: https://www.phy.iitb.ac.in/en/content/nitin-kumar
+
+## Dr. Pradeep Sarin
+- Department: Physics
+- Designation: Associate Professor
+- Email: pradeepsarin@iitb.ac.in
+- Research Group: High Energy Experimental Physics Group
+- Primary Research Area: High Energy Experiments — Particle Detectors & Radiation Sensors
+- Research Interests & Innovation Focus: Research on experimental high energy physics focusing on development and application of advanced particle detection systems. Focus on radiation sensor technology, detector instrumentation, and experimental investigations of fundamental particles.
+- Notable Projects: Particle detector design and construction; Radiation sensor development; High energy physics experimental analysis
+- Key Tools & Platforms: Particle detector design, radiation detection, signal processing, data acquisition systems, Monte Carlo detector response simulations
+- Industry Collaborations: Large international particle physics collaborations
+- Awards: Active researcher in detector physics
+- Innovation Keywords: particle detectors, radiation sensors, high energy experiments, experimental instrumentation, detector technology, signal processing, data acquisition
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/pradeep-sarin
+
+## Dr. Pragya Das
+- Department: Physics
+- Designation: Associate Professor
+- Email: pragya@phy.iitb.ac.in
+- Research Group: Nuclear Physics & Medical Imaging Laboratory
+- Primary Research Area: Experimental Nuclear Physics & PET Medical Imaging
+- Research Interests & Innovation Focus: Research in two areas: (A) Nuclear Structure — heavy-ion fusion reactions, high-spin state spectroscopy using INGA array, lifetime measurements via DSAM, nuclear chirality, shape coexistence, signature inversions; (B) PET Imaging — utilizing Compton-scattered photons (40% of PET data) typically discarded, developing models for tissue-scattered single-photon events, improving statistical image quality, future polarization-entangled annihilation photon applications.
+- Notable Projects: Nuclear lifetime measurements in heavy nuclei; Single-cell tracking with Compton-PET imaging (NIMA 2023); CNR improvement in low-count PET (BPEE 2023); Tissue-scattered triple-gamma coincidence imaging (JINST 2022); Nuclear shape studies (APB 2020)
+- Key Tools & Platforms: 14 MV Pelletron accelerator, gamma-ray spectroscopy/INGA array, DSAM, list-mode PET data analysis, MLEM image reconstruction, Compton scattering analysis
+- Industry Collaborations: J-PET facility (Krakow, Poland); TIFR and IUAC accelerator facilities; Medical imaging applications
+- Awards: Active researcher in both nuclear and medical physics
+- Innovation Keywords: nuclear spectroscopy, gamma-ray detection, heavy-ion physics, nuclear chirality, shape coexistence, PET imaging, Compton scattering, medical physics
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/pragya-das
+
+## Dr. Pramod Kumar
+- Department: Physics
+- Designation: Associate Professor
+- Email: pramod_k@iitb.ac.in
+- Research Group: Device Physics & Nanoelectronics Lab
+- Primary Research Area: Condensed Matter Experiments — Device Physics & Quantum Materials
+- Research Interests & Innovation Focus: Research on experimental condensed matter physics focusing on quantum materials and device physics. Studies electronic transport properties, nanoelectronics devices, and quantum material characterization.
+- Notable Projects: Quantum material characterization; Nanoelectronics device studies; Electronic transport measurements
+- Key Tools & Platforms: Device fabrication and characterization, transport measurements, nanolithography, cryogenic systems, spectroscopic techniques
+- Industry Collaborations: Nanoelectronics applications
+- Awards: Active researcher in device physics and quantum materials
+- Innovation Keywords: quantum materials, nanoelectronics, device physics, electronic transport, nanofabrication, characterization, condensed matter experiments
+- Profile: https://www.phy.iitb.ac.in/en/content/pramod-kumar
+
+## Dr. Prashant Kumar
+- Department: Physics
+- Designation: Assistant Professor
+- Email: pkumar16@iitb.ac.in
+- Research Group: Quantum Condensed Matter Theory Group
+- Primary Research Area: Condensed Matter Theory — Quantum Magnetism & Many-Body Physics
+- Research Interests & Innovation Focus: Research on quantum condensed matter theory focusing on quantum magnetism, strongly correlated electron systems, and many-body physics. Studies frustrated magnets, quantum spin models, and novel magnetic phases.
+- Notable Projects: Quantum magnetism studies; Frustrated magnet research; Many-body physics calculations
+- Key Tools & Platforms: Exact diagonalization, DMRG, quantum Monte Carlo, mean-field theory, perturbation theory
+- Industry Collaborations: Academic collaborations in condensed matter theory
+- Awards: Early career researcher in quantum condensed matter
+- Innovation Keywords: quantum magnetism, frustrated magnets, many-body physics, strongly correlated electrons, spin models, quantum phases, DMRG
+- Profile: https://www.phy.iitb.ac.in/en/content/prashant-kumar
+
+## Dr. Raghunath Chelakkot
+- Department: Physics
+- Designation: Associate Professor
+- Email: raghu@phy.iitb.ac.in
+- Research Group: Soft Matter & Biophysics Laboratory
+- Primary Research Area: Soft Matter Physics — Active Matter, Driven Systems & Biophysics
+- Research Interests & Innovation Focus: Explores dynamics of soft materials and living systems. Research on driven soft matter (polymers, filaments, colloids in external flows), multiparticle collision dynamics simulations, active matter (swimming bacteria, motor-driven filaments, synthetic colloids), physics of sentient systems, morphodynamics, cell polarity and tissue-scale pattern formation, plant root mechanics.
+- Notable Projects: Topological dynamics of rapid non-planar gaits in slithering snakes (Nature Physics 2025); Active wetting transitions (JCP 2025); Kinetically arrested periodic clusters in active filament arrays (Soft Matter 2025); Mechano-sensing for plant root waving (Sci. Rep. 2022); Growth and form of plant shoots (J. R. Soc. Interface 2017)
+- Key Tools & Platforms: Multiparticle collision dynamics, Brownian dynamics simulations, hydrodynamic simulations, analytical perturbative approaches, pattern analysis
+- Industry Collaborations: International collaborations on active matter physics; Work with Harvard and other institutions
+- Awards: Published in Nature Physics; Active researcher in soft matter; Collaborations with leading institutions
+- Innovation Keywords: active matter, self-propulsion, soft matter, colloidal systems, pattern formation, hydrodynamics, biophysics, morphogenesis, cytoskeletal dynamics
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/raghunath-chelakkot
+
+## Dr. Rahul Kashyap
+- Department: Physics
+- Designation: Assistant Professor
+- Email: rahulkashyap@iitb.ac.in
+- Research Group: Gravitational Wave Transients Group
+- Primary Research Area: Astronomy — Gravitational Wave Transient Search & Cosmology
+- Research Interests & Innovation Focus: Research on gravitational wave astronomy focusing on transient source detection, cosmological implications of gravitational wave observations, compact binary coalescence searches, and data analysis methods for LIGO/Virgo detectors.
+- Notable Projects: Gravitational wave transient search; Compact binary coalescence analysis; Cosmological parameter estimation from GW observations
+- Key Tools & Platforms: LIGO data analysis pipelines, Bayesian inference, matched filtering, waveform modeling, Python-based GW analysis tools
+- Industry Collaborations: LIGO Scientific Collaboration; International gravitational wave research network
+- Awards: Early career researcher in gravitational wave astronomy
+- Innovation Keywords: gravitational waves, cosmology, LIGO, compact binaries, transient sources, Bayesian inference, data analysis, waveform modeling
+- Profile: https://www.phy.iitb.ac.in/en/content/rahul-kashyap
+
+## Dr. Sai Vinjanampathy
+- Department: Physics
+- Designation: Associate Professor
+- Email: sai@phy.iitb.ac.in
+- Research Group: Quantum Information & Control Theory Group
+- Primary Research Area: Quantum Information Theory — Quantum Thermodynamics & Quantum Control
+- Research Interests & Innovation Focus: Research on quantum information theory with emphasis on quantum control theory, quantum synchronization phenomena, and non-equilibrium statistical mechanics. Bridges quantum information science with thermodynamics and control theory, examining quantum systems far from equilibrium, information dynamics, and control mechanisms.
+- Notable Projects: Quantum control theory research; Quantum synchronization studies; Non-equilibrium quantum thermodynamics; PhD from Louisiana State University
+- Key Tools & Platforms: Quantum information theory, quantum control algorithms, numerical simulations, theoretical analysis, Lindblad master equations
+- Industry Collaborations: Academic research in fundamental quantum science
+- Awards: Established researcher in quantum information field; PhD from LSU
+- Innovation Keywords: quantum information, quantum control, quantum synchronization, quantum thermodynamics, non-equilibrium statistical mechanics, open quantum systems
+- Profile: https://www.phy.iitb.ac.in/en/content/sai-vinjanampathy
+
+## Dr. Sayantika Bhowal
+- Department: Physics
+- Designation: Assistant Professor
+- Email: sbhowal@iitb.ac.in
+- Research Group: Topological Materials & Quantum Properties Lab
+- Primary Research Area: Condensed Matter Theory — Topological Materials, Magnetism & Spin-Orbit Coupling
+- Research Interests & Innovation Focus: Designs and predicts novel materials with unique electronic, magnetic, magnetoelectric and transport properties. Research on hidden charge and magnetic order, charge/spin/orbital Hall effects, magnetic skyrmions, magnetism and spin-orbitronics, multiferroic materials, topological insulators and Weyl semimetals, ferroelectrics and polar metals, Compton scattering probes.
+- Notable Projects: Theoretical predictions of topological material properties; Magnetism in spin-orbit coupled materials; Multiferroic and magnetoelectric materials design
+- Key Tools & Platforms: DFT calculations, band structure methods, mean-field and beyond-mean-field theory, quantum oscillation calculations, topological property analysis
+- Industry Collaborations: Materials design and characterization collaborations
+- Awards: Early career researcher; Published in top-tier physics journals
+- Innovation Keywords: topological materials, magnetic skyrmions, spin-orbit coupling, Hall effect, ferroelectricity, multiferroics, Weyl semimetals, magnetoelectricity, quantum materials
+- Profile: https://www.phy.iitb.ac.in/en/content/sayantika-bhowal
+
+## Dr. Siddhartha Santra
+- Department: Physics
+- Designation: Assistant Professor
+- Email: santra@iitb.ac.in
+- Research Group: Quantum Information & Computing Group
+- Primary Research Area: Quantum Information Theory — Quantum Computing & Algorithms
+- Research Interests & Innovation Focus: Research on quantum information theory and quantum computing paradigms. Focus on quantum algorithm design, quantum error correction, quantum computational complexity, and theoretical foundations of quantum information processing.
+- Notable Projects: Quantum algorithm development; Quantum error correction research; Computational complexity studies
+- Key Tools & Platforms: Quantum circuit design, quantum algorithm analysis, quantum error correction codes, quantum simulation, information-theoretic methods
+- Industry Collaborations: Academic quantum computing collaborations
+- Awards: Active researcher in quantum information
+- Innovation Keywords: quantum computing, quantum information, quantum algorithms, quantum error correction, quantum complexity, quantum simulation, quantum entanglement
+- Profile: https://www.phy.iitb.ac.in/en/content/siddhartha-santra
+
+## Dr. Soumya Bera
+- Department: Physics
+- Designation: Associate Professor
+- Email: soumya.bera@iitb.ac.in
+- Research Group: Quantum Condensed Matter Theory Group
+- Primary Research Area: Condensed Matter Theory — Quantum Phase Transitions & Topology
+- Research Interests & Innovation Focus: Quantum simulation of novel phases of matter incorporating computational paradigms. Research on interplay of topology, disorder and interactions; quantum information and non-equilibrium dynamics; quantum phase transitions and critical phenomena; topological phases and quantum Hall physics; many-body localization in disordered systems.
+- Notable Projects: Theoretical work on quantum phase transitions; Studies of topological materials; Many-body localization in disordered systems
+- Key Tools & Platforms: Exact diagonalization, quantum Monte Carlo, tensor network methods, numerical lattice model studies, computational quantum simulations
+- Industry Collaborations: Theoretical collaborations with experimental groups
+- Awards: Active researcher in quantum condensed matter theory; Published in high-impact physics journals
+- Innovation Keywords: quantum phase transitions, topological phases, disorder, quantum criticality, many-body localization, quantum information, non-equilibrium dynamics, quantum Hall effect
+- Profile: https://www.phy.iitb.ac.in/en/content/soumya-bera
+
+## Dr. Subhaskar Mandal
+- Department: Physics
+- Designation: Assistant Professor
+- Email: subhaskar@iitb.ac.in
+- Research Group: ToPP Group (Topology in Photonics & Physics)
+- Primary Research Area: Optics & Photonics — Topological Photonics & Exciton-Polaritons
+- Research Interests & Innovation Focus: Research on novel phenomena at intersection of topology and photonics. Investigates exciton-polaritons, topological edge states in photonic systems, low-threshold topological lasers, and non-Hermitian photonic systems. Applications from topological polariton transistors/logic gates to quantum emitters.
+- Notable Projects: Perovskite topological valley exciton-polaritons at room temperature (Nat. Commun. 2024); Perovskite topological exciton-polariton disclination laser (Nat. Commun. 2025); Organic room-temperature polariton condensate in higher-order topological lattice (ACS Photonics); 724+ citations
+- Key Tools & Platforms: Computational photonics, light-matter interaction simulation, topological band structure analysis, nonlinear optics, cavity QED theory
+- Industry Collaborations: Experimentalists at IIT Bombay and international institutions for validation of topological photonic concepts
+- Awards: Published in Nature Communications; 724+ citations
+- Innovation Keywords: topological photonics, exciton polaritons, topological lasers, non-Hermitian physics, nonlinear optics, room-temperature polaritons, quantum emitters
+- Profile: https://www.phy.iitb.ac.in/en/content/subhaskar-mandal
+
+## Dr. Sumiran Pujari
+- Department: Physics
+- Designation: Associate Professor
+- Email: sumiran.pujari@iitb.ac.in
+- Research Group: Condensed Matter Theory Group
+- Primary Research Area: Condensed Matter Theory — Frustrated Magnetism, Quantum Phase Transitions & Topological Order
+- Research Interests & Innovation Focus: Research on strong correlations and quantum magnetism. Focus on quantum spin liquids, topological phases, many-body localization, electronic/magnonic band structures and topological transport, Coulomb correlations in dimer models, deconfined quantum criticality, resonating wavefunctions for kagome antiferromagnets, spin-orbit coupling in strongly correlated systems.
+- Notable Projects: Pseudocriticality in antiferromagnetic spin chains (PRL 2026); Anticommuting Z2 quantum spin liquids (PRB 2026); Punctured-Chern topological invariants for semi-metallic bandstructures (PRL 2023); Gapless quantum spin liquid in Sr3CuSb2O9 (PRL 2020)
+- Key Tools & Platforms: Quantum Monte Carlo, DMRG, tensor network methods, exact diagonalization, topological invariant calculations, mean-field theory
+- Industry Collaborations: International collaborations: CNRS Toulouse, Wigner Research Center Budapest, Penn State, Cornell, University of Kentucky
+- Awards: Published in PRL; Sabbatical leave 2024-2025
+- Innovation Keywords: quantum spin liquids, frustrated magnetism, topological order, quantum criticality, many-body localization, band topology, quantum engineering, deconfined criticality
+- Profile: https://www.phy.iitb.ac.in/en/content/sumiran-pujari
+
+## Dr. Sunita Srivastava
+- Department: Physics
+- Designation: Associate Professor
+- Email: sunita.srivastava@iitb.ac.in
+- Research Group: Soft Matter & Nanomaterials Laboratory
+- Primary Research Area: Soft Matter — Self-Assembly, X-ray Scattering & Colloidal Physics
+- Research Interests & Innovation Focus: Research on soft matter including self-assembly, surface/interfacial physics, lipid nanoparticle interactions, and colloidal systems. Experimental techniques include SAXS, GISAXS, XPCS, bulk/interfacial rheology. Studies colloid-polymer mixtures with charged disks, dynamic regimes in dispersions, and nanoparticle assembly at charged interfaces including DNA-programmable assembly.
+- Notable Projects: Tunable Nanoparticle Arrays at Charged Interfaces (ACS Nano 2014); DNA-Programmable Assembly of Nanoparticles at Liquid Interfaces (JACS 2014); Super-compressible DNA Nanoparticle Lattices (Soft Matter 2013); Colloid-polymer mixture microstructure (Polymer 2016); Multiple dynamic regimes in dispersions (JPS 2015)
+- Key Tools & Platforms: SAXS, GISAXS, XPCS, rheology, synchrotron radiation techniques
+- Industry Collaborations: Brookhaven National Laboratory; International research institutions
+- Awards: Published in ACS Nano, JACS, and Soft Matter
+- Innovation Keywords: DNA nanoparticles, self-assembly, colloid-polymer mixtures, X-ray scattering, soft matter, nanomaterials, interfaces, SAXS
+- Profile: https://www.phy.iitb.ac.in/en/content/sunita-srivastava
+
+## Dr. Uditendu Mukhopadhyay
+- Department: Physics
+- Designation: Assistant Professor
+- Email: uditendu@iitb.ac.in
+- Research Group: Experimental Quantum Simulation Group
+- Primary Research Area: Condensed Matter Experiments — Quantum Dot Arrays for Quantum Simulation
+- Research Interests & Innovation Focus: Research on semiconductor quantum dot arrays as scalable platforms for quantum information and simulation. Focus on gate-defined QD arrays in 2DEGs, simulating Fermi-Hubbard and Heisenberg antiferromagnet models, quantum simulation of magnetism, automated tuning of tunnel couplings, quantum chemistry applications. First experimental verification of Nagaoka ferromagnetism using QD arrays.
+- Notable Projects: Quantum simulation of antiferromagnetic Heisenberg chain with gate-defined QDs; Long-range electron-electron interactions in QD systems; Automated tuning of inter-dot tunnel coupling; 2×2 QD array with controllable couplings; Electron cascade for distant spin readout (Nat. Commun.); 701+ citations
+- Key Tools & Platforms: Gate-defined semiconductor quantum dots, GaAs heterostructures, cryogenic measurements, tunnel coupling control, long-range interaction engineering
+- Industry Collaborations: Background at Delft University; Fundamental quantum simulation research
+- Awards: 701+ citations; Notable contributions to quantum simulation; Published in Nature Communications
+- Innovation Keywords: quantum dot arrays, quantum simulation, gate-defined qubits, Fermi-Hubbard model, magnetism simulation, scalable quantum computing, long-range interactions
+- Profile: https://www.phy.iitb.ac.in/en/content/uditendu-mukhopadhyay
+
+## Dr. Varun Bhalerao
+- Department: Physics
+- Designation: Associate Professor
+- Email: varunb@iitb.ac.in
+- Research Group: Astrophysics & High-Energy Transients Group
+- Primary Research Area: Astrophysics — Gravitational Wave Counterparts & X-ray Astronomy
+- Research Interests & Innovation Focus: Multi-messenger astrophysics studying electromagnetic signatures of transient phenomena. Research on electromagnetic counterparts of gravitational wave sources, astrophysical instrumentation (X-ray telescopes/detectors), X-ray and optical transient observations (supernovae, GRBs, tidal disruptions), neutron star binary systems, and high-energy astrophysics.
+- Notable Projects: Gravitational wave electromagnetic counterpart identification; X-ray observations of neutron star systems; Transient detection and characterization; Astrophysical instrumentation development
+- Key Tools & Platforms: X-ray and optical instrumentation, multi-wavelength observations, time-series analysis, image processing, gravitational wave alert rapid response systems
+- Industry Collaborations: International gravitational wave collaborations; Large observatory facilities
+- Awards: Active researcher in multi-messenger astronomy
+- Innovation Keywords: gravitational waves, electromagnetic counterparts, X-ray astronomy, transient detection, neutron stars, astrophysical instrumentation, multi-messenger astronomy
+- Profile: https://www.phy.iitb.ac.in/en/content/prof-varun-bhalerao
+
+## Dr. Vikram Rentala
+- Department: Physics
+- Designation: Associate Professor
+- Email: rentala@phy.iitb.ac.in
+- Research Group: Particle Astrophysics & Cosmology Group
+- Primary Research Area: Astronomy — Dark Matter, Cosmology & Electroweak Symmetry Breaking
+- Research Interests & Innovation Focus: Research at interface of particle physics and cosmology. Focus on electroweak symmetry breaking and Higgs boson properties, dark matter particle nature and interactions with standard model particles, collider phenomenology, and beyond-standard-model physics.
+- Notable Projects: Dark matter phenomenology research; Electroweak symmetry breaking studies; Collider physics publications; INSPIRE-HEP listed research
+- Key Tools & Platforms: Particle physics phenomenology, cosmological simulations, Monte Carlo generators, dark matter detection theory, electroweak calculations
+- Industry Collaborations: International particle physics community
+- Awards: Active researcher in particle astrophysics
+- Innovation Keywords: dark matter, cosmology, electroweak symmetry breaking, particle astrophysics, Higgs physics, beyond standard model, dark matter detection, collider phenomenology
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/vikram-rentala
+
+## Prof. Aftab Alam
+- Department: Physics
+- Designation: Professor
+- Email: aftab@phy.iitb.ac.in
+- Research Group: Theoretical Condensed Matter Physics (TCMP) Lab
+- Primary Research Area: Condensed Matter Theory — Electronic Structure, Magnetism & Materials Design
+- Research Interests & Innovation Focus: Develops theory, algorithms, and computational codes for materials properties. Research includes magnetism and spintronics, exotic superconductor and topological insulator phases, thermoelectric properties, solar harvesting materials, electro/photocatalysis for clean energy, electronic structure and thermodynamics of alloys, vibrational properties and phonon dynamics in intermetallics, and response functions in defective materials.
+- Notable Projects: Giant Coercivity in Mn2IrGa spin semimetal (Chem. Mater. 2025); Giant Topological Hall Effect in Mn2Pd0.5Ir0.5Sn (Adv. Funct. Mater. 2024); FeRhCrSi spin semimetal with spin-valve behavior (PRB 2023); Double perovskites for solar cells (PRM 2018); Bismuth Half-Heusler with giant thermoelectric figure of merit (JMCA 2017)
+- Key Tools & Platforms: DFT (VASP, SIESTA, Wien2k), Boltzmann transport equations, ab initio lattice dynamics, finite element simulations
+- Industry Collaborations: Collaborative work on photocatalytic materials and mixed metal-antimony oxide nanocomposites for water oxidation
+- Awards: h-index 35; 4099+ citations on Google Scholar; 91 i10-index publications
+- Innovation Keywords: electronic structure, magnetism, spintronics, topological materials, thermoelectric, photocatalysis, Heusler alloys, perovskites, alloy design
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/aftab-alam
+
+## Prof. Alok Shukla
+- Department: Physics
+- Designation: Professor
+- Email: shukla@phy.iitb.ac.in
+- Research Group: Electronic Structure & Computational Physics Group
+- Primary Research Area: Condensed Matter Theory — Electronic Structure Calculations & Optical Properties
+- Research Interests & Innovation Focus: First-principles computational methods for electronic structure of atoms, molecules, clusters, and solids. Research on relativistic Dirac-equation-based many-electron calculations, electronic structure of polymers/clusters/graphene, dilute trapped atomic gases, coupled-cluster methods, Wannier function-based formalism, optical properties of conjugated polymers.
+- Notable Projects: Electronic structure theory development; Coupled-cluster method applications; Wannier function formalism; Conjugated polymer optical properties
+- Key Tools & Platforms: Ab initio methods, Dirac equation calculations, coupled-cluster methods, Wannier functions, DFT, custom computational codes
+- Industry Collaborations: Academic focus on computational methodology development
+- Awards: Senior researcher with contributions across computational physics fields
+- Innovation Keywords: electronic structure theory, ab initio calculations, conjugated polymers, graphene, many-body physics, optical properties, Wannier functions, DFT
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/alok-shukla
+
+## Prof. Anirban Sain
+- Department: Physics
+- Designation: Professor
+- Email: asain@phy.iitb.ac.in
+- Research Group: Soft Matter & Cell Biophysics Group
+- Primary Research Area: Soft Matter — Biophysics, Cell Mechanics & Biological Materials
+- Research Interests & Innovation Focus: Research on soft matter systems and biological physics. Focus on cellular mechanical properties, biophysical processes, mechanical properties of biological materials, and soft matter organization. Experimental investigation of cell mechanics and soft matter dynamics.
+- Notable Projects: Cell mechanics research; Biological materials studies; Soft matter dynamics experiments
+- Key Tools & Platforms: Microscopy techniques, mechanical testing, biological imaging, cell culture, biophysical measurements, AFM, optical tweezers
+- Industry Collaborations: Cross-disciplinary biophysics collaborations
+- Awards: Senior faculty in soft matter and biophysics
+- Innovation Keywords: soft matter, biophysics, cell mechanics, biological materials, mechanical properties, cellular processes, microscopy, experimental biophysics
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/anirban-sain
+
+## Prof. Archana Pai
+- Department: Physics
+- Designation: Professor
+- Email: archana@phy.iitb.ac.in
+- Research Group: Gravitational Wave Astrophysics & Data Analysis Group
+- Primary Research Area: Astronomy — Gravitational Wave Detection, LIGO & Black Hole Searches
+- Research Interests & Innovation Focus: Research on gravitational wave astronomy using advanced laser interferometric detectors. Detection algorithm development for modeled/unmodeled sources, intermediate-mass black hole (IMBH) searches in LIGO-Virgo data, multi-detector consistency tests, parameter estimation for compact binary coalescences, spinning binary black hole signal analysis using numerical relativity, LIGO-India development.
+- Notable Projects: Co-author of GW Discovery Paper (12000+ citations); NuRIA of spinning binary black holes in Advanced LIGO data (PRD 2020); Multi-detector consistency tests (PRD 2001); IMBH searches across LIGO-Virgo runs; GW231123 second-generation BH merger; SERB Power Fellowship
+- Key Tools & Platforms: LIGO data analysis pipelines, signal processing, numerical relativity, Bayesian parameter estimation, multi-detector analysis, waveform templates
+- Industry Collaborations: LIGO Scientific Collaboration; LIGO-India project; International GW research network
+- Awards: 2016 Special Breakthrough Prize in Fundamental Physics; 2016 Gruber Prize in Cosmology; 2017 Group Achievement Award (UK Royal Astronomical Society); SERB Power Fellowship
+- Innovation Keywords: gravitational waves, LIGO, intermediate mass black holes, binary black holes, detection algorithms, multi-detector analysis, LIGO-India
+- Profile: https://www.phy.iitb.ac.in/en/content/archana-pai
+
+## Prof. Asmita Mukherjee
+- Department: Physics
+- Designation: Professor
+- Email: asmita@phy.iitb.ac.in
+- Research Group: QCD & Spin Physics Laboratory
+- Primary Research Area: High Energy Theory — QCD, Parton Distributions & Nucleon Structure
+- Research Interests & Innovation Focus: Research on fundamental aspects of QCD and nucleon structure. Focus on Generalized Parton Distributions (GPDs) and quark/gluon structure, Parton Orbital Angular Momentum (OAM) and nucleon spin, Transverse Momentum Distributions (TMDs), light-front wave functions, and collider phenomenology for Deep Inelastic Scattering.
+- Notable Projects: Gluon GPDs of proton at non-zero skewness (2024); Gluon GTMD distributions and Wigner functions (2025); Relations between TMDs and GPDs in light-front quark-diquark model; Quark Wigner distributions and OAM; Transverse spin in QCD and DIS
+- Key Tools & Platforms: Light-front quantization, AdS/QCD correspondence, spectator quark models, parton distribution analysis
+- Industry Collaborations: International academic collaborations in particle physics
+- Awards: Active researcher in high energy theory; Recognized in QCD community
+- Innovation Keywords: parton distributions, GPDs, QCD spin physics, light-front dynamics, orbital angular momentum, transverse spin, hadron structure
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/asmita-mukherjee
+
+## Prof. Avinash V. Mahajan
+- Department: Physics
+- Designation: Professor
+- Email: mahajan@phy.iitb.ac.in
+- Research Group: Quantum Magnetism & Strongly Correlated Systems Lab
+- Primary Research Area: Condensed Matter Experiments — Quantum Magnetism & Frustrated Systems
+- Research Interests & Innovation Focus: Research on experimental condensed matter physics focusing on quantum magnetism, strongly correlated electron systems, frustrated magnetic systems, novel magnetic ground states, and NMR studies of quantum materials. Expertise in synthesis and characterization of magnetic materials exhibiting exotic quantum phenomena.
+- Notable Projects: Quantum magnetism in frustrated systems; NMR studies of quantum materials; Synthesis of novel magnetic materials
+- Key Tools & Platforms: NMR spectroscopy, magnetization measurements, heat capacity, single crystal growth, powder synthesis, muon spin rotation
+- Industry Collaborations: Collaborations with international labs for neutron scattering and muon studies
+- Awards: Senior faculty researcher; Contributions to frustrated magnetism field
+- Innovation Keywords: quantum magnetism, frustrated magnets, NMR, strongly correlated systems, magnetic materials, muon spin rotation, crystal growth, quantum spin liquids
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/avinash-v-mahajan
+
+## Prof. Basanta Kumar Nandi
+- Department: Physics
+- Designation: Professor
+- Email: basanta@iitb.ac.in
+- Research Group: ALICE Collaboration Research Team
+- Primary Research Area: High Energy Experiments — Heavy-Ion Collisions at LHC (ALICE)
+- Research Interests & Innovation Focus: Understanding matter under extreme conditions in heavy-ion collisions at CERN LHC. Research on multiparticle production mechanisms, event-by-event fluctuations as QCD matter probes, kaon production and isospin fluctuations as DCC signatures, charged particle and photon multiplicities, transverse energy production, heavy flavor production, two-particle correlation functions (R2, P2). Uses HIJING, AMPT, EPOS-LHC models.
+- Notable Projects: Modeling charged/neutral kaon fluctuations as DCC signatures (PRC 2020); R2 and P2 correlation measurements in pp and Pb-Pb; Net-charge fluctuations in Pb-Pb at 2.76 TeV; Charged particle multiplicity reviews; ALICE experiment contributions
+- Key Tools & Platforms: ALICE detector analysis, LHC data analysis frameworks, correlation function analysis, Monte Carlo generators (HIJING, AMPT, EPOS-LHC), statistical physics for QCD
+- Industry Collaborations: ALICE Collaboration at CERN; Global high-energy physics community
+- Awards: Contributor to ALICE Collaboration achievements; Shared recognition from major experimental discoveries
+- Innovation Keywords: heavy-ion collisions, ALICE experiment, QCD matter, kaon fluctuations, quark-gluon plasma, multiparticle production, LHC, CERN
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/basanta-kumar-nandi
+
+## Prof. Dibyendu Das
+- Department: Physics
+- Designation: Professor
+- Email: dibyendudas@iitb.ac.in
+- Research Group: Theory of Stochastic Processes & Non-equilibrium Physics
+- Primary Research Area: Theoretical Physics — Stochastic Processes & Biophysics
+- Research Interests & Innovation Focus: Theory of stochastic processes applied to biological and physical systems. Research on gene expression and pathogen dynamics, first passage problems for protein threshold crossing and synaptic transmission, stochastic resetting with optimal rates, active Brownian motion in crowded environments, polymer dynamics in shear flow, granular gas cooling, cytoskeletal mechanics and kinetochore capture, DNA-protein interactions and nucleosome kinetics.
+- Notable Projects: Cyclo-Stationary Distribution of mRNA/Protein (PRX Life 2025); Exact distribution of quantal content in synaptic transmission (PRL 2024); Exact threshold crossing times for proteins (PRL 2022); Kinetochore capture with varying spindle microtubules (PRR 2020); DNA-protein interactions and nucleosome kinetics (NAR 2016)
+- Key Tools & Platforms: Stochastic differential equations, Langevin equations, first passage time analysis, master equations, Brownian dynamics, Monte Carlo simulations
+- Industry Collaborations: Cross-disciplinary work on biological timekeeping; Collaborations with experimental biophysicists
+- Awards: Senior faculty; Publications in PRL, Scientific Reports; Strong PhD mentoring record
+- Innovation Keywords: stochastic processes, first passage times, non-equilibrium physics, gene expression, synaptic transmission, active matter, cytoskeletal dynamics, protein dynamics
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/dibyendu-das
+
+## Prof. Dinesh Kabra
+- Department: Physics
+- Designation: Professor
+- Email: dkabra@phy.iitb.ac.in
+- Research Group: Organic Semiconductors & Optoelectronics Lab
+- Primary Research Area: Optics & Photonics — Organic Semiconductors, LEDs & Solar Cells
+- Research Interests & Innovation Focus: Research on organic and hybrid semiconductors for optoelectronic applications. Focus on organic LEDs and solar cells, perovskite-based devices, charge transport in organic semiconductors, thin film processing, and device physics of light-emitting and photovoltaic systems.
+- Notable Projects: Organic LED and solar cell development; Perovskite device research; Charge transport studies in organic semiconductors
+- Key Tools & Platforms: Thin film deposition, device fabrication and characterization, spectroscopy, I-V characterization, EQE measurements, transient photocurrent, impedance spectroscopy
+- Industry Collaborations: Industry collaborations on organic electronics and solar cell technology
+- Awards: Active researcher in organic semiconductor devices
+- Innovation Keywords: organic semiconductors, OLEDs, organic solar cells, perovskites, charge transport, thin films, optoelectronics, device physics, light-emitting devices
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/dinesh-kabra
+
+## Prof. K. G. Suresh
+- Department: Physics
+- Designation: Professor
+- Email: suresh@phy.iitb.ac.in
+- Research Group: Magnetic Materials & Magnetocaloric Laboratory
+- Primary Research Area: Condensed Matter Experiments — Magnetic Materials & Magnetocaloric Effect
+- Research Interests & Innovation Focus: Research on experimental condensed matter physics focusing on magnetic materials and magnetocaloric phenomena. Studies temperature changes in magnetic materials under magnetic fields for magnetic cooling applications and fundamental magnetic studies.
+- Notable Projects: Magnetocaloric effect research; Magnetic materials synthesis and characterization; Magnetic cooling applications
+- Key Tools & Platforms: Magnetic characterization, magnetometry, thermal analysis, materials synthesis, SQUID magnetometry, DSC
+- Industry Collaborations: Magneto-thermal applications and materials development
+- Awards: Established researcher in experimental condensed matter physics
+- Innovation Keywords: magnetocaloric effect, magnetic materials, magnetic cooling, condensed matter experiments, rare earth magnets, phase transitions, magnetometry
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/k-g-suresh
+
+## Prof. Kantimay Das Gupta
+- Department: Physics
+- Designation: Professor
+- Email: kdasgupta@phy.iitb.ac.in
+- Research Group: Mesoscopic Physics & Low Temperature Lab
+- Primary Research Area: Condensed Matter Experiments — Mesoscopic Physics & Quantum Hall Effect
+- Research Interests & Innovation Focus: Research on mesoscopic physics and low-temperature quantum transport phenomena. Focus on quantum Hall effect systems, mesoscopic electron transport, low-temperature physics experiments, and cryogenic measurement techniques for studying quantum phenomena in nanostructures.
+- Notable Projects: Quantum Hall effect studies; Mesoscopic electron transport experiments; Low-temperature quantum phenomena
+- Key Tools & Platforms: Cryogenic measurement systems, dilution refrigerators, Hall bar devices, nano-fabrication, lock-in amplifier techniques, quantum transport measurements
+- Industry Collaborations: Instrumentation collaborations for low-temperature physics
+- Awards: Senior faculty in experimental condensed matter physics
+- Innovation Keywords: mesoscopic physics, quantum Hall effect, low temperature physics, quantum transport, nanostructures, cryogenics, electron transport, 2DEG
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/kantimay-das-gupta
+
+## Prof. M. Aslam
+- Department: Physics
+- Designation: Professor
+- Email: aslam@phy.iitb.ac.in
+- Research Group: Experimental Condensed Matter & Nanomaterials Lab
+- Primary Research Area: Experimental Condensed Matter — Nanomaterials & Photovoltaics
+- Research Interests & Innovation Focus: Research on earth-abundant CZTS compounds for photovoltaics, graphene and graphene-like semiconductors for water splitting and energy storage, organic perovskite nanoparticle fabrication and thin film devices, and magnetic nanoparticles for biomedical applications including MRI imaging and GMR sensors.
+- Notable Projects: CZTS solar cell development and characterization; Graphene-based materials for clean energy; Perovskite nanocrystal synthesis and stability studies; Magnetic nanoparticle applications
+- Key Tools & Platforms: Chemical synthesis (sol-gel, wet chemical), XRD, optical spectroscopy, photoluminescence, electron microscopy, photovoltaic device fabrication, magnetic characterization
+- Industry Collaborations: Materials for commercial photovoltaic applications; Functional nanomaterials development
+- Awards: Active researcher in sustainable materials for renewable energy
+- Innovation Keywords: CZTS solar cells, graphene, perovskites, nanoparticles, photovoltaics, water splitting, magnetic nanomaterials, energy storage, sustainable materials
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/m-aslam
+
+## Prof. M. Senthil Kumar
+- Department: Physics
+- Designation: Professor
+- Email: senthil@iitb.ac.in
+- Research Group: Magnetic Materials & Thin Films Laboratory
+- Primary Research Area: Condensed Matter Experiments — Magnetic Thin Films & Spintronics
+- Research Interests & Innovation Focus: Research on experimental condensed matter physics with focus on magnetic thin films and multilayered structures. Includes nanostructured magnetic thin films, magnetic-semiconductor multilayers, spintronics phenomena, and magnetocaloric effects. Synthesis and characterization of magnetic materials for device applications.
+- Notable Projects: Magnetic thin film and multilayer studies; Spintronics research; Magnetocaloric effect investigations
+- Key Tools & Platforms: Thin film deposition, XRD, magnetic characterization techniques, magnetometry, SQUID measurements
+- Industry Collaborations: Applications in spintronics and magnetic device development
+- Awards: Established researcher in condensed matter experiments
+- Innovation Keywords: magnetic thin films, multilayers, spintronics, nanostructured materials, magnetocaloric effect, magnetic devices, thin film deposition
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/m-senthil-kumar
+
+## Prof. Mithun Kumar Mitra
+- Department: Physics
+- Designation: Professor
+- Email: mithun@phy.iitb.ac.in
+- Research Group: Theoretical Biophysics Group
+- Primary Research Area: Theoretical Biophysics — Genome Organization, Chromatin Dynamics & Molecular Motors
+- Research Interests & Innovation Focus: Applies statistical mechanics, nonlinear dynamics, and polymer physics to biological systems. Focus on 3D genome spatial organization (TADs, SMC proteins, lamin proteins), gene regulatory networks and epigenetic landscapes for cellular reprogramming, catch bonding in dynein motors for cellular cargo transport, protein target search in crowded genomes, and active matter physics.
+- Notable Projects: Multivalent binding proteins driving chromatin collapse/reswelling; Compaction of chromatin domains regulating protein target search; Catch bonding effect on cellular cargo transport; Dynein catch bonds as mediators of bidirectional transport; Kinetochore capture mechanism during mitosis
+- Key Tools & Platforms: Statistical mechanics, molecular dynamics simulations, Brownian dynamics, polymer field theory, analytical field-theoretic approaches
+- Industry Collaborations: Academic collaborations with leading institutes
+- Awards: Active researcher in biophysics; Strong publication record
+- Innovation Keywords: genome organization, chromatin dynamics, molecular motors, TADs, epigenetic landscapes, gene regulation, active polymers, biophysics
+- Profile: https://www.phy.iitb.ac.in/en/faculty/mithun
+
+## Prof. P. P. Singh
+- Department: Physics
+- Designation: Professor
+- Email: ppsingh@phy.iitb.ac.in
+- Research Group: Condensed Matter Theory Group
+- Primary Research Area: Condensed Matter Theory — Electronic Structure & Nuclear Physics
+- Research Interests & Innovation Focus: Research in condensed matter theory with emphasis on electronic structure of materials, spanning theoretical investigations of condensed matter systems and nuclear physics contexts.
+- Notable Projects: Electronic structure research; Condensed matter theory contributions
+- Key Tools & Platforms: Theoretical modeling, computational methods for electronic structure, ab initio calculations
+- Industry Collaborations: Academic research orientation
+- Awards: Established member of condensed matter theory community
+- Innovation Keywords: condensed matter theory, electronic structure, nuclear physics, ab initio methods, materials modeling
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/p-p-singh
+
+## Prof. P. Ramadevi
+- Department: Physics
+- Designation: Professor
+- Email: ramadevi@phy.iitb.ac.in
+- Research Group: High Energy Theory Group
+- Primary Research Area: High Energy Theory — String Theory, Knot Theory & Topological Field Theory
+- Research Interests & Innovation Focus: Research on theoretical high energy physics with emphasis on string theory and its mathematical structures. Specializes in knot invariants, topological field theories, gauge theory invariants, and mathematical physics approaches to understanding fundamental interactions.
+- Notable Projects: Multiple publications in knot theory applications to physics; Topological field theory research; Gauge theory invariant computations
+- Key Tools & Platforms: String theory calculations, topological field theory analysis, knot invariant computations, gauge theory methods, Chern-Simons theory
+- Industry Collaborations: International mathematical physics community
+- Awards: Senior faculty; Recognized expert in knot theory and string theory
+- Innovation Keywords: string theory, knot theory, topological field theory, gauge theory, quantum field theory, mathematical physics, Chern-Simons, invariants
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/p-ramadevi
+
+## Prof. Parinda Vasa
+- Department: Physics
+- Designation: Professor
+- Email: parinda@phy.iitb.ac.in
+- Research Group: Nano-photonics & Plasmonics Laboratory
+- Primary Research Area: Optics & Photonics — Plasmonics, Ultrafast Spectroscopy & Metamaterials
+- Research Interests & Innovation Focus: Research on experimental nanophotonics, plasmonics and spectroscopy of nanostructured materials. Focus on strong light-matter interactions in quantum emitter-metal hybrid nanostructures, exciton-surface plasmon polariton interactions, optical Stark effects, ultrafast Rabi oscillations, topology-changing active metamaterials, charge effects in monolayer MoS2, supercontinuum generation.
+- Notable Projects: Real-time observation of ultrafast Rabi oscillations (Nature Photonics 2013); Optical Stark effect and strong exciton-SPP interaction (PRL 2015); Topology-changing active metamaterials (Nano Letters 2021); Exciton-SPP interactions review (Advances in Physics X 2020); Strong light-matter interactions review (ACS Photonics 2018)
+- Key Tools & Platforms: Ultrafast spectroscopy, femtosecond laser systems, nano-optical measurements, plasmonic structures, metamaterials, spectroscopic characterization
+- Industry Collaborations: International collaborations in nanophotonics; Carl von Ossietzky University (Germany)
+- Awards: PhD from TIFR Mumbai; Published in Nature Photonics and PRL; Invited review articles in prestigious journals
+- Innovation Keywords: plasmonics, metamaterials, exciton-plasmon coupling, ultrafast spectroscopy, nanophotonics, strong light-matter interaction, femtosecond laser, Rabi oscillations
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/parinda-vasa
+
+## Prof. Punit Parmananda
+- Department: Physics
+- Designation: Professor
+- Email: punit@phy.iitb.ac.in
+- Research Group: Nonlinear Dynamics Lab (NLD Lab)
+- Primary Research Area: Soft Matter — Nonlinear Dynamics, Chaos Control & Synchronization
+- Research Interests & Innovation Focus: Experimental nonlinear dynamics and soft matter. Research on chaos control in electrochemical systems, synchronization in coupled systems, stochastic/coherence resonance, camphor-based Marangoni swimmers, brainwave entrainment and neural synchronization, active matter systems, EEG-based brain dynamics extraction.
+- Notable Projects: Chaos control in electrochemical cells (PRE 1993, 117 citations); Explosive synchronization in mercury beating-heart oscillators (PRE 2015, 106 citations); Rotational synchronization of camphor ribbons (PRE 2020); Optimal energy pumping in entrained neural systems (PRE Letters 2025); Brain synchronization through blink stimuli (2025)
+- Key Tools & Platforms: Electrochemistry, nonlinear dynamics experiments, EEG recording/analysis, optical particle tracking, time-delay feedback control, Lyapunov exponent calculations
+- Industry Collaborations: Universidad Autónoma del Estado de Morelos (Mexico); International university collaborations
+- Awards: 30+ years of publication history; Established nonlinear dynamics researcher
+- Innovation Keywords: chaos control, synchronization, nonlinear dynamics, self-propelled particles, brain dynamics, stochastic resonance, Marangoni swimmers, neural entrainment
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/punit-parmananda
+
+## Prof. Raghava Varma
+- Department: Physics
+- Designation: Professor
+- Email: varma@phy.iitb.ac.in
+- Research Group: High Energy Physics & Plasma Physics Lab
+- Primary Research Area: High Energy Experiments — Plasma Physics & Detector Development
+- Research Interests & Innovation Focus: Research in high energy experimental physics and plasma physics. Experimental investigations in high energy physics domains and theoretical/experimental studies of plasma phenomena relevant to fundamental physics and applications.
+- Notable Projects: High energy experimental research; Plasma physics studies; Detector development contributions
+- Key Tools & Platforms: Experimental techniques in particle physics, plasma diagnostics, detector characterization, data analysis
+- Industry Collaborations: International particle physics collaborations
+- Awards: Established experimental physicist
+- Innovation Keywords: high energy experiments, plasma physics, particle detection, experimental physics, plasma diagnostics, detector development
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/raghava-varma
+
+## Prof. S. Umasankar
+- Department: Physics
+- Designation: Professor
+- Email: umasankar@phy.iitb.ac.in
+- Research Group: Neutrino Physics Group
+- Primary Research Area: High Energy Theory — Neutrino Physics & Particle Phenomenology
+- Research Interests & Innovation Focus: Research in theoretical high energy physics with emphasis on neutrino physics and particle physics phenomenology. Studies neutrino oscillations, rare decays, and related phenomena in the standard model and beyond.
+- Notable Projects: Neutrino oscillation studies; Particle physics phenomenology research; Beyond standard model investigations
+- Key Tools & Platforms: Theoretical particle physics calculations, phenomenological models, Monte Carlo simulations, neutrino oscillation analysis
+- Industry Collaborations: International particle physics community
+- Awards: Recognized researcher in high energy physics and neutrino phenomenology
+- Innovation Keywords: neutrino physics, particle phenomenology, high energy theory, neutrino oscillations, rare decays, beyond standard model, CP violation
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/s-umasankar
+
+## Prof. Sadhana Dash
+- Department: Physics
+- Designation: Professor
+- Email: sadhana@phy.iitb.ac.in
+- Research Group: Heavy Ion Physics Laboratory
+- Primary Research Area: High Energy Experiments — Heavy-Ion Collisions & QGP
+- Research Interests & Innovation Focus: Experimental studies in relativistic heavy-ion physics including heavy-ion collision phenomena and collective behavior, correlations in multi-particle final states, resonance production of excited hadron states, heavy flavor production of charm and bottom quarks, multiparticle production dynamics, and quark-gluon plasma formation and properties.
+- Notable Projects: Heavy-ion collision studies; Resonance and heavy flavor analyses; Multiparticle correlation measurements
+- Key Tools & Platforms: Particle detectors for charged particle tracking, calorimetry, spectrometer systems, event reconstruction algorithms, statistical collision data analysis, invariant mass reconstruction
+- Industry Collaborations: Large international heavy-ion experiment collaborations
+- Awards: Active researcher in high-energy experimental physics; Contributions to QGP understanding
+- Innovation Keywords: heavy-ion collisions, quark-gluon plasma, resonance production, heavy flavor physics, correlations, multiparticle dynamics, relativistic collisions
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/sadhana-dash
+
+## Prof. Shankaranarayanan S.
+- Department: Physics
+- Designation: Professor
+- Email: shanki@iitb.ac.in
+- Research Group: Gravity & Cosmology Group
+- Primary Research Area: Astronomy — Black Holes, Quantum Gravity & Cosmology
+- Research Interests & Innovation Focus: Research on gravitational physics at fundamental scales. Focus on black hole thermodynamics, quantum gravity effects and their cosmological implications, connections between gravity and quantum mechanics, thermodynamic properties of gravitational systems, and understanding the universe's structure and evolution.
+- Notable Projects: Black hole thermodynamics research; Quantum gravity studies; Cosmological implications of quantum gravitational effects
+- Key Tools & Platforms: General relativity calculations, QFT in curved spacetime, black hole thermodynamics, gravitational wave analysis, information-theoretic methods
+- Industry Collaborations: International gravity and cosmology community
+- Awards: Senior faculty; Recognized expert in quantum gravity
+- Innovation Keywords: quantum gravity, black holes, cosmology, gravitational thermodynamics, quantum effects, dark energy, universe evolution, black hole information
+- Profile: https://www.phy.iitb.ac.in/en/content/shankaranarayanan-s
+
+## Prof. Subhabrata Dhar
+- Department: Physics
+- Designation: Professor
+- Email: dhar@phy.iitb.ac.in
+- Research Group: Semiconductor Growth & Characterization Laboratory
+- Primary Research Area: Experimental Condensed Matter — Semiconductor Growth & Magnetic Materials
+- Research Interests & Innovation Focus: Studies growth mechanisms, transport and optical properties of advanced semiconductors. Research on low-dimensional quantum wells/wires/dots, GaN/InGaN/ZnO nanostructures, magnetic semiconductors with GaN:Gd and (Ga,Mn)N, defect characterization and optical/magnetic properties, molecular beam epitaxy growth, nanowalls with high-mobility edge states.
+- Notable Projects: Colossal magnetic moment of Gd in GaN (PRL 2005); High-temp ferromagnetism in (Ga,Mn)N (APL 2003); High electron mobility in GaN nanowalls (APL 2012); InGaN/GaN quantum well luminescence (Adv. Funct. Mater. 2011); ZnO nanoparticle luminescence (Surface Science 2012)
+- Key Tools & Platforms: Molecular beam epitaxy (MBE), XRD, photoluminescence spectroscopy, SEM/TEM, AFM, magneto-transport, Hall effect measurements, photocurrent spectroscopy
+- Industry Collaborations: Semiconductor device applications; Materials for optoelectronics
+- Awards: Senior faculty; Published in PRL and other top journals; Expert in magnetic semiconductor development
+- Innovation Keywords: semiconductor nanostructures, GaN, magnetic semiconductors, molecular beam epitaxy, optoelectronics, quantum wells, magnetic doping, nanomaterials
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/subhabrata-dhar
+
+## Prof. Suddhasatta Mahapatra
+- Department: Physics
+- Designation: Professor
+- Email: suddha@phy.iitb.ac.in
+- Research Group: Silicon Quantum Computing Group
+- Primary Research Area: Condensed Matter Experiments — Silicon Quantum Dots & Spin Qubits
+- Research Interests & Innovation Focus: Research on silicon-based quantum computing platforms. Investigates charge and spin properties of phosphorus donors in silicon at atomic scales (~4nm), demonstrating independent electrostatic control of double quantum dots and exchange interactions. Addresses scalable quantum computing challenges: single electron detection, spin readout, quantum dot tunability, and qubit architecture.
+- Notable Projects: Engineering independent electrostatic control of atomic-scale silicon double QDs; Charge sensing of precisely positioned P donors in Si; Spin blockade and exchange in Coulomb-confined silicon double QDs; 3462+ citations; Published in Nature and Science
+- Key Tools & Platforms: STM lithography, charge sensing, spin resonance techniques, quantum dot fabrication, cryogenic measurement systems
+- Industry Collaborations: UNSW Centre of Excellence for Quantum Computation & Communications Technology (CQC2T); Industrial quantum computing development
+- Awards: 3462+ citations; Published in Nature and Science; Expert in silicon quantum computing
+- Innovation Keywords: silicon quantum dots, spin qubits, charge sensing, phosphorus donors, scalable quantum computing, STM lithography, quantum information
+- Profile: https://www.phy.iitb.ac.in/en/employee-profile/dr-suddhasatta-mahapatra-1

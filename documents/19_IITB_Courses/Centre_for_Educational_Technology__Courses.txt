@@ -1,0 +1,99 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Educational Technology  - Course Catalog for IIT Bombay Students
+
+
+## ET 601: Introduction to Educational Technology
+- Credits: 6
+- Type: Theory
+- Description: This course will offer students an overview of the theories and practices involvedin Educational Technology. Topics include:1. Learning theories. Learning objectives and Blooms taxonomy; constructivistand situated theories of learning; factors affecting and facilitatinglearning; learning styles.2. Technologies for creating new resources. Examples include video, multimedia,animations and simulations, Web 2.0/3.0.3. Instructional Design (ID). Basic ID models (eg ADDIE model), ID modelsfor e-learning and blended learning (eg Dick and Carey model), onlinecourse development using ID.4. Technologies for content delivery. Examples include Learning ManagementSystems (e.g. Moodle) classroom management systems (e.g.Jhoomla), Open Education Resources, intelligent tutoring systems.Throughout the cours...
+
+## ET 602: Research Project
+- Credits: 6
+- Type: Project
+
+## ET 604: Research Methods in Educational Technology
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ET 605: Adaptive Tutoring Systems
+- Credits: 6
+- Type: Theory
+- Description: x
+
+## ET 606: Educational Technology -Tools Lab
+- Credits: 4
+- Type: Laboratory
+- Description: The course introduces the participants to a range of commonly useful tools relevant to educational technology. ET-Tools Lab course will help students in understanding tools useful for creating online learning content, online assessment, using visualization, analyzing data, etc. The tools selected in this course are practically useful to address various teaching-learning functions.Broadly the following categories are to be covered. The course format will consist of a lecture demo of select tools, and the students performing an assignment using the same. 1.Introduction to various types of Education Technology tools.2.Content Authoring Tools: Raptivity, Articulate3.Assessment Tools: Hot Potato, 4.Concept Mapping Tools: e.g. CMAP, MindMap, Compendium5.Visualization Tools: e.g. R, Highcharts6.A...
+
+## ET 609: Discipline-based Education Research
+- Credits: 6
+- Type: Theory
+- Description: DBERConceptual understanding Problem solving Metacognition and self-regulationLearning and transfer Disposition and the affective domainInstructional strategies and assessmentsFuture directions and current research topics
+
+## ET 610: Learning Analytics and Educational Data Mining
+- Credits: 6
+- Type: Theory
+- Description: Introduction to learning analytics, and benefits for stakeholders such as learners, teachers, department heads, course designers.R language as the base for carrying out most of the practical/hands-on work in the course.Relationship mining models and techniques.Predictive methodsText analytics basicsSocial network analysis and methods for education.Clustering mechanisms; factor analysisData preprocessing and preparation; dimensionality controlVisualisation tools for education (learning curves, learnograms, heapmaps.)Designing of smarter curriculumBehaviour detection and model assignmentTechniques such as performance factor analysis, Q-matrices, knowledge spaces.Privacy and ethics concerns
+
+## ET 611: Learning Sciences
+- Credits: 6
+- Type: Theory
+- Description: 1) Learning as a science2) Contemporary theories of learning such as cognitive apprenticeship, situated learning, productive failure3) Case based reasoning, project based learning and problem based learning4) Scaffolding and metacognition5) Formative assessment6) Conceptual change7) New trends in technology-enhanced learning such as tangible, full body and embodied interfaces, video games and virtual worlds8) Computer supported collaborative learning, including knowledge building, argumentation 9) Mobile and seamless learning
+
+## ET 612: Statistical Methods for Educational Research
+- Credits: 6
+- Type: Theory
+- Description: This course is intended to be a primer for students interested in education research. It is designed to provide them with the statistical knowledge that they need to understand research in this field and design their own experiments. In keeping with this goal, we will emphasize/de-emphasize topics according to the requirements of the educational technology domain requirements. We will use an open- source software package (e.g., R ) for lab assignments. The list of topics to be covered is given below. 1)Frequency Distribution and graphing 2)Measures of central tendency 3)Sampling and probability 4)Confidence intervals and error bars 5)Hypothesis Testing 6)Chi-square distribution 7)T-tests and ANOVA 8) Power and sample size 9) Correlation and simple linear regression 10) Introduction to adva...
+
+## ET 613: Human-Computer Interaction for Educational Technology
+- Credits: 6
+- Type: Theory
+- Description: Understand the factors that govern the interactionbetween human and computer for the purposes oflearning a concept, content, skill or practiceIntroduction to HCI methodsIntroduction to the learner-centered design approachand its usefulness for developing tools andtechnology for scaffolding the learning processLearn basics of interaction design and usabilityIntroduction to the fundamental principles of userexperience (UX) and user interaction (UI) and howthey can support the learning processLearn how to conduct user interviews and userevaluations, develop personas, design prototypes,and communicate ideas effectivelyUnderstand the factors that govern the interactionbetween human and computer for the purposes oflearning a concept, content, skill or practiceIntroduction to HCI methodsIntroduct...
+
+## ET 614: Instructional Systems Design
+- Credits: 6
+- Type: Theory
+- Description:  What is instructional systems design? Why is it required? What do instructional designers do?  Learning theories and how they inform instructional systems design  Basic processes of instructional design; Needs assessment and instructional goals  Learning objectives, Taxonomies of cognitive levels  Assessment: Diagnostic, Formative, Summative  Effective teaching-learning strategies  Technology-enhanced learning environments  Models of instructional design  Evaluation of instructional systems
+
+## ET 619: Field Work in Educational Technology
+- Credits: 18
+- Type: Theory
+- Description: Approximately 8 weeks internship in an organization that does educational technology work, or has projects in educational technology. The objective is to familiarize the student with the interdisciplinary nature of ET work. The student will be required to work on a project in the organization, relevant to ET. The student will make observations on how the industry carries out ET projects, from needs analysis to developing content/ interventions, to deployment and evaluation. The student will be required to identify areas where known best-practices in ET can be incorporated. The student will prepare a report and make a presentation upon completion of the field work. This will include their specific project, observations about the industry, and identified best-practices.
+
+## ET 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## ET 792: Communication Skills -II
+- Credits: 4
+- Description: Reading Scientific articles: two-pass approach, summary writing, literature survey an organization 2. Writing scientific articles:organizing structure, writing outline and detailed draft, revising draft, style and formating  3. Creating spoken-tutorials, videos, podcasts to communicate one`s research 4. Delivering scientific presentations: structure, timing, visual aids, non verbal communication 5. Evaluation of scientific presentations, creating scientific diagrams and representations 6. Software for report writing, presentations 7. Ethics and plagiarism: practice and discussion 8. Discussion on workplace  relationships, gender issues, stereotypes, biases, labeling
+
+## ET 797: I Stage Project
+- Credits: 30
+
+## ET 798: II Stage Project
+- Credits: 42
+
+## ET 801: Introduction to Educational Technology
+- Credits: 6
+- Type: Theory
+- Description: This course will offer students an overview of the theories and practices involved in Educational Technology. Topics include: 1. Learning theories. Learning objectives and Blooms taxonomy; constructivist and situated theories of learning; factors affecting and facilitating learning; learning styles. 2. Technologies for creating new resources. Examples include video, multimedia, animations and simulations, Web 2.0/3.0. 3. Instructional Design (ID). Basic ID models (eg ADDIE model), ID models for e-learning and blended learning (eg Dick and Carey model), online course development using ID. 4. Technologies for content delivery. Examples include Learning Management Systems (e.g. Moodle) classroom management systems (e.g. Jhoomla), Open Education Resources, intelligent tutoring systems. Through...
+
+## ET 802: Research Project
+- Credits: 6
+- Type: Project
+
+## ET 807: Educational Game Design
+- Credits: 6
+- Type: Theory
+- Description: I.Introduction to creating gamelets for education a.Introduction to programming in AgentCubes b.Introduction to the project first strategy c.Links to computational thinking II.Zone of Proximal Development and Flow relating to gameplay a.Skills vs. Challenges b.Project-First vs. Principles Fist c.Role of instruction and scaffolding III.Theory behind creating engaging games IV.Learning through Microworlds, Construction Set Simulations a.Electronic Field Hockey example b.Pinball construction set, Minecraft vs. Second-life V.Computational Thinking Patterns and relation to Computational Thinking VI.Forward design a.Starting with gameplay and adding educational components later b.Evaluating forward design games VII.Backwards design a.Starting with representational systems and adding gameplay b.E...
+
+## ET 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## ETS801: Seminar
+- Credits: 4
+- Type: Seminar

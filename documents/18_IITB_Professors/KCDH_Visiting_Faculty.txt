@@ -1,0 +1,46 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# KCDH (Visiting) Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Dr. Karthik Adapa
+- Department: KCDH (Visiting)
+- Designation: Visiting Faculty, KCDH (WHO-SEARO; UNC School of Medicine)
+- Email: kadapa@unc.edu
+- Research Group: WHO-SEARO Digital Health / UNC Health Informatics
+- Primary Research Area: Digital Health Implementation Science & AI for Clinical Decision Support
+- Research Interests & Innovation Focus: Digital health implementation science; AI for clinical decision support; Health information technology in radiation oncology; Patient safety & healthcare quality; Human factors engineering in healthcare; Implementation science frameworks; Population-level AI screening; Codesign of electronic health tools; Cognitive workload in healthcare; Health literacy & patient education technology; Systematic reviews of health IT
+- Notable Projects: WHO-SEARO Regional Adviser for Digital Health; 1176+ Google Scholar citations; H-index 12; Khan's Treatment Planning in Radiation Oncology (591 citations); Real-world evaluation of AI for breast cancer screening (NPJ Digital Medicine 2025); Codesign approaches for health tools (BMJ Open); Multiple publications in Nature Communications, JACR, BMJ Open
+- Key Tools & Platforms: AI/ML models for clinical decision support, EHR systems, implementation science frameworks, codesign methodologies, radiation oncology IT, systematic review tools, digital health toolkits
+- Industry Collaborations: WHO-SEARO; University of North Carolina School of Medicine; Radiation oncology centers; Global digital health initiatives; KCDH
+- Awards: WHO-SEARO Regional Adviser; 1176+ citations; H-index 12; Multiple BMJ/Nature publications; Global digital health leader
+- Innovation Keywords: digital health, implementation science, clinical decision support, AI in healthcare, patient safety, health informatics, radiation oncology, WHO, codesign, health IT, digital health policy
+- Profile: https://scholar.google.com/citations?user=joqInCAAAAAJ
+
+## Dr. Parichoy Pal Choudhury
+- Department: KCDH (Visiting)
+- Designation: Visiting Associate Professor, KCDH (Principal Scientist, American Cancer Society)
+- Email: ppchoudhury@cancer.org
+- Research Group: American Cancer Society / KCDH Cancer Epidemiology
+- Primary Research Area: Biostatistics, Cancer Risk Prediction & Epidemiology
+- Research Interests & Innovation Focus: Cancer risk-stratified prevention strategies; Cancer risk prediction modeling; Gene-environment interactions in cancer; Health disparities in cancer; Polygenic risk score development; Breast cancer risk assessment (BOADICEA, Tyrer-Cuzick validation); Prostate cancer multi-ancestry genomic discovery; Quantitative health sciences; Precision medicine for cancer prevention
+- Notable Projects: Principal Scientist American Cancer Society; Developer of iCARE (R package for cancer risk models, 109+ citations); Wasm-iCARE (WebAssembly implementation); 1267+ Google Scholar citations; H-index 16; Publications in Nature Genetics, Nature Communications, JNCI
+- Key Tools & Platforms: R (iCARE package), WebAssembly (Wasm-iCARE), GWAS tools, polygenic risk score pipelines, cancer risk prediction models, biostatistical methods
+- Industry Collaborations: American Cancer Society; National Cancer Institute; GWAS consortia; KCDH cancer epidemiology
+- Awards: Principal Scientist ACS; 1267+ citations; iCARE software developer; Publications in Nature Genetics, Nature Communications
+- Innovation Keywords: cancer risk prediction, biostatistics, polygenic risk, GWAS, precision medicine, cancer prevention, epidemiology, iCARE, risk stratification, digital health
+- Profile: https://scholar.google.com/citations?user=sCbQRbgAAAAJ
+
+## Prof. Shantanu Chowdhury
+- Department: KCDH (Visiting)
+- Designation: Visiting Associate Professor, KCDH (Scientist-G, CSIR-IGIB)
+- Email: shantanuc@igib.in
+- Research Group: Functional Genomics Laboratory, CSIR-IGIB / KCDH
+- Primary Research Area: Cancer Genomics, Telomere Biology & Genome Regulation
+- Research Interests & Innovation Focus: Cancer genomics & precision medicine; Telomere biology & cellular aging; Pan-India breast cancer genome characterization; DNA secondary structure (G-quadruplex/G4) regulation; Transcription factor & epigenetic modifier interactions; Telomerase reactivation in cancer; Gene expression regulation; Functional genomics; Structural biology & computational genomics; Cancer cell immortality mechanisms
+- Notable Projects: Scientist-G CSIR-IGIB (highest scientific grade); Shanti Swarup Bhatnagar Awardee (Biological Sciences 2012); Wellcome Trust/DBT India Alliance Senior Fellow; Fellow NASI; Editor Journal of Biological Chemistry; Pan-India breast cancer genomes program; Publications in Cell Reports, Trends in Genetics
+- Key Tools & Platforms: Genome sequencing & assembly, RNA-seq, ChIP-seq, bioinformatics pipelines, gene expression profiling, G-quadruplex detection tools
+- Industry Collaborations: CSIR-IGIB New Delhi; Cancer research institutes; KCDH genomics; International cancer research consortia
+- Awards: Shanti Swarup Bhatnagar Award 2012; Scientist-G CSIR-IGIB; Fellow NASI; Wellcome Trust/DBT India Alliance Senior Fellow; JBC Editor
+- Innovation Keywords: cancer genomics, telomere biology, G-quadruplex, precision medicine, genome regulation, functional genomics, epigenetics, breast cancer, computational genomics, digital health
+- Profile: https://www.igib.res.in/?q=ShantanuChowdhury

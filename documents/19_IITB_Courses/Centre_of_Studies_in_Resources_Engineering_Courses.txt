@@ -1,0 +1,470 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre of Studies in Resources Engineering - Course Catalog for IIT Bombay Students
+
+
+## GNR402: Introduction to Geographic Information Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+
+## GNR602: Advanced Methods in Satellite Image Processing
+- Credits: 6
+- Type: Theory
+- Description: Data structures for image analysis, Digital image segmentation concepts, Edge and region segmentation of satellite images, Texture analysis for visible/IR and SAR images, Morphological methods for satellite image analysis, Speckle noise removal techniques in SAR images, Feature based image matching of satellite images, Fuzzy set theoretic methods for satellite image classification, Artificial neural networks for satellite image analysis, Digital image compression for remote sensing, Change detection in satellite images, Integration of remotely sensed information with GIS.
+
+## GNR603: Principles of Remote Sensing
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: History and development of remote sensing, electromagnetic radiation and its interaction with matter, atmospheric effects and corrections, characteristics of remote sensors and platforms: optical, infrared and microwave sensor systems, recent trends in active remote sensing techniques: lasers and radars, data formats, visual interpretation, digital processing and applications
+
+## GNR605: Principles of Geographic Information Systems
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Introduction to GIS, spatial data concepts, map reference systems, spatial data - sources, models, structures, analysis and interpolation, terrain modeling, visualization, data quality, spatial decision support systems, global positioning systems, Open GIS standards, GIS applications and advances
+
+## GNR607: Principles of Satellite Image Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Introduction to digital images, airborne and satellite based image acquisition, resolution concept in remote sensing and mathematical preliminaries - elements of probability, statistics and linear algebra, geo-referencing, image enhancement, filters and transforms, indices and color models, mathematical morphology in image processing, feature evaluation, image classification,  accuracy assessment, change detection, recent advances in image processing
+
+## GNR612: Marine and Coastal Environment
+- Credits: 6
+- Type: Theory
+- Description: Marine and coastal processes, Circulation and mixing of the oceans, Study of the pollutants in marine and coastal environment, and their effects on the environment, Sources, physico-chemical properties, biological nature, measurement and control of pollution in marine and coastal environment, Chemical equilibria and the processes affecting concentrations and distributions, Remote sensing and GIS applications to coastal and marine environment studies, Global environmental issues, Integrated marine and coastal management
+
+## GNR613: Atmospheric Remote Sensing
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Characteristics of the atmosphere, satellite platforms and orbits, atmospheric inversion, spectroscopy of atmospheric molecules,  absorption and emission of radiation, blackbody emission, radiative transfer equation, polarization, refractive index, reflection and transmission at a plane boundary, particle scattering and extinction, Earth radiation budget, extinction and scattering based passive remote sensing of aerosol, ozone, trace gases, cloud properties, ocean color, sea-surface temperature, vertical profiles of temperature and humidity, limb sounding techniques, remote sensing of atmospheric pollution, estimation of atmospheric parameters by radio occultation methods
+
+## GNR615: GIS Laboratory
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: -
+- Description: GIS Project Specification, spatial data collection, scale, projection and georeferencing, map digitization and editing, attribute data attachment, spatial and attribute query for thematic mapping, rasterization and spatial modelling, cartographic map generation, field verification using GPS, integration of GPS and GIS data
+
+## GNR616: Terrain Evaluation
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Terrain classification and evaluation, terrain unit, and generalization of terrain, quantitative terrain evaluation, ground truth collection, sampling schemes, integrated land survey methods, terrain geomorphology and drainage characterizationRadiance/irradiance, spectral response of rocks, soils, vegetation, water bodies and other objects, effects of illumination and viewing geometry, BRDF, Lambertian surface, topographic effect, classification systems in landuse and landcover, necessity for planning, elements of  image  interpretation , mapping from remote sensing data, accuracy estimation, change detection  and monitoring, soil mappingapplications of remote sensing and GIS in  civil engineering projects - geotechnical appraisal, site selection, route alignment, irrigation projects, urba...
+
+## GNR617: Image Interpretation Laboratory
+- Credits: 4
+- Type: Laboratory
+- Prerequisite: -
+- Description: Identification of data sets for the task, preparation of the base map, identification of landuse/landcover based on tone, texture, pattern, association and color, mapping geology, geomorphology, lithology and soil, study of spectral behavior of terrain, water, vegetation, rocks, soil, effect of topography on spectral behavior of terrain.
+
+## GNR618: Remote Sensing and GIS Applications to Cryosphere
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to cryosphere, snow, ice and glaciers, snow cover mapping, estimation of snow pack characteristics, snow melt runoff modeling, polar cryosphere, ice sheet topography, iceberg detection, monitoring iceberg drift, measurement of iceberg thickness and ice sheet surface temperature, glacier geomorphology, glacier facies mapping, glacier inventory, mass balance studies, glacier retreat and glacier movement, avalanche forecasting, mapping potential avalanche prone zones, warning and mitigation, case studies
+
+## GNR619: Natural Resources : Lithosphere and Biosphere
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Introduction to natural resources, renewable and non-renewable natural resources, economic minerals, hydrocarbons, land - soils, arable lands, wastelands and wetlands, natural vegetation, biodiversity, crops and forests, applications of  remote sensing  in natural resources exploration and management, spectral behaviour of terrain, landuse/landcover and soil mapping, stressed Earth, natural hazards, sustainable development and ecological balance
+
+## GNR621: Natural Resources: Hydroshpere, Cryosphere and Atmosphere
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Physical and chemical properties of atmosphere, particulates, clouds, remote sounding of temperature and composition of atmosphere, weather systems, meteorological studies and green house effect, hydrological cycle, fresh water reserves, precipitation (rain / snow) measurement and spatial/temporal variation, evaporation, infiltration and surface rainfall runoff, surface storage and utilization, aquifers - shallow and deep aquifer, ground water potential mapping, abstraction and recharge estimation and conservation, impacts due to extreme events, snow cover, snow properties, snow melt runoff,  land ice, polar ice sheets, remote sensing applications in integrated water management, impacts of climate change on urban & rural water supply, wetlands (coastal and fresh water), coast and coastal r...
+
+## GNR622: Sub-surface Water Resource Assessment and Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Ground water, aquifer characteristics, classification,  infiltration, contamination of shallow aquifer, ground water potential mapping, satellite data applications, estimation, flow modeling, abstraction methods, recharge techniques, water balance estimation, salt water intrusion, water quality, ground water dependant supply systems, aquifer exploitation and vulnerability assessment, trans-boundary aquifers and governance, case studies
+
+## GNR623: GPS : Principles and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Overview of space positioning and navigation systems; GPS Segments, concepts and principle of space intersection,  Characteristics of GNSS signal,  Characteristics of Single and Dual frequency Receivers; Dilution of precision in GPS measurements, sources  of error in GNSS and biases; atmospheric delays, signal reflection and countermeasures. Mathematical models for static and differential positioning. Kinematic and real time mode of GPS operations, GPS Data Post Processing, Land, marine, airborne and indoor applications, Case studies.
+
+## GNR624: Water Resources and River Basin Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Hydrological cycle, fresh water reserves, atmosphere, weather systems, cloud types and meteorological satellite images, precipitation measurements and spatio-temporal variations, morphometric aspects of watersheds - humid, semi-arid and arid region, river basins, evaporation, infiltration and surface rainfall runoff, pollutant discharge and water quality, multilevel data application in water resource studies, surface water storage and effectiveness, water demand of  settlements, agriculture, energy and wetland, water availability and deficit analysis, flood and drought, effective river basin monitoring, management and conflict resolution, case studies
+
+## GNR625: Geo-chemical Analysis of Planetary Materials
+- Credits: 6
+- Type: Theory
+- Description: Sampling strategies and methods in soil, rock and water, mineral separations and physical characterization, theory and practice of modern analytical methods: XRF, XRD, EP, INAA, GC-MS, AAS and ICP, analytical quality, formulation and use of reference materials; laser remote chemical analysis; X-ray, gamma ray, neutron and luminescence spectroscopy in planetary remote sensing systems; space based X- ray and IR spectrometers, recent advances and case studies
+
+## GNR626: Climate and Natural Resources
+- Credits: 6
+- Type: Theory
+- Description: Earth302222s atmosphere, green house effect, atmospheric temperature, water vapor clouds, ocean circulation, climate, paleoclimatic studies, climate change, impact on atmosphere, fresh water availability, agriculture and crop production, marine environment, human life and livestock, irreversible changes in surface storage facilities, vegetation cover and species, wetlands and coastal environment, coastline, agriculture and food security, vulnerability assessment 302226 supply systems, habitat, adaptation, preparedness and conservation practices
+
+## GNR627: Geospatial Predictive Modelling
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: PART A: BACKGROUND CONCEPTS Deterministic, stochastic, empirical models; main components of an empirical model. Spatial data analysis in GIS: Types of spatial data; Spatial data models - vector (spaghetti/topological) and raster models; Elements of geoprocessing - spatial query and conditional evaluation, reclassification, distance and density estimations, transformations, spatial autocorrelation and interpolation, neighborhood operations, map algebra and mathematical operations, multiple map overlay; quantitative estimation of spatial associations; exploratory data analysis; hypothesis testing PART B: MACHINE LEARNING APPLICATIONS TO GEOSPATIAL PREDICTIVE MODELING Types of models: Discriminative versus generative models; Regression versus classification models. Supervised versus unsupervi...
+
+## GNR628: Planetary Spectroscopy and Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: PART A: BACKGROUND CONCEPTS Origin and composition of the solar system: Brief review of theories of origin and evolution of solar system; Frost line and classification of planets; Giant impacts and their role in the evolution of planets. Meteorites: types, composition, and importance; Bulk elemental composition of the solar system; Geochemical affinity of elements and implications for distribution of elements in the interior of planets. Composition of planetary material: Introduction to mineralogy and crystal chemistry -polymerization of silica tetrahedra and important mineral families; Introduction to petrology with emphasis on igneous and sedimentary petrology - Bowen- reaction series, fractional crystallization and magmatic differentiation, sedimentary processes, classification of igneo...
+
+## GNR629: Advances in Geospatial Standards, Interoperability and Knowledge Discovery
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Introduction to Open Geospatial Consortium (OGC) web services, OGC Geospatial Sensor Web framework; Sensor Model Language (SensorML), Sensor Observation Service (SOS), Sensor Alert Service (SAS), case studies on sensor web implementations in various environmental applications, Geocomputational methods, spatial sensors, Spatio-temporal data mining. Ontology-based geospatial information sharing, retrieval and integration, Ontology languages for the semantic web, Geospatial Ontologies development, GeoSemantic Web Services, SPARQL query language, survey of ontology mapping techniques. Tutorial: Advanced hands on experience on building web services oriented systems for sensor web enablement and geospatial applications. Software development in Java, Jena API, AJAX, Android, -PostGIS spatial data...
+
+## GNR630: Introduction to Geospatial Technologies
+- Credits: 6
+- Type: Theory
+
+## GNR631: Rural Informatics
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Introduction to rural development, agricultural land use and land cover patterns, land evaluation and precision agriculture, forestry, rural land use planning and sustainability assessment; watershed based rural development; village-level information system for rural development, data acquisition and analysis, database design,  remote sensing and GIS applications, decision support systems, geo-information and communication technology in rural development, case studies
+
+## GNR633: Remote Sensing and GIS Applications to Mineral and Hydrocarbon Exploration
+- Credits: 6
+- Type: Theory
+- Description: PART A: BACKGROUND GEOLOGICAL CONCEPTS  Structure and composition of Earth; Geological time scale; introduction to plate tectonics; A brief review of origin, composition and classification of igneous, sedimentary and metamorphic rocks: An overview of major rock forming and ore-forming mineral families and minerals  Brief introd uction to structural geology  Mineral systems approach, ore forming processes and classification of economic mineral deposits  Some important mineral systems: orogenic gold, magmatic nickel, sedex lead and zinc, sedimentary iron ore, volcanogenic massive sulphide, porphyry copper.  Targeting models for important mineral deposit types; hydrothermal alteration  Origin of hydrocarbons, petroleum systems - source, migration, and traps (accumulation and retention P...
+
+## GNR634: Remote Sensing of Envirnmental and Climate Change
+- Credits: 6
+- Type: Theory
+- Description: - Remote Sensing of Environment Fundamentals of Satellite Remote Sensing, Overview of various multi-sensor satellite (e.g. AVHRR, Landsat, TOMS, A/MSU, SSMI, MODIS), reanalysis (e.g. NCEP, MERRA) and ground-based (e.g. NOAA/GHCN, IMD/IITM, NASA/GISS) datasets, used for observational assessment of regionally changing environmental and climate patterns; Uncertainty/Accuracy Issues in Long-term satellite data records. -Global and Regional Environmental and Climate Change Introduction to Urbanization, Desertification, Deforestation, Air Quality; Physical basis of Environmental and Climate Change; Global Warming vs. Natural Variability. -Changes in Atmospheric Environment Trends in CO2 and other trace gases; Changing Air Quality patterns; Short-Lived Climate Pollutants (SLCP); Trends and Variab...
+
+## GNR636: Remote Sensing of Vegetation
+- Credits: 6
+- Type: Theory
+- Description: Basics of radiation physics for remote sensing of vegetation, Plant and canopy function, Sensing vegetation properties based on multispectral and hyperspectral data, vegetation indices and vegetation descriptors, relationship between vegetation indices and LAI, fAPAR, and other biophysical variables,     image classification of various vegetation types, Radiative transfer (RT) models and estimation of vegetation biophysical properties, multiangular sensing of vegetation structure, radiation transfer properties, canopy reflectance models, field measurements and collection of ancillary reference data, upscaling, downscaling, problems of non-linearity, LiDAR for vegetation applications, applications covering a cross-section     of    topics   on     vegetation characterization. Tutorials: 1. ...
+
+## GNR638: Machine Learning for Remote Sensing - II
+- Credits: 6
+- Type: Theory
+- Description: Recognition problems in computer vision and remote sensing. Idea of different types of remote sensing data. Idea of ad-hoc feature extraction from images: color moments, texture (local binary pattern), interest points (SIFT), feature encoding strategies (Bag of words, Fisher-s Vector, VLAD etc.), self-similarity feature, histogram of oriented gradients (HOG), Image classification with the ad-hoc features (nearest neighbors, SVM with histogram intersection kernel, spatial pyramid pooling kernel), Example of VHR remote sensing image classification, Example from natural images  Idea of some advanced recognition techniques: weakly-supervised learning, multi-instance learning, multi-label learning, Example on region based VHR remote sensing image classification, Part based natural image class...
+
+## GNR639: Natural Disaster Assessment and Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: -
+- Description: Classification of natural disasters; scale, intensity and frequency of disasters, earthquakes, volcanic eruptions, landslides, avalanches, tsunamis, cyclones, floods, drought, hazard zone mapping, risk assessment, vulnerability mapping, extreme event analysis  Forecasting, early warning systems, disaster preparedness, monitoring techniques, response and disaster management, rehabilitation and reconstruction strategies, case studies of landslides, earthquakes, floods and droughts, mine related disasters, mine environment (open cast  and underground), impact, land degradation and reclamation, slope stabilization and mine environment management, online monitoring system configuration and generation of alert information of the disasters
+
+## GNR640: Geospatial Statistics
+- Credits: 6
+- Type: Theory
+- Description: Introduction to Probability and Statistics - Random Variables, Moments of Random Variables, Discrete and Continuous Distributions; Exploratory Data Analysis - Various plots to visualize data, Goodness-of-Fit Tests, Linear Regression, Correlation; Introduction to R and R Studio; Classical Interpolation Techniques - IDWA, Smoothing spline, Non-smoothing spline, 2-D spline; Characterizing Spatial Processes - Stationarity, Covariance function, Spatial covariance, Intrinsic variation and semivariance, Matheron-s intrinsic hypothesis, Properties of semivariance function; Experimental Variogram - Estimating semivariance in one and two dimensions; Variogram Models - Conditions, Various variogram models, Fitting variogram models; Ordinary Kriging; Universal Kriging; Cokriging; Point Pattern Analysi...
+
+## GNR642: Scattering Models in Microwave Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: Introduction: Fundamental properties of electromagnetic (EM) waves, overview of interaction mechanism of EM waves with matter, frequency characteristics of EM wave propagation;302240 radar imaging basics, radar remote sensing sensors;Microwave Radar scattering principle: scattering coordinate systems, backscattering and bistatic-scattering, EM vector scattering operator and the polarimetric scattering matrices, polarimetric radar cross section and polarimetric radar optimization for coherent objects, calibration of polarimetric radars, ionosphere and radio frequency interference;Microwave dielectric properties: effective medium theories; dielectric mixing formulas in microwave spectrum, microwave properties of hydro-/cryo-/bio-/litho-sphere; Microwave radar interaction (scattering, absorpt...
+
+## GNR647: Microwave Remote Sensing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to active and passive microwave remote sensingSAR Interferometry, raw data processing, registration, coherence, phase unwrapping, geo-coding; differential SAR interferometry, permanent scatter interferometry, radar polarimetry, data processing and image classification, advanced active and passive systems, rainfall measuring radar, scatterometer, altimeter, active microwave data for DEM generation, change mapping in geo-sciences, oil spill, soil moisture, passive microwave data for global soil moisture, snow cover mapping, global temperature monitoring, case studies
+
+## GNR651: Digital Photogrammetry and Cartography
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: .Principles of  analog and analytical photogrammetry, Modelling the geometry of imaging systems, History and evolution of 2D and 3D imaging systems on Indian and foreign satellites Epi-polar registration of stereo images, Orbit attitude modeling using ground control points and Rational Polynomial techniques. Digital feature extraction and matching techniques for stereo image analysis. Use of GPS and SAR interferometry data in 3D mapping, Cartographic problems of mapping the earth with horizontal and vertical controls, Reference Surfaces, Geoid and ellipsoid definitions, Map Projections and their properties,  Hardware and software components of digital mapping systems
+
+## GNR652: Machine Learning for Remote Sensing-I
+- Credits: 6
+- Type: Theory
+- Description: Content (List of the topics/sub-topics to be covered in the lectures/practicals/assignments):  Introduction to remote sensing image analysis  Math refresher- probability, linear algebra, calculus  Introduction to machine learning - an overview, learning theory  Supervised learning - regression, effects of regularization, loss function, gradient based parameter optimization  Supervised learning - classification: basic idea, nearest neighbor based classifier  Supervised learning - classification: probabilistic classifiers, parameter estimation techniques (maximum likelihood, maximum a posteriori), Gaussian mixture models and expectation maximization  Supervised learning - classification: Introduction to graphical models (Bayesian networks, Markov random fields, Conditional random fiel...
+
+## GNR653: Data Analysis Methods for Geospatial Applications
+- Credits: 6
+- Type: Theory
+- Description: - Linear Algebra and Vector Analysis: Vectors and Spaces, Matrices, Determinants, Matrix Inverse, Simultaneous Equations, Eigenvalue/Eigenvector Problems, Coordinate Transformations, Cartesian coordinates, basis vectors and notation, cylindrical polar and spherical polar coordinate systems, Addition of vectors, parallelogram law, product of scalars and vectors, dot and cross products, vector identities, coordinate inversion, Gradient operator as a vector operator and its interpretation, Laplacian operator as a scalar operator, grad and Laplacian operators in different coordinate systems, div and curl operators, form in different coordinate systems, variety of second order derivatives of vector fields, transverse and longitudinal (irrotational) fields, Line, surface, and volume integrals, d...
+
+## GNR694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## GNR792: Communication Skills -II
+- Credits: 4
+- Description: 1.Demonstration and evaluation of Scientific Reports, Note Taking Techniques 2.Discussion and Debates after Listening, Podcasts and Webcasts 3.Two pass approach to reading papers, Summary writing, literature survey and organization, Software Aids 4.Report Writing, Document Processing Software 5.Ethics and Plagiarism: practice and discussion.  6.Writing and Talking about workplace relationships, Gender Issues, Stereotypes, Biases, Labeling 7.Discussion on Contextual Viewpoint, Non-verbal Communication, Analysis of Mannerisms during interactions and presentations. 8.Communication in an interdisciplinary environment 9.Evaluation of Presentations, Short and Long Talks, Timing, Visual Aids, Presentation Software  10.Self-Assessment Techniques
+
+## GNR797: I Stage Project
+- Credits: 48
+- Prerequisite: 0
+
+## GNR798: II Stage Project
+- Credits: 42
+
+## GNR899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
+
+## NR 601: Natural Resources Exploration and Management
+- Credits: 6
+- Type: Theory
+- Description: Introduction to natural resources of land , marine and ocean resources and biologically diverse resources, availability and sustenance of natural resources. Eco friendly utilization and regeneration of natural resources. Mineral and oil exploration in the earth`s crust and its environmental effects, sustainable exploitation and regeneration practices. Water as vast natural resource with limited availability. Management of surface and subsurface water resources. Concepts of terrain evaluation and site selection for construction materials Introduction to Natural hazards and disasters and their impact on natural resources. Soil geography, soil data interpretation & land resources evaluation, land degradation; agriculture and forests resources inventory Remote Sensing and Geographic Informatio...
+
+## NR 602: Advanced Methods in Satellite Image Processing
+- Credits: 6
+- Type: Theory
+- Description: Data structures for image analysis, Digital image segmentation concepts, Edge and region segmentation of satellite images, Texture analysis for visible/IR and SAR images, Morphological methods for satellite image analysis, Speckle noise removal techniques in SAR images, Feature based image matching of satellite images, Fuzzy set theoretic methods for satellite image classification, Artificial neural networks for satellite image analysis, Digital image compression for remote sensing, Change detection in satellite images, Integration of remotely sensed information with GIS.
+
+## NR 603: Principles of Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: History and Development of Remote Sensing, Definition and physics of basic electromagnetic radiation quantities, Basic-energy matter relationships, Atmospheric considerations and the reduction of atmospheric effects, Optical, near Infrared, Thermal Infrared and microwave sensors system. Past, present, future remote sensing satellites and their characteristics. Recent trends in active (radar) and passive microwave remote sensing techniques. Characteristics of airborne and space borne microwave sensors. Visible Infrared (VI) and Microwave complementarity. Principles related to applications of remote sensing in various disciplines such as land-use / land cover, vegetation, agriculture, forestry, geology, hydrology, urban planning, cartography, marine sciences, etc.
+
+## NR 604: Digital Cartography
+- Credits: 6
+- Type: Theory
+- Description: Cartography : Definition, History, Types of maps and their utility, Mapping Standards: Survey of India and international standards for various map products. Cartographic problems of Earth mapping: Shape of earth, Gravity effect, Reference Surfaces, Geoid and Ellipsoid, Reference Systems and their interrelations. Map Projections and their properties. Digital Maps: Definition, Analog to Digital Conversion hardware and Software, Conversion standards, Digital Vector Data (DVD) standards and format defined by Survey of India. Other standard formats in use. Cartographic Data Exchange format (DXF) Digital Mapping Systems: Hardware and software for Data Input, Analysis and Out put, Interface with GIS and GPS.
+
+## NR 605: Principles of Geographic Information Systems
+- Credits: 6
+- Type: Theory
+- Description: Overview and definition, history of GIS, Spatial data concepts, Spatial data sources, Spatial data model and data structures, DBMS, multisource data integration, Spatial data analysis, Interpolation, Data quality,and accuracy, Operational issues and interoperability.
+
+## NR 606: Hydro-Meterological Applications of Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: The atmosphere, Radiation heat and temperature, Wind and weather systems, Cloud types, Physics of precipitation, Rainfall and its measurements, Meteorological satellites and sensors, Principles of image registration, Rainfall estimation from visible and IR images, Applications of satellite rainfall monitoring 303257302277302275 floods and flood routing, crop duty and irrigation water management.
+
+## NR 607: Principles of Satellite Image Processing
+- Credits: 6
+- Type: Theory
+- Description: Concept of a digital image, Methods of acquisition of digital images from conventional and spaceborne scanners, Distortions in Spaceborne Digital images and Restoration, Matching and Registration of satellite images, Digital Image Enhancement through Point Operations, Neighbourhood Operations on Satellite Images, Image Transforms - Fourier, Wavelet, Hough, Color and PCT Arithmetic Operations, Digital Image Analysis Through Supervised and Unsupervised Classification, Post-classification Analysis - statistical accuracy estimation.
+
+## NR 608: Computer Processing of Visual Information
+- Credits: 6
+- Type: Theory
+- Description: Periodic Signals and Fourier Series, Non-periodic Signals and Fourier Transform, Band-limited Signals and the Sampling Theorem, Periodic Sequences and Discrete Fourier Series, Finite-duration Sequences and Discrete Fourier Transform, Fast Fourier Transform, Spatial Sampling Representation of Images; Fourier-frequency Domain Representation, Fourier Series, Band-limited Images and the Sampling Theorem, Discrete Fourier Transform; Discrete Transform Coding; Applications. The Pinhole Camera, The Geometric Model - Perspective Projection, Geometric Transformations in the World-Co-ordinate System, The Image Correspondence Problem, The Three-dimensional Reconstruction Problem. Interpolation of Surfaces, Least Squared-error Approximation, B-Splines, Surface Modelling.
+
+## NR 609: Mathematics and Physics for Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: Set Theory, Linear algebra, Affine transformations, Solution of equations, Eigen value problem, Calculus and trigonometry, Probability theory, Statistical Analysis EMR spectrum, Spectral bands in remote sensing, Maxwell`s equations, Characteristics of Optical, IR ,Thermal and Microwave imaging systems. Principles of SAR interferometry
+
+## NR 610: Advanced Microwave Remote Sensing Techniques and Applications
+- Credits: 6
+- Type: Theory
+- Description: Techniques :Radar Polarimetry and data processing; SAR Interferometry including raw data processing, Registration, Phase unwrapping, geo-coding; Differential SAR Interferometry; Rainfall measuring radar, scatterometer, altimeter, and advanced SAR systems (LightSAR, TOPSAR, Spotlight SAR, ScanSAR); Advanced Microwave Scanning Radiometers (AMSR-E), ESTAR, TRMM ; Multi-temporal data processing.Applications :DEM generation, Change mapping, Oil spill, Snow characterisation, Soil moisture mapping, SAR image classification, Polarimetric data for geoscience applications, forest bio-mass estimation, Global change studies using passive sensor data.
+
+## NR 611: Digital Photogrammetry
+- Credits: 6
+- Type: Theory
+- Description: Photogrammetry Principles: Introduction to Aerial stereo photo analysis, parallax measurement and height computations Satellite Imaging System: Characteristics of High spatial resolution Images, Modelling the geometry of imaging system, Epipolar registration, Orbit attitude modelling and its corrections using ground control points. Along track and cross track stereo imaging systems on Indian and foreign satellites. Digital Image Processing Techniques for stereo image analysis: Radiometric normalisation, geometric corrections, Interest point operators and their characteristics, Image matching techniques, Disparity computations from a stereo pair, Space intersection using Co-linearity and co-planarity conditions. Digital Elevation Modelling: Definitions, Principles, TIN system, secondary inf...
+
+## NR 612: Marine and Coastal Environment
+- Credits: 6
+- Type: Theory
+- Description: Marine and coastal processes, Circulation and mixing of the oceans, Study of the pollutants in marine and coastal environment, and their effects on the environment, Sources, physico-chemical properties, biological nature, measurement and control of pollution in marine and coastal environment, Chemical equilibria and the processes affecting concentrations and distributions, Remote sensing and GIS applications to coastal and marine environment studies, Global environmental issues, Integrated marine and coastal management
+
+## NR 613: Atmospheric Remote Sensing
+- Credits: 6
+- Type: Theory
+- Description: Characteristics of the atmosphere, satellite platforms and orbits, atmospheric inversion, spectroscopy of atmospheric molecules,  absorption and emission of radiation, blackbody emission, radiative transfer equation, polarization, refractive index, reflection and transmission at a plane boundary, particle scattering and extinction, Earth radiation budget, extinction and scattering based passive remote sensing of aerosol, ozone, trace gases, cloud properties, ocean color, sea-surface temperature, vertical profiles of temperature and humidity, limb sounding techniques, remote sensing of atmospheric pollution, estimation of atmospheric parameters by radio occultation methods
+
+## NR 614: Analysis Techniques for Planetary Materials
+- Credits: 6
+- Type: Theory
+
+## NR 615: GIS Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: GIS Project Specification, Spatial data collection, Scale, Projection and Georeferencing, Map digitization and editing, Attribute data attachment, Spatial and Attribute Query for Thematic Mapping, Rasterization and Spatial Modelling, Cartographic Map Generation, Field Verification Using GPS, Integration of GPS and GIS data
+
+## NR 616: Terrain Evaluation
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Terrain classification and evaluation, terrain unit, and generalization of terrain, quantitative terrain evaluation, ground truth collection, sampling schemes, integrated land survey methods, terrain geomorphology and drainage characterizationRadiance/irradiance, spectral response of rocks, soils, vegetation, water bodies and other objects, effects of illumination and viewing geometry, BRDF, Lambertian surface, topographic effect, classification systems in landuse and landcover, necessity for planning, elements of  image  interpretation , mapping from remote sensing data, accuracy estimation, change detection  and monitoring, soil mappingapplications of remote sensing and GIS in  civil engineering projects - geotechnical appraisal, site selection, route alignment, irrigation projects, urba...
+
+## NR 617: Image Interpretation Laboratory
+- Credits: 4
+- Type: Laboratory
+- Description: Identification of data sets for the task, Preparation of the Base Map, Identification of Landuse/Landcover based on Tone, Texture, Pattern, Association, Color etc. Mapping Geology, Geomorphology, Lithology and Soil, Study of Spectral Behavior of Terrain - Water, Vegetation, Rocks, Soil, Effect of Topography on Spectral Behavior of Terrain.
+
+## NR 618: Remote Sensing and GIS Applications to Cryosphere
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to cryosphere, snow, ice and glaciers, snow cover mapping, estimation of snow pack characteristics, snow melt runoff modeling, polar cryosphere, ice sheet topography, iceberg detection, monitoring iceberg drift, measurement of iceberg thickness and ice sheet surface temperature, glacier geomorphology, glacier facies mapping, glacier inventory, mass balance studies, glacier retreat and glacier movement, avalanche forecasting, mapping potential avalanche prone zones, warning and mitigation, case studies
+
+## NR 619: Natural  Resources: Lithosphere and Biosphere
+- Credits: 6
+- Type: Theory
+- Description: Introduction to natural resources, renewable and non-renewable natural resources, dynamic Earth processes, landforms and geomorphic evolution, economic minerals, hydrocarbons, land - soils, arable lands, wastelands and wetlands, natural vegetation, biodiversity, crops and forests, applications of  remote sensing  in natural resources exploration and management, spectral behaviour of terrain, landuse/landcover and soil mapping, stressed Earth, natural hazards, sustainable development and ecological balance
+
+## NR 620: Advanced GIS Technology
+- Credits: 6
+- Type: Theory
+
+## NR 621: Natural Resources: Hydrosphere, Cryosphere and Atmosphere
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Physical and chemical properties of atmosphere, particulates, clouds, remote sounding of temperature and composition of atmosphere, weather systems, meteorological studies and green house effect, hydrological cycle, fresh water reserves, precipitation (rain / snow) measurement and spatial/temporal variation, evaporation, infiltration and surface rainfall runoff, surface storage and utilization, aquifers 302226 shallow and deep aquifer, ground water potential mapping, abstraction and recharge estimation and conservation, impacts due to extreme events, snow cover, snow properties, snow melt runoff,  land ice, polar ice sheets, remote sensing applications in integrated water management, impacts of climate change on urban & rural water supply, wetlands (coastal and fresh water), coast and coas...
+
+## NR 622: Sub-surface Water Resource Assessment and Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Ground water, aquifer characteristics, classification,  infiltration, contamination of shallow aquifer, ground water potential mapping, satellite data applications, estimation, flow modeling, abstraction methods, recharge techniques, water balance estimation, salt water intrusion, water quality, ground water dependant supply systems, aquifer exploitation and vulnerability assessment, trans-boundary aquifers and governance, case studies
+
+## NR 623: GPS: Principles and Applications
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Overview of space positioning and navigation systems; GPS Segments, concepts and principle of space intersection,  Characteristics of GNSS signal,  Characteristics of Single and Dual frequency Receivers; Dilution of precision in GPS measurements, sources  of error in GNSS and biases; atmospheric delays, signal reflection and countermeasures. Mathematical models for static and differential positioning. Kinematic and real time mode of GPS operations, GPS Data Post Processing, Land, marine, airborne and indoor applications, Case studies.
+
+## NR 624: Water Resources and River Basin Management
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Hydrological cycle, fresh water reserves, atmosphere, weather systems, cloud types and meteorological satellite images, precipitation measurements and spatio-temporal variations, morphometric aspects of watersheds - humid, semi-arid and arid region, river basins, evaporation, infiltration and surface rainfall runoff, pollutant discharge and water quality, multilevel data application in water resource studies, surface water storage and effectiveness, water demand of  settlements, agriculture, energy and wetland, water availability and deficit analysis, flood and drought, effective river basin monitoring, management and conflict resolution, case studies
+
+## NR 625: Geo-chemical Analysis of Planetary Materials
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Sampling strategies and methods in soil, rock and water, mineral separations and physical characterization, theory and practice of modern analytical methods: XRF, XRD, EP, INAA, GC-MS, AAS and ICP, analytical quality, formulation and use of reference materials; laser remote chemical analysis; X-ray, gamma ray, neutron and luminescence spectroscopy in planetary remote sensing systems; space based X- ray and IR spectrometers, recent advances and case studies
+
+## NR 626: Climate and Natural Resources
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Earth302222s atmosphere, green house effect, atmospheric temperature, water vapor clouds, ocean circulation, climate, paleoclimatic studies, climate change, impact on atmosphere, fresh water availability, agriculture and crop production, marine environment, human life and livestock, irreversible changes in surface storage facilities, vegetation cover and species, wetlands and coastal environment, coastline, agriculture and food security, vulnerability assessment 302226 supply systems, habitat, adaptation, preparedness and conservation practices
+
+## NR 627: Natural Resources Potential Modeling
+- Credits: 6
+- Type: Theory
+- Description: X
+
+## NR 628: Spectroscopic Analysis of Planetary Materials
+- Credits: 6
+- Type: Theory
+
+## NR 630: Introduction to Geospatial Technologies
+- Credits: 6
+- Type: Theory
+
+## NR 631: Rural Informatics
+- Credits: 6
+- Type: Theory
+- Description: Issues and problems in rural development; Eco-socio-economic dimensions in rural development; Agricultural land use pattern; Wasteland identification and management; Agricultural land evaluation; Rural land use planning; Decentralized planning for rural development; RS & GIS for rural development; Data acquisition and analysis for rural development; Database design for rural development applications; Decision support system for rural development; Rural land use sustainability assessment; Watershed based rural development; Village-level information system for rural development; Case studies; Advances in Information Communication Technology (ICT) based Rural development.
+
+## NR 633: Remote Sensing and GIS Applications to Mineral and Hydrocarbon Exploration
+- Credits: 6
+- Type: Theory
+- Description: Mineral deposits 302226 classification and processes, lithological mapping, lineament analysis, spectral reflectance characteristics of rocks and minerals, hyperspectral remote sensing, alteration zone mapping, mineral deposit modeling, origin and composition of petroleum, types of petroliferous basins, satellite image interpretation of exposed structures, buried structures and basement warp structures, structural analysis of sedimentary basins, geochemical applications, data conversion, multilevel data integration, tools for map analysis 302226 single and multiple maps, spatial modeling.
+
+## NR 635: Remote Sensing in Terrin Evaluation
+- Credits: 6
+- Type: Theory
+- Description: Terrain Classification and Evaluation Systems : Conventional approaches, terrain unit,Generalization of terrain, landform approach, geomorphological approachSpectral Behaviour of Terrain :  Radiance/irradiance, Spectral response from soils/vegetation/water bodies/other objects Effects of illumination and viewing geometry,BRDF, Lambertian surface, topographic effect.Ground Truth Collection :  Sampling schemes, integrated land survey methods Physical and engineering  properties of soils and rocks, terrain characteristics.Landuse / landcover Inventory :  Classification systems, necessity for planningElements of  image  interpretation ,  Mapping from remote sensing data, accuracy estimation, Change detection  and monitoring; Quantitative Terrain Evaluation : Concepts , terrain resources;   Dig...
+
+## NR 639: Natural Disaster Assessment and Management
+- Credits: 6
+- Type: Theory
+- Description: Classification of disaster; Scale of disaster; Trends in natural disaster; Hazard zone mapping; Risk assessment; Vulnerability mapping; Response and disaster management; Extreme event analysis, Forecasting; Disaster preparedness; Early warning system; Disaster profile of countries; Rehabilitation and reconstruction strategy.  Geological disaster – Earthquake phenomenon: Ground shaking, damage potential assessment, Liquefaction, perception and prediction, Vulnerable area assessment, Damage assessment, Relief measure planning, Event management, monitoring techniques, early warning system. Landslide – type of landslides, Vulnerability analysis, Hazard zone potential zone mapping, Instrumentation and monitoring, Stabilization of slope, Management of events. Mine related disasters - mine enviro...
+
+## NR 641: Remote Sensing in Water Resources and River Basin Management
+- Credits: 6
+- Type: Theory
+- Description: Rainfall, evaporation, evapotranspiration, infiltration, runoff; Geomorphology of drainage basins,  Erosion, reservoir sedimentation,  Groundwater hydrology, Command area management,  Spectral characteristics of waterbodies for water quality aspect, BRDF and BRF,  Imaging and non-imaging sensors,  Data registration,  Data products and data generation,  Satellite data use in runoff estimation,  Groundwater exploration,  Watershed management,  Flood monitoring and assessment,  GIS applications in water resources management.
+
+## NR 643: Remote Sensing for Sub-Surface Water Resources
+- Credits: 6
+- Type: Theory
+- Description: Sub-surface water in Hydrological Cycle; The effects of physiography on sub-surface water potential; Geo-morphological aspects of sub-surface water resource; effect of snow cover and flooding in sub-surface water studies ;subsurface distribution of water, sub-surface water recharge-discharge system, artificial recharge systems,  Water Balance calculation, Use of remote sensing techniques to delineate ground water bearing structures, Geographic information system for  prospecting and estimation of ground water..
+
+## NR 645: Advanced Methods in Satellite Image Processing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Fuzzy set theoretic image analysis, image data fusion, digital image segmentation, thresholding, texture analysis, edge detection and region analysis, Hough transform, multiresolution object based image analysis, artificial neural networks and genetic algorithms, support vector machines, digital image compression, hyperspectralimage analysis, feature extraction, end-member extraction, mixture modeling and classification algorithms
+
+## NR 647: Microwave Remote Sensing
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to active and passive microwave remote sensingSAR Interferometry, raw data processing, registration, coherence, phase unwrapping, geo-coding; differential SAR interferometry, permanent scatter interferometry, radar polarimetry, data processing and image classification, advanced active and passive systems, rainfall measuring radar, scatterometer, altimeter, active microwave data for DEM generation, change mapping in geo-sciences, oil spill, soil moisture, passive microwave data for global soil moisture, snow cover mapping, global temperature monitoring, case studies
+
+## NR 651: Digital Photogrammetry and Cartography
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: .Principles of  analog and analytical photogrammetry, Modelling the geometry of imaging systems, History and evolution of 2D and 3D imaging systems on Indian and foreign satellites Epi-polar registration of stereo images, Orbit attitude modeling using ground control points and Rational Polynomial techniques. Digital feature extraction and matching techniques for stereo image analysis. Use of GPS and SAR interferometry data in 3D mapping, Cartographic problems of mapping the earth with horizontal and vertical controls, Reference Surfaces, Geoid and ellipsoid definitions, Map Projections and their properties,  Hardware and software components of digital mapping systems
+
+## NR 694: Seminar
+- Credits: 4
+- Type: Seminar
+
+## NR 696: I Stage Project
+- Credits: 18
+- Type: Project
+
+## NR 697: II Stage Project
+- Credits: 30
+- Type: Project
+
+## NR 698: III Stage Project
+- Credits: 42
+- Type: Project
+
+## NR 797: I Stage Project
+- Credits: 48
+- Prerequisite: 0
+
+## NR 801: Theory of Geospatial Information Science
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: patial structure, spatial data indexing, Geo-relational Data Model, Object Relational Data Model, Advanced Data Models, Spatial query Languages, Spatial Data Mining Algorithms, Measures of Accuracy, Ontology, Interoperability, Multidimensional GIS, Spatial Data Visualization.
+
+## NR 802: Surface Modeling
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Interpolation: Determination of the coefficients; Artifacts 303242302200302223 Ringing, Aliasing, Blocking and Blurring; Desirable properties 303242302200302223 Separability Symmetry and Partition of unity; Approximation theory 303242302200302223 The Strang-fix equivalence, Reproduction of polynomials, Regularity, Decomposition theorem, Piecewise-polynomial analysis; Interpolation: determination of the coefficients; Artifacts-  ringing, aliasing, blocking and blurring; desirable properties,  separability, symmetry and partition of unity; approximation theory, the Strang-fix equivalence, reproduction of polynomials, regularity, decomposition theorem, piecewise-polynomial analysis; piecewise polynomials,  nearest neighbour, linear, B-splines, o-Moms, Schaus functions, Keys function; the Sinc...
+
+## NR 803: Satellite Image Analysis Theory
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Pre-requisite:  A course in digital image processing (equivalent to EE610, NR607)Image modeling, multisensor data fusion, object oriented image analysis, soft computing,   image compression, feature selection algorithms, support vector machines, multiresolution image analysis, mathematical morphology, texture analysis, content based image retrieval
+
+## NR 804: Distributed Hydrologic Modeling
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Spatial Hydrology, Catchment properties, hydrologic processes, interception, evaporation, unsaturated-saturated dynamics, soil moisture, runoff generation, spatial distribution of runoff response to rainfall, inter-basin comparisons, hydrometeorology, meteorological forcing, monsoon system, rainfall, ground based measurements, weather radars, meteorological satellites, data characteristics, river basin modeling, principles, digital representation of topography for hydrologic applications, scale effects, tradeoffs between model resolution, accuracy and computational expense, lumped sub-basin and raster grid modeling, geographic information systems (GIS), triangulated irregular network (TIN) modeling, current river basin models, coupled forecasting, TIN-based real-time integrated basin simul...
+
+## NR 805: Advanced Concepts in Polarimetric SAR Image Analysis
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Introduction to microwave remote sensing, polarization basis, polarized waves, stokes vector, polarization representation, transformation, synthesis, measurement of the backscattering matrix, polarimetric scattering vectors, covariance matrix, polarimetric speckle statistics, filtering, scattering mechanism interpretation, review of decomposition theorems, polarimetric SAR image segmentation, supervised and unsupervised polarimetric data classification, polarimetric interferometry, Polarimetric SAR applications for agriculture, forest, snow, soil moisture, geology, hydrology, sea-ice and ocean.
+
+## NR 806: Climate Dynamics for Natural Resources
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: Climate and Climate System: Principles, Scales, Energy and Water Budget; Global and local circulation models; Natural variability and anthropogenic climate change; Global warming and its inter-relationship with climate change, Sea level rise, Fresh water resources, land use/land cover, crops, productivity; Climate Dataset from operational satellite, Atmospheric data assimilation, earth observation system and simulated dataset for climatic study; Parameterization of land-atmosphere, ocean interaction, Climate models and its validation.
+
+## NR 807: Digital Elevation Modelling : Tools and Techniques
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0
+- Description: DEM definitions and historical perspective, data sources and their suitability-field survey data, topographic sheets at various scales, stereo aerial photographs, stereo images from satellites, synthetic aperture radar (SAR) interferometry, GPS and LIDAR, interpolation techniques and their evolution 302226 contemporary techniques, sources of error, their propagation and minimization strategies, computer graphics and DEM visualization techniques, applications of DEM in geomorphology, water Resources, terrain evaluation, landscape architecture, role of DEM in remote sensing and GIS based studies.

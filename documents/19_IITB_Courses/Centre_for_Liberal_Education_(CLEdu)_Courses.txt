@@ -1,0 +1,28 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Liberal Education (CLEdu) - Course Catalog for IIT Bombay Students
+
+
+## LE 101: Analytical Reading & Writing
+- Credits: 8
+- Type: Theory
+- Description: Reading: Reading and critically analysing creative and scientific articles, essays, stories, short videos or audio clips, a short book or two Understanding the parts of an essay, a story, an article, a poem Identifying the author-s point of view and assumptions, how an author directs the reader-s attention in the course of writing Modes of essay/article-writing story-telling: linear and non-linear narrative, -dense- and -free- writing; blurring of fact and fiction Close observation of what is good or poor writing; analysis of attributes of good writing Examples from literature, science, topical and general human interest pieces, and from social, historical and polemical writing. Writing: Understanding one-s audience and purpose of writing Organizing one-s writing - pre-writing stages of sk...
+
+## LE 102: Digital Lives
+- Credits: 8
+- Type: Theory
+- Description: DIgital Technologies, Internet and Digital Communication Cloud Computing, Virtualization, Dematerialization of Hardware, Internet of Things Automation of Work: Robotics, Artificial Intelligence Platform Capitalism and Gig Economy Data Extraction, Privacy, Security and Surveillance Capitalism Social Media, DIsinformation and Fake News Politics and Consumerism in the Digital Era
+
+## LE 301: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0.0
+
+## LE 302: Seminar
+- Credits: 4
+- Type: Seminar
+- Prerequisite: 0
+
+## LE 304: Seminar
+- Credits: 4
+- Type: Seminar

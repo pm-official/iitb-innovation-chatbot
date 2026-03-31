@@ -1,0 +1,30 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# CUSE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Arnab Jana
+- Department: CUSE
+- Designation: Associate Professor
+- Email: arnab.jana@iitb.ac.in
+- Research Group: CUSE Core Faculty
+- Primary Research Area: Urban Science & Geospatial Analytics
+- Research Interests & Innovation Focus: Urban science, geospatial analytics, built environment and health, transport accessibility, urban data science, smart cities
+- Notable Projects: Urban health-environment studies, transport accessibility mapping
+- Key Tools & Platforms: GIS, Python, R, remote sensing tools
+- Industry Collaborations: Smart city initiatives
+- Innovation Keywords: urban science, geospatial, built environment, health, transport, smart cities
+- Profile: https://www.cuse.iitb.ac.in/
+
+## Prasad Pathak
+- Department: CUSE
+- Designation: Associate Professor
+- Email: prasad.pathak@iitb.ac.in
+- Research Group: CUSE Core Faculty
+- Primary Research Area: Water & Wastewater Treatment
+- Research Interests & Innovation Focus: Water treatment technologies, wastewater management, nature-based solutions, constructed wetlands, water reuse, decentralized systems
+- Notable Projects: Constructed wetland design, decentralized wastewater treatment
+- Key Tools & Platforms: Water quality testing equipment, GIS, modelling tools
+- Industry Collaborations: Municipal water agencies
+- Innovation Keywords: water treatment, wastewater, constructed wetlands, nature-based solutions, water reuse
+- Profile: https://www.cuse.iitb.ac.in/

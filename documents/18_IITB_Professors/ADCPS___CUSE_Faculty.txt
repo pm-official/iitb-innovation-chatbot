@@ -1,0 +1,16 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ADCPS + CUSE Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Himanshu Burte
+- Department: ADCPS + CUSE
+- Designation: Associate Professor
+- Email: h.burte@iitb.ac.in
+- Primary Research Area: Urban Policy, Planning & Infrastructure
+- Research Interests & Innovation Focus: Urban policy and planning, infrastructure, housing, public space, small cities, civic media, coastal city resilience, living labs
+- Notable Projects: Urban living labs, coastal resilience planning, small city innovation
+- Key Tools & Platforms: GIS, urban planning tools, participatory methods
+- Industry Collaborations: Urban governance bodies
+- Innovation Keywords: urban policy, planning, infrastructure, housing, public space, resilience, living labs
+- Profile: https://www.cps.iitb.ac.in/faculty/himanshu-burte/

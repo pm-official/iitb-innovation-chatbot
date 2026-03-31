@@ -1,0 +1,676 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Mechanical Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Dr. Anjishnu Choudhury
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: a.choudhury@iitb.ac.in
+- Research Group: Interfaces-FSI Lab (Interfacial Flows & FSI)
+- Primary Research Area: Bio-fluid Mechanics & Interfacial Flows
+- Research Interests & Innovation Focus: Interfacial flows; Complex & biological fluids; Liquid crystals; Bio-fluid mechanics; Granular flows; Tear film breakup & stability; Droplet & interface dynamics; Fluid-structure interaction; Water droplet impact; Capillary waves
+- Notable Projects: Tear film breakup numerical modeling; Liquid crystal dynamics; Water droplet impact analysis; FSI research; Droplet & interface dynamics studies
+- Key Tools & Platforms: ANSYS Fluent, OpenFOAM, MATLAB, Level set methods
+- Industry Collaborations: CNRS (France); ESPCI Paris; University of British Columbia
+- Awards: Postdoc CNRS & ESPCI Paris; Visiting PhD UBC (2019-20); PhD IIT Hyderabad
+- Innovation Keywords: interfacial flows, bio-fluid mechanics, tear film dynamics, droplet behavior, FSI, liquid crystals, CFD, capillary waves
+- Profile: https://www.me.iitb.ac.in/faculty/a.choudhury
+
+## Prof. Abhijeet Kumar
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: abhijeet.kumar@iitb.ac.in
+- Research Group: Spray and Atomization Lab
+- Primary Research Area: Spray Atomization, Combustion & Fluid Mechanics for Propulsion
+- Research Interests & Innovation Focus: Spray & atomization; Combustion; Nanoparticle synthesis; Jet breakup; Fluid instabilities; Injector design; Propulsion systems; Blood flow dynamics; Thermal analysis; 3D printing injector design
+- Notable Projects: Liquid atomization in slinger combustor for gas turbines (DRDO); JP-10 slurry jets with boron nanoparticles; Coaxial air-blast atomizer; Naval ship thermal analysis
+- Key Tools & Platforms: High-speed imaging, Experimental atomization rigs, CFD, Particle analysis
+- Industry Collaborations: DRDO; Aviation & aerospace industries
+- Awards: PhD IIT Madras (2020); MS IIT Madras
+- Innovation Keywords: spray technology, atomization, combustion, propulsion, nanoparticle synthesis, injector design, fluid mechanics, DRDO
+- Profile: https://www.me.iitb.ac.in/faculty/abhijeet
+
+## Prof. Abhishek Gupta
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: abhi.gupta@iitb.ac.in
+- Research Group: Robotics and Controls Lab
+- Primary Research Area: Optimization & Control Design for Haptic Interfaces and Robotics
+- Research Interests & Innovation Focus: Human-robot interaction; Assistive devices for rehabilitation; Haptic feedback systems; H-infinity optimization for controller design; Transparency bandwidth in haptic devices; Automatic synthesis of robust controllers
+- Notable Projects: Patents WO2020065665A1, IN201502276I3, IN201821035841A; H-infinity optimization for haptic interfaces
+- Key Tools & Platforms: H-infinity optimization tools, Haptic interface control systems, CAD/simulation
+- Industry Collaborations: Haptic interface manufacturers; Rehabilitation device companies
+- Awards: Patent author; Teaching ME316 Kinematics & Dynamics of Machines
+- Innovation Keywords: haptics, human-robot interaction, optimization, control design, assistive robotics, rehabilitation, transparency, robust control
+- Profile: https://www.me.iitb.ac.in/faculty/prof-abhishek-gupta
+
+## Prof. Alankar Alankar
+- Department: Mechanical
+- Designation: Professor
+- Email: alankar@iitb.ac.in
+- Research Group: ICME Lab / IMaGen Lab
+- Primary Research Area: Crystal Plasticity & Multi-scale Computational Materials
+- Research Interests & Innovation Focus: Crystal plasticity; Machine learning for materials; Materials informatics; Dislocation theory; Plastic deformation; Creep & irradiation damage; Microstructure evolution; Texture development; Deformation twinning; Phase transformations
+- Notable Projects: Multi-scale plastic deformation modeling; Dislocation density crystal plasticity; ML materials property prediction; Creep & irradiation assessment
+- Key Tools & Platforms: Crystal plasticity FEA, ML frameworks, Molecular dynamics, CALPHAD, HPC
+- Industry Collaborations: Aerospace & automotive; Semiconductor industry; Los Alamos National Lab connections
+- Awards: BTech IIT Roorkee; PhD Washington State; Postdoc Max-Planck Institut & LANL; Modumetal Inc. experience
+- Innovation Keywords: crystal plasticity, multi-scale modeling, machine learning, materials informatics, dislocation theory, microstructure evolution, ICME, irradiation damage
+- Profile: https://www.me.iitb.ac.in/faculty/prof-alankar-alankar
+
+## Prof. Amber Shrivastava
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: amber.s@iitb.ac.in
+- Research Group: Advanced Manufacturing Process Lab (AMPL)
+- Primary Research Area: Friction Stir Welding & Advanced Joining Technologies
+- Research Interests & Innovation Focus: Friction stir welding; Rotary friction welding; Laser welding; Hybrid welding; Dissimilar material joining; Friction stir metal deposition; Wire arc additive manufacturing; Magnetic pulse welding; Sustainable manufacturing
+- Notable Projects: FSW of dissimilar metals & magnesium alloys; Friction stir metal deposition; Wire arc AM research; Sustainable manufacturing processes
+- Key Tools & Platforms: FSW equipment, Laser welding systems, Optical/electron microscopy, AM equipment
+- Industry Collaborations: Aerospace manufacturers; Automotive suppliers; Metal fabrication companies
+- Awards: PhD University of Wisconsin-Madison; MS Idaho State University
+- Innovation Keywords: friction stir welding, additive manufacturing, dissimilar metals, laser welding, wire arc AM, magnetic pulse welding, sustainable manufacturing
+- Profile: https://www.me.iitb.ac.in/faculty/prof-amber-shrivastava
+
+## Prof. Amit Agrawal
+- Department: Mechanical
+- Designation: Professor (Institute Chair)
+- Email: amit.agrawal@iitb.ac.in
+- Research Group: Microfluidics and Heat Transfer Lab
+- Primary Research Area: Microfluidics, Turbulent Flows & Bio-Microdevices
+- Research Interests & Innovation Focus: Microscale flows; Turbulent flows; Bio-microdevices for blood-plasma separation (>99% purity); Microchannel flow for biomedical applications; Experimental/theoretical/numerical microfluidics
+- Notable Projects: Blood plasma separation microdevice (licensed to Embryyo Biomicrodevices); Longitude Prize Discovery Award (Nesta UK); Multiple SERB/DST projects
+- Key Tools & Platforms: Microfluidic device fabrication, Computational micro-flow modeling
+- Industry Collaborations: Embryyo Biomicrodevices Pvt Ltd; Nesta UK
+- Awards: Shanti Swarup Bhatnagar Prize (2018); Fellow INAE; Fellow NASI; Institute Chair Professor
+- Innovation Keywords: microfluidics, turbulence, bio-microdevices, plasma separation, blood flow, microchannel, medical devices, lab-on-chip
+- Profile: https://www.me.iitb.ac.in/faculty/prof-amit-agrawal
+
+## Prof. Amitava De
+- Department: Mechanical
+- Designation: Professor
+- Email: amitava.de@iitb.ac.in
+- Research Group: Additive Manufacturing and Processing Lab (AMPL)
+- Primary Research Area: Welding, Additive Manufacturing & Process Modeling
+- Research Interests & Innovation Focus: Gas metal arc welding & brazing; Powder bed fusion AM; Numerical modeling of manufacturing; Heat & fluid flow in AM; Real-time heat input monitoring; Welding distortion & residual stress analysis; Structure-property relationships
+- Notable Projects: Real-time heat monitoring in gas metal arc brazing; Powder bed fusion analysis; Multiple AM metallic component projects
+- Key Tools & Platforms: ANSYS, MATLAB, Thermal imaging, Welding monitoring systems, AM simulation
+- Industry Collaborations: Additive manufacturing companies; Welding equipment manufacturers
+- Awards: 18,000+ Google Scholar citations; Highly cited researcher in welding & AM
+- Innovation Keywords: welding, additive manufacturing, powder bed fusion, residual stress, process simulation, brazing, distortion control, metallic structures
+- Profile: https://www.me.iitb.ac.in/faculty/prof-amitava-de
+
+## Prof. Anirban Guha
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: guha@iitb.ac.in
+- Research Group: Kinematics, Robotics & Biomechanics Lab
+- Primary Research Area: Kinematics, Robotics & Biomechanics
+- Research Interests & Innovation Focus: Kinematics & robotics design; Human locomotion modeling; Assistive devices for motion; Safety devices; ROVs & rovers; AI/ML for industrial problems; Impact-resistant structures; Multibody biomechanical modeling
+- Notable Projects: Remotely operated ground vehicle (Rover) for Indian Army; Multibody biomechanical modeling; Robotics & AI/ML projects
+- Key Tools & Platforms: Robotics simulation, MATLAB, CAD/CAM, Python for AI/ML, Motion capture
+- Industry Collaborations: Indian Army (ROV); Industrial automation; Manufacturing sector
+- Awards: P. K. Patwardhan Technology Dev Award (2016); Teaching Excellence (2022); Faculty since 2005
+- Innovation Keywords: robotics, kinematics, biomechanics, ROV, AI/ML, mechanism design, impact resistance, vibration analysis, Indian Army
+- Profile: https://www.me.iitb.ac.in/faculty/prof-anirban-guha
+
+## Prof. Ankit Jain
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: ankit.jain@iitb.ac.in
+- Research Group: Materials Research Lab (MRL)
+- Primary Research Area: Thermal Transport Physics & ML for Materials Discovery
+- Research Interests & Innovation Focus: Phonon thermal transport; Atomistic simulations; First-principles DFT; Boltzmann transport equation; ML for materials prediction; High-throughput discovery; 2D semiconductors (phosphorene, graphene); Carbon nanotubes; Four-phonon scattering
+- Notable Projects: Four-phonon scattering in carbon nanotubes; ML-accelerated phonon conductivity prediction; Boron chalcogenide anomalous transport; Silicon nanoporous films
+- Key Tools & Platforms: VASP, Quantum ESPRESSO, Boltzmann solvers, TensorFlow, PyTorch, HPC platforms
+- Industry Collaborations: Semiconductor companies; Thermal management developers; Data-driven materials initiatives
+- Awards: PhD Carnegie Mellon (2015); BTech IIT Kanpur; 9,000+ citing researchers
+- Innovation Keywords: thermal transport, phonon scattering, DFT, Boltzmann transport, machine learning, materials informatics, nanostructures, 2D materials, carbon nanotubes
+- Profile: https://www.me.iitb.ac.in/faculty/prof-ankit-jain
+
+## Prof. Arunkumar Sridharan
+- Department: Mechanical
+- Designation: Professor
+- Email: arun.sridharan@iitb.ac.in
+- Research Group: Two-Phase Flow & Heat Transfer Lab
+- Primary Research Area: Multi-phase Flow & Heat Transfer, Boiling & Condensation
+- Research Interests & Innovation Focus: Two-phase flow; Boiling in microchannels (140μm); Condensation of refrigerant mixtures; Critical heat flux (CHF); Heat exchanger design; Flow regime mapping; Pressure drop analysis; Local heat transfer coefficients
+- Notable Projects: Two-phase water flow in microchannels; Boiling experiments (mass flux 248-2000 kg/m²s); Multi-component refrigerant studies; Lobed channel CHF investigations
+- Key Tools & Platforms: IR thermography, Flow visualization, Thermodynamic software, Heat exchanger design tools
+- Industry Collaborations: Refrigeration & AC manufacturers; Heat exchanger companies; Automotive thermal management
+- Awards: Extensive publication in experimental heat transfer
+- Innovation Keywords: two-phase flow, boiling, condensation, microchannels, critical heat flux, heat exchangers, thermal management, flow regimes
+- Profile: https://www.me.iitb.ac.in/faculty/prof-arunkumar-sridharan
+
+## Prof. Asim Tewari
+- Department: Mechanical
+- Designation: Professor (HAG)
+- Email: atewari@iitb.ac.in
+- Research Group: Cyber-Physical Systems & Data Analytics; C-MInDS
+- Primary Research Area: Applied AI in Manufacturing, Smart Manufacturing & Digital Twins
+- Research Interests & Innovation Focus: ML & AI for manufacturing; Smart manufacturing & Industry 4.0; Data analytics; IoT for manufacturing/transport/defense; Cyber-physical systems; Digital twin platforms; Quality assurance through AI; Predictive maintenance; Anomaly detection
+- Notable Projects: Zwilling Labs Pvt Ltd (deep-tech startup, digital twin platform); 11 international + 10 Indian patents; $15M+ research funding; 18 PhD students
+- Key Tools & Platforms: ML frameworks, IoT platforms, Digital twin software, Data analytics, Cloud computing
+- Industry Collaborations: Zwilling Labs; Rubber industry (AIRIA); Manufacturing sector; Defense & transportation
+- Awards: Founder/CEO Zwilling Labs; 25+ years corporate experience; Keynote speaker APMC 2025; 100+ publications
+- Innovation Keywords: AI, smart manufacturing, digital twins, Industry 4.0, machine learning, IoT, cyber-physical systems, predictive maintenance, quality assurance
+- Profile: https://www.me.iitb.ac.in/?q=faculty/Prof.+Asim+Tewari
+
+## Prof. Atul Sharma
+- Department: Mechanical
+- Designation: Professor (HOD, Rahul Bajaj Chair)
+- Email: atulsharma@iitb.ac.in
+- Research Group: CFD Lab@IITB
+- Primary Research Area: Computational Fluid Dynamics, Multi-Phase Flows & Heat Transfer
+- Research Interests & Innovation Focus: CFD using Finite Volume Method (FVM); Computational Multi-Fluid Dynamics using Level Set Method (LSM); Fluid-Structure Interaction via Immersed Boundary Method (IBM); Energy harvesting from unsteady hydrodynamics; Smart foundry simulation
+- Notable Projects: SMART FOUNDRY (DST); Film-condensation modeling (AOARD, USA); Nuclear reactor flow simulation (BRNS); CFD Consultant to Crompton Greaves Global R&D
+- Key Tools & Platforms: FVM, LSM, IBM, OpenFOAM, MATLAB, ANSYS
+- Industry Collaborations: Crompton Greaves; AOARD (USA); BRNS; DST
+- Awards: Fellow INAE; Rahul Bajaj Chair Professor; HOD Mechanical; 102 journal articles
+- Innovation Keywords: CFD, multi-phase flow, heat transfer, finite volume, level set, immersed boundary, hydrodynamics, energy harvesting, casting simulation
+- Profile: https://www.me.iitb.ac.in/faculty/prof-atul-sharma-hod
+
+## Prof. B. P. Puranik
+- Department: Mechanical
+- Designation: Professor
+- Email: puranik@iitb.ac.in
+- Research Group: Thermal and Fluids Engineering Lab
+- Primary Research Area: Thermal Science, Gas Dynamics & Heat Transfer
+- Research Interests & Innovation Focus: Gas dynamics & compressible flows; Finite volume methods; Heat transfer enhancement; Nuclear reactor safety; Nanofluid heat transfer; Single-phase & two-phase flow modeling; Computational thermal science
+- Notable Projects: Forced convection nanofluid modeling; Nuclear reactor safety research; Thermal system optimization projects
+- Key Tools & Platforms: ANSYS, Finite volume codes, MATLAB, CFD tools
+- Industry Collaborations: Nuclear energy sector; Thermal equipment manufacturers
+- Awards: PhD University of Wisconsin-Madison; Faculty expertise in gas dynamics
+- Innovation Keywords: thermal science, gas dynamics, heat transfer, nanofluids, nuclear safety, forced convection, computational methods
+- Profile: https://www.me.iitb.ac.in/faculty/prof-bhalchandra-puranik
+
+## Prof. B. Ravi
+- Department: Mechanical
+- Designation: Institute Chair Professor (Director NIT Surathkal)
+- Email: b.ravi@iitb.ac.in
+- Research Group: BETIC (Biomedical Engineering & Technology Innovation Centre)
+- Primary Research Area: Medical Device Innovation, Design & Entrepreneurship
+- Research Interests & Innovation Focus: Metal casting design & simulation; Patient-centric medical device innovation; MedTech product development; Orthopedic devices; Surgical instruments; Diagnostic devices; Prosthetics & assistive devices
+- Notable Projects: BETIC ecosystem: 450 unmet needs identified, 240 device concepts, 55 patents, 25 devices developed, 16 startups incubated; Ayu Devices smart stethoscope; 15-center BETIC network
+- Key Tools & Platforms: Casting simulation, CAD/CAM, 3D printing for prototyping
+- Industry Collaborations: Ayu Devices; Multiple startups; Hospital networks; 30+ industry partners
+- Awards: Fellow INAE; Abdul Kalam Technology Innovation National Fellow; 60 patents filed; 8 products to market
+- Innovation Keywords: medical devices, MedTech, biomedical engineering, entrepreneurship, casting design, surgical devices, patient-centric design, startups, innovation
+- Profile: https://www.me.iitb.ac.in/faculty/prof-b-ravi
+
+## Prof. Darshan S. Shah
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: darshan.shah@iitb.ac.in
+- Research Group: BiOME Lab (Biomechanics, Orthopaedics & Musculoskeletal Engineering)
+- Primary Research Area: Biomechanical Engineering & Orthopaedic Applications
+- Research Interests & Innovation Focus: Musculoskeletal biomechanics; Frugal biomechanics; In-vitro testing; Remote biomechanics; Upper limb movement monitoring; Injury biomechanics; 4D CT imaging; Total knee replacement studies
+- Notable Projects: Remote biomechanics (Imperial-India Connect Fund); Scapholunate distance via 4D CT; Smart tibial trays for intra-articular loads; TKR constraint studies
+- Key Tools & Platforms: 4D CT imaging, Cadaveric gait simulators, Computational biomechanics, Smart sensors
+- Industry Collaborations: Imperial College London; KU Leuven; UZ Leuven (Belgium); IORT hospital
+- Awards: Postdoc Imperial College London (2017-18); Postdoc KU Leuven (2018-20)
+- Innovation Keywords: biomechanics, orthopaedics, musculoskeletal, joint mechanics, prosthetics, rehabilitation, medical devices, frugal engineering
+- Profile: https://www.me.iitb.ac.in/faculty/prof-darshan-s-shah
+
+## Prof. Dnyanesh Pawaskar
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: pawaskar@iitb.ac.in
+- Research Group: Structural & Multidisciplinary Optimization Lab
+- Primary Research Area: Structural Optimization & MEMS Dynamics
+- Research Interests & Innovation Focus: Solid mechanics; Nonlinear dynamics; Engineering optimization; MEMS design; Microbeam dynamics; Modal interactions; Electrostatically actuated systems; Internal resonances; Particle swarm optimization
+- Notable Projects: Electrostatically driven microbeam travel range enhancement (PSO); Internal resonances in beam resonators; Modal interactions in MEMS; MEMS resonator design
+- Key Tools & Platforms: MATLAB, COMSOL, ANSYS, Optimization algorithms (PSO, GA)
+- Industry Collaborations: MEMS device manufacturers; Mechanical systems industries
+- Awards: PhD Brown University (2003); MS Applied Math Brown; MTech IIT Bombay
+- Innovation Keywords: structural optimization, MEMS design, microelectromechanical, dynamics, multidisciplinary optimization, nonlinear systems
+- Profile: https://www.me.iitb.ac.in/faculty/prof-dnyanesh-pawaskar
+
+## Prof. Gurminder Singh
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: gurminder.singh@iitb.ac.in
+- Research Group: Additive Manufacturing & Bio-Manufacturing Lab
+- Primary Research Area: Additive Manufacturing & Bio-Manufacturing of Advanced Materials
+- Research Interests & Innovation Focus: 3D printing (FDM, SLS, SLM, bioprinting); Biomaterials; Biodegradable smart materials; Polymers/ceramics/metal foams; Lattice structures; Bioactive surfaces; Multi-material 3D printing; Non-conventional machining
+- Notable Projects: Multi-material 3D printing of biodegradable smart materials; Biomedical device manufacturing; Ceramic & metal foam fabrication; Lattice structure design
+- Key Tools & Platforms: 3D printing (FDM/SLS/SLM/bioprinting), CAD/CAM, FEA, Rheology characterization
+- Industry Collaborations: Medical device manufacturers; Biomaterial suppliers; 3D printing companies; Aerospace/automotive AM
+- Awards: PhD biomedical engineering; IITB-Monash collaborative programs
+- Innovation Keywords: additive manufacturing, bio-manufacturing, 3D printing, biodegradable materials, smart materials, lattice structures, biomedical devices
+- Profile: https://www.me.iitb.ac.in/faculty/prof-gurminder-singh
+
+## Prof. Janani Srree Murallidharan
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: janani@me.iitb.ac.in
+- Research Group: THTF Lab (Thermal-Hydraulics & Two-Phase Flow)
+- Primary Research Area: Multiphase Heat Transfer, Flow Boiling & Nuclear Reactor Safety
+- Research Interests & Innovation Focus: CFD for heat transfer; Flow boiling in microchannels; Reactor safety analysis; Nuclear reactor dynamics; Multi-phase flow measurements; Subcooled boiling flows; Interfacial transport phenomena; Direct numerical simulations
+- Notable Projects: Centre of Propulsion Technology (CoPT) IITB; IGSTC Indo-German collaboration; Subcooled flow boiling CFD (OpenFOAM); FOSSEE OpenFOAM Lab migration
+- Key Tools & Platforms: OpenFOAM (leads FOSSEE team), ANSYS Fluent, MATLAB, DNS codes
+- Industry Collaborations: Centre of Propulsion Technology (CoPT); FOSSEE initiative
+- Awards: 652 Google Scholar citations; Resource person for OpenFOAM workshops; Publications in Physics of Fluids & Int. J. Heat Mass Transfer
+- Innovation Keywords: multiphase flow, heat transfer, flow boiling, CFD, nuclear reactor safety, OpenFOAM, interfacial dynamics, thermal hydraulics
+- Profile: https://www.me.iitb.ac.in/faculty/prof-janani-srree-murallidharan
+
+## Prof. K. Kurien Issac
+- Department: Mechanical
+- Designation: Professor
+- Email: kurien@iitb.ac.in
+- Research Group: Mechanisms and Robotics Lab
+- Primary Research Area: Kinematics of Mechanisms, Robotics & Optimal Design
+- Research Interests & Innovation Focus: Kinematics of mechanisms & linkages; Robot kinematics & motion planning; Mechanism optimization; Automatic control systems; Rehabilitation aids; Piezoelectric actuators; Single-legged energy-efficient robots; Dynamic analysis
+- Notable Projects: NPTEL Robotics lecture series; Energy-efficient single-legged robot; Rehabilitation aids development; Visiting Scholar University of Delaware (2004-05)
+- Key Tools & Platforms: Mechanism simulation, Robot kinematics software, MATLAB, Optimization algorithms
+- Industry Collaborations: Robotics & automation; Rehabilitation device development
+- Awards: Associate Dean R&D (2006-09); NPTEL lecturer; 370 Scholar citations
+- Innovation Keywords: robotics, kinematics, mechanisms, dynamics, motion planning, rehabilitation, assistive technology, energy-efficient robots
+- Profile: https://www.me.iitb.ac.in/faculty/prof-k-kurien-issac
+
+## Prof. K. P. Karunakaran
+- Department: Mechanical
+- Designation: Chair Professor
+- Email: karuna@iitb.ac.in
+- Research Group: Rapid Manufacturing Lab (RM Lab)
+- Primary Research Area: Additive Manufacturing & Rapid Prototyping Technologies
+- Research Interests & Innovation Focus: Rapid manufacturing; Additive manufacturing (3D printing); Hybrid manufacturing; CNC technology & automation; Metal deposition (HLM); Sand printing; Ice printing; Electron beam AM (EBAM); Micro-aerial vehicles (Garuda)
+- Notable Projects: HLM (Hybrid Layered Manufacturing) via weld deposition; EBAM; Sand 3DP & Ice 3DP; SOM (Selective Offset Method); Garuda micro-aerial vehicle; OptiLOM & Gati-Nirman software
+- Key Tools & Platforms: CAD/CAM, Welding/deposition equipment, 3D printing, OptiLOM, Gati-Nirman
+- Industry Collaborations: Automobile; Medical device; Aerospace manufacturing consulting
+- Awards: PhD IIT Kanpur (1994); MTech IIT Madras; Pioneer in hybrid manufacturing in India
+- Innovation Keywords: additive manufacturing, rapid prototyping, 3D printing, hybrid manufacturing, metal deposition, CNC automation, aerospace manufacturing
+- Profile: https://www.me.iitb.ac.in/faculty/prof-k-p-karunakaran
+
+## Prof. Krishna Jonnalagadda
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: kjonnalagadda@iitb.ac.in
+- Research Group: Mechanics of Materials Lab (MoM Lab)
+- Primary Research Area: Experimental Mechanics & Multiscale Material Characterization
+- Research Interests & Innovation Focus: Fracture mechanics; Plasticity; In situ experimental methods; Static & dynamic loading behavior; Ultrathin polymer films; Microtensile testing; MEMS characterization; Multi-scale mechanics
+- Notable Projects: M. Hetenyi Award research; In situ microtensile tester development; Ultra-thin polymer film characterization
+- Key Tools & Platforms: In situ experimental setups, Microtensile testers, DIC, FEA, High-speed imaging
+- Industry Collaborations: Polymer manufacturers; Aerospace suppliers; Materials testing orgs
+- Awards: M. Hetenyi Award (Society for Experimental Mechanics); Editorial Board Experimental Mechanics; 998+ citations
+- Innovation Keywords: experimental mechanics, fracture testing, plasticity, micromechanics, in situ testing, MEMS testing, polymer mechanics, dynamic loading
+- Profile: https://sites.google.com/view/mmlabiitb/home
+
+## Prof. M. V. Rane
+- Department: Mechanical
+- Designation: Institute Chair Professor
+- Email: mvrane@iitb.ac.in
+- Research Group: Heat Pump Laboratory (HPL_IITB)
+- Primary Research Area: Heat Pump & Refrigeration Systems, Energy Conservation
+- Research Interests & Innovation Focus: HVAC & refrigeration; Heat recovery; Sorption refrigeration; Heat pumps; Compact milk pasteurizers; Solar air conditioning; Freeze concentration; Energy-efficient cooling; Matrix heat exchangers
+- Notable Projects: Hybrid Cooling System (HCS); 3TR solar AC system (25±2°C, 50±10% RH); Freeze pre-concentration for sugarcane juice; Multi-utility heat pumps; Plastic solar dryers
+- Key Tools & Platforms: Thermodynamic simulation, Heat exchanger design, Solar system modeling, Refrigeration cycle analysis
+- Industry Collaborations: Food processing industries; HVAC manufacturers; Energy technology companies
+- Awards: Multiple Indian & international patents; Indian Patent #205362 for tube-tube heat exchangers
+- Innovation Keywords: heat pumps, refrigeration, energy conservation, solar technology, freeze concentration, HVAC, renewable energy, food processing
+- Profile: https://www.me.iitb.ac.in/faculty/prof-m-v-rane
+
+## Prof. Makarand Kulkarni
+- Department: Mechanical
+- Designation: Professor
+- Email: mkulkarni@iitb.ac.in
+- Research Group: Reliability Engineering & Maintenance Lab
+- Primary Research Area: Reliability & Maintenance Engineering for Manufacturing Systems
+- Research Interests & Innovation Focus: Quality engineering; Reliability engineering; Maintenance planning; Smart manufacturing; Machine tool reliability; Condition-based maintenance; Performance engineering; System optimization; Production-maintenance integration
+- Notable Projects: Reliability-based integrated maintenance with quality control; Machine tool reliability & performance; Conditional reliability studies; Smart manufacturing implementation
+- Key Tools & Platforms: Reliability analysis software, Maintenance planning systems, Statistical QC tools
+- Industry Collaborations: Machine tool manufacturers; Manufacturing industry consulting
+- Awards: Co-author 'Machine Tool Reliability' (Performability Engineering Series)
+- Innovation Keywords: reliability engineering, maintenance planning, quality control, machine tool design, smart manufacturing, performance engineering
+- Profile: https://www.me.iitb.ac.in/faculty/prof-makarand-shrikrishna-kulkarni
+
+## Prof. Neeraj Kumbhakarna
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: neeraj_k@iitb.ac.in
+- Research Group: Combustion & Energetic Materials Research Lab
+- Primary Research Area: Combustion Visualization, Optical Diagnostics & Energetic Materials
+- Research Interests & Innovation Focus: Combustion optical diagnostics; CFD & heat transfer; Chemical kinetics & reaction mechanisms; Flame temperature measurement; Pyrolysis kinetics; Gasification reactors; Circulating fluidized bed combustors; Molecular modeling
+- Notable Projects: Innovative flame temperature methods; Petroleum pitch pyrolysis; Gasification reactor optimization; Circulating fluidized bed research; Energetic materials decomposition
+- Key Tools & Platforms: High-speed optical imaging, FLUENT, OpenFOAM, Molecular dynamics simulation
+- Industry Collaborations: Energetic materials manufacturers; Oil & gas industry; CoE in Oil Gas & Energy IITB
+- Awards: PhD Penn State (2014); ME IISc; BE Govt College Aurangabad
+- Innovation Keywords: combustion, optical diagnostics, energetic materials, CFD, chemical kinetics, pyrolysis, gasification, flame characterization
+- Profile: https://www.me.iitb.ac.in/faculty/prof-neeraj-kumbhakarna
+
+## Prof. P. Seshu
+- Department: Mechanical
+- Designation: Professor (Founder Director IIT Dharwad)
+- Email: seshu@iitb.ac.in
+- Research Group: Computational Mechanics and Robotics Lab
+- Primary Research Area: Computational Mechanics with Robotics & Vehicle Dynamics
+- Research Interests & Innovation Focus: Finite element analysis; Stress & vibration analysis; Smart structures; Robotics; Vehicle dynamics & simulation; High-speed mechanism dynamics; Computer-aided simulation of machines
+- Notable Projects: CSIR C-MMACS leadership (2010-14, repositioned as CSIR-4PI); Founder Director IIT Dharwad (2017-22); Multiple FEM and robotics projects
+- Key Tools & Platforms: FEM, ANSYS, CAE software, MATLAB
+- Industry Collaborations: CSIR Labs; IIT Dharwad
+- Awards: Excellence in Teaching (multiple); Mentor of the Year (2001); Founder Director IIT Dharwad
+- Innovation Keywords: computational mechanics, FEM, robotics, vehicle dynamics, smart structures, vibration analysis, stress analysis, simulation
+- Profile: https://www.me.iitb.ac.in/faculty/prof-p-seshu
+
+## Prof. Parag Tandaiya
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: parag@iitb.ac.in
+- Research Group: Computational Solid Mechanics Laboratory
+- Primary Research Area: Fracture Mechanics of Advanced Materials
+- Research Interests & Innovation Focus: FEM of fracture; Multi-scale modeling; Deformation & failure in solids; Wave propagation; Bulk metallic glasses (BMGs); Shape memory alloys; Crack propagation mechanisms; Experimental mechanics
+- Notable Projects: BMG fracture mechanics; Mode I fracture experiments on brittle BMGs; Crack velocity & growth mechanism studies; Multi-scale simulation projects
+- Key Tools & Platforms: ABAQUS, ANSYS, Computational mechanics codes, Experimental fracture testing
+- Industry Collaborations: Aerospace & automotive; Materials testing organizations
+- Awards: PhD Brown University; Significant BMG fracture mechanics contributions
+- Innovation Keywords: fracture mechanics, bulk metallic glasses, FEM, multi-scale modeling, shape memory alloys, crack propagation, failure analysis
+- Profile: https://sites.google.com/site/paragtandaiya/
+
+## Prof. Pradeep Dixit
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: pdixit@iitb.ac.in
+- Research Group: Micro-systems and Machining Lab
+- Primary Research Area: Non-conventional Micro-machining & MEMS Fabrication
+- Research Interests & Innovation Focus: Electrochemical discharge machining (ECDM); Electronic packaging; MEMS fabrication; 3D micro-packaging; Through-substrate vias (TSV); Micromachining of glass/ceramics; Void formation in electrodeposited layers
+- Notable Projects: ECDM for MEMS; Glass/ceramic substrate microfabrication; TSV technology; Pulse electrodeposition of Cu-Sn; Aspect-ratio dependent copper filling
+- Key Tools & Platforms: ECDM equipment, Microfabrication tools, Electron microscopy, Electrodeposition apparatus
+- Industry Collaborations: MEMS manufacturers; Semiconductor packaging; Electronic packaging companies
+- Awards: Associate Editor Microsystem Technologies (Springer); Norman Hackermann Young Author Award (2006); 65+ publications
+- Innovation Keywords: micro-machining, MEMS, ECDM, electronic packaging, through-substrate vias, microfabrication, glass machining, electrodeposition
+- Profile: https://www.me.iitb.ac.in/faculty/prof-pradeep-dixit
+
+## Prof. Prasanna Gandhi
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: pgandhi@iitb.ac.in
+- Research Group: Suman Mashruwala Advanced Microengineering Lab (SMAML)
+- Primary Research Area: Mechatronics, Micro-Manufacturing & Micro-Scale Engineering
+- Research Interests & Innovation Focus: Polymer & ceramics 3D micro-printing; Control of fluid instabilities for multiscale manufacturing; Dynamics & control of ultra-flexible mechanisms; Medical robotics; Micro-fluidics applications
+- Notable Projects: Non-VLSI based 3D digital microfabrication facility at IITB; Technology transfer to ISRO; Multiple private company licenses; Medical device projects
+- Key Tools & Platforms: 3D micro-printing equipment, Microfabrication facilities, MATLAB
+- Industry Collaborations: ISRO; Multiple private companies
+- Awards: Pioneer in 3D digital microfabrication in India; NPTEL course on Mechatronic Systems
+- Innovation Keywords: mechatronics, micro-printing, microfabrication, 3D micro-manufacturing, fluid instabilities, medical robotics, ISRO, flexible mechanisms
+- Profile: https://www.me.iitb.ac.in/faculty/prof-p-s-gandhi
+
+## Prof. Prashant P. Date
+- Department: Mechanical
+- Designation: Professor
+- Email: ppdate@iitb.ac.in
+- Research Group: Metal Forming and Manufacturing Lab
+- Primary Research Area: Metal Forming, Sheet Metal Processing & Manufacturing
+- Research Interests & Innovation Focus: Sheet metal forming & formability analysis; Lightweighting of automobiles; Recycling of shopfloor metallic scrap; Powder metallurgy & metal injection molding; Bulk/sheet forming; Mechanical metallurgy
+- Notable Projects: 30+ years R&D; Sheet metal forming optimization; Automotive lightweighting; Scrap recycling; Metal injection molding development
+- Key Tools & Platforms: FEM for forming, ANSYS, CAD/CAM, Material testing equipment
+- Industry Collaborations: Automotive industry; Material suppliers; Recycling industry
+- Awards: PhD IIT Madras; 30+ years of inter-disciplinary R&D; Multiple PhD students guided
+- Innovation Keywords: metal forming, sheet metal, formability, lightweighting, powder metallurgy, metal injection molding, recycling, automotive
+- Profile: https://www.me.iitb.ac.in/faculty/prof-prashant-p-date
+
+## Prof. Prateek Anand
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: prateek.anand@iitb.ac.in
+- Research Group: Fluid Mechanics & Particle Dynamics Lab
+- Primary Research Area: Microhydrodynamics & Low-Reynolds-Number Flows
+- Research Interests & Innovation Focus: Microhydrodynamics; Low-Reynolds-number flows; Inertial migration in channel flows; Particle dynamics in turbulence; Multiphase flows; Anisotropic particle motion; Ice crystal orientation in cirrus clouds; Spheroid settling dynamics
+- Notable Projects: Anisotropic particle motion in turbulent flows; Ice crystal dynamics in cirrus clouds; DNS of spheroid settling; CompFlu-2024 research
+- Key Tools & Platforms: DNS codes, MATLAB, HPC platforms, Particle tracking software
+- Industry Collaborations: ICTS-TIFR (academic collaboration)
+- Awards: Best Poster CompFlu-2024; Postdoc ICTS-TIFR (2023-25); PhD JNCASR
+- Innovation Keywords: microhydrodynamics, particle dynamics, turbulence, low-Reynolds-number, ice crystals, cirrus clouds, DNS simulations
+- Profile: https://www.me.iitb.ac.in/faculty/prateek
+
+## Prof. Priyanshu Agarwal
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: priyanshu@iitb.ac.in
+- Research Group: Wearable Robotics & Haptics Lab
+- Primary Research Area: Wearable Robotics, Haptic Interfaces & Rehabilitation
+- Research Interests & Innovation Focus: Wearable robot design; Haptic feedback systems; Soft actuators; Virtual/augmented reality interfaces; Neuromuscular rehabilitation; Surgical training; Motor skill training; Physical human-robot interaction
+- Notable Projects: Tasbi: Force-controlled multimodal haptic bracelet; Bellowband pneumatic wristband; Wearable 3D shape display; Hand exoskeleton with assist-as-needed; HAPSEA actuator for haptics
+- Key Tools & Platforms: CAD/CAM, Control systems design, Haptic simulation, Pneumatic/hydraulic design
+- Industry Collaborations: Meta Reality Labs; Rice University; Disney Research; Stanford NCRSR
+- Awards: Outstanding Researcher Award (Stanford NCRSR); 3 Best Paper Awards; 29 US Patents; 40+ publications
+- Innovation Keywords: wearable robotics, haptics, VR/AR, soft actuators, exoskeletons, rehabilitation, human-machine interface
+- Profile: https://www.me.iitb.ac.in/faculty/pagarwal
+
+## Prof. R. Ganesh
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: rganesh@iitb.ac.in
+- Research Group: Wave Propagation & Metamaterials Lab
+- Primary Research Area: Wave Propagation in Metamaterials for Energy Harvesting
+- Research Interests & Innovation Focus: Metamaterials; Phononic crystals; Waves & vibrations; Nonlinear dynamics; Acoustic wave manipulation; Modal mixing; Granular phononic crystals; Topological metamaterials; Energy harvesting
+- Notable Projects: Granular phononic crystals as tunable switches; Resonant optoacoustic functionalities; Nonlinear periodic chains; Drilling system dynamics; Gradient index phononic crystals
+- Key Tools & Platforms: MATLAB, COMSOL Multiphysics, Numerical simulation, Experimental characterization
+- Industry Collaborations: Halliburton Energy Services (2017-21); University of Minnesota
+- Awards: PhD University of Minnesota (2015); Industry experience at Halliburton
+- Innovation Keywords: metamaterials, phononic crystals, wave control, acoustic engineering, vibration isolation, energy harvesting, nonlinear dynamics
+- Profile: https://www.me.iitb.ac.in/faculty/prof-r-ganesh
+
+## Prof. Rajneesh Bhardwaj
+- Department: Mechanical
+- Designation: Professor
+- Email: rajneesh.bhardwaj@iitb.ac.in
+- Research Group: Multiphase Flows & Interfacial Phenomena Lab
+- Primary Research Area: Multiphase Flows, Interfacial Dynamics & Heat Transfer
+- Research Interests & Innovation Focus: Droplet dynamics & interfacial flows; Fluid-structure interaction; Compact heat exchangers; Direct steam generators; Thermal energy storage; Desalination technologies; Phase-change phenomena
+- Notable Projects: Multiphase flow research; Thermal energy storage development; Desalination system design; Compact heat exchanger optimization
+- Key Tools & Platforms: Experimental multiphase flow facilities, CFD, MATLAB
+- Industry Collaborations: Thermal engineering companies; Energy sector; Desalination providers
+- Awards: ISTE Best MTech Thesis Award; 40+ international journal publications; Life member NSFMFP & ISHMT
+- Innovation Keywords: multiphase flows, droplet dynamics, heat exchangers, thermal energy storage, desalination, fluid-structure interaction, interfacial flows
+- Profile: https://www.me.iitb.ac.in/faculty/prof-rajneesh-bhardwaj
+
+## Prof. Ramesh Singh
+- Department: Mechanical
+- Designation: Professor
+- Email: rsingh@iitb.ac.in
+- Research Group: Micro/Ultra-Precision Manufacturing Lab
+- Primary Research Area: Ultra-High Speed Micromachining & Manufacturing Science
+- Research Interests & Innovation Focus: Laser additive manufacturing; Ultra-high speed micromachining (submicron features, nanometric accuracy); Super-finishing of metallic surfaces; FEM of machining/flow forming/ring rolling; Nanofabrication; Hard metal machining
+- Notable Projects: First high-speed micromachining center in India; Multiple additive manufacturing projects; Laser processing of advanced materials
+- Key Tools & Platforms: High-speed micromachining equipment, Laser AM systems, ANSYS, CAD/CAM
+- Industry Collaborations: Manufacturing industry; Technology transfer for micromachining
+- Awards: Swarnajayanti Fellowship (2015); SME/NAMRI Outstanding Paper Award (2016); PhD Georgia Tech
+- Innovation Keywords: micromachining, ultra-precision manufacturing, additive manufacturing, laser manufacturing, nanofabrication, FEM, super-finishing
+- Profile: https://www.me.iitb.ac.in/faculty/prof-ramesh-singh
+
+## Prof. S. K. Maiti
+- Department: Mechanical
+- Designation: Professor
+- Email: skmaiti@iitb.ac.in
+- Research Group: Fracture Mechanics & Structural Integrity Lab
+- Primary Research Area: Fracture Mechanics & Elastic-Plastic Failure Analysis
+- Research Interests & Innovation Focus: Mixed mode fracture; Crack propagation & extension; Stress intensity factors; Composite material fracture; Elastic-plastic fracture; Stress corrosion cracking; Hydrogen-assisted cracking; FEA of fractured bodies; Kinking of cracks
+- Notable Projects: Edge crack extension during shearing; BARC structural integrity collaborations; D16AT aluminum alloy fracture; Multiple failure analysis projects
+- Key Tools & Platforms: FEA for fracture mechanics, Crack simulation software, Stress analysis tools
+- Industry Collaborations: BARC; Structural integrity consulting
+- Awards: 5,451 citations; Recognized expert in fracture mechanics; Extensive publications in Int. Journal of Fracture
+- Innovation Keywords: fracture mechanics, crack propagation, stress intensity, composite fracture, elastic-plastic, structural integrity, failure analysis, hydrogen cracking
+- Profile: https://www.me.iitb.ac.in/~skmaiti/
+
+## Prof. S. L. Bapat
+- Department: Mechanical
+- Designation: Professor Emeritus (Former HOD)
+- Email: slbapat@iitb.ac.in
+- Research Group: Cryogenics & Refrigeration Lab
+- Primary Research Area: Cryogenics, Cryocoolers & Low-Temperature Systems
+- Research Interests & Innovation Focus: Stirling cycle coolers & cryocoolers; Nitrogen liquefaction (5-6 L/h); Cryogenic insulation; Miniature coolers for IR detector cooling (1W at 80K for satellites); Multilayer insulation; Two-component working fluids
+- Notable Projects: Nitrogen liquefier development; Miniature IR detector coolers for satellites; Stirling cooler optimization; IPCL & Linde training programs
+- Key Tools & Platforms: Stirling cycle simulation, Cryogenic system design, Thermal analysis
+- Industry Collaborations: IPCL; Linde; ISRO; BARC; Mazagon Dock Ltd (Independent Director)
+- Awards: Chairman Indian Cryogenics Council (West Zone); Former HOD (2008-11); DST Programme Advisory Committee; DAE HRD Committee
+- Innovation Keywords: cryogenics, Stirling coolers, nitrogen liquefaction, satellite cooling, IR detectors, insulation, aerospace cryogenics
+- Profile: https://www.me.iitb.ac.in/~slbapat/
+
+## Prof. S. S. Pande
+- Department: Mechanical
+- Designation: Professor
+- Email: sspande@iitb.ac.in
+- Research Group: CAM Lab (Computer Aided Manufacturing)
+- Primary Research Area: Computer-Aided Manufacturing & CNC Machining Optimization
+- Research Interests & Innovation Focus: CAD/CAM systems; CNC machining; Toolpath generation; Computer graphics; Product modeling; Freeform surface machining; Point cloud processing; Scallop height estimation; Adaptive toolpath strategies
+- Notable Projects: CNC toolpath generation from point cloud (no surface reconstruction); Adaptive spiral toolpath; Scallop height estimation software; CNC part program optimization
+- Key Tools & Platforms: AutoCAD, SolidWorks, CNC programming tools, Point cloud software, MATLAB
+- Industry Collaborations: CNC machine manufacturers; Aerospace & automotive manufacturing
+- Awards: Author 'Computer graphics and product modeling for CAD/CAM' textbook
+- Innovation Keywords: CAD/CAM, CNC machining, toolpath optimization, computer graphics, freeform machining, digital manufacturing
+- Profile: https://www.me.iitb.ac.in/~sspande/
+
+## Prof. S. V. Prabhu
+- Department: Mechanical
+- Designation: Professor
+- Email: svprabhu@iitb.ac.in
+- Research Group: Heat Transfer Lab; CoE on Safety Engineering & Analytics
+- Primary Research Area: Heat Transfer, Fluid Mechanics & Thermal Engineering
+- Research Interests & Innovation Focus: Impinging jets (subsonic/supersonic); Premixed flame jets; Metal foam heat transfer; Internal turbine cooling; Two-phase flow; Spray condensation; Fire dynamics; Flowmetering; Wind/hydrokinetic turbines; Critical Heat Flux
+- Notable Projects: Metal foam impinging jet studies; Condensation in helical coils; Fire dynamics research; Wind & hydrokinetic turbine research
+- Key Tools & Platforms: Experimental heat transfer facilities, CFD tools, Thermal imaging, Wind tunnel
+- Industry Collaborations: Energy sector; Thermal equipment manufacturers
+- Awards: Professor since 1997; PhD IIT Bombay; Extensive publication record
+- Innovation Keywords: heat transfer, impinging jets, two-phase flow, condensation, fire dynamics, wind turbines, hydrokinetic turbines, thermal engineering
+- Profile: https://www.me.iitb.ac.in/faculty/prof-s-v-prabhu
+
+## Prof. Sandeep Kumar
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: sandeep.kumar@iitb.ac.in
+- Research Group: Energy Science & Engineering Lab
+- Primary Research Area: Renewable Energy & Thermochemical Conversion of Biomass
+- Research Interests & Innovation Focus: Biomass gasification; Combustion; Hydrogen energy; Thermochemical conversion; Alternate fuels for IC engines; Waste-to-energy; Co-gasification; Pyrolysis; Syngas production; Energy conservation
+- Notable Projects: Biomass gasification for energy; Co-gasification of waste; Hydrogen production from renewable sources; Waste-to-energy systems; Alternate IC engine fuels
+- Key Tools & Platforms: Thermodynamic simulation, Gasification reactors, Gas analysis, CFD
+- Industry Collaborations: Renewable energy industry; Waste management industries
+- Awards: PhD IISc Bengaluru (Renewable Energy)
+- Innovation Keywords: biomass energy, gasification, hydrogen production, waste-to-energy, renewable fuels, thermochemical conversion, sustainable energy
+- Profile: https://iitb.irins.org/profile/155584
+
+## Prof. Shankar Krishnan
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: s.krishnan@iitb.ac.in
+- Research Group: TEMS Lab (Thermal Engineering & Management Systems)
+- Primary Research Area: Thermal Management of Electronics & Advanced Cooling
+- Research Interests & Innovation Focus: Heat transfer; Electronics thermal management; Thermal desalination; Supercomputer cooling; LTCC cold plates; 3D-printed heat sinks; Electroplating for heat sinks; Frost formation on cryogenic surfaces; Thermal barrier coatings for IC engines
+- Notable Projects: Multifunctional heat sink via 3D printing & electroplating; LTCC supercomputer cold plates; Frost formation modeling; Make in India thermal innovation; IC engine thermal barrier coatings
+- Key Tools & Platforms: ANSYS CFX, COMSOL, MATLAB, CATIA, 3D printing design
+- Industry Collaborations: DST Make in India; INOX Cryogenics; HPC industry
+- Awards: Patent on noise-reducing heat sinks; 2,125+ Google Scholar citations; Media coverage for thermal innovation
+- Innovation Keywords: thermal management, electronics cooling, supercomputer cooling, 3D printing, heat sink innovation, cryogenics, polymer composites
+- Profile: https://www.me.iitb.ac.in/?q=faculty/Prof.+Shankar+Krishnan
+
+## Prof. Shrinidhi Pandurangi
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: ss.pandurangi@iitb.ac.in
+- Research Group: Computational Solids & Multiphysics Lab
+- Primary Research Area: Chemo-Mechanics of Energy Storage Materials (Li-ion Batteries)
+- Research Interests & Innovation Focus: Stability & bifurcation theory; Continuum mechanics; Li-ion battery mechanics; Multiphysics problems; Battery material degradation; Fracture mechanics; Energy storage material design
+- Notable Projects: Chemo-mechanics of crack advance in NbWO single crystals; Anisotropic swelling in Ni-rich layered oxides; Internal stress & fracture in cathodes; Indigenous Li-ion battery prototype
+- Key Tools & Platforms: FEM, COMSOL Multiphysics, ABAQUS, Bifurcation analysis
+- Industry Collaborations: Indian battery manufacturers; Electrochemical Energy Lab IITB
+- Awards: Postdoc University of Cambridge (2020-23); Visiting PhD Ecole Polytechnique France (2016)
+- Innovation Keywords: battery mechanics, computational materials, energy storage, lithium-ion, fracture mechanics, multiphysics, battery degradation
+- Profile: https://www.me.iitb.ac.in/faculty/prof-shrinidhi-s-pandurangi
+
+## Prof. Shyam Karagadde
+- Department: Mechanical
+- Designation: Professor
+- Email: s.karagadde@iitb.ac.in
+- Research Group: Solidification Laboratory
+- Primary Research Area: Solidification Processes, Casting Microstructure & Multi-scale Simulation
+- Research Interests & Innovation Focus: Multi-scale simulations; Microstructure & processing predictions; Defects in high-pressure die casting; Real-time X-ray imaging of solidification; Hydrogen porosity in aluminum; In situ/operando X-ray imaging; Alloy development; CALPHAD & phase-field modeling
+- Notable Projects: HPDC aluminum alloy defects; Real-time X-ray multicomponent solidification; Hydrogen porosity growth studies; Microstructure-property prediction
+- Key Tools & Platforms: X-ray imaging, CALPHAD, Phase-field modeling, FEA for solidification
+- Industry Collaborations: Aluminum casting companies; Automotive manufacturers; HPDC equipment suppliers
+- Awards: Fellow Indian Academy of Sciences (2018); Postdoc at Manchester X-ray Imaging Facility
+- Innovation Keywords: solidification, casting, microstructure prediction, X-ray imaging, die casting, multi-scale modeling, alloy design, defect analysis, phase-field
+- Profile: https://sites.google.com/site/shyamkaragadde/
+
+## Prof. Sripriya Ramamoorthy
+- Department: Mechanical
+- Designation: Professor
+- Email: sripriya@iitb.ac.in
+- Research Group: Acoustics and Hearing Lab
+- Primary Research Area: Acoustics, Hearing Science & Aeroacoustics
+- Research Interests & Innovation Focus: Acoustics & hearing; Vibration & acoustics; Porous materials characterization; Aeroacoustic phenomena; Auditory system mechanics; Sound-structure interaction; Noise control technologies
+- Notable Projects: Bose Corporation acoustic transducer R&D; Postdoctoral at OHSU; Multiple acoustics research projects
+- Key Tools & Platforms: Acoustic measurement systems, Vibration analysis, FEA for acoustics, Hearing assessment tools
+- Industry Collaborations: Bose Corporation (Senior Research Engineer 2004-09); Acoustic transducer manufacturers; Hearing aid companies
+- Awards: PhD University of Michigan; BTech IIT Madras; Senior Research Associate OHSU
+- Innovation Keywords: acoustics, hearing, vibration analysis, noise control, aeroacoustics, transducers, porous materials, sound propagation
+- Profile: https://sites.google.com/site/auditoryandacousticslab/
+
+## Prof. Suhas S. Joshi
+- Department: Mechanical
+- Designation: Director IIT Indore (Rahul Bajaj Chair)
+- Email: ssjoshi@iitb.ac.in
+- Research Group: Micromachining & Advanced Manufacturing Lab
+- Primary Research Area: Multi-scale Machining & Precision Manufacturing
+- Research Interests & Innovation Focus: Micromachining; Laser micro-machining; Titanium machining; Physics-based machining models; Precision machining; Tool wear analysis; Surface generation; Surgical robotic platform
+- Notable Projects: Micromachining process characterization; Laser micro-machining for precision; Titanium alloy research; High-speed surgical robotic platform (teleop MIS)
+- Key Tools & Platforms: Micromachining equipment, Laser systems, Advanced metrology, FEM for machining
+- Industry Collaborations: Tata Motors (former R&D); Aerospace; Medical device; Surgical robotics
+- Awards: Fellow INAE, FNASc, FNA, FASME; 300+ publications; 24 doctoral students
+- Innovation Keywords: micromachining, precision manufacturing, laser machining, titanium, surgical robotics, medical devices, aerospace manufacturing
+- Profile: https://www.me.iitb.ac.in/~ssjoshi/
+
+## Prof. Tanmay Bhandakkar
+- Department: Mechanical
+- Designation: Associate Professor
+- Email: bhandakkar@iitb.ac.in
+- Research Group: Solid Mechanics Research Group
+- Primary Research Area: Mathematical Modelling of Contact, Fracture & Elasticity
+- Research Interests & Innovation Focus: Solid mechanics; Elasticity theory; Contact mechanics; Fracture mechanics; Analytical & numerical methods; Mathematical modelling; Structural mechanics
+- Notable Projects: Advances in Structural Integrity textbook collaboration; Contact mechanics modeling; Fracture analysis research
+- Key Tools & Platforms: Analytical methods, FEA, Contact mechanics software
+- Industry Collaborations: Materials & structural analysis companies; Manufacturing sectors
+- Awards: PhD Brown University; ME Indian Institute of Science; BE VNIT
+- Innovation Keywords: solid mechanics, contact mechanics, fracture analysis, elasticity, mathematical modelling, structural integrity, FEA
+- Profile: https://www.me.iitb.ac.in/faculty/prof-tanmay-k-bhandakkar
+
+## Prof. Upendra Bhandarkar
+- Department: Mechanical
+- Designation: Professor
+- Email: upendra@iitb.ac.in
+- Research Group: Energy and Combustion Lab
+- Primary Research Area: Combustion, Thermal Science & Energy Systems
+- Research Interests & Innovation Focus: Particulate characterization & emission control; Nanofluids heat transfer; Molecular modeling & simulations; Rarefied gas flows; Nano-fuel ignition delay for aerospace; Biomass cook-stove improvements; Statistical thermodynamics
+- Notable Projects: Al2O3 nano-fuel ignition delay (aerospace); Rarefied gas flow studies; Molecular simulations; Rural biomass cookstove improvements
+- Key Tools & Platforms: Molecular dynamics simulation, CFD, MATLAB, Experimental combustion
+- Industry Collaborations: Aerospace industry; Rural energy sector
+- Awards: Faculty since 2004; PhD & MS University of Minnesota; BTech IIT Bombay
+- Innovation Keywords: combustion, nanofluids, rarefied gas, molecular simulation, thermal science, aerospace fuel, biomass, rural energy
+- Profile: https://www.me.iitb.ac.in/faculty/prof-u-v-bhandarkar
+
+## Prof. Vibhor Pandhare
+- Department: Mechanical
+- Designation: Assistant Professor
+- Email: vibhorpandhare@iitb.ac.in
+- Research Group: DTAIL (Digital Twin & AI Lab)
+- Primary Research Area: Digital Twins & Industrial AI for Smart Manufacturing
+- Research Interests & Innovation Focus: Data-driven decision-support via digital twins; Industrial AI; Smart manufacturing; Cyber-physical production systems (CPPS); Data privacy; Asset life cycle management; Industry 4.0; Equipment health monitoring; Production scheduling with uncertainty
+- Notable Projects: Field-synchronized digital twin for production scheduling; Robust scheduling with degraded equipment; Spindle health monitoring; NIST sponsored research
+- Key Tools & Platforms: Digital twin platforms, Industrial IoT, ML frameworks, Real-time monitoring, Vibration analysis
+- Industry Collaborations: Kennametal Inc.; Mazak; P&G; Foxconn; Plastic Omnium; Cambridge; UCL
+- Awards: PhD University of Cincinnati (under Prof. Jay Lee); NSF IMS Center experience
+- Innovation Keywords: digital twins, Industry 4.0, smart manufacturing, AI, cyber-physical systems, IoT, predictive maintenance, production optimization
+- Profile: https://www.me.iitb.ac.in/index.php/faculty/vibhorpandhare
+
+## Prof. Vivek Buwa
+- Department: Mechanical
+- Designation: Schlumberger Chair Professor
+- Email: vbuwa@iitb.ac.in
+- Research Group: Multiphase Flow Engineering Lab
+- Primary Research Area: Multiphase Flow Characterization & Process Intensification
+- Research Interests & Innovation Focus: Advanced flow characterization; Gas-solid flows; Liquid distribution in trickle beds; Process intensification via micro-reactors; Particle-scale flow in packed beds; Gas-liquid flow; Chemical reaction engineering; Hydrodynamics
+- Notable Projects: Trickle bed liquid distribution; Gas-solid flow dynamics; Micro-reactor process intensification; Particle-scale packed bed modeling
+- Key Tools & Platforms: Flow visualization, CFD, Experimental reactors, High-speed imaging
+- Industry Collaborations: Chemical & process engineering industries
+- Awards: PhD IIT Bombay & CSIR-NCL; Presenter ISCRE26; Schlumberger Chair
+- Innovation Keywords: multiphase flow, process intensification, micro-reactors, chemical reaction engineering, gas-liquid systems, trickle beds
+- Profile: https://web.iitd.ac.in/~vvbuwa/

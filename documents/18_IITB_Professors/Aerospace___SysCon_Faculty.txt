@@ -1,0 +1,18 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Aerospace + SysCon Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Prof. Hemendra Arya
+- Department: Aerospace + SysCon
+- Designation: Professor
+- Email: arya@aero.iitb.ac.in
+- Research Group: Dynamics and Control Laboratory / ISRO Launch Vehicle Simulation Facility
+- Primary Research Area: Dynamics & Control — Hardware-in-Loop Simulation & Autonomous Vehicles
+- Research Interests & Innovation Focus: Research on control system design for autonomous ground and aerial vehicles, miniature aircraft design and development, inertial measurement systems using MEMS sensors, and launch vehicle control law verification. Laboratory houses unique ISRO hardware-in-loop simulation facility integrating actual launch vehicle hardware.
+- Notable Projects: Solar-powered miniature aircraft design; Low-cost MEMS-based INS development; ISRO launch vehicle simulation and control validation; Autonomous vehicle controller design
+- Key Tools & Platforms: Hardware-in-loop simulation, MEMS sensor integration, inertial navigation systems, launch vehicle control systems, simulation and modeling
+- Industry Collaborations: ISRO for launch vehicle control development
+- Awards: Pioneering work in launch vehicle simulation; ISRO collaboration
+- Innovation Keywords: hardware-in-loop, autonomous vehicles, MEMS sensors, launch vehicle control, inertial navigation, miniature aircraft, ISRO
+- Profile: https://www.aero.iitb.ac.in/home/people/faculty/prof-hemendra-arya

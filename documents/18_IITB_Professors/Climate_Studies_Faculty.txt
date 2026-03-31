@@ -1,0 +1,94 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# Climate Studies Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Akshaya Nikumbh
+- Department: Climate Studies
+- Designation: Assistant Professor
+- Email: akshaya.nikumbh@iitb.ac.in
+- Primary Research Area: Atmospheric Dynamics & Monsoon
+- Research Interests & Innovation Focus: Large-scale atmospheric dynamics, South Asian summer monsoon, extreme climate events, tropical convection
+- Notable Projects: Monsoon dynamics research, extreme event attribution
+- Key Tools & Platforms: Climate models, Python, MATLAB
+- Innovation Keywords: atmospheric dynamics, monsoon, extreme events, tropical convection
+- Profile: https://www.akshayanikumbh.in/
+
+## Angshuman Modak
+- Department: Climate Studies
+- Designation: Assistant Professor
+- Email: angshuman.modak@iitb.ac.in
+- Primary Research Area: Climate System & Radiative Forcing
+- Research Interests & Innovation Focus: Climate system response to perturbations, regional climate change, Arctic climate, radiative forcing, climate sensitivity
+- Notable Projects: Radiative forcing studies, Arctic climate change research
+- Key Tools & Platforms: Climate models, Python, radiation codes
+- Innovation Keywords: climate system, radiative forcing, Arctic, climate sensitivity, regional climate
+- Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+## Jaideep Joshi
+- Department: Climate Studies
+- Designation: Assistant Professor
+- Email: jjoshi@iitb.ac.in
+- Research Group: TreeHouse Lab
+- Primary Research Area: Vegetation Modelling & Eco-evolutionary Dynamics
+- Research Interests & Innovation Focus: Evolutionary theory, vegetation modelling, plant ecophysiology, biodiversity and climate change, eco-evolutionary dynamics
+- Notable Projects: Vegetation-climate interaction models, biodiversity-climate studies
+- Key Tools & Platforms: Python, R, vegetation models
+- Innovation Keywords: vegetation modelling, eco-evolutionary, biodiversity, climate change, plant ecophysiology
+- Profile: https://treehouse-iitb.github.io/
+
+## RAAJ Ramsankaran
+- Department: Climate Studies
+- Designation: Associate Professor (Cross-listed)
+- Email: ramsankaran@iitb.ac.in
+- Primary Research Area: Hydro-Remote Sensing & Glacier Hydrology
+- Research Interests & Innovation Focus: Hydro-remote sensing, satellite measurement of water cycle, glacier hydrology, GNSS applications in hydrology
+- Notable Projects: Satellite-based water cycle monitoring, glacier retreat studies
+- Key Tools & Platforms: Remote sensing, GIS, GNSS, Python
+- Innovation Keywords: hydro-remote sensing, glacier hydrology, GNSS, water cycle, satellite
+- Profile: https://www.climate.iitb.ac.in/index.php/associate-faculty/raaj-ramsankaran/
+
+## S. Ravichandran
+- Department: Climate Studies
+- Designation: Associate Professor
+- Email: sravichandran@iitb.ac.in
+- Primary Research Area: Cloud Physics & Climate Fluid Dynamics
+- Research Interests & Innovation Focus: Fluid dynamics of climate, cloud microphysics, sea ice melting, convective dynamics, urban flows
+- Notable Projects: Cloud-resolving simulations, sea ice dynamics studies
+- Key Tools & Platforms: CFD tools, Python, MATLAB, climate models
+- Innovation Keywords: cloud physics, climate dynamics, sea ice, convection, urban flows
+- Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+## Subimal Ghosh
+- Department: Climate Studies
+- Designation: Professor & Head
+- Email: subimal@iitb.ac.in
+- Primary Research Area: Hydroclimatology & Indian Monsoon
+- Research Interests & Innovation Focus: Hydroclimatology, Indian monsoon, urban flooding, climate extremes, climate change impacts on water
+- Notable Projects: Indian monsoon prediction, urban flood modelling for Mumbai
+- Key Tools & Platforms: WRF, Python, MATLAB, climate models
+- Industry Collaborations: Government weather agencies
+- Innovation Keywords: hydroclimatology, monsoon, urban flooding, climate extremes, water resources
+- Profile: https://www.civil.iitb.ac.in/~subimal/
+
+## Suyash Bire
+- Department: Climate Studies
+- Designation: Assistant Professor
+- Email: suyash.bire@iitb.ac.in
+- Primary Research Area: Physical Oceanography
+- Research Interests & Innovation Focus: Physical oceanography, ocean circulation, small-scale turbulence, ocean-atmosphere interactions
+- Notable Projects: Ocean circulation modelling, turbulence studies
+- Key Tools & Platforms: MOM6, Python, ocean models, HPC
+- Innovation Keywords: oceanography, ocean circulation, turbulence, ocean-atmosphere, physical ocean
+- Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/
+
+## Vishal Dixit
+- Department: Climate Studies
+- Designation: Assistant Professor
+- Email: vdixit@iitb.ac.in
+- Primary Research Area: Tropical Climate & Cloud Modelling
+- Research Interests & Innovation Focus: Tropical climate dynamics, monsoon dynamics, cloud-resolving modelling, climate modelling, tropical convection
+- Notable Projects: Cloud-resolving monsoon simulations
+- Key Tools & Platforms: WRF, Python, MATLAB, climate models, HPC
+- Innovation Keywords: tropical climate, monsoon, cloud-resolving, climate modelling, convection
+- Profile: https://www.climate.iitb.ac.in/index.php/core-faculty/

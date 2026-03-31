@@ -1,0 +1,16 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# DESE + Climate Studies Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Rangan Banerjee
+- Department: DESE + Climate Studies
+- Designation: Professor (Cross-listed from DESE)
+- Email: rangan@iitb.ac.in
+- Primary Research Area: Energy Systems & Climate Policy
+- Research Interests & Innovation Focus: Energy systems modelling, energy policy, power systems planning, cogeneration, fuel cell and hydrogen storage
+- Notable Projects: Energy systems modelling for climate mitigation
+- Key Tools & Platforms: Energy modelling tools, MATLAB, optimization
+- Industry Collaborations: Energy companies and policy bodies
+- Innovation Keywords: energy systems, climate policy, power planning, cogeneration, hydrogen, fuel cells
+- Profile: https://www.ctara.iitb.ac.in/en/faculty-profile/rangan-banerjee

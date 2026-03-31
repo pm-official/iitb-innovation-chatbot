@@ -1,0 +1,17 @@
+SOURCE URL: IIC_IITB_Professor_Innovation_Database_Updated.xlsx
+
+# ESED + CUSE + Climate Studies Department - Faculty Profiles for Innovation & Entrepreneurship
+
+
+## Harish Phuleria
+- Department: ESED + CUSE + Climate Studies
+- Designation: Associate Professor
+- Email: harish@iitb.ac.in
+- Research Group: CUSE Core Faculty
+- Primary Research Area: Air Quality & Environmental Health
+- Research Interests & Innovation Focus: Air quality assessment, exposure science, environmental health, indoor air quality, personal exposure monitoring, urban air pollution
+- Notable Projects: Personal air pollution exposure studies, indoor air quality assessment
+- Key Tools & Platforms: Air quality monitors, GIS, statistical tools
+- Industry Collaborations: Environmental health agencies
+- Innovation Keywords: air quality, environmental health, exposure science, indoor air, pollution monitoring
+- Profile: https://www.cuse.iitb.ac.in/

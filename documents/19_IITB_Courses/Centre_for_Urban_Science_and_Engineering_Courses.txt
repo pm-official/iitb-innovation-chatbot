@@ -1,0 +1,95 @@
+SOURCE URL: IIT_Bombay_Course_Database.xlsx
+
+# Centre for Urban Science and Engineering - Course Catalog for IIT Bombay Students
+
+
+## US 601: Urban  Geomatics and Analytics
+- Credits: 6
+- Type: Theory
+- Prerequisite: 0.0
+- Description: Fundamentals of geomatics & analytics Data exploration and spatial statistics for urban areas Evaluation, description and representation of spatial data quality Effect of inaccuracy on spatial data analysis Effect of data aggregation and disaggregation -MAUP (Modifiable Areal Unit Problem) Integration of spatial data of different quality Map matching Point pattern analysis: Point Sets and Distance Statistics Nearest neighbor methods Hot spot and cluster analysis Spatial autocorrelation for urban phenomena Autocorrelation, time series and spatial analysis Global spatial autocorrelation Local indicators of spatial association (LISA) Significance tests for autocorrelation indices Spatial regression  Regression overview Simple regression and trend surface modeling Geographically Weighted Regre...
+
+## US 602: Fundamentals of Urban Science & Engineering
+- Credits: 6
+- Type: Theory
+- Description: (a) Planning and design, (b) policy and governance, (c) infrastructure and (d) informatics. Teaching Component: --organisation of urban areas (definitions, occupation patterns, types of cities, such as industrial, administrative, religious etc.) --planning process and rationale for planning. --review of development plans (DP) of different cities. --development control and regulations (DCR); --UDPFI guidelines; --urban poor, slums and governmental initiatives. --Introduction to urban research methods such as demographic analysis, land use and land suitability analysis, etc., and --application of informatics and ICT in planning process with case studies based on eLearning, telemedicine, mobile applications and gamification. Lab component:  Urban growth and change  Infrastructure management...
+
+## US 603: Research Methods in Urban Science
+- Credits: 6
+- Type: Theory
+- Description: This course is designed (1) to impart understanding of the different analytical methods pertaining to urban studies, and (2) to emphasize the theoretical foundation, data requirement, assumptions, limitations, and constraints of the analytical methods, using examples.
+
+## US 604: Management Techniques for Urban Systems
+- Credits: 6
+- Type: Theory
+- Description: - Overview of urban systems & Issues Urban systems & global environment Climate & urban systems- Impact, mitigation and adaptation strategies and techniques Economic instruments in urban systems engineering Input-Output Analysis Policy Instruments for managing urban systems Urban Systems and Ecosystem Services Urban Metabolisms Urban heat utilization Climate responsive urban planning Life Cycle Assessment of urban lo
+
+## US 605: Introduction to Building: Functional Design and Science
+- Credits: 6
+- Type: Theory
+- Description: Essentials of functional design of building.Space & function programming Functional relationships with space Movement & flow designComputation building designingSustainable building science theoryBuilding as a system of enclosure and servicesIntroduction to building science (lighting, acoustics, thermal, energy conservation, air quality)Computational building services 302226 energy efficiency
+
+## US 606: Urban Environmental Infrastructure
+- Credits: 6
+- Type: Theory
+- Description: This course introduces students to challenges of urban environmental infrastructure in the context of rapid urbanization. It will cover, introduction to urban utility services; introduction to planning and design of utilities; introduction to principles of urban environmental managementDesign, operation and maintenance of water supply, water treatment, sewerage, wastewater treatment and solid waste management infrastructureUse of GIS for planning and design of infrastructureRecycling and resource recovery oriented design of urban utilitiesSelection of sustainable technologies and solutions for urban infrastructure; Introduction to life cycle thinking.
+
+## US 607: Sustainability Assessment of Urban Systems
+- Credits: 6
+- Type: Theory
+- Description: This course introduces students to advance tools used for sustainability assessment of urban Systems.  It will cover Introduction to complexity of urban systems; Introduction to Systemic thinking; Casual Loop Diagrams; Material Flow Analysis; Introduction to life cycle thinking; Introduction to circular economy; Single issue indicators e.g. Ecological Footprinting, carbon footprints, water footprints, CEED; Life Cycle Costing; Technological Aspects; Multiple criteria Decision Making (e.g. Partial Order, AHP, and TOPSIS) Case studies included will be from buildings and structures, water supply, solid and liquid waste handling and disposal, transportation, coastal areas. Students will choose a case from these sectors and apply any one of the tools for assessing the relevant sustainability di...
+
+## US 608: Green Building Design
+- Credits: 6
+- Type: Theory
+- Description: Course Content*Buildings are like living organisms that contribute to the life in the cities. A well-designed building that uses natural materials, passive heating and cooling systems can not only make the life of its inhabitants healthier, but also contribute to preserving the environment and natural resources. This course aims to teach the fundamentals of sustainable and energy efficient building design, by focusing onBuilding envelopes Building materials and properties Building systems and operations (HVAC, lighting, water supply, sewage, garbage disposal, recycling and composting)Clean & renewable energy in buildingsRainwater harvestingWater and energy conservationEnergy modeling and performance evaluation of buildingsSmart buildings (Sensing and control systems)Net Zero buildings, Pas...
+
+## US 609: Introduction to Urban Design
+- Credits: 6
+- Type: Theory
+- Description: Urban design is an interdisciplinary subject that spells out thedynamic relationship between design and other factors thatimpact our living environment such as infrastructure,landscape, technology, policy, etc. This course is geared towardintroducing the basics of urban design to engineers and otherswho want to understand the wider scope of urban planning andcity design. In order to create sustainable cities that canefficiently provide services for economic, social and culturalwell-being to millions of its residents, a holistic approach thatcombines design and engineering is necessary. This course willdeal with various aspects of urban design, including o Historical and contemporary theories  or & principles of urban design (design philosophies of Haussmann, Ebenezer Howard, Kevin Lynch, F...
+
+## US 610: Design for Sustainable Development and Urbanization
+- Credits: 8
+- Type: Theory
+- Description: The course will  teach design for  sustainable development goals through the following ways: Analysis of the current design of SDG issues such as urban design, climate resilience, nutrition, education natural resource management (NRM,) through select examples drawn from national flagship programs with relevant international cases in terms of their objectives, and targets and their contribution to quality of life indicators. Underscoring the inter-dependencies of SDGs and identifying  critical inter-sectoral spaces Understanding the influence of critical factors such as   political economy, technology, culture, local contexts and their implications for the designing of SDG processes.  Understanding conflict and contestations, and  adversarial interests  that impinge on SDG design  Identifyi...
+
+## US 611: Urban Design and Engineering Laboratory
+- Credits: 8
+- Type: Laboratory
+- Description: Students will be asked to take a theme to work on this semester long laboratory. Themes such as water, waste management, transportation, environmental, social and physical infrastructures, demography, land-use planning The lab exercise will heavily base on data analytics, projection methods and policy inputs Students will be encouraged to interact with practitioners and city administration officers
+
+## US 612: Urban Design and Engineering Studio
+- Credits: 8
+- Type: Theory
+- Description: Course Content(List of the topics/sub-topics to be covered in the lectures/practicals/assignments):  Students will be asked to identify one real life challenge to work on and devise solutions Students are required to spend significant amount of time on field and in urban local bodies The studio output will be based on primary data collected by the students
+
+## US 613: Urban Planning in India: Theory, Challenges and Approaches
+- Credits: 6
+- Type: Theory
+- Description: This course provides a critical overview of the theory and practice of urban planning, the historical underpinnings of its disciplinary knowledge, the urban challenges in the Indian context and planning-s responses. The perspective of the course is critical and technical. It will illuminate the explicit and tacit knowledge underlying the practice of urban planning in India. Through a case study approach, students will understand the diversity of urban planning practices, as well as the challenges faced in provision of urban infrastructural services at different scales. Through actual site visits and small problem-solving exercises, students will explore sectoral interconnectedness and gaps. The course is also designed to enable students to think through urban challenges using multipronged ...
+
+## US 614: Urban Space: Theories and Critical Perspectives
+- Credits: 6
+- Type: Theory
+- Description: Urban space is understood differently from different disciplinary and lived perspectives that may contradict each other in important ways. Practically, it is also shaped by the interplay, synergies and conflicts of these perspectives in policy, politics and popular practice. This course provides an introduction to key perspectives drawing on diverse foundational and contemporary debates across fields like urban planning, human geography, critical urban theory, and urban environmentalism.   It unpacks the taken-for-grantedness of urban space by illuminating the underlying complexity of the processes through which social and spatial `forces` shape each other. Such understanding is an important  basis for effective practice (e.g. urban and infrastructural design, or policy practice) as well a...
+
+## US 694: Seminar
+- Credits: 4
+- Type: Seminar
+- Description: x
+
+## US 792: Communication Skills -II
+- Credits: 4
+- Description: To enhance skills in technical presentation in oral, writing and graphics communication.  --To develop and enhance skills for effectively working in teams and time management.  --To strengthen skills for understanding and working with complex scenarios under political, ethical, and economic challenges that confront decision makers who are handling complex problems.  Teaching component - Analysis and presentation of a urban policy document - group work - Review of a peer reviewed Literature review on a preferred topic - individual work - Learn techniques of framing research problem statement and formulating hypothesis - Conduct and present a literature review on a topic of choice.
+
+## US 797: Dissertation I Stage
+- Credits: 48
+
+## US 798: Dissertation II Stage
+- Credits: 42
+- Description: x
+
+## US 899: Communication Skills
+- Credits: 6
+- Description: Context of communication: Recognizing our capability androles as professionalsScientific Method: Question and answer aspects oftechnical communication; Scientific Methodology and itsrelationship to technical communication;Surveying literature: Categories; reading and organizingscientific literature; search engines and tools.Listening and Note taking: 5-R method and mind-mapping.Technical writing: Report organization; Journal selection;Introduction, conclusion, and abstract writing.Speaking & Presentation skills: Organization ofpresentation slides (number, content, and formatting); Oralpresentations; Audience/context dependent practices; Nonverbal aspects: body language, eye-contact, personalappearance, facing large audience.Elevator pitch: Pitches for technical audience and policymakersWor...
