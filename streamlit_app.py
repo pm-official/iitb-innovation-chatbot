@@ -158,6 +158,53 @@ st.markdown("""
         text-align: center; padding: 0.5rem;
         font-size: 0.72rem; color: var(--text-secondary);
     }
+
+    /* ── Floating Feedback Button ── */
+    .floating-feedback {
+        position: fixed;
+        bottom: 90px;
+        right: 28px;
+        z-index: 9999;
+        animation: slideUp 0.6s ease-out 1s both;
+    }
+    .floating-feedback a {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: linear-gradient(135deg, var(--iitb-blue), #003d7a);
+        color: white !important;
+        text-decoration: none !important;
+        padding: 12px 20px;
+        border-radius: 50px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        font-family: 'Inter', sans-serif;
+        box-shadow: 0 4px 15px rgba(0,82,155,0.35);
+        transition: all 0.3s ease;
+    }
+    .floating-feedback a:hover {
+        transform: translateY(-3px) scale(1.05);
+        box-shadow: 0 8px 25px rgba(0,82,155,0.45);
+        background: linear-gradient(135deg, #0066cc, var(--iitb-blue));
+    }
+    .feedback-icon {
+        font-size: 1.1rem;
+        animation: pulse 2s ease infinite;
+    }
+
+    /* ── Inline Feedback (thumbs) ── */
+    .inline-feedback {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 8px;
+        padding: 6px 0;
+    }
+    .inline-feedback span.label {
+        font-size: 0.75rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -222,17 +269,42 @@ if not st.session_state.messages and not st.session_state.pending_query:
             st.session_state.pending_query = q
             st.rerun()
 
+# ── Feedback state ──
+if "feedback" not in st.session_state:
+    st.session_state.feedback = {}  # msg_index -> "up" or "down"
+
+FEEDBACK_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSe-CYwCXVW00JxGJekeHrXqr9oCl9mLguuXAD-XtaAd08nokQ/viewform"
+
 # ── Display chat history ──
-for msg in st.session_state.messages:
+for idx, msg in enumerate(st.session_state.messages):
     avatar = "💡" if msg["role"] == "assistant" else "👤"
     with st.chat_message(msg["role"], avatar=avatar):
         st.markdown(msg["content"])
-        if msg["role"] == "assistant" and "sources" in msg and msg["sources"]:
-            with st.expander(f"📎 {len(msg['sources'])} sources referenced"):
-                for src in msg["sources"]:
-                    tag = f'<span class="source-tag">{src["category"]}</span>'
-                    name = f'<span class="source-file">{src["file"]}</span>'
-                    st.markdown(f"{tag} {name}", unsafe_allow_html=True)
+        if msg["role"] == "assistant":
+            if "sources" in msg and msg["sources"]:
+                with st.expander(f"📎 {len(msg['sources'])} sources referenced"):
+                    for src in msg["sources"]:
+                        tag = f'<span class="source-tag">{src["category"]}</span>'
+                        name = f'<span class="source-file">{src["file"]}</span>'
+                        st.markdown(f"{tag} {name}", unsafe_allow_html=True)
+            # Inline thumbs feedback
+            fb_key = f"fb_{idx}"
+            existing = st.session_state.feedback.get(fb_key)
+            if existing:
+                if existing == "up":
+                    st.markdown('<div class="inline-feedback"><span class="label">Thanks for the feedback!</span></div>', unsafe_allow_html=True)
+                else:
+                    st.markdown('<div class="inline-feedback"><span class="label">Thanks! We\'ll improve.</span></div>', unsafe_allow_html=True)
+            else:
+                col1, col2, col3 = st.columns([0.18, 0.18, 0.64])
+                with col1:
+                    if st.button("👍 Helpful", key=f"up_{idx}", use_container_width=True):
+                        st.session_state.feedback[fb_key] = "up"
+                        st.rerun()
+                with col2:
+                    if st.button("👎 Not helpful", key=f"dn_{idx}", use_container_width=True):
+                        st.session_state.feedback[fb_key] = "down"
+                        st.rerun()
 
 # ── Handle pending query from starter buttons ──
 query = st.session_state.pending_query
@@ -270,6 +342,16 @@ if query:
         "content": response,
         "sources": sources,
     })
+
+# ── Floating Feedback Button ──
+st.markdown(f"""
+<div class="floating-feedback">
+    <a href="{FEEDBACK_FORM_URL}" target="_blank" rel="noopener noreferrer">
+        <span class="feedback-icon">💬</span>
+        Give Feedback
+    </a>
+</div>
+""", unsafe_allow_html=True)
 
 # ── Footer ──
 st.markdown("""
