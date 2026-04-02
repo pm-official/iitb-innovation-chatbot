@@ -162,7 +162,7 @@ st.markdown("""
     /* ── Floating Feedback Button ── */
     .floating-feedback {
         position: fixed;
-        bottom: 90px;
+        bottom: 110px;
         right: 28px;
         z-index: 9999;
         animation: slideUp 0.6s ease-out 1s both;
@@ -192,10 +192,10 @@ st.markdown("""
         animation: pulse 2s ease infinite;
     }
 
-    /* ── Mobile: move feedback button higher to avoid chat input collision ── */
+    /* ── Tablet: move feedback button higher to avoid chat input collision ── */
     @media (max-width: 768px) {
         .floating-feedback {
-            bottom: 140px;
+            bottom: 160px;
             right: 16px;
         }
         .floating-feedback a {
@@ -203,9 +203,10 @@ st.markdown("""
             font-size: 0.78rem;
         }
     }
+    /* ── Mobile: move feedback button much higher — well above keyboard + chat input ── */
     @media (max-width: 480px) {
         .floating-feedback {
-            bottom: 150px;
+            bottom: 180px;
             right: 12px;
         }
         .floating-feedback a {
@@ -377,9 +378,8 @@ if query:
                     name = f'<span class="source-file">{src["file"]}</span>'
                     st.markdown(f"{tag} {name}", unsafe_allow_html=True)
 
-        # Show which provider answered
-        if provider_name and provider_name != "None":
-            st.markdown(f'<span class="provider-badge">⚡ Powered by {provider_name}</span>', unsafe_allow_html=True)
+        # Show branding badge
+        st.markdown('<span class="provider-badge">⚡ Powered by IIC, IIT Bombay</span>', unsafe_allow_html=True)
 
     st.session_state.messages.append({
         "role": "assistant",
