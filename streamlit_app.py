@@ -192,6 +192,46 @@ st.markdown("""
         animation: pulse 2s ease infinite;
     }
 
+    /* ── Mobile: move feedback button higher to avoid chat input collision ── */
+    @media (max-width: 768px) {
+        .floating-feedback {
+            bottom: 140px;
+            right: 16px;
+        }
+        .floating-feedback a {
+            padding: 10px 16px;
+            font-size: 0.78rem;
+        }
+    }
+    @media (max-width: 480px) {
+        .floating-feedback {
+            bottom: 150px;
+            right: 12px;
+        }
+        .floating-feedback a {
+            padding: 8px 14px;
+            font-size: 0.75rem;
+            gap: 6px;
+        }
+        .feedback-icon {
+            font-size: 0.95rem;
+        }
+    }
+
+    /* ── Provider badge ── */
+    .provider-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        background: rgba(0,82,155,0.08);
+        color: var(--iitb-blue);
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 0.65rem;
+        font-weight: 600;
+        margin-top: 4px;
+    }
+
     /* ── Inline Feedback (thumbs) ── */
     .inline-feedback {
         display: flex;
@@ -327,7 +367,7 @@ if query:
             for m in st.session_state.messages[:-1]
         ]
 
-        stream, sources = stream_answer(query, history)
+        stream, sources, provider_name = stream_answer(query, history)
         response = st.write_stream(stream)
 
         if sources:
@@ -336,6 +376,10 @@ if query:
                     tag = f'<span class="source-tag">{src["category"]}</span>'
                     name = f'<span class="source-file">{src["file"]}</span>'
                     st.markdown(f"{tag} {name}", unsafe_allow_html=True)
+
+        # Show which provider answered
+        if provider_name and provider_name != "None":
+            st.markdown(f'<span class="provider-badge">⚡ Powered by {provider_name}</span>', unsafe_allow_html=True)
 
     st.session_state.messages.append({
         "role": "assistant",

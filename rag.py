@@ -1,11 +1,20 @@
-"""RAG pipeline: retrieve context -> build prompt -> stream from Groq."""
+"""RAG pipeline: retrieve context -> build prompt -> stream from LLM with multi-provider fallback."""
 
+import logging
 import chromadb
 from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 from groq import Groq
+from openai import OpenAI
 import streamlit as st
 
-from config import CHROMA_DIR, COLLECTION_NAME, GROQ_API_KEY, GROQ_MODEL, TOP_K
+from config import (
+    CHROMA_DIR, COLLECTION_NAME, TOP_K,
+    GROQ_API_KEY, GROQ_MODEL,
+    GEMINI_API_KEY, GEMINI_MODEL, GEMINI_BASE_URL,
+    CEREBRAS_API_KEY, CEREBRAS_MODEL, CEREBRAS_BASE_URL,
+)
+
+logger = logging.getLogger(__name__)
 
 SYSTEM_PROMPT = """You are the IIC Innovation Advisor at IIT Bombay. You help students navigate IIT Bombay's innovation and entrepreneurship ecosystem with practical, actionable guidance.
 
@@ -165,9 +174,42 @@ def load_collection():
     return client.get_collection(COLLECTION_NAME, embedding_function=embedding_fn)
 
 
-def get_groq_client():
-    """Get Groq client."""
-    return Groq(api_key=GROQ_API_KEY)
+# ═══════════════════════════════════════════
+# Multi-Provider LLM Clients
+# ═══════════════════════════════════════════
+
+def _get_providers():
+    """Build ordered list of available LLM providers for fallback chain.
+    Priority: Groq (fastest) → Gemini (highest token limits) → Cerebras (fast + generous).
+    Only providers with valid API keys are included.
+    """
+    providers = []
+
+    if GROQ_API_KEY:
+        providers.append({
+            "name": "Groq",
+            "type": "groq",
+            "client": Groq(api_key=GROQ_API_KEY),
+            "model": GROQ_MODEL,
+        })
+
+    if GEMINI_API_KEY:
+        providers.append({
+            "name": "Gemini",
+            "type": "openai_compat",
+            "client": OpenAI(api_key=GEMINI_API_KEY, base_url=GEMINI_BASE_URL),
+            "model": GEMINI_MODEL,
+        })
+
+    if CEREBRAS_API_KEY:
+        providers.append({
+            "name": "Cerebras",
+            "type": "openai_compat",
+            "client": OpenAI(api_key=CEREBRAS_API_KEY, base_url=CEREBRAS_BASE_URL),
+            "model": CEREBRAS_MODEL,
+        })
+
+    return providers
 
 
 def retrieve_context(query: str) -> list[dict]:
@@ -199,7 +241,7 @@ def retrieve_context(query: str) -> list[dict]:
 
 
 def build_messages(query: str, contexts: list[dict], history: list[dict]) -> list[dict]:
-    """Build message list for Groq chat API."""
+    """Build message list for chat API."""
     context_parts = []
     for i, ctx in enumerate(contexts, 1):
         context_parts.append(
@@ -221,29 +263,109 @@ def build_messages(query: str, contexts: list[dict], history: list[dict]) -> lis
     return messages
 
 
+def _stream_from_provider(provider: dict, messages: list[dict]):
+    """Attempt to stream from a single provider. Returns (text_stream_generator, provider_name) or raises."""
+    if provider["type"] == "groq":
+        raw_stream = provider["client"].chat.completions.create(
+            model=provider["model"],
+            messages=messages,
+            temperature=0.3,
+            max_tokens=3000,
+            stream=True,
+        )
+
+        def text_stream():
+            for chunk in raw_stream:
+                delta = chunk.choices[0].delta
+                if delta.content:
+                    yield delta.content
+
+        return text_stream(), provider["name"]
+
+    else:  # openai_compat (Gemini, Cerebras)
+        raw_stream = provider["client"].chat.completions.create(
+            model=provider["model"],
+            messages=messages,
+            temperature=0.3,
+            max_tokens=3000,
+            stream=True,
+        )
+
+        def text_stream():
+            for chunk in raw_stream:
+                if chunk.choices and chunk.choices[0].delta.content:
+                    yield chunk.choices[0].delta.content
+
+        return text_stream(), provider["name"]
+
+
 def stream_answer(query: str, history: list[dict] | None = None):
-    """Stream answer from Groq for instant response feel."""
+    """Stream answer with automatic multi-provider fallback.
+
+    Tries providers in order: Groq → Gemini → Cerebras.
+    If a provider hits rate limits (429) or errors, automatically falls back to the next.
+    Returns (text_stream_generator, sources_list, provider_name).
+    """
     if history is None:
         history = []
 
     contexts = retrieve_context(query)
     messages = build_messages(query, contexts, history)
+    providers = _get_providers()
 
-    client = get_groq_client()
-    raw_stream = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=messages,
-        temperature=0.3,
-        max_tokens=3000,
-        stream=True,
-    )
+    if not providers:
+        def error_stream():
+            yield "Error: No LLM providers configured. Please set at least one API key (GROQ_API_KEY, GEMINI_API_KEY, or CEREBRAS_API_KEY)."
+        return error_stream(), [], "None"
 
-    # Wrap to yield plain strings (required by st.write_stream)
-    def text_stream():
-        for chunk in raw_stream:
-            delta = chunk.choices[0].delta
-            if delta.content:
-                yield delta.content
+    last_error = None
+    for provider in providers:
+        try:
+            logger.info(f"Trying provider: {provider['name']}")
+            stream, name = _stream_from_provider(provider, messages)
+
+            # Wrap stream to catch errors DURING streaming (not just on creation)
+            def resilient_stream(original_stream, pname, remaining_providers, msgs):
+                try:
+                    first_chunk = True
+                    for token in original_stream:
+                        first_chunk = False
+                        yield token
+                except Exception as stream_err:
+                    logger.warning(f"{pname} failed during streaming: {stream_err}")
+                    # If we failed during streaming and have remaining providers, try them
+                    if first_chunk and remaining_providers:
+                        for fallback in remaining_providers:
+                            try:
+                                logger.info(f"Falling back to: {fallback['name']}")
+                                fb_stream, _ = _stream_from_provider(fallback, msgs)
+                                yield f"\n\n"  # Clean separator
+                                for fb_token in fb_stream:
+                                    yield fb_token
+                                return
+                            except Exception:
+                                continue
+                    # If we already yielded tokens, just show error
+                    if not first_chunk:
+                        yield f"\n\n*(Response may be incomplete due to a provider issue. Please try again.)*"
+
+            # Get remaining providers for in-stream fallback
+            provider_idx = providers.index(provider)
+            remaining = providers[provider_idx + 1:]
+
+            wrapped_stream = resilient_stream(stream, name, remaining, messages)
+            break
+
+        except Exception as e:
+            last_error = e
+            logger.warning(f"{provider['name']} failed: {e}")
+            continue
+    else:
+        # All providers failed
+        def error_stream():
+            yield f"All AI providers are currently busy. Please try again in a moment. (Last error: {last_error})"
+        wrapped_stream = error_stream()
+        name = "None"
 
     # Extract sources
     sources = []
@@ -258,4 +380,4 @@ def stream_answer(query: str, history: list[dict] | None = None):
                 "url": ctx["source_url"],
             })
 
-    return text_stream(), sources
+    return wrapped_stream, sources, name

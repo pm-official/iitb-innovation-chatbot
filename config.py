@@ -17,9 +17,22 @@ MIN_CHUNK_SIZE = 100
 # Retrieval
 TOP_K = 15
 
-# Groq LLM
+# ── LLM Provider Configuration (Multi-Provider Fallback) ──
+# Priority: Groq (fastest) → Gemini (highest token limits) → Cerebras (fast + generous)
+
+# Provider 1: Groq (Primary — fastest inference ~1-3s)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = "llama-3.3-70b-versatile"
+
+# Provider 2: Google Gemini (Fallback — highest free-tier token limits)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
+
+# Provider 3: Cerebras (Fallback — fast wafer-scale inference)
+CEREBRAS_API_KEY = os.getenv("CEREBRAS_API_KEY", "")
+CEREBRAS_MODEL = "llama-3.3-70b"
+CEREBRAS_BASE_URL = "https://api.cerebras.ai/v1"
 
 # ChromaDB collection name
 COLLECTION_NAME = "iic_knowledge_base"
