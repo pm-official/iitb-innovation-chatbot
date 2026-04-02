@@ -22,6 +22,7 @@ TOP_K = 15
 
 # Provider 1: Groq (Primary — fastest inference ~1-3s)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_API_KEY_2 = os.getenv("GROQ_API_KEY_2", "")
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # Provider 2: Google Gemini (Fallback — highest free-tier token limits)

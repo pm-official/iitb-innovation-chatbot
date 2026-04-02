@@ -9,7 +9,7 @@ import streamlit as st
 
 from config import (
     CHROMA_DIR, COLLECTION_NAME, TOP_K,
-    GROQ_API_KEY, GROQ_MODEL,
+    GROQ_API_KEY, GROQ_API_KEY_2, GROQ_MODEL,
     GEMINI_API_KEY, GEMINI_MODEL, GEMINI_BASE_URL,
     CEREBRAS_API_KEY, CEREBRAS_MODEL, CEREBRAS_BASE_URL,
 )
@@ -265,7 +265,7 @@ def load_collection():
 
 def _get_providers():
     """Build ordered list of available LLM providers for fallback chain.
-    Priority: Groq (fastest) → Gemini (highest token limits) → Cerebras (fast + generous).
+    Priority: Groq Key 1 → Groq Key 2 → Gemini → Cerebras.
     Only providers with valid API keys are included.
     """
     providers = []
@@ -275,6 +275,14 @@ def _get_providers():
             "name": "Groq",
             "type": "groq",
             "client": Groq(api_key=GROQ_API_KEY),
+            "model": GROQ_MODEL,
+        })
+
+    if GROQ_API_KEY_2:
+        providers.append({
+            "name": "Groq-2",
+            "type": "groq",
+            "client": Groq(api_key=GROQ_API_KEY_2),
             "model": GROQ_MODEL,
         })
 
